@@ -1,0 +1,313 @@
+<法規>
+<法規性質>命令</法規性質>
+<英文法規名稱>Amendment to Noise Control Standards</英文法規名稱>
+<中文法規名稱>噪音管制標準</中文法規名稱>
+<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=O0030006</法規網址>
+<最新英文異動日期>20130805</最新英文異動日期>
+<廢止註記>
+</廢止註記>
+<附件>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002219</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002220</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002221</下載網址>
+</附件>
+<沿革內容><![CDATA[1.Original six articles promulgated by EPA Order Huan-Shu-Kong-Tzu No. 016755 on June 29, 1992.
+2.Revisions to Article 6 and Article 7 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 49488 on September 11, 1996.
+3.Revisions to Article 3 and Article 7 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0940007620 on January 31, 2005.
+4.Revisions promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0950087606 on November 8, 2006.
+5.Revisions to Articles 2 and 4, and amended Article 6-1 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0970013826 on February 25, 2008.
+6.Full text in 11 articles revised and promulgated in Environmental Protection Administration, Executive Yuan Order Huan-Shu-Kung-Tzu No. 0980078173 on September 4, 2009.
+7.Full text in 11 articles revised and promulgated in Environmental Protection Administration, Executive Yuan Order Huan-Shu-Kung-Tzu No. 1020065143 on August 5, 2013.]]></沿革內容>
+<法規內容>
+  <條文>
+    <條號>Article 1</條號>
+    <條文內容><![CDATA[These Standards are determined pursuant to Article 9, Paragraph 2 of the Noise Control Act.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 2</條號>
+    <條文內容><![CDATA[The terms used in these Standards are defined as follows:
+I.      Control zone: Refers to Class 1-4 noise control zones as specified in the Noise Control Zone Delineation Operating Standards.
+II.     Noise level: Use of decibels adjusted (dB (A)) means the A-weighted value of the noise level.
+III.    Background noise level: Refers to the noise level apart from the noise source to be measured.
+IV.     Peripheral boundary: Refers to the boundary lines managed or used by premises or facilities. When a premise or facility is isolated by an obvious surrounding wall, the wall shall serve as the boundary; when there is no physical separation, the property scope or scope within which the members of the public do not commonly enter shall be the boundary.
+V.      Time Periods
+A.      Daytime: Refers to from 7:00 a.m. to 7:00 p.m. in all control zones regardless of the Class.
+B.      Evening: Refers to from 7:00 p.m. to 10:00 p.m. in Class 1 and 2 control zones, and from 7:00 p.m. to 11:00 p.m. in Class 3 and 4 control zones.
+C.      Nighttime: Refers to from 10:00 p.m. to 7:00 a.m. on the following day in Class 1 and 2 control zones, and from 11:00 p.m. to 7:00 a.m. on the following day in Class 3 and 4 control zones.
+VI.     Equivalent noise level: Refers to the average energy value of the measured noise level during a specific time period. Equivalent noise level of from 20 Hz up to 20 kHz is expressed as Leq, and from 20 Hz up to 200 Hz is expressed as Leq,LF; the following calculation formula is used:
+A.
+                          ╭    ╮2
+                    1   T │Ｐt │
+      Leq ＝ 10 log ─∫  │──│ dt
+                    T   0 │Ｐ0 │
+                          ╰    ╯
+A.       : Measurement time, expressed in seconds.
+B.       : Measured sound pressure, in units of Pascals (?) .
+C.       : Baseline sound pressure of 20μPa。
+B.
+                          200 Hz       0.1×Leq，n
+      Leq ，LF＝ 10 ×log  Σ       10
+                          n =20 Hz
+
+A.      Leq,n: 1/3 octave band filters are used to measure the equivalent noise level of each 1/3 octave band.
+B.      n: Center frequency of the 1/3 octave band from 20 Hz up to 200 Hz.
+VII.    Maximum noise level (Lmax): The maximum noise level value measured during the measurement period.
+VIII.   The combined noise level: Means the noise level of a measured location in which the noise level is created and by two or more facilities.
+IX.     Periodical Variation: Means the cycle of producing noise is roughly the same.
+X.      Intermittent Variation: Means the cycle of producing noise is irregular.
+XI.     Percentage Noise level (Lx): Shows that the time scale percentage x% during the measurement period, where its noise is bigger or equals to that level.
+XII.    Factory plants or sites: Refers to locations that manufacture, process or repair products by using manpower or machines.
+XIII.   Entertainment and business premises: Refers to commercial, leisure, food and drink or consumption locations with business activities.
+XIV.    Construction projects: Refers to the activities performed above or underneath the ground for building, augmenting, altering, repairing, or dismantling structures and their respective auxiliary equipment/facilities, or reforming natural environment.
+XV.     Public address facilities: Refers to devices that receive sound (with functions of attaching external microphone and sound receiver) and equipments or facilities that amplify the noise level.
+XVI.    Overall Noise Level: Refers to the sum of the noise level of the noise source being measured and the background noise level.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 3</條號>
+    <條文內容><![CDATA[Noise level measurements must comply with the following regulations:
+I.      Measurement Instruments:
+Measurement of noise from 20 Hz up to 20 kHz shall be conducted with type I of sound level meter complying with CNS specifications or IEC 61672-1 Class 1; measurement of noise from 20 Hz up to 200 Hz shall be conducted with any type of sound meter complying with CNS specifications; the said meter shall also comply with the IEC 61260 Class 1 standard.
+II.     Measurement Height:
+A.      When the measurement location is outdoors, the sound sensor should be from 1.2 m to 1.5 m above the ground or an extension of the floor slab of the floor on which measurements are performed.
+B.      When the measurement location is indoors, the sound sensor should be from 1.2 m to 1.5 m above the ground or floor slab.
+III.    Dynamic Response:
+In general, a noise meter with fast dynamic response should be used. However, a noise meter with slow dynamic response may be employed when the noise from a noise source has little variation, such as the noise from a motor.
+IV.     Correction of the Background Noise Level
+A.      The background noise level in a premise where measurements are being performed should differ from the noise level of the noise source being measured by at least 10 dB(A). If the difference is less than 10 dB(A), the noise level of the noise source being measured shall be corrected with below formula or based on attached table.
+B.      Correction formula of the background noise level of noise source being measured:
+
+                   0.1L1    0.1L2
+      L＝10 log（10     －10      ）
+
+L: Refers to the noise level of the noise source being measured.
+L1: Refers to the overall noise level.
+L2: Refers to the measured value of background noise level.
+C.      The statutory responsible persons or on-site personnel at premises and facilities must cooperate with the measurement of the background noise level, and their influence on the background noise level should be corrected for. When background noise level measurements are performed, and the statutory responsible person or on-site personnel cannot cooperate, then there is no need to correct for the background noise level, and the situation should be noted.
+D.      When it is desired to measure the overall noise level of a premise, but the difference from the background noise level is less than 3dB(A), the measurement should be discontinued, and either another suitable measurement location found or the noise from other sources eliminated or reduced before measurements are performed.
+E.      When a premise to be measured is a factory (facility) with equipment operating 24 hours a day, and the equipment cannot be stopped to accommodate measurement of background noise level at any time apart from annual maintenance, an annual maintenance background noise level monitoring plan may be submitted to the special municipality, county, or city competent authority; after the special municipality, county, or city competent authority has granted its approval, measurement of the noise level at a location outside the premise's peripheral boundary approved by the special municipality, county, or city competent authority should be performed for a continuous period of from 24 hours to 72 hours during annual maintenance. The results should be reported to the special municipality, county, or city competent authority for approval, and shall provide a basis for correction for the background noise level when measurements of noise within a frequency range of from 20 Hz up to 20 kHz are performed at any place outside the peripheral boundary of the factory (facility) within two years of the date of approval.
+V.      Testing time period:
+Perform measurements at times when the emission of noise is most representative or that have been designated by the complainant.
+VI.     Testing Location:
+A.      When measuring noise in a frequency range of from 20 Hz up to 20 kHz at sources of factory plants or sites, entertainment premises, business premises, construction projects or other premises or facilities (excluding the wind power generation units) announced by the competent authority, measurement shall be taken at locations designated by a complainant as his or her living place. In case the complainant does not designate his or her living place for the measurement, the measurements shall be performed at any place specified by the competent authority outside the peripheral boundary of a factory plants or sites, entertainment premises, business premises, construction projects or premises, or facilities (excluding the wind power generation units) announced by the competent authority; measurements shall be taken at points at least one meter from the wall of the nearest building.
+B.      When measuring noise in a frequency range of from 20 Hz up to 20 kHz at sources of wind power generation units, measurement shall be taken at locations designated by a complainant as his or her living place.
+Measurements shall be taken at points at least one meter from the wall of the nearest building; indoor doors and windows shall be kept shut during the re-examination measurement of overall noise level, and be opened in other conditions; other noise sources that will influence measurement results shall be turned off during the measurement.
+C.      When measuring noise in a frequency range of from 20 Hz up to 200 Hz at sources of factory plants or sites, entertainment premises, business premises, construction projects or other premises or facilities, measurement shall be taken at locations designated by a complainant as his or her living place.
+Measurements shall be taken at points at least one meter from the wall of the nearest building. However, this restriction shall not apply if it is desired to perform measurements with no obstructions between the noise source and sound sensor. Indoor doors and windows shall be kept shut; other noise sources that will influence measurement results shall be turned off during measurement.
+D.      When measuring noise at a public address facility, if the noise source at the public address facility has a horizontal projection distance of three meters or more, the measurements should be performed at a location designated by the competent authority. If a mobile public address facility is moving at the time, the measurements should be performed at a location designated by the competent authority and no less than three meters from the mobile noise source at its closest approach.
+VII.    Weather Conditions
+Measurements shall be taken in days without raining and the wind speed shall not be greater than 5 meters per second. However, this restriction shall not apply to measurements taken indoors.
+VIII.   Operating Conditions of the Noise Generating Source:
+A.      During the measurement, the statutory responsible persons or on-site personnel at premises or facilities shall provide information on the operating status of the noise generating source for competent authority to examine and record.
+B.      In case the operating status of noise generating source at premises and facilities that must make improvement within a time limit is different from the initial test, it is a must to request the parties to adjust it to the same condition as they had during the initial test before implementing the re-examination. However, this restriction shall not apply to operators, who consider the changes of operating conditions of the noise generating source as the improvement measure and who promise to follow them in the future.
+IX.     Evaluation Methods
+A.      Sources of factory plants or sites, entertainment premises, business premises or other premises or facilities (excluding the wind power generation units) announced by the competent authority shall calculate the maximum noise level (Lmax) or equivalent noise level (Leq or Leq,LF) on the basis of the following noise source emission characteristics and the results shall not exceed the values in the noise control standard table:
+1.      If the noises caused by periodical or intermittent variation has a 10 dB(A) difference above the background noise level and has shown the maximum noise level no more than 5 dB(A), it is a must to calculate the averaged maximum noise level (Lmax), which are consecutively measured ten times. Diagram 1 has shown the noise with periodical variation, where its cycle of producing sound is fixed; as for Diagram 2, it has shown the noise with intermittent and regular variation, where its maximum noise level is mostly fixed. Therefore, one shall measure its maximum noise level totally ten times and calculate the averaged noise level.
+2.      If the noises caused by periodical or intermittent variation has a 10 dB(A) difference above the background noise level and has shown the maximum noise level no more than 5 dB(A), one shall measure at least 20 maximum noise levels (Lmax) to calculate the percentile noise level L5.
+3.      Noises with non periodical and intermittent variations are expressed using equivalent noise level. Continuous measurement sampling time must be at least two minutes, and sampling intervals may not be greater than two seconds. For instance, in Diagram 3, when the noise meter's reading is constant, or the needle only changes by 1-2dB(A), the results are expressed using equivalent noise level. In Diagram 4, when the sound volume and interval of occurrence are irregular, the results are also expressed using equivalent noise level.
+
+B.      Regarding noise generating source at construction projects or other sites announced by the competent authority, the continuous measurement sampling time must be at least two minutes, and sampling intervals may not be greater than two seconds. Besides, the results of maximum noise level (Lmax) and equivalent noise level (Leq and Leq,LF) during the measurement time shall not exceed the noise control standard value.
+C.      With regard to assessment methods for noise from public address facilities, the maximum noise level (Lmax)  or equivalent noise level (Leq) shall be calculated on the basis of the following noise source emission characteristics, and the results shall not exceed the noise control standard value:
+1.      In the case of mobile public address facilities, the maximum value (Lmax) at the time the facility passes shall determine noise level.
+2.      In the case of stationary or currently stopped public address facilities, the noise level shall be expressed as equivalent noise level (Leq). Continuous measurement sampling time must be at least two minutes, and sampling intervals may not be greater than two seconds.
+D.      With regard to evaluation method for noise from wind power generation units, the results shall be expressed in equivalent noise level (Leq). Continuous measurement sampling time must be at least two minutes, and sampling intervals may not be greater than two seconds.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 4</條號>
+    <條文內容><![CDATA[Noise control standards for factory plants or sites as follows:
+
+┌───────────┬───────────────┬───────────────┐
+│    Work＼Frequency 　│20 Hz up to 200 Hz            │20 Hz up to 20 kHz            │
+│          ＼          ├────┬────┬─────┼────┬────┬─────┤
+│  ＼   Shift＼        │Day time│Evening │Night time│Day time│Evening │Night time│
+│     ＼       ＼      │        │        │          │        │        │          │
+│ Sound  ＼      ＼    │        │        │          │        │        │          │
+│＼  Level ＼          │        │        │          │        │        │          │
+│  ＼                  │        │        │          │        │        │          │
+│    ＼                │        │        │          │        │        │          │
+│Control Zones         │        │        │          │        │        │          │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 1               │39      │39      │36        │50      │45      │40        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 2               │39      │39      │36        │57      │52      │47        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 3               │44      │44      │41        │67      │57      │52        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 4               │47      │47      │44        │80      │70      │65        │
+└───────────┴────┴────┴─────┴────┴────┴─────┘
+
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 5</條號>
+    <條文內容><![CDATA[The following are noise control standard values for entertainment and business premises:
+
+┌───────────┬───────────────┬───────────────┐
+│    Work＼Frequency 　│20 Hz up to 200 Hz            │20 Hz up to 20 kHz            │
+│          ＼          ├────┬────┬─────┼────┬────┬─────┤
+│  ＼   Shift＼        │Day time│Evening │Night time│Day time│Evening │Night time│
+│     ＼       ＼      │        │        │          │        │        │          │
+│ Sound  ＼      ＼    │        │        │          │        │        │          │
+│＼  Level ＼          │        │        │          │        │        │          │
+│  ＼                  │        │        │          │        │        │          │
+│    ＼                │        │        │          │        │        │          │
+│Control Zones         │        │        │          │        │        │          │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 1               │32      │32      │27        │55      │50      │40        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 2               │37      │32      │27        │57      │52      │47        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 3               │37      │37      │32        │67      │57      │52        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 4               │40      │40      │35        │80      │70      │65        │
+└───────────┴────┴────┴─────┴────┴────┴─────┘
+
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 6</條號>
+    <條文內容><![CDATA[Noise control standards for construction projects as follows:
+
+┌───────────┬───────────────┬───────────────┐
+│    Work＼Frequency 　│20 Hz up to 200 Hz            │20 Hz up to 20 kHz            │
+│          ＼          │                              │                              │
+│  ＼   Shift＼        ├────┬────┬─────┼────┬────┬─────┤
+│     ＼       ＼      │Day time│Evening │Night time│Day time│Evening │Night time│
+│ Sound  ＼      ＼    │        │        │          │        │        │          │
+│＼  Level ＼          │        │        │          │        │        │          │
+│  ＼                  │        │        │          │        │        │          │
+│    ＼                │        │        │          │        │        │          │
+│Control Zones         │        │        │          │        │        │          │
+├──────┬────┼────┼────┼─────┼────┼────┼─────┤
+│Equivalent  │Class 1 │44      │44      │39        │67      │47      │47        │
+│Noise Level ├────┼────┼────┼─────┼────┼────┼─────┤
+│(Leq or     │Class 2 │44      │44      │39        │67      │57      │47        │
+│Leq,LF)     ├────┼────┼────┼─────┼────┼────┼─────┤
+│            │Class 3 │46      │46      │41        │72      │67      │62        │
+│            ├────┼────┼────┼─────┼────┼────┼─────┤
+│            │Class 4 │49      │49      │44        │80      │70      │65        │
+├──────┼────┼────┴────┴─────┼────┼────┼─────┤
+│Maximum     │Classes │                              │100     │80      │70        │
+│            │1 and 2 │                              │        │        │          │
+│Noise Level ├────┤            -                 ├────┼────┼─────┤
+│（Lmax）    │Classes │                              │100     │85      │75        │
+│            │3 and 4 │                              │        │        │          │
+└──────┴────┴───────────────┴────┴────┴─────┘
+
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 7</條號>
+    <條文內容><![CDATA[Noise control standards for amplifying public addressing facilities as follows:
+
+┌───────────┬────┬────┬─────┐
+│　 ＼ Sound ＼Work    │Day time│Evening │Night time│
+│     ＼ Level ＼Shift │        │        │          │
+│       ＼       ＼    │        │        │          │
+│         ＼       ＼  │        │        │          │
+│Control Zones         │        │        │          │
+├───────────┼────┼────┼─────┤
+│Class 1               │57      │47      │40        │
+├───────────┼────┼────┼─────┤
+│Class 2               │72      │57      │47        │
+├───────────┼────┼────┼─────┤
+│Class 3               │77      │62      │52        │
+├───────────┼────┼────┼─────┤
+│Class 4               │82      │72      │62        │
+└───────────┴────┴────┴─────┘
+
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 8</條號>
+    <條文內容><![CDATA[The following are noise control standard values for premises and facilities announced by the competent authority:
+I.      Premises and facilities, exclusive of the wind power generation units:
+
+┌───────────┬───────────────┬───────────────┐
+│    Work＼Frequency 　│20 Hz up to 200 Hz            │20 Hz up to 20 kHz            │
+│          ＼          ├────┬────┬─────┼────┬────┬─────┤
+│  ＼   Shift＼        │Day time│Evening │Night time│Day time│Evening │Night time│
+│     ＼       ＼      │        │        │          │        │        │          │
+│ Sound  ＼      ＼    │        │        │          │        │        │          │
+│＼  Level ＼          │        │        │          │        │        │          │
+│  ＼                  │        │        │          │        │        │          │
+│    ＼                │        │        │          │        │        │          │
+│Control Zones         │        │        │          │        │        │          │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 1               │32      │32      │27        │55      │50      │35        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 2               │37      │32      │27        │57      │52      │42        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 3               │37      │37      │32        │67      │57      │47        │
+├───────────┼────┼────┼─────┼────┼────┼─────┤
+│Class 4               │40      │40      │35        │80      │70      │60        │
+└───────────┴────┴────┴─────┴────┴────┴─────┘
+
+II.     Wind power generation units:
+A.      The values of noise control standard for 20Hz to 200Hz are shown as below:
+
+┌───────────┬───────────────┐
+│    Work＼Frequency 　│20Hz up to 200Hz              │
+│          ＼          ├────┬────┬─────┤
+│  ＼   Shift＼        │Day time│Evening │Night time│
+│     ＼       ＼      │        │        │          │
+│ Sound  ＼      ＼    │        │        │          │
+│＼  Level ＼          │        │        │          │
+│  ＼                  │        │        │          │
+│    ＼                │        │        │          │
+│Control Zones         │        │        │          │
+├───────────┼────┼────┼─────┤
+│Class 1               │39      │39      │36        │
+├───────────┼────┼────┼─────┤
+│Class 2               │39      │39      │36        │
+├───────────┼────┼────┼─────┤
+│Class 3               │44      │44      │41        │
+├───────────┼────┼────┼─────┤
+│Class 4               │47      │47      │44        │
+└───────────┴────┴────┴─────┘
+
+B.      The values of noise control standard for 20Hz to 20 kHz are shown as below:
+1.      When the overall noise level exceeds 50dB(A) in day time or evening, or 40dB(A) in night time, it is a must to take the noise rise control mechanism, where the increased noise of the power generator shall not exceed 5dB(A).
+2.      Regarding the wind power generation units that must make improvement within a time limit, if a full-frequency noise is measured during the re-examination while the indoor doors and windows kept shut, and if it does not exceed the noise level when the doors and windows are opened, it can be considered as a completion of the improvement work.
+3.      The improvement methods, including improvement of the noise generating source, barriers of the transmission path and improvement of receivers, shall all be adopted based on actual needs.
+Regarding other projects announced by the competent authority, the values of noise control standards shall be complied with regulations stated in Article 6.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 9</條號>
+    <條文內容><![CDATA[When the combined noise level created by facilities not belonging to one person, juridical person or non-juridical person that exceed the values for noise control standards of the foregoing articles, all such facilities shall equally comply with the values for post-correction noise control standards in the following table:
+
+┌──────────────┬──────────────┐
+│Value of sound source not   │Corrected value for noise   │
+│belonging to one person,    │control standards with which│
+│juridical person, or        │all facilities shall comply │
+│non-juridical person.       │                            │
+├──────────────┼──────────────┤
+│            2               │            -3              │
+├──────────────┼──────────────┤
+│            3               │            -4              │
+├──────────────┼──────────────┤
+│            4               │            -6              │
+├──────────────┼──────────────┤
+│            5               │            -7              │
+├──────────────┼──────────────┤
+│          Above 6           │            -8              │
+└──────────────┴──────────────┘
+
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 10</條號>
+    <條文內容><![CDATA[Special municipality, county, and city competent authorities shall announce specific noise control zones on the basis of the noise control zone types in the Noise Control Zone Delineation Operating Standards; the noise control standard values in such noise control zones shall be 5 dB(A) lower than the noise control standard values prescribed Articles 4 through 8.
+When a measurement location has two or more noise control zone boundaries, the noise level may not exceed the noise control standard value for any internal area.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 11</條號>
+    <條文內容><![CDATA[Apart from Article 4 that takes effect a year after the promulgation, and Article 5 to 8 that take effect 6 months after the promulgation, other standards shall take effect from the date of promulgation.
+]]></條文內容>
+  </條文>
+</法規內容>
+</法規>

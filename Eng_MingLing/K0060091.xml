@@ -1,0 +1,807 @@
+<法規>
+<法規性質>命令</法規性質>
+<英文法規名稱>Regulations for Administration of Mobile Broadband Businesses</英文法規名稱>
+<中文法規名稱>行動寬頻業務管理規則</中文法規名稱>
+<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0060091</法規網址>
+<最新英文異動日期>20150716</最新英文異動日期>
+<廢止註記>
+</廢止註記>
+<附件>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002795</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002796</下載網址>
+</附件>
+<沿革內容><![CDATA[1. 89 Articles promulgated in full by National Communications Commission（NCC）on May 8,2013. Ref：Tung-Chuan-Fa-Wu Tze No.10246010700
+2. The amendment of Article 2,6,7,9,10,12,15,18 to 23,29,31,34,36,40,42 to 45, 49,51,52,63,80 to 85 ,the addition of Article 26-1, 57-1, and the deletion of Article 28 promulgated by NCC on Jul 16, 2015. Ref: Tung-Chuan-Zong-Guei Tze No. 10440019570]]></沿革內容>
+<法規內容>
+  <編章節>   Chapter I General provisions</編章節>
+  <條文>
+    <條號>Article 1</條號>
+    <條文內容><![CDATA[These rules have been formulated in accordance with stipulations set forth under Paragraph 6, Article 14 of the Telecommunications Act (hereinafter referred to as the Law).
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 2</條號>
+    <條文內容><![CDATA[The terms of these Regulations are defined as follows:
+I. “Mobile broadband system” refers to an operator utilizing the assigned frequency under Article 7 and adopting mobile communications technology protocols of the International Telecommunication Union to offer mobile communications’ mobile stations, transmission stations, high-speed transmission stations, exchange equipment, transmitter line equipment, networking management equipment, and account management equipment that constitute the communications system.
+II. “Mobile broadband operation (hereinafter referred to as the Operation)” refers to an operator that has an established mobile broadband system to offer broadband mobile communications service operation.
+III. “Mobile station” refers to the wireless terminal equipment mobile communications adopt.
+IV. “Transmission station” refers to equipment installed on land that constitutes a wireless communications network for communication between mobile stations and that between mobile stations and other users.
+V. “High-speed transmission station” refers to a transmission station equipment that adopts Frequency-Division Duplexing (FDD) and specified at the criterion of 15 MHz bandwidth for both uploads and downloads, and with download speeds capable of reaching 100Mpbs or higher; or equipment that adopts Time Division Duplexing (TDD) and specified at the criterion of 20 MHz bandwidth and with download speeds capable of reaching 100Mpbs or higher.
+VI. “Operator” refers to a mobile broadband service operator that has obtained a concession license in accordance with the rules.
+VII. “User” refers to a user who has registered with the operator or signed a contract with the operator to access the mobile broadband service the operator offers.
+VIII. “Emergency telephone” refers to the telephone system reserved for reporting fire, theft and other emergencies.
+IX. “Audiovisual content transmission platform” refers to a mobile broadband system’s audiovisual medium interactive interface and audiovisual content storage equipment contained in the operator’s controllable and non-open environment as an interactive platform for the user to derive content.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 3</條號>
+    <條文內容><![CDATA[The competent authority of these rules pertains to the National Communications Commission.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 4</條號>
+    <條文內容><![CDATA[An operator planning to run operations shall obtain a concession license from the competent authority, and may only begin operations upon being issued the concession license.
+The competent authority shall announce the commencing and concluding time period of accepting applications to run operations.
+The bottom price for the operation’s operating frequency concession license shall be announced by the competent authority.
+The operating region shall pertain to nationwide.
+The minimum paid-in capital for operators applying to run operations shall be six billion New Taiwan dollars (NT$6 billion).
+The applicant, when also operating another type-1 telecommunication enterprise business, and said business also has a mandated minimum paid-in capital, shall have its minimum paid-in capital calculated based on the total sum of the mandated minimum paid-in capital for said service following the approval of its inception.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 5</條號>
+    <條文內容><![CDATA[An operator with shareholders numbering two hundred individuals or more shall petition with competent government securities authorities for an initial public offering within a three-month period following the registration of its inception or registration of the issuance of new shares.
+An operator that intends to reduce its capital as voted at its shareholders’ meeting or seeks to engage in conduct specified under Paragraph 1, Article 185 of the Company Act shall voluntarily file the matter with the competent authority within a twenty day-period from the following day the proposal has been voted in favor at its shareholders’ meeting.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 6</條號>
+    <條文內容><![CDATA[Applications for a concession service shall be processed with the following two-stage procedure:
+I. Stage one: a review is made of the applicant’s application, enterprise plan formulation and other qualifications and conditions.
+II. Stage two: An application that meets the condition of the stage one review satisfactorily shall become an eligible bidder (hereinafter referred to as the bidder), that may participate in the bidding as stipulated; a nominated bidder shall, in accordance with Article 36, upon remitting the bid award royalties in one lump sum, or upon remitting the initial payment of the bid award royalties and post guarantee for the remainder bid award royalties and interest, apply for concession license.
+The rule shall apply to the condition that any deviation from the content of the enterprise plan formulation a bidder submits, or the enterprise plan that a nominated bidder or operator submits, according to the stipulations of the rules.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 7</條號>
+    <條文內容><![CDATA[The frequency segments and frequency for the previous released operating concession license shall be as follows:
+I. Available from 2013:
+(I) The 700MHz frequency segment: Uplink 703~748MHz; downlink 758 MHz ～803MHz.
+(II) The 900MHz frequency segment: Uplink 1710MHz ～1770MHz; downlink 930 MHz ～960MHz.
+(III) The 1800 MHz frequency segment: Uplink 885MHz～915MHz; downlink 1805MHz ～1865MHz.
+II. Available from 2015:
+(I) 2500MHz and 2600MHz paired frequency segment：2500MHz～ 2570MHz and 2620MHz ～2690MHz。
+(II) 2500MHz and 2600MHz unpaired frequency segment：2570MHz～2620MHz。
+The foresaid frequency segments and frequency bandwidth for each time the operating concession licenses are located in Appendix 1.
+]]></條文內容>
+  </條文>
+  <編章節>   Chapter II Operation concession</編章節>
+  <編章節>      Section 1 Application and review</編章節>
+  <條文>
+    <條號>Article 8</條號>
+    <條文內容><![CDATA[Those applying to run operations shall be limited to those that have been established as an incorporated entity with limited liability in accordance with the Company Act, and whose chairman holds valid ROC nationality; the total shareholdings held by foreign nationals shall also conform to stipulations set forth under Paragraph 3 or Paragraph 5 of Article 12 of the legislation.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 9</條號>
+    <條文內容><![CDATA[The same applicant shall submit no more than one application.
+Different applicants that fall under one of the following circumstances shall be deemed as the same applicant:
+I. An applicant holds shares of another applicant with voting right, or whose capital contribution amount exceeds the other applicant’s total share count with voting right or over half the sum or higher of the capital.
+II. Applicants share over half the number of the same directors.
+III. Applicants’ total shares issued with voting right or half the sum or more of the capital is held or contributed by the same shareholders.
+IV. The different applicants concurrently act as a third party’s subsidiary company.
+V. The different applicants’ holding companies are related in a controlling subsidiary relation.
+IV. The different applicants shall apply for merger approval from the commission per subparagraph III of Paragraph 1, Article 15 of the rules.
+The controlling subsidiary relation referred to in the preceding subparagraph IV and V pertains to the relations between different applicants of each subparagraph stipulated under the preceding requirements I, II, or III.
+The method for calculating the shareholding right as described in Paragraph II shall be implemented as stipulated under Article 369~11 of the Company Act
+When a shareholder of the applicant concurrently holds shares of another applicant, except where one of the applicant’s shareholder’s shareholding by percentage is free from any restrictions, the remaining shareholdings of the applicant may not exceed fifteen percent.
+The stipulations of the preceding Paragraph 1 and 5 shall also apply after the applicant has been awarded with the bid but before implementing the following items:
+I. The nominated bidder has obtained a concession license.
+II. The nominated bidder has obtained a system technology satisfactory validation certificate of any frequency, available from 2015, in accordance with Paragraph 1, Article 47.
+III. The nominated bidder has conformed to the stipulations of high-speed transmission station development, set forth under subparagraph I and II of Paragraph 1, Article 66.
+The nominated bidder that applies for a concession license per subparagraph I of Paragraph 1, Article 7 shall not apply to preceding requirements III.
+The same applicant specified under Paragraph 1, 2, 5 and 6 refers to applicants of the Operation that fall under one of conditions in Paragraph 2 in the same year.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 10</條號>
+    <條文內容><![CDATA[Different applicants that fall under one of the following circumstances shall be deemed as co-applicants:
+I. An applicant that holds shares reaching fifteen percent or more of another applicant’s total capital.
+II. The same shareholder group holds shares reaching one-third or more of the total capital of each of the applicants.
+The method for calculating the foresaid shareholding right shall be implemented per stipulations set forth under Article 369~11 of the Company Act.
+The co-applicants shall negotiate, within the specified period of the competent authority, to agree to one of the applicants acting as the qualified applicant; when unable to agree, a qualified applicant is to be determined by random drawing at the time and place determined by the competent authority.
+In the event where the applicant derived from the negotiation or random draw should be rendered as a disqualified applicant, or when an applicant should fail to participate in the random draw, it shall be deemed that the applicant has withdrawn said application; the review fee and the interest accrued will not be reimbursed; the tender bond shall be reimbursed without interest.
+The stipulation of Paragraph 1 shall also apply in the case of after the applicant has been awarded with the bid but before implementing the following items:
+I. The nominated bidder has obtained a concession license.
+II. The nominated bidder has obtained a system technology satisfactory validation certificate of any frequency, available from 2015, in accordance with Paragraph 1, Article 47.
+III. The nominated bidder has conformed to the stipulations of high-speed transmission station development, set forth under subparagraph I and II of Paragraph 1, Article 66.
+The nominated bidder that applies for a concession license per subparagraph I of Paragraph 1, Article 7 shall not apply to preceding requirements III.
+Co-applicants specified under Paragraph 1, 3 and 5 refer to applicants of the Operation that fall under one of conditions in Paragraph 2 in the same year.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 11</條號>
+    <條文內容><![CDATA[The applicant may, according to the frequency status defined under Article 7, conduct takeover surveys on its own, and of any doubt to the survey finding, the applicant may file for clarification with the competent authority within the request acceptance cutoff date specified under Paragraph 2 of Article 4.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 12</條號>
+    <條文內容><![CDATA[Those applying to run operations shall submit the following documents within the announced period of application file for an application with the competent authority:
+I. The application form.
+II. The enterprise-plan formulation.
+III. Photocopy of the remitter’s tender bond remittance slip.
+IV. Photocopy of the remitter’s review fee remittance slip.
+The foresaid enterprise plan formulation shall disclose the following:
+I. An introduction of its telecommunications equipment:
+(I) The type and characteristics of the mobile broadband technology adopted, including the name of the technology, the maximum mobile speed supported, median band spectrum utilization efficiency, the maximum download speed achievable under the conditions of frequency bandwidth of 15MHz each for upload and download by adopting FDD mode and frequency bandwidth of 20MHz by adopting TDD mode.
+(II) The system framework, communication mode, and service type.
+II. Financial structure: The anticipated total capital and total paid-in capital at the time it secures the bid and completes the company modification registration, anticipated source of capital in the next five years, and capital utilization plan.
+III. Technology capability and development plan.
+IV. Personnel organization and shareholding status: Photocopy of the company’s proof of registration documents, directors and auditors list, managers list, list of shareholders holding one percent or more of the shareholdings, table of calculation on shareholdings in percentage held by foreign nationals and subsidiary relations report, the holding company’s combined financial statements.
+V. An abstract of the enterprise plan formulation, of information that can be cited and disclosed by the commission.
+The mandated entry matters and method of the documents specified under the preceding Paragraphs are to be determined and announced by the competent authority.
+To verify that applicants are the same applicant as stipulated in Article 9 or co-applicants under Article 10, the competent authority may, where deemed necessary, require the applicant or operators to retroactively submit relevant information within a prescribed deadline.
+When an applicant files the application as stipulated under Paragraph 1, the submitted documents will not be returned.
+The amount of the tender bond shall be one billion New Taiwan dollars, and the review fee shall be one million New Taiwan dollars. Unless otherwise stipulated by the rules, after posting the tender bond and the review fee, an applicant may not request the tender bond or review fee to be reimbursed before the result of the competitive bidding is announced.
+The tender bond and the review fee shall be remitted respectively to an account specified by the competent authority by means of interbank fund transfer; the remittance shall state the applicant’s company name, address and contact telephone number.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 13</條號>
+    <條文內容><![CDATA[An application that falls under one of the following circumstances shall be prohibited from submitting retroactive correction, and shall be declined; its tender bond and the review fee shall be reimbursed without interest within a seven-day period from the following date the application acceptance decline ruling is delivered:
+I. A bidder fails to submit the application, exceeding the application acceptance deadline.
+II. A bidder fails to include the application form or the enterprise plan formulation.
+III. A bidder fails to post the tender bond, submit the review fee as regulated, or should post an insufficient amount.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 14</條號>
+    <條文內容><![CDATA[An application that falls under one of the following circumstances shall be prohibited from submitting retroactive correction, and shall be declined; its tender bond, the review and interest accrued fee shall be withheld, or subject to retroactive recall if a reimbursement has been previously made:
+I. A bidder breaches stipulations set forth Under Paragraph I, or V of Article 9.
+II. A bidder’s application contains an untrue statement or false entry on relevant matters specified under Article 8 to Article 10.
+III. A bidder should forge or alter its application documents.
+IV. A bidder engages in bid rigging, or resorts to any conduct that suffices to impair the fairness and unbiased competitive bidding.
+In the instance where an applicant’s application is free of any of the matters stipulated in the preceding section but should fall under one of the following circumstances, the competent authority shall notify the bidder to adopt retroactive correction within a prescribed deadline, and when failing to adopt retroactive correction or the matter remains pending despite retroactive correction, the application is to be declined; the bidder’s tender bond is to be reimbursed without interest within a seven-day period from the following day the application acceptance decline ruling is delivered, while the review fee and the interest accrued shall not be reimbursed:
+I. A bidder breaches stipulations set forth under Article 8.
+II. A bidder’s anticipated paid-in capital as stated in its application or its enterprise-plan formulation fails to reach the operation’s minimum paid-in capital.
+III. A bidder’s documents as mandated under Paragraph I and II of Article 12 is found incomplete, or the content of entry should be deemed incomplete, or entries in its application or enterprise-plan formulation contain error or miscalculation.
+IV. A bidder’s technology type on the telecommunications equipment adopted should be deemed to deviate from the technology announced by International Telecommunication Union or does not include high-speed transmission station technology.
+In the event where an applicant should fail to retroactively supplant relevant data as stipulated under Paragraph IV, Article 12 within the prescribed deadline, the application shall be declined; its tender bond shall be reimbursed without interest within a seven-day period from the following day the application acceptance decline ruling is delivered, while the review fee and the interest accrued will not be reimbursed.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 15</條號>
+    <條文內容><![CDATA[In the instance where a bidder breaches any one of the stipulations set forth under all provisions of Paragraph 1, subparagraph 1 of Paragraph 2, Paragraph 3 and Paragraph 1 of Article 10, the bidder is to be revoked or abolished of the right to participate in the competitive bidding; when only being uncovered after the bid has been awarded and before the issuance of the concession license, the bidder is to be revoked or abolished or its bid award, and its bid award guarantee posted and the interest accrued shall be reimbursed without interest.
+Under the foresaid circumstance, the posted tender bond, the review fee and the interest accrued will not be reimbursed, and one that has been reimbursed shall be retroactively recuperated or have the sum deducted from the bidder’s bid award guarantee.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 16</條號>
+    <條文內容><![CDATA[When an applicant withdraws its application, the remitted tender bond and the review fee shall be processed as stipulated below:
+I. When a bidder withdraws its application prior to the application acceptance deadline announced by the competent authority, the tender bond and the review fee shall be reimbursed without interest within a seven-day period form the following day the application withdrawal confirmation is delivered.
+II. When a bidder withdraws its application before the competitive bidders list is announced, the tender bond shall be reimbursed without interest within a seven-day period from the following day the application withdrawal confirmation is delivered, while the review fee and the interest accrued shall not be reimbursed.
+III. When a bidder withdraws its application after the competitive bidders list is announced, the tender bond, the review fee and the interest accrued will not be reimbursed, and of any that has been previously reimbursed, shall be subject to retroactive recuperation.
+]]></條文內容>
+  </條文>
+  <編章節>      Section 2 Bid preparation</編章節>
+  <條文>
+    <條號>Article 17</條號>
+    <條文內容><![CDATA[Following the applicants undergoing the qualification review per stipulations set forth in the preceding section, the competent authority shall announce the list of competing bidders.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 18</條號>
+    <條文內容><![CDATA[The total frequency bandwidth awarded to bidders shall conform to the following stipulations:
+I. Available from 2013
+(I) When the number of competing bidders is five bidders or more, the upper threshold shall be 35MHz each for upload and download while the lower threshold shall be at 10MHz each for upload and download.
+(II) When the number of competing bidders is four bidders, the upper threshold shall be 40MHz each for upload and download while the lower threshold shall be 10MHz each for upload and download.
+(III) When the number of competing bidders is three bidders or less, the upper threshold shall be 45MHz each for upload and download while the lower threshold shall be 10MHz each for upload and download.
+(IV)The bandwidth awarded under various frequency segments shall also conform to the following stipulations:
+1. The upper threshold of the 700MHz frequency band shall be 20MHz each for upload and download.
+2. The upper threshold of the 900MHz frequency band shall be 10MHz each for upload and download.
+3. The upper threshold of the two foresaid frequency bands shall be 25MHz each for upload and download.
+4. The upper threshold of the 1800MHz frequency band shall be 30MHz each for upload and download.
+II. Available from 2015: Spectrum cap shall be 70MHz.
+The total amount of spectrum holding applied for by nominated bidders or operators shall not exceed 1/3 of the available amount of the mobile broadband operation frequency. Spectrum holding less than 1GHz shall not exceed 1/3 of total amount of mobile broadband operation frequency below 1GHz unless in the case when specific situations have occurred and have been approved by the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 19</條號>
+    <條文內容><![CDATA[The auctions shall be processed by competent authority.
+The competent authority may adopt a remote connection bidding system in order to facilitate the auction.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 20</條號>
+    <條文內容><![CDATA[The competent authority shall announce information pertaining to the date, seven days prior to the scheduled auction.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 21</條號>
+    <條文內容><![CDATA[The competent authority shall stage a presentation of the auction process for the applicants fourteen days prior to the scheduled auction.
+Each applicant shall assign three to six authorized representatives who are to present the power of attorney, relevant proof of documentation, and participate at the presentation of the auction process above, and also sign the affidavit.
+The foresaid affidavit shall acknowledge that the applicant’s authorized representatives indeed fully understand the auction process and are willing to abide by auction rules and relevant legal and regulatory stipulations.
+From the date when the applicant submits their application to the competent authority based on the requirement of section 12, within a seven-day period following announcement by the competent authority of the bidders list, the applicant shall deploy two dedicated lines according the specific mode assigned by the competent authority, by the way of connecting dedicated lines and the internet to the auction center, installing specified electronic quotation system software and undertaking connectivity tests.
+]]></條文內容>
+  </條文>
+  <編章節>      Section 3 Competitive bidding</編章節>
+  <條文>
+    <條號>Article 22</條號>
+    <條文內容><![CDATA[Bidding for the license shall be sought by adopting the simultaneous, multiple rounds, upward price bidding method.
+The bidding at auction shall by means of electronic quotation and the bidder shall connect to auction center by dedicated line; in the case when connection to the dedicated line is not made, the bidder may adopt internet connectivity to bid. In the case when both means of connection are unable to be made, the bidder may then only begin to adopt telephone fax method of bidding.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 23</條號>
+    <條文內容><![CDATA[The various bidders and their authorized representatives, following announcement by the competent authority of the bidders list and prior to conclusion of the auction, may not resort to any means to engage in any conduct with the other competitive bidders or the other competitive bidders’ authorized representatives on matters related to the competitive bidding that may suffice to impair the fairness of the auction process; in the case of any violation, the competent authority shall revoke the said bidder’s bidding qualification.
+In the event where the conduct of bidders’ authorized representatives should be at risk of impairing the fairness of the auction process, the competent authority shall order the bidder to undertake corrective measures within a prescribed deadline, and when failing to do so, the competent authority shall revoke the said bidder’s bidding qualification.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 24</條號>
+    <條文內容><![CDATA[The starting and ending time for each auction day shall be from 9:00AM to 5:00PM.
+The competent authority shall announce the starting and ending times of each round of the auction ten minutes before commencing each round. The foresaid timing shall heed to the timekeeping of the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 25</條號>
+    <條文內容><![CDATA[The bidder offering the highest bid at each round of the auction shall become the interim nominated bidder for said found of competitive bid, and its bid shall become the interim nominated bid price; the bottom price is deemed as the interim nominated bid before the first round of each competitive bid begins.
+The minimum price of each competitive bid’s quotation at each round is set to three percent of the interim nominated bid plus the interim awarded bid price, and the maximum price is set to seven percent of the interim nominated bid plus the interim nominated bid price.
+The competent authority shall announce the amounts of the minimum and maximum price caps for each bid ten minutes before each round of bidding is to commence.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 26</條號>
+    <條文內容><![CDATA[The competitive bidders shall submit bids in accordance with the following stipulations:
+I. A bidder may submit bids for various competitive bids, where the total frequency bandwidth of the previous round’s interim nominated bid and said round’s quotation bid conforms to the frequency bandwidth restriction Article 18.
+II. The interim nominated bidder, at the particular round of competitive bidding, may not submit a bid on its interim nominated bid price.
+III. Competing bids shall conform to the caps of the minimum amount and maximum amount stipulated in Paragraph 3 of the preceding Article.
+IV. The amount of the bid is to heed to the sum of five million New Taiwan dollars as a unit; the electronic quotation system adopts the means of itemized quotations for the bidder to choose from.
+A bid that does not conform to the foresaid stipulations shall be deemed as invalid.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 26-1</條號>
+    <條文內容><![CDATA[A bidder undertaking telephone fax bids, as specified under Section 22, shall state the quotation specified under the preceding section.
+In the case when the bid falls under one of the following circumstances, it shall be deemed as an invalid bid:
+I. No official stamp of company and signature by person in charge on the quotation.
+II. The bid price is not clear or cannot be distinguished.
+III. The bid price has been altered or two or more different bids have been submitted.
+IV. The bid fails to comply with Paragraph I, section 26.
+V. Other circumstances deemed as invalid bid by commission.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 27</條號>
+    <條文內容><![CDATA[Bidders shall submit bids within the time specified under Paragraph 2, Article 24; any bid submitted beyond the specified time will not be accepted by the competent authority.
+Bidders are limited to submitting one bid during each round of bidding; secondary or extra bids will not be accepted by the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 28</條號>
+    <條文內容><![CDATA[(deleted)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 29</條號>
+    <條文內容><![CDATA[In the event where two or more bidders submit identical bids on any of the given competitive bids, the interim nominated bidder shall be determined by a random draw of a computer.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 30</條號>
+    <條文內容><![CDATA[The competent authority, at the end of each round of bidding, shall notify each of the bidders with the following information:
+I. The bidder’s bid at the particular round, the timing of the bid, and the rendering of the validity.
+II. The bidder’s interim bid secured and interim bid securing price.
+III. The bidder’s cumulative interim rights forfeiture count.
+The competent authority, at the end of each round of bidding, shall announce the following:
+I. Each bidder’s interim bid-securing price.
+II. The total tally of all bidders’ interim rights forfeiture count.
+III. The total number of bidders with bidding qualification forfeited.
+IV. The total cumulative count of all competitive bidders eligible to submit a bid but failed to submit a valid bid at the same round of bidding.
+V. Whether the next round of bidding comprises the bidders eligible to submit a bid and who have failed to produce a valid bid in the competitive bidding process, likely concluding the round of bidding.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 31</條號>
+    <條文內容><![CDATA[Should a bidder should fail to submit a bid during the first round, or should its bid be deemed invalid, the competent authority shall revoke their bidding qualification.
+Should a bidder temporarily forfeit the right to bid four times during the auction, the competent authority shall revoke the bidder’s right to continue bidding.
+In the event of one of the following circumstances, it shall be deemed that the bidder has temporarily forfeited its right to submit a bid:
+I. The interim nominated bidder of each round that has not submitted a bid at that particular round of bidding.
+II. The bidders whose bids are rendered as an invalid.
+A bidder, when planning to forfeit its right to bid during the auction, shall express its desire to forfeit the right to submit a bid with the competent authority using the electronic quotation system during the prescribed time period stipulated under Paragraph 2, Article 24. However, a bidder that has already submitted a bid at a particular round may not express its intention of doing so during that particular round.
+Should an interim nominated bidder lose its right to continue bidding per stipulated under Paragraph 2, or forfeit its right to continue submitting bids as stipulated under Paragraph 4, throughout the progression of the auction, the bidder may retain its interim nominated bidder qualification until such time the bids of other competitive bidders are higher than the interim nominated bid.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 32</條號>
+    <條文內容><![CDATA[Throughout the progression of the auction, the competent authority may announce a temporary halting of the auction, and depending on the circumstances, determine the subsequent processing method in the event of one of the following circumstances:
+I. In the wake of any force majeure that occurred.
+II. Any competitive bidder should be found to have grossly violated the rules.
+III. Any other circumstance deemed inappropriate for the competitive bidding process to progress continually.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 33</條號>
+    <條文內容><![CDATA[When all competitive bidders eligible to submit a bid have failed to submit a valid bid in two consecutive rounds of bidding, the auction shall be concluded.
+Following the conclusion of the auction, the nominated bidding price of various competitive bids shall heed to the interim nominated bid price submitted by the interim nominated bidder at the last round of bidding.
+The bid award guarantee the nominated bidder is mandated to remit pertains to the total nominated bid price of various nominated bids.
+Once the auction has been concluded, the competent authority shall announce the various nominated bidders list, nominated bids, the nominated bid price of the nominated bids, and the amount of the nominated bid.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 34</條號>
+    <條文內容><![CDATA[In any of the following circumstances, the bidder’s posted tender bond shall be reimbursed:
+I. When a bidder participates in the bidding but has not been awarded with the bid, the tender bond shall be reimbursed without interest within a seven-day period from the following day the competent authority has announced the nominated bidders list.
+II. When a bidder participates in the bidding and has secured a bid, and has posted the bid award guarantee or the initial installment as regulated, the tender bond is to be reimbursed without interest.
+Should a bidder encounter one of the following circumstances, the bidder’s posted tender bond shall not be reimbursed, and when it has previously been reimbursed, it shall be subject to retroactive recuperation:
+I. A bidder, upon being awarded with the bid, fails to remit the bid award guarantee in one lump sum, or remit the first installment of the bid award guarantee and post the guarantee for the remainder of the bid award guarantee and interest.
+II. A bidder fails to submit a bid in one round, or its bid should be deemed as an invalid quotation.
+III. A bidder is revoked of its competitive bidding qualification per Paragraph 1 or 2, Article 23.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 35</條號>
+    <條文內容><![CDATA[In the event where an application case should be given the following ruling, the ruling recipient will not be given an opportunity to impart opinion;
+I. The review fee and the interest have been withheld per stipulated under Paragraph 4, Article 10.
+II. The application has been rejected per Article 13 or Article 27.
+III. The application has been rejected, and the review fee or the tender bond has been also withheld per Article 14.
+IV. A bidder whose right to participate in the competitive bidding or bid award qualification has been revoked or abolished per Article 15.
+V. A bidder’s review fee or tender bond has been forfeited from reimbursement per Paragraph 2 or 3, Article 16.
+VI. A bidder has lost the qualification to continue submitting bids, competitive bidding qualification, or failing to secure the bid per Chapter III of the competitive bidding work stipulations.
+VII. A bidder’s tender bond has been forfeited form reimbursement per Paragraph 2 of the preceding provision.
+]]></條文內容>
+  </條文>
+  <編章節>      Section 4 Inception</編章節>
+  <條文>
+    <條號>Article 36</條號>
+    <條文內容><![CDATA[The nominated bidder may select to remit in full or remit by installments the bid award guarantee, and shall remit the fund to an account designated by the competent authority by interbank wire transfer; the method for remitting the bid award guarantee, once chosen, may not be changed.
+Upon selecting to remit the guarantee in full in one lump sum per the foresaid stipulation, the bidder shall complete the remittance in the ensuing thirty days from the date the competent authority has announced the nominated bidders list.
+When selecting to remit by installments as stipulated under Paragraph 1, the nominated bidder or the operator shall remit the bid award guarantee and the interest in accordance with the following stipulations:
+I. The bidder shall remit the initial installment within thirty days from the competent authority has announced the nominated bidders set, with the amount being the nominated bid’s bottom price.
+II. Effective from the following year of the foresaid remittance cutoff day, the bid award guarantee and the previous year’s interest on the remainder of the bid award guarantee to be remitted shall be calculated based on the annexed table spanning January 16 to January 31 of each year; however, the interest to be remitted in year one is to span from the following day of the foresaid remittance cutoff day to December 31 of that year.
+III. The foresaid interest is to be calculated based on the previous year’s maximum baseline interest rate adopted by the Bank of Taiwan on December 31, plus 2.14 percent as the annual interest rate.
+When remitting the bid award guarantee per Paragraph 1 of the preceding section, the nominated bidder shall submit the guarantee by issuing a local bank contract guarantee letter on the balance of the payable bid award guarantee and the interest within a 120-day period from the date the competent authority has announced the nominated bidders list, with the guarantee period to cover ten years and three months from the date the contract guarantee letter is submitted; when failing to complete posting the guarantee, the bidder shall be revoked of its nomination qualification, and previous remittances of the bid award guarantee and the interest shall not be reimbursed.
+The guarantee amount to be paid on the foresaid balance of the bid award guarantee shall be calculated using the baseline interest rate figure the Bank of Taiwan adopts on the day the competent authority has announced the nominated bidders list, plus 2.14 percent as the annual interest rate.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 37</條號>
+    <條文內容><![CDATA[The term local banks specified in the preceding section encompasses:
+I. The local banks founded as stipulated by the Banking Act.
+II. The foreign banks referred under Article 116 of the Banking Act.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 38</條號>
+    <條文內容><![CDATA[Following the nominated bidder or the operator posting the balance of the bid award guarantee and the interest under subparagraph II, Paragraph 3, Article 36, the competent authority shall notify the guarantee bank to cancel the portion of the guarantee liability on the remitted amount.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 39</條號>
+    <條文內容><![CDATA[In the event where the nominated bidder fails to complete the process under subparagraph I, Paragraph 3, or Paragraph 2, Article 36, the bid award granted to the bidder shall be invalidated.
+In the event where the nominated bidder or the operator should fail to complete the process as stipulated under subparagraph II, Paragraph 3, Article 36, where the competent authority has notified the guarantee bank to honor its payout guarantee liability, and in the event where the payment should remain pending, the competent authority shall abolish the founding inception consent, system installation permit, concession permit and the assigned frequencies, and the bid award guarantee of the bidder and the interest shall not be reimbursed.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 40</條號>
+    <條文內容><![CDATA[The nominated bidder shall complete the process as stipulated under Article 36, upon remitting the bid award guarantee or the initial payment of the bid award guarantee to the competent authority, post guarantee on the remainder of the bid award guarantee and the interest, and shall submit the business plan to the competent authority to apply for the letter of approval consenting to the inception of the establishment permit. The nominated bidder that has been the incumbent operator is not required to apply for the letter of approval consenting to inception, but shall file a request with the competent authority for the changing of its business plan.
+The foresaid business plan shall disclose the following:
+I. Operating items.
+II. Business region.
+III. Summary of the telecommunications equipment:
+(I) The type and characteristics of the mobile broadband technology adopted, including the name of the technology, the maximum mobile speed rates supported, the average frequency spectrum utilization efficiency, the maximum download speed can be achieved under the condition of adopting FDD and a 15MHz each for upload and download, and adopting TDD and a 20MHz, etc.
+(II) The system equipment development and timetable plan, including the increasing high-speed transmission station’s launching quantity and population coverage for the remote regions year by year.
+(III) System framework, communication configuration and service types.
+(IV) Wireless radio frequency utilization plan.
+(V) Communication surveillance system functionality launching plan.
+(VI) Cellular broadcast control center launching plan.
+IV. Financial structure: The anticipated total capital and total paid-in capital upon being awarded the bid award and when completing the company modification registration, the anticipated source of capital in the next five years, and capital utilization plan.
+V. Technological capability and development plan.
+VI. Billing criteria and calculation methods.
+VII. Staff organization and shareholding status: Photocopy of company registration proof of documentation, directors and auditors list, managers list, shareholders list holding one percent or more of the shareholdings, spreadsheet for shareholdings held by foreign nationals and subsidiary company relations report, and the holding company’s combined financial statement.
+VIII. The expected date of start of operations.
+IX. Consumer equity protection-related measures.
+X. Abridged enterprise plan, with information the commission can cite and disclose.
+XI. Other matters specified by the review process.
+The mandated disclosed matters and method of disclosure for the foresaid document are to be formulated and announced by the competent authority.
+The competent authority, when reviewing the business plan, may order the nominated bidder to modify the content, where deemed necessary.
+The operator shall carry out the implementation in accordance with the content of its business plan, and if the content should be changed, the operator shall state the reason and apply for competent authority’s approval.
+An operator that has been deemed by the Fair Trade Commission as falling under one of the following circumstances shall be declined approval to change its enterprise plan by the competent authority:
+I. The merger was not filed in advance.
+II. Proceeding with a merger despite such merger being prohibited.
+III. The concerted action has not been approved.
+The validity of the inception consent letter is to span from the approval and issuance date within a period of two years; the nominated bidder, when unable to complete inception within the valid period and obtain the concession license as required by law, shall state the reason and file a request with the competent authority to seek for an extension within a one-month period at three months prior to the expiry date, with the extension period not exceeding one year as the maximum, and also limited to one time only. When exceeding the deadline, the inception consent letter shall be rendered invalid, and the competent authority shall abolish the system installation permit and the assigned frequencies, and the bidder’s bid award guarantee and the interest shall not be reimbursed.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41</條號>
+    <條文內容><![CDATA[The nominated bidder, upon securing the inception consent letter, shall file for a company modification registration to conform to stipulations set by the rules.
+When the nominated bidder completes the company modification registration per the foresaid stipulation, the nominated bidder’s paid-in capital amount shall conform to that stipulated under Paragraph 5 and 6, Article 4.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 42</條號>
+    <條文內容><![CDATA[The nominated bidder shall, upon securing the inception consent letter and completing the company modification registration, submit the following documents to apply for frequency assignment with the competent authority:
+I. Photocopy of the letter of approval consenting to inception.
+II. Photocopy of the company modification registration document.
+III. The frequency assignment application form.
+The nominated bidder that has been the incumbent operator shall submit the following documents to the competent authority to apply for frequency assignment:
+I. Photocopy of the approval letter for modified business plan.
+II. The frequency assignment application form.
+When a mobile telephone service operator, third-generation telecommunication service operator and wireless broadband access service operator returns the operation’s frequent segment in advance, the competent authority shall notify the nominated bidder or the operator to apply with the competent authority for a frequency assignment or change.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 43</條號>
+    <條文內容><![CDATA[The nominated bidder shall, upon securing the launching consent letter and completing the company modification registration, submit the following documents to apply with competent authority for a system installation permit:
+I. The frequency assignment approval letter and the system installation permit applicant form.
+II. Photocopy of the company modification registration document.
+III. Proof of documentation on launching a communications surveillance system or equipment negotiated and confirmed with competent communications surveillance enforcement agency.
+IV. The system development plan: including the system framework, the name and quantity of the development equipment, the number of station count and development timetable for achieving the perimeters of electronic radiofrequency coverage specified under Article 66.
+In the event where the mandated documents applying for the system installation permit should be deemed incomplete, or the content of the entry should be deemed incomplete, or the entries should contain erroneous entries, the competent authority shall notify the bidder to adopt retroactive correction within a prescribed deadline; when failing to adopt retroactive correction exceeding the deadline or the retroactive correction should be deemed incomplete, the application shall be declined.
+The nominated bidder that has been the incumbent operator shall submit the documents per subparagraph I, III and IV, Paragraph 1 to apply for system installation permit
+The nominated bidder shall, upon obtaining the system installation permit, develop the mobile broadband system in accordance with the system development plan specified under subparagraph IV, Paragraph 1.
+The nominated bidder or subparagraph IV, Paragraph 1 state the reason why and voluntarily declare it with the competent authority for approval.
+The nominated bidder or the operator, when developing the subsequent network beyond that described in the system development plan in accordance with subparagraph IV, Paragraph 1, shall submit a system development equipment description and quantity checklist to apply with the competent authority for a system installation permit.
+The nominated bidder or the operator shall develop the mobile broadband system as stipulated under Article 47 and Article 66, and may also develop its system using the mobile communications technology announced by the International Telecommunication Union or other technology standard approved by the competent authority.
+The bidder, when failing to obtain a permit to begin operations or failing to obtain an approval, may not install the entire or a portion of the mobile broadband system.
+The competent authority, when revoking a decision in accordance with stipulations provided by the Article, shall have the decision processed in consultation with relevant government entities in consideration of national security.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 44</條號>
+    <條文內容><![CDATA[As a mobile telephone service operator or wireless broadband access service operator, the nominated bidder, when utilizing the nominated frequencies or the frequencies obtained per stipulated under Article 81, where the frequencies are initially used for its mobile telephone service, shall at the time of applying for the approval and issuance of the operation’s concession license using the frequencies also return its mobile telephone service or wireless broadband access service concession license operating on the same frequency segment.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 45</條號>
+    <條文內容><![CDATA[The nominated bidder or the operator may apply to transfer its own or equipment of other mobile telephone service operators or wireless broadband access operators as part of its mobile broadband system.
+The foresaid transfer involving a mobile telephone service operator’s terminating its business, liquidating its business or assets shall be processed per stipulations set forth under Article 15 of the rules.
+The nominated bidder or the operator that plans to transfer equipment in accordance with the stipulations set forth in preceding Paragraph shall, at the time of applying for the system installation permit per Paragraph 1, Article 43, or when applying with the competent authority for an approval for modifying the system launching plan per Paragraph 5, Article 43, or when applying with the competent authority for the subsequent network installation permit per Paragraph 6, Article 43, streamline its system launching plan, and the identical equipment at the place of installment before and after the transfer, prior to securing the installation permit, it may be exempt from being dismantled.
+When no change has been made to the system firmware equipment currently in use, the nominated bidder may be exempt from filing for a subsystem technical review inspection.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 46</條號>
+    <條文內容><![CDATA[The nominated bidder or operator, when applying for the transmission station installation permit and the radio transmission station license and related matters, shall complete the implementation in accordance with Article 46 of the rules and per the mobile communication networking operation’s transmission station installation and operation management measures.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 47</條號>
+    <條文內容><![CDATA[The nominated bidder, upon completing two hundred fifty or more stations of the high-speed transmission stations, may only begin to apply with the competent authority for a system technology validation, and upon surpassing the validation satisfactorily, the nominated bidder shall be issued with a system technology satisfactory validation certificate.
+The foresaid nominated bidder shall complete the system development three months prior to the expiry of the founding inception consent letter, and complete the system technology validation filing procedure with the competent authority.
+The operator, when increasing or changing its system exchange equipment separately upon obtaining the concession license, shall first apply for the competent authority’s approval, whereby the competent authority shall issue the operator with a system technology validation satisfactory certificate before the operator may operate such equipment.
+The nominated bidder or the operator’s system technology validation process shall be implemented per the mobile broadband system validation technology guidelines.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 48</條號>
+    <條文內容><![CDATA[The nominated bidder, upon securing the system installation permit, shall complete the system development per its permit; of the connecting circuit between the bidder’s system and other systems, the bidder shall lease from the fixed communication service operator or satellite fixed communication service operator, except where a connecting circuit is situated in the same building and has been approved by the competent authority.
+Upon approval by the competent authority, the nominated bidder or the operator may develop on its own, the electric circuit for the connecting server equipment of the mobile broadband system.
+In the event where the electric circuit approved for development is of a self-developed wired fiber optical or copper cables, the development shall conform to the following stipulations:
+I. Of land reserve for laying the network routes, the bidder is to file a request with the management agency for an approval per relevant legal and regulatory stipulations.
+II. Of laying the network that requires attaching to the wire routes of state enterprise piping or relevant facilities, the bidder is to complete the process per relevant legal and regulatory stipulations.
+If the circuit developed per the preceding Paragraph II be of a microwave chain route, matters concerning the frequency assignment, transmission station installation permit and so forth shall be implemented per the Type I Telecommunication Enterprise Microwave Radio Transmission Installation/Utilization Management Measures; in the case of a satellite chain route, matters concerning the frequency assignment and transmission station installation permit shall be implemented per the Regulations for Administration on Satellite Communications Services.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 49</條號>
+    <條文內容><![CDATA[The nominated bidder, when applying for the previously released approval and issuance of the concession license, shall submit the following documents to apply with the competent authority, and subject to the competent authority’s approval is to be issued with the concession license.
+I. Concession license application.
+II. Photocopy of the inception consent letter.
+III. Photocopy of company registration proof of documentation.
+IV. Proof of documentation on satisfactory system technology validation.
+V. Proof of documentation on the completion of system per Article 12 of the Type-I Telecommunication Enterprise Billing Management Measures.
+VI. Proof of documentation on company business rules and regulations the competent authority has approved and finalized.
+VII. Proof of documentation on service contract template to be entered into with the subscriber the competent authority has approved and finalized.
+The nominated bidder that has been the incumbent operator shall submit the documents in accordance with subparagraph I and IV, Paragraph 1 to apply with the competent authority, and subject to the competent authority’s approval shall be issued with the previously released concession license.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 50</條號>
+    <條文內容><![CDATA[The concession license shall disclose the following matters:
+I. The name of the operator, director and registered company address.
+II. The business type.
+III. The total capital and total paid-in capital.
+IV. The operating region.
+V. The operating frequency.
+VI. The validation period.
+VII. The license issuing date.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 51</條號>
+    <條文內容><![CDATA[The validation period of each applicable concession license shall be as follows:
+I. Available from 2013：Concession license shall be valid from the date of issue to December 31, 2030.
+II. Available from 2015：Concession license shall be valid from the date of issue to December 31, 2033.
+Concession license stated above is to become invalid upon expiration; the disposition method of license in expiration shall be prescribed separately by the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 52</條號>
+    <條文內容><![CDATA[The operator is to begin operating the business within a six-month period from the date it obtains the concession license, and when exceeding the deadline, the competent authority shall abolish the concession and the assigned frequencies; the remitted bid award guarantee and the interest will not be reimbursed.
+The operator’s individually issued concession and establishment permit shall be abolished by the competent authority, once the operator is deemed as falling under any of the circumstances stipulated in Paragraph 1 of Article 10, each subparagraphs of Paragraph 1 or Paragraph 3 of Article 14.
+In the event where the inception of the nominated bidder or the operator should be abolished due to breaching relevant legal and regulatory stipulations, the remitted bid award guarantee and the interest will not be reimbursed, unless otherwise stipulated by the rules.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 53</條號>
+    <條文內容><![CDATA[In the event where the inception consent letter, or the installation permit letter (certificate), or the transmission station license, or the concession license should be lost or destroyed, the bidder shall state the reason to apply with competent authority for a reissue; when any change occurs to the entries, the bidder shall file a request with competent authority for a replacement reissue.
+Unless otherwise stipulated by laws and regulations, the inception approval letter, the installation permit letter (certificate), the transmission station license, the concession license, or the assigned wireless radio frequencies may not be leased out, loaned out, transferred, or designated with guarantee burden to any individual.
+]]></條文內容>
+  </條文>
+  <編章節>   Chapter III Operations management</編章節>
+  <編章節>      Section 1 Technical monitoring</編章節>
+  <條文>
+    <條號>Article 54</條號>
+    <條文內容><![CDATA[The telephone numbers the nominated bidder or the operator utilizes shall be implemented per Article 20~1 of the rules and per the Regulations Governing Telecommunications Numbers.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 55</條號>
+    <條文內容><![CDATA[The operator, when offering voice service, shall provide, without charge, to the subscribers the 110, 112 and 119 emergency telephone number dialing service.
+The operator shall provide, free of charge, to the subscriber the disaster prevention warning cellular broadcast messaging service.
+The operator shall prioritize processing the 110, 112, and 119 emergency telephone numbers and the disaster prevention warning cellular broadcast messaging.
+The term disaster prevention warning cellular broadcast messaging referred in the preceding paragraph refers to relevant information supplied by relevant disaster rescue authorities on disaster area likely to occur or that has already occurred, which is transmitted as disaster warning messaging through the operator’s mobile broadband system via the broadcasting means to relevant regions.
+The operator, when transmitting the disaster prevention warning cellular broadcast messaging, shall support the uniformed message exchange format announced by competent central government disaster rescue operating authorities, and install a cellular broadcast control center.
+The foresaid installation shall be completed within a two-year period following the uniformed message exchange format has been announced by competent central government disaster rescue operating agency. The operator shall voluntarily notify the subscriber of the disaster prevention warning cellular broadcast messaging service function’s activation date and relevant information on mobile stations that are able to receive said messaging service.
+The operator, subject to the competent authority’s approval on its transferred mobile telephone system per Article 45, may forego offering the disaster prevention warning cellular messaging service; however, the system shall at least be equipped with the disaster area emergency short-messaging service function.
+The term disaster area emergency short-messaging as referred in the preceding paragraph pertains to availing emergency notification short-messaging on relevant disaster information provided by competent disaster rescue authorities to the subscriber’s number within the perimeters covered by the transmission stations in an area where disaster is likely to occur or that has already occurred.
+The operator is not held liable to compensatory liability to content and transmission result of the disaster prevention warning cellular broadcast messaging or the disaster area emergency short messaging.
+The induction date concerning the disaster prevention warning cellular broadcast messaging service function is to be announced by the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 56</條號>
+    <條文內容><![CDATA[Of the operator that has launched a mobile broadband system, the competent authority may conduct random or routine reviews and inspections.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 57</條號>
+    <條文內容><![CDATA[The operator, when uncovering that its wireless radio frequencies should be interfered by the existing, legal radio stations’ wireless radio frequencies in frequencies not run by the operation, shall coordinate and settle the matter with the existing, legal radio stations, and in the absence of an agreement, the operator may request the competent authority to declare a disposition ruling; the radio station shall comply with competent authority’s decision.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 57-1</條號>
+    <條文內容><![CDATA[The nominated bidder or operator that applies for unpaired frequency segment in accordance with subparagraph II of Paragraph 1, Article 7 shall use  frequency segments conforming to the frequency boundary assigned by the competent authority before submitting the solution of non-interference to the guard band.
+In accordance with Paragraph 1 or 2, Article 42, the nominated bidder or operator of unpaired frequency segment that applies for utilization of guard band shall submit the foresaid solution of non-interference to the competent authority for approval and shall remit the wireless radio frequency utilization fee for utilization.
+The nominated bidder or operator that applies for paired frequency segment in accordance with subparagraph 2 of Paragraph 1, Article 7, shall adhere to the coordination principles to resolve the interference problem resulting from varying adoptions of Division Duplexing technology between different nominated bidders or operators.
+Once the coordination has failed, the nominated bidder or operator that adopts TDD pattern shall undertake prevention measures and tolerate interference from FDD pattern.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 58</條號>
+    <條文內容><![CDATA[The operator’s mobile broadband system connecting to other public communications networks shall conform to the following stipulations:
+I. It shall not infringe on any individual communication privacy.
+II. A proper quality of the telecommunication service is to be maintained.
+III. It shall not impair other telecommunication enterprise’s connecting telecommunication equipment, or other public telecommunications networking equipment.
+IV. There shall be clearly defined liability dividing points to connecting telecommunication equipment of other telecommunication enterprises.
+V. It shall be equipped to offer the receiving subscriber with incoming call display of the international country code and the service function of the option to decline receiving international calls.
+When failing to comply with the foresaid stipulations, the competent authority may order the operator to adopt improvement within a prescribed deadline, or restrict the operator from operating the system.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 59</條號>
+    <條文內容><![CDATA[In the event where the operator should be given a revocation or abolishment ruling on its concession license, the competent authority shall revoke or abolish the operator’s wireless radio frequencies assigned.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 60</條號>
+    <條文內容><![CDATA[The operator and the entity securing the founding inception consent letter shall jointly establish a development coordination team for coordinating the network interconnection, network roaming, station co-development and other sharing matters.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 61</條號>
+    <條文內容><![CDATA[The operator shall hire senior telecommunication personnel who shall be responsible for monitoring the telecommunication equipment’s operation, maintenance and utilization, and who shall also acknowledge and sign the daily operations journal and maintenance journal.
+The foresaid installation and maintenance daily journals shall be retained for one year, and when the competent authority dispatch personnel to audit the paperwork, the operator shall readily supply the information.
+]]></條文內容>
+  </條文>
+  <編章節>      Section 2 Operational monitoring</編章節>
+  <條文>
+    <條號>Article 62</條號>
+    <條文內容><![CDATA[To facilitate the general population with basic communication equity by offering basic communication to remote areas for achieving the goal of telecommunication prevalence, the operator shall remit the Telecommunications Universal Service Fund in accordance with the Telecommunications Universal Service Regulations.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 63</條號>
+    <條文內容><![CDATA[The operator that should also be a mobile telephone service or a third-generation telecommunication service market leader, besides subject to the competent authority’s approval, shall offer the mobile telephone system or the third-generation mobile communication system it operates to new operators with the roaming service, with the specific roaming service arrangements to be negotiated and finalized between the operators, except where a new operator’s network does not offer the service.
+The foresaid roaming service shall be offered within the valid period of the concession license for the mobile telephone service or the third-generation mobile communication service, provided that it does exceed December 31, 2018.
+The term new operator stated in Paragraph 1 refers to a mobile broadband service operator that is neither a market leader in the mobile telephone service, nor in the third-generation mobile communication service.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 64</條號>
+    <條文內容><![CDATA[The operator, when offering voice service, shall offer equal access service in accordance with Paragraph 4, Article 20-1 of the rules and per the Regulations Governing the Equal Access Service.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 65</條號>
+    <條文內容><![CDATA[The operator shall offer fair service, and without just cause, may not refuse members of the general public from applying for the operation’s service within the operating region the operator has been approved to operate.
+The competent authority may restrict the operator in accepting applications for subscriber number ports to the operation’s service using the same uniformed identification card number; the operator shall process the application in compliance with stipulations set by competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 66</條號>
+    <條文內容><![CDATA[The operator’s high-speed transmission station development shall conform to the following stipulations in a five-year period effective from the date obtaining the system installation permit:
+I. The quantity shall have reached developing eighty percent or more of the total transmission stations, or reached over one thousand stations.
+II. The range of radio wave coverage shall reach fifty percent of the population in the business area.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 67</條號>
+    <條文內容><![CDATA[The operator’s accounting system and accounting processing shall be implemented in accordance with Article 19 of the rules and per the Accounting Standards and Regulations for the Type I Telecommunications Enterprises.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 68</條號>
+    <條文內容><![CDATA[In formulating the operation’s billing rates, the operator shall implement them in accordance with Article 26 of the rules and per the Administrative Regulation Governing Tariffs of Type I Telecommunications Enterprises.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 69</條號>
+    <條文內容><![CDATA[The operator, when offering the audiovisual, graphic, sound signal, digital signal or short-messaging and other related value-added services, shall first disclose to the subscriber the billing method before offering the service and shall also obtain the subscriber’s consent before the billing may begin.
+The operator, when jointly offering the foresaid service with other institutions (entities), shall voluntarily declare the collaboration subject, cooperation method and the operating short-messaging number or telecommunication number to the competent authority within a seven-day period before offering the service. The same also applies in all subsequent changes.
+The operator shall, effective from the date the service specified in Paragraph 1 is offered, conduct tests on the billing method it has disclosed to the subscriber on a daily basis and shall also retain the records for a month in preparation for the competent authority’s random verification and audit, and the competent authority may order the operator to supply the service’s telecommunication end equipment and also support the testing.
+The operator, when its service should be found to deviate from the voluntary declaration made with the competent authority, shall cease to offer said service in compliance with the competent authority’s written notice.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 70</條號>
+    <條文內容><![CDATA[In the event where a subscriber should refuse or delay in remitting the billable charges, the operator may set a comparable period to urge the subscriber to remit the overdue billable payment, and is also to inform the subscriber that the service will be suspended per the service contract if the overdue payment has not been remitted within the specified deadline.
+Before the foresaid running period expires, the operator may not cease to supply the telecommunication service on the grounds of late payment.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 71</條號>
+    <條文內容><![CDATA[The operator shall formulate relevant terms and conditions on its service, formulate the business rules and regulations, which are to be declared with the competent authority for approval before the rules and regulations are implemented accordingly, and shall also post relevant terms and conditions at its business premises and on its official website as a public notice. The same also applies to all subsequent changes.
+The foresaid business rules and regulations shall specify fair, rational service terms and conditions, and shall also disclose the following matters:
+I. The service items the operator offers.
+II. Various servicing billing standards and terms and conditions of billing adjustment.
+III. Restrictions and terms and conditions on gathering, processing and utilization of the subscriber’s basic information.
+IV. The compensation method in the event where the operator should be revoked or abolished of its concession permit, temporarily suspend or terminate its business that suffice to inflict harm on the subscriber’s equity.
+V. The disposition method in the event where the telecommunication line equipment should encounter malfunction, disruption to result in incurring damage due to error, stalling, disruption or non-transmission.
+VI. The response to the subscriber’s complaint and other items related to subscriber rights.
+VII. Other service terms and conditions.
+When offering audiovisual content service via the audiovisual content transmitting platform, an operator’s business rules and regulations shall not only disclose the various foresaid terms and conditions, but shall also disclose the following matters:
+I. To ensure the audiovisual content service, the operator shall voluntarily and ominously inform the subscriber the sales method for the service provided and the billing information the subscriber is obligated to pay.
+II. Self-governance or means to restrict or safeguard children and teenagers from accessing inappropriate content.
+In the event where the operator’s business rules and regulations should impair the subscriber’s equity or is deemed unfair, the competent authority may order the operator to change the terms and conditions within a specified period.
+The template of the service contract the operator and the subscriber enter into shall state all matters specified under Paragraph 2, and shall be declared with the competent authority for an approval before it is implemented, and it also may not violate stipulations of the Telecommunications Act and regulations and the operator’s business rules and regulations, and the same shall apply to all subsequent changes.
+The operator shall enter into a service contract with the subscriber individually in accordance with the template of the service contract approved for implementation. The same also applies to the rendering the operation’s service using the prepaid card or other prepaid billing methods.
+The operator, when amending terms and conditions of the template of the service contract it has entered into with the subscriber, shall announce the content on the mass media before the amendment takes effect.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 72</條號>
+    <條文內容><![CDATA[For operators of the mobile broadband system, the service quality and the system functionalities shall conform to the service quality guidelines specified by competent authority.
+Without the competent authority’s express approval, the operator may not reduce the perimeters of the wireless radio frequency coverage of the mobile telephone system transferred per Article 45, and also may not reduce the service quality the initial system provides.
+The competent authority may, depending on the practical needs, seek on its own or commission a private entity to conduct evaluation, and may also routinely announce the evaluation report on various operators’ service quality.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 73</條號>
+    <條文內容><![CDATA[The operator shall, when found with poor management or poor service quality that suffices to impair the subscriber’s equity, adopt improvement within a deadline specified by the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 74</條號>
+    <條文內容><![CDATA[The operator, when interconnecting to other telecommunication enterprise networks, shall implement the work in accordance with Article 16 of the rules and per stipulations of the Telecommunications Enterprise Network Interconnection Management Measures.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 75</條號>
+    <條文內容><![CDATA[When relevant government agencies inquire for the existence and content of certain telecommunication per legally authorized procedure, the operator shall readily supply the information.
+The monitoring of the foresaid telecommunications content shall be implemented per the Communication Security and Control Act.
+The operator, when developing or newly installing, newly appending, or expanding its mobile broadband system, shall have its communications monitoring and relevant equipment implemented in accordance with relevant stipulations set by the Communication Security and Control Act and its implementation details.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 76</條號>
+    <條文內容><![CDATA[The operator shall retain the telecommunications records for at least a six-month period.
+The operator, in response to the subscriber’s own inquiry request, shall supply its communications records retained per the foresaid stipulation.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 77</條號>
+    <條文內容><![CDATA[The operator shall verify and catalog the subscriber data, and only after uploading the data into the operator’s system and the data file is stored and verified before the service may be activated; the service data shall be retained at least one year after the service contract has been terminated, and when inquired by relevant government authorities in compliance with legal stipulations, the operator shall readily supply the subscriber data. The same also applies to service providers that operate mobile broadband service using the prepaid card or other prepaid methods.
+The foresaid subscriber data encompasses information such as the user name, uniformed identification number or passport number, and any other proof of identity document number beyond the uniformed identification card or passport, place of residence and the assigned number and so forth.
+The upload of the subscriber data described in Paragraph 1 shall be completed within two days following the operator accepting an application.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 78</條號>
+    <條文內容><![CDATA[The operator, when running the operation’s service with the prepaid card or other prepaid billing methods, shall recheck the subscriber data on a weekly basis, and in the wake of subscribers who have activated the service but the operator has yet appended the subscriber data, the operator shall notify the subscriber to retroactively supplant the information within one week, and when failing to do so, the operator shall temporarily suspend the communication service.
+Of the foresaid stipulation, the operator shall specify it in its business rules and regulations and in its service contract specimen.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 79</條號>
+    <條文內容><![CDATA[The operator, when planning to temporarily suspend or terminate its service as a whole or in part, shall file a request with the competent authority for approval three months prior to the scheduled temporarily suspension or termination date, and shall also notify the subscriber one month prior to the scheduled temporarily suspension or termination date.
+In the event where the operator should be terminated of its entire operation as approved by the competent authority, the competent authority shall abolish the operator’s concession permit.
+At the expiry of the foresaid temporarily suspension period or when the business has been terminated, the competent authority may adopt adequate disposition where deemed necessary.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 80</條號>
+    <條文內容><![CDATA[The operator shall offer number transferrable service per Paragraph 4, Article 20~1 of the rules and the Number Transferrable Service Management Measures.
+The operator or the entity obtaining the founding inception consent letter, when planning to allocate a terminated mobile telephone service or wireless broadband access service operator’s telecommunication number, shall file a request with the competent authority in accordance with relevant stipulations set forth by the Telecommunication Number Management Measures, and once the filing is approved, relevant stipulations set by the Number Transferrable Service Management Measures no longer apply.
+]]></條文內容>
+  </條文>
+  <編章節>      Section 3 Frequency operating right transfer</編章節>
+  <條文>
+    <條號>Article 81</條號>
+    <條文內容><![CDATA[In the case where the nominated bidder completes the process as stipulated under Article 36, upon remitting the bid award guarantee or the initial payment of the bid award guarantee to the competent authority, and offer guarantee on the remainder of the bid award guarantee and the interest, the two parties or the multiple parties may reach an agreement to revert the frequencies segments they have secured the bid within a six-month period, and to apply with the competent authority, per Article 48 of the Act, to assign or reassign frequencies of the same frequency segments and the same frequency bandwidths .
+Of the foresaid application, each of the parties shall jointly submit the following documents:
+I. The enterprise plan or the amending description and related document of the enterprise plan
+II. Photocopy of the frequency utilization transfer agreement.
+II. Frequency assignment application form.
+The competent authority, which reviews the document in the preceding subparagraph I under paragraph 4 or 5, Article 40, and issues the letter of approval consenting to inception or approves the amended enterprise plan, shall assign frequency in accordance with Article 48.
+In the event where the application documents in the preceding Paragraph 2 should be deemed incomplete, or the entry content be deemed incomplete, or the entries be deemed to contain error, the competent authority shall notify the applicant to adopt retroactive correction within a prescribed deadline; when failing to complete retroactive correction or the correction is still deemed incomplete, the application shall be declined.
+Of the nominated bidder that reverts frequencies, the nominated bidder shall remit the bid award guarantee on the nominated frequency bid it has reverted within a three-month period from the competent authority’s approval date before the approval is to formally take effect.
+If amendment to the system development plan is necessary, the nominated bidder in the preceding Paragraph 1 shall file a request with the competent authority in accordance with Paragraph 5, Article 43 at that time.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 82</條號>
+    <條文內容><![CDATA[An operator that holds any awarded frequencies from any previous bid shall be permitted to revert its awarded frequencies in part or whole to the competent authority after the operator has obtained the system technology satisfactory validation certificate in accordance with Paragraph 1, Article 47 and after reaching agreement with the other operator; the other operator shall apply with the competent authority, per Article 48 of the Telecommunications Act, to assign the frequencies.
+The operator, obtaining the assigned frequencies in accordance with foresaid Paragraph, shall revert its frequencies to the competent authority after reaching an agreement with the other operator; then the other operator shall apply with the competent authority, per Article 48 of the Telecommunications Act, to assign frequencies.
+The operator is able to apply for frequency assignment only when complying with the rules regarding high-speed transmission development under subparagraph I and II, Paragraph 1, Article 66. But the frequencies under subparagraph I, Paragraph 1, Article 7 are not the subject to this restriction.
+Of the application under foresaid Paragraph 1 & 2, each party shall submit the following documents:
+I. Modifications illustration and relative documents of the enterprise plan.
+II. Photocopy of the frequency utilization right agreement.
+III. Frequency assignment application form.
+In the event that the documents of modification of the preceding subparagraph I in accordance of Paragraph 5, Article 40 are approved, the competent authority shall assign the frequencies per Article 48 of the rules.
+In the event where the foresaid application documents under subparagraph IV should be deemed incomplete, or the content of the entries should be deemed incomplete, or the entries should contain error, the competent authority shall notify the applicants to adopt retroactively correction within a prescribed deadline; when failing to supplant retroactive correction, or if the correction is still deemed incomplete, the application is to be declined.
+For an operator that reverts the frequencies, the operator shall remit the bid award guarantee on the nominated frequency bid it has reverted within a three-month period from the competent authority’s approval date before the approval is to formally take effect.
+Once the modification of the system development plan is essential, the operator, in accordance with Paragraph 1 & 2, shall submit the application in accordance with Paragraph 5, Article 43.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 83</條號>
+    <條文內容><![CDATA[The application filed per the preceding two provisions, when falls under one of the following circumstances, will not be approved:
+I. The transferred frequency bandwidth should be other than the event multiplier of 5MHz each for upload and download.
+II. The transferred frequency bandwidth within unpaired frequency segment should be other than the event multiplier of 5MHz, or within paired frequency segment should be other than the event multiplier of 5MHz.
+III. The transferring party’s remaining frequency bandwidth should fall below than 10MHz each for upload and download, 10MHz within unpaired frequency segment, and 10MHz within paired frequency segment for each pair.
+IV. The assuming party’s total frequency bandwidth after the transfer should exceed one-third of the total mobile broadband operation frequencies.
+V. The assuming party’s total frequency bandwidth below 1GHz after the transfer should exceed one third of the total frequency bandwidth below 1GHz.
+An operator, under extraneous circumstances, and subject to the competent authority’s approval, may be unhindered by stipulations set forth under subparagraphs IV or V of the preceding section.
+Of frequencies transferred under the preceding two sections, the utilization period shall extend up to the validation date under Paragraph 1, Section 51.
+]]></條文內容>
+  </條文>
+  <編章節>   Chapter IV Mediation of Disputes</編章節>
+  <條文>
+    <條號>Article 84</條號>
+    <條文內容><![CDATA[Matters to be negotiated between the operators per stipulations shall be negotiated between the operators in a manner that is honest and credible. When the same matter is to be negotiated among a number of operators, the negotiation may be sought at the same time.
+The parties referred to in the preceding paragraph shall reach agreement within a three-month period from the date the negotiation begins, and shall declare the agreement with the competent authority within a one-month period following the negotiation. In the event where no negotiation has begun in a month following an operator receiving a request of negotiation, or if failing to come to an agreement within a three-month period, either party may request the competent authority in writing to mediate and rule on the matter.
+]]></條文內容>
+  </條文>
+  <編章節>   Chapter V Supplementary provisions</編章節>
+  <條文>
+    <條號>Article 85</條號>
+    <條文內容><![CDATA[Those applying to run operations shall, in compliance with the review, authentication, validation, licensing and related procedure, remit the review fee, authentication fee and licensing fee to the competent authority according to the billing standards the competent authority specifies.
+The previously nominated bidder shall remit the wireless radio frequency utilization fee to competent authority in accordance with the wireless radio frequency utilization fee billing standards, effective from the third year January 1 that the competent authority announces the list of nominated bidders.
+In the event where the frequencies awarded by the bid are still run by a mobile telephone service, a third-generation mobile telecommunication service operator or wireless broadband access service after the third year January 1 that the competent authority announces the list of nominated bidders, the nominated bidder shall, effective from the following day said operator reverts its frequencies, remit the wireless radio frequency utilization fee.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 86</條號>
+    <條文內容><![CDATA[Of the mandated entries and format for relevant standardized forms and license certificates the rules specify, unless otherwise stipulated by the rules, the competent authority shall specify and announce the information.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 87</條號>
+    <條文內容><![CDATA[The applicant, competitive bidder, nominated bidder or periods (deadlines) the operator is to abide by as specified by rules, unless otherwise stipulated by the rules, shall be of invariable terms.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 88</條號>
+    <條文內容><![CDATA[Those who breach stipulations set by the rules shall be penalized per stipulations provided by the rules.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 89</條號>
+    <條文內容><![CDATA[The rules are to be implemented from the date of announcement.
+]]></條文內容>
+  </條文>
+</法規內容>
+</法規>
