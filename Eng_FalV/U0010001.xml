@@ -3,7 +3,7 @@
 <英文法規名稱>Audit Act</英文法規名稱>
 <中文法規名稱>審計法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=U0010001</法規網址>
-<最新英文異動日期>19981111</最新英文異動日期>
+<最新英文異動日期>20151209</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1. Promulgated on November 28, 1925
@@ -12,7 +12,9 @@
 4. Amended on March 4, 1939
 5. Amended on October 30, 1950
 6. Amended on May 1, 1972
-7. Amended and Promulgated by the President of the Republic of China on November 11, 1998]]></沿革內容>
+7. Amended and Promulgated by the President of the Republic of China on November 11, 1998
+8.Amended and Promulgated by the President of the Republic of China on June 17, 2015
+9.Amended and Promulgated by the President of the Republic of China on December 9, 2015]]></沿革內容>
 <法規內容>
   <編章節>   Chapter I: General Provisions</編章節>
   <條文>
@@ -211,23 +213,22 @@ If an allotment budget is found to be not in conformity with the legal budget or
   </條文>
   <條文>
     <條號>Article 36</條號>
-    <條文內容><![CDATA[Accounting reports of various government agencies and funds shall be prepared in accordance with the Law of Accounting, and the respective accounting systems, and, together with original documents and vouchers, shall be submitted to the auditing agency for audit.
+    <條文內容><![CDATA[Accounting reports of various government agencies and funds as well as related information and archives shall be prepared in accordance with the Accounting Act and relevant accounting systems, and shall be submitted to the authorized auditing agency to audit. The auditing agency may notify them to submit original vouchers or related documents.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 37</條號>
-    <條文內容><![CDATA[The auditing agency shall have personnel stationed at the Treasury and various disbursing agencies to carry out the auditing function; where, for some reason, no personnel are stationed, auditing officers may be dispatched from time to time to conduct spot-audit.
+    <條文內容><![CDATA[Auditors may be dispatched to conduct spot-audits for the affairs of the Treasury and various disbursing agencies anytime.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38</條號>
-    <條文內容><![CDATA[The Treasury shall not effect a payment or make a remittance unless the document and voucher have been reviewed and authorized by auditing agency or the resident auditing personnel. Where there is neither auditing agency nor auditing personnel around will not be the case.
+    <條文內容><![CDATA[Deleted
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[The auditing agency or the resident auditing personnel shall refuse to authorize the document and voucher, which is against the Treasury’s appropriation, or the Treasury check, where it is found that the payment in question is not made in accordance with the budget or with the relevant laws or regulations.
-Approval or refusal of a payment as stated in the above paragraph shall be done not later than three days after receipt of the request for audit except in cases where an investigation is deemed necessary or deferment is inevitable.
+    <條文內容><![CDATA[Deleted
 ]]></條文內容>
   </條文>
   <條文>
@@ -237,7 +238,7 @@ Approval or refusal of a payment as stated in the above paragraph shall be done 
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[In assigning personnel to various government agencies to conduct on-the-spot audit, the auditing agency may decide the degree and scope of the audit, in the light of the internal audit performance of the agencies concerned.
+    <條文內容><![CDATA[In assigning personnel to various government agencies to conduct on-site audit, the auditing agency shall evaluate the effectiveness of establishment and implementation in the related internal control systems, and then decide the degree and scope of the audit.
 ]]></條文內容>
   </條文>
   <條文>
@@ -252,7 +253,7 @@ Approval or refusal of a payment as stated in the above paragraph shall be done 
   </條文>
   <條文>
     <條號>Article 44</條號>
-    <條文內容><![CDATA[In submitting the accounting reports for audit, the government agencies may withhold relevant documents and vouchers provided that the omission is warranted by special situation and with prior consent of the auditing agency.
+    <條文內容><![CDATA[Deleted
 ]]></條文內容>
   </條文>
   <條文>
@@ -406,7 +407,9 @@ The above points worthy of attention are applicable in auditing the general fina
   </條文>
   <條文>
     <條號>Article 69</條號>
-    <條文內容><![CDATA[Where the auditing agency suspects that there is negligence of duty or inefficiency while evaluating the performance of various government agencies, it should report its suspicion to the officer-in-charge of the respective higher agencies and also to the Control Yuan. Where the flaw is identifiable with defect in statutory or regulatory provisions, or due to inadequate facilities, recommendations for improvement shall be made for the benefit of the agencies concerned.
+    <條文內容><![CDATA[When auditing agencies consider the audited agencies negligence of duty or inefficiency after auditing their performance, they shall notify the authorities at the next higher level and the Control Yuan. Where the audited agencies have system defects or inadequate facilities, the auditing agencies shall provide recommendations to the audited agencies.
+Where the audit may improve the efficiency or advance public welfare, the auditing agencies shall provide recommendations to the audited agencies or related agencies.
+Where auditing agencies discover the potential risks which affect administrative, operational or business efficiencies of various government agencies, they shall provide the government agencies early-warning recommendations in order to respond better.
 ]]></條文內容>
   </條文>
   <條文>
