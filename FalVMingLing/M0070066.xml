@@ -3,7 +3,7 @@
 <法規名稱>辦理政策性農業專案貸款辦法</法規名稱>
 <法規網址>http://law.moj.gov.tw/LawClass/LawContent.aspx?PCODE=M0070066</法規網址>
 <法規類別>農業法規＞農業金融目</法規類別>
-<最新異動日期>20150826</最新異動日期>
+<最新異動日期>20160121</最新異動日期>
 <生效日期>
 </生效日期>
 <生效內容><![CDATA[]]></生效內容>
@@ -14,9 +14,7 @@
 </英文法規名稱>
 <附件>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152147</下載網址>
-  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152148</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152149</下載網址>
-  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152150</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152151</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152152</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152153</下載網址>
@@ -24,8 +22,6 @@
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152155</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152156</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152157</下載網址>
-  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152158</下載網址>
-  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152159</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152160</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152161</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152162</下載網址>
@@ -42,13 +38,17 @@
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152173</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152174</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152175</下載網址>
-  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152176</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152177</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152178</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152179</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152180</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152181</下載網址>
   <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000152182</下載網址>
+  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000173179</下載網址>
+  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000173180</下載網址>
+  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000173181</下載網址>
+  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000173182</下載網址>
+  <下載網址>http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000173183</下載網址>
 </附件>
 <沿革內容><![CDATA[1.中華民國一百零二年四月二十四日行政院農業委員會農金字第 1025080
   152 號令訂定發布全文 31 條；並自發布日施行
@@ -62,7 +62,10 @@
   7A  號令修正發布第 18 條條文；增訂第 22-1 條條文
 5.中華民國一百零四年八月二十六日行政院農業委員會農金字第 1045084
   368F  號令修正發布第 19、31 條條文；除第 19 條條文自一百零四年
-  八月九日施行外，自發布日施行]]></沿革內容>
+  八月九日施行外，自發布日施行
+6.中華民國一百零五年一月二十一日行政院農業委員會農金字第 1055084
+  030A  號令修正發布第 14 條條文及第 22 條條文之附表一之二、附表
+  一之四、附表一之十二、附表一之十三、第 24 條條文之附表二之十二]]></沿革內容>
 <法規內容>
   <條文>
     <條號>第 1 條</條號>
@@ -320,9 +323,9 @@
 三、原住民保留地之所有人或具原住民身分之原住民保留地合法使用人。
 四、農民團體。
 前項貸款期限依貸款用途及林木生長期覈實貸放，其貸款期限如下：
-一、造林地新植，最長二十年。
-二、造林地撫育，最長十九年。
-三、造林地管理，最長十四年。
+一、造林地新植，資本支出最長二十年，週轉金最長五年。
+二、造林地撫育，資本支出最長十九年，週轉金最長五年。
+三、造林地管理，資本支出最長十四年，週轉金最長五年。
 第一項貸款利率為年息百分之一點二五。
 ]]></條文內容>
   </條文>
