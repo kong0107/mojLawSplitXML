@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Securities Firms</英文法規名稱>
 <中文法規名稱>證券商管理規則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400072</法規網址>
-<最新英文異動日期>20150703</最新英文異動日期>
+<最新英文異動日期>20151112</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[21. Articles 2, 3, 4, 6, 17, 18, 20 to 31, 34, and 36 to 69 were amended by Securities & Futures Commission, Ministry of Finance on 5 October 2000 per Order Ref. No. (89) Taiwan-Finance-Securities-(2)-04351
@@ -39,6 +39,7 @@
 51. Articles 5, 9, 13, 18, 19, 19-2 to 19-4, 26, 38, 50, and 64 amended and issued per 4 February 2015 Order No. Financial-Supervisory-Securities-Firms-1040001299 of the Financial Supervisory Commission
 52. Article 9 amended and issued and Article 45-1 added per 28 April 2015 Order No. Financial-Supervisory-Securities-Firms-1040014014 of the Financial Supervisory Commission
 53. Articles 5, 53, and 54 amended and issued per 3 July 2015 Order No. Financial-Supervisory-Securities-Firms-1040024927 of the Financial Supervisory Commission
+54. Articles 19-7, 24, 31, 33, 36-2, 40 and 41 amended and issued per 12 November 2016 Order No. Financial-Supervisory-Securities-Firms-1040044236 of the Financial Supervisory Commission
 ]]></沿革內容>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -127,7 +128,7 @@ A securities firm trading securities for customers' accounts and its own account
 Before commencement of business operation of each domestic branch office, a securities firm shall make a lump sum deposit of NT$3 million to the settlement and clearing fund; provided that from the year following the business operation, the original amount shall be reduced to NT$500,000.
 A joint liability system shall be adopted for the settlement and clearing fund deposited by securities firms, and a special management committee of the fund shall be set up. The management rules shall be drafted by the TWSE with input from the securities dealers' association and reported to the FSC for approval. This provision shall apply to the amendment of the said rules.
 The special management committee of the fund may, depending on the degree of overall risk of a securities firm, notify the securities firm to make additional deposits to the settlement and clearing fund and report such to the FSC for recordation. The detailed rules for the above fund shall be drafted by the special management committee of the fund and reported to the FSC for approval. This provision shall apply to the amendment of the said rules.
-A securities firm operating over-the-counter securities trading business for customers' accounts or its own account shall make deposits to the TPEx settlement and clearing fund in compliance with the applicable requirements of the TPEx.
+A securities firm operating over-the-counter securities trading business for customers’ accounts or its own account shall make deposits to the TPEx settlement and clearing fund in compliance with the applicable requirements of the TPEx.
 ]]></條文內容>
   </條文>
   <條文>
@@ -149,7 +150,7 @@ In calculating the total amount of liabilities referred to in the preceding para
   <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[A securities firm, unless concurrently operated by a financial institution and subject to other relevant acts or regulations, shall, if it has already issued securities pursuant to the Act, set aside a 20 percent special reserve from the annual after-tax profit pursuant to Article 41 of the Act. However, if the accumulated amount reaches the paid-in capital amount, no further fund needs to be set aside.
-If it has not issued securities pursuant to the Act, it shall set aside a 20 percent special reserve from the annual after-tax profit. However, if the accumulated amount reaches the paid-in capital amount, no further fund needs to be set aside. 
+If it has not issued securities pursuant to the Act, it shall set aside a 20 percent special reserve from the annual after-tax profit. However, if the accumulated amount reaches the paid-in capital amount, no further fund needs to be set aside.
 The special reserve referred to in the preceding paragraph shall not be used for purposes other than covering the losses of the company or, when the special reserve reaches 50 percent of the amount of paid-in capital, half of it may be used for capitalization.
 ]]></條文內容>
   </條文>
@@ -171,7 +172,7 @@ Calculation of the periods in the subparagraphs of the preceding paragraph shall
   </條文>
   <條文>
     <條號>Article 14-3</條號>
-    <條文內容><![CDATA[Where a securities firm files for offering and issuance of securities pursuant to Article 6 of the Criteria Governing the Offering and Issuance of Securities by Securities Issuers, it may refrain from engaging a lead securities underwriter to conduct assessment if it meets the following financial and operational requirements: .
+    <條文內容><![CDATA[Where a securities firm files for offering and issuance of securities pursuant to Article 6 of the Criteria Governing the Offering and Issuance of Securities by Securities Issuers, it may refrain from engaging a lead securities underwriter to conduct assessment if it meets the following financial and operational requirements:
 1.None of the circumstances in Article 14-1, paragraph 1 exist.
 2.Its financial condition meets the provisions of Articles 13, 14, 16, 18, 18-1 and 19.
 3.Its regulatory capital adequacy ratio 6 months prior to the date of reporting is 200 percent or greater.
@@ -220,7 +221,7 @@ When funds are utilized under subparagraphs 4 and 5 of the preceding paragraph, 
   </條文>
   <條文>
     <條號>Article 18-1</條號>
-    <條文內容><![CDATA[When a securities firm makes equity investment in any securities, futures, financial, or other enterprises, the total amount of its equity investments in those enterprises may not exceed 40 percent of the securities firm's net worth, and shall comply with Article 13 of the Company Act. The FSC shall separately prescribe the scope of individual enterprises within which a securities firm may make equity investment and related provisions.
+    <條文內容><![CDATA[When a securities firm makes equity investment in any securities, futures, financial, or other enterprises, the total amount of its equity investments in those enterprises may not exceed 40 percent of the securities firm’s net worth, and shall comply with Article 13 of the Company Act. The FSC shall separately prescribe the scope of individual enterprises within which a securities firm may make equity investment and related provisions.
 When a securities firm merges with or acquires a financial institution, if approval is obtained from the FSC, the total amount of the investment therein may be exempted from the restriction in the preceding paragraph. In that event, the amount in excess shall be brought into compliance with the restriction within 6 months after the merger or acquisition.
 A securities firm that operates only securities brokerage business, when holding shares in any single company, may do so either by the method in paragraph 1, subparagraph 4 of the preceding article, or by the equity investment method in paragraph 1 herein, but not by both methods.
 ]]></條文內容>
@@ -233,7 +234,7 @@ A securities firm that operates only securities brokerage business, when holding
 3.The total amount of the investment cost of a securities firm in holdings of equity securities issued by a single related party may not exceed 5 percent of the firm's net worth. The total amount of the investment cost of a securities firm in holdings of equity securities issued by all related parties may not exceed 10 percent of the firm's net worth. However, these restrictions are exempted in the handling of exercise and hedging operations for call (put) warrants and structured instruments, and in the hedging of beneficial certificates of exchange traded funds and the underlying baskets of stock represented by such beneficial certificates.
 4.The total amount of the investment cost of a securities firm in holdings of straight corporate bonds issued by a single securities firm may not exceed 5 percent of the securities firm's net worth. The total amount of the investment cost of a securities firm in holdings of straight corporate bonds issued by all securities firms may not exceed 10 percent of the securities firm's net worth.
 The term "related party" in these Regulations is defined as determined in accordance with the Regulations Governing the Preparation of Financial Reports by Securities Firms.
-A securities firm, when holding shares in any single company, may do so either by the method of a proprietary trading position or by the equity investment method in paragraph 1 of the preceding article, but not by both methods. 
+A securities firm, when holding shares in any single company, may do so either by the method of a proprietary trading position or by the equity investment method in paragraph 1 of the preceding article, but not by both methods.
 If the aggregate of the securities acquired by a securities firm for underwriting purposes, counted in combination with those acquired under the preceding paragraph, exceeds the limit prescribed by the FSC, the portion in excess shall be sold within 1 year after its acquisition in accordance with Article 75 of the Act.
 ]]></條文內容>
   </條文>
@@ -295,7 +296,7 @@ A securities firm operating trading business in structured instruments linked to
   <條文>
     <條號>Article 19-7</條號>
     <條文內容><![CDATA[A securities firm that will engage with a professional institutional investor in a derivative financial product trade involving a linked underlying set out in Article 19-6, subparagraphs 1 to 3 shall submit an application to the TPEx with the relevant documentation. The TPEx will forward the application to the FSC, and such a trade may take place only subsequent to the FSC's first issuance of an approval to a securities firm for such a trade. An application must be submitted to the Central Bank for any trade of a derivative financial product set out in Article 19-6, subparagraph 4.
-The term "professional institutional investor" as used in Article 19-3, paragraph 3, Article 19-6, and the preceding paragraph means domestic and foreign banks, insurance companies, bills finance companies, securities firms, fund management companies, government investment institutions, government funds, pension funds, mutual funds, unit trusts, securities investment trust companies, securities investment consulting companies, trust enterprises, futures commission merchants, futures service enterprises, and other institutions approved by the FSC.
+The term "professional institutional investor" as used in Article 19-6, and the preceding paragraph means the professional institutional investors as defined in Article 3 of the Regulations Governing Offshore Structured Products.
 ]]></條文內容>
   </條文>
   <條文>
@@ -328,7 +329,8 @@ Where the regulatory capital adequacy ratio of a securities firm is less than 12
   <條文>
     <條號>Article 24</條號>
     <條文內容><![CDATA[A securities firm that underwrites securities shall make a public announcement of the underwriting and shall publish such announcement in local daily newspapers. Matters to be published shall include the method for deciding the offering price and a description of the basis of pricing, conclusions of the assessment report of the securities firm, the place where the prospectus is available and the method to obtain such prospectus.
-If the offering price referred to in the preceding paragraph is decided through negotiations between the securities underwriter and the issuer or holder of the securities, in addition to the matters referred to in the preceding paragraph, the public announcement shall include financial information based on which the offering price is decided and the audited opinion of the certified public accountants on the financial information. In calculation of the profitability of each share, the financial information based on which the offering price is decided shall fully reflect the dilution effect caused by the increase of issued shares. The calculation basis of information obtained from different sources of different time periods shall be consistent.
+A securities firm that underwrites straight corporate bonds shall not be subject to the restrictions of the preceding subparagraph regarding the publishing of such announcement in local daily newspapers, if the sales target is limited to professional institutional investors as specified in the Taipei Exchange Rules Governing Management of Foreign Currency Denominated International Bonds, and the underwriting announcement has been published on the website of the securities dealers association.
+If the offering price referred to in paragraph 1 is decided through negotiations between the securities underwriter and the issuer or holder of the securities, in addition to the matters referred to paragraph 1, the public announcement shall include financial information based on which the offering price is decided and the audited opinion of the certified public accountants on the financial information. In calculation of the profitability of each share, the financial information based on which the offering price is decided shall fully reflect the dilution effect caused by the increase of issued shares. The calculation basis of information obtained from different sources of different time periods shall be consistent.
 ]]></條文內容>
   </條文>
   <條文>
@@ -398,7 +400,7 @@ A securities firm shall preserve relevant materials in underwriting cases referr
   <條文>
     <條號>Article 31</條號>
     <條文內容><![CDATA[A securities firm trading securities for its own account shall adopt a trading policy and related procedures. Except as otherwise provided by the FSC, the operational procedures for trade analysis, decision-making, execution, change, and review shall be included in its internal control system.
-The written materials referred to in the preceding paragraph shall be recorded in chronological order and kept in files. They shall be preserved for a period of not less than 5 years.
+The materials referred to in the preceding paragraph shall be recorded in chronological order and kept in files. They shall be preserved for a period of not less than 5 years.
 ]]></條文內容>
   </條文>
   <條文>
@@ -448,7 +450,7 @@ A securities firm selling securities by borrowing them as referred to in the pre
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[When a securities firm enters into a brokerage agreement with its customer, it shall appoint its personnel to explain the contents of the contract and the relevant procedures for trading securities.
+    <條文內容><![CDATA[When a securities firm enters into a brokerage agreement with its customer, it shall explain the contents of the contract and the relevant procedures for trading securities.
 ]]></條文內容>
   </條文>
   <條文>
@@ -489,7 +491,7 @@ The compensation or bonuses paid to personnel of a consulting services departmen
   </條文>
   <條文>
     <條號>Article 36-2</條號>
-    <條文內容><![CDATA[When an underwriting department of a securities firm underwrites securities, during the period from the time the securities firm enters into an advisory contract with a public issuer until the termination of the advisory relationship, or from the time the securities firm enters into an underwriting contract with a TWSE listed or TPEx listed company until the deadline for payment, its consulting services department shall not recommend any trading of that security or any derivative financial product thereof; a discretionary investment department may not purchase securities for a customer without first explicitly informing the customer of any related conflicts of interest and control measures and then obtaining the customer's written consent on an instance-by-instance basis, and specifically stating the quantity of the securities that may be purchased.
+    <條文內容><![CDATA[When an underwriting department of a securities firm underwrites securities, during the period from the time the securities firm enters into an advisory contract with a public issuer until the termination of the advisory relationship, or from the time the securities firm enters into an underwriting contract with a TWSE listed or TPEx listed company until the deadline for payment, its consulting services department shall not recommend any trading of that security or any derivative financial product thereof; a discretionary investment department may not purchase securities for a customer without first explicitly informing the customer of any related conflicts of interest and control measures and then obtaining the customer's consent on an instance-by-instance basis, and specifically stating the quantity of the securities that may be purchased.
 When an underwriting department of a securities firm obtains securities through a firm commitment underwriting, the provisions of the preceding paragraph shall apply mutatis mutandis to the handling of those securities by the consulting services department and discretionary investment department of the securities firm until such time as all the procedures of the firm commitment underwriting have been completed in accordance with regulations.
 ]]></條文內容>
   </條文>
@@ -539,18 +541,12 @@ A securities firm may, with the consent of the customer, retain the customer's s
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[A securities firm accepting orders to trade securities shall not place the securities deposited by the customers under its custody. It shall deliver such securities to the centralized securities depository on the same day; provided that the securities firms which are located in areas other than Taipei City and New Taipei City may deliver the securities for centralized custody on the following business day.
-The provisions in the preceding paragraph shall also apply to any of the following conditions:
-1.Where a customer that indicates when placing a buy order that he/she will withdraw the securities for his/her own custody fails to do so on the day on which the securities firm is to deliver the securities;
-2.Where a customer places a sell order but no transaction is consummated, and the securities have been previously delivered to the securities firm but not been claimed;
-3.Where a customer engages the securities firm to deliver the securities to the centralized depository for custody; or
-4.Where a customer engages the securities firm to withdraw securities deposited in the centralized depository but fails to take delivery as scheduled.
+    <條文內容><![CDATA[A securities firm accepting orders to trade securities shall not place the securities deposited by the customers under its custody. It shall handle the securities pursuant to the regulations of the centralized securities depository.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[A securities firm accepting orders to trade securities shall collect or deliver the funds or securities within the time limit for settlement. When receiving or delivering stocks to a customer, it shall fill in the securities delivery statement, enter the stock certificate number, and have the customer sign the said statement.
-If the securities delivery statement referred to in the preceding paragraph is for securities to be traded on the centralized stock exchange, an additional copy shall be delivered to the TWSE for recordation; if the said statement is for the securities to be traded on the TPEx, an additional copy shall be delivered to the TPEx for recordation.
+    <條文內容><![CDATA[A securities firm accepting orders to trade securities shall collect or deliver the funds or securities within the time limit for settlement.
 ]]></條文內容>
   </條文>
   <條文>
@@ -573,6 +569,12 @@ If the funds and securities of the customers of a securities firm accepting orde
   <條文>
     <條號>Article 45</條號>
     <條文內容><![CDATA[While operating its securities business, when a securities firm obtains information which may materially affect the price of the stocks listed on the TWSE or traded on the TPEx, it shall not trade on such stocks or provide the said information to its customers or other persons before the information becomes public.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 45-1</條號>
+    <條文內容><![CDATA[Securities firms operating equity crowdfunding business shall do so in accordance with applicable rules adopted by the TPEx.
+A securities firm that operates only equity crowdfunding business is not subject to the provisions of Article 2, Article 5, Article 6, Article 13, Article 14, Article 18, Article 18-1, Article 21, Chapter V, and Chapter VI.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter IV Merger</編章節>
