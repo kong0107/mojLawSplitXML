@@ -3,7 +3,7 @@
 <英文法規名稱>Value-added and Non-value-added Business Tax Act</英文法規名稱>
 <中文法規名稱>加值型及非加值型營業稅法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340080</法規網址>
-<最新英文異動日期>20140604</最新英文異動日期>
+<最新英文異動日期>20151230</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1. Pormulgated on June 13, 1931
@@ -44,7 +44,8 @@
 36. Articles 3-2, 6-1, 8-3, 30-1, 42-1, 48-1 added and Articles 2, 5, 7, 8, 9, 13, 16, 20, 23, 28, 30, 32, 36, 51 amended and promulgated on 26 January 2011 by Presidential Decree No. Hua-Tsung-1-Yi 10000016571. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan.(The amendments came into force from 1 April 2011)
 37. Article 36-1 was added and promulgated on 23 November 2011 by Presidential Decree No. Hua-Tsung-1-Yi 1000025971. The effective date of the amendment to the act shall be prescribed by the Executive Yuan..(The amendment came into force from 23 November 2011)
 38. Article 12 was amended and promulgated on 8 January 2014 by Presidential Decree No. Hua-Tzung-1-Yi 10300000631.
-39. Articles 11 and 36 were amended and promulgated on 4 June 2014 by Presidential Decree No. Hua-Tzung-1-Yi 10300085111. (The amendments came into force from 1 July 2014)]]></沿革內容>
+39. Articles 11 and 36 were amended and promulgated on 4 June 2014 by Presidential Decree No. Hua-Tzung-1-Yi 10300085111. (The amendments came into force from 1 July 2014)
+40. Addendum to Article 32-1 and Amendments to Articles 32, 45-48, 49, and 52 are promulgated via Presidential Decree No. Hua-Tsung-1-Yi 10400151441 on 30 December 2015. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan. (The amendments came into force from 1 January 2016)]]></沿革內容>
 <法規內容>
   <編章節>   Chapter　1　General Provisions</編章節>
   <條文>
@@ -160,7 +161,7 @@ Regulations concerning the calculation of the one-year period, the scope of exhi
 8. The goods or services sold by student-run shops of vocational schools which do not serve outsiders.
 9. Newspapers, magazines, news letters, advertisements, television and broadcasting programs produced and sold by legally registered newspaper and magazine publishers, news agencies, and television and broadcasting stations, excluding the advertisements sold by newspaper publishers and advertisements broadcasted by television stations.
 10. The goods or services sold to their members by cooperatives managed in accordance with the law; and business consigned by government to said cooperatives.
-11.The goods or services sold to their members by farmers', fishermen's, workers', commercial and industrial associations in accordance with the law, business consigned by the government to said associations, and the management fee charged in accordance with Article 27 of “The Agricultural Products Market Transaction Act” for the use of an agricultural products wholesale market and in which the share ownership of farmers' associations, fishermen's associations, cooperatives and government institutions accounts for more than 70%.
+11. The goods or services sold to their members by farmers', fishermen's, workers', commercial and industrial associations in accordance with the law, business consigned by the government to said associations, and the management fee charged in accordance with Article 27 of “The Agricultural Products Market Transaction Act” for the use of an agricultural products wholesale market and in which the share ownership of farmers' associations, fishermen's associations, cooperatives and government institutions accounts for more than 70%.
 12. The proceeds from goods sold in tenders, charity sales and charity shows held by charity and relief institutions organized according to the law, provided that the total proceeds are solely used by said institutions after deducting the necessary expenditures for the tenders, charity sales and charity shows.
 13. The goods or services sold by employee welfare organizations of government bodies, state enterprises and social organizations which are organized and operated under relevant laws and are not open to the public.
 14. The goods or services sold by prison workshops and their finished goods stores.
@@ -379,21 +380,31 @@ An application by a business entity under the preceding paragraph, for amendment
     <條文內容><![CDATA[Prior to the temporary suspension of business or a resumption of business after the suspension, the business entity shall file for approval with the competent tax authority for such event.
 ]]></條文內容>
   </條文>
-  <編章節>      Section　2　 Books and Documentary Evidence</編章節>
+  <編章節>      Section　2　Books and Documentary Evidence</編章節>
   <條文>
     <條號>Article 32</條號>
     <條文內容><![CDATA[Business entities selling goods or services shall issue uniform invoices to the purchaser at the time stipulated in "The Table of the Time Limits for Issuing Documentary Evidence of Sales" in this Act. Business entities of a special nature or small business entities may be exempted from issuing uniform invoices, and may, instead, issue ordinary receipts.
 The list price set by a business entity for taxable goods or services shall be inclusive of the business tax.
 Where a business entity calculates the output tax pursuant to Article 14, if the purchaser is a business entity, the output tax and the sales amount shall be stated separately on the uniform invoice; if the purchaser is not a business entity, the uniform invoice shall be issued at the list price.
-The uniform invoice shall be printed and sold by the government, or the business entity may print its own invoices with approval from the government. The forms, items to be recorded, and use of invoices shall be prescribed by the Ministry of Finance.
+The uniform invoice shall be printed and sold by the government, or the business entity may print its own invoices with approval from the government or issued, transmitted or obtained via the internet or by other electronic means. The forms, items to be recorded, and use of invoices shall be prescribed by the Ministry of Finance.
 The competent tax authority may approve a business entity to use a cash register to issue uniform invoices or to issue cash register receipts instead of issuing uniform invoices on an item-by-item basis. Regulations governing the use of cash registers shall be provided by the Ministry of Finance.
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 32-1</條號>
+    <條文內容><![CDATA[When Business entities sell goods or services and issues and transmits electronic uniform invoices under Paragraphs 4 of the preceding article, they shall upload the information of uniform invoices to the E-Invoice Platform of the Ministry of Finance; with respect to purchasers requesting uniform invoices by carriers which are approved by the competent tax authority, business entities shall upload the information of uniform invoices with the identification codes of carriers.
+The carriers in the preceding paragraph denote the numbers used to record or connect the information of E-Invoice as follows：
+1. National ID card numbers, the Citizen Digital Certificate numbers, phone numbers, and membership numbers of business entities or their partner institutions.
+2. The payment instruments numbers of credit card, debit card, electronic payment account, and electronic stored value card and so on, used by purchasers when trading.
+3. Other numbers used to record or connect the information of E-Invoice.
+The identification codes of carriers in Paragraph 1 denote the numbers used by the E-Invoice Platform of the Ministry of Finance to recognize the category of the carriers and the carriers in the preceding paragraph.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[A business entity which deducts input tax from output tax shall maintain the following documentary evidence with its name, address, and business administration number on such documents.
-1. Uniform invoices specifying business tax paid on purchases of goods and services.
-2. Uniform invoices specifying the amount of business tax issued by the business entity itself under the circumstances deemed as sales of goods or services as prescribed in paragraph 3 or paragraph 4 of Article 3.
+    <條文內容><![CDATA[A business entity which deducts input tax from output tax shall maintain the following documentary evidence with its name, address, and business administration number on such documents. 
+1. Uniform invoices specifying business tax paid on purchases of goods and services. 
+2. Uniform invoices specifying the amount of business tax issued by the business entity itself under the circumstances deemed as sales of goods or services as prescribed in paragraph 3 or paragraph 4 of Article 3. 
 3. Other documentary evidence specifying the amount of business tax and approved by the Ministry of Finance.
 ]]></條文內容>
   </條文>
@@ -492,20 +503,19 @@ The records referred to in the preceding paragraph shall be signed by the busine
   <編章節>   Chapter　6　Penalty Provisions</編章節>
   <條文>
     <條號>Article 45</條號>
-    <條文內容><![CDATA[A business entity failing to apply for a business registration in accordance with the prescribed provision, in addition to being ordered to comply with the requirements within a specified time limit, shall be punished with an administrative fine of no less than NT$3,000 and no more than NT$30,000. In case of a failure in compliance with the requirements within the specified time limit, the business entity may be punished repeatedly according to the relevant laws and regulations.
+    <條文內容><![CDATA[A business entity failing to apply for a business registration in accordance with the prescribed provision, in addition to being ordered to comply with the requirements within a specified time limit, may be punished with an administrative fine of no less than NT$3,000 and no more than NT$30,000. In case of a failure in compliance with the requirements within the specified time limit, the business entity may be punished consecutively for each violation according to the relevant laws and regulations.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[In any of the following circumstances, the business entity, in addition to being notified to make corrections or to comply with the requirements within a specified time limit, shall be fined no less than NT$ 1,500 and no more than NT$15,000. Failure in compliance with the rules within the time limit may result in repeated punishment until compliance according to the relevant laws and regulations.
+    <條文內容><![CDATA[In any of the following circumstances, the business entity, in addition to being notified to make corrections or to comply with the requirements within a specified time limit, may be fined no less than NT$ 1,500 and no more than NT$15,000. Failure in compliance with the rules within the time limit may result in continuous punishment for each violation until compliance according to the relevant laws and regulations:
 1. The business entity fails to comply with the rules to apply for amendment to registration, cancellation of registration, or temporary suspension or resumption of business.
 2. The business entity makes false statements in applying for business registration, amendment to registration, or cancellation of registration.
-3. The business entity fails to submit the account books to the competent tax authority for examination and stamping within the prescribed time period.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 47</條號>
-    <條文內容><![CDATA[In any of the following circumstances, the taxpayer, in addition to being notified to make corrections or to comply with the requirements within a specified time limit, shall be fined no less than NT$3,000 and no more than NT$30,000. Failure in compliance with the rules within the time limit may result in continuous punishment and suspension of business.
+    <條文內容><![CDATA[In any of the following circumstances, the taxpayer, in addition to being notified to make corrections or to comply with the requirements within a specified time limit, may be fined no less than NT$3,000 and no more than NT$30,000. Failure in compliance with the rules within the time limit may result in continuous punishment for each violation and suspension of business:
 1. Where uniform invoices have not been used, although prescribed.
 2. Where uniform invoices have been supplied for use by others.
 3. Where there is refusal to accept payment notice of business tax.
@@ -513,8 +523,8 @@ The records referred to in the preceding paragraph shall be signed by the busine
   </條文>
   <條文>
     <條號>Article 48</條號>
-    <條文內容><![CDATA[In the event a business entity fails to record the necessary particulars or records false data on issuing uniform invoices, in addition to being ordered to make corrections or fulfill the requirements within a specified time limit, the business entity shall be fined an administrative fine of 1% of the sales amount on the uniform invoice, but in an amount of no less than NT$1,500 and no more than NT$15,000. In case the business entity fails to make corrections after being notified, or fails to make appropriate corrections, the penalty shall be imposed repeatedly according to the relevant laws and regulations.
-In case the aforementioned unrecorded item on the uniform invoice is the name, address, or business administration number of the purchaser, the repeated punishment shall be 2% of the sales amount stated on the invoice and shall be no less than NT$3,000 and no more than NT$30,000.
+    <條文內容><![CDATA[In the event a business entity fails to record the necessary particulars or records false data on issuing uniform invoices, in addition to being ordered to make corrections or fulfill the requirements within a specified time limit, the business entity shall be fined an administrative fine of 1% of the sales amount on the uniform invoice, but in an amount of no less than NT$1,500 and no more than NT$15,000. In case the business entity fails to make corrections or fulfill the requirements after being notified, or fails to make appropriate corrections or fulfill the appropriate requirements, the penalty shall be imposed consecutively for each violation according to the relevant laws and regulations.
+In case the aforementioned unrecorded or false recorded item on the uniform invoice is the name, address, or business administration number of the purchaser, the second and the subsequent punishment shall be 2% of the sales amount stated on the invoice and shall be no less than NT$3,000 and no more than NT$30,000.
 ]]></條文內容>
   </條文>
   <條文>
@@ -548,7 +558,8 @@ In the event that a taxpayer falls within the circumstance of subparagraph 5 of 
   </條文>
   <條文>
     <條號>Article 52</條號>
-    <條文內容><![CDATA[A business entity found to have failed to issue uniform invoices or understated sales amount on uniform invoices, in addition to paying the tax calculated on the basis of the understated or omitted sales amount at the prescribed tax rate, shall be fined 1 to 10 times of the amount of the tax evaded. Business entities found to have committed such violation three times within a one-year period shall be suspended from business operation.
+    <條文內容><![CDATA[A business entity found to have failed to issue uniform invoices or understated sales amount on uniform invoices before the statutory period for filing a tax return, in addition to paying the tax calculated on the basis of the understated or omitted sales amount at the prescribed tax rate, shall be fined no more than 5 times the amount of the tax evaded. But the amount of fines shall not exceed NT$1,000,000.
+Business entities found to have the aforementioned circumstance and committed such a violation three times within a one-year period shall be suspended from business operation.
 ]]></條文內容>
   </條文>
   <條文>
