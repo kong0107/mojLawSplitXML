@@ -202,15 +202,16 @@ The provisions of the preceding two Paragraphs shall also be applicable to the d
     <條文內容><![CDATA[Where a business entity sells a parcel of land together with building fixed on the land, unless the selling price for the land and that for the building are stated separately, the sales amount for the building shall be calculated based on the ratio of the assessed standard price of the unit of the building (inclusive of business tax) to the total of the government-assessed current value of the land and the assessed standard price of the unit of the building (inclusive of business tax). The formula for calculation is as follows:
 Selling price of the building =
 
-　　　　　　　　　　Assessed standard price of the unit of the building
-　　　　　　　　　　× (1 + Applicable tax rate)
+　　　　　　　　　　　　　　Assessed standard price of the unit of the building
+　　　　　　　　　　　　　　× (1 + Applicable tax rate)
 Selling price of
-the land and building × ────────────────────────────
-　　　　　　　　　　Government-assessed current value of the land +
-　　　　　　　　　　Assessed standard price of the unit of the building
-　　　　　　　　　　× (1 + Applicable tax rate)
+the land and building × ──────────────────────────────
+　　　　　　　　　　　　　　Government-assessed current value of the land +
+　　　　　　　　　　　　　　Assessed standard price of the unit of the building
+　　　　　　　　　　　　　　× (1 + Applicable tax rate)
 
-Sales amount of the building = Selling price of the building ÷ (1 + Applicable tax rate)]]></條文內容>
+Sales amount of the building = Selling price of the building ÷ (1 + Applicable tax rate)
+]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
@@ -234,7 +235,6 @@ Security deposit × ────────────────────
 
 With respect to a business entity subject to calculation of business tax under Section 2 of Chapter 4 of the Act, the sales amount for security deposits it receives from the leasing out of property shall be calculated on a monthly basis, provided that for any term of lease of less than a full month, the sales amount need not be calculated. The formula for calculation is as follows:
 Sales amount = Security deposit × Fixed interest rate for a one-year postal time deposit as announced on 1 January of the lease year ÷12
-
 ]]></條文內容>
   </條文>
   <條文>
