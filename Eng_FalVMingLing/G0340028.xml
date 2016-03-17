@@ -3,7 +3,7 @@
 <英文法規名稱>Standards of Withholding Rates for Various Incomes</英文法規名稱>
 <中文法規名稱>各類所得扣繳率標準</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340028</法規網址>
-<最新英文異動日期>20130905</最新英文異動日期>
+<最新英文異動日期>20160106</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1.The Standards were reviewed and ratified under Decree No. 10591 issued by the Executive Yuan on December 31, 1973.
@@ -32,7 +32,8 @@
 24.The Standards were amended by Decree No.09804570160 issued by the Ministry of Finance on October 28, 2009.
 25.Article 2 and Article 14 of the Standards were amended by Decree No. 09900528810 issued by Ministry of Finance on December 22, 2010.
 26.Article 1, Article 2-1, Article 11, and Article 14 of the Standards were amended by Decree No. 10100685000 issued by Ministry of Finance on November 1, 2012.
-27.Article 1, Article 2-1, and Article 14 of the Standards were amended by Decree No. 10200650920 issued by Ministry of Finance on September 5, 2013.]]></沿革內容>
+27.27.Article 1, Article 2-1, and Article 14 of the Standards were amended by Decree No. 10200650920 issued by Ministry of Finance on September 5, 2013.
+28.Amendment to Articles 8、11、14 and addendums to Article 13-1 of the Standards were amended by Decree No. 10400737840 issued by Ministry of Finance on January 6, 2016.]]></沿革內容>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
@@ -42,11 +43,11 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[Where a taxpayer is an individual residing within the territory of the Republic of China, or a profit-seeking enterprise having its fixed place of business within the territory of the Republic of China, tax shall be withheld in accordance with the following rules:
-1.Tax on salary is withheld in either of the following ways, one of which is to be selected and applied by the taxpayer, however, for the wages for a part-time job and/or a salary not paid monthly, tax shall be withheld in accordance with “The Regulations Governing the Withholding of Tax on Wages”:
+1. Tax on salary is withheld in either of the following ways, one of which is to be selected and applied by the taxpayer, however, for the wages for a part-time job and/or a salary not paid monthly, tax shall be withheld in accordance with “The Regulations Governing the Withholding of Tax on Wages”:
 (1)The total monthly payment is withheld in accordance with the Regulations Governing the Withholding of Tax on Wages. For porters in docks and stations and temporary workers in the construction industry, etc. whose wage is calculated and paid on daily basis, their wages are exempted from tax being withheld, but the tax withholder shall still file a withholding report to the tax collecting authority-in-charge in accordance with Paragraph 3 of Article 89 of the ITA.
 (2)5% of the total monthly payment is withheld.
 2. For commission, 10% of the payment is withheld.
-3.Tax on interest is withheld in accordance with the following rules:
+3. Tax on interest is withheld in accordance with the following rules:
 (1)Interest on favorable pension (discharge) fund savings of military personnel, civil servants, and teachers shall be exempted from tax being withheld, but the tax withholder shall file a withholding report to the tax collecting authority-in-charge as applicable under Paragraph 3 of Article 89 of the ITA.
 (2)For interest from the portion of the pecuniary amount realized by short-term commercial papers at their maturity in excess of the selling price at their initial issuance, 10% of the payment is withheld.
 (3)For interest distributed from beneficiary securities or asset-backed securities issued in accordance with the Financial Asset Securitization Act or the Real Estate Securitization Act, 10% of the distribution is withheld.
@@ -118,7 +119,11 @@ If the beneficiary prescribed in the preceding paragraph is an individual not re
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[Where a beneficiary prescribed in Paragraph 3 of Article 3-4 of the ITA is not specified or not in existence yet, the tax shall be declared and paid according to a withholding rate of 20% for the income calculated in accordance with the pertinent regulations.
+    <條文內容><![CDATA[Where a beneficiary prescribed in Paragraph 3 of Article 3-4 of the ITA is not specified or not in existence yet, the tax shall be declared and paid according to a withholding rate of 20% for the income calculated in accordance with the pertinent regulations. However, when considering the amount of income arising from disposition of the house, land, or the right to use a house in Article 4-4 of the ITA by the trustee which is calculated in accordance with Paragraph 3, Article 14-4 of the ITA, the tax shall then be declared and paid in accordance with the following withholding rate according to the holding period of the property:
+1. The withholding rate shall be 45% if the holding period is no more than 1 year.
+2. The withholding rate shall be 35% if the holding period is more than 1 year but no more than 2 years.
+3. The withholding rate shall be 20% if the holding period is more than 2 years but no more than 10 years.
+4. The withholding rate shall be 15% if the holding period is more than 10 years.
 ]]></條文內容>
   </條文>
   <條文>
@@ -133,10 +138,14 @@ If the beneficiary prescribed in the preceding paragraph is an individual not re
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[Where an individual outside the territory of the Republic of China derives income from securities transactions as stipulated in the proviso to Article 4-1, he or she shall file and pay the tax in accordance with the withholding rate of 15% of the income.
-Where an individual of the Mainland Area residing and staying in the Taiwan Area for less than 183 days in a taxable year in accordance with Paragraph 4 of Article 25 of the AGR derives income from securities transactions as stipulated in the proviso to Article 4-1, he or she shall file and pay the tax as applicable under the preceding Paragraph of this Article.
-Where a profit-seeking enterprise not having any fixed place of business and business agent within the territory of the Republic of China derives income from a property transaction, it shall file and pay the tax in accordance with the withholding rate of 20% of the income. Where an individual outside the territory of the Republic of China derives income from a property transaction other than that specified in Paragraph 1 or income from self-undertaking in farming, fishing, animal husbandry, forestry and mining, he or she shall file and pay the tax in accordance with the withholding rate of 20% of the income; for other income, he or she shall file and pay the tax in accordance with the withholding rate of 20% of the income.
-Where a juristic person, organization, or other institution of the Mainland Area not having any fixed place of business and business agent in the Taiwan Area in accordance with Paragraph 4 of Article 25 of the AGR derives income form a property transaction, and an individual of the Mainland Area residing and staying in the Taiwan Area for less than 183 days in a taxable year in accordance with the aforesaid provision derives income from a property transaction other than that specified in Paragraph 2, income from self-undertaking in farming, fishing, animal husbandry, forestry and mining and other income, income shall be filed and paid as applicable under the preceding Paragraph of this Article.
+    <條文內容><![CDATA[Where an individual outside the territory of the Republic of China derives income arising from transactions of house, land, or the right to use a house in Article 4-4 of the ITA which is calculated in accordance with Paragraph 3, Article 14-4 of the ITA, he or she shall file and pay the tax in accordance with the following withholding rate according to the holding period of the house, land, or the right to use a house:
+1. The withholding rate shall be 45% if the holding period is no more than 1 year.
+2. The withholding rate shall be 35% if the holding period is more than 1 year.
+Where an individual of the Mainland Area residing and staying in the Taiwan Area for less than 183 days in a taxable year in accordance with Paragraph 4, Article 25 of the AGR derives income which is calculated in accordance with Paragraph 3, Article 14-4 of the ITA, he or she shall file and pay the tax as applicable under the preceding Paragraph of this Article.
+Where a profit-seeking enterprise has neither any fixed place of business nor business agent within the territory of the Republic of China but derives income arising from the transaction of a house and land in accordance with Paragraph 1 in Article 4-4 of the ITA which is calculated in accordance with Paragraph 1, Article 24-5 of the ITA, or derives income arising from the transaction of such offshore company shares in accordance with Paragraph 4 in Article 24-5 of the ITA, shall file and pay the tax in accordance with the withholding rate under Paragraph 1 of this Article.
+Where a juristic person, organization, or other institution of the Mainland Area has neither any fixed place of business nor business agent in the Taiwan Area in accordance with Paragraph 4, Article 25 of the AGR but derives income arising from the transaction of a house and land in accordance with Paragraph 1 in Article 4-4 of the ITA which is calculated in accordance with Paragraph 1, Article 24-5 of the ITA, or derives income arising from the transaction of such offshore company shares in accordance with Paragraph 4 in Article 24-5 of the ITA, shall file and pay the tax as applicable under the preceding Paragraph of this Article.
+Where a profit-seeking enterprise has neither any fixed place of business nor business agent within the territory of the Republic of China derives income from a property transaction other than that specified in Paragraph 3, it shall file and pay the tax in accordance with the withholding rate of 20% of the income. Where an individual outside the territory of the Republic of China derives income from a property transaction other than that specified in Paragraph 1 or income from self-undertaking in farming, fishing, animal husbandry, forestry, and mining or other income as described in Article 14 of the ITA, he or she shall file and pay the tax in accordance with the withholding rate of 20% of the income.
+Where a juristic person, organization, or other institution of the Mainland Area has neither any fixed place of business nor business agent in the Taiwan Area in accordance with Paragraph 4, Article 25 of the AGR derives income form a property transaction other than that specified in Paragraph 4, and an individual of the Mainland Area residing and staying in the Taiwan Area for less than 183 days in a taxable year in accordance with the aforesaid provision of AGR derives income from a property transaction other than that specified in Paragraph 2, income from self-undertaking in farming, fishing, animal husbandry, forestry mining, and other income as described in Article 14 of the ITA, that income shall be filed and paid as applicable under the preceding Paragraph of this Article.
 ]]></條文內容>
   </條文>
   <條文>
@@ -159,8 +168,14 @@ Where the annual income as prescribed in the preceding two paragraphs paid to a 
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 13-1</條號>
+    <條文內容><![CDATA[Where a profit-seeking enterprise has its fixed place of business within the territory of the Republic of China derives income as prescribed in Article 2, and the tax to be withheld each time by the tax withholder does not exceed NT$2,000, the tax is exempted from being withheld. However, the income subject to separate taxation in accordance with the ITA will still be withheld according to the pertinent rules.
+Where a juristic person, organization, or other institution of the Mainland Area has its fixed place of business or business agent in the Taiwan Area in accordance with Paragraph 3 of Article 25 of the AGR derives income as prescribed in Article 2, any tax on income shall be withheld as applicable under the preceding paragraph of this Article.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[The Standards are effective from the date of promulgation, however the provisions under Article 2, Article 3, Article 4, Article 5, Article 9 and Article 13 amended on October 28, 2009 shall come into force on January 1, 2010. The Articles amended on December 22, 2010 shall come into force on January 1, 2011. The Articles amended on November 1, 2012 shall come into force on January 1, 2013. The Articles amended on September 5, 2013 shall come into force on January 1, 2013.
+    <條文內容><![CDATA[The Standards are effective from the date of promulgation, however the provisions under Article 2, Article 3, Article 4, Article 5, Article 9 and Article 13 amended on October 28, 2009 shall come into force on January 1, 2010. The Articles amended on December 22, 2010 shall come into force on January 1, 2011. The Articles amended on November 1, 2012 shall come into force on January 1, 2013. The Articles amended on September 5, 2013 shall come into force on January 1, 2013.The articles amended on January 6, 2016 shall come into force on January 1, 2016.
 ]]></條文內容>
   </條文>
 </法規內容>
