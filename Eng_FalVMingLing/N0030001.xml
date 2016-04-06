@@ -3,7 +3,7 @@
 <英文法規名稱>Labor Standards Act</英文法規名稱>
 <中文法規名稱>勞動基準法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=N0030001</法規網址>
-<最新英文異動日期>20150701</最新英文異動日期>
+<最新英文異動日期>20151216</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1.Enacted and promulgated a total eighty-six articles of the Act by the Presidential Order No.14069 on July 30, 1984
@@ -19,7 +19,8 @@
 11.Amended on  December 11,2013
 12.Amended and promulgated Article 17, 28, 55, 56, 78, 79 and 86, added Article 80-1 of the Act by the Presidential Order No. 10400012401 on February 4, 2015. The amendments shall take effect from the day of promulgation except for Paragraph 1 of Article 28, which shall take effect eight months after promulgation.
 13.Amendments to Articles 4, 30, 79 and 86 are promulgated per Presidential Hua-Zong-Yi-Yi-Zi Decree No. 10400064421 on June 3, 2015, and shall effect from January 1, 2016
-14.Article 58 of the Labor Standards Act amended and promulgated by Presidential Decree No. 10400077211 on July 1, 2015]]></沿革內容>
+14.Article 58 of the Labor Standards Act amended and promulgated by Presidential Decree No. 10400077211 on July 1, 2015
+15.Amended on December 16, 2015]]></沿革內容>
 <法規內容>
   <編章節>   Chapter Ⅰ General Provisions</編章節>
   <條文>
@@ -92,8 +93,30 @@ The preceding paragraph shall not apply in the case of a fixed term contract for
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 9-1</條號>
+    <條文內容><![CDATA[An employer shall not make a after-resignation business strife limitation agreement with an employee unless the following requirements have been met:
+1. The employer has proper business interests that require being protected.
+2. The position or job of the employee entitles him or her to have access to or be able to use the employer’s trade secrets.
+3. The period, area, scope of occupational activities and prospective employers with respect to the business strife limitation shall not exceed a reasonable range.
+4. The employer shall reasonably compensate the employee concerned who does not engage in business strife activities for the losses incurred by him or her.
+The reasonable compensation referred to in Subparagraph 4 of the preceding paragraph shall not include the remuneration received by the employee during employment.
+Any agreement in violation of any of the provisions of Paragraph 1 shall be null and void.
+The period of business strife limitation shall not exceed a maximum up to two years. If such a period is more than two years, then it shall be shortened to two years.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[If a new contract is executed, or an existing contract is renewed, within three months after the expiration of a fixed term contract or the termination of a non-fixed term contract for cause, the service period accrued before the execution or renewal of the contract shall be combined with the service period of the new or renewed contract in any computation of service period.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 10-1</條號>
+    <條文內容><![CDATA[When transferring an employee, an employer shall not violate the provisions of labor contract and shall also satisfy the following principles:
+1. The employee shall be transferred based on the needs of business operation and without improper motives or purposes. Matters not provided for herein shall be governed by other applicable statutes.
+2. The wages and other working conditions shall not be changed to be unfavorable to the employee concerned.
+3. The employee shall still be able to satisfactorily perform the duties required in terms of physical ability and skills after the transfer.
+4. The employer shall provide necessary assistance if the relocated workplace where is too far away for the employee concerned
+5. The livelihood interests of the employee and his or her family shall be considered.
 ]]></條文內容>
   </條文>
   <條文>
@@ -141,6 +164,20 @@ The provisions of Article 17 shall apply, mutatis mutandis, to the termination o
     <條號>Article 15</條號>
     <條文內容><![CDATA[In the case of a specific fixed term contract for a term of more than three years, a worker may, upon completion of three years' work, terminate the contract by giving the employer an advance notice thirty days before he/her severance.
 In the case of a worker terminating a non-fixed term contract, the provisions of Paragraph 1 of Article 16 pertaining to the prescribed time limit for serving an advance notice shall apply mutatis mutandis.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 15-1</條號>
+    <條文內容><![CDATA[An employer shall not make a minimum service period agreement with an employee unless one of the following requirements has been met:
+1. The employer provides the employee with professional skills training at the employer’s expense.
+2. The employer provides the employee with reasonable compensation to comply with the minimum service period agreement.
+The minimum service period agreement referred to in the preceding paragraph shall be considered in terms of the following conditions and shall be limited in a reasonable range:
+1. Period and costs of the professional skills training provided by the employer to the employee concerned.
+2.Possibility of replacing the employee concerned by other employees engaging in the same or a similar job.
+3.Amount and scope of the compensation provided by the employer to the employee concerned.
+4.Other matters influencing the reasonableness of the minimum service period.
+Any agreement in violation of the preceding two paragraphs shall be null and void.
+If the labor contract is terminated prior to the completion of the minimum service period due to any cause not attributable to the employee concerned, he or she shall not be deemed as violating the minimum service period agreement and shall not be obligated to reimburse the training expenses.
 ]]></條文內容>
   </條文>
   <條文>
@@ -341,8 +378,8 @@ In respect of the suspended leaves of absence referred to in the preceding parag
   <編章節>   Chapter Ⅴ Child Workers and Female Workers</編章節>
   <條文>
     <條號>Article 44</條號>
-    <條文內容><![CDATA[A worker over fifteen years old, but less than sixteen,  shall be considered as a child worker.
-No child worker shall be permitted to do heavy and hazardous work.
+    <條文內容><![CDATA[A worker over fifteen years old, but less than sixteen years old, shall be considered as a child worker.
+No child worker and no worker less than eighteen years old shall be permitted to do work that is potentially dangerous or hazardous in nature.
 ]]></條文內容>
   </條文>
   <條文>
@@ -353,7 +390,7 @@ The Central Competent Authority shall stipulate the determination criteria, revi
   </條文>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[Employer of workers who are below sixteen years old shall keep the letters of consent from the legal guardians and age certificates of such workers on file.
+    <條文內容><![CDATA[Employer of workers who are less than eighteen years old shall keep the letters of consent from the legal guardians and age certificates of such workers on file.
 ]]></條文內容>
   </條文>
   <條文>

@@ -1,4 +1,4 @@
-<LAWS UpdateDate="20160311">
+<LAWS UpdateDate="20160318">
 <LAW PCode="A0000001" name="中華民國憲法" lastUpdate="19470101" english="Constitution of the Republic of China (Taiwan)"/>
 <LAW PCode="A0000002" name="中華民國憲法增修條文" lastUpdate="20050610" english="The Additional Articles of the Constitution of the Republic of China"/>
 <LAW PCode="A0000007" name="戒嚴時期人民受損權利回復條例" lastUpdate="20000202" english="Act Governing the Recovery of Damage of Individual Rights during the Period of Martial Law"/>
@@ -93,7 +93,7 @@
 <LAW PCode="A0030134" name="檔案法" lastUpdate="20080702" english="Archives Act"/>
 <LAW PCode="A0030157" name="法律扶助法" lastUpdate="20150701" english="Legal Aid Act"/>
 <LAW PCode="A0030161" name="證人保護法" lastUpdate="20140618" english="Witness Protection Act"/>
-<LAW PCode="A0030170" name="法庭旁聽規則" lastUpdate="20080104" english="Regulations of Court Audience"><UPDATES><DATE>20041019</DATE></UPDATES></LAW>
+<LAW PCode="A0030170" name="法庭旁聽規則" lastUpdate="20160314" english="Regulations of Court Audience"><UPDATES><DATE>20041019</DATE><DATE>20080104</DATE></UPDATES></LAW>
 <LAW PCode="A0030192" name="法院單一窗口聯合服務業務志願服務獎勵辦法" lastUpdate="20140616" english="Rules of the Awards for the Volunteers of Single-Counter Consolidated Services of the Court"><UPDATES><DATE>20020311</DATE><DATE>20041015</DATE><DATE>20120808</DATE></UPDATES></LAW>
 <LAW PCode="A0030199" name="監察法" lastUpdate="19921113" english="Control Act"/>
 <LAW PCode="A0030200" name="監察法施行細則" lastUpdate="20090211" english="Enforcement Rules of the Control Act"/>
@@ -393,7 +393,7 @@
 <LAW PCode="D0080130" name="外國人收容管理規則" lastUpdate="20151201" english="Regulations Governing the Detention of the Aliens"><UPDATES><DATE>20080801</DATE><DATE>20111130</DATE><DATE>20120727</DATE></UPDATES></LAW>
 <LAW PCode="D0080131" name="內政部入出國及移民署實施查察及查察登記辦法" lastUpdate="20080801" english="Regulations Governing Inspection Visits and Information Registration of Alien Residence or Permanent Residence"/>
 <LAW PCode="D0080132" name="入出國及移民法" lastUpdate="20150204" english="Immigration Act"/>
-<LAW PCode="D0080133" name="入出國及移民法施行細則" lastUpdate="20131219" english="The Enforcement Rules of the Immigration Act"><UPDATES><DATE>20040401</DATE><DATE>20080214</DATE><DATE>20080805</DATE><DATE>20081114</DATE><DATE>20120914</DATE></UPDATES></LAW>
+<LAW PCode="D0080133" name="入出國及移民法施行細則" lastUpdate="20160318" english="The Enforcement Rules of the Immigration Act"><UPDATES><DATE>20040401</DATE><DATE>20080214</DATE><DATE>20080805</DATE><DATE>20081114</DATE><DATE>20120914</DATE><DATE>20131219</DATE></UPDATES></LAW>
 <LAW PCode="D0080134" name="移民業務機構及其從業人員輔導管理辦法" lastUpdate="20101029" english="Regulations for Governing and Managing Immigration Business Organizations and Their Employees"><UPDATES><DATE>20011122</DATE><DATE>20030401</DATE><DATE>20050926</DATE><DATE>20060810</DATE><DATE>20070201</DATE><DATE>20080731</DATE></UPDATES></LAW>
 <LAW PCode="D0080135" name="入出國及移民許可證件規費收費標準" lastUpdate="20141111" english="Standards for Fees Charged for Entry, Exit and Immigration Documents"><UPDATES><DATE>20011115</DATE><DATE>20051219</DATE><DATE>20070629</DATE><DATE>20090105</DATE><DATE>20091230</DATE></UPDATES></LAW>
 <LAW PCode="D0080138" name="舉發違反入出國及移民法事件獎勵辦法" lastUpdate="20080801" english="Regulations Governing Incentives for Reporting Violations of the Immigration Act"/>
@@ -1222,7 +1222,7 @@
 <LAW PCode="I0060005" name="國家機密保護法施行細則" lastUpdate="20030926" english="The Enforcement Rules of the Classified National Security Information Protection Act"/>
 <LAW PCode="I0070001" name="政風機構人員設置管理條例" lastUpdate="20120203" english="Act of the Establishment and Management of the Government Employee Ethics Units and Officers"/>
 <LAW PCode="I0070002" name="政風機構人員設置管理條例施行細則" lastUpdate="20130926" english="Enforcement Rules of the Act of the Establishment of the Government Employee Ethics Units and Their Officers"/>
-<LAW PCode="I0070003" name="獎勵保護檢舉貪污瀆職辦法" lastUpdate="20110720" english="The Anti-Corruption Informant Rewards and Protection Regulation"><UPDATES><DATE>20030723</DATE><DATE>20070202</DATE><DATE>20070903</DATE></UPDATES></LAW>
+<LAW PCode="I0070003" name="獎勵保護檢舉貪污瀆職辦法" lastUpdate="20160316" english="The Anti-Corruption Informant Rewards and Protection Regulation"><UPDATES><DATE>20030723</DATE><DATE>20070202</DATE><DATE>20070903</DATE><DATE>20110720</DATE></UPDATES></LAW>
 <LAW PCode="I0070005" name="公職人員財產申報法" lastUpdate="20140129" english="Act on Property-Declaration by Public Servants"/>
 <LAW PCode="I0070006" name="公職人員財產申報法施行細則" lastUpdate="20080730" english="Enforcement Rules of the Act on Property-Declaration by Public Servants"><UPDATES><DATE>20020320</DATE></UPDATES></LAW>
 <LAW PCode="I0070007" name="公職人員財產申報資料審核及查閱辦法" lastUpdate="20090515" english="Regulations Governing Review and Inspection of Materials of Property-Declaration by Public Servants"><UPDATES><DATE>20010829</DATE></UPDATES></LAW>
@@ -1352,6 +1352,7 @@
 <LAW PCode="J0090025" name="輸出入貨品電子簽證管理辦法" lastUpdate="20081219" english="Regulations Governing Electronic Visas of Export and Import Commodities"><UPDATES><DATE>20021120</DATE><DATE>20041229</DATE><DATE>20050802</DATE><DATE>20080428</DATE></UPDATES></LAW>
 <LAW PCode="J0090026" name="出進口績優廠商表揚辦法" lastUpdate="20140617" english="Regulations Governing the Commendation of Excellent Exporters/Importers"><UPDATES><DATE>20021120</DATE><DATE>20060303</DATE><DATE>20061121</DATE><DATE>20081225</DATE><DATE>20100311</DATE><DATE>20120531</DATE><DATE>20130726</DATE></UPDATES></LAW>
 <LAW PCode="J0090028" name="瀕臨絕種動植物及其產製品輸出入管理辦法" lastUpdate="20100816" english="Regulations on Import and Export of Endangered Species of Wild Fauna, Flora and Related Products"/>
+<LAW PCode="J0090030" name="因應貿易自由化調整支援條例" lastUpdate="20151230" english="Statute for Adjusted Support in Response to Trade Liberalization"/>
 <LAW PCode="J0100001" name="商品檢驗法" lastUpdate="20070711" english="The Commodity Inspection Act"/>
 <LAW PCode="J0100002" name="商品檢驗法施行細則" lastUpdate="20071231" english="Enforcement Rules of the Commodity Inspection Act"><UPDATES><DATE>20020515</DATE></UPDATES></LAW>
 <LAW PCode="J0100022" name="正字標記規費收費準則" lastUpdate="20150508" english="Regulations Governing Fees for the CNS Mark"><UPDATES><DATE>20011226</DATE><DATE>20020814</DATE><DATE>20030102</DATE><DATE>20030806</DATE><DATE>20040310</DATE><DATE>20040804</DATE><DATE>20050722</DATE><DATE>20060505</DATE><DATE>20070830</DATE><DATE>20080923</DATE><DATE>20101122</DATE><DATE>20120615</DATE></UPDATES></LAW>
@@ -1513,7 +1514,7 @@
 <LAW PCode="K0060015" name="專用電信設置使用及連接公共通信系統管理辦法" lastUpdate="20070713" english="Administrative Regulations on the Establishment and Operation of Dedicated Telecommunications, and the Connection of Dedicated Telecommunications to Public Communication System"/>
 <LAW PCode="K0060017" name="無線廣播電視電臺設置使用管理辦法" lastUpdate="20121205" english="Administrative Regulations on the Establishment of Radio and TV Broadcast Station"><UPDATES><DATE>20021230</DATE><DATE>20040909</DATE><DATE>20070507</DATE><DATE>20090727</DATE></UPDATES></LAW>
 <LAW PCode="K0060026" name="低功率電波輻射性電機管理辦法" lastUpdate="20070719" english="Administrative Regulations on Low Power Radio Waves Radiated Devices"><UPDATES><DATE>20021023</DATE><DATE>20040322</DATE></UPDATES></LAW>
-<LAW PCode="K0060028" name="有線廣播電視系統工程技術管理辦法" lastUpdate="20160130" english="Rules for Engineering Technology of Cable Radio and Television System"><UPDATES><DATE>20010618</DATE><DATE>20020531</DATE><DATE>20021009</DATE><DATE>20030226</DATE><DATE>20030619</DATE><DATE>20031208</DATE><DATE>20050530</DATE><DATE>20070614</DATE><DATE>20091015</DATE><DATE>20110516</DATE><DATE>20120625</DATE><DATE>20130424</DATE><DATE>20130903</DATE><DATE>20131224</DATE></UPDATES><HISTORY><NAME>有線廣播電視系統工程技術管理規則</NAME></HISTORY></LAW>
+<LAW PCode="K0060028" name="有線廣播電視系統工程技術管理辦法" lastUpdate="20160130" english="Rules for the Technical Engineering of Cable Radio and Television Systems"><UPDATES><DATE>20010618</DATE><DATE>20020531</DATE><DATE>20021009</DATE><DATE>20030226</DATE><DATE>20030619</DATE><DATE>20031208</DATE><DATE>20050530</DATE><DATE>20070614</DATE><DATE>20091015</DATE><DATE>20110516</DATE><DATE>20120625</DATE><DATE>20130424</DATE><DATE>20130903</DATE><DATE>20131224</DATE></UPDATES><HISTORY><NAME>有線廣播電視系統工程技術管理規則</NAME></HISTORY></LAW>
 <LAW PCode="K0060029" name="電信事業網路互連管理辦法" lastUpdate="20130430" english="Regulations Governing Network Interconnection among Telecommunications Enterprises"><UPDATES><DATE>20020925</DATE><DATE>20030917</DATE><DATE>20051117</DATE><DATE>20070416</DATE><DATE>20070720</DATE><DATE>20080805</DATE><DATE>20100804</DATE><DATE>20101108</DATE><DATE>20130103</DATE></UPDATES><HISTORY><NAME>第一類電信事業網路互連管理辦法</NAME></HISTORY></LAW>
 <LAW PCode="K0060031" name="廣播電視業者設置地球電臺管理辦法" lastUpdate="20091231" english="Administrative Rules on Radio and Television Broadcasters’ establishment of Earth Stations"><UPDATES><DATE>20020717</DATE><DATE>20070723</DATE></UPDATES></LAW>
 <LAW PCode="K0060032" name="業餘無線電管理辦法" lastUpdate="20070713" english="Administrative Regulations On Amateur Radios"><UPDATES><DATE>20040413</DATE><DATE>20070511</DATE></UPDATES></LAW>
@@ -1678,9 +1679,9 @@
 <LAW PCode="K0110021" name="觀光旅館建築及設備標準" lastUpdate="20101008" english="Standards for Buildings and Facilities of Tourist Hotels"><UPDATES><DATE>20030428</DATE><DATE>20080701</DATE></UPDATES></LAW>
 <LAW PCode="K0110022" name="領隊人員管理規則" lastUpdate="20130924" english="Regulations Governing Tour Managers"><UPDATES><DATE>20030602</DATE><DATE>20050419</DATE><DATE>20120305</DATE></UPDATES></LAW>
 <LAW PCode="K0110023" name="外籍旅客購買特定貨物申請退還營業稅實施辦法" lastUpdate="20160126" english="Regulations Regarding the Claiming of VAT Refunds by Foreign Passengers Purchasing Goods Eligible for VAT Refund"><UPDATES><DATE>20030829</DATE><DATE>20060210</DATE><DATE>20090527</DATE><DATE>20110322</DATE><DATE>20130424</DATE><DATE>20150610</DATE></UPDATES></LAW>
-<LAW PCode="K0110024" name="水域遊憩活動管理辦法" lastUpdate="20040211" english="Regulations Governing Water Recreation Activities"/>
+<LAW PCode="K0110024" name="水域遊憩活動管理辦法" lastUpdate="20160318" english="Regulations Governing Water Recreation Activities"><UPDATES><DATE>20040211</DATE></UPDATES></LAW>
 <LAW PCode="K0110025" name="交通部觀光局審查觀光遊樂業籌設許可收費標準" lastUpdate="20100809" english="The Standard for Review Fees for Applications to the Tourism Bureau of the Ministry of Transportation and Communications for the Establishment of Tourist Amusement Enterprises"><UPDATES><DATE>20040409</DATE></UPDATES></LAW>
-<LAW PCode="K0110026" name="發展觀光條例裁罰標準" lastUpdate="20160111" english="Schedule of Penalties Applicable under the Tourism Development Act"><UPDATES><DATE>20040708</DATE><DATE>20060526</DATE><DATE>20120710</DATE><DATE>20150302</DATE></UPDATES></LAW>
+<LAW PCode="K0110026" name="發展觀光條例裁罰標準" lastUpdate="20160318" english="Schedule of Penalties Applicable under the Tourism Development Act"><UPDATES><DATE>20040708</DATE><DATE>20060526</DATE><DATE>20120710</DATE><DATE>20150302</DATE><DATE>20160111</DATE></UPDATES></LAW>
 <LAW PCode="K0110027" name="溫泉取供事業申請經營許可辦法" lastUpdate="20070215" english="Regulations Governing Application for an Operating Permit by an Enterprise that Obtains and Provides Hot Spring Water"><UPDATES><DATE>20050715</DATE></UPDATES></LAW>
 <LAW PCode="K0110028" name="溫泉區管理計畫審核及管理辦法" lastUpdate="20051116" english="Regulations Governing the Formulation, Deliberation and Administration of Hot Spring Area Management Plans"><UPDATES><DATE>20050715</DATE></UPDATES><HISTORY><NAME>溫泉區管理計畫擬訂審議及管理辦法</NAME></HISTORY></LAW>
 <LAW PCode="K0110029" name="溫泉標章申請使用辦法" lastUpdate="20100520" english="Regulations Governing Application to Use the Official Hot Spring Logo"><UPDATES><DATE>20050715</DATE><DATE>20081230</DATE></UPDATES></LAW>
@@ -1812,11 +1813,11 @@
 <LAW PCode="L0040073" name="生熟食混合即食食品類衛生標準" lastUpdate="20130820" english="Sanitation Standard for Ready-to-Eat (RTE) Foods"><UPDATES><DATE>20071221</DATE><DATE>20110805</DATE></UPDATES></LAW>
 <LAW PCode="L0040074" name="一般食品衛生標準" lastUpdate="20130820" english="Sanitation Standard for General Foods"><UPDATES><DATE>20071221</DATE></UPDATES></LAW>
 <LAW PCode="L0040075" name="生食用食品類衛生標準（96.12.21訂定）" lastUpdate="20130820" english="Sanitation Standard for Foods to be Eaten Raw"><UPDATES><DATE>20071221</DATE><DATE>20110805</DATE></UPDATES></LAW>
-<LAW PCode="L0040078" name="禽畜產品中殘留農藥限量標準（97.06.06訂定）" lastUpdate="20130820" english="Standards for Pesticide Residue Limits in Livestock and Poultry Products"><UPDATES><DATE>20080606</DATE><DATE>20080904</DATE></UPDATES></LAW>
+<LAW PCode="L0040078" name="動物產品中農藥殘留容許量標準" lastUpdate="20160318" english="Standards for Pesticide Residue Limits in Livestock and Poultry Products"><UPDATES><DATE>20080606</DATE><DATE>20080904</DATE><DATE>20130820</DATE></UPDATES><HISTORY><NAME>禽畜產品中殘留農藥限量標準（97.06.06訂定）</NAME></HISTORY></LAW>
 <LAW PCode="L0040079" name="食品中原子塵或放射能污染容許量標準" lastUpdate="20160118" english="Standards for the Safety Tolerance of Atomic Dust and Radioactivity Contamination in Foods"><UPDATES><DATE>20080701</DATE><DATE>20130820</DATE></UPDATES><HISTORY><NAME>食品中原子塵或放射能污染安全容許量標準</NAME></HISTORY></LAW>
 <LAW PCode="L0040080" name="食品用丁烷衛生標準" lastUpdate="20130820" english="Sanitation Standard for Butane to be Used in Food"><UPDATES><DATE>20080812</DATE></UPDATES></LAW>
 <LAW PCode="L0040081" name="食品用丙烷衛生標準" lastUpdate="20130820" english="Sanitation Standard for Propane to be Used in Food"><UPDATES><DATE>20080812</DATE></UPDATES></LAW>
-<LAW PCode="L0040083" name="農藥殘留容許量標準" lastUpdate="20151222" english="Standards for Pesticide Residue Limits in Foods"><UPDATES><DATE>20081021</DATE><DATE>20090329</DATE><DATE>20090406</DATE><DATE>20090512</DATE><DATE>20090604</DATE><DATE>20090617</DATE><DATE>20090710</DATE><DATE>20090817</DATE><DATE>20091007</DATE><DATE>20100311</DATE><DATE>20100507</DATE><DATE>20100607</DATE><DATE>20100726</DATE><DATE>20101007</DATE><DATE>20101022</DATE><DATE>20101101</DATE><DATE>20101216</DATE><DATE>20101230</DATE><DATE>20110217</DATE><DATE>20110314</DATE><DATE>20110519</DATE><DATE>20110622</DATE><DATE>20110920</DATE><DATE>20111123</DATE><DATE>20120120</DATE><DATE>20120423</DATE><DATE>20120620</DATE><DATE>20120921</DATE><DATE>20130111</DATE><DATE>20130314</DATE><DATE>20130604</DATE><DATE>20130926</DATE><DATE>20131231</DATE><DATE>20140416</DATE><DATE>20140612</DATE><DATE>20140807</DATE><DATE>20150212</DATE><DATE>20150624</DATE><DATE>20150820</DATE></UPDATES><HISTORY><NAME>殘留農藥安全容許量標準</NAME></HISTORY></LAW>
+<LAW PCode="L0040083" name="農藥殘留容許量標準" lastUpdate="20160318" english="Standards for Pesticide Residue Limits in Foods"><UPDATES><DATE>20081021</DATE><DATE>20090329</DATE><DATE>20090406</DATE><DATE>20090512</DATE><DATE>20090604</DATE><DATE>20090617</DATE><DATE>20090710</DATE><DATE>20090817</DATE><DATE>20091007</DATE><DATE>20100311</DATE><DATE>20100507</DATE><DATE>20100607</DATE><DATE>20100726</DATE><DATE>20101007</DATE><DATE>20101022</DATE><DATE>20101101</DATE><DATE>20101216</DATE><DATE>20101230</DATE><DATE>20110217</DATE><DATE>20110314</DATE><DATE>20110519</DATE><DATE>20110622</DATE><DATE>20110920</DATE><DATE>20111123</DATE><DATE>20120120</DATE><DATE>20120423</DATE><DATE>20120620</DATE><DATE>20120921</DATE><DATE>20130111</DATE><DATE>20130314</DATE><DATE>20130604</DATE><DATE>20130926</DATE><DATE>20131231</DATE><DATE>20140416</DATE><DATE>20140612</DATE><DATE>20140807</DATE><DATE>20150212</DATE><DATE>20150624</DATE><DATE>20150820</DATE><DATE>20151222</DATE></UPDATES><HISTORY><NAME>殘留農藥安全容許量標準</NAME></HISTORY></LAW>
 <LAW PCode="L0040084" name="食品添加物使用範圍及限量暨規格標準" lastUpdate="20160217" english="Standards for Specification, Scope, Application and Limitation of Food Additives"><UPDATES><DATE>20081120</DATE><DATE>20090122</DATE><DATE>20090424</DATE><DATE>20090730</DATE><DATE>20100428</DATE><DATE>20100511</DATE><DATE>20100721</DATE><DATE>20100902</DATE><DATE>20101126</DATE><DATE>20101227</DATE><DATE>20110218</DATE><DATE>20110530</DATE><DATE>20110705</DATE><DATE>20120111</DATE><DATE>20120524</DATE><DATE>20120809</DATE><DATE>20120921</DATE><DATE>20121016</DATE><DATE>20130122</DATE><DATE>20130527</DATE><DATE>20130618</DATE><DATE>20130820</DATE><DATE>20130912</DATE><DATE>20131125</DATE><DATE>20141227</DATE><DATE>20150624</DATE></UPDATES></LAW>
 <LAW PCode="L0040085" name="醬油類單氯丙二醇衛生標準（98.01.15訂定）" lastUpdate="20130820" english="Sanitation Standard for Limit of 3-Monochloro-1, 2-propanediol in Soy Sauce"><UPDATES><DATE>20090115</DATE></UPDATES></LAW>
 <LAW PCode="L0040086" name="食品衛生查驗業務驗證機構認證及管理辦法" lastUpdate="20141112" english="Regulations Governing Accreditation of Certifying Institution for Food Sanitation Inspection and Examination"><UPDATES><DATE>20090622</DATE><DATE>20120531</DATE></UPDATES></LAW>
@@ -2092,7 +2093,7 @@
 <LAW PCode="N0050008" name="勞工保險被保險人因執行職務而致傷病審查準則" lastUpdate="20110809" english="Regulations of the Examination of Injuries and Diseases Resulting from the Performance of Duties by the Insured Persons of the Labor Insurance Program"><UPDATES><DATE>20030618</DATE><DATE>20090615</DATE><DATE>20091106</DATE></UPDATES></LAW>
 <LAW PCode="N0050012" name="勞工保險爭議事項審議辦法" lastUpdate="20081231" english="Regulations of the Settlement Labor Insurance Disputes"><UPDATES><DATE>20021204</DATE></UPDATES></LAW>
 <LAW PCode="N0050014" name="勞工保險預防職業病健康檢查辦法（85.06.29訂定）" lastUpdate="20150108" english="Regulations of Labor insurance Health Examination for Prevention of Occupational Disease"><UPDATES><DATE>20090914</DATE></UPDATES></LAW>
-<LAW PCode="N0050017" name="勞工保險被保險人退保後罹患職業病者請領職業災害保險失能給付辦法" lastUpdate="20101008" english="Amended Regulations Of Application for Occupational Accident Insurance Disability Benefits for Insured Person Diagnosed With Occupational Disease Withdrawn from Labor Insurance"><UPDATES><DATE>20011212</DATE><DATE>20030206</DATE><DATE>20081225</DATE></UPDATES><HISTORY><NAME>勞工保險被保險人離職退保後始診斷確定罹有職業病者請領職業災害保險殘廢給付辦法</NAME></HISTORY></LAW>
+<LAW PCode="N0050017" name="勞工保險被保險人退保後罹患職業病者請領職業災害保險失能給付辦法" lastUpdate="20160316" english="Amended Regulations Of Application for Occupational Accident Insurance Disability Benefits for Insured Person Diagnosed With Occupational Disease Withdrawn from Labor Insurance"><UPDATES><DATE>20011212</DATE><DATE>20030206</DATE><DATE>20081225</DATE><DATE>20101008</DATE></UPDATES><HISTORY><NAME>勞工保險被保險人離職退保後始診斷確定罹有職業病者請領職業災害保險殘廢給付辦法</NAME></HISTORY></LAW>
 <LAW PCode="N0050019" name="失業被保險人及其眷屬全民健康保險保險費補助辦法" lastUpdate="20121112" english="Regulations on the National Health Insurance Premium Subsidization for Unemployed Insured Persons and Their Dependents"><UPDATES><DATE>20021113</DATE><DATE>20070129</DATE><DATE>20091021</DATE></UPDATES><HISTORY><NAME>失業勞工全民健康保險保險費補助辦法</NAME></HISTORY></LAW>
 <LAW PCode="N0050020" name="勞工保險未繳還之保險給付及貸款本息扣減辦法" lastUpdate="20150205" english="Regulations for Offsetting of Capital and Interest of Relief Loans for those with Labor Insurance"><UPDATES><DATE>20030122</DATE><DATE>20051214</DATE><DATE>20070206</DATE><DATE>20081225</DATE><DATE>20091225</DATE><DATE>20140312</DATE></UPDATES><HISTORY><NAME>勞工保險被保險人紓困貸款及本息抵銷辦法</NAME><NAME>勞工保險被保險人紓困貸款本息抵銷辦法</NAME></HISTORY></LAW>
 <LAW PCode="N0050021" name="就業保險法" lastUpdate="20150204" english="Employment Insurance Act"/>
@@ -2147,7 +2148,7 @@
 <LAW PCode="N0090026" name="雇主僱用失業勞工獎助辦法" lastUpdate="20100503" english="Regulations for Subsidizing and Awarding Employers for Hiring Unemployed Workers"><UPDATES><DATE>20021227</DATE><DATE>20050524</DATE><DATE>20070704</DATE><DATE>20071231</DATE><DATE>20080929</DATE></UPDATES></LAW>
 <LAW PCode="N0090027" name="雇主聘僱外國人許可及管理辦法" lastUpdate="20151111" english="Regulations on the Permission and Administration of the Employment of Foreign Workers"><UPDATES><DATE>20040113</DATE><DATE>20051230</DATE><DATE>20061003</DATE><DATE>20080103</DATE><DATE>20081224</DATE><DATE>20101230</DATE><DATE>20111230</DATE><DATE>20121219</DATE><DATE>20131210</DATE><DATE>20140328</DATE><DATE>20150303</DATE><DATE>20150806</DATE></UPDATES></LAW>
 <LAW PCode="N0090028" name="私立就業服務機構收費項目及金額標準" lastUpdate="20100302" english="Standards for Fee-charging Items and Amounts of the Private Employment Services Institution"><UPDATES><DATE>20040113</DATE></UPDATES></LAW>
-<LAW PCode="N0090029" name="外國人從事就業服務法第四十六條第一項第八款至第十一款工作資格及審查標準" lastUpdate="20151111" english="The Reviewing Standards and Employment Qualifications for Foreigners Engaging in the Jobs Specified in Iterns 8 to 11，Paragraph 1 to Article 46 of the Employment Service Act"><UPDATES><DATE>20040113</DATE><DATE>20050415</DATE><DATE>20051230</DATE><DATE>20060830</DATE><DATE>20061208</DATE><DATE>20071001</DATE><DATE>20090305</DATE><DATE>20100929</DATE><DATE>20110916</DATE><DATE>20120917</DATE><DATE>20130311</DATE><DATE>20140328</DATE><DATE>20140605</DATE><DATE>20150303</DATE><DATE>20150501</DATE><DATE>20150806</DATE><DATE>20150904</DATE></UPDATES></LAW>
+<LAW PCode="N0090029" name="外國人從事就業服務法第四十六條第一項第八款至第十一款工作資格及審查標準" lastUpdate="20160314" english="The Reviewing Standards and Employment Qualifications for Foreigners Engaging in the Jobs Specified in Iterns 8 to 11，Paragraph 1 to Article 46 of the Employment Service Act"><UPDATES><DATE>20040113</DATE><DATE>20050415</DATE><DATE>20051230</DATE><DATE>20060830</DATE><DATE>20061208</DATE><DATE>20071001</DATE><DATE>20090305</DATE><DATE>20100929</DATE><DATE>20110916</DATE><DATE>20120917</DATE><DATE>20130311</DATE><DATE>20140328</DATE><DATE>20140605</DATE><DATE>20150303</DATE><DATE>20150501</DATE><DATE>20150806</DATE><DATE>20150904</DATE><DATE>20151111</DATE></UPDATES></LAW>
 <LAW PCode="N0090030" name="就業服務法申請案件審查費及證照費收費標準" lastUpdate="20140328" english="Fee-charging Standards for Application  Case Review and License under the Employment Services Act"><UPDATES><DATE>20040113</DATE></UPDATES></LAW>
 <LAW PCode="N0090031" name="外國人從事就業服務法第四十六條第一項第一款至第六款工作資格及審查標準" lastUpdate="20150501" english="Qualifications and Criteria Standards for foreigners undertaking the jobs specified under Article 46.1.1 to 46.1.6 of the Employment Service Act"><UPDATES><DATE>20040113</DATE><DATE>20050524</DATE><DATE>20060502</DATE><DATE>20100129</DATE><DATE>20130517</DATE><DATE>20140701</DATE></UPDATES></LAW>
 <LAW PCode="N0090041" name="人口販運被害人工作許可及管理辦法" lastUpdate="20090608" english="Regulations on Work Permit and Administration for Human Trafficking Victims"/>
@@ -2269,7 +2270,7 @@
 <LAW PCode="P0050001" name="廣播電視法" lastUpdate="20160106" english="Radio and Television Act"/>
 <LAW PCode="P0050002" name="廣播電視法施行細則" lastUpdate="20150416" english="Enforcement Rules of the Radio and Television Act"><UPDATES><DATE>20020102</DATE><DATE>20031029</DATE><DATE>20040524</DATE><DATE>20050523</DATE><DATE>20070713</DATE><DATE>20100816</DATE><DATE>20131223</DATE><DATE>20131227</DATE></UPDATES></LAW>
 <LAW PCode="P0050003" name="廣播電視事業負責人管理規則" lastUpdate="20160130" english="Regulations Governing the Person in Charge and Practitioners of a Broadcasting Enterprise"><UPDATES><DATE>20130206</DATE></UPDATES><HISTORY><NAME>廣播電視事業負責人與從業人員管理規則</NAME></HISTORY></LAW>
-<LAW PCode="P0050004" name="廣播電視節目供應事業管理規則" lastUpdate="20101220" english="Regulations for Radio and Television Program Supply Businesses"><UPDATES><DATE>20021007</DATE><DATE>20030829</DATE><DATE>20070430</DATE></UPDATES></LAW>
+<LAW PCode="P0050004" name="廣播電視節目供應事業管理規則" lastUpdate="20160316" english="Regulations for Radio and Television Program Supply Businesses"><UPDATES><DATE>20021007</DATE><DATE>20030829</DATE><DATE>20070430</DATE><DATE>20101220</DATE></UPDATES></LAW>
 <LAW PCode="P0050008" name="有線廣播電視法" lastUpdate="20160106" english="Cable Radio and Television Act"/>
 <LAW PCode="P0050009" name="有線電視節目播送系統管理辦法" lastUpdate="20111230" english="Management Rules of Cable Television Transmission Systems"/>
 <LAW PCode="P0050010" name="有線廣播電視法施行細則" lastUpdate="20130830" english="Enforcement Rules of the Cable Radio and Television Act"><UPDATES><DATE>20010925</DATE><DATE>20031029</DATE><DATE>20040524</DATE><DATE>20071119</DATE></UPDATES></LAW>
@@ -2302,7 +2303,7 @@
 <LAW PCode="Q0060006" name="退除役官兵死亡無人繼承遺產管理辦法" lastUpdate="19990511" english="Regulations on Management of the Veterans' Bequests Without Inheritors"/>
 <LAW PCode="Q0060008" name="大陸地區物品勞務服務在臺灣地區從事廣告活動管理辦法" lastUpdate="20130829" english="Regulations for Advertising Goods, Labor and General Services of the Mainland Area in the Taiwan Area"><UPDATES><DATE>20031231</DATE><DATE>20111228</DATE></UPDATES></LAW>
 <LAW PCode="R0000001" name="考選部組織法" lastUpdate="19941123" english="Organic Act of the Ministry of Examination"/>
-<LAW PCode="R0020002" name="典試法施行細則" lastUpdate="20151116" english="Examination Affairs Act Enforcement Rules"><UPDATES><DATE>20020603</DATE><DATE>20080227</DATE><DATE>20080722</DATE><DATE>20120910</DATE></UPDATES></LAW>
+<LAW PCode="R0020002" name="典試法施行細則" lastUpdate="20160314" english="Examination Affairs Act Enforcement Rules"><UPDATES><DATE>20020603</DATE><DATE>20080227</DATE><DATE>20080722</DATE><DATE>20120910</DATE><DATE>20151116</DATE></UPDATES></LAW>
 <LAW PCode="R0020004" name="監試法" lastUpdate="19501026" english="Examination Invigilation Act"/>
 <LAW PCode="R0030001" name="公務人員考試法" lastUpdate="20140122" english="Civil Service Examinations Act"/>
 <LAW PCode="R0040001" name="專門職業及技術人員考試法" lastUpdate="20130123" english="Professionals and Technologists Examinations Act"/>
@@ -2521,7 +2522,7 @@
 <LAW PCode="A0020073" name="高等法院及其分院處務規程" lastUpdate="20141121"><UPDATES><DATE>20021003</DATE><DATE>20030410</DATE><DATE>20050329</DATE><DATE>20050906</DATE><DATE>20081204</DATE><DATE>20100804</DATE></UPDATES></LAW>
 <LAW PCode="A0020074" name="地方法院及其分院處務規程" lastUpdate="20150415"><UPDATES><DATE>20030410</DATE><DATE>20041123</DATE><DATE>20050906</DATE><DATE>20080114</DATE><DATE>20081204</DATE><DATE>20100804</DATE><DATE>20120823</DATE><DATE>20141121</DATE></UPDATES></LAW>
 <LAW PCode="A0020075" name="司法院會議規則" lastUpdate="20150416"><UPDATES><DATE>20031114</DATE><DATE>20110919</DATE></UPDATES></LAW>
-<LAW PCode="A0020076" name="公務員懲戒委員會處務規程" lastUpdate="20041214"/>
+<LAW PCode="A0020076" name="公務員懲戒委員會處務規程" lastUpdate="20160314"><UPDATES><DATE>20041214</DATE></UPDATES></LAW>
 <LAW PCode="A0020077" name="公務員懲戒委員會審議規則" lastUpdate="19940118"/>
 <LAW PCode="A0020078" name="司法院變更判例會議規則" lastUpdate="19900612"/>
 <LAW PCode="A0020079" name="司法院及所屬機關訴願審議委員會審議規則" lastUpdate="20041213"/>
@@ -2626,6 +2627,7 @@
 <LAW PCode="A0020186" name="空間情報統合辦法" lastUpdate="20151223"/>
 <LAW PCode="A0020187" name="公務員懲戒委員會辦理懲戒案件必要費用徵收標準" lastUpdate="20160125"/>
 <LAW PCode="A0020188" name="公務員懲戒案件閱卷規則" lastUpdate="20160125"/>
+<LAW PCode="A0020189" name="公務員懲戒委員會分科分股及兼任免兼辦法" lastUpdate="20160314"/>
 <LAW PCode="A0030001" name="總統副總統宣誓條例" lastUpdate="19540513"/>
 <LAW PCode="A0030003" name="卸任總統副總統禮遇條例實施辦法" lastUpdate="20061230"><UPDATES><DATE>20011228</DATE></UPDATES></LAW>
 <LAW PCode="A0030005" name="褒揚條例施行細則" lastUpdate="20000215"/>
@@ -2734,7 +2736,7 @@
 <LAW PCode="A0030171" name="行政法院法庭旁聽規則" lastUpdate="20080104"/>
 <LAW PCode="A0030172" name="臺灣高等法院以下各級法院或分院臨時開庭辦法" lastUpdate="19990119"/>
 <LAW PCode="A0030173" name="法院設置調解委員辦法" lastUpdate="20091113"><UPDATES><DATE>20050104</DATE><DATE>20070412</DATE></UPDATES><HISTORY><NAME>地方法院設置調解委員辦法</NAME></HISTORY></LAW>
-<LAW PCode="A0030174" name="法庭席位布置規則" lastUpdate="20120530"><UPDATES><DATE>20030808</DATE><DATE>20040409</DATE><DATE>20050708</DATE><DATE>20080205</DATE></UPDATES><HISTORY><NAME>高等法院以下各級法院法庭席位布置規則</NAME></HISTORY></LAW>
+<LAW PCode="A0030174" name="法庭席位布置規則" lastUpdate="20160314"><UPDATES><DATE>20030808</DATE><DATE>20040409</DATE><DATE>20050708</DATE><DATE>20080205</DATE><DATE>20120530</DATE></UPDATES><HISTORY><NAME>高等法院以下各級法院法庭席位布置規則</NAME></HISTORY></LAW>
 <LAW PCode="A0030175" name="司法院所屬各級法院聘用法官助理遴選辦法" lastUpdate="20030226"><UPDATES><DATE>20010620</DATE><DATE>20030102</DATE></UPDATES></LAW>
 <LAW PCode="A0030176" name="法官評鑑辦法" lastUpdate="20120106"><UPDATES><DATE>20061124</DATE></UPDATES></LAW>
 <LAW PCode="A0030177" name="改任各級行政法院法官遴選辦法" lastUpdate="20121003"><UPDATES><DATE>20040528</DATE><DATE>20041221</DATE><DATE>20060804</DATE><DATE>20090325</DATE></UPDATES><HISTORY><NAME>普通法院法官、檢察署檢察官改任各級行政法院法官遴選辦法</NAME></HISTORY></LAW>
@@ -3378,6 +3380,7 @@
 <LAW PCode="D0050192" name="社會福利公益信託許可及監督辦法" lastUpdate="20140505"/>
 <LAW PCode="D0050196" name="老人保護通報及處理辦法" lastUpdate="20150224"/>
 <LAW PCode="D0050197" name="家庭暴力及性侵害防治基金收支保管及運用辦法" lastUpdate="20151224"/>
+<LAW PCode="D0050198" name="合作社組織編制及人事管理準則" lastUpdate="20160318"/>
 <LAW PCode="D0060004" name="土地登記專業代理人管理辦法" lastUpdate="20030424"/>
 <LAW PCode="D0060005" name="地價調查估計規則" lastUpdate="20131231"><UPDATES><DATE>20020830</DATE><DATE>20030314</DATE></UPDATES></LAW>
 <LAW PCode="D0060006" name="土地建築改良物估價規則" lastUpdate="20100624"/>
@@ -4724,7 +4727,7 @@
 <LAW PCode="G0380104" name="銀行年報應行記載事項準則" lastUpdate="20160218"><UPDATES><DATE>20010626</DATE><DATE>20011025</DATE><DATE>20041231</DATE><DATE>20051229</DATE><DATE>20070411</DATE><DATE>20070906</DATE><DATE>20080312</DATE><DATE>20090331</DATE><DATE>20100402</DATE><DATE>20110414</DATE><DATE>20130201</DATE><DATE>20150313</DATE></UPDATES><HISTORY><NAME>銀行票券金融公司年報應行記載事項準則</NAME></HISTORY></LAW>
 <LAW PCode="G0380105" name="國民儲蓄獎券發行辦法" lastUpdate="19880201"/>
 <LAW PCode="G0380107" name="信用合作社管理辦法" lastUpdate="20000809"/>
-<LAW PCode="G0380108" name="農漁會投資新設銀行或以信用部作價投資新設銀行程序及設立標準" lastUpdate="20010710"/>
+<LAW PCode="G0380108" name="農漁會投資新設銀行或以信用部作價投資新設銀行程序及設立標準" lastUpdate="20160315"><UPDATES><DATE>20010710</DATE></UPDATES></LAW>
 <LAW PCode="G0380109" name="農會信用部漁會信用部對個人贊助會員及團體贊助會員授信及限額標準" lastUpdate="20010720"/>
 <LAW PCode="G0380110" name="農會信用部漁會信用部逾期放款催收款及呆帳處理辦法" lastUpdate="20030630"><UPDATES><DATE>20010720</DATE></UPDATES></LAW>
 <LAW PCode="G0380114" name="金融控股公司發行公司債辦法" lastUpdate="20041210"><UPDATES><DATE>20011031</DATE></UPDATES></LAW>
@@ -5253,6 +5256,7 @@
 <LAW PCode="H0060072" name="高級中等學校專業科目或技術科目教師業界實務工作經驗認定標準" lastUpdate="20160119"/>
 <LAW PCode="H0060073" name="高級中等學校教師進行產業研習或研究實施辦法" lastUpdate="20160120"/>
 <LAW PCode="H0060074" name="高級中等學校辦理職業繼續教育辦法" lastUpdate="20160224"/>
+<LAW PCode="H0060075" name="高級中等學校實習課程績效評量辦法" lastUpdate="20160314"/>
 <LAW PCode="H0070003" name="教育部部編國民小學生活與倫理、常識、音樂、美術四科教科書交由書局印行實施辦法" lastUpdate="20020730"/>
 <LAW PCode="H0070004" name="幼稚園園長、教師登記檢定及遴用辦法" lastUpdate="20110715"/>
 <LAW PCode="H0070005" name="國民中學技藝教育實施辦法" lastUpdate="20151216"><UPDATES><DATE>20080409</DATE></UPDATES><HISTORY><NAME>加強國民中學技藝教育辦法</NAME></HISTORY></LAW>
@@ -5845,7 +5849,7 @@
 <LAW PCode="I0030040" name="檢察官全面評核實施辦法" lastUpdate="20120705"/>
 <LAW PCode="I0030041" name="實任檢察官申請停止辦理案件及從事研究或司法行政工作辦法" lastUpdate="20120705"/>
 <LAW PCode="I0030042" name="檢察官進修考察辦法" lastUpdate="20130725"><UPDATES><DATE>20120706</DATE></UPDATES></LAW>
-<LAW PCode="I0030043" name="檢察官職務評定辦法" lastUpdate="20150529"><UPDATES><DATE>20120713</DATE><DATE>20121228</DATE><DATE>20130726</DATE></UPDATES></LAW>
+<LAW PCode="I0030043" name="檢察官職務評定辦法" lastUpdate="20160318"><UPDATES><DATE>20120713</DATE><DATE>20121228</DATE><DATE>20130726</DATE><DATE>20150529</DATE></UPDATES></LAW>
 <LAW PCode="I0030046" name="緩起訴處分金與認罪協商金補助款收支運用及監督管理辦法" lastUpdate="20150714"/>
 <LAW PCode="I0040004" name="行刑累進處遇條例施行細則" lastUpdate="20060901"/>
 <LAW PCode="I0040007" name="解送人犯辦法" lastUpdate="19720415"/>
@@ -6320,7 +6324,6 @@
 <LAW PCode="J0090024" name="水果輸入配額管理辦法" lastUpdate="20020206"><UPDATES><DATE>20011024</DATE></UPDATES></LAW>
 <LAW PCode="J0090027" name="辦理推廣貿易業務補助辦法" lastUpdate="20151027"><UPDATES><DATE>20021211</DATE><DATE>20031105</DATE><DATE>20040901</DATE><DATE>20060105</DATE><DATE>20060605</DATE><DATE>20071002</DATE><DATE>20081008</DATE><DATE>20090909</DATE><DATE>20100719</DATE><DATE>20110511</DATE><DATE>20130130</DATE><DATE>20130930</DATE></UPDATES></LAW>
 <LAW PCode="J0090029" name="大陸地區法人團體來臺與臺灣地區法人團體合辦專業展覽許可辦法" lastUpdate="20111004"><UPDATES><DATE>20101231</DATE></UPDATES></LAW>
-<LAW PCode="J0090030" name="因應貿易自由化調整支援條例" lastUpdate="20151230"/>
 <LAW PCode="J0100003" name="商品特約檢驗辦法" lastUpdate="20140808"><UPDATES><DATE>20020109</DATE><DATE>20071018</DATE></UPDATES></LAW>
 <LAW PCode="J0100004" name="商品報驗發證辦法" lastUpdate="20020227"/>
 <LAW PCode="J0100005" name="國產商品分等檢驗實施辦法" lastUpdate="20020801"/>
@@ -7066,6 +7069,7 @@
 <LAW PCode="K0060093" name="廣播事業申請換發執照辦法" lastUpdate="20130709"/>
 <LAW PCode="K0060094" name="國家通訊傳播委員會公務人員交代條例施行細則" lastUpdate="20130719"/>
 <LAW PCode="K0060095" name="各級政府機關機構與學校網站無障礙化檢測及認證標章核發辦法" lastUpdate="20151120"><UPDATES><DATE>20130815</DATE></UPDATES></LAW>
+<LAW PCode="K0060096" name="廣播電視事業業務規費收費標準" lastUpdate="20160315"/>
 <LAW PCode="K0070003" name="海事報告規則" lastUpdate="19911218"/>
 <LAW PCode="K0070006" name="船舶檢查規則" lastUpdate="20111212"><UPDATES><DATE>20021212</DATE><DATE>20040305</DATE><DATE>20041119</DATE><DATE>20071023</DATE><DATE>20100902</DATE></UPDATES></LAW>
 <LAW PCode="K0070007" name="船舶丈量規則" lastUpdate="20110826"><UPDATES><DATE>20020716</DATE><DATE>20041119</DATE><DATE>20071023</DATE></UPDATES></LAW>
@@ -7741,7 +7745,7 @@
 <LAW PCode="M0060088" name="飼料或飼料添加物製造及輸入許可辦法" lastUpdate="20160121"/>
 <LAW PCode="M0060089" name="寵物食品業者申報辦法" lastUpdate="20160204"/>
 <LAW PCode="M0060090" name="展演動物業設置及管理辦法" lastUpdate="20160205"/>
-<LAW PCode="M0070009" name="擴大家庭農場經營規模協助農民購買耕地貸款辦法" lastUpdate="20131213"><UPDATES><DATE>20030915</DATE><DATE>20040630</DATE><DATE>20060102</DATE><DATE>20061215</DATE><DATE>20070711</DATE><DATE>20100929</DATE><DATE>20101118</DATE><DATE>20130424</DATE></UPDATES></LAW>
+<LAW PCode="M0070009" name="擴大家庭農場經營規模協助農民購買耕地貸款辦法" lastUpdate="20160318"><UPDATES><DATE>20030915</DATE><DATE>20040630</DATE><DATE>20060102</DATE><DATE>20061215</DATE><DATE>20070711</DATE><DATE>20100929</DATE><DATE>20101118</DATE><DATE>20130424</DATE><DATE>20131213</DATE></UPDATES></LAW>
 <LAW PCode="M0070014" name="全國農業金庫設立許可辦法" lastUpdate="20040128"/>
 <LAW PCode="M0070015" name="農會漁會信用部業務管理辦法" lastUpdate="20130201"><UPDATES><DATE>20040128</DATE><DATE>20060915</DATE></UPDATES></LAW>
 <LAW PCode="M0070016" name="農會漁會信用部內部控制及稽核制度實施辦法" lastUpdate="20081226"><UPDATES><DATE>20040128</DATE></UPDATES></LAW>
@@ -7764,7 +7768,7 @@
 <LAW PCode="M0070063" name="金融機構承受災區放款擔保品全部毀損或滅失補助辦法" lastUpdate="20100615"><UPDATES><DATE>20090912</DATE></UPDATES></LAW>
 <LAW PCode="M0070064" name="全國農業金庫獨立董事設置及應遵行事項辦法" lastUpdate="20110610"/>
 <LAW PCode="M0070065" name="全國農業金庫國內分行管理辦法" lastUpdate="20150527"><UPDATES><DATE>20110922</DATE></UPDATES></LAW>
-<LAW PCode="M0070066" name="辦理政策性農業專案貸款辦法" lastUpdate="20160121"><UPDATES><DATE>20130424</DATE><DATE>20140226</DATE><DATE>20141024</DATE><DATE>20150615</DATE><DATE>20150826</DATE></UPDATES></LAW>
+<LAW PCode="M0070066" name="辦理政策性農業專案貸款辦法" lastUpdate="20160318"><UPDATES><DATE>20130424</DATE><DATE>20140226</DATE><DATE>20141024</DATE><DATE>20150615</DATE><DATE>20150826</DATE><DATE>20160121</DATE></UPDATES></LAW>
 <LAW PCode="M0070067" name="農業金融業個人資料檔案安全維護管理辦法" lastUpdate="20151005"/>
 <LAW PCode="M0080001" name="行政院農業委員會科學技術研究發展成果歸屬及運用辦法" lastUpdate="20130206"><UPDATES><DATE>20010914</DATE><DATE>20040315</DATE><DATE>20101028</DATE></UPDATES></LAW>
 <LAW PCode="M0080006" name="促進農業企業機構研發輔導辦法" lastUpdate="20110131"><UPDATES><DATE>20060929</DATE><DATE>20090626</DATE></UPDATES><HISTORY><NAME>行政院農業委員會促進農業企業研發輔導辦法</NAME></HISTORY></LAW>
@@ -7981,7 +7985,7 @@
 <LAW PCode="N0050011" name="被裁減資遣被保險人繼續參加勞工保險及保險給付辦法" lastUpdate="20081225"><UPDATES><DATE>20040305</DATE></UPDATES></LAW>
 <LAW PCode="N0050013" name="勞工保險失業給付實施辦法" lastUpdate="20030212"/>
 <LAW PCode="N0050016" name="勞工保險失業認定暨失業給付審核準則" lastUpdate="20001230"/>
-<LAW PCode="N0050018" name="職業醫學科專科醫師及地區教學醫院以上之醫院專科醫師開具職業病門診單辦法" lastUpdate="20030206"><UPDATES><DATE>20011231</DATE></UPDATES><HISTORY><NAME>職業病診療醫師及地區教學醫院以上之醫院專科醫師領取及開具勞工保險職業病門診單作業辦法</NAME></HISTORY></LAW>
+<LAW PCode="N0050018" name="職業醫學科專科醫師及地區醫院以上之醫院專科醫師開具職業病門診單辦法" lastUpdate="20160318"><UPDATES><DATE>20011231</DATE><DATE>20030206</DATE></UPDATES><HISTORY><NAME>職業病診療醫師及地區教學醫院以上之醫院專科醫師領取及開具勞工保險職業病門診單作業辦法</NAME><NAME>職業醫學科專科醫師及地區教學醫院以上之醫院專科醫師開具職業病門診單辦法</NAME></HISTORY></LAW>
 <LAW PCode="N0050024" name="莫拉克颱風受災勞工保險與就業保險被保險人保險費支應及傷病給付辦法" lastUpdate="20120828"><UPDATES><DATE>20090904</DATE></UPDATES></LAW>
 <LAW PCode="N0050025" name="就業保險促進就業實施辦法" lastUpdate="20150512"><UPDATES><DATE>20100503</DATE><DATE>20110114</DATE><DATE>20111230</DATE><DATE>20130220</DATE><DATE>20131018</DATE></UPDATES></LAW>
 <LAW PCode="N0050029" name="勞工保險局作業基金收支保管及運用辦法" lastUpdate="20151023"/>
@@ -8831,11 +8835,11 @@
 <LAW PCode="S0020034" name="專門職業及技術人員轉任公務人員條例施行細則" lastUpdate="20150120"><UPDATES><DATE>20031225</DATE><DATE>20060120</DATE><DATE>20080226</DATE></UPDATES></LAW>
 <LAW PCode="S0020035" name="關務人員與財政部關政單位人員相互轉任辦法" lastUpdate="20130307"/>
 <LAW PCode="S0020036" name="司法人員任用資格審查規則" lastUpdate="19800911"/>
-<LAW PCode="S0020037" name="委任公務人員晉升薦任官等訓練辦法" lastUpdate="20131125"><UPDATES><DATE>20021202</DATE><DATE>20030408</DATE><DATE>20060306</DATE><DATE>20080804</DATE><DATE>20100614</DATE><DATE>20111212</DATE></UPDATES></LAW>
+<LAW PCode="S0020037" name="委任公務人員晉升薦任官等訓練辦法" lastUpdate="20160311"><UPDATES><DATE>20021202</DATE><DATE>20030408</DATE><DATE>20060306</DATE><DATE>20080804</DATE><DATE>20100614</DATE><DATE>20111212</DATE><DATE>20131125</DATE></UPDATES></LAW>
 <LAW PCode="S0020038" name="公務員服務法" lastUpdate="20000719"/>
 <LAW PCode="S0020039" name="公務員兼任非營利事業或團體受有報酬職務許可辦法" lastUpdate="19960829"/>
 <LAW PCode="S0020040" name="交通事業人員員級晉升高員級資位訓練辦法" lastUpdate="20140103"><UPDATES><DATE>20010914</DATE><DATE>20030122</DATE><DATE>20030523</DATE><DATE>20060418</DATE><DATE>20080829</DATE><DATE>20100712</DATE><DATE>20120119</DATE></UPDATES></LAW>
-<LAW PCode="S0020041" name="警佐警察人員晉升警正官等訓練辦法" lastUpdate="20131125"><UPDATES><DATE>20021202</DATE><DATE>20030408</DATE><DATE>20060306</DATE><DATE>20080804</DATE><DATE>20100614</DATE><DATE>20111212</DATE></UPDATES></LAW>
+<LAW PCode="S0020041" name="警佐警察人員晉升警正官等訓練辦法" lastUpdate="20160311"><UPDATES><DATE>20021202</DATE><DATE>20030408</DATE><DATE>20060306</DATE><DATE>20080804</DATE><DATE>20100614</DATE><DATE>20111212</DATE><DATE>20131125</DATE></UPDATES></LAW>
 <LAW PCode="S0020042" name="交通事業人員佐級晉升員級及士級晉升佐級資位訓練辦法" lastUpdate="20140327"><UPDATES><DATE>20050429</DATE></UPDATES></LAW>
 <LAW PCode="S0020043" name="各機關機要人員進用辦法" lastUpdate="20110809"><UPDATES><DATE>20020612</DATE><DATE>20040817</DATE></UPDATES></LAW>
 <LAW PCode="S0020044" name="薦任公務人員晉升簡任官等訓練辦法" lastUpdate="20131125"><UPDATES><DATE>20020628</DATE><DATE>20060306</DATE><DATE>20080804</DATE><DATE>20100614</DATE><DATE>20111212</DATE></UPDATES></LAW>
