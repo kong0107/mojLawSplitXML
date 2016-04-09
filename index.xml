@@ -1,4 +1,4 @@
-<LAWS UpdateDate="20160318">
+<LAWS UpdateDate="20160325">
 <LAW PCode="A0000001" name="中華民國憲法" lastUpdate="19470101" english="Constitution of the Republic of China (Taiwan)"/>
 <LAW PCode="A0000002" name="中華民國憲法增修條文" lastUpdate="20050610" english="The Additional Articles of the Constitution of the Republic of China"/>
 <LAW PCode="A0000007" name="戒嚴時期人民受損權利回復條例" lastUpdate="20000202" english="Act Governing the Recovery of Damage of Individual Rights during the Period of Martial Law"/>
@@ -439,7 +439,7 @@
 <LAW PCode="D0120007" name="爆竹煙火管理條例施行細則" lastUpdate="20130517" english="Enforcement Rules of Firework and Firecracker Management Act"><UPDATES><DATE>20040413</DATE><DATE>20101228</DATE></UPDATES></LAW>
 <LAW PCode="D0120014" name="災害防救法" lastUpdate="20121128" english="Disaster Prevention and Protection Act"/>
 <LAW PCode="D0120016" name="協助執行災害防救工作民間志願組織認證辦法" lastUpdate="20081119" english="Regulations For Authentication of Civic Voluntary Organizations Assisting in Disaster Prevention and Protection Works"><UPDATES><DATE>20010601</DATE></UPDATES></LAW>
-<LAW PCode="D0120017" name="風災震災火災爆炸災害救助種類及標準" lastUpdate="20150205" english="Categories and Standards of Assistance for Windstorm, Earthquake, Fire and Explosion Disasters"><UPDATES><DATE>20010601</DATE><DATE>20110120</DATE></UPDATES><HISTORY><NAME>風災震災重大火災爆炸災害救助種類及標準</NAME></HISTORY></LAW>
+<LAW PCode="D0120017" name="風災震災火災爆炸災害救助種類及標準" lastUpdate="20160325" english="Categories and Standards of Assistance for Windstorm, Earthquake, Fire and Explosion Disasters"><UPDATES><DATE>20010601</DATE><DATE>20110120</DATE><DATE>20150205</DATE></UPDATES><HISTORY><NAME>風災震災重大火災爆炸災害救助種類及標準</NAME></HISTORY></LAW>
 <LAW PCode="D0120021" name="災害防救法施行細則" lastUpdate="20110221" english="The Enforcement Rules of Disaster Prevention and Protection Act"><UPDATES><DATE>20010830</DATE><DATE>20090116</DATE></UPDATES></LAW>
 <LAW PCode="D0120022" name="災害搜救費用繳納辦法" lastUpdate="20081114" english="Regulations for Payment of Expense for Disaster Search and Rescue"><UPDATES><DATE>20020709</DATE></UPDATES><HISTORY><NAME>災害搜救費用請求支付辦法</NAME></HISTORY></LAW>
 <LAW PCode="D0120025" name="公共危險物品及可燃性高壓氣體設置標準暨安全管理辦法" lastUpdate="20131121" english="Public Hazardous Substances & Flammable Pressurized Gases Establishment Standards & Safety Control Regulations"><UPDATES><DATE>20021001</DATE><DATE>20041102</DATE><DATE>20050830</DATE><DATE>20061101</DATE><DATE>20070509</DATE><DATE>20081017</DATE><DATE>20100823</DATE></UPDATES></LAW>
@@ -831,7 +831,7 @@
 <LAW PCode="G0390049" name="人身保險業辦理資訊公開管理辦法" lastUpdate="20150626" english="Regulations Governing Public Disclosure of Information by Life Insurance Enterprises"><UPDATES><DATE>20011220</DATE><DATE>20030711</DATE><DATE>20100104</DATE><DATE>20110705</DATE><DATE>20140124</DATE></UPDATES></LAW>
 <LAW PCode="G0390050" name="財產保險業辦理資訊公開管理辦法" lastUpdate="20150626" english="Regulations Governing Public Disclosure of Information by Non-life Insurance Enterprises"><UPDATES><DATE>20011220</DATE><DATE>20030711</DATE><DATE>20100104</DATE><DATE>20110705</DATE><DATE>20140124</DATE></UPDATES></LAW>
 <LAW PCode="G0390051" name="保險業資本適足性管理辦法" lastUpdate="20150518" english="Regulations Governing Capital Adequacy of Insurance Companies"><UPDATES><DATE>20011220</DATE><DATE>20071228</DATE><DATE>20111102</DATE></UPDATES></LAW>
-<LAW PCode="G0390053" name="保險業資金辦理專案運用公共及社會福利事業投資管理辦法" lastUpdate="20160203" english="Regulations Governing Use of Insurer’s funds in Special Projects, Public Utilities and Social Welfare Enterprises"><UPDATES><DATE>20011226</DATE><DATE>20031028</DATE><DATE>20040302</DATE><DATE>20070829</DATE><DATE>20101201</DATE><DATE>20120719</DATE><DATE>20130117</DATE><DATE>20140617</DATE><DATE>20150407</DATE></UPDATES><HISTORY><NAME>保險業資金專案運用及公共投資審核辦法</NAME></HISTORY></LAW>
+<LAW PCode="G0390053" name="保險業資金辦理專案運用公共及社會福利事業投資管理辦法" lastUpdate="20160203" english="Regulations Governing Use of Insurer's funds in Special Projects, Public Utilities and Social Welfare Enterprises"><UPDATES><DATE>20011226</DATE><DATE>20031028</DATE><DATE>20040302</DATE><DATE>20070829</DATE><DATE>20101201</DATE><DATE>20120719</DATE><DATE>20130117</DATE><DATE>20140617</DATE><DATE>20150407</DATE></UPDATES><HISTORY><NAME>保險業資金專案運用及公共投資審核辦法</NAME></HISTORY></LAW>
 <LAW PCode="G0390055" name="保險業利害關係人放款管理辦法" lastUpdate="20150410" english="Regulations for Extending Loans by Insurance Enterprises to Interested Parties"><UPDATES><DATE>20011226</DATE><DATE>20070829</DATE></UPDATES></LAW>
 <LAW PCode="G0390060" name="強制汽車責任保險法" lastUpdate="20160106" english="Compulsory Automobile Liability Insurance Act"/>
 <LAW PCode="G0390061" name="強制汽車責任保險法施行細則" lastUpdate="20141106" english="Enforcement Rules for the Compulsory Automobile Liability Insurance Act"><UPDATES><DATE>20050908</DATE><DATE>20101108</DATE></UPDATES></LAW>
@@ -959,6 +959,7 @@
 <LAW PCode="G0400151" name="槓桿交易商管理規則" lastUpdate="20140529" english="Regulations Governing Leverage Transaction Merchants"><UPDATES><DATE>20120712</DATE><DATE>20131230</DATE></UPDATES></LAW>
 <LAW PCode="G0400152" name="公開發行公司財務報告及營運情形公告申報特殊適用範圍辦法" lastUpdate="20121002" english="Regulations Governing the Applicable Scope of Special Circumstances for the Public Announcement and Filing of Financial Reports and Operational Status Reports by Public Companies"/>
 <LAW PCode="G0400153" name="國際證券業務分公司管理辦法" lastUpdate="20151123" english="Regulations Governing Offshore Securities Branches"><UPDATES><DATE>20131226</DATE></UPDATES></LAW>
+<LAW PCode="G0400154" name="公開收購不動產投資信託受益證券管理辦法" lastUpdate="20151225" english="Regulations Governing Public Tender Offers for Real Estate Investment Trust Beneficiary Securities"/>
 <LAW PCode="G0410001" name="中央銀行法" lastUpdate="20140108" english="The Central Bank of the Republic of China (Taiwan) Act"/>
 <LAW PCode="G0420001" name="中央銀行理事會會議規則" lastUpdate="20110720" english="Regulations Governing Meetings of the Board of Directors of the Central Bank of the Republic of China (Taiwan)"/>
 <LAW PCode="G0420002" name="中央銀行監事會會議規則" lastUpdate="19810122" english="Regulations Governing Meetings of the Board of Supervisors of the Central Bank of China"/>
@@ -984,7 +985,7 @@
 <LAW PCode="G0450010" name="外匯經紀商管理辦法" lastUpdate="20140307" english="Regulations Governing Foreign Exchange Brokers"><UPDATES><DATE>20030226</DATE><DATE>20110729</DATE></UPDATES></LAW>
 <LAW PCode="G0450011" name="銀行業辦理外匯業務管理辦法" lastUpdate="20150522" english="Regulations Governing Foreign Exchange Business of Banking Enterprises"><UPDATES><DATE>20030723</DATE><DATE>20040526</DATE><DATE>20050309</DATE><DATE>20090615</DATE><DATE>20101227</DATE><DATE>20130125</DATE><DATE>20140307</DATE></UPDATES></LAW>
 <LAW PCode="G0450012" name="指定銀行辦理外幣保證金交易代客操作業務管理辦法" lastUpdate="20041020" english="Regulations Governing The Discretionary Foreign Currency Margin Trading Business Conducted By Authorized Banks"/>
-<LAW PCode="G0450013" name="保險業辦理外匯業務管理辦法" lastUpdate="20150429" english="Regulations Governing Foreign Exchange Business of Insurance Enterprises"><UPDATES><DATE>20070423</DATE><DATE>20140307</DATE></UPDATES></LAW>
+<LAW PCode="G0450013" name="保險業辦理外匯業務管理辦法" lastUpdate="20160323" english="Regulations Governing Foreign Exchange Business of Insurance Enterprises"><UPDATES><DATE>20070423</DATE><DATE>20140307</DATE><DATE>20150429</DATE></UPDATES></LAW>
 <LAW PCode="G0450014" name="人民幣在臺灣地區管理及清算辦法" lastUpdate="20130830" english="Regulations Governing the Administration and Settlement of Renminbi in the Taiwan Area"><UPDATES><DATE>20080627</DATE><DATE>20100713</DATE></UPDATES></LAW>
 <LAW PCode="G0450015" name="證券業辦理外匯業務管理辦法" lastUpdate="20131226" english="Regulations Governing Foreign Exchange Business of Securities Enterprises"/>
 <LAW PCode="H0000001" name="教育部組織法" lastUpdate="20120203" english="Organization Act of the Ministry of Education"/>
@@ -1542,7 +1543,7 @@
 <LAW PCode="K0060062" name="電信線路遷移費用及電信設備損壞賠償負擔辦法" lastUpdate="20031208" english="Regulations on Relocation Fee of Telecommunications Lines and Bearing Damage Compensation for Telecommunications Equipment"><UPDATES><DATE>20020717</DATE></UPDATES></LAW>
 <LAW PCode="K0060063" name="學術教育或專為網路研發實驗目的之電信網路設置使用管理辦法" lastUpdate="20081105" english="Administrative Regulations on The Establishment And Operation of Telecommunications Network for the Academic and Educational purpose or Dedicated Experiment, Research and Development purpose"><UPDATES><DATE>20021129</DATE><DATE>20031003</DATE><DATE>20070404</DATE><DATE>20070713</DATE></UPDATES><HISTORY><NAME>學術、教育或專為網路研發實驗目的之電信網路設置使用管理辦法</NAME></HISTORY></LAW>
 <LAW PCode="K0060064" name="網際網路位址及網域名稱註冊管理業務監督及輔導辦法" lastUpdate="20030211" english="Regulations Supervising and Guidance Internet Protocol Address and Domain Name Registration Management Services"/>
-<LAW PCode="K0060065" name="平等接取服務管理辦法" lastUpdate="20110131" english="Regulations Governing the Equal Access Service"><UPDATES><DATE>20030618</DATE><DATE>20040804</DATE><DATE>20070705</DATE></UPDATES></LAW>
+<LAW PCode="K0060065" name="平等接取服務管理辦法" lastUpdate="20160323" english="Regulations Governing the Equal Access Service"><UPDATES><DATE>20030618</DATE><DATE>20040804</DATE><DATE>20070705</DATE><DATE>20110131</DATE></UPDATES></LAW>
 <LAW PCode="K0060066" name="電信號碼管理辦法" lastUpdate="20150305" english="Regulations Governing Telecommunications Numbers"><UPDATES><DATE>20030929</DATE><DATE>20051118</DATE><DATE>20100518</DATE><DATE>20130604</DATE><DATE>20140604</DATE></UPDATES></LAW>
 <LAW PCode="K0060067" name="建築物電信設備審查及審驗機構管理辦法" lastUpdate="20110401" english="Regulations Governing Building telecommunication equipment examination and inspection institution"><UPDATES><DATE>20030929</DATE><DATE>20070705</DATE><DATE>20080723</DATE></UPDATES></LAW>
 <LAW PCode="K0060070" name="號碼可攜服務管理辦法" lastUpdate="20140604" english="Regulations Governing Number Portability"><UPDATES><DATE>20031124</DATE><DATE>20050922</DATE><DATE>20070705</DATE><DATE>20110111</DATE><DATE>20110201</DATE></UPDATES></LAW>
@@ -2090,7 +2091,7 @@
 <LAW PCode="N0050002" name="勞工保險條例施行細則" lastUpdate="20151109" english="Enforcement Rules of the Labor Insurance Act"><UPDATES><DATE>20010912</DATE><DATE>20030226</DATE><DATE>20030514</DATE><DATE>20081225</DATE><DATE>20090226</DATE><DATE>20101119</DATE><DATE>20120130</DATE><DATE>20120518</DATE><DATE>20130726</DATE><DATE>20140410</DATE><DATE>20150202</DATE></UPDATES></LAW>
 <LAW PCode="N0050003" name="勞工保險職業災害保險實績費率實施辦法" lastUpdate="20081226" english="Regulations Governing Implementation of Labor Insurance Experience Rates for Occupational Accidents"><UPDATES><DATE>20011228</DATE><DATE>20030206</DATE><DATE>20041208</DATE></UPDATES></LAW>
 <LAW PCode="N0050006" name="勞工保險基金管理及運用辦法" lastUpdate="20151026" english="Regulations Governing the Management and Utilization of the Labor Insurance Fund"><UPDATES><DATE>20011002</DATE><DATE>20020312</DATE><DATE>20020726</DATE><DATE>20031112</DATE><DATE>20060330</DATE><DATE>20100617</DATE></UPDATES></LAW>
-<LAW PCode="N0050008" name="勞工保險被保險人因執行職務而致傷病審查準則" lastUpdate="20110809" english="Regulations of the Examination of Injuries and Diseases Resulting from the Performance of Duties by the Insured Persons of the Labor Insurance Program"><UPDATES><DATE>20030618</DATE><DATE>20090615</DATE><DATE>20091106</DATE></UPDATES></LAW>
+<LAW PCode="N0050008" name="勞工保險被保險人因執行職務而致傷病審查準則" lastUpdate="20160321" english="Regulations of the Examination of Injuries and Diseases Resulting from the Performance of Duties by the Insured Persons of the Labor Insurance Program"><UPDATES><DATE>20030618</DATE><DATE>20090615</DATE><DATE>20091106</DATE><DATE>20110809</DATE></UPDATES></LAW>
 <LAW PCode="N0050012" name="勞工保險爭議事項審議辦法" lastUpdate="20081231" english="Regulations of the Settlement Labor Insurance Disputes"><UPDATES><DATE>20021204</DATE></UPDATES></LAW>
 <LAW PCode="N0050014" name="勞工保險預防職業病健康檢查辦法（85.06.29訂定）" lastUpdate="20150108" english="Regulations of Labor insurance Health Examination for Prevention of Occupational Disease"><UPDATES><DATE>20090914</DATE></UPDATES></LAW>
 <LAW PCode="N0050017" name="勞工保險被保險人退保後罹患職業病者請領職業災害保險失能給付辦法" lastUpdate="20160316" english="Amended Regulations Of Application for Occupational Accident Insurance Disability Benefits for Insured Person Diagnosed With Occupational Disease Withdrawn from Labor Insurance"><UPDATES><DATE>20011212</DATE><DATE>20030206</DATE><DATE>20081225</DATE><DATE>20101008</DATE></UPDATES><HISTORY><NAME>勞工保險被保險人離職退保後始診斷確定罹有職業病者請領職業災害保險殘廢給付辦法</NAME></HISTORY></LAW>
@@ -2100,7 +2101,7 @@
 <LAW PCode="N0050022" name="就業保險法施行細則" lastUpdate="20150514" english="Enforcement Rules of the Employment Insurance Act"><UPDATES><DATE>20030101</DATE><DATE>20060222</DATE><DATE>20090227</DATE><DATE>20090429</DATE><DATE>20120711</DATE><DATE>20130726</DATE></UPDATES></LAW>
 <LAW PCode="N0050023" name="勞工保險失能給付標準" lastUpdate="20150915" english="Labor Insurance Disability Benefit Payment Standards"><UPDATES><DATE>20081225</DATE><DATE>20101008</DATE><DATE>20111017</DATE><DATE>20130522</DATE></UPDATES></LAW>
 <LAW PCode="N0050026" name="就業保險延長失業給付實施辦法" lastUpdate="20100910" english="Regulations Governing Extension of Unemployment Benefit Payment to Workers with Employment Insurance"/>
-<LAW PCode="N0050027" name="職業災害勞工醫療期間退保繼續參加勞工保險辦法" lastUpdate="20100715" english="Regulations of Workers with Occupational Accidents who withdraw from Insurance Program in the Medical Period Continue to Join Labor Insurance"><UPDATES><DATE>20020410</DATE><DATE>20070207</DATE><DATE>20070420</DATE><DATE>20080501</DATE></UPDATES></LAW>
+<LAW PCode="N0050027" name="職業災害勞工醫療期間退保繼續參加勞工保險辦法" lastUpdate="20160321" english="Regulations of Workers with Occupational Accidents who withdraw from Insurance Program in the Medical Period Continue to Join Labor Insurance"><UPDATES><DATE>20020410</DATE><DATE>20070207</DATE><DATE>20070420</DATE><DATE>20080501</DATE><DATE>20100715</DATE></UPDATES></LAW>
 <LAW PCode="N0050028" name="職業災害勞工補助及核發辦法" lastUpdate="20160115" english="Regulations of Allowance and Approbated Grant for Workers with Occupational Accidents"><UPDATES><DATE>20020410</DATE><DATE>20070206</DATE><DATE>20080501</DATE><DATE>20101008</DATE><DATE>20120103</DATE><DATE>20130410</DATE><DATE>20131105</DATE><DATE>20140414</DATE></UPDATES></LAW>
 <LAW PCode="N0060001" name="職業安全衛生法" lastUpdate="20130703" english="Occupational Safety and Health Act"/>
 <LAW PCode="N0060002" name="職業安全衛生法施行細則" lastUpdate="20140626" english="Enforcement Rules of the Occupational Safety and Health Act"><UPDATES><DATE>20020425</DATE><DATE>20090226</DATE></UPDATES><HISTORY><NAME>勞工安全衛生法施行細則</NAME></HISTORY></LAW>
@@ -3900,7 +3901,7 @@
 <LAW PCode="D0130019" name="行政院原住民族委員會東埔活動中心收費標準" lastUpdate="20070315"/>
 <LAW PCode="D0130020" name="原住民族地區資源共同管理辦法" lastUpdate="20071218"/>
 <LAW PCode="D0130024" name="捐助財團法人原住民族文化事業基金會獎勵辦法" lastUpdate="20100812"/>
-<LAW PCode="D0130025" name="行政院原住民族委員會及所屬各機關公務人員交代條例施行細則" lastUpdate="20130610"/>
+<LAW PCode="D0130025" name="原住民族委員會及所屬各機關構公務人員交代條例施行細則" lastUpdate="20160322"><UPDATES><DATE>20130610</DATE></UPDATES><HISTORY><NAME>行政院原住民族委員會及所屬各機關公務人員交代條例施行細則</NAME></HISTORY></LAW>
 <LAW PCode="D0130026" name="行政院原住民族委員會文化園區管理局場地設施使用規費收費標準" lastUpdate="20131017"/>
 <LAW PCode="D0130027" name="行政院原住民族委員會文化園區管理局門票及停車清潔費收費標準" lastUpdate="20040221"/>
 <LAW PCode="D0130028" name="原住民族教育師資修習原住民族文化及多元文化教育課程實施辦法" lastUpdate="20140609"/>
@@ -4861,7 +4862,6 @@
 <LAW PCode="G0400143" name="法人會計師事務所投保業務責任保險實施辦法" lastUpdate="20080505"/>
 <LAW PCode="G0400144" name="法人會計師事務所財務報告編製準則" lastUpdate="20080516"/>
 <LAW PCode="G0400146" name="證券交易所非股東董事監察人及非會員董事監事選任標準及辦法" lastUpdate="20090224"/>
-<LAW PCode="G0400154" name="公開收購不動產投資信託受益證券管理辦法" lastUpdate="20151225"/>
 <LAW PCode="G0400155" name="公開發行公司併購特別委員會設置及相關事項辦法" lastUpdate="20160104"/>
 <LAW PCode="G0430004" name="支票存款戶存款不足退票處理辦法" lastUpdate="20010630"><UPDATES><DATE>20010627</DATE></UPDATES></LAW>
 <LAW PCode="G0430005" name="偽報票據遺失防止辦法" lastUpdate="20010630"><UPDATES><DATE>20010627</DATE></UPDATES></LAW>
@@ -5533,7 +5533,7 @@
 <LAW PCode="H0150036" name="學校法人及其所屬私立學校教職員退休撫卹離職資遣條例施行細則" lastUpdate="20140522"><UPDATES><DATE>20100129</DATE></UPDATES></LAW>
 <LAW PCode="H0150037" name="公立學校退休教職員一次退休金及養老給付優惠存款辦法（100.01.04訂定）" lastUpdate="20110201"><UPDATES><DATE>20110104</DATE></UPDATES><HISTORY><NAME>公立學校退休教職員一次退休金及養老給付優惠存款辦法（100.0.04訂定）</NAME></HISTORY></LAW>
 <LAW PCode="H0150038" name="公立學校退休教職員一次退休金及養老給付優惠存款辦法（100.02.01訂定）" lastUpdate="20141112"><UPDATES><DATE>20110201</DATE></UPDATES></LAW>
-<LAW PCode="H0150039" name="國民小學國民中學及直轄市縣（市）政府置輔導人員辦法" lastUpdate="20130927"><UPDATES><DATE>20110607</DATE><DATE>20120801</DATE></UPDATES><HISTORY><NAME>國民小學國民中學及直轄市縣（市）政府置專任專業輔導人員辦法</NAME></HISTORY></LAW>
+<LAW PCode="H0150039" name="高級中等以下學校及各該主管機關專業輔導人員設置辦法" lastUpdate="20160321"><UPDATES><DATE>20110607</DATE><DATE>20120801</DATE><DATE>20130927</DATE></UPDATES><HISTORY><NAME>國民小學國民中學及直轄市縣（市）政府置專任專業輔導人員辦法</NAME><NAME>國民小學國民中學及直轄市縣（市）政府置輔導人員辦法</NAME></HISTORY></LAW>
 <LAW PCode="H0150040" name="學校法人及其所屬私立學校教職員退休撫卹離職資遣儲金自主投資實施辦法" lastUpdate="20120712"/>
 <LAW PCode="H0150041" name="不適任教育人員之通報與資訊蒐集及查詢辦法" lastUpdate="20140910"><UPDATES><DATE>20130311</DATE></UPDATES></LAW>
 <LAW PCode="H0150042" name="教育人員留職停薪辦法" lastUpdate="20130422"/>
@@ -5666,6 +5666,7 @@
 <LAW PCode="H0170107" name="博物館法施行細則" lastUpdate="20151231"/>
 <LAW PCode="H0170108" name="華山文化創意產業園區北側綠地場地使用收費標準" lastUpdate="20160126"/>
 <LAW PCode="H0170109" name="公立博物館典藏品盤點作業辦法" lastUpdate="20160218"/>
+<LAW PCode="H0170110" name="文化部臺南文化創意產業園區菸倉庫及其戶外廣場場地使用收費標準" lastUpdate="20160323"/>
 <LAW PCode="H0180001" name="行政院青年輔導委員會組織條例" lastUpdate="20140115"/>
 <LAW PCode="H0180002" name="行政院青年輔導委員會辦事細則" lastUpdate="20130101"/>
 <LAW PCode="H0180003" name="行政院青年輔導委員會青年職業訓練中心組織規程" lastUpdate="20130101"><UPDATES><DATE>20020702</DATE></UPDATES></LAW>
@@ -6101,7 +6102,7 @@
 <LAW PCode="J0020057" name="地質災害委託調查及鑑定辦法" lastUpdate="20120531"/>
 <LAW PCode="J0020058" name="地質資料蒐集管理辦法（101.06.05 訂定）" lastUpdate="20140606"><UPDATES><DATE>20120605</DATE></UPDATES></LAW>
 <LAW PCode="J0020059" name="事業用爆炸物製造使用與器材之新技術及新產品管理辦法" lastUpdate="20140303"/>
-<LAW PCode="J0020060" name="偏遠與原住民族及離島地區石油設施及運輸費用補助辦法" lastUpdate="20151020"><UPDATES><DATE>20141031</DATE></UPDATES></LAW>
+<LAW PCode="J0020060" name="偏遠與原住民族及離島地區石油設施及運輸費用補助辦法" lastUpdate="20160323"><UPDATES><DATE>20141031</DATE><DATE>20151020</DATE></UPDATES></LAW>
 <LAW PCode="J0030001" name="工業輔導準則" lastUpdate="20010718"/>
 <LAW PCode="J0030002" name="食品工廠建築及設備之設置標準" lastUpdate="20010725"/>
 <LAW PCode="J0030003" name="機械電器製造工業自製計畫施行辦法" lastUpdate="20020101"/>
@@ -7070,6 +7071,7 @@
 <LAW PCode="K0060094" name="國家通訊傳播委員會公務人員交代條例施行細則" lastUpdate="20130719"/>
 <LAW PCode="K0060095" name="各級政府機關機構與學校網站無障礙化檢測及認證標章核發辦法" lastUpdate="20151120"><UPDATES><DATE>20130815</DATE></UPDATES></LAW>
 <LAW PCode="K0060096" name="廣播電視事業業務規費收費標準" lastUpdate="20160315"/>
+<LAW PCode="K0060097" name="衛星廣播電視事業及境外衛星廣播電視事業申設換照審查辦法" lastUpdate="20160321"/>
 <LAW PCode="K0070003" name="海事報告規則" lastUpdate="19911218"/>
 <LAW PCode="K0070006" name="船舶檢查規則" lastUpdate="20111212"><UPDATES><DATE>20021212</DATE><DATE>20040305</DATE><DATE>20041119</DATE><DATE>20071023</DATE><DATE>20100902</DATE></UPDATES></LAW>
 <LAW PCode="K0070007" name="船舶丈量規則" lastUpdate="20110826"><UPDATES><DATE>20020716</DATE><DATE>20041119</DATE><DATE>20071023</DATE></UPDATES></LAW>
@@ -7493,6 +7495,7 @@
 <LAW PCode="L0040130" name="食品安全衛生管理法沒收沒入追徵追繳違法所得推估計價辦法" lastUpdate="20150727"/>
 <LAW PCode="L0040131" name="加工助劑衛生標準" lastUpdate="20160217"/>
 <LAW PCode="L0040132" name="食品衛生安全管理系統驗證機構認證及驗證管理辦法" lastUpdate="20160311"/>
+<LAW PCode="L0040133" name="食用牛羊脂衛生標準" lastUpdate="20160323"/>
 <LAW PCode="L0050007" name="嚴重急性呼吸道症候群防治及紓困暫行條例" lastUpdate="20041231"/>
 <LAW PCode="L0050008" name="受嚴重急性呼吸道症候群影響而停診之醫療機構補償辦法" lastUpdate="20050418"><UPDATES><DATE>20030515</DATE></UPDATES></LAW>
 <LAW PCode="L0050009" name="嚴重急性呼吸道症候群防治徵用補償辦法" lastUpdate="20050418"><UPDATES><DATE>20030515</DATE></UPDATES></LAW>
@@ -8005,7 +8008,7 @@
 <LAW PCode="N0060019" name="四烷基鉛中毒預防規則" lastUpdate="20140630"/>
 <LAW PCode="N0060020" name="缺氧症預防規則" lastUpdate="20140626"/>
 <LAW PCode="N0060021" name="粉塵危害預防標準" lastUpdate="20140625"><UPDATES><DATE>20031231</DATE></UPDATES></LAW>
-<LAW PCode="N0060022" name="勞工健康保護規則" lastUpdate="20140630"><UPDATES><DATE>20021120</DATE><DATE>20050218</DATE><DATE>20110121</DATE><DATE>20130122</DATE></UPDATES></LAW>
+<LAW PCode="N0060022" name="勞工健康保護規則" lastUpdate="20160323"><UPDATES><DATE>20021120</DATE><DATE>20050218</DATE><DATE>20110121</DATE><DATE>20130122</DATE><DATE>20140630</DATE></UPDATES></LAW>
 <LAW PCode="N0060023" name="職業安全衛生標示設置準則" lastUpdate="20140702"/>
 <LAW PCode="N0060024" name="鍋爐及壓力容器製造設施標準" lastUpdate="19960515"/>
 <LAW PCode="N0060025" name="工業用機器人危害預防標準" lastUpdate="20140630"/>
@@ -8056,9 +8059,9 @@
 <LAW PCode="N0080023" name="身心障礙者職業訓練機構設施標準及獎助辦法" lastUpdate="20080212"/>
 <LAW PCode="N0080024" name="身心障礙者職務再設計實施方式及補助準則" lastUpdate="20141031"><UPDATES><DATE>20080212</DATE></UPDATES></LAW>
 <LAW PCode="N0080025" name="身心障礙者庇護工場設立管理及補助準則" lastUpdate="20080212"/>
-<LAW PCode="N0080026" name="身心障礙者創業輔導服務實施方式及補助準則" lastUpdate="20080212"/>
-<LAW PCode="N0080027" name="庇護工場身心障礙者職業災害補償費用補助辦法" lastUpdate="20080212"/>
-<LAW PCode="N0080028" name="身心障礙者職業訓練機構設立管理及補助準則" lastUpdate="20080212"/>
+<LAW PCode="N0080026" name="身心障礙者創業輔導服務實施方式及補助準則" lastUpdate="20160325"><UPDATES><DATE>20080212</DATE></UPDATES></LAW>
+<LAW PCode="N0080027" name="庇護工場身心障礙者職業災害補償費用補助辦法" lastUpdate="20160324"><UPDATES><DATE>20080212</DATE></UPDATES></LAW>
+<LAW PCode="N0080028" name="身心障礙者職業訓練機構設立管理及補助準則" lastUpdate="20160325"><UPDATES><DATE>20080212</DATE></UPDATES></LAW>
 <LAW PCode="N0080029" name="身心障礙者職業重建服務專業人員遴用及培訓準則" lastUpdate="20140527"><UPDATES><DATE>20080212</DATE><DATE>20090617</DATE><DATE>20140214</DATE></UPDATES></LAW>
 <LAW PCode="N0080031" name="技能檢定學術科測試作業規則" lastUpdate="20031231"><UPDATES><DATE>20011205</DATE></UPDATES></LAW>
 <LAW PCode="N0080032" name="技術士技能檢定學術科測試試場規則" lastUpdate="20031231"><UPDATES><DATE>20011205</DATE></UPDATES></LAW>
