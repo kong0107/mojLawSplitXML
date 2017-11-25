@@ -1,18 +1,19 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Standards for Pesticide Residue Limits in Livestock and Poultry Products</英文法規名稱>
+<英文法規名稱>Standards for Pesticide Residue Limits in Animal Products</英文法規名稱>
 <中文法規名稱>動物產品中農藥殘留容許量標準</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=L0040078</法規網址>
-<最新英文異動日期>20130820</最新英文異動日期>
+<最新英文異動日期>20160318</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1.6 June 2008, Food No.0970400574
 2.4 September 2008, Food No.0970404359
-3.Amended on August 20, 2013]]></沿革內容>
+3.Amended on August 20, 2013
+4.Food No. 1051300758 Amended, March 18, 2016]]></沿革內容>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This Standard is prescribed in accordance with the provisions of Article 15 of the Act Governing Food Sanitation.
+    <條文內容><![CDATA[This Standard is prescribed in accordance with the provisions of the second paragraph of Article 15 of the Act Governing Food Safety and Sanitation.
 ]]></條文內容>
   </條文>
   <條文>
@@ -22,8 +23,7 @@
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The pesticide residue limits in livestock and poultry products shall meet the following Table. Not listed in the Table shall not be detected.
-
+    <條文內容><![CDATA[The pesticide residue limits in animal products shall meet the following Table. Not listed in the Table shall not be detected.
 ┌──────┬──────┬──────┬────┬────┐
 │Pesticide   │Tissue      │Species     │Maximum │Symbols │
 │Name        │            │            │Residue │        │
@@ -110,6 +110,8 @@
 │            │Fat         │Chicken     │0.1     │        │
 │            ├──────┼──────┼────┼────┤
 │            │Egg         │            │0.1     │        │
+│            ├──────┼──────┼────┼────┤
+│            │Honey       │Bee         │0.05    │        │
 ├──────┼──────┼──────┼────┼────┤
 │Carbofuran  │Muscle,     │Cattle, Pig,│0.05    │        │
 │            │Edible      │Horse, Goat,│        │        │
@@ -344,6 +346,9 @@
 │            ├──────┤            ├────┼────┤
 │            │Egg         │            │0.01    │        │
 ├──────┼──────┼──────┼────┼────┤
+│Fluvalinate │Honey, Royal│Bee         │0.05    │        │
+│            │jelly       │            │        │        │
+├──────┼──────┼──────┼────┼────┤
 │Glyphosate  │Muscle      │Cattle, Pig,│0.1     │        │
 │            │            │Poultry     │        │        │
 │            ├──────┼──────┼────┼────┤
@@ -374,11 +379,13 @@
 │            │Muscle      │Poultry     │0.02    │        │
 │            │            │            │(fat    │        │
 │            │            │            │basis)  │        │
-├──────┼──────┼──────┼────┼────┤
+│            ├──────┼──────┼────┼────┤
 │            │Edible      │            │0.02    │        │
 │            │offal, Fat  │            │        │        │
 │            ├──────┼──────┼────┼────┤
 │            │Milk        │            │0.01    │F       │
+├──────┼──────┼──────┼────┼────┤
+│Iprodione   │Honey       │Bee         │0.05    │        │
 ├──────┼──────┼──────┼────┼────┤
 │Lindane     │Muscle      │Cattle, Pig,│2 (fat  │        │
 │            │            │Sheep       │basis)  │        │
@@ -592,27 +599,27 @@
 ├──────┼──────┼──────┼────┼────┤
 │Triadimefon │Muscle      │Livestock,  │0.1     │        │
 │            │            │Poultry     │        │        │
-│            ├──────┼──────┼────┼────┤ 
-│            │Milk        │            │0.1     │        │ 
-│            ├──────┼──────┼────┼────┤ 
-│            │Egg         │            │0.1     │        │ 
-├──────┼──────┼──────┼────┼────┤ 
-│Trichlorfon │Muscle,     │Cattle, Pig │0.1     │        │ 
-│            │Edible      │            │        │        │ 
-│            │offal, Fat  │            │        │        │ 
-│            ├──────┼──────┼────┼────┤ 
-│            │Muscle      │Sheep       │0.1     │        │ 
-│            ├──────┼──────┼────┼────┤ 
+│            ├──────┼──────┼────┼────┤
+│            │Milk        │            │0.1     │        │
+│            ├──────┼──────┼────┼────┤
+│            │Egg         │            │0.1     │        │
+├──────┼──────┼──────┼────┼────┤
+│Trichlorfon │Muscle,     │Cattle, Pig │0.1     │        │
+│            │Edible      │            │        │        │
+│            │offal, Fat  │            │        │        │
+│            ├──────┼──────┼────┼────┤
+│            │Muscle      │Sheep       │0.1     │        │
+│            ├──────┼──────┼────┼────┤
 │            │Milk        │            │0.05    │        │
-├──────┼──────┼──────┼────┼────┤ 
-│Vinclozolin │Muscle      │Cattle      │0.05    │        │ 
-│            ├──────┤            ├────┼────┤ 
-│            │Milk        │            │0.05    │        │ 
-│            ├──────┼──────┼────┼────┤ 
-│            │Muscle      │Chicken     │0.05    │        │ 
-│            ├──────┤            ├────┼────┤ 
-│            │Egg         │            │0.05    │        │ 
-├──────┴──────┴──────┴────┴────┤ 
+├──────┼──────┼──────┼────┼────┤
+│Vinclozolin │Muscle      │Cattle      │0.05    │        │
+│            ├──────┤            ├────┼────┤
+│            │Milk        │            │0.05    │        │
+│            ├──────┼──────┼────┼────┤
+│            │Muscle      │Chicken     │0.05    │        │
+│            ├──────┤            ├────┼────┤
+│            │Egg         │            │0.05    │        │
+├──────┴──────┴──────┴────┴────┤
 │Note 1: The offals listed in this table are the edible      │
 │        parts.                                              │
 │Note 2: 「 F 」 means the maximum residue limit of pesticide│
@@ -627,7 +634,6 @@
 │         the maximum residue limit of pesticide of milk,    │
 │         expressed on a fat basis.                          │
 └──────────────────────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>

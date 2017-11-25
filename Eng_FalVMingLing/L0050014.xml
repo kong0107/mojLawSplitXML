@@ -1,9 +1,9 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations Governing Operation of the Communicable Disease Control Medical Network</英文法規名稱>
+<英文法規名稱>Regulations Governing Operation of the Communicable Disease</英文法規名稱>
 <中文法規名稱>傳染病防治醫療網作業辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=L0050014</法規網址>
-<最新英文異動日期>20151218</最新英文異動日期>
+<最新英文異動日期>20160719</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -18,11 +18,12 @@
 7.Amended Articles 5, 8, 12 and 13 and announced by the Department of Health, the Executive Yuan, on February 3, 2010, under Shu-Shou-Chi Order No. 0990000099
 8.Amended Articles 14, Appendix 1 of Article 2 and Appendix 2 of Article 6 and announced by the Department of Health, the Executive Yuan, on October 2, 2012, under Shu-Shou-Chi Order No. 1010101085
 9.Amended Articles 2,6,7 and 13 and announced by the Department of Health, the Executive Yuan, on October 12, 2015, under Shu-Shou-Chi Order No. 1040100962
-10.Amended Article 14, Appendix of Article 2 and announced by the Ministry of Health and Welfare on December 18, 2015, under Bu-Shou-Chi Order No. 1040101207]]></沿革內容>
+10.Amended Article 14, Appendix of Article 2 and announced by the Ministry of Health and Welfare on December 18, 2015, under Bu-Shou-Chi Order No. 1040101207
+11.Amended Articles 4 and 5 and announced by the Ministry of Health and Welfare on July 19, 2016, under Bu-Shou-Chi Order No. 1050100841]]></沿革內容>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This set of Regulations is formulated in accordance with regulations of Paragraph 4, Article 14 of the Communicable Disease Control Act (hereafter referred to as the Act)
+    <條文內容><![CDATA[This set of Regulations is formulated in accordance with regulations of Paragraph 4, Article 14 of the Communicable Disease Control Act (hereafter referred to as the Act).
 ]]></條文內容>
   </條文>
   <條文>
@@ -58,7 +59,7 @@ Regional commanding officer may invite experts and scholars in medical care, inf
     <條文內容><![CDATA[For retaining and treating patients with communicable diseases requiring isolation, competent authorities may designate isolation hospitals and assign responding hospitals from them.
 Administrative procedures for the designation of hospitals mentioned in the preceding Paragraph may be one of the following:
 1. Local competent authorities shall, based on the specific conditions of the region, distribution of medical care facilities, software and hardware of hospitals and their capacities, designate appropriate medical care institutions to be isolation hospitals and designate, appropriate isolation hospitals for the specific disease control needs of the region, responding hospitals.
-2. Regional commander shall,ｓelect after reviewing the distribution of medical care resources of the region,appropriate medical care institutions from the aforementioned list of isolation hospitals and report the selected medical care institutions to the central competent authority to designate the medical care institutions as responding hospitals.
+2. Regional commanding officer shall select after reviewing the distribution of medical care resources of the region, appropriate medical care institutions from the aforementioned list of isolation hospitals and report the selected medical care institutions to the central competent authority to designate the medical care institutions as responding hospitals.
 3. Designated directly by the central competent authority.
 ]]></條文內容>
   </條文>
@@ -70,10 +71,10 @@ Administrative procedures for the designation of hospitals mentioned in the prec
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[Principles of accepting and caring for patients of communicable diseases by isolation hospitals are as follows.
-1. Patients of Category I and Category V communicable diseases shall, in principle, be admitted and treated at the response hospitals.
+1. Patients of Category I and Category V communicable diseases shall, in principle, be admitted and treated at the responding hospitals.
 2. Patients of Category II, Category III and Category IV communicable diseases may, when necessary, be admitted and treated in isolation hospitals.
 At time of no communicable disease epidemics, the communicable disease isolation wards of the hospitals mentioned in the preceding Paragraph may be used as general wards.
-During the time the central epidemic command center is in existence, the places where patients are to be admitted and treated shall be decided upon instructions of the commanding officer of the center.
+During the period when the central epidemic command center is in operation, the places where patients are to be admitted and treated shall be decided upon instructions of the commanding officer of the center.
 ]]></條文內容>
   </條文>
   <條文>
@@ -96,8 +97,8 @@ For isolation hospitals with one of the following conditions, the central compet
   </條文>
   <條文>
     <條號>Article 12</條號>
-    <條文內容><![CDATA[During the time the central epidemic command center is in existence, isolation hospitals shall, upon instructions of the commanding officer of the center or regional commanding officer, admit and treat with priority patients of communicable diseases, and initiate activation when necessary.
-During the period mentioned in the preceding Paragraph, medical care institutions at various levels and isolation institutions established by instructions of the commanding officer of the center shall operate in coordination with the communicable disease control medical care network.
+    <條文內容><![CDATA[During the period when the central epidemic command center is in operation, isolation hospitals shall, upon instructions of the commanding officer of the center or regional commanding officer, admit and treat with priority patients of communicable diseases, and initiate activation when necessary.
+During the period mentioned in the preceding Paragraph, medical care institutions at various levels and isolation institutions established by instructions of the commanding officer of the center shall operate in coordination with the communicable disease control medical network.
 When regional commanding officer, upon assessment, deems necessary to activate isolation hospitals or to request for cross-regional assistance, shall report in writing for approval to the commanding officer of the center; at time of emergency, report may be made orally, and written documents submitted within three days after the activation.
 Activation is concluded on the day instructed by the commanding officer of the center or on the day the central epidemic command center is dissolved. Command center may inform initially the activated hospitals orally, and send written document within three days after the activation is dissolved.
 ]]></條文內容>
@@ -105,8 +106,8 @@ Activation is concluded on the day instructed by the commanding officer of the c
   <條文>
     <條號>Article 13</條號>
     <條文內容><![CDATA[Competent authorities may, acting at own discretion, subsidize personnel trainings and drills of the responding hospitals, and the procurement and maintenance costs of the facilities and equipments of the isolation wards.
-When the operation an isolation hospital that designated in accordance with regulations of the preceding Article is affected when caring for patients with communicable diseases, the central competence authority may subsidize the affected hospitals the difference between the total National Health Insurance medical costs reported during the same period in the previous year and that when they were not designated as responding hospitals.
-The duration of the subsidy begins from the month of designation till three months after de-designation.
+When the operation of an isolation hospital that is designated in accordance with regulations of the preceding Article is affected during the caring of patients with communicable diseases, the central competent authority may subsidize the affected hospitals the difference between the total National Health Insurance medical costs reported during the same period in the previous year and that when they were not activated.
+The duration of the subsidy is from the month of activation till three months after the end of the activation is dissolved.
 ]]></條文內容>
   </條文>
   <條文>

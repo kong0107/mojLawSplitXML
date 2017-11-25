@@ -3,7 +3,7 @@
 <英文法規名稱>Pharmaceutical Affairs Act</英文法規名稱>
 <中文法規名稱>藥事法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=L0030001</法規網址>
-<最新英文異動日期>20151202</最新英文異動日期>
+<最新英文異動日期>20170614</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1.Promulgated on August 17, 1970
@@ -22,7 +22,8 @@
 14. Amended on January 16, 2013
 15.Text of Article 13 amended and promulgated on May 8, 2013 on presidential order (102) Huatsung (1) number 10200082721. 
 16.Text of Article 80 amended and promulgated on December 11, 2013 on presidential order (102) Huatsung (1) number 10200225161. 
-17.Amendment to Article 2, 39, 75, 82-88, 90, 92, 93 and 96-1, and addition of Article 6-1, 27-2 and 48-2 per Presidential Order (104) Hua-Zong-Yi-Yi-Zi no. 10400140921]]></沿革內容>
+17.Amendment to Article 2, 39, 75, 82-88, 90, 92, 93 and 96-1, and addition of Article 6-1, 27-2 and 48-2 per Presidential Order (104) Hua-Zong-Yi-Yi-Zi no. 10400140921
+18.Amended on June 14, 2017]]></沿革內容>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
   <條文>
@@ -371,6 +372,18 @@ In case a permit license set forth in the preceding Paragraph is stained, damage
     <條文內容><![CDATA[The manufactured or imported medicaments referred to in Paragraph 1 of Article 39, shall only be sold, wholesaled, retailed after labels, use instructions, or package of said medicament are indicated in Chinese. However, this shall not apply for those determined by the central competent health authority to cause undue hardship.
 ]]></條文內容>
   </條文>
+  <條文>
+    <條號>Article 48-2</條號>
+    <條文內容><![CDATA[If any of the following circumstances applies, the central competent health authority may approve to manufacture and import the specific drug as a special case and is not subjected to Article 39 and Article 40:
+1. For the purpose of prevention, diagnosed as life-threatening, severely disablility diseases, and there is no domestic appropriate drug or alternative treatment.
+2. In responding to the necessity of emergency public health circumstances.
+If any of the following circumstances applies, the central competent health authority may annul the approvement in the preceding Paragraph, shall order the applicants to handle the unused drug in a limit of time, and may make an announcement for recall.
+1. When a drug is completed with registration and market approval, or there is a appropriate treatment to support the necessity of  circumstance prescribed in Subparagraph 1 of the preceding Paragraph.
+2. The emergency public health circumstance has been terminated.
+3. Drug reviewed by the central competent health authority but has been designated with a doubt of safety or medical efficacy.
+The application eligibility, reviewing procedure, approvement criteria, and other requirement regulations of the approvement as a special case in the first paragrah shall be established by the central competent health authority.
+]]></條文內容>
+  </條文>
   <編章節>   Chapter V Sales and Manufacture of Medicaments</編章節>
   <條文>
     <條號>Article 49</條號>
@@ -401,6 +414,14 @@ Drugs requiring the prescription of physicians set forth in the preceding Paragr
     <條文內容><![CDATA[Drugs imported by dealers of drugs may be sold after repackaging conducted according to the following:
 1. For pharmaceutical preparations: After approval for repackaging is obtained from the central competent health authority, the repackaging shall be conducted by manufacturers that meet the GMP standards for drugs.
 2. For raw materials: repackaging shall be conducted by manufacturers that meet the GMP standards for drugs; and, after repackaging, the repacked products shall be filed with the central competent health authority for record. The conditions, procedures the timeframe and procedure for filing the above-mentioned repacked products competent shall be established by the central competent health authority, as well as matters to be complied with for selling the repackaged products.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 53-1</條號>
+    <條文內容><![CDATA[Business undertakings engaged in wholesaling, importing and exporting pharmaceuticals, their product procuring, holding, supplying related to the quality management, organization and personnel, premises and equipment, documentation, operation procedures, customer complaints, returns and recalls, outsourced activities, self-inspections, transportation and other pharmaceuticals distribution practice, shall meet the standard of Western Pharmaceuticals Good Distribution Practice Regulations, and shall obtain the western pharmaceuticals distribution license upon the inspection and approval from the central competent health authority.
+The contents from previous paragraph shall be enforced in several phases. The enforcements of pharmaceuticals and the types of pharmaceutical firms, requirement, methods and schedules shall be announced by the central competent health authority.
+Business undertakings who meet the standard of paragraph 1 obtaining the western pharmaceuticals distribution license, may pay the corresponding application fees to apply for certificates with the central competent health authority.
+Western Pharmaceuticals Good Distribution Practice Regulations and western pharmaceuticals distribution license of paragraph 1, the application requirements, review procedures and criteria, approval and issuance, validity period, revocation, return and cancellation of the license of the previous paragraph and other matters requiring compliance shall be prescribed by the central competent health authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -652,12 +673,8 @@ Any person who knowingly imports, sells, supplies, dispenser, transports, stores
   </條文>
   <條文>
     <條號>Article 88</條號>
-    <條文內容><![CDATA[Any devices and materials which are used in manufacturing and/or dispensing misbranded drugs or prohibited drugs and are seized in accordance with this Act shall be confiscated, regardless of the ownership thereof.
-Any criminally obtained assets or property interests in the possession of those who have intentionally violated this Act shall be confiscated regardless of whether it belongs to the offender or not, with the exception of those which should be returned to the victims; If the above assets or property interests cannot be confiscated in whole or in part, the equivalent value thereof shall be indemnified either by demanding a payment from the offender or be offset by the property of the offender. However, this does not include assets or property interests obtained by the bona fide third party at the equivalent payment.
-To ensure the confiscation of the assets or property interests and a levy on payments or property compensation mentioned in the preceding Paragraph, an appropriate amount of properties may be detained where necessary.
-The assets or property interests of a natural person, a legal entity or unincorporated body except the offender confiscated pursuant to Paragraph 2 shall be ruled by the court under the request of the prosecutor. Before deciding on the ruling, the court shall notify the parties to appear to state their opinions.
-The applicant and the person being ruled may file an interlocutory appeal against the ruling in the preceding Paragraph.
-The regulations governing the valuation of criminally obtained assets, property interests, a levy on payments or property compensation which confiscated under the request of the prosecutor pursuant to this Article shall be established by the Executive Yuan.
+    <條文內容><![CDATA[Any devices and materials which are used in manufacturing or dispensing misbranded drugs or prohibited drugs and are seized in accordance with this Act shall be confiscated, regardless of the ownership thereof.
+The scope and value of the proceeds of crime in violating of this Act may be based on an estimation if the valuation is deemed difficult. The regulation governing such estimation shall be established by the central competent health authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -680,10 +697,10 @@ Any violator of the provisions of Article 69 shall be issued a fine of not less 
   </條文>
   <條文>
     <條號>Article 92</條號>
-    <條文內容><![CDATA[Any violator of the provisions of Article 6-1, paragraph 1, Article 27, paragraphs 1 and 3, Article 29, Article 31, Article 36, Article 37, paragraphs 2 and 3, Article 39, paragraph 1, Article 40, paragraph 1, Article 44, Article 45-1, Article 46, Article 49, Article 50, paragraph 1, Articles 51 through 53, Article 55 paragraph 1, Article 57 paragraphs 1, 2, and 4, Article 57-1, Article 58, Article 59, Article 60, Article 64, Article 71, paragraph 1, Article 72, Article 74, or Article 75, shall be issued a fine of not less than NT$30,000 but not more than NT$2,000,000.
+    <條文內容><![CDATA[Any violator of the provisions of Article 6-1, paragraph 1, Article 27, paragraphs 1 and 3, Article 29, Article 31, Article 36, Article 37, paragraphs 2 and 3, Article 39, paragraph 1, Article 40, paragraph 1, Article 44, Article 45-1, Article 46, Article 49, Article 50, paragraph 1, Articles 51 through 53, Article 53-1 paragraph 1, Article 55 paragraph 1, Article 57 paragraphs 1, 2, and 4, Article 57-1, Article 58, Article 59, Article 60, Article 64, Article 71, paragraph 1, Article 72, Article 74, or Article 75, shall be issued a fine of not less than NT$30,000 but not more than NT$2,000,000.
 In the case of any violation of the provisions of Article 59 or dispensing or supplying strongly poisonous drugs in violation of the provisions of Article 60, paragraph 1, the person responsible for managing the quality of the drugs or the production supervisor of the drugs shall also be issued the fines set forth in the preceding paragraph.
-Any violator of the provisions of Article 57, paragraph 2 or 4 shall be penalized pursuant to paragraph 1 of this Article, and the central competent health authority may publicly announce the name of the medicament factory or pharmaceutical firm and order them to make rectification within a prescribed time period, and during the time period for such rectification, may suspend, in whole or in part, their manufacturing, import, and business operations. If rectification is not made within the prescribed time period, the competent health authority may deny approval for extension of the validity of the medicament permit license previously granted, and will not process any other new application for other medicaments from the given factory; in the case of severe violation, the competent health authority may revoke all or part of the medicaments manufacture license.
-A violator of any provision of Article 6, paragraph 1 or 2, Article 67, or Article 68 shall be issued a fine of not less than NT$200,000 but not more than NT45 million.
+Any violator of the provisions of Article 53-1 paragraph 1, Article 57, paragraph 2 or 4 shall be penalized pursuant to paragraph 1 of this Article, and the central competent health authority may publicly announce the name of the medicament factory or pharmaceutical firm and order them to make rectification within a prescribed time period, and during the time period for such rectification, may suspend, in whole or in part, their manufacturing, wholesaling, import, export, and business operations. If rectification is not made within the prescribed time period, the competent health authority may deny approval for extension of the validity of the medicament permit license previously granted, and will not process any other new application for other medicaments from the given factory or firm; in the case of severe violation, the competent health authority may revoke all or part of the medicaments manufacture license.
+A violator of any provision of Article 6, paragraph 1 or 2, Article 67, or Article 68 shall be issued a fine of not less than NT$ 200,000 but not more than NT$ 5,000,000.
 ]]></條文內容>
   </條文>
   <條文>

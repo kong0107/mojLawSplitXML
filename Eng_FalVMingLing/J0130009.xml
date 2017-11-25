@@ -3,14 +3,14 @@
 <英文法規名稱>Fuel Economy Standards and Regulations on Vehicle Inspection and Administration</英文法規名稱>
 <中文法規名稱>車輛容許耗用能源標準及檢查管理辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=J0130009</法規網址>
-<最新英文異動日期>20140811</最新英文異動日期>
+<最新英文異動日期>20161223</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001105</下載網址>
   <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002497</下載網址>
   <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002498</下載網址>
   <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002499</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003417</下載網址>
 </附件>
 <沿革內容><![CDATA[1. Approved and promulgated by the Executive Yuan and enforced on June 25, 1987；Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on July 24, 1987
 2. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on November 24, 1989
@@ -21,7 +21,8 @@
 7. evised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on June 7 , 2007
 8. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on August 4, 2009
 9. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on May 7, 2010
-10. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on August 11, 2014]]></沿革內容>
+10. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on August 11, 2014
+11. Amended on December 23, 2016]]></沿革內容>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
@@ -44,7 +45,6 @@ Any matters not provided for in these regulations herein shall be subject to the
     <條文內容><![CDATA[4.1 Any passenger car (including sedans and station wagons) with a gasoline or diesel engine, manufactured or imported by the entity shall comply with the following 4.1.1 or 4.1.2 regarding the standards governing the fuel economy of vehicles (hereinafter referred to as the Fuel Economy Standards):
 4.1.1 Fuel economy testing is conducted in accordance with the Federal Test Procedure (FTP-75) of the United States:
 4.1.1.1 Fuel Economy Standards
-
 ┌──────────────────┬───────────┐
 │Class of Vehicles Engine            │Fuel Economy Standards│
 │Displacement (cubic centimeters)    │(kilometers/liter)    │
@@ -58,7 +58,6 @@ Any matters not provided for in these regulations herein shall be subject to the
 │Over 4200 to 5400                   │7.2                   │
 │Over 5400                           │6.5                   │
 └──────────────────┴───────────┘
-
 4.1.1.2 The combined fuel economy value for passenger cars (including sedans and station wagons) is calculated by the following equation:
 
 Combined fuel economy value (kilometers/liter, km/L) =
@@ -70,7 +69,6 @@ City fuel economy(km/L)　Highway fuel economy(km/L)
 
 4.1.2 Fuel economy testing is conducted in accordance with Directive 1999/100/EC and subsequent amendments:
 4.1.2.1 Fuel Economy Standards
-
 ┌──────────────────┬───────────┐
 │Class of Vehicles Engine            │Fuel Economy Standards│
 │Displacement (cubic centimeters)    │(kilometers/liter)    │
@@ -84,7 +82,6 @@ City fuel economy(km/L)　Highway fuel economy(km/L)
 │Over 4200 to 5400                   │6.3                   │
 │Over 5400                           │5.7                   │
 └──────────────────┴───────────┘
-
 4.1.2.2 The combined fuel economy value for passenger cars (including sedans and station wagons) is calculated by the following equation:
 
 Combined fuel economy value (kilometers/liter, km/L) =
@@ -97,7 +94,6 @@ Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 4.2 Effective from Jan.1, 2016 for manufactured or imported passenger car (including sedans and station wagons) with a gasoline or diesel engine by any entity to apply for vehicle type fuel economy certificates shall be tested in accordance with the test procedures prescribed in the European directive 1999/100/EC and its subsequent revisions; effective from Jan. 1, 2017, the previous mentioned vehicles shall comply with the following requirements:
 4.2.1 The average fuel economy value of the manufacturer sold vehicles shall be higher than the required average fuel economy target value.
 4.2.2 The average fuel economy limits corresponding to different vehicle types prescribed by the required average fuel economy target value are as follows. But if the previous year sales of a brand by the vehicle entity were less than 300 units and the brand’s world annual production is less than 10,000 units, a proposal for its fuel economy improvement may be submitted and being approved by the central competent authority to execute its improvement project announced by the central competent authority, and not applicable for the average fuel economy limits prescribed herein.
-
 ┌────────────────┬─────────────┐
 │Class of vehicle reference mass │Average fuel economy      │
 │(kg)                            │limits (km/liter)         │
@@ -132,7 +128,6 @@ Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 ├────────────────┼─────────────┤
 │Over 2610                       │7.2                       │
 └────────────────┴─────────────┘
-
 4.2.3 The average fuel economy value and average fuel economy target values prescribed in 4.2.1 shall be calculated by using the following formula:
 4.2.3.1 Average fuel economy value:
 
@@ -172,7 +167,6 @@ Vi: sales number (units) of manufactured or imported vehicle type i.
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[5.1 Any motorcycle manufactured or imported by any entity shall comply with the following Fuel Economy Standards:
-
 ┌──────────────────┬───────────┐
 │Class of Vehicles Engine            │Fuel Economy Standards│
 │Displacement (cubic centimeters)    │(kilometer/liter)     │
@@ -188,7 +182,6 @@ Vi: sales number (units) of manufactured or imported vehicle type i.
 │Over 1250 to 1500                   │13.1                  │
 │Over 1500                           │12.8                  │
 └──────────────────┴───────────┘
-
 5.2 The combined fuel economy value for motorcycles is calculated by the following equation:
 
 Combined fuel economy value (kilometers/liter, km/L) =
@@ -201,7 +194,6 @@ Urban fuel economy(km/L) 　  Constant speed fuel economy(km/L)
 5.3 Effective from Jan.1, 2016 for manufactured or imported motorcycles by any entity to apply for vehicle type fuel economy certificates shall comply with the following requirements:
 5.3.1 The average fuel economy value of the manufacturer sold vehicles shall be higher than the required average fuel economy target value.
 5.3.2 The average fuel economy limits corresponding to different vehicle types prescribed by the required average fuel economy target value are as follows.
-
 ┌──────────────────┬───────────┐
 │Class of Vehicles Engine            │Average fuel economy  │
 │Displacement (cubic centimeters)    │limits                │
@@ -218,7 +210,6 @@ Urban fuel economy(km/L) 　  Constant speed fuel economy(km/L)
 │Over 1250 to 1500                   │14.7                  │
 │Over 1500                           │14.1                  │
 └──────────────────┴───────────┘
-
 5.3.3 The average fuel economy value and average fuel economy target values prescribed in 5.3.1 shall be calculated by using the following formula:
 5.3.3.1 Average fuel economy value:
 
@@ -255,7 +246,6 @@ Vi: sales number (units) of manufactured or imported vehicle type i.
     <條文內容><![CDATA[6.1 Any light-duty truck of a gross weight less than 2,500 kilograms, commercial vehicle and passenger car (not sedans or station wagons) with gasoline or diesel engine manufactured or imported by the entity shall comply with the following 6.1.1 or 6.1.2 regarding standards governing fuel economy of vehicles:
 6.1.1 Fuel economy testing is conducted in accordance with the Federal Test Procedure (FTP-75) of the United States:
 6.1.1.1 Fuel Economy Standards
-
 ┌──────────────────┬───────────┐
 │Class of Vehicles Engine            │Fuel Economy Standards│
 │Displacement (cubic centimeters)    │(kilometers/liter)    │
@@ -269,7 +259,6 @@ Vi: sales number (units) of manufactured or imported vehicle type i.
 │Over 4200 to 5400                   │6.7                   │
 │Over 5400                           │6.1                   │
 └──────────────────┴───────────┘
-
 6.1.1.2 The combined fuel economy value for light-duty trucks of a gross weight less than 2,500 kilograms, commercial vehicles and passenger cars (not sedans or station wagons) is calculated by the following equation:
 
 Combined fuel economy value (kilometers/liter, km/L) =
@@ -281,7 +270,6 @@ City fuel economy(km/L) 　   Highway fuel economy(km/L)
 
 6.1.2 Fuel economy testing is conducted in accordance with Directive 1999/100/EC and subsequent amendments:
 6.1.2.1 Fuel Economy Standards
-
 ┌──────────────────┬───────────┐
 │Class of Vehicles Engine            │Fuel Economy Standards│
 │Displacement (cubic centimeters)    │(kilometer/liter)     │
@@ -295,7 +283,6 @@ City fuel economy(km/L) 　   Highway fuel economy(km/L)
 │Over 4200 to 5400                   │5.8                   │
 │Over 5400                           │5.3                   │
 └──────────────────┴───────────┘
-
 6.1.2.2 The combined fuel economy value for light-duty trucks of a gross weight less than 2,500 kilograms, commercial vehicles and passenger cars (not sedans or station wagons) is calculated by the following equation:
 
 Combined fuel economy value (kilometers/liter, km/L)=
@@ -308,7 +295,6 @@ Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 6.2 Effective from Jan.1, 2016 for manufactured or imported light-duty truck of a gross weight less than 2,500 kilograms, commercial vehicle and passenger car (not sedans or station wagons) with gasoline or diesel engine by any entity to apply for vehicle type fuel economy certificates shall be tested in accordance with the test procedures prescribed in the European directive 1999/100/EC and its subsequent revisions; effective from Jan. 1, 2017, the previous mentioned vehicles shall comply with the following requirements:
 6.2.1 The average fuel economy value of the manufacturer sold vehicles shall be higher than the required average fuel economy target value.
 6.2.2 The average fuel economy limits corresponding to different vehicle types prescribed by the required average fuel economy target value are as follows.
-
 ┌──────────────────┬───────────┐
 │Class of vehicle reference mass     │Average fuel economy  │
 │(kg)                                │limits (km/liter)     │
@@ -345,7 +331,6 @@ Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 ├──────────────────┼───────────┤
 │Over 2610                           │5.7                   │
 └──────────────────┴───────────┘
-
 6.2.3 The average fuel economy value and average fuel economy target values prescribed in 6.2.1 shall be calculated by using the following formula:
 6.2.3.1 Average fuel economy value:
 
@@ -512,7 +497,6 @@ The Competent Authority may commission agency for the energy efficient labeling 
 1.The results of three retests for the original sample test vehicle shall be averaged to a single value (hereinafter referred to Y).
 2.Y and all of the one-time retest results for each vehicle requested for retesting by the application entity and selected by the Competent Authority shall be averaged to determine a single value (hereinafter referred to X).
 3.In the event that the difference of X and the product of statistical parameter times the standard deviation is not smaller than the Fuel Economy Standards, the vehicles covered by the application shall be regarded as meeting the Fuel Economy Standards. The standard deviation is calculated by the following equation:
-
 ┌──────────────────────────────┐
 │                    ┌─────────────────    │
 │                    │                               2      │
@@ -522,9 +506,7 @@ The Competent Authority may commission agency for the energy efficient labeling 
 │                    │                                      │
 │                   ˇ                                       │
 └──────────────────────────────┘
-
 The statistical parameters are to be determined based on the number of sample test vehicles, as in the following table:
-
 ┌──────┬───┬───┬───┬───┬───┬───┐
 │Number of   │2     │3     │4     │5     │6     │7     │
 │Sample      │      │      │      │      │      │      │
@@ -533,8 +515,6 @@ The statistical parameters are to be determined based on the number of sample te
 │Statistical │0.973 │0.613 │0.489 │0.421 │0.376 │0.342 │
 │Parameter   │      │      │      │      │      │      │
 └──────┴───┴───┴───┴───┴───┴───┘
-
-
 ┌──────┬───┬───┬───┬───┬───┬───┐
 │Number of   │8     │9     │10    │11    │12    │13    │
 │Sample      │      │      │      │      │      │      │
@@ -543,8 +523,6 @@ The statistical parameters are to be determined based on the number of sample te
 │Statistical │0.317 │0.296 │0.279 │0.265 │0.253 │0.242 │
 │Parameter   │      │      │      │      │      │      │
 └──────┴───┴───┴───┴───┴───┴───┘
-
-
 ┌──────┬───┬───┬───┬───┬───┬───┐
 │Number of   │14    │15    │16    │17    │18    │19    │
 │Sample      │      │      │      │      │      │      │
@@ -553,9 +531,7 @@ The statistical parameters are to be determined based on the number of sample te
 │Statistical │0.233 │0.224 │0.216 │0.210 │0.203 │0.198 │
 │Parameter   │      │      │      │      │      │      │
 └──────┴───┴───┴───┴───┴───┴───┘
-
 If the number of sample test vehicles is equal to or greater than 20, then
-
 ┌──────────────────────────────┐
 │                                  0.860                     │
 │Statistical Parameter = ───────────────      │
@@ -563,7 +539,6 @@ If the number of sample test vehicles is equal to or greater than 20, then
 │                         │ Number of Sample Vehicles       │
 │                        ˇ                                  │
 └──────────────────────────────┘
-
 In the event that the entity does not apply for retesting, or the results of the retesting do not meet the Fuel Economy Standards under this Article, the certificate of conformity in respect to the vehicle or the model of vehicle covered by the certificate shall be annulled. The Competent Authority shall forthwith withhold from the entity the right to sell the vehicles and order the entity to take actions to improve the fuel economy of the vehicles. The Transportation Management Authority shall not issue vehicle licenses to the vehicles of the model concerned or to any entity who commits a breach of Article 10 as well.
 The entity applying for a retest as described in paragraph 1 of this article shall deliver the vehicles to the Accredited Agency appointed by the Competent Authority.
 ]]></條文內容>

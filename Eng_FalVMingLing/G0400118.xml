@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Preparation of Financial Reports by Company-Type Futures Exchanges</英文法規名稱>
 <中文法規名稱>公司制期貨交易所財務報告編製準則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400118</法規網址>
-<最新英文異動日期>20140915</最新英文異動日期>
+<最新英文異動日期>20170210</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1. Full text of 24 articles adopted and issued per 9 August 1998 Order No. (87)-Taiwan-Finance-Securities-(VII)-02352 of the Securities and Futures Commission, Ministry of Finance
@@ -12,6 +12,7 @@
 4. Full text of 28 articles amended and issued per 15 August 2011 Order No. Financal-Supervisory-Securities-Futures-1000037928 of the Financial Supervisory Commission, Executive Yuan; for enforcement from 1 January 2013
 5. Articles 11 to~14, 23, and 25 and appendixes of Article 21 amended and issued, and Article 27-1 added per 29 December 2011 Order No. Financal-Supervisory-Securities-Futures-1000062958 of the Financial Supervisory Commission, Executive Yuan; for enforcement from 1 January 2013
 6. Full text of 30 articles amended and issued per 15 September 2014 Order No. Financial-Supervisory-Securities-Futures-1030035294 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 3, 6, 10 to 15, 17, 19, 21 to 23, 27, and 29 and Article 9, paragraph 1, which will come into force from the beginning of financial year 2015
+7. Articles 11, 14, 17, 20, and 30, and Forms 1 and 1-1 of Article 21 amended per 10 February 2017 Order No. Financial-Supervisory-Securities-Futures-1060002200 of the Financial Supervisory Commission; for enforcement from the fiscal year 2017
 ]]></沿革內容>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -74,7 +75,7 @@ B.If, for the voluntary change in accounting policy in the new financial year, i
 C.Unless it is impracticable to determine the effects as described in the preceding item, then within 2 months after the beginning of the financial year in which the new accounting policy is adopted, the company-type futures exchange shall calculate the line items affected and the actual effect for the financial year preceding the earliest financial year affected by retrospective application of the new accounting policy and the actual effect on the opening balance of retained earnings for the immediately preceding financial year, and shall submit those for adoption by the board of directors, after which they shall be submitted to the FSC for recordation. If the difference between the actual effect of the change in accounting policy and the effect originally filed with the FSC is NT$10 million or more, and is also 1 percent or more of net operating revenues for the immediately preceding financial year, or 5 percent or more of paid-in capital, the company-type futures exchange shall analyze the reasons for the difference and request a CPA to provide an opinion on its reasonableness. The analysis and the CPA's opinion shall also be filed with the FSC.
 D.Except when applying a new accounting policy to newly purchased assets, in which case the provisions of the preceding items need not be applied, if a change in accounting policy is applied without having been duly filed for approval, the financial reports for the financial year in which the new accounting policy was applied shall be restated, and the new accounting policy may only be applied from the next financial year after a supplementary filing has been made and approved.
 E.If the shares of a company-type futures exchange have a par value other than NT$10, for the calculation of the 5 percent of paid-in capital under item C, 2.5 percent of the equity attributable to owners of the parent as stated in the balance sheet shall be substituted.
-2.For any matter among accounting estimates in relation to a change in the useful life or depreciation method of depreciable assets, a change in the amortization period or amortization method of intangible assets, or a change in the residual value of any such assets, in addition to complying with item D of the preceding subparagraph, a company-type stock exchange shall request a CPA to provide an analysis and review opinion on the reasonableness of the nature of the changes in accounting estimates and the reasons why the changes in accounting estimates can provide reliable and more relevant information. Those changes in accounting estimates shall then be submitted as a proposal for adoption by resolution of the board of directors, after which they shall be submitted to the FSC for approval.
+2.For any matter among accounting estimates in relation to a change in the useful life or depreciation method of depreciable assets, a change in the amortization period or amortization method of intangible assets, or a change in the residual value of any such assets, in addition to complying with item D of the preceding subparagraph, a company-type futures exchange shall request a CPA to provide an analysis and review opinion on the reasonableness of the nature of the changes in accounting estimates and the reasons why the changes in accounting estimates can provide reliable and more relevant information. Those changes in accounting estimates shall then be submitted as a proposal for adoption by resolution of the board of directors, after which they shall be submitted to the FSC for approval.
 ]]></條文內容>
   </條文>
   <條文>
@@ -100,14 +101,14 @@ Current assets means that the company-type futures exchange expects to realize t
 1.Cash and cash equivalents:
 A.Cash on hand, demand deposits, and short-term, highly liquid time deposits or investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
 B.A company-type futures exchange shall disclose the components of cash and cash equivalents and the policy which it adopts in determining the composition of cash and cash equivalents.
-2.Financial assets at fair value through profit or loss-current:
+2.Financial assets at fair value through profit or loss–current:
 A.Financial assets held for trading:
 a.Assets that are acquired principally for the purpose of sale in the near term.
 b.Assets that, upon initial recognition, are a part of a portfolio of identified financial instruments that are managed together and for which there is evidence of a recent pattern of short-term profit-taking.
 c.Assets that are derivative financial assets, except for derivative financial assets that are financial guarantee contracts or designated and effective hedging instruments.
 B.Financial assets that, except for those designated as hedged items under hedge accounting requirements, are designated upon initial recognition as at fair value through profit or loss.
 C.Financial assets at fair value through profit or loss shall be measured at fair value.
-3.Available-for-sale financial assets-current:
+3.Available-for-sale financial assets–current:
 A.Financial assets that are not derivative financial assets and are designated as available-for-sale.
 B.Financial assets that are neither derivative financial assets nor any of the following:
 a.Financial assets measured at fair value through profit or loss.
@@ -116,11 +117,11 @@ c.Financial assets measured at cost.
 d.Debt instrument investments for which no active market exists.
 e.Receivables.
 C.Available-for-sale financial assets shall be measured at fair value.
-4.Derivative financial assets for hedging-current: Any derivative financial asset that is a designated and effective hedging instrument under hedge accounting requirements. Any such asset shall be measured at fair value.
-5.Financial assets measured at cost-current: Financial assets that meet all of the following conditions:
+4.Derivative financial assets for hedging–current: Any derivative financial asset that is a designated and effective hedging instrument under hedge accounting requirements. Any such asset shall be measured at fair value.
+5.Financial assets measured at cost–current: Financial assets that meet all of the following conditions:
 A.An investment in equity instruments that do not have a quoted price in an active market, or a derivative instrument that is linked to such equity instruments that do not have a quoted price in an active market and that shall settled by delivery of such equity instruments.
 B.The fair value cannot be reliably measured.
-6.Debt instrument investments for which no active market exists-current:
+6.Debt instrument investments for which no active market exists–current:
 A.Debt instrument investments that do not have a quoted price in an active market, that have fixed or determinable payments, and that meet all of the following conditions:
 a.Not classified as at fair value through profit or loss.
 b.Not designated as available-for-sale.
@@ -138,9 +139,10 @@ D.At each balance sheet date an assessment shall be made of whether there is any
 A.Any non-current asset, or asset included in a disposal group held for sale, that is available for immediate sale in its present condition subject only to terms that are usual and customary for sales of such disposal groups, and whose sale must be highly probable.
 B.The measurement, presentation, and disclosure of non-current assets held for sale and disposal groups held for sale shall be made in accordance with IFRS 5.
 C.When non-current assets or disposal groups classified as held for sale no longer meet the criteria in IFRS 5, they shall cease to be classified as held for sale.
+D.When assets or disposal groups meet the definition of held for distribution to owners, they shall be reclassified from held for sale to held for distribution to owners, and shall be deemed an extension of the original disposal plan, and the classification, presentation, and measurement of the new disposal plan shall apply. When the assets or disposal groups classified as held for distribution to owners no longer meet the criteria in IFRS 5, they shall cease to be classified as held for distribution to owners.
 12.Other current assets: Current assets not attributable to any of the classes above.
 Non-current assets refers to tangible, intangible and financial assets of a long-term nature, other than assets classified as current. As a minimum, non-current assets shall include the following asset line items:
-1.Held-to-maturity financial assets-non-current:
+1.Held-to-maturity financial assets–non-current:
 A.A non-derivative financial asset with fixed or determinable payments and fixed maturity, and which a company-type futures exchange has the positive intention and ability to hold to maturity, excluding the following items:
 a.Assets designated, upon initial recognition, as at fair value through profit or loss.
 b.Assets designated as available-for-sale.
@@ -151,9 +153,9 @@ A.The valuation and presentation of investments accounted for using the equity m
 B.When investment gain or loss is recognized, if the financial reports prepared by an associate do not conform to these Regulations, those financial reports shall first be adjusted to achieve conformance before they may be used to recognize investment gain or loss. The financial reports of an associate used in applying the equity method shall be prepared as of the same date as that of the company-type futures exchange, and if prepared as of a different date, adjustments shall be made for the effects of significant transactions or events that occur between that date and the date of the company-type futures exchange's financial reports. In no case shall there be more than 3 months difference between the balance sheet date of the associate and that of the company-type futures exchange. If a CPA determines, pursuant to Statement of Auditing Standards No. 51, that an associate has a material effect on the fair presentation of the financial reports of a company-type futures exchange, the financial reports of the associate shall be audited by a CPA in accordance with the Regulations Governing Auditing and Certification of Financial Statements by Certified Public Accountants and generally accepted auditing standards.
 C.If an investment accounted for using the equity method is pledged as collateral or otherwise subject to any restriction or limitation, that fact shall be noted.
 3.Property and equipment:
-A.Tangible asset items that are held for use in the supply of goods or services, for rental to others, or for administrative purposes, and that are expected to be used during more than 1 financial year.
+A.Tangible asset items that are held for use in the supply of goods or services, for rental to others, or for administrative purposes, and that are expected to be used during more than 1 financial year or 1 operating cycle.
 B.Property and equipment shall be subsequently measured using the cost model and accounted for in accordance with IAS 16.
-C.Each component of property and equipment that is significant shall be depreciated separately.
+C.Each component of property and equipment that is significant shall be depreciated separately. The depreciation method used shall reflect the pattern in which the asset's future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The depreciable amount should be allocated on a systematic basis over the asset's useful life.
 D.When items of property and equipment have different useful lives, or provide economic benefits in different ways, or are subject to different depreciation methods or depreciation rates, the notes shall show each class of their material components.
 4.Investment property:
 A.Property held, by the owner or by the lessee under a finance lease, to earn rentals, or for capital appreciation, or both.
@@ -161,10 +163,11 @@ B.Investment property shall be subsequently measured using the cost model and ac
 5.Intangible assets:
 A.Refers to an identifiable non-monetary asset without physical substance that meets the definition of identifiability, control by an entity, and existence of future economic benefits.
 B.Intangible assets shall be subsequently measured using the cost model and accounted for in accordance with IAS 38.
+C.The amortization method used shall reflect the pattern in which the asset's future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The amortized amount of an intangible asset shall be allocated on a systematic basis over its useful life.
 6.Deferred tax assets: The amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
 7.Other non-current assets: Non-current assets not attributable to any of the classes above.
 The items described in the preceding two paragraphs in relation to financial assets at fair value through profit or loss, derivative financial assets for hedging, available-for-sale financial assets, financial assets measured at cost, debt instrument investments for which no active market exists, held-to-maturity financial assets, trade receivables, and other receivables shall be accounted for in accordance with IAS 39.
-A company-type futures exchange shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in paragraph 3 and paragraph 4 in relation to available-for-sale financial assets, financial assets measured at cost, debt instrument investments for which no active market exists, held-to-maturity financial assets, trade receivables, other receivables, investments accounted for using the equity method, property and equipment, investment property measured using the cost model, and intangible assets. If any such evidence exists, the company-type futures exchange shall recognize the amount of any impairment loss in accordance with IAS 39 and IAS 36.
+A company-type futures exchange shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in paragraph 3 and paragraph 4 in relation to available-for-sale financial assets, financial assets measured at cost, debt instrument investments for which no active market exists, held-to-maturity financial assets, trade receivables, other receivables, investments accounted for using the equity method, property and equipment, investment property measured using the cost model, and intangible assets. If any such evidence exists, the company-type futures exchange shall recognize the amount of any impairment loss in accordance with IAS 39 and IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, and the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for value in use measurement.
 With respect to the items described in paragraph 3 and paragraph 4 in relation to financial assets at fair value through profit or loss, derivative financial assets for hedging, available-for-sale financial assets, debt instrument investments for which no active market exists, held-to-maturity financial assets, trade receivables, other receivables, non-current assets held for sale, and investment property, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
 The items described in paragraph 3 and paragraph 4 in relation to financial assets at fair value through profit or loss, derivative financial assets for hedging, available-for-sale financial assets, financial assets measured at cost, debt instrument investments for which no active market exists, and held-to-maturity financial assets shall be distinguished as current and non-current based on liquidity.
 ]]></條文內容>
@@ -182,15 +185,15 @@ C.Borrowings from financial institutions, shareholders, employees, related parti
 A.Short-term bills issued through financial institutions to acquire funds from the money market, including commercial paper payable and bankers' acceptances.
 B.Short-term bills payable shall be measured at amortized cost using the effective interest method. However, short-term bills payable with no stated interest rate may be measured at the original face amount if the effect of discounting is immaterial.
 C.For short-term bills payable, the guarantor or accepting institution and the interest rate shall be noted. If collateral is provided, the name and carrying amount of the collateral shall be noted.
-3.Financial liabilities at fair value through profit or loss -current:
+3.Financial liabilities at fair value through profit or loss –current:
 A.Financial liabilities held for trading:
 a.Liabilities that are incurred principally for the purpose of repurchasing them in the near term.
 b.Liabilities that, upon initial recognition, are part of a portfolio of identified financial instruments that are managed together and for which there is evidence of a recent pattern of short-term profit-taking.
 c.Liabilities that are derivative financial liabilities, except for financial guarantee contracts or derivative financial liabilities that are designated and effective hedging instruments.
 B.Financial liabilities that, except for those designated as hedged items under hedge accounting requirements, are designated upon initial recognition as at fair value through profit or loss.
 C.Financial liabilities at fair value through profit or loss shall be measured at fair value. However, with respect to a financial liability designated as at fair value through profit or loss, if the amount of change in the fair value of the financial liability is attributable to change in the credit risk, it shall be recognized in other comprehensive income, unless for the purpose of avoiding accounting mismatch or in the case of loan commitments and financial guarantee contracts, under which circumstances the amount of changes in fair value shall be recognized in profit or loss.
-4.Derivative financial liabilities for hedging -current: A derivative financial liability that is a designated and effective hedging instrument under hedge accounting requirements. Any such liability shall be measured at fair value.
-5.Financial liabilities measured at cost -current: derivative instrument liabilities that are linked to such equity instruments that do not have a quoted price in an active market and that shall be settled by delivery of such equity instruments, and the fair value cannot be reliably measured.
+4.Derivative financial liabilities for hedging –current: A derivative financial liability that is a designated and effective hedging instrument under hedge accounting requirements. Any such liability shall be measured at fair value.
+5.Financial liabilities measured at cost –current: derivative instrument liabilities that are linked to such equity instruments that do not have a quoted price in an active market and that shall be settled by delivery of such equity instruments, and the fair value cannot be reliably measured.
 6.Trade payables:
 A.Refers to payables resulting from principal business operations.
 B.Trade payables shall be measured at amortized cost using the effective interest method. However, short-term trade payables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
@@ -199,14 +202,14 @@ D.Payables to related parties in significant amounts shall be presented separate
 E.If collateral has been provided for trade payables, the name and carrying amount of the collateral shall be noted.
 7.Other payables: Payables other than trade payables, such as tax payable, accrued payroll, and dividends payable. For dividends and bonuses payable passed by resolution of the shareholders meeting, the distribution method and scheduled payment date, if determined, shall be disclosed.
 8.Current tax liabilities: Unpaid tax for current and prior periods.
-9.Provisions -current:
+9.Provisions –current:
 A.Refers to any liability of uncertain timing or amount.
 B.Provisions shall be accounted for in accordance with IAS 37.
 C.A provision shall be recognized when a company-type futures exchange has a present obligation as a result of a past event, and it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation, and a reliable estimate can be made of the amount of the obligation.
 D.A company-type futures exchange shall disaggregate provisions into provisions for employee benefits and other items in the notes.
 10.Liabilities directly associated with non-current assets held for sale: Refers to any liability included in a disposal group held for sale that is available for immediate sale in its present condition subject only to terms that are usual and customary for sales of such disposal groups, and whose sale must be highly probable.
 11.Other current liabilities: Current liabilities not attributable to any of the classes above.
-Non-current liabilities refers to liabilities other than current liabilities. As a minimum, non-current liabilities shall include the following liability line items: 
+Non-current liabilities refers to liabilities other than current liabilities. As a minimum, non-current liabilities shall include the following liability line items:
 1.Bonds payable (including overseas bonds): Refers to bonds issued by a company-type futures exchange:
 A.For issued bonds, the total approved amount, interest rate, maturity date, name of collateral, carrying amount, issuing area, and other relevant terms and restrictions shall be noted in the notes to the financial reports. If the bonds are convertible bonds, the method of conversion and amounts already converted shall also be noted.
 B.Premiums and discounts on bonds payable are valuations of bonds payable. They shall be presented as an addition to or deduction from bonds payable, and shall also be amortized, as an adjustment to interest expenses, using the effective interest method during the period of bond circulation.
@@ -231,14 +234,14 @@ a.Capital contributed by shareholders to a company-type futures exchange and reg
 b.For share capital, the classes, par value per share, the number of shares authorized, the number of shares issued and fully paid, a reconciliation of the number of shares outstanding at the beginning and at the end of the period, the rights, preferences and restrictions attaching to each class of share capital, shares in the company-type futures exchange held by the company-type futures exchange or by its subsidiaries or associates, shares reserved for issue (or for transfer or conversion) under options and contracts for the sale of shares, and special conditions shall be disclosed in the notes.
 c.If convertible preferred shares or overseas depositary receipts are issued, the issuing area, issuance and conversion methods, converted amount, and special conditions shall be disclosed.
 B.Capital surplus: Means the equity components of financial instruments issued by a company-type futures exchange or premiums resulting from share capital transactions between a company-type futures exchange and its owners, and typically includes premium in excess of the par value of the shares issued, donated surplus, and others arising as a result of regulatory provisions associated with these Regulations.
-C.Capital surpluses shall be presented separately according to their nature; if there is any restriction on their use, the restriction shall be disclosed in the notes.
-D.Retained earnings (or accumulated deficit): Refers to equity resulting from operating activities, including legal reserves, special reserves, and undistributed earnings (or deficit to be offset):
+Capital surpluses shall be presented separately according to their nature; if there is any restriction on their use, the restriction shall be disclosed in the notes.
+C.Retained earnings (or accumulated deficit): Refers to equity resulting from operating activities, including legal reserves, special reserves, and undistributed earnings (or deficit to be offset):
 a.Legal reserve: A fixed-percentage reserve appropriated as required by the Company Act.
 b.Special reserve: A reserve appropriated from earnings in accordance with the requirements of applicable laws and regulations, contracts, or articles of incorporation, or as resolved at shareholders meetings.
 c.Undistributed earnings (or deficit to be offset): Undistributed and unappropriated earnings ("deficit to be offset" is deficit not yet offset).
 d.An earnings distribution or offsetting of deficit shall not be accounted for unless and until approved by a shareholders meeting. However, when an earnings distribution or offsetting of deficit has been proposed, such shall be disclosed in the notes to the financial reports for the current period.
-E.Other equity: Includes the accumulated balances of exchange differences resulting from translating the financial statements of a foreign operation, of unrealized gains or losses from available-for-sale financial assets, and of the effective portion of gains and losses on hedging instruments in a cash flow hedge, and of revaluation surplus.
-F.Treasury shares: Treasury shares shall be accounted for using the cost method and presented as a deduction from equity. The number of shares shall be noted.
+D.Other equity: Includes the accumulated balances of exchange differences resulting from translating the financial statements of a foreign operation, of unrealized gains or losses from available-for-sale financial assets, and of the effective portion of gains and losses on hedging instruments in a cash flow hedge, and of revaluation surplus.
+E.Treasury shares: Treasury shares shall be accounted for using the cost method and presented as a deduction from equity. The number of shares shall be noted.
 2.Non-controlling interest:
 A.The equity in a subsidiary not attributable, directly or indirectly, to a parent.
 B.For each business combination, the components of non-controlling interest in the acquiree shall be measured in accordance with IFRS 3.
@@ -261,7 +264,7 @@ c.Trading information transmission and usage fee revenue: Trading information tr
 d.Trading information broadcast and usage royalty revenue: Trading information broadcast and usage royalties paid on a monthly basis by news media organizations or cable television operators to a company-type futures exchange for the broadcasting of trading information.
 e.Other operating revenue: Operating revenues not attributable to any of the items above.
 B.Other revenue: Includes revenue arising from the use by others of assets of a company-type futures exchange yielding interest and dividends.
-C.The recognition and measurement of revenue shall be made in accordance with IAS 18.
+C.The recognition and measurement of revenue shall be made in accordance with IAS 18. When, and only when, a company-type futures exchange assesses it has exposure to the significant risks and rewards for the sale of goods or the rendering of services based on an examination of the circumstances of the transaction, the recognition of revenue shall be based on the gross amount; otherwise, the recognition of revenue shall be based on the net amount.
 2.Operating expense: The expenses to be borne as a result of operating activities in the period, including employee benefits expense, depreciation and amortization expense, and other operating expense.
 3.Finance costs: Include interest expenditures incurred in relation to operating activities and for all classes of liabilities, with the portion eligible for capitalization being deducted.
 4.Share of the profit or loss of associates and joint ventures accounted for using the equity method: The profit or loss of associates and interests in joint ventures that a company-type futures exchange recognizes using the equity method according to its share in the associates and the interests in joint ventures.
@@ -325,16 +328,17 @@ A company-type futures exchange shall present, either in the statement of change
 19.Major litigation pending or concluded.
 20.The signing, completion, voidance, or lapse of major contracts.
 21.Major organizational adjustments and significant management reforms.
-22.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, and certainty of future cash flows.
-23.Any research and development project funded by another party and the amount.
-24.Information about investments in derivative instruments.
-25.When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
-26.In the case of private placement of securities, the type, issue date, and amount shall be disclosed.
-27.Material effects of changes in government laws and regulations.
-28.Material effects of discontinuance of operations.
-29.Fair value information. The information shall be disclosed in accordance with IFRS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
-30.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
-31.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
+22.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, and certainty of future cash flows, actuarial losses and gains arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
+23.Segment financial information in accordance with IFRS 8, including the scope of business, revenue, and gains and losses of each reportable segment.
+24.Any research and development project funded by another party and the amount.
+25.Information about investments in derivative instruments.
+26.When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
+27.In the case of private placement of securities, the type, issue date, and amount shall be disclosed.
+28.Material effects of changes in government laws and regulations.
+29.Material effects of discontinuance of operations.
+30.Fair value information. The information shall be disclosed in accordance with IFRS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
+31.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
+32.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
 ]]></條文內容>
   </條文>
   <條文>
@@ -373,11 +377,15 @@ If the shares issued by a company-type futures exchange have a par value other t
   </條文>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[A company-type futures exchange shall fully disclose information on related party transactions in accordance with IAS 24. In considering whether a counterparty is a related party, attention shall be directed to the substance of the relationship in addition to the legal form. Unless it can be established that no control, joint control, or significant influence exists, a party falling within any of the following shall be deemed to have a substantive related party relationship, and relevant information shall be disclosed in the notes to the financial reports in accordance with IAS 24:
+    <條文內容><![CDATA[A company-type futures exchange shall fully disclose information on related party transactions in accordance with IAS 24, and the following provisions shall be complied with:
+1.The name and relationship of the related party shall be presented.
+2.If the transaction amount or balance of any single related party reaches 10 percent or more of the company-type futures exchange's total transaction amount or balance of that type of transaction, the name of each such related party shall be individually presented.
+In considering whether a counterparty is a related party, attention shall be directed to the substance of the relationship in addition to the legal form. Unless it can be established that no control, joint control, or significant influence exists, a party falling within any of the following shall be deemed to have a substantive related party relationship, and relevant information shall be disclosed in the notes to the financial reports in accordance with IAS 24:
 1.An affiliated enterprise within the meaning given in Chapter VI-I of the Company Act, and any of its directors, supervisors, and managerial officers.
 2.A company or institution governed by the same general management office as the company-type futures exchange, and any of its directors, supervisors, and managerial officers.
 3.A person holding the position of manager or higher in the general management office.
 4.A company or institution shown as an affiliated enterprise in the company-type futures exchange's publications or public announcements.
+5.Another company or institution whose board chairman or president is the same person as, or is the spouse or a relative within the second degree of kinship of, the board chairman or president of the company-type futures exchange.
 ]]></條文內容>
   </條文>
   <編章節>      Section VI Titles of Financial Statements</編章節>
@@ -499,7 +507,7 @@ Financial assets or financial liabilities not included in the preceding paragrap
   <編章節>   Chapter VI Joint Arrangements</編章節>
   <條文>
     <條號>Article 29</條號>
-    <條文內容><![CDATA[Joint arrangements are either joint operations or joint ventures, and have the following characteristics: 
+    <條文內容><![CDATA[Joint arrangements are either joint operations or joint ventures, and have the following characteristics:
 1.All of the parties are bound by a contractual arrangement.
 2.The contractual arrangement gives two or more of those parties joint control of the arrangement.
 When a joint arrangement is a joint operation, the assets, liabilities, revenues, and expenses relating to the joint operation shall be recognized in accordance with these Regulations, applicable IFRSs, and contractual agreement.
@@ -509,7 +517,7 @@ When a joint arrangement is a joint venture, the interest in the joint venture s
   <編章節>   Chapter VII Supplementary Provisions</編章節>
   <條文>
     <條號>Article 30</條號>
-    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 3, Article 6, Article 9, paragraph 1, Articles 10 to 15, Article 17, Article 19, Article 21, Article 22, Article 23, Article 27, and Article 29, which shall come into force from the beginning of financial year 2015.
+    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 3, Article 6, Article 9, paragraph 1, Articles 10 to 15, Article 17, Article 19, Article 21, Article 22, Article 23, Article 27, and Article 29, as amended on 15 September 2014, which shall come into force from financial year 2015, and the amendments of 10 February 2017, which shall come into force from financial year 2017.
 ]]></條文內容>
   </條文>
 </法規內容>

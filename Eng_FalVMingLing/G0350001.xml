@@ -3,7 +3,7 @@
 <英文法規名稱>Customs Act</英文法規名稱>
 <中文法規名稱>關稅法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0350001</法規網址>
-<最新英文異動日期>20140820</最新英文異動日期>
+<最新英文異動日期>20170118</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1.Promulgated on august 8, 1967
@@ -27,7 +27,9 @@
 19.Amended on June 04, 2008
 20.Amended on May 12, 2010
 21.Amended on May 29, 2013
-22.Amended on August 20, 2014]]></沿革內容>
+22.Amended on August 20, 2014
+23.Amended on Novermber 9, 2016
+24.Amended on January 18, 2017]]></沿革內容>
 <法規內容>
   <編章節>   Chapter I GENERAL PROVISIONS</編章節>
   <條文>
@@ -42,8 +44,8 @@
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[Customs duty shall be collected in accordance with the Customs Import Tariff unless otherwise prescribed in this Act. The Customs Import Tariff shall be enacted and promulgated otherwhere through legislative procedure.
-The Ministry of Finance may establish a Customs Tariff Commission to study and review matters relating to the amendment of the Customs Import Tariff and the levy of special customs duty. Organizational regulations of the Commission shall be drawn up by the Ministry of Finance and submitted to the Executive Yuan for approval. Staff members for the Commission shall be selected from employees within the statutory quota of the Ministry of Finance.
+    <條文內容><![CDATA[Imposition of customs duty and tariff classification of imported and exported goods shall be accorded with the Customs Import Tariff unless otherwise prescribed in this Act. The Customs Import Tariff shall be enacted and promulgated through legislative procedure.
+The Ministry of Finance may invite the relevant authorities, scholars and experts to review and consider matters relating to the amendment of the Customs Import Tariff and  imposition of special customs duty.
 ]]></條文內容>
   </條文>
   <條文>
@@ -70,15 +72,17 @@ In the event that the untaxed goods carried by transports in the preceding parag
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[When a duty-payer, who is a legal person, a partnership or a non-legal body, is to be dissolved or liquidated, the liquidator shall, prior to the allocation of the remaining assets, pay customs duty, delinquent fees and fines sequentially according to law.
+    <條文內容><![CDATA[When a duty-payer, who is a legal person, a partnership or a non-legal body, is to be dissolved or liquidated, the liquidator shall, prior to the allocation of the remaining assets, pay customs duty, delinquent fees, late fees, interest,fines andpenaltieson the value of the goodssequentially according to law.
 Any liquidator who violates the provisions of the preceding paragraph shall be liable to payment of the outstanding amount.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[The customs duty, delinquent fee or fine, levied in accordance with the provisions of this Act, but not collected within five years following the date on which such collection was finally determined, shall no longer be collected. However, this stipulation shall not apply to a case which has been referred to the authority concerned for compulsory execution prior to the expiration of the five-year period and whose proceedings have not yet been concluded.
+    <條文內容><![CDATA[The customs duty, delinquent fees, late fees, interest, fines or penalties on the value of the goods levied in accordance with the provisions of this Act, but not collected within five years following the date on which such collection was finally determined, shall no longer be collected. However, this stipulation shall not apply to a case for which a request for compulsory execution has been forwarded to Administrative Enforcement Agency, or a declaration for participation in distribution has been filed with the court in accordance with the provisions of the Compulsory Execution Act, or a claim has been filed in accordance with the Bankruptcy Act prior to the expiration of the five-year period and whose proceedings have not yet been concluded.
 Where installment or deferred payments are approved after the collection has been finally determined, the aforesaid five-year period shall commence on the date following the expiration of the installment or deferred payments period.
-The provisions of the preceding two paragraphs shall apply mutatis mutandis to all charges leviable under this Act.
+Where a case of uncollected customs duties, delinquent fees, late fees, interests, fines or penalties on the value of the goods has been forwarded to the Administrative Enforcement Agency for compulsory execution before the expiration date of imposition period, such a case shall be terminated if the execution has yet been initiated within 5 years commencing from the next date of expiration, while the execution of such case shall be continued provided that the compulsory execution process has begun within the said 5-year period. However, the latter execution case shall be terminated if it has not been finalized within another 5 years commencing from the last date of five-year execution period.
+Where a case has been forwarded to Administrative Enforcement Agency for compulsory execution before implementation of the amendment of this Act on 21stOctober 2016 but has not yet been concluded, the period for compulsory execution shall refer to previous paragraph.
+The provisions of the preceding four paragraphs shall apply mutatis mutandis to the imposition of all charges under this Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -87,7 +91,7 @@ The provisions of the preceding two paragraphs shall apply mutatis mutandis to a
 Customs may, in considering of the situation of the implementation of cargo clearance automation, request firms operating declaration, transportation, freight forwarder, storage, container yard and other business regarding clearance to conduct business by on-line transmission or electronic data transmission.
 Regulations governing registration, application procedure, management, customs procedure and any other required matters regarding on-line or transmission referred to in the preceding two paragraphs shall be prescribed by the Ministry of Finance.
 The delivery of determinations, administrative act, notices or decisions made by Customs may be accomplished via on-line transmission or electronic data transmission, and recorded in computers.
-Enterprises conducting business in transmitting cargo clearance information to Customs by way of on-line transmission or electronic data transmission via computers shall be subject to approval by the Ministry of Finance; Regulations governing approval qualifications, capital requirements, business items, criteria for charges, examination of business hours and other required matters shall be prescribed by the Ministry of Finance.
+Enterprises conducting business in transmitting cargo clearance information to Customs by way of on-line transmission or electronic data transmission via computers shall be subject to approval and repeal by the Ministry of Finance; Regulations governing approval qualifications, capital requirements, business items, criteria for charges, examination of business hours, management and other required matters shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
   <條文>
@@ -203,15 +207,15 @@ The registered freight forwarder referred to in preceding Paragraph shall regist
     <條號>Article 21</條號>
     <條文內容><![CDATA[Prior to importation, the duty-payer or the duty-payer’s agent may apply to Customs for an advance tariff classification ruling of the goods and Customs shall reply in writing.
 Upon any changes an advance ruling on tariff classification referred to in the preceding paragraph, Customs shall state the reason to the duty-payer or the duty-payer’s agent in written form. If the duty-payer or the duty-payer’s agent is able to prove that a contract has been entered into, the transaction has been conducted according to the contract and the change in tariff classification will cause loss, the duty-payer or the duty-payer’s agent may apply for an extension of the period of the validity of the ruling, but such an extension shall not exceed ninety days. In the case where change an advance ruling on tariff classification change involves import regulations, the imported goods shall be subject to the import regulations in effect at the time of importation.
-If the duty-payer or the duty-payer’s agent is dissatisfied with the advance tariff classification ruling issued by Customs, he or she may apply to the Directorate General of Customs, Ministry of Finance for a review prior to the importation of the goods. The Directorate General of Customs, Ministry of Finance shall then deal with the case in an appropriate manner except with a valid reason.
-Regulations governing the application procedure for the advance ruling, time limit for reply by Customs and the review procedure of the Directorate General of Customs, Ministry of Finance, shall be prescribed by the Ministry of Finance.
+If the duty-payer or the duty-payer’s agent is dissatisfied with the advance tariff classification ruling issued by Customs, he or she may apply to Customs Administration, Ministry of Finance for a review prior to the importation of the goods. Customs Administration, Ministry of Finance shall then deal with the case in an appropriate manner except with a valid reason.
+Regulations governing the application procedure for the advance ruling, required documents, time limit for reply by Customs referred to in paragraph 1and the review procedure of the preceding paragraph shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
     <條文內容><![CDATA[Declaration, duty payment and the relevant customs formalities for goods clearance may be entrusted to a customs broker. The respective broker shall assign certified employees to be responsible to examined and endorsed. A customs declaration from a customs broker shall be examined and endorsed by its responsibly certified employees.
 The customs broker under the preceding paragraph shall be approved by Customs before company or business registration, and apply to Customs for the license of customs broker along with the relevant documents after registration.
-The regulations governing customs broker’s capital requirements, qualifications and conditions of the responsible person, the manager, and responsibly certified employee, application procedure for approval, registration and any registration changes, certificate application and renewals, operation of customs declaration and any other required matters shall be prescribed by the Ministry of Finance.
+The regulations governing customs broker’s capital requirements, qualifications, conditions, and duties of the responsible person, the manager, and responsibly certified employee, application procedure for approval, registration and any registration changes, certificate application, renewals and repeal, operation of customs declaration and any other required matters shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
   <條文>
@@ -235,13 +239,13 @@ The firm of the means of bonded transportation referred to in the preceding para
   <條文>
     <條號>Article 26</條號>
     <條文內容><![CDATA[Imported or exported goods not released by Customs may be temporarily stored in a warehouse or in a container yard.
-The firm operating the warehouse or container yard shall register with Customs and pay a deposit. Regulations governing qualifications, conditions, amount and type of deposit, application procedure, registration and any registration changes, certificate application and renewals, storage, movement and management of goods and containers, and any other required matters shall be prescribed by the Ministry of Finance.
+The firm operating the warehouse or container yard shall register with Customs and pay a deposit. Regulations governing qualifications, conditions, amount and type of deposit, application procedure, registration and any registration changes, certificate application, renewals and repeal, storage, movement, clearance and management of goods and containers, and any other required matters shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 27</條號>
     <條文內容><![CDATA[To expedite customs clearance, express consignments and postal parcels may proceed at a specific place.
-Regulations governing the conditions and location of the establishment, classes, sorting and clearance procedures of the express consignments and any other required matters shall be prescribed by the Ministry of Finance.
+Regulations governing the conditions and location of the establishment, classes of the express consignments, qualifications of operators, the conditions, distinction and declaration of goods, sorting, clearance procedures and any other required matters shall be prescribed by the Ministry of Finance.
 Regulations governing the location of the establishment, amount of value and conditions subject to declaration, claim, examination, release and other clearance procedures regarding the postal parcels referred to in Paragraph One and any other required matters shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
@@ -249,16 +253,20 @@ Regulations governing the location of the establishment, amount of value and con
     <條號>Article 28</條號>
     <條文內容><![CDATA[Customs shall follow the Rules of Origin on Imported Goods, when determining the origin of imported goods. If necessary, Customs may request the duty-payer to provide the relevant certificate of origin. Should any dispute arise during the process of determination, the duty-payer may request the competent authority in relation to such goods or professional organization to provide assistance for the determination at the expense of the duty-payer.
 The Rules of Origin on Imported Goods shall be prescribed by the Ministry of Finance together with the Ministry of Economic Affairs.
+Prior to importation, the duty-payer or the duty-payer’s agent may apply to Customs for an advance origin ruling of a specific imported goods and Customs shall reply in writing.
+If the duty-payer or the duty-payer’s agent is dissatisfied with the advance origin ruling issued by Customs, he or she may apply to Customs for a review prior to the importation of the goods.
+Regulations governing the application procedure for the advance ruling, required documents, time limit for reply by Customs referred to in paragraph 3and the review procedure of the preceding paragraph shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 28-1</條號>
-    <條文內容><![CDATA[To ensure the security of goods, Customs may affix seals to means of bonded transportation and sea shipping containers discharged at the docks.
-With Customs approval, the following firms may affix self-prepared seals to sea shipping containers or means of bonded transportation mentioned in the preceding paragraph:
+    <條文內容><![CDATA[To ensure the security of goods, Customs may affix seals to means of bonded transportation, means of transportation approved by Customs and sea shipping containers discharged at the docks.
+With Customs approval, the following firms may affix self-prepared seals to sea shipping containers or means of transportation mentioned in the preceding paragraph:
 (1) Sea shipping containers carried by enterprises having registered with Customs and operating the business of transportation or freight forwarder, whose means of transportation are vessels.
 (2) Private means of bonded transportation owned by warehouse which is authorized by Customs for autonomous management and which is located in air cargo terminals outside the airport control zones.
-(3) Sea shipping containers or means of bonded transportation exiting logistics centers operated by firms which are authorized by Customs for autonomous management.
-The Seal referred to in the two preceding paragraphs means a mechanical device marked with a unique identifier and designed to facilitate Customs verification and to ensure the security of goods.
+(3) Sea shipping containers or means of bonded transportation or means of transportation approved by Customs exiting logistics centers operated by firms which are authorized by Customs for autonomous management.
+(4) Sea transshipment containers entering or exiting Inland Container Terminal having registered with Customs.
+The Seal referred to in the two preceding paragraphs means a device marked with a unique identifier and designed to facilitate Customs verification and to ensure the security of goods.
 Regulations governing the qualification requirements for the application for the usage of self-prepared seals, including certification, conditions, procedures, categories of self-prepared seals, validation criteria, scope of usage, re-issuance, management, repeal and re-application of the approval and all other required matters for firms referred to in Paragraph Two shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
@@ -345,10 +353,10 @@ The term "computed value" referred to in the preceding paragraph means the sum o
   </條文>
   <條文>
     <條號>Article 36-1</條號>
-    <條文內容><![CDATA[Prior to importation, the duty-payer or the duty-payer’s agent may apply to Directorate General of Customs, Ministry of Finance (hereinafter as Directorate General of Customs), for an advance ruling on customs valuation related to the matters whether the expenses paid or payable for the imported goods under the Paragraph 3 of Article 29 of this Act or other expenses should be added into the calculation of customs value and Customs shall reply in writing.
-Upon any change of an advance ruling on customs valuation referred to in the preceding paragraph, the Directorate General of Customs shall state the reason to the duty-payer or the duty-payer’s agent in written form. After receiving the decision related to the change in the ruling, the duty-payer or the duty-payer’s agent may apply for an extension of the period of the validity of the ruling, provided the duty-payer or the duty-payer’s agent is able to prove that a contract has been entered into, the transaction has been conducted according to the contract and the change in the ruling will cause loss. However, such an extension shall not exceed ninety days following the date of receiving the written decision.
-The duty-payer or the duty-payer’s agent may apply to the Directorate General of Customs for a review prior to the importation of the goods, if he or she is dissatisfied with the advance ruling issued referred to in the Paragraph 1.
-Regulations governing the application procedure for the advance ruling, required documents, time limit for reply by Customs and other required matters shall be prescribed by the Ministry of Finance.
+    <條文內容><![CDATA[Prior to importation, the duty-payer or the duty-payer’s agent may apply to Customs Administration, Ministry of Finance (hereinafter as Customs Administration), for an advance ruling on customs valuation related to the matters whether the expenses paid or payable for the imported goods under the Paragraph 3 of Article 29 of this Act or other expenses should be added into the calculation of customs value and Customs shall reply in writing.
+Upon any change of an advance ruling on customs valuation referred to in the preceding paragraph, Customs Administration shall state the reason to the duty-payer or the duty-payer’s agent in written form. After receiving the decision related to the change in the ruling, the duty-payer or the duty-payer’s agent may apply for an extension of the period of the validity of the ruling, provided the duty-payer or the duty-payer’s agent is able to prove that a contract has been entered into, the transaction has been conducted according to the contract and the change in the ruling will cause loss. However, such an extension shall not exceed ninety days following the date of receiving the written decision.
+The duty-payer or the duty-payer’s agent may apply to Customs Administration for a review prior to the importation of the goods, if he or she is dissatisfied with the advance ruling issued referred to in the Paragraph One.
+Regulations governing the application procedure for the advance ruling, required documents, time limit for reply referred to in paragraph 1 and the review procedure of the preceding paragraph shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
   <條文>
@@ -370,7 +378,7 @@ The rental or usage period of the imported goods as referred to in Paragraph One
   </條文>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[The foreign currency prices for imported goods liable to ad valorem duty shall be conversed into New Taiwan Dollar, and the exchange rate used for the conversion shall be published regularly by the Directorate General of Customs, Ministry of Finance in reference to the spot rate of the foreign exchange market.
+    <條文內容><![CDATA[The foreign currency prices for imported goods liable to ad valorem duty shall be conversed into New Taiwan Dollar, and the exchange rate used for the conversion shall be published regularly by Customs Administration, Ministry of Finance in reference to the spot rate of the foreign exchange market.
 ]]></條文內容>
   </條文>
   <條文>
@@ -396,7 +404,7 @@ The rental or usage period of the imported goods as referred to in Paragraph One
   <條文>
     <條號>Article 43</條號>
     <條文內容><![CDATA[Customs duty shall be paid within fourteen days following the date of receiving the duty memo.
-Any fines imposed and finally determined under this Act shall be paid within fourteen days following the date of receiving the notice from Customs.
+Any fines and penalties on the value of the goods imposed and finally determined under this Act shall be paid within fourteen days following the date of receiving the notice from Customs.
 Any expenses payable for selling off or destroying the goods shall be paid within fourteen days following the date of receiving the notice.
 ]]></條文內容>
   </條文>
@@ -426,7 +434,7 @@ In case any duty is recovered as a result of an irrevocable determination given 
   </條文>
   <條文>
     <條號>Article 48</條號>
-    <條文內容><![CDATA[In case of a default on the payment of customs duty, delinquent fee or fine by the duty-payer or the penalized person, Customs may notify the relevant authorities to prohibit the duty-payer or the penalized person from transferring, or creating other rights on, the property within the extent of his or her liability. Where the defaulter is a profit-seeking enterprise, Customs may advise the relevant authority to further restrain it from causing a reduction in capital or canceling registration.
+    <條文內容><![CDATA[In case of a default on the payment of customs duty, delinquent fees, late fees, interest, fines or penalties on the value of the goods by the duty-payer or the penalized person, Customs may notify the relevant authorities to prohibit the duty-payer or the penalized person from transferring, or creating other rights on, the property within the extent of his or her liability. Where the defaulter is a profit-seeking enterprise, Customs may advise the relevant authority to further restrain it from causing a reduction in capital or canceling registration.
 Where the cargo of a duty-payer or a person liable to a penalty has not been seized, nor has the necessary security been provided, Customs may, after the delivery of the duty memo or penalty notice, request the court for a personal seizure of his or her property or take other protective measures to the extent that may cover the duty, delinquent fee or fine payable without there having been a guarantee provided, in order to prevent duty-payer or a person liable to a penalty form evading compulsory execution through hiding or transferring his or her property. However, such action shall not apply in the case where the duty-payer or penalized person has already provided a sufficient guarantee.
 Regulations governing the standards and implementation of the provisional seizure or other protective measures referred to in the preceding paragraph shall be prescribed by the Ministry of Finance.
 The provisions set forth in Articles 242, 243 and 244 of the Civil Code shall apply mutatis mutandis to the levy of customs duty.
@@ -466,8 +474,9 @@ The situations where the Ministry of Finance may request, the National Immigrati
 (16) pharmaceutical products or medical apparatus imported by or donated to government agencies in order to prevent epidemics;
 (17) equipment and articles imported by or donated to government agencies for emergency aid, as well as imported equipments, apparatus, disaster rescue animals and goods carried by foreign rescuers for the purpose of emergency or disaster rescue;
 (18) articles for personal use brought in by sailors, holding citizenship of the Republic of China and a domestic household registration, returning from foreign countries or disembarking.
-Except for the goods referred to in the preceding paragraph, the accumulated customs value of the imported goods in the same shipment, if with a value no more than the prescribed ceiling announced by the Ministry of the Finance, shall be exempt from customs duty. However, this prescription is not applicable to such special goods as are prescribed and announced to the public by the Ministry of Finance.
-Regulations governing the scope, items, quantities and ceiling of customs exemptions referred to in Subparagraphs 2 to 6, 9, 14, 15, and 18 of Paragraph One and the clearance procedures and other required matters concerning the goods listed therein shall be prescribed by the Ministry of Finance.
+(19) The necessary athletic equipment or supplies imported by or donated to government agencies for holding international athletic contests
+Except for the goods referred to in the preceding paragraph, the accumulated customs value of the imported goods in the same shipment, if with a value no more than the prescribed ceiling announced by the Ministry of the Finance, shall be exempt from customs duty. However, this prescription is not applicable to frequently-imported goods or such special goods as are prescribed and announced to the public by the Ministry of Finance.
+Regulations governing the scope, items, quantities and ceiling of customs exemptions referred to in Subparagraphs 2 to 6, 9, 14, 15, and 18 of Paragraph 1 and the clearance procedures and other required matters concerning the goods listed therein, and the meaning of frequent importation in the proviso to the preceding paragraph, shall be prescribed by the Ministry of Finance.
 ]]></條文內容>
   </條文>
   <條文>
@@ -653,7 +662,7 @@ If the import duty remains unpaid after the imposition of the delinquent fee for
   </條文>
   <條文>
     <條號>Article 75</條號>
-    <條文內容><![CDATA[When Customs conducts an investigation in accordance with the provisions of Paragraph Two of Article 13 and Article 42, the person being investigated who evades, interrupts or refuses the investigation or refuses to provide information, attend to the site to accept the inquiry of Customs or provide cooperation in investigation, shall be liable to a fine of not less than NT$3,000 and not more than NT$30,000. Repeated refusals may entail repeated impositions of fines.
+    <條文內容><![CDATA[When Customs conducts an investigation in accordance with the provisions of Paragraph Two of Article 13 and Article 42, the person being investigated who evades, interrupts or refuses the investigation or refuses to provide information, attend to the site to accept the inquiry of Customs or provide cooperation in investigation, shall be liable to a fine of not less than NT$3,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary.
 ]]></條文內容>
   </條文>
   <條文>
@@ -669,7 +678,7 @@ If it is discovered that payment of the customs duty in accordance with Article 
   </條文>
   <條文>
     <條號>Article 78</條號>
-    <條文內容><![CDATA[In the case where the finished products or duty-free raw materials of a bonded factory are moved out of the factory, in violation of the provisions of Paragraph Two of Article 59, such a violation shall be treated as smuggling goods into this country and shall be liable to penalties in accordance with the relevant provisions of the Act of Customs for the Suppression of Smuggling.
+    <條文內容><![CDATA[In the case where the finished products or duty-free raw materials of a bonded factory are moved out of the factory, in violation of the provisions of paragraph 2of Article 59, or where the customs duty to be levied on the self-use machinery and equipment exported to the tax area fails to be recovered in accordance with the proviso to paragraph 3 of Article 59,such violations shall be treated as smuggling goods into this country and shall be liable to penalties in accordance with the relevant provisions of Customs Anti-Smuggling Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -695,7 +704,7 @@ Under any of the following circumstances, the delinquent fee referred to precedi
   </條文>
   <條文>
     <條號>Article 82</條號>
-    <條文內容><![CDATA[In the case where the enterprise operating on-line transmission or electronic data transmission network for customs clearance, wherein the business items, charging standards, business hours or any other required matters, violates the regulations prescribed in accordance with Paragraph Five of Article 10, the Ministry of Finance may warn and request such an enterprise to rectify its behavior within a specified time limit or impose a fine of not less than NT$100,000 and not more than NT$500,000. Such an imposition of a fine may be repeated if necessary. In the case that such an enterprise does not rectify its behavior after the imposition of a fine for three consecutive times, a suspension of on-line electronic data transmission privileges may be adopted for a period of not more than six months or the business license may be repealed.
+    <條文內容><![CDATA[In the case where the enterprise operating on-line transmission or electronic data transmission network for customs clearance violates the regulations governing business scope, criteria for charges collection, business hours, or management stipulated in paragraph 5 of Article 10, the Ministry of Finance may warn and request such an enterprise to rectify its behavior within a time period or impose a fine of not less than NT$100,000 and not more than NT$500,000. Such an imposition of a fine may be repeated if necessary. In the case that such an enterprise does not rectify its behavior after the imposition of a fine for three consecutive times, a suspension of on-line electronic data transmission privileges may be adopted for a period of not more than six months or the business license may be repealed.
 ]]></條文內容>
   </條文>
   <條文>
@@ -711,23 +720,23 @@ of Article 20 governing the proceeding of the importation or exportation clearan
   </條文>
   <條文>
     <條號>Article 84</條號>
-    <條文內容><![CDATA[In the case where the customs broker violates the regulations prescribed in accordance with Paragraph Three of Article 23, whereupon proceeding with registration change, certificate application or renewal, operation of the declaration business or any other required matters, Customs may warn and request such a broker to rectify his or her behavior within a specified time limit or impose a fine of not less than NT$6,000 and not more than NT$30,000. The imposition of a fine may be repeated if necessary. In the case that such a customs broker does not rectify his or her behavior after the imposition of a fine for three consecutive times, a suspension of on-line declaration privileges may be adopted for a period of not more than six months. However, in the case of serious violation, the broker license may be repealed without being limited by the continuous imposition of fines for three times.
-In the case where the certified employee of the customs broker violates the regulations prescribed in accordance with Paragraph Three of Article 22, whereupon conducting the business of declaration and examination, endorsement or any other required matters, Customs may warn and request such an employee to rectify his or her behavior within a specified time limit or impose a fine of not less than NT$2,000 and not more than NT$5,000. The imposition of a fine may be repeated if necessary. In the case that such an employee does not rectify his or her behavior after the repeated imposition of a fine for three consecutive times, a suspension of declaration, examination and endorsement privileges may be adopted for a period of not more than six months, or his or her registration may be repealed.
+    <條文內容><![CDATA[In the case where the customs broker violates the regulations governing the proceeding with registration change, certificate application or renewal, or operation of the declaration business stipulated in paragraph 3of Article 22, Customs may warn and request such a broker to rectify his or her behavior within a time period or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a customs broker does not rectify his or her behavior after the imposition of a fine for three consecutive times or in the case of serious violation, a suspension of on-line declaration privileges may be adopted for a period of not more than six months or the broker license may be repealed.
+In the case where the certified employee of the customs broker violates the regulations governing the responsibilities of certified employees of customs brokers stipulated in paragraph 3of Article 22, Customs may warn and request such an employee to rectify his or her behavior within a time period or impose a fine of not less than NT$2,000 and not more than NT$5,000. Such an imposition of a fine may be repeated if necessary. In the case that such an employee does not rectify his or her behavior after the imposition of a fine for three consecutive times, a suspension of declaration, examination and endorsement privileges may be adopted for a period of not more than six months or his or her registration may be repealed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 85</條號>
-    <條文內容><![CDATA[In the case where the firm of the means of bonded transportation, whereupon proceeding with registration change, certificate application and renewal, bonded transport use and management or any other required matters, violates the regulations in accordance with Paragraph Two of Article 25, Customs may warn and request such an owner to rectify its behavior within a time limit or impose a fine of not less than NT$3,000 and not more than NT$10,000. The imposition of a fine may be repeated if necessary. In the case such an owner does not rectify its behavior after the repeated imposition of a fine for three consecutive times, a suspension of loading privileges may be adopted for a period of not more than six months, or its registration may be a repealed.
+    <條文內容><![CDATA[In the case where the firm of the means of bonded transportation violates the regulations governingthe proceeding with registration change, certificate application and renewal,  orbonded transport use and management stipulated in paragraph 2of Article 25, Customs may warn and request such an owner to rectify his or her behavior within a time period or impose a fine of not less than NT$3,000 and not more than NT$10,000. Such an imposition of a fine may be repeated if necessary. In the case that such an ownerdoes not rectify his or her behavior after the imposition of a fine for three consecutive times, a suspension of loading privileges may be adopted for a period of not more than six months or his or her registration may be repealed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 86</條號>
-    <條文內容><![CDATA[In the case where the firm operating a warehouse or container yard, whereupon proceeding with registration change, certificate application and renewal, storage, movement and management of goods and containers and any other required matters, violates the regulations prescribed in accordance with Paragraph Two of Article 26, Customs may warn and request such a firm to rectify its behavior within a specified time limit or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the repeated imposition of a fine for three consecutive times, a suspension of container and goods storage privileges may be adopted for a period of not more than six months, or its registration may be repealed.
+    <條文內容><![CDATA[In the case where the firm operating a warehouse or container yard violates the regulations governing the proceeding with registration change, certificate application and renewal, storage, movement, clearance, or management of goods and containers stipulated in paragraph 2of Article 26, Customs may warn and request such a firm to rectify its behavior within a time period or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the imposition of a fine for three consecutive times or in the case of serious violation, a suspension of container and goods storage privileges may be adopted for a period of not more than six months or its registration may be repealed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 87</條號>
-    <條文內容><![CDATA[In the case where the firm conducting an express delivery business, whereupon proceeding with the clearance of express consignments, sorting of goods or any other required matters, violates the regulations prescribed in accordance with Paragraph Two of Article 27, Customs may warn and request such a firm to rectify its behavior within a specified time limit or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the repeated imposition of a fine for three consecutive times, a suspension of the express consignments clearance privileges may be adopted for a period of not more than six months.
+    <條文內容><![CDATA[In the case where the firm conducting an express delivery business proceeds with the clearance of express consignments and violates the regulations governing qualifications of operators, the conditions, distinction and declaration of goods, sorting of goods, or clearance procedures stipulated in paragraph 2of Article 27, Customs may warn and request such a firm to rectify its behavior within a time period or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the imposition of a fine for three consecutive times, a suspension of the express consignments clearance privileges may be adopted for a period of not more than six months.
 ]]></條文內容>
   </條文>
   <條文>
@@ -737,27 +746,27 @@ In the case where the certified employee of the customs broker violates the regu
   </條文>
   <條文>
     <條號>Article 88</條號>
-    <條文內容><![CDATA[In the case where the firm operating the bonded warehouse, whereupon proceeding with registration change, certificate application or renewal, installation and equipment of the bonded warehouse, storage of goods, management or any other required matters, violates the regulations prescribed in accordance with Paragraph Four of Article 58, Customs may warn and request such a firm to rectify its behavior within a specified time limit or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the repeated imposition of a fine three for consecutive times, a suspension of bonded goods storage or monthly declaration privileges may be adopted for a period of not more than six months, or its registration may be repealed.
+    <條文內容><![CDATA[In the case where the firm operating the bonded warehouse violates the regulations governing the proceeding with registration change, certificate application or renewal, installation and equipment of the bonded warehouse, storage of goods, or management stipulated in paragraph 4of Article 58, Customs may warn and request such a firm to rectify its behavior within a time period or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the imposition of a fine for three consecutive times, a suspension of bonded goods storage or monthly declaration privileges may be adopted for a period of not more than six months or its registration may be repealed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 89</條號>
-    <條文內容><![CDATA[In the case where the firm operating the bonded factory, whereupon proceeding with registration change, certificate application or renewal, installation and equipment of the bonded factory, processing, management and clearance of bonded goods, payment procedures for duty payable on goods distributed domestically and any other required matters, violates the regulations prescribed in accordance with Paragraph Three of Article 59, Customs may warn and request such a firm to rectify its behavior within a specified time limit or impose a fine of not less than NT$ 6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the repeated imposition of a fine for three consecutive times, a suspension of part or whole of bonded factory business or monthly declaration privileges may be adopted for a period of not more than six months, or its registration may be repealed.
+    <條文內容><![CDATA[In the case where the firm operating the bonded factory violates the regulations governing the proceeding with registration change, certificate application or renewal, installation and equipment of the bonded factory, processing, management, clearance of bonded goods, or payment procedures for duty payable on goods distributed domestically stipulated in paragraph 4of Article 59, Customs may warn and request such a firm to rectify its behavior within a time period or impose a fine of not less than NT$ 6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the imposition of a fine for three consecutive times, a suspension of part or whole of bonded factory business or monthly declaration privileges may be adopted for a period of not more than six months or its registration may be repealed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 90</條號>
-    <條文內容><![CDATA[In the case where the firm operating the logistics center, whereupon proceeding with registration change, certificate application and renewal, management of goods, clearance or any other required matters, violates the regulations prescribed in accordance with Paragraph Four of Article 60, Customs may warn and request such a firm to rectify its behavior within a time limit or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the repeated imposition of a fine for three consecutive times, a suspension of goods storage or monthly declaration privileges may be adopted for a period of not more than six months, or its registration may be repealed.
+    <條文內容><![CDATA[In the case where the firm operating the logistics center violates the regulations governing the proceeding with registration change, certificate application and renewal, management of goods, or clearance stipulated in paragraph 4of Article 60, Customs may warn and request such a firm to rectify its behavior within a time period or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the imposition of a fine for three consecutive times, a suspension of goods storage or monthly declaration privileges may be adopted for a period of not more than six months or its registration may be repealed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 91</條號>
-    <條文內容><![CDATA[In the case where the firm operating a duty-free shop, whereupon proceeding with registration change, certificate application and renewal, management of goods, clearance, distribution and sales or any other required matters, violates the regulations prescribed in accordance with Paragraph Four of Article 61, Customs may warn and request such a firm to rectify its behavior within a specified time limit or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the repeated imposition of a fine for three consecutive times, a suspension of the duty-free shop operation may be adopted for a period of not more than six months, or its registration may be repealed.
+    <條文內容><![CDATA[In the case where the firm operating a duty-free shop violates the regulations governing the proceeding with registration change, certificate application and renewal, management of goods, clearance, or distribution and sales stipulated in paragraph 4of Article 61, Customs may warn and request such a firm to rectify its behavior within a time period or impose a fine of not less than NT$6,000 and not more than NT$30,000. Such an imposition of a fine may be repeated if necessary. In the case that such a firm does not rectify its behavior after the imposition of a fine for three consecutive times, a suspension of the duty-free shop operation may be adopted for a period of not more than six months or its registration may be repealed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 92</條號>
-    <條文內容><![CDATA[In the case where the firm applying for a refund and/or offsetting of customs duty for exported goods, whereupon applying for a refund or offsetting of customs duty, and in proceeding with account records for customs duty on raw materials or any other required matters, violates the regulations prescribed in accordance with Paragraph Five of Article 63, Customs may suspend the account recording privileges for a period of not more than six months.
+    <條文內容><![CDATA[In the case where a firm applying for a refund or offsetting of customs duty for exported goods violates the regulations governing the amount of a refund or offsetting of customs duty, or the offsetting of accounts stipulated in paragraph 5of Article 63, Customs may suspend the account recording privileges for a period of not more than six months.
 ]]></條文內容>
   </條文>
   <條文>
@@ -774,11 +783,12 @@ In the case where such a deposit is insufficient for the deduction referred to i
   <編章節>   Chapter VI IMPLEMENTATION</編章節>
   <條文>
     <條號>Article 95</條號>
-    <條文內容><![CDATA[The following amounts leviable or recoverable under this Act shall be handed over to the relevant authority for compulsory execution if the following amounts are not paid within a given time limit, unless otherwise provided for in this Act: (1) customs duty, delinquent fees, late fees and interest.
-(2) fines imposed under this Act;
+    <條文內容><![CDATA[The following amounts payable or recoverable under this Act shall be handed over to the relevant authority for compulsory execution if the following amounts are not paid within a given time limit, unless otherwise provided for in this Act:
+(1) customs duty, delinquent fees, late fees and interest.
+(2) fines and penalties on the value of the goods imposed under this Act;
 (3) expenses incurred in the disposal, sale or destruction of the goods for which there are no proceeds or the proceeds are insufficient to cover the expenses, provided that the duty-payer was notified prior to such a disposal, sale or destruction;
 If the duty-payer wishes to file a protest against the payment of customs duty or other levies as provided for in the preceding paragraph, the procedure prescribed in Articles 45 to 47 shall apply mutatis mutandis.
-The duty-payer may apply for a suspension of compulsory execution of the amounts leviable or recoverable, as stipulated in Paragraph One, provided the duty-payer has requested a review of the case in accordance with the provisions of Article 45 and has provided an appropriate guarantee. However, a guarantee shall not be required again if the goods have already been provided an appropriate guarantee for release according to Article 45.
+The duty-payer may apply for a suspension of compulsory execution of the amounts leviable or recoverable, as stipulated in paragraph 1, provided the duty-payer has requested a review of the case in accordance with the provisions of Article 45 and has provided an appropriate guarantee. However, a guarantee shall not be required again if the goods have already been provided an appropriate guarantee for release according to Article 45.
 The payment of customs duty referred to in paragraph one shall take precedence over all claims filed by ordinary creditors.
 ]]></條文內容>
   </條文>
@@ -828,7 +838,7 @@ Regulations regarding matters, scope, required conditions and any other required
     <條文內容><![CDATA[This Act shall take effect on the date of its promulgation.
 
 NOTE
-In case of any discrepancy between the English version and the Chinese text of this Statute, the Chinese text shall govern.
+In case of any discrepancy between the English version and the Chinese text of this Statute, the Chinese text shall govern
 ]]></條文內容>
   </條文>
 </法規內容>

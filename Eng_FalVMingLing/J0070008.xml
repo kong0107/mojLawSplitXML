@@ -3,7 +3,7 @@
 <英文法規名稱>Enforcement Rules of the Patent Act</英文法規名稱>
 <中文法規名稱>專利法施行細則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=J0070008</法規網址>
-<最新英文異動日期>20160307</最新英文異動日期>
+<最新英文異動日期>20170419</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1. Announced on September 26, 1947; entered into force on January 1, 1949
@@ -19,7 +19,9 @@
 11. Amended on November 16, 2010
 12. Amended on November 9, 2012; entered into force on January 1, 2013
 13. Amended on November 6, 2014; entered into force on November 8, 2014
-14. Amended on March 7, 2016; entered into force on March 9, 2016]]></沿革內容>
+14. Amended on March 7, 2016; entered into force on March 9, 2016
+15. Amended on June 29, 2016; entered into force on July 1, 2016
+16. Amended on April 19, 2017; entered into force on May 1, 2017]]></沿革內容>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
@@ -81,7 +83,7 @@ Any change to the agent’s address shall be reported to the Specific Patent Age
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[The agent may take any action within the extent of power conferred upon.  However, actions of designating or discharging an agent, withdrawing a patent application, withdrawing a divisional patent application, withdrawing a converted patent application, withdrawing a request for reexamination, withdrawing a request for post-grant amendment, withdrawing an invalidation action, or abandoning a patent right shall not be taken without being specially empowered.
+    <條文內容><![CDATA[The agent may take any action within the extent of power conferred upon. However, actions of designating or discharging an agent, withdrawing a patent application, withdrawing a divisional patent application, withdrawing a converted patent application, withdrawing a request for reexamination, withdrawing a request for post-grant amendment, withdrawing an invalidation action, or abandoning a patent right shall not be taken without being specially empowered.
 ]]></條文內容>
   </條文>
   <條文>
@@ -99,7 +101,7 @@ Any change to the agent’s address shall be reported to the Specific Patent Age
     <條號>Article 13</條號>
     <條文內容><![CDATA[Where the priority is claimed pursuant to Paragraph 1, Article 28 or Paragraph 1, Article 30 of the Act, the so-called “prior to the filing of the patent application” in Article 22 of the Act, and the so-called “earlier-filed” in Article 23 of the Act shall mean prior to the priority date.
 The so-called “printed publication” in Article 22 of the Act shall mean documents or other storage media carrying information that is open to the public.
-The period of six (6) months prescribed under Paragraph 3, Article 22 of the Act is calculated from the day following the occurrence of the facts listed in Subparagraph 1 through Subparagraph 4 of the same paragraph to the filing date prescribed under Paragraph 2, Article 25 of the Act.
+The period of twelve (12) months in Paragraph 3, Article 22 of the Act is calculated from the day following the occurrence of the facts prescribed under the same paragraph to the filing date prescribed under Paragraph 2, Article 25 of the Act. Where there are more than one of the facts prescribed under Paragraph 3, Article 22 of the Act, the above-mentioned period shall be calculated from the day following the occurrence of the first of these facts.
 ]]></條文內容>
   </條文>
   <條文>
@@ -110,7 +112,7 @@ In the preceding paragraph, the time of filing shall mean the priority date wher
   </條文>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[Where a person has obtained the right to apply for patent due to inheritance, assignment, employment or capital contribution, with respect to the disclosure of the invention made by the predecessor, assignor, employee or appointee prior to the filing, the provisions of Paragraph 3, Article 22 of the Act shall apply.
+    <條文內容><![CDATA[Where a person has obtained the right to apply for patent due to inheritance, assignment, employment or capital contribution, with respect to the disclosure of the invention made by the predecessor, assignor, employee or appointee prior to the filing, the provisions of Paragraphs 3 and 4, Article 22 of the Act shall apply.
 ]]></條文內容>
   </條文>
   <條文>
@@ -121,12 +123,9 @@ In the preceding paragraph, the time of filing shall mean the priority date wher
 3. name, nationality, and domicile/residence or business establishment of the applicant; name of the representative, if any ; and
 4. name and business establishment of the agent, if an agent is designated.
 Under any of the following circumstances, a statement shall be made at the time of filing:
-1. where the facts prescribed under Subparagraphs 1 to 3, Paragraph 3, Article 22 of the Act are claimed;
-2. where the priority prescribed under Paragraph 1, Article 28 of the Act is claimed;
-3. where the priority prescribed under Paragraph 1, Article 30 of the Act is claimed; and
-4. where the declaration is made in respect of a patent application for invention and a patent application for utility model filed for the same creation on the same date as prescribed under Paragraph 1, Article 32 of the Act.
-Where an applicant claims the facts prescribed under Subparagraphs 1 to 3, Paragraph 3, Article 22 of the Act, each fact shall be stated at the time of filing.  However, where the facts are closely and inseparably related, one may state only the fact of the first occurrence.
-Where each fact is stated according to the preceding paragraph, the period prescribed under Paragraph 3, Article 22 of the Act is calculated from the date of the fact of the first occurrence.
+1. where the priority prescribed under Paragraph 1, Article 28 of the Act is claimed;
+2. where the priority prescribed under Paragraph 1, Article 30 of the Act is claimed; and
+3. where the declaration is made in respect of a patent application for invention and a patent application for utility model filed for the same creation on the same date as prescribed under Paragraph 1, Article 32 of the Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -161,7 +160,7 @@ An independent or a dependent claim shall be written in a single sentence.
     <條文內容><![CDATA[Unless absolutely necessary, the technical features of all the claim(s) may not be defined by referring to the page number(s) or line number(s) of the description, drawing(s) or reference sign (s) in the drawing(s).
 The technical features of the claim(s) may refer to the corresponding reference sign(s) in the drawing(s), and the reference sign(s) shall follow the corresponding technical features and be placed in parentheses; the reference sign(s) may not serve to limit the interpretation of the claim(s).
 The claim(s) may contain the chemical or mathematical formulae but not drawing(s).
-A technical feature in a claim for an invention which consists of a combination of multiple technical features may be expressed in means-plus-function or step-plus-function language.  Such claim shall be interpreted to cover the corresponding structure, material, or acts described in the description and equivalents thereof.
+A technical feature in a claim for an invention which consists of a combination of multiple technical features may be expressed in means-plus-function or step-plus-function language. Such claim shall be interpreted to cover the corresponding structure, material, or acts described in the description and equivalents thereof.
 ]]></條文內容>
   </條文>
   <條文>
@@ -211,6 +210,7 @@ The period of twelve (12) months prescribed under Subparagraph 1, Paragraph 1, A
     <條文內容><![CDATA[The priority document to be submitted pursuant to Paragraph 2, Article 29 of the Act shall be the certified copy.
 In the event that the priority document submitted by the applicant within the time limit prescribed under Paragraph 2, Article 29 of the Act is a photocopy, the Specific Patent Agency shall notify the applicant to submit the certified copy thereof within specified time limit; where such submission is not made within the specified time limit or the submission is still incomplete, the priority claim is deemed not to have been claimed pursuant to Paragraph 3, Article 29 of the Act. However, in the event that the certified priority document has already been submitted to the Specific Patent Agency, a photocopy specifying the number of the patent application to which the certified priority document appends may be submitted as a substitute.
 In the event that the priority document referred to in Paragraph 1 has been exchanged between the Specific Patent Agency and the receiving patent authority of the country or the WTO member by means of electronic communication, the priority document is deemed to have been submitted by the applicant.
+The certified copy referred to in Paragraph 1 may be replaced with the electronic version thereof in compliance with the requirement of the Specific Patent Agency; an explanation that this electronic version is identical to the certified copy shall be made.
 ]]></條文內容>
   </條文>
   <條文>
@@ -236,13 +236,11 @@ The determination of whether two or more inventions are technically related to o
   <條文>
     <條號>Article 28</條號>
     <條文內容><![CDATA[When requesting for division of a patent application for invention, a request form shall be submitted for each divisional patent application, accompanied by the following documents:
-1. description, claim(s), abstract, and drawing(s);
-2. where the circumstance(s) prescribed under Paragraph 3, Article 22 of the Act is claimed in the original application, the document(s) of proof of the facts involved; and
-3. where the patent application for invention involves a biological material or utilization of a biological material, the certificate of deposit thereof.
+1. description, claim(s), abstract, and drawing(s); and
+2. where the patent application for invention involves a biological material or utilization of a biological material, the certificate of deposit thereof.
 Under any of the following circumstances, a statement shall be made at the time of filing the request form for each divisional patent application:
-1. where the circumstances prescribed under Subparagraphs 1 to 3, Paragraph 3, Article 22 of the Act are claimed;
-2. where the priority prescribed under Paragraph 1, Article 28 of the Act is claimed; or
-3. where the priority prescribed under Paragraph 1, Article 30 of the Act is claimed.
+1. where the priority prescribed under Paragraph 1, Article 28 of the Act is claimed; or
+2. where the priority prescribed under Paragraph 1, Article 30 of the Act is claimed.
 The divisional patent application shall not differ from the original patent application in its type.
 ]]></條文內容>
   </條文>
@@ -402,7 +400,7 @@ The period of twelve (12) months prescribed under Subparagraph 1, Paragraph 1 of
     <條號>Article 46</條號>
     <條文內容><![CDATA[Where the priority is claimed pursuant to Paragraph 1, Article 28 of the Act applicable mutatis mutandis under Paragraph 1, Article 142 of the Act, the so-called “prior to the filing of the patent application” in Article 122 of the Act and the so-called “earlier-filed” in Article 123 of the Act shall mean prior to the priority date.
 The so-called “printed publication” in Article 122 of the Act shall mean documents or other storage media carrying information that is open to the public.
-The period of six (6) months prescribed under Paragraph 3, Article 122 of the Act is calculated from the day following the occurrence of the facts listed in Subparagraph 1 through Subparagraph 3 of the same paragraph to the filing date prescribed under Paragraph 2, Article 125 of the Act.
+The period of six (6) months in Paragraph 3, Article 122 of the Act is calculated from the day following the occurrence of the facts prescribed under the same paragraph to the filing date prescribed under Paragraph 2, Article 125 of the Act. Where there are more than one of the facts prescribed under Paragraph 3, Article 122 of the Act, the above-mentioned period shall be calculated from the day following the occurrence of the first of these facts.
 ]]></條文內容>
   </條文>
   <條文>
@@ -413,7 +411,7 @@ In the preceding paragraph, the time of filing shall mean the priority date wher
   </條文>
   <條文>
     <條號>Article 48</條號>
-    <條文內容><![CDATA[Where a person has obtained the right to apply for patent due to inheritance, assignment, employment or capital contribution, with respect to the disclosure of the design made by the predecessor, assignor, employee or appointee prior to the filing, the provisions of Paragraph 3, Article 122 of the Act shall apply.
+    <條文內容><![CDATA[Where a person has obtained the right to apply for patent due to inheritance, assignment, employment or capital contribution, with respect to the disclosure of the design made by the predecessor, assignor, employee or appointee prior to the filing, the provisions of Paragraphs 3 and 4, Article 122 of the Act shall apply.
 ]]></條文內容>
   </條文>
   <條文>
@@ -423,12 +421,8 @@ In the preceding paragraph, the time of filing shall mean the priority date wher
 2. name and nationality of the designer; and
 3. name, nationality, and domicile/residence or business establishment of the applicant; the name of the representative, if any; and
 4. name and business establishment of the agent, if an agent is designated;
-Under any of the following circumstances, a statement shall be made at the time of filing:
-1. where the facts prescribed under Subparagraphs 1 and 2, Paragraph 3, Article 122 of the Act are claimed; or
-2. where the priority prescribed under Paragraph 1, Article 28 applicable mutatis mutandis under Paragraph 1, Article 142 of the Act is claimed.
+Where the priority prescribed under Paragraph 1, Article 28 applicable mutatis mutandis under Paragraph 1, Article 142 of the Act is claimed, a statement thereof shall be made at the time of filing.
 When filing a patent application for derivative design, the application number of the original patent application for design shall be specified in the request form, in addition to the items stated in the preceding two paragraphs.
-Where an applicant claims the facts prescribed under Subparagraph 1 or 2, Paragraph 3, Article 122 of the Act, each fact shall be stated at the time of filing.  However, where the facts are closely and inseparably related, one may state only the fact of the first occurrence.
-Where each fact is stated according to the preceding paragraph, the period prescribed under Paragraph 3, Article 122 of the Act is calculated from the date of the fact of the first occurrence.
 ]]></條文內容>
   </條文>
   <條文>
@@ -446,7 +440,7 @@ The description shall be presented in the manner and order specified in each sub
 The purpose of article serves to facilitate description of usage, function, and the like of the article to which the design applied.
 The description of design serves to facilitate description of shape, patterns, colors, or any combination thereof. The following circumstances shall be stated, if any:
 1. the disclosed content of the drawing(s) contains parts which do not form part of the claimed design;
-2. for computer icons and graphic user interfaces applied to an article that are designed with continuous dynamic changes, the change sequence; or
+2. for computer icons and graphic user interfaces applied to an article and whose appearance(s) may change, the change sequence; or
 3. the omission of the drawing(s) due to identicalness of drawing(s), symmetry of drawing(s), or any other causes.
 A concise statement may be made in the description of design when necessary under any of the following circumstances:
 1. where the appearance of design changes because of the characteristics of different materials used, adjustment of function, or change in state of use;
@@ -468,7 +462,7 @@ The views stated in the preceding paragraph may include a perspective view, a fr
 The drawing(s) shall be made clear with ink lines, computer drafting, or photographs based on engineering drawing method; when scaled down to two-thirds, all the details disclosed in each drawing shall still be clearly distinguished.
 Where colors are claimed, the drawing(s) stated in the preceding paragraph shall present the colors.
 The parts in the drawing(s) which the design intends to claim and not to claim shall be presented in a manner by which the different parts can be clearly distinguished.
-A drawing annotated as a reference view shall not serve to interpret the scope of the design patent.
+A drawing annotated as reference shall not be the scope of a design patent, but shall be used to describe an article to be applied or an environment of use.
 ]]></條文內容>
   </條文>
   <條文>
@@ -480,7 +474,7 @@ In case of failure to designate a representative drawing or inappropriate design
   <條文>
     <條號>Article 55</條號>
     <條文內容><![CDATA[In the event that parts of the description or parts of the drawing(s) are missing from the patent application for design, the filing date shall be the date on which the missing parts of the description or the drawing(s) are filed. However, the filing date shall be the date on which the application was first filed under any of the following conditions:
-1. where the applicant claims priority of an earlier application, and the  missing parts of description or parts of the drawing(s) are completely contained in the earlier application; or
+1. where the applicant claims priority of an earlier application, and the missing parts of description or parts of the drawing(s) are completely contained in the earlier application; or
 2. where the applicant withdraws the earlier filed missing parts of the description or parts of the drawing(s) within thirty (30) days after being served with a notification confirming the filing date by the Specific Patent Agency.
 Where the description or drawing(s) referred to in the preceding paragraph are submitted in a foreign language, the above provisions shall apply.
 ]]></條文內容>
@@ -497,12 +491,8 @@ Where the description or drawing(s) referred to in the preceding paragraph are s
   </條文>
   <條文>
     <條號>Article 58</條號>
-    <條文內容><![CDATA[When requesting for division of a patent application for design, a request form shall be submitted for each divisional patent application accompanied by the following documents:
-1. description and drawing(s); and
-2. where the circumstance(s) prescribed under Paragraph 3, Article 122 of the Act is claimed in the original patent application, the document(s) of proof of the facts involved.
-Under any of the following circumstances, a statement shall be made at the time of filing the request form for each divisional patent application:
-1. where the facts prescribed under Subparagraph 1 or 2, Paragraph 3, Article 122 of the Act are claimed; or
-2. where the priority prescribed under Paragraph 1, Article 28 applicable mutatis mutandis under Paragraph 1, Article 142 of the Act is claimed.
+    <條文內容><![CDATA[When requesting division of a patent application for design, a request form for each divisional patent application shall be submitted and accompanied by description and drawing(s).
+Where the priority prescribed under Paragraph 1, Article 28 applicable mutatis mutandis under Paragraph 1, Article 142 of the Act is claimed, a statement thereof shall be made at the time of filing the request form for each divisional patent application.
 The divisional patent application shall not differ from the original patent application in its type.
 ]]></條文內容>
   </條文>
@@ -735,7 +725,7 @@ When requesting for a post-grant amendment during invalidation proceedings, the 
 3. application number;
 4. title of invention, utility model or design;
 5. name of the patentee; and
-6.  amended contents.
+6. amended contents.
 ]]></條文內容>
   </條文>
   <條文>
@@ -779,7 +769,7 @@ Under any of the following circumstances, the description, drawing(s), and descr
   <條文>
     <條號>Article 90</條號>
     <條文內容><![CDATA[These Enforcement Rules shall enter into force on January 1, 2013.
-The amendment of these Enforcement Rules shall enter into force following its promulgation date.
+The amendment of these Enforcement Rules, except that the April 19, 2017 amendment shall be effective on May 1, 2017, shall enter into force following its promulgation date.
 ]]></條文內容>
   </條文>
 </法規內容>

@@ -3,17 +3,16 @@
 <英文法規名稱>Vehicular Air Pollutant Emission Standards</英文法規名稱>
 <中文法規名稱>交通工具空氣污染物排放標準</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=O0020003</法規網址>
-<最新英文異動日期>20140321</最新英文異動日期>
+<最新英文異動日期>20170427</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001366</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002235</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002236</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002238</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002239</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002240</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002296</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003670</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003671</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003672</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003673</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003674</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003675</下載網址>
 </附件>
 <沿革內容><![CDATA[1. Promulgated by DOH Order Wei-Shu-Huan-Tzu No. 281151 on June 5, 1980
 2. Revisions promulgated by DOH Order Wei-Shu-Huan-Tzu No. 415344 on March 10, 1983
@@ -41,7 +40,9 @@
 24. Revisions to Article 3 and 4 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0990026508 on March 31, 2010
 25. Revisions to Article 2, 6 and 7 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1020091280 on October 28, 2013
 26. Revisions to Articles 8 through 11 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1020107176 on December 13, 2013
-27. Revisions to Article 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1030022417A on March 21, 2014]]></沿革內容>
+27. Revisions to Article 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1030022417A on March 21, 2014
+28. Revisions to Articles 3, 5 and 9 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1050105276 on December 27, 2016
+29. Revisions to Articles 8 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1060030141 on April 27, 2016]]></沿革內容>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
@@ -67,7 +68,7 @@ XII. “Alternative clean fuel” means a new formulation of gasoline, new formu
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[Gasoline and clean alternative fuel engine exhaust emissions standards for carbon monoxide (CO), hydrocarbon (HC) and nitrogen oxide (NOx) derived from drive cycle testing and idle testing appear as follow
+    <條文內容><![CDATA[Gasoline and clean alternative fuel engine exhaust emissions standards for Carbon monoxide (CO),Hydrocarbons (HC), Nitrogen oxides (NOx), Particulate matter (PM), and Particulate number (PN) derived from driving cycle testing and idle testing stipulated as the following:
 ]]></條文內容>
   </條文>
   <條文>
@@ -77,7 +78,7 @@ XII. “Alternative clean fuel” means a new formulation of gasoline, new formu
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[The exhaust emissions standards of carbon monoxide(CO), hydrocarbons(HC), oxides of nitrogen(NOx), particulate matter(PM) and smoke for diesel and alternative clean fuel engine motor vehicles measured by the driving cycle test, the visual determination and the instrumentation measurement are specified in the following table:
+    <條文內容><![CDATA[The exhaust emissions standards of carbon monoxide(CO), hydrocarbons(HC), non-methane hydrocarbon(NMHC), oxides of nitrogen(NOx), formaldehyde (HCHO), particulate matter(PM), particulate number (PN) and smoke for diesel and alternative clean fuel engine motor vehicles measured by the driving cycle test, the visual determination and the instrumentation measurement are specified in the following table:
 ]]></條文內容>
   </條文>
   <條文>
@@ -87,17 +88,17 @@ XII. “Alternative clean fuel” means a new formulation of gasoline, new formu
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[Motorcycle crankcase, fuel tank, and carburetor hydrocarbon (HC) emission standards are designated in the following table:
+    <條文內容><![CDATA[Emission standards for hydrocarbon from crankcase, fuel tank, and fuel supply system of motorcycles which are stipulated as the following table:
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[Emission standards for particulate pollutants from trains and ships are designated in the following table:
+    <條文內容><![CDATA[The exhaust emission standards of Carbon Monoxide (CO), Hydrocarbons (HC), Nitrogen Oxides (NOx), and Particulate Matter (PM) for Railway vehicles and exhaust emission standards of Particulate Matter (PM) for emissions for Ships are stipulated as the following table:
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[Vehicle Carbon Dioxide（CO2）emissions standards stipulated as the following table:
+    <條文內容><![CDATA[(Delete)
 ]]></條文內容>
   </條文>
   <條文>

@@ -3,13 +3,13 @@
 <英文法規名稱>Enforcement Rules of Value-added and Non-value-added Business Tax Act</英文法規名稱>
 <中文法規名稱>加值型及非加值型營業稅法施行細則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340081</法規網址>
-<最新英文異動日期>20151223</最新英文異動日期>
+<最新英文異動日期>20170501</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1.Announced on October 2, 1980
 2.Amended on January 29, 1986
 3.Issuance of Decree No. 17786 by the Executive Yuan on 25 June 1988.
-4.Amended Articles 11, 24, 37, 46, 47,52and 54 and added Article 16-3 by the Order of Tai (84) Tsai-Tze No.38805 issued by the Executive Yuan on 1 November 1995.
+4.Amended Articles 11, 24, 37, 46, 47, 52 and 54 and added Article 16-3 by the Order of Tai (84) Tsai-Tze No.38805 issued by the Executive Yuan on 1 November 1995.
 5.Article 2 deleted by the Order of Tai (88) Tsai-Tze No.25146 issued by the Executive Yuan on 30 June 1999.
 6.Articles 52 amended by the Order of Tai (89) Tsai-Tze No. 16250 issued by the Executive Yuan on 7 June 2000.
 7.Articles 1, 28 and 38 amended by the Order of Tai (90) Tsai-Tze No. 055663 issued by the Executive Yuan on 17 October 2001.
@@ -17,7 +17,8 @@
 9.Articles 3, 6, 7, 7-1, 11, 13-1, 15, 16-1, 16-3, 16-4, 17, 18, 20, 21, 24, 28, 28-1, 29, 30, 32-1, 38, 38-1, 38-2, 51 and 52 amended by the Order of Tai (100) Tsai-Tze No. 1000021481 issued by the Executive Yuan on 22 June 2011 with entry into force on the same day.
 10.Articles 38 and 47 amended by the Order of Tai (100) Tsai-Tze No. 1010007170 issued by the Executive Yuan on 6 March 2012.
 11.Articles 16-4,28,29,38 and 47 amended by the Order of Tai (103) Tsai-Tze No. 1030018242 issued by the Executive Yuan on 2 May 2014.
-12.Article 38 amended by the Order of Tai (104) Tsai-Tze No. 1040064965 issued by the Executive Yuan on 23 December 2015 with entry into force on the same day.]]></沿革內容>
+12.Article 38 amended by the Order of Tai (104) Tsai-Tze No. 1040064965 issued by the Executive Yuan on 23 December 2015 with entry into force on the same day.
+13.Article 4, 6 and 34 amended; Article 4-1, 11-1, 32-2 and 38-3 added; Article 28-1 deleted by the Order of Tai (106) Tsai-Tze No. 1060010181 issued by the Executive Yuan on 1 May 2017 with entry into force on the same day.]]></沿革內容>
 <法規內容>
   <編章節>   Chapter  1  General Provisions</編章節>
   <條文>
@@ -38,7 +39,15 @@ The term "holder of imported goods" means the person in possession of imported g
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[The term "fixed place of business" as used in the Act means a fixed place for operating business of selling goods or services, including head office, administrative office, branch, business office, factory, maintenance shop, workshop, machine shop, warehouse, mining field, construction site, show room, liaison office, operating office, service station, operating division, branch store, sales outlet, auction house, and other similar places.
+    <條文內容><![CDATA[The term "fixed place of business" as used in the Act means a fixed place for operating business of selling goods or services, including head office, administrative office, branch, limited partnership branch, business office, factory, maintenance shop, workshop, machine shop, warehouse, mining field, construction site, show room, liaison office, operating office, service station, operating division, branch store, sales outlet, auction house, and other similar places.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 4-1</條號>
+    <條文內容><![CDATA[The term "electronic services" as used in Article 2.1 of the Act means services which are in conformance with one of the following conditions:
+1. The services used are downloaded via the Internet and saved to computers or mobile devices for use.
+2. The services are used online without being downloaded and saved into any devices.
+3. Other services used are supplied through the Internet or other electronic tools.
 ]]></條文內容>
   </條文>
   <條文>
@@ -48,14 +57,14 @@ The term "holder of imported goods" means the person in possession of imported g
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[The term "practitioner" as used in Paragraph 2 of Article 3 of the Act means a lawyer, certified public accountant, architect, technician , physician, pharmacist, registered professional midwife (registered midwife), medical technologist (technician), programmer, actuary, real estate appraiser, physical therapist, occupational therapist, dietitian, psychologist, professional land registration agent, bookkeeper, author, broker, scrivener, performer, maritime pilot, program producer, trademark agent, patent attorney, arbitrator, bookkeeping and tax declaration agent, painting or calligraphy artist, printmaker, diviner, artisan, public safety inspector, notary public, and any other person who makes a living through skills or art.
+    <條文內容><![CDATA[The term "practitioner" as used in Paragraph 2 of Article 3 of the Act means a lawyer, certified public accountant, architect, technician , physician, pharmacist, registered professional midwife (registered midwife), medical technologist (technician), programmer, actuary, real estate appraiser, physical therapist, occupational therapist, dietitian, psychologist, professional land registration agent, bookkeeper, author, broker, scrivener, performer, maritime pilot, program producer, trademark agent, patent attorney, arbitrator, bookkeeping and tax return filing agent, painting or calligraphy artist, printmaker, diviner, artisan, public safety inspector, notary public, and any other person who makes a living through skills or art.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[Terms used in Paragraph 2 of Article 6-1 and Paragraph 9 of Article 7 of the Act are defined as follows:
-1."Enterprise inside an export processing zone" means an enterprise established in accordance with the Act Governing the Establishment and Administration of Export Processing Zones.
-2."Enterprise inside a science-based industrial park" means an enterprise established in accordance with the Act Governing the Establishment and Administration of Science-Based Industrial Parks.
+1. "Enterprise inside an export processing zone" means an enterprise established in accordance with the Act Governing the Establishment and Administration of Export Processing Zones.
+2. "Enterprise inside a science-based industrial park" means an enterprise established in accordance with the Act Governing the Establishment and Administration of Science-Based Industrial Parks.
 3. "Enterprise inside an agricultural technology park" means an enterprise established with approval, in an agricultural technology park in accordance with the Act Governing the Establishment and Administration of Agricultural Technology Parks.
 4. "Enterprise inside a free trade zone" means an enterprise established in accordance with the Act Governing the Establishment and Administration of Free Trade Zones.
 5. "Bonded factory" means a bonded factory approved by and registered with Customs in accordance with “The Regulations Governing Customs Bonded Factories”.
@@ -104,6 +113,11 @@ The term "taxable zone" as used in Subparagraph 8 of Article 7 of the Act means 
 8. For goods sold by a bonded zone business entity to a taxable zone business entity and exported directly without being transported to the taxable zone, the documentary evidence issued by Customs with respect to the export declaration by the taxable zone business entity and a photocopy of the sales contract.
 9. For goods sold by a bonded zone business entity to a taxable zone business entity for export and placed in a bonded warehouse or logistics center administered by an enterprise inside a free trade zone or by Customs, the documentary evidence issued by Customs showing that the goods are deemed exported or imported and a photocopy of the sales contract.
 10. Other documentary evidence as approved by the Ministry of Finance.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 11-1</條號>
+    <條文內容><![CDATA[A business entity, selling electronic services to foreign individuals through a business entity which shall apply for taxation registration in line with Article 28-1 of the Act, applying for a zero business tax rate pursuant to Subparagraph 2 of Article 7 of the Act shall submit not only the documentary evidence prescribed in Subparagraph 2 of the preceding Article but also the documentary evidence of overseas use provided by a business entity which has already made the taxation registration pursuant to Article 28-1 of the Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -202,13 +216,14 @@ The provisions of the preceding two Paragraphs shall also be applicable to the d
     <條文內容><![CDATA[Where a business entity sells a parcel of land together with building fixed on the land, unless the selling price for the land and that for the building are stated separately, the sales amount for the building shall be calculated based on the ratio of the assessed standard price of the unit of the building (inclusive of business tax) to the total of the government-assessed current value of the land and the assessed standard price of the unit of the building (inclusive of business tax). The formula for calculation is as follows:
 Selling price of the building =
 
-　　　　　　　　　　　　　　Assessed standard price of the unit of the building
-　　　　　　　　　　　　　　× (1 + Applicable tax rate)
+　　　　　　　　　　　　　　Assessed standard price of the unit of 
+　　　　　　　　　　　　　　the building × (1 + Applicable tax rate)
 Selling price of
-the land and building × ──────────────────────────────
-　　　　　　　　　　　　　　Government-assessed current value of the land +
-　　　　　　　　　　　　　　Assessed standard price of the unit of the building
-　　　　　　　　　　　　　　× (1 + Applicable tax rate)
+the land and building × ─────────────────────────
+　　　　　　　　　　　　　　Government-assessed current value of 
+　　　　　　　　　　　　　　the land + Assessed standard price of 
+　　　　　　　　　　　　　　the unit of the building × (1 + 
+　　　　　　　　　　　　　　Applicable tax rate)
 
 Sales amount of the building = Selling price of the building ÷ (1 + Applicable tax rate)
 ]]></條文內容>
@@ -228,9 +243,10 @@ Sales amount of the building = Selling price of the building ÷ (1 + Applicable 
     <條文內容><![CDATA[With respect to a business entity subject to business tax calculation under Section 1 of Chapter 4 of the Act, the sales amount for security deposits it receives from the leasing out of property shall be calculated on a monthly basis, provided that for any term of lease of less than a full month, the sales amount need not be calculated. The formula for calculation is as follows:
 Sales amount＝
 
-　　　　　　　　　　Fixed interest rate for a one-year postal time deposit 
-　　　　　　　　　　as announced on 1 January of the lease year ÷ 12
-Security deposit × ───────────────────────────────
+　　　　　　　　　　　　Fixed interest rate for a one-year postal time 
+　　　　　　　　　　　　deposit as announced on 1 January of the lease 
+　　　　　　　　　　　　year ÷ 12
+Security deposit × ─────────────────────────────
 　　　　　　　　　　　　　　　　　1 ＋Applicable tax rate
 
 With respect to a business entity subject to calculation of business tax under Section 2 of Chapter 4 of the Act, the sales amount for security deposits it receives from the leasing out of property shall be calculated on a monthly basis, provided that for any term of lease of less than a full month, the sales amount need not be calculated. The formula for calculation is as follows:
@@ -260,7 +276,7 @@ The term "passenger car for personal use" as used in Subparagraph 5 of Paragraph
   </條文>
   <條文>
     <條號>Article 28-1</條號>
-    <條文內容><![CDATA[The term "amount of each payment" as used in Paragraph 3 of Article 36 of the Act means the total amount payable by the purchaser for the same single transaction of services.
+    <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
   <條文>
@@ -297,6 +313,16 @@ The output tax referred to in the preceding paragraph shall be rounded up to the
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 32-2</條號>
+    <條文內容><![CDATA[A business entity specified in Subparagraph 4 of Article 6 of the Act selling electronic services in foreign currency shall convert the foreign currency into New Taiwan Dollar at the closing spot buying exchange rate announced by the Bank of Taiwan on the following dates when it files a tax return for its sales amount and tax payable or overpaid in accordance with Article 35 of the Act:
+1. The last day of the taxable period.
+2. Where a business entity encounters a merger, ownership transfer, dissolution, or nullification of business, the last day of the prior taxable period of any of these events.
+A business entity specified in Subparagraph 4 of Article 6 of the Act, who pays business tax by remittance, shall bear remittance charges and relevant service fees and remit the tax computed in accordance with the preceding paragraph to the designated public treasury.
+Regarding the closing exchange rate posted by the Bank of Taiwan specified in Paragraph 1, if the spot-buying exchange rate is unavailable, a business entity shall convert the foreign currency into New Taiwan Dollar with the cash-buying exchange rate instead.
+If the last day of a period specified in Paragraph 1 falls on Sunday, national holiday, or any other holiday, the last day shall be the day following that day instead, and if the last day of a period specified in Paragraph 1 falls on Saturday, the last day shall be the Monday of the following week instead.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 33</條號>
     <條文內容><![CDATA[Where a business entity which files its tax returns under Article 35 of the Act goes into merger, undergoes transfer of ownership, dissolution or winding-up, it shall apply, within fifteen days after the occurrence of the event, to the competent tax authority for checking and approval of a tax return for the current reporting period together with a detailed list of uniform invoices issued and the documents supporting the refundable or creditable tax. If there is any business tax payable, it shall be paid to the public treasury beforehand, with the payment receipt attached to the return.
 Where a business entity whose business tax is determined by the competent tax authority based on Articles 21 to 23 of the Act goes into merger, undergoes transfer of ownership, dissolution or winding-up, it shall apply to the competent tax authority, within fifteen days after the occurrence of the event, for determination of its business tax payable. Where the business entity's business tax is determined by the competent tax authority based on Article 23 of the Act and where it has input vouchers supporting its tax paid on purchases of goods or services for the current period, such input vouchers shall be attached.
@@ -304,9 +330,9 @@ Where a business entity whose business tax is determined by the competent tax au
   </條文>
   <條文>
     <條號>Article 34</條號>
-    <條文內容><![CDATA[Where a business entity, which computes its business tax based on the provisions of Section I of Chapter IV of the Act, is in the process of liquidation due to dissolution or discontinuation of business and has to dispose of its unsold goods or services, it shall still be required to apply to the tax collection authority for use of uniform invoices and shall declare the amount of business tax payable or over-paid in accordance with Article 35 of the Act.
+    <條文內容><![CDATA[Where a business entity, which computes its business tax based on the provisions of Section I of Chapter IV of the Act, is in the process of liquidation due to dissolution or nullification of business and has to dispose of its unsold goods or services, it shall still be required to apply to the tax collection authority for use of uniform invoices and shall declare the amount of business tax payable or over-paid in accordance with Article 35 of the Act.
 Where a business entity has sales and business tax payable or over-paid during the liquidation period, it shall file a business tax return with the tax authority in charge within fifteen days from the date on which the liquidation period expires for payment or refund of the business tax.
-For companies covered under the Company Law, the liquidation period mentioned in the preceding two Paragraphs shall be as prescribed by the Company Law. For organizations not formed as a company, such period shall be three months from the date of dissolution or winding-up.
+The expiration date of the liquidation period mentioned in the preceding two Paragraphs for the company organization shall be in accordance with the Company Act; for the limited partnership organization shall be in accordance with the Limited Partnership Act; and for others shall be three months from the date of dissolution or nullification.
 Where a business entity fails to report its business tax payable in accordance with Paragraphs 1 and 2 of this Article, the tax authority in charge shall determine its amount of sales and tax payable and collect the tax in accordance with Article 43 of the Act.
 ]]></條文內容>
   </條文>
@@ -367,6 +393,11 @@ With respect to a business entity that reports the sales amount and the business
 With respect to a banking, insurance, or trust investment enterprise that has applied and obtained an approval pursuant to Paragraph 1 of Article 24 of the Act to calculate the business tax in accordance with Section 1 of Chapter 4 of the Act for the sales amount generated from operations not exclusively authorized to the industry to which the enterprise belongs, if it intends to revert to calculation of the business tax in accordance with Section 2 of Chapter 4 of the Act, it may do so only after applying to the competent tax authority and obtaining its approval.
 With respect to a business entity that sells goods and services prescribed in Article 7 of the Act and has obtained an approval pursuant to Paragraph 2 of Article 35 of the Act to report the sales amount and the business tax payable or overpaid on a monthly basis, if it intends to revert to reporting on a two-month basis instead, it may do so only after applying to the competent tax authority and obtaining its approval.
 With respect to a business entity that calculates the business tax in accordance with Section 1 of Chapter 4 of the Act and has obtained an approval pursuant to Paragraph 2 of Article 38 to have the sales amount and the business tax payable or overpaid reported by the head unit in a consolidated manner, if it intends to revert to having the same reported separately by the head unit and the other fixed places of business, it may do so only after applying to the Ministry of Finance and obtaining its approval.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 38-3</條號>
+    <條文內容><![CDATA[For a business entity which shall apply for taxation registration in line with Article 28-1 of the Act, the documents it shall submit in connection with the tax refundable or creditable and other relevant documents for submission pursuant to Article 38 shall be limited to those for the sales of electronic services to domestic individuals.
 ]]></條文內容>
   </條文>
   <條文>

@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Network Interconnection among Telecommunications Enterprises</英文法規名稱>
 <中文法規名稱>電信事業網路互連管理辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0060029</法規網址>
-<最新英文異動日期>20130430</最新英文異動日期>
+<最新英文異動日期>20171101</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -21,7 +21,8 @@
 10. The amended Article 20 was promulgated by the NCC on Aug. 4, 2010 , Ref. the Order Tong-Chuan No. 09940024110
 11. The amendment of Article 9 was hereby promulgated by the NCC on Nov. 8, 2010, Ref. Order Tong-Chuan-Chi No. 09941070650
 12. The amendment of Article 14,16 and 17 were hereby promulgated by the NCC on Jan. 3, 2013, Ref. Order Tong-Chuan-Tong-Xun No. 10141065410
-13. The amended table of Article 20 was promulgated by the NCC on Apr. 30, 2013, Ref. Order Tong-Chuan-Zong-Guei No. 10240012440]]></沿革內容>
+13. The amended table of Article 20 was promulgated by the NCC on Apr. 30, 2013, Ref. Order Tong-Chuan-Zong-Guei No. 10240012440
+14. The amendment of Article 14 and 17 were promulgated by the NCC on Nov.1, 2017, Ref. Order Tong-Chuan-Ping-Tai No. 10641039543]]></沿革內容>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
@@ -156,7 +157,7 @@ The termination rate of fixed network operators with significant market power (S
 2. The cost mentioned in the preceding paragraph shall be determined on the basis of TELRIC.
 The termination rate ascertained by fixed network operators with significant market power (SMP) shall be verified by the NCC in advance; the commission shall also verify any modification to the rate.
 In order to maintain balanced competition, consumer benefits, and other public interests, the NCC may modify the termination rate submitted by fixed network operators with significant market power (SMP) during verification.
-The termination rate of mobile network operators and 3G operators, except as otherwise provided in regulations or provision, shall be determined in accordance with regulation. The provisions of Paragraph III also apply to the calculation and review of the termination rate.
+The termination rate of 3G operators and mobile broadband operators, except as otherwise provided in regulations or provision, shall be determined in accordance with regulation. The provisions of Paragraph III also apply to the calculation and review of the termination rate.
 ]]></條文內容>
   </條文>
   <條文>
@@ -183,7 +184,7 @@ The unbundled network elements shall contain the following:
 7. network interface equipment;
 8. directory equipment and service; and
 9. signaling network equipment.
-The unbundled network elements of mobile network operators and 3G operators are stated as follows:
+The unbundled network elements of 3G operators and mobile broadband operatorsare stated as follows:
 1. mobile telecommunications trunks；
 2. mobile telecommunications base transceiver stations；
 3. mobile telecommunications base stations control equipment；

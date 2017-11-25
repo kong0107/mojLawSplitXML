@@ -3,10 +3,11 @@
 <英文法規名稱>Natural Gas Enterprise Act</英文法規名稱>
 <中文法規名稱>天然氣事業法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=J0130045</法規網址>
-<最新英文異動日期>20110201</最新英文異動日期>
+<最新英文異動日期>20160525</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<沿革內容><![CDATA[1. Enacted and Promulgated on February 1, 2011 by the Bureau of Energy, Ministry of Economic Affairs; Enforced on February 1, 2011]]></沿革內容>
+<沿革內容><![CDATA[1. Enacted and Promulgated on February 1, 2011 by the Bureau of Energy, Ministry of Economic Affairs; Enforced on February 1, 2011
+2. Amended on May 25, 2016]]></沿革內容>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
@@ -276,19 +277,21 @@ Natural gas production or import enterprises with other business operations shou
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[Natural gas utility enterprises may supply to enterprises of industry, electricity, cogeneration system or transportation, yet should not affect the supply of gas to families, commercial businesses, and service sectors at the same time.
-Supplying to enterprises of industry, electricity, cogeneration system, transportation or other relevant businesses, natural gas utility enterprises should report to the central competent authorities via authorities of the municipal government or the county (city) governments and attach following documents:
-1. Names of the users.
+    <條文內容><![CDATA[Natural gas utility enterprises may supply natural gas to other sectors, yet should not affect the stable supply of gas to families, commercial businesses, and service sectors at the same time.
+In the above case, the natural gas utility enterprise should summit to the authorities of the municipal government or the county (city) governments with the following documents, and a notification shall be transited to the central competent authority for reference.
+1. Name of the users.
 2. Daily peak loaded volumes.
 3. Transmission and storage equipment in use.
-Natural gas utility enterprises supplying gas according to Section 1 should establish accounting items which calculate the profit and loss respectively, and may not perform cross Subsidies or cross complements.
+In case of supplying natural gas to the user according to Section 1, natural gas utility enterprises should establish accounting items which calculate the profit and loss respectively, and may not perform cross subsidies or cross complements.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 34</條號>
-    <條文內容><![CDATA[Natural gas utility enterprises should sell their natural gas to families, commercial businesses and service sectors and charge basic fees according to the calculated regulations, and attach relevant documents and ask the central competent authorities’ approval via authorities of the municipal government or the county (city) governments before carrying out their sale price and basic fee calculations; when the sale price or basic fee is adjusted, the preceding paragraph applies.
-The calculating regulations and relevant documents prescribed in the preceding Section should be reviewed by the central competent authorities
-When the gas source cost fluctuates, natural gas utility enterprises should synchronously adjust their natural gas sale price according to the amount of fluctuated cost, and report to authorities of the municipal government or the county (city) governments within 7 days from the date of adjustment. Authorities of the municipal government or the county (city) governments should notify the central competent authorities when they receive the report.
+    <條文內容><![CDATA[For selling natural gas to families, commercial and service sector businesses, the natural gas utility enterprises shall calculate the sales prices and basic fees in accordance with the calculated regulations, and summit to the authorities of the municipal government or the county (city) governments with the relevant documents. The applications shall be transited to the central competent authority and obtained the approval from the authority before in force. Any adjustment of sales prices and/or basic fees should be processed following the above procedures.
+The central competent authority has the right to order the natural gas utility enterprises to reexam the gas sales prices and/or basic fees in a time period, and following the preceding procedures to obtain the central competent authority’s approval.
+The calculated regulations including the components of sales prices and basic fees, the calculating formula, the reviewing time period and the supporting data shall be ruled by the central competent authority. If necessary, the central competent authority should hold a review panel in accordance with the Section 2 of Article 32 to assist in reviewing the calculated regulations.
+Before the central competent authority approve the gas sales prices and basic fees based on the section 1, it should hold a review panel in accordance with the Section 2 of Article 32 to assist in reviewing the calculations.
+When the gas purchasing cost fluctuates, natural gas utility enterprises should synchronously adjust their natural gas sale price according to the amount of fluctuated cost, and report to authorities of the municipal government or the county (city) governments within 7 days from the date of adjustment. Authorities of the municipal government or the county (city) governments should notify the central competent authorities when they receive the report.
 ]]></條文內容>
   </條文>
   <條文>
@@ -349,7 +352,7 @@ The central or authorities of the municipal government or the county (city) gove
   </條文>
   <條文>
     <條號>Article 44</條號>
-    <條文內容><![CDATA[Natural gas enterprises have an obligation to insure public liability insurance；the insurance coverage should be decided by central competent authorities after conferring with the Financial Supervisory Commission, Executive Yuan according to the categories and business scale of the natural gas enterprise.
+    <條文內容><![CDATA[Natural gas enterprises have an obligation to insure public liability insurance；the insurance coverage should be decided by central competent authorities after conferring with the Financial Supervisory Commission according to the categories and business scale of the natural gas enterprise.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter 6 Supervision</編章節>
@@ -405,7 +408,7 @@ Natural gas enterprises should draft their gas transmission pipelines inspection
   </條文>
   <條文>
     <條號>Article 52</條號>
-    <條文內容><![CDATA[The central competent authorities may ask natural gas enterprises to explain their business operations and financial balance, hence assigning various staff or commission professionals to inspect actual operational proceedings collect relevant data when they regard it as necessary; the enterprises concerned may not evade, obstruct, or decline.
+    <條文內容><![CDATA[The central competent authorities may request natural gas enterprises for explanation their business operations and financial balance, hence assigning various staff , commission professionals and/or professional institute to inspect actual operational proceedings and collect relevant data when they regard it as necessary; the enterprises concerned may not evade, obstruct, or refuse.
 ]]></條文內容>
   </條文>
   <條文>
@@ -441,26 +444,27 @@ Any of the responsible persons, agents, employees, or other parties of the legal
   </條文>
   <條文>
     <條號>Article 58</條號>
-    <條文內容><![CDATA[A natural gas utility enterprise violating Article 8, Section 2 and arbitrarily supplying gas beyond the gas supply areas would be fined between NT$ 600,000 and 3,000,000, and would be ordered to take improving measures within a limited period. Any natural gas utility enterprise failing to comply by the deadline will be fined consecutively until satisfactory improving measures are taken. If the offense is of a serious nature, the authorities may also forcibly demolish transmission and storage equipment beyond the gas supply area.
+    <條文內容><![CDATA[A natural gas utility enterprise violating Article 8, Section 2 and arbitrarily supplying gas beyond the gas supply areas would be fined between NT$ 600,000 and 3,000,000, and would be ordered to take improving measures within a limited period. Any natural gas utility enterprise failing to comply by the deadline will be fined until satisfactory improving measures are taken. If the offense is of a serious nature, the authorities may also forcibly demolish transmission and storage equipment beyond the gas supply area.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 59</條號>
-    <條文內容><![CDATA[Any of the following offenses by a natural gas enterprise will result in a fine between NT$ 500,000 and 2,500,000 and ordered to take improving measures within a limited period. Any natural gas enterprise failing to comply by the deadline will be fined consecutively until satisfactory improving measures are taken. If the offense is of a serious nature, the authorities may also revoke the establishment permit and gas supply license when a natural gas utility enterprise commits the offense:
+    <條文內容><![CDATA[Any of the following offenses by a natural gas enterprise will result in a fine between NT$ 500,000 and 2,500,000 and ordered to take improving measures within a limited period. Any natural gas enterprise failing to comply by the deadline will be fined until satisfactory improving measures are taken. If the offense is of a serious nature, the authorities may also revoke the establishment permit and gas supply license when a natural gas utility enterprise commits the offense:
 1. Supplying natural gas which does not meet national standards in violation of Article 19, Section 1.
 2. Not abiding by Article 28, Section 2 to offer data regarding the contract content.
 3. Not abiding by Article 31 in keeping steady gas supply.
-4. Not abiding by Article 32, Section 1 to request the authorities’ approval for price calculation, or not abiding by Section 3 to adjust according to the central competent authorities’ order.
-5. Not abiding by Article 33, Section 2 to supply natural gas to enterprises of industry, electricity, cogeneration system, transportation, or other relevant enterprises without any report.
+4. Not abiding by Article 32, Section 1 to request the authorities’ approval for price calculation, or not abiding by Section 3 to adjust according to the central competent authorities’order.
+5. Not abiding by Article 33, Section 2 in reporting to the authority.
 6. Not abiding by Article34, Section 1 and arbitrarily adjusting the sale price or basic fees.
-7. Not abiding by Article 41, Section 1 to increase the paid-in capital amount before the deadline.
-8. Not abiding by Article 44, to insure public liability insurance or to meet the requirements of insurance coverage.
-9. Violating the regulatory measures taken according to Article 45.
+7. Not abiding by Article 34, Section 2 to request the authorities’ approval for price calculation.
+8. Not abiding by Article 41, Section 1 to increase the paid-in capital amount before the deadline.
+9. Not abiding by Article 44, to insure public liability insurance or to meet the requirements of insurance coverage.
+10. Violating the regulatory measures taken according to Article 45.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 60</條號>
-    <條文內容><![CDATA[Any of the following offenses by a natural gas enterprise will result in a fine between NT$ 300,000 and 1,500,000 and be ordered to take improving measures within a limited period. Any natural gas enterprises failing to comply by the deadline will be fined consecutively until satisfactory improving measures are taken. If the offense is of a serious nature, the authorities may also revoke the establishment permit and gas supply license when a natural gas utility enterprise that commits the offense:
+    <條文內容><![CDATA[Any of the following offenses by a natural gas enterprise will result in a fine between NT$ 300,000 and 1,500,000 and be ordered to take improving measures within a limited period. Any natural gas enterprises failing to comply by the deadline will be fined until satisfactory improving measures are taken. If the offense is of a serious nature, the authorities may also revoke the establishment permit and gas supply license when a natural gas utility enterprise that commits the offense:
 1. Not abiding by Article 13, Section 2 to install disaster prevention–devices.
 2. Not abiding by Article 13, Section 3 to install regional gas supply systems with immediate severing devices on the transmission and storage equipment.
 3. Not abiding by Article 16, Section 1 to take immediately necessary or improving measures.
@@ -473,7 +477,7 @@ Any of the responsible persons, agents, employees, or other parties of the legal
   </條文>
   <條文>
     <條號>Article 61</條號>
-    <條文內容><![CDATA[Any of the following offenses by a natural gas enterprise will result in a fine between NT$ 200,000 and 1,000,000 and ordered to take improving measures within a limited period. Any natural gas enterprise failing to comply by the deadline will be fined consecutively until satisfactory improving actions are taken. If the offense is of a serious nature, the authorities may also revoke the establishment permit and gas supply license when a natural gas utility enterprise commits the offense:
+    <條文內容><![CDATA[Any of the following offenses by a natural gas enterprise will result in a fine between NT$ 200,000 and 1,000,000 and ordered to take improving measures within a limited period. Any natural gas enterprise failing to comply by the deadline will be fined until satisfactory improving actions are taken. If the offense is of a serious nature, the authorities may also revoke the establishment permit and gas supply license when a natural gas utility enterprise commits the offense:
 1. Failing to hire a certain number of full-time pipe-installation professional staff in violation of Article 14, Section 1.
 2. Failing to report to the authorities in violation of Article 17, Section 1, or failing to report according to the deadlines, forms, or procedures prescribed in Article 17, Section 2.
 3. Evading, obstructing, or declining explanations or inspections in violation of Article 41, Section 3, Article 43, Section 4, Article 50, Section 5, or Article 52.
@@ -485,7 +489,7 @@ Any of the responsible persons, agents, employees, or other parties of the legal
   </條文>
   <條文>
     <條號>Article 62</條號>
-    <條文內容><![CDATA[Any of the following offenses by a natural gas enterprise will result in a fine between NT$ 100,000 and 500,000 and be ordered to take improving measures within a limited period. Any natural gas enterprise failing to comply by the deadline will be fined consecutively until satisfactory improving measures are taken:
+    <條文內容><![CDATA[Any of the following offenses by a natural gas enterprise will result in a fine between NT$ 100,000 and 500,000 and be ordered to take improving measures within a limited period. Any natural gas enterprise failing to comply by the deadline will be fined until satisfactory improving measures are taken:
 1. Not abiding Article 5 to register before doing business.
 2. Failing to apply for issuance of a new business license in violation of Article 11, Section 2.
 3. Failing to obtain approval from the authorities in violation of Article 15, Section 1, Article 35, Section 1, Article 40, Section 1, Article 41, Section 2, Article 42, Article 48, Section 5, or Article 49, Section 2.
@@ -501,7 +505,7 @@ Any of the responsible persons, agents, employees, or other parties of the legal
   <條文>
     <條號>Article 63</條號>
     <條文內容><![CDATA[One who does not obtain a license according to Article 20, Section 1 and arbitrarily operates businesses of a natural gas utility pipeline installation enterprise would be fined between NT$ 300,000 and 1,500,000; the preceding paragraph applies to one who does not abide by the business suspension order from the authorities either.
-One who fails to hire a certain number of full-time natural gas pipeline installation professional staff would be fined between NT$ 30,000 and 150,000 and ordered to take improving measures by a specified deadline. Any natural gas enterprise failing to comply by the deadline will be fined consecutively until satisfactory improving measures are taken.
+One who fails to hire a certain number of full-time natural gas pipeline installation professional staff would be fined between NT$ 30,000 and 150,000 and ordered to take improving measures by a specified deadline. Any natural gas enterprise failing to comply by the deadline will be fined until satisfactory improving measures are taken.
 ]]></條文內容>
   </條文>
   <條文>

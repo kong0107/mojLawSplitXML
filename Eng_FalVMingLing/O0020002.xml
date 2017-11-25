@@ -45,14 +45,14 @@
   2.Photochemical peroxided compounds: Strongly oxidizing substances derived from photochemical reactions, including ozone and peroxyacetyl nitrate (PAN), etc. (Able to free iodine from neutral potassium iodide solution, but not including NO2.)
 4.Toxic pollutants:
   1.Fluorides
-  2.Chlorine gas (Cl2) 
-  3.Ammonia gas (NH3) 
-  4.Hydrogen sulfide (H2S) 
+  2.Chlorine gas (Cl2)
+  3.Ammonia gas (NH3)
+  4.Hydrogen sulfide (H2S)
   5.Formaldehyde (HCHO)
   6.Gasses containing heavy metals
   7.Gaseous sulfuric acid, nitric acid, phosphoric acid or hydrochloric acid
-  8.Vinyl chloride monomer (VCM) 
-  9.Polychlorinated biphenyls (PCBs) 
+  8.Vinyl chloride monomer (VCM)
+  9.Polychlorinated biphenyls (PCBs)
  10.Hydrogen cyanide (HCN)
  11.Dioxins and furans
  12.Carcinogenic polycyclic aromatic hydrocarbons
@@ -85,7 +85,7 @@
     <條文內容><![CDATA[The matters designated in this Act as the responsibility of the central competent authority are as follows.
 1.Planning, determination, supervision and implementation of national air pollution control policies, programs and plans
 2.Determination, deliberation and interpretation of national air pollution control laws and regulations
-3.Implementation of national air quality monitoring, provision  of  monitoring  data, and determination of monitoring quality assurance and quality assurance standards
+3.Implementation of national air quality monitoring, provision of monitoring data, and determination of monitoring quality assurance and quality assurance standards
 4.Forecasting of air quality deterioration trends, announcement of data, and facilitation and supervision of air quality deterioration emergency controls
 5.Planning, facilitation, integration and supervision of control targets, methods, implementation steps, and timetables for special municipalities, counties and cities in total quantity control zones
 6.Permitting and management of air pollutant testing and analysis organizations Supervision and
@@ -124,7 +124,7 @@
     <條號>Article 7</條號>
     <條文內容><![CDATA[The following methods shall be used to determine whether the air pollution control zones in Article 5 of this Act and the total quantity control zones in Article 8 of this Act are in compliance with air quality standards.
 1.Suspended particulates: List in order from highest to lowest the daily average values for each year at each of the general air quality monitoring stations within said zones. Taking the eighth highest values, calculate the arithmetic average value for three consecutive years. List in order the arithmetic average values for three consecutive years for each station. Take the average of the first 50% of the highest values. Those stations whose average values are less than the daily average air quality standards, and those stations whose annual average values are uniformly less than annual average air quality standards, shall be in compliance with air quality standards.
-2.Ozone: List in order from highest to lowest the highest hourly average values for every day in each year at each of the general air quality monitoring stations within said zones. Taking the eighth highest values, calculate the arithmetic average value for three consecutive years. List in order the arithmetic average values for three consecutive years for each station. Take the average of the first 50% of the highest values. Those stations whose average values are less than the hourly average air quality standards shall be in compliance with air quality standards. 
+2.Ozone: List in order from highest to lowest the highest hourly average values for every day in each year at each of the general air quality monitoring stations within said zones. Taking the eighth highest values, calculate the arithmetic average value for three consecutive years. List in order the arithmetic average values for three consecutive years for each station. Take the average of the first 50% of the highest values. Those stations whose average values are less than the hourly average air quality standards shall be in compliance with air quality standards.
 3.Sulfur dioxide and nitrogen dioxide: List in order from highest to lowest the highest hourly average values for every day in each year at each of the general air quality monitoring stations within said zones. Taking the eighth highest values, calculate the arithmetic average value for three consecutive years. Those stations whose average values are uniformly less than the hourly average air quality standards, and those stations whose annual average values are less than annual average air quality standards shall be in compliance with air quality standards.
 4.Carbon monoxide: List in order from highest to lowest the highest eight-hour average values for every day in each year at each of the general air quality monitoring stations within said zones. Taking the eighth highest values, calculate the arithmetic average value for three consecutive years. Those stations whose average values are uniformly less than eight-hour air quality standards shall be in compliance with air quality standards.
 The central competent authority shall establish or authorize those general air quality monitoring stations serving as a basis for determination in the foregoing paragraph. Those single pollutant items for which the percentage of effective measurements in a year is less than 75% at any monitoring station shall not be included in calculations.
@@ -132,15 +132,15 @@ The central competent authority shall establish or authorize those general air q
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[Air pollution control plans in Article 7 of this Act shall include the following items. 
-1.Legal basis 
+    <條文內容><![CDATA[Air pollution control plans in Article 7 of this Act shall include the following items.
+1.Legal basis
 2.Plan objectives
 3.Environmental load and trend analysis
 4.Current air quality conditions and analysis of problems
 5.Air pollutant emission inventory and analysis of emission characteristics
 6.Air pollution control strategy
-7.Approval methods for newly installed or modified stationary pollution sources 
-8.Air quality deterioration prevention measures and emergency response measures 
+7.Approval methods for newly installed or modified stationary pollution sources
+8.Air quality deterioration prevention measures and emergency response measures
 9.Tasks assigned to relevant agencies or units
 10. Implementation period and work timetable
 11. Required funding, manpower, and material resources
@@ -149,7 +149,7 @@ The central competent authority shall establish or authorize those general air q
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[Total quantity control plans in Article 10 of this Act shall include the following items. 
+    <條文內容><![CDATA[Total quantity control plans in Article 10 of this Act shall include the following items.
 1.Common portion:
   1.Legal basis
   2.Plan objectives
@@ -167,8 +167,8 @@ The central competent authority shall establish or authorize those general air q
   2.Those zones not in compliance with air quality standards:
     1.Pollutant types, reduction targets, and reduction timetables for implemented total quantity controls
     2.Types of pollutants to be reduced by special municipalities, counties, or cities within zone, quantities, and timetables
-    3.Methods of banking, offsetting or trading pollutant reduction quantity difference authorization
-  3.Other total quantity control related matters
+  3.Methods of banking, offsetting or trading pollutant reduction quantity difference authorization
+3.Other total quantity control related matters
 ]]></條文內容>
   </條文>
   <條文>
@@ -191,7 +191,7 @@ The central competent authority shall establish or authorize those general air q
   2.Those zones not in compliance with air quality standards:
     1.Stationary pollution sources designated in the plan in the foregoing article as required to reduce pollutant emission quantities, reduction quantities, and reduction timetables
     2.Pollutant reduction difference reporting, entry, and information publication methods
-  3.Other matters designated by the central competent authority
+3.Other matters designated by the central competent authority
 ]]></條文內容>
   </條文>
   <條文>
@@ -215,7 +215,7 @@ The central competent authority shall establish or authorize those general air q
 5.Determination of benefit to control strategy effectiveness
 6.Urban plan, regional plan, or other land utilization plan
 The number of air quality monitoring stations established shall conform to the following principles:
-1.In accordance with population and habitable area (buildings, paddies, upland fields), one general air quality monitoring station shall be established for every 300,000 persons in areas with a population density exceeding 15,000 persons per square kilometer; one general air quality monitoring station shall be established for every 350,000 persons in areas with a population density below 15,000 persons per square kilometer. The number of air quality monitoring stations may be increased in special municipalities. 
+1.In accordance with population and habitable area (buildings, paddies, upland fields), one general air quality monitoring station shall be established for every 300,000 persons in areas with a population density exceeding 15,000 persons per square kilometer; one general air quality monitoring station shall be established for every 350,000 persons in areas with a population density below 15,000 persons per square kilometer. The number of air quality monitoring stations may be increased in special municipalities.
 2.The number of other types of air quality monitoring stations shall depend on actual needs.
 The central competent authority may establish a monitoring center connected with monitoring stations in light of actual needs.
 The establishment of air quality monitoring station sampling orifices shall conform to the following principles.
@@ -410,8 +410,8 @@ Other industrial processes designated in Article 31, Paragraph 1, Subparagraph 2
     <條文內容><![CDATA[The methods for the performance of the air pollutant emission testing of public or private premises and transportation vehicles shall be as follows.
 1.Instrument inspection: means the use of instruments to perform inspections in accordance with methods designated by the central competent authority.
 2.Sensory inspection:
-  1.Visual inspection and visual determination: Visual inspection means the use of vision by investigative personnel to inspect air pollution source facilities, operating conditions or data, or pollutant emission conditions; visual determination means the use of vision by inspection personnel to determine the concentration of pollutant emissions.
-  2.Noxious odor testing means the use of the sense of smell by inspection personnel to determine odors.
+1.Visual inspection and visual determination: Visual inspection means the use of vision by investigative personnel to inspect air pollution source facilities, operating conditions or data, or pollutant emission conditions; visual determination means the use of vision by inspection personnel to determine the concentration of pollutant emissions.
+2.Noxious odor testing means the use of the sense of smell by inspection personnel to determine odors.
 The visual inspection methods in the foregoing paragraph are not applicable to those stationary pollution sources that have installed automatic testing facilities in accordance with regulations for the purpose of continuously testing particulate pollutant emissions.
 ]]></條文內容>
   </條文>
@@ -445,7 +445,7 @@ When necessary, inspection in the foregoing paragraph may be performed in conjun
 3.The number of days of the desired extension
 4.Pollution control measures adopted during the improvement period
 5.Other items designated by the competent authority
-The local competent authority shall accept and issue approval within 30 days in the case of those applications submitted by stationary pollution sources in the foregoing paragraph. The central competent authority shall accept and issue approval within 30 days in the case of those motor vehicle recalls for correction. 
+The local competent authority shall accept and issue approval within 30 days in the case of those applications submitted by stationary pollution sources in the foregoing paragraph. The central competent authority shall accept and issue approval within 30 days in the case of those motor vehicle recalls for correction.
 Those whose improvement deadline extension applications have been approved by the competent authority shall submit an improvement implementation progress report for the previous month to the approving agency before the 15th day of each month.
 ]]></條文內容>
   </條文>

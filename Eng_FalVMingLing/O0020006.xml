@@ -3,7 +3,7 @@
 <英文法規名稱>Stationary Pollution Source Air Pollutant Emissions Standards</英文法規名稱>
 <中文法規名稱>固定污染源空氣污染物排放標準</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=O0020006</法規網址>
-<最新英文異動日期>20130424</最新英文異動日期>
+<最新英文異動日期>20130425</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -21,7 +21,7 @@
 5.Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0910038996 dated July 3, 2002
 6.Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0960068131 dated September 11, 2007.
 7.Articles 2, 8, 9 and 14 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0990119639 dated January 5, 2011
-8.Articles 2 Table 1 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 1020032301 dated April 24, 2012]]></沿革內容>
+8.Articles 2 Table 1 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 1020032301 dated April 25, 2013]]></沿革內容>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
@@ -107,7 +107,6 @@ C.      When b < 5 (h-6) and does not fall under the conditions of subparagraph 
            2‧2
 q=a1‧k‧he
 
-
 ┌───┬─────┬────────────────────┐
 │Areas │k value   │Applicable Districts                    │
 ├───┼─────┼────────────────────┤
@@ -126,7 +125,6 @@ q=a1‧k‧he
 │5     │1.6×10-3 │Kaohsiung City, Pingtung County, Taitung│
 │      │          │County, Penghu County                   │
 └───┴─────┴────────────────────┘
-
  he=h+△h
                          -5      __
 △h=1.8（1.5Vs‧ds+4 ×10  Qh）／ μ

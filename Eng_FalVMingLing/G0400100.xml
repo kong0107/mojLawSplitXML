@@ -3,13 +3,15 @@
 <英文法規名稱>Futures Trading Act</英文法規名稱>
 <中文法規名稱>期貨交易法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400100</法規網址>
-<最新英文異動日期>20150204</最新英文異動日期>
+<最新英文異動日期>20170614</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1. Promulgated on 26 March 1997 per Order Ref. No. ROC-President-(I)-Yi-8600069970
 2. Articles 119 and 125 amended and Article 97-1 added on 12 June 2002 per Order Ref. No. ROC-President-(I)-Yi-09100116800
 3. Article 4 amended on 9 June 2010 per Order Ref. No. ROC-President-(I)-Yi-09900140711
 4. Article 4 amended and promulgated per 4 February 2015 Presidential Order No. ROC-President-I-Yi-10400012391
+5. Articles 107 and 112 amended and promulgated per 9 November 2016 Presidential Order No. ROC-President-I-Yi-10500136251
+6. Article 113 amended and promulgated per 14 June 2017 Presidential Order No. ROC-President-I-Yi-10600073291
 ]]></沿革內容>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -26,10 +28,10 @@
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[For the purpose of this Act, "futures trading" shall mean trading under the following contracts regarding derivatives of commodities, currencies, securities, interest rates, indices, or any other interests conducted pursuant to the regulations or practices set forth by domestic or foreign futures exchanges or other futures markets:
-1. Futures Contract shall mean a contract made pursuant to the agreement of the parties involved to purchase or sell a specified quantity of a certain underlying interest for delivery at a specified future time and at a specified price and under the specified trading terms, or to offset the obligation under the contract by settling the difference in price prior to or on the last trading day.
-2. Option Contract shall mean a contract made pursuant to the agreement of the parties involved, wherein the option buyer pays the premium in exchange for obtaining a right of call option or put option to purchase or sell a specified quantity of a certain underlying interest at a specified price and under the specified trading terms within a specified period of time; whereas the option seller has the corresponding obligation to fulfill his/her duties pursuant to such option contract when the option buyer exercises the right and demands for the option seller's performance; or both parties agree to offset the obligation and right under the contract by settling the difference in price prior to or on the last trading day.
-3. Futures Option Contract shall mean a contract made pursuant to the agreement of the parties involved, wherein the option buyer pays the premium in exchange for obtaining a right of call option or put option to purchase or sell a specified quantity of a certain underlying futures contract at a specified price and under the specified trading terms within a specified period of time; whereas the option seller has the corresponding obligation to fulfill his/her duties pursuant to such option contract when the option buyer exercises the right and demands for the option seller's performance; or both agree to offset the obligation and right under the contract by settling the difference in price prior to or the last trading day.
-4. Leverage Contract shall mean a contract made pursuant to the agreement of the parties involved, wherein one party undertakes to pay a specific percentage of an amount or to obtain a specific credit line limit granted by the other party, and, within a specified future time period, to offset the obligation and right pursuant to the terms under the contract by settling the difference in price or delivering the underlying interest.
+1.Futures Contract shall mean a contract made pursuant to the agreement of the parties involved to purchase or sell a specified quantity of a certain underlying interest for delivery at a specified future time and at a specified price and under the specified trading terms, or to offset the obligation under the contract by settling the difference in price prior to or on the last trading day.
+2.Option Contract shall mean a contract made pursuant to the agreement of the parties involved, wherein the option buyer pays the premium in exchange for obtaining a right of call option or put option to purchase or sell a specified quantity of a certain underlying interest at a specified price and under the specified trading terms within a specified period of time; whereas the option seller has the corresponding obligation to fulfill his/her duties pursuant to such option contract when the option buyer exercises the right and demands for the option seller's performance; or both parties agree to offset the obligation and right under the contract by settling the difference in price prior to or on the last trading day.
+3.Futures Option Contract shall mean a contract made pursuant to the agreement of the parties involved, wherein the option buyer pays the premium in exchange for obtaining a right of call option or put option to purchase or sell a specified quantity of a certain underlying futures contract at a specified price and under the specified trading terms within a specified period of time; whereas the option seller has the corresponding obligation to fulfill his/her duties pursuant to such option contract when the option buyer exercises the right and demands for the option seller's performance; or both agree to offset the obligation and right under the contract by settling the difference in price prior to or the last trading day.
+4.Leverage Contract shall mean a contract made pursuant to the agreement of the parties involved, wherein one party undertakes to pay a specific percentage of an amount or to obtain a specific credit line limit granted by the other party, and, within a specified future time period, to offset the obligation and right pursuant to the terms under the contract by settling the difference in price or delivering the underlying interest.
 For reasons of financial, currency, foreign exchange, and government bond policies, etc., futures trading conducted outside futures exchanges may, as announced by the Ministry of Finance within the scope of its governing matters or by the Central Bank of China within the scope of its administrating matters, be exempted from the application of this Act.
 ]]></條文內容>
   </條文>
@@ -78,9 +80,9 @@ The Competent Authority shall grant or deny the application as referred to in th
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[An approved futures trading contract may be voided by the Competent Authority if one of the following events occurs:
-1. The contract has lost its economic value;
-2. The contract is not consistent with the public interest;
-3. Upon the petition filed by the futures exchange.
+1.The contract has lost its economic value;
+2.The contract is not consistent with the public interest;
+3.Upon the petition filed by the futures exchange.
 ]]></條文內容>
   </條文>
   <條文>
@@ -102,33 +104,33 @@ No person shall provide any premises, facilities, or information for others to e
   <條文>
     <條號>Article 15</條號>
     <條文內容><![CDATA[The operating rules of a futures exchange shall contain the following particulars:
-1. use of the futures trading market;
-2. trading system;
-3. clearing and settlement system;
-4. calculating methodology of margin and premium;
-5. administration of futures commission merchants;
-6. surveillance of the futures trading market;
-7. contingency plan;
-8. handling procedures and penalties for default cases;
-9. other matters as required by the Competent Authority.
+1.use of the futures trading market;
+2.trading system;
+3.clearing and settlement system;
+4.calculating methodology of margin and premium;
+5.administration of futures commission merchants;
+6.surveillance of the futures trading market;
+7.contingency plan;
+8.handling procedures and penalties for default cases;
+9.other matters as required by the Competent Authority.
 The prescription and amendment of the provisions in the operating rules as referred to in the preceding Paragraph shall be approved by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
-    <條文內容><![CDATA[A  futures exchange, in the execution of market surveillance pursuant to Item 6 of Paragraph 1 in the preceding Article, may publicize the very trading information where such a surveillance has detected abnormalities; in case such a trading is suspected of materially dampening the market order, the following measures may be undertaken:
-1. the adjustment of margin level or the time span for collection;
-2. the restriction of trading volumes for the whole or partial portion of futures commission merchants;
-3. the restriction of trading volumes and/or open positions;
-4. suspension or termination of the said futures trade;
-5. any other necessary measure for the maintenance of the market order or for the protection of futures traders.
+    <條文內容><![CDATA[A futures exchange, in the execution of market surveillance pursuant to subparagraph 6 of Paragraph 1 in the preceding Article, may publicize the very trading information where such a surveillance has detected abnormalities; in case such a trading is suspected of materially dampening the market order, the following measures may be undertaken:
+1.the adjustment of margin level or the time span for collection;
+2.the restriction of trading volumes for the whole or partial portion of futures commission merchants;
+3.the restriction of trading volumes and/or open positions;
+4.suspension or termination of the said futures trade;
+5.any other necessary measure for the maintenance of the market order or for the protection of futures traders.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
     <條文內容><![CDATA[In the event of the following events, the Competent Authority may void the license of a futures exchange:
-1. the application for incorporation or the business license contains false statement;
-2. where, three months elapsed after the issuance of the business license, the futures exchange fails to commence its business operation or, after commencing its business operation, it has voluntarily suspended its operation for a continuous period of three months or longer, unless the futures exchange, for justifiable cause shown, has applied for and obtained an extension approval by the Competent Authority.
+1.the application for incorporation or the business license contains false statement;
+2.where, three months elapsed after the issuance of the business license, the futures exchange fails to commence its business operation or, after commencing its business operation, it has voluntarily suspended its operation for a continuous period of three months or longer, unless the futures exchange, for justifiable cause shown, has applied for and obtained an extension approval by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -160,26 +162,26 @@ The prescription and amendment of the provisions in the operating rules as refer
   <條文>
     <條號>Article 23</條號>
     <條文內容><![CDATA[The promoters of a membership futures exchange shall, based on an unanimous agreement, execute the "Articles of Association" containing the following particulars with signatures and chops:
-1. objectives;
-2. name;
-3. location of the head office;
-4. organization and responsibilities;
-5. categories and eligibility of membership;
-6. number of memberships;
-7. accession and withdrawal of members;
-8. membership contribution and refund;
-9. matters concerning discipline of members;
-10. matters concerning number, responsibilities, term of office, election and removal of directors and supervisors;
-11. matters regarding clearing and settlement;
-12. imposition of penalties for breach of contract;
-13. matters regarding transaction fees and charges for members;
-14. apportionment of membership expenses;
-15. disposal of residual assets upon dissolution;
-16. matters regarding accounting;
-17. procedures for amending the Articles of Association;
-18. methods for public announcement;
-19. any other matters as required by the Competent Authority; and
-20. date of executing the Articles of Association.
+1.objectives;
+2.name;
+3.location of the head office;
+4.organization and responsibilities;
+5.categories and eligibility of membership;
+6.number of memberships;
+7.accession and withdrawal of members;
+8.membership contribution and refund;
+9.matters concerning discipline of members;
+10.matters concerning number, responsibilities, term of office, election and removal of directors and supervisors;
+11.matters regarding clearing and settlement;
+12.imposition of penalties for breach of contract;
+13.matters regarding transaction fees and charges for members;
+14.apportionment of membership expenses;
+15.disposal of residual assets upon dissolution;
+16.matters regarding accounting;
+17.procedures for amending the Articles of Association;
+18.methods for public announcement;
+19.any other matters as required by the Competent Authority; and
+20.date of executing the Articles of Association.
 ]]></條文內容>
   </條文>
   <條文>
@@ -192,9 +194,9 @@ The member contribution referred to in the first paragraph shall be paid in cash
   <條文>
     <條號>Article 25</條號>
     <條文內容><![CDATA[In case of any of the following acts by a member of a membership futures exchange, the futures exchange shall impose upon the member a monetary penalty and may further warn, suspend or restrict such member from trading futures on the said futures exchange, or may expel the member should the offense be of a serious nature:
-1. any act in violation of acts and regulations, or any failure to comply with the administrative orders issued by the Competent Authority pursuant to acts and regulations;
-2. any act in violation of the Articles of Association, operating rules, standards for mandate contracts, or any other rules of the futures exchange;
-3. any transaction in violation of the principles of integrity and good faith which may cause damages to others.
+1.any act in violation of acts and regulations, or any failure to comply with the administrative orders issued by the Competent Authority pursuant to acts and regulations;
+2.any act in violation of the Articles of Association, operating rules, standards for mandate contracts, or any other rules of the futures exchange;
+3.any transaction in violation of the principles of integrity and good faith which may cause damages to others.
 The expulsion of a member as referred to in the preceding Paragraph shall be reported to the Competent Authority for recordation.
 ]]></條文內容>
   </條文>
@@ -215,13 +217,13 @@ The board chairman shall be a full-time executive officer; the above requirement
   <條文>
     <條號>Article 28</條號>
     <條文內容><![CDATA[No person who falls within any of the following categories shall serve as a promoter, director, supervisor, or manager of a membership futures exchange; those already serving in any of these capacities shall be discharged:
-1. any person specified in any Item of Article 30 of the Company Act;
-2. any person who served as the director, supervisor, manager, or other equivalent position of a juristic person at the time it was adjudicated bankrupt; and that three years have not elapsed since the close of the bankruptcy, or the reconciliation has not been fulfilled;
-3. any person who has a record of a negotiable instrument being dishonored by a financial institution in the preceding three years; or
-4. any person who has been discharged from his position under Paragraph 1 of Article 101 of this Act, or Article 56 or Item 2 of Article 66 of the Securities and Exchange Act within the past five years;
-5. any person who has been sentenced under this Act, the Foreign Futures Trading Act, the Company Act, the Securities and Exchange Act, the Banking Act, the Statute for the Regulation of Foreign Exchange, the Insurance Act, or the Credit Union Act to a punishment of not less severe than a criminal fine; and five years have not elapsed since the completion of sentence execution, the expiration of the suspension of sentence, or the pardon of the crime;
-6. any person who has been removed from his or her position pursuant to Item 2, Paragraph 1 of Article 100 of this Act within the past five years; or
-7. any person who has been proved that, on behalf of others, he/she illegally acted as a promoter, director, supervisor or manager of a membership futures exchange.
+1.any person specified in any subparagraph of Article 30 of the Company Act;
+2.any person who served as the director, supervisor, manager, or other equivalent position of a juristic person at the time it was adjudicated bankrupt; and that three years have not elapsed since the close of the bankruptcy, or the reconciliation has not been fulfilled;
+3.any person who has a record of a negotiable instrument being dishonored by a financial institution in the preceding three years; or
+4.any person who has been discharged from his position under Paragraph 1 of Article 101 of this Act, or Article 56 or subparagraph 2 of Article 66 of the Securities and Exchange Act within the past five years;
+5.any person who has been sentenced under this Act, the Foreign Futures Trading Act, the Company Act, the Securities and Exchange Act, the Banking Act, the Statute for the Regulation of Foreign Exchange, the Insurance Act, or the Credit Union Act to a punishment of not less severe than a criminal fine; and five years have not elapsed since the completion of sentence execution, the expiration of the suspension of sentence, or the pardon of the crime;
+6.any person who has been removed from his or her position pursuant to subparagraph 2, Paragraph 1 of Article 100 of this Act within the past five years; or
+7.any person who has been proved that, on behalf of others, he/she illegally acted as a promoter, director, supervisor or manager of a membership futures exchange.
 Where the promoter, director, or supervisor of the membership futures exchange is a juristic person, the preceding Paragraph shall apply mutatis mutandis to the representatives of the said juristic person or the individuals designated to execute business for the juristic person.
 ]]></條文內容>
   </條文>
@@ -249,12 +251,12 @@ The persons referred to in the preceding Paragraph are prohibited from, providin
   <條文>
     <條號>Article 33</條號>
     <條文內容><![CDATA[A membership futures exchange shall proceed with the dissolution process upon the occurrence of any one of the following causes:
-1. any event of dissolution specified in the Articles of Association occur;
-2. by resolution of the general meeting of members;
-3. The number of membership is less than seven;
-4. bankruptcy; or
-5. voidance of the approval for the establishment of the futures exchange.
-The dissolution referred to in Item 2 of the preceding Paragraph shall not become effective without the approval from the Competent Authority.
+1.any event of dissolution specified in the Articles of Association occur;
+2.by resolution of the general meeting of members;
+3.The number of membership is less than seven;
+4.bankruptcy; or
+5.voidance of the approval for the establishment of the futures exchange.
+The dissolution referred to in subparagraph 2 of the preceding Paragraph shall not become effective without the approval from the Competent Authority.
 ]]></條文內容>
   </條文>
   <編章節>      Section III Futures Exchange Organized as a Company</編章節>
@@ -266,11 +268,11 @@ The dissolution referred to in Item 2 of the preceding Paragraph shall not becom
   <條文>
     <條號>Article 35</條號>
     <條文內容><![CDATA[The Articles of Incorporation of a futures exchange organized as a company shall be executed in accordance with the Company Act. The following particulars shall not be effective unless they are explicitly stipulated in the Articles of Incorporation:
-1. qualifications of shareholders and restrictions imposed on the transfer of shares;
-2. qualifications of traders;
-3. establishment of a clearing department;
-4. any other matters required by the Competent Authority.
-Where the Articles of Incorporation of a futures exchange organized as a company impose any restrictions as prescribed under the preceding Item 1, Article 163 and Article 267 of the Company Act shall not be applicable.
+1.qualifications of shareholders and restrictions imposed on the transfer of shares;
+2.qualifications of traders;
+3.establishment of a clearing department;
+4.any other matters required by the Competent Authority.
+Where the Articles of Incorporation of a futures exchange organized as a company impose any restrictions as prescribed under the preceding subparagraph 1, Article 163 and Article 267 of the Company Act shall not be applicable.
 ]]></條文內容>
   </條文>
   <條文>
@@ -281,7 +283,7 @@ Where the Articles of Incorporation of a futures exchange organized as a company
   <條文>
     <條號>Article 37</條號>
     <條文內容><![CDATA[A futures exchange organized as a company shall not issue bearer stocks.
-In case a futures exchange organized as a company imposes any restrictions on the qualifications of shareholders pursuant to Item 1 of Paragraph 1 of Article 35 of this Act, the person to whom the stock of the futures exchange may be transferred or pledged are limited to those whose qualifications are expressly stipulated in the Articles of Incorporation.
+In case a futures exchange organized as a company imposes any restrictions on the qualifications of shareholders pursuant to subparagraph 1 of Paragraph 1 of Article 35 of this Act, the person to whom the stock of the futures exchange may be transferred or pledged are limited to those whose qualifications are expressly stipulated in the Articles of Incorporation.
 ]]></條文內容>
   </條文>
   <條文>
@@ -293,9 +295,9 @@ The organization and responsibilities for the committees referred to in the prec
   <條文>
     <條號>Article 39</條號>
     <條文內容><![CDATA[Futures commission merchants trading in a futures exchange organized as a company shall enter into a contract for the usage of the centralized futures trading market with the exchange specifying the following:
-1. the rate of futures trading processing fees;
-2. that any futures commission merchant who violates any provisions of Paragraph 1 of Article 25 of this Act shall be punished with a monetary penalty for breach of contract, have its trading suspended or restricted, or have its usage contract terminated;
-3. that any futures commission merchant who has been designated to wind up or settle trades made by other futures commission merchants shall have the obligation to perform in accordance with the contract.
+1.the rate of futures trading processing fees;
+2.that any futures commission merchant who violates any provisions of Paragraph 1 of Article 25 of this Act shall be punished with a monetary penalty for breach of contract, have its trading suspended or restricted, or have its usage contract terminated;
+3.that any futures commission merchant who has been designated to wind up or settle trades made by other futures commission merchants shall have the obligation to perform in accordance with the contract.
 The contract referred to in the preceding Paragraph together with other relevant materials shall be registered by the futures exchange with the Competent Authorities for its approval and recordation.
 ]]></條文內容>
   </條文>
@@ -306,7 +308,7 @@ The contract referred to in the preceding Paragraph together with other relevant
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[A futures exchange organized as a company, when terminating the contract with a futures commission merchant pursuant to Item 2 of Paragraph 1 of Article 39 of this Act shall register such contract termination with the Competent Authority for its recordation.
+    <條文內容><![CDATA[A futures exchange organized as a company, when terminating the contract with a futures commission merchant pursuant to subparagraph 2 of Paragraph 1 of Article 39 of this Act shall register such contract termination with the Competent Authority for its recordation.
 ]]></條文內容>
   </條文>
   <條文>
@@ -341,39 +343,39 @@ The rules regarding the qualification of a clearing member as referred to in the
   <條文>
     <條號>Article 47</條號>
     <條文內容><![CDATA[The operating rules of a futures clearing house shall contain the following particulars:
-1. procedures and methods of clearing and settlement;
-2. clearing confirmation, recordation and report statement;
-3. matter relating to clearing margin and premium;
-4. matters relating to delivery and cash settlement;
-5. contribution, custody and utilization of clearing and settlement fund;
-6. surveillance of the futures trading market;
-7. matters regarding service charges;
-8. handling procedures and penalties for default cases;
-9. contingency plan; and
-10. other matters as required by the Competent Authority.
+1.procedures and methods of clearing and settlement;
+2.clearing confirmation, recordation and report statement;
+3.matter relating to clearing margin and premium;
+4.matters relating to delivery and cash settlement;
+5.contribution, custody and utilization of clearing and settlement fund;
+6.surveillance of the futures trading market;
+7.matters regarding service charges;
+8.handling procedures and penalties for default cases;
+9.contingency plan; and
+10.other matters as required by the Competent Authority.
 The prescription and amendment of the provisions in the operating rules as referred to in the preceding Paragraph shall be reported to the Competent Authority for its approval.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 48</條號>
-    <條文內容><![CDATA[A futures clearing house may, in the process of surveillance of the futures trading market pursuant to Item 6 of Paragraph 1 of the preceding Article, take the following necessary measures against any members when it discovers circumstances that may materially affect the market order:
-1. adjust the amount of the clearing margin;
-2. issue intra-day multiple margin calls;
-3. liquidate the open positions in whole or in part; or
-4. any other measures that are necessary to maintain market order or to protect futures trading.
+    <條文內容><![CDATA[A futures clearing house may, in the process of surveillance of the futures trading market pursuant to subparagraph 6 of Paragraph 1 of the preceding Article, take the following necessary measures against any members when it discovers circumstances that may materially affect the market order:
+1.adjust the amount of the clearing margin;
+2.issue intra-day multiple margin calls;
+3.liquidate the open positions in whole or in part; or
+4.any other measures that are necessary to maintain market order or to protect futures trading.
 The standards for determining when the market order may be materially affected shall be prescribed by the clearing house and approved by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 49</條號>
     <條文內容><![CDATA[In case a clearing member fails to perform its clearing and settlement obligation, the futures clearing house shall appropriate the following funds as compensation in the order set forth below:
-1. the defaulting clearing member's clearing margin;
-2. the defaulting member's contribution to the clearing and settlement fund;
-3. other member's contribution to the clearing and settlement fund;
-4. the compensation reserve fund of the futures clearing house; and
-5. the aggregate contribution from each individual member of the futures clearing house in the proportion determined by the clearing house.
-The contribution proportion referred to in Item 5 of the preceding Paragraph shall be filed with the Competent Authority for its approval.
-The defaulting futures clearing member is liable to indemnify the compensation funds as prescribed under Item 3, Item 4 and Item 5 of Paragraph 1.
+1.the defaulting clearing member's clearing margin;
+2.the defaulting member's contribution to the clearing and settlement fund;
+3.other member's contribution to the clearing and settlement fund;
+4.the compensation reserve fund of the futures clearing house; and
+5.the aggregate contribution from each individual member of the futures clearing house in the proportion determined by the clearing house.
+The contribution proportion referred to in subparagraph 5 of the preceding Paragraph shall be filed with the Competent Authority for its approval.
+The defaulting futures clearing member is liable to indemnify the compensation funds as prescribed under subparagraph 3, subparagraph 4 and subparagraph 5 of Paragraph 1.
 ]]></條文內容>
   </條文>
   <條文>
@@ -392,9 +394,9 @@ A futures clearing house shall separately deal with the clearing margins between
   <條文>
     <條號>Article 52</條號>
     <條文內容><![CDATA[The creditors of a futures clearing member shall have priority rights to claim against the clearing and settlement fund for the contribution put by the clearing member where the debt obligation arises from the clearing; the priority of the creditors shall be as follows in decreasing order:
-1. The clearing house;
-2. Futures traders;
-3. Members of the clearing house.
+1.The clearing house;
+2.Futures traders;
+3.Members of the clearing house.
 ]]></條文內容>
   </條文>
   <條文>
@@ -461,12 +463,12 @@ A futures commission merchant shall restore the bond to its original level if su
   <條文>
     <條號>Article 63</條號>
     <條文內容><![CDATA[No responsible persons, associated persons or any other employees of a futures commission merchant may in any way:
-1. divulge any information regarding matters mandated by his/her traders or any secrets with regard to all matters coming to his/her knowledge in the course of performing his/her duties;
-2. guarantee a futures trader a profit;
-3. make a commitment to a futures trader to share profit or loss;
-4. use the account or name of a futures trader to engage in proprietary trading;
-5. offer the use of the name or account of his/her own or of any other person to a futures trader for futures trading; or
-6. make exaggerated or biased advertisement or disseminate false information.
+1.divulge any information regarding matters mandated by his/her traders or any secrets with regard to all matters coming to his/her knowledge in the course of performing his/her duties;
+2.guarantee a futures trader a profit;
+3.make a commitment to a futures trader to share profit or loss;
+4.use the account or name of a futures trader to engage in proprietary trading;
+5.offer the use of the name or account of his/her own or of any other person to a futures trader for futures trading; or
+6.make exaggerated or biased advertisement or disseminate false information.
 ]]></條文內容>
   </條文>
   <條文>
@@ -512,10 +514,10 @@ The creditors of futures commission merchants or designated institutions referre
   <條文>
     <條號>Article 71</條號>
     <條文內容><![CDATA[A futures commission merchant shall not withdraw any fund from the segregated customer margin/premium account, unless one of the following situations occurs:
-1. instruction from the futures trader to deliver the excess margins/premiums;
-2. payment for the futures trader of the margins/premiums due and/or settlement balance;
-3. payment for the futures trader of brokerage commissions, interests, or other transactional fees payable to the futures broker; or
-4. other items being approved by the Competent Authority.
+1.instruction from the futures trader to deliver the excess margins/premiums;
+2.payment for the futures trader of the margins/premiums due and/or settlement balance;
+3.payment for the futures trader of brokerage commissions, interests, or other transactional fees payable to the futures broker; or
+4.other items being approved by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -533,8 +535,8 @@ A futures commission merchant shall not engage in any unnecessary transaction on
   <條文>
     <條號>Article 74</條號>
     <條文內容><![CDATA[A futures commission merchant shall not engage in any of the followings:
-1. trading in non-compliance with the instructions or terms of the mandate by the futures trader;
-2. conducting futures trades on behalf of a futures trader without the authorization of the futures trader.
+1.trading in non-compliance with the instructions or terms of the mandate by the futures trader;
+2.conducting futures trades on behalf of a futures trader without the authorization of the futures trader.
 ]]></條文內容>
   </條文>
   <條文>
@@ -632,10 +634,10 @@ Unless otherwise provided in this Act, the Business Organization Act shall be ap
   <條文>
     <條號>Article 90</條號>
     <條文內容><![CDATA[The Federation of Futures Industry Associations shall consist of the following members;
-1. futures exchange;
-2. futures clearing houses;
-3. provincial futures association or municipal futures association; and
-4. other parties designated by the Competent Authority.
+1.futures exchange;
+2.futures clearing houses;
+3.provincial futures association or municipal futures association; and
+4.other parties designated by the Competent Authority.
 The establishment of the Federation of Futures Industry Associations shall be approved by the Competent Authority before lodging the registration application to the Ministry of the Interior.
 ]]></條文內容>
   </條文>
@@ -670,10 +672,10 @@ The terms of office for the directors and the supervisors shall be three years, 
   <條文>
     <條號>Article 96</條號>
     <條文內容><![CDATA[In the event of any of the following circumstances in the futures market or a futures trading thereof, the Competent Authority may issue orders to adjust the margin level, restrict trading volume or open positions of the transacting party or adopt any other necessary measures; where such circumstances are special, the Competent Authority may order the complete or partial suspension of futures trading:
-1. where the futures market or futures trading has been or has the danger of being manipulated or monopolized;
-2. where any measure taken by the Taiwan government or a foreign government is sufficient to affect the futures market, futures trading, or certain underlying assets for futures trading.
-3. where the foreign or domestic market fluctuates substantially due to acts of god, war, civil commotion, or other force majeure events, which will severely impede the futures market, futures trading, or certain underlying assets for futures trading; or
-4. other events which will severely affect the futures market order or harm the public interest.
+1.where the futures market or futures trading has been or has the danger of being manipulated or monopolized;
+2.where any measure taken by the Taiwan government or a foreign government is sufficient to affect the futures market, futures trading, or certain underlying assets for futures trading.
+3.where the foreign or domestic market fluctuates substantially due to acts of god, war, civil commotion, or other force majeure events, which will severely impede the futures market, futures trading, or certain underlying assets for futures trading; or
+4.other events which will severely affect the futures market order or harm the public interest.
 ]]></條文內容>
   </條文>
   <條文>
@@ -704,10 +706,10 @@ The persons being requested to appear under the preceding Paragraph may retain a
   <條文>
     <條號>Article 100</條號>
     <條文內容><![CDATA[In case any futures exchange, futures clearing house, or futures enterprise acts in violation of this Act, in addition to being subject to be punished in accordance with the provisions set forth under this Act, the Competent Authority may, depending upon the severity of the violation, additionally impose the following sanctions and, in addition thereto, order such violator to correct its conduct within a limited period of time:
-1. warning;
-2. remove the responsible persons or other related persons;
-3. issue order to suspend the business in part or in whole for no more than six months; or
-4. void the business license.
+1.warning;
+2.remove the responsible persons or other related persons;
+3.issue order to suspend the business in part or in whole for no more than six months; or
+4.void the business license.
 Where any party fails to comply with the order to correct its conduct within the time specified, the Competent Authority may successively re-impose the sanctions referred to in the preceding Paragraph upon such party or impose heavier sanctions until the violation has been corrected.
 ]]></條文內容>
   </條文>
@@ -742,19 +744,22 @@ A futures trader shall register its futures trading volumes and open positions. 
   <條文>
     <條號>Article 106</條號>
     <條文內容><![CDATA[With regard to futures trading, no person shall, with an intent to manipulate the price of futures, engage in any one of the following acts:
-1. acting independently or conspiring with others to continuously inflate, maintain, or deflate the prices of a certain futures contract, or its related spot commodities;
-2. acting independently or conspiring with others to increase, maintain, or decrease the open positions of a certain futures contract or the supply or demand of its related spot commodities;
-3. acting independently or conspiring with others to disseminate or spread false information; or
-4. directly or indirectly engaging in manipulative acts to influence the prices of a certain futures contract or its related spot commodities.
+1.acting independently or conspiring with others to continuously inflate, maintain, or deflate the prices of a certain futures contract, or its related spot commodities;
+2.acting independently or conspiring with others to increase, maintain, or decrease the open positions of a certain futures contract or the supply or demand of its related spot commodities;
+3.acting independently or conspiring with others to disseminate or spread false information; or
+4.directly or indirectly engaging in manipulative acts to influence the prices of a certain futures contract or its related spot commodities.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 107</條號>
-    <條文內容><![CDATA[The following persons directly or indirectly having access to material information which may materially affect the prices of a certain futures contract shall not either trade for his own account or have others trade on futures or its related spot commodities which are related to such information prior to the disclosure of the information. Nonetheless, persons who with justifiable cause believe the information has been publicly disclosed shall not be restricted by the above:
-1. directors, supervisors, managers, employees, or mandataries of a futures exchange, futures clearing house, futures enterprise, futures association or any other related institutions;
-2. public officials, employees or mandataries of the Competent Authority or the competent authorities of other related businesses;
-3. directors, supervisors, managers or employees of the mandataries referred to in the preceding two Items; or
-4. any person who has been informed of the information by the persons referred to in the preceding three Items.
+    <條文內容><![CDATA[The following persons directly or indirectly having access to material information which may materially affect the prices of a certain futures contract shall not purchase or sell for his own account or in the name of another, or have others trade on futures or its related spot commodities which are related to such information prior to the public disclosure of the information or within 18 hours after its public disclosure:
+1.directors, supervisors, managers, employees, or mandataries of a futures exchange, futures clearing house, futures enterprise, futures association, Stock Exchange, over-the-counter securities exchange, or a securities dealers association;
+2.public officials, employees or mandataries of the Competent Authority or the competent authorities of other related businesses;
+3.any person who has learned the information by reason of occupational or controlling relationship;
+4.directors, supervisors, managers, employees, or major shareholders with shareholding of 10 percent or more, of the issuer of the underlying securities of single stock futures contracts or equity option contracts;
+5.directors, supervisors, managers or employees of the mandataries referred to in subparagraphs 1, 2, and 4; or
+6.a person who, though no longer among those listed in the preceding five subparagraphs, has only lost such status within the last six months; or
+7.any person who has been informed of the information by the persons referred to in the preceding six subparagraphs.
 The preceding Paragraph shall apply mutatis mutandis to the representatives of the directors and supervisors.
 ]]></條文內容>
   </條文>
@@ -762,10 +767,10 @@ The preceding Paragraph shall apply mutatis mutandis to the representatives of t
     <條號>Article 108</條號>
     <條文內容><![CDATA[Any person involved in futures trading shall not engage in bucketing, misrepresentation, fraud, deceit, or other conducts which will mislead the futures traders or other third parties.
 The term "bucketing" referred to in the preceding Paragraph shall mean:
-1. off market offsetting;
-2. cross-trading;
-3. taking the other side of a customer's order;
-4. accommodation trading.
+1.off market offsetting;
+2.cross-trading;
+3.taking the other side of a customer's order;
+4.accommodation trading.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter VII Arbitration</編章節>
@@ -788,77 +793,79 @@ Unless otherwise provided by this Act, the procedures of the arbitration referre
   <編章節>   Chapter VIII Penal Provisions</編章節>
   <條文>
     <條號>Article 112</條號>
-    <條文內容><![CDATA[A person shall be punished with imprisonment for a period not exceeding seven years and in addition thereto may be fined a criminal fine of not more than three million New Taiwan Dollars (NT$3,000,000) for any of the following offenses:
-1. without approval, to engage in the operation of a futures exchange or any related business of a futures exchange;
-2. without approval, to engage in the operation of a futures clearing house;
-3. the violation of the provisions of Paragraph 1 of Article 56;
-4. without approval, to engage in the business of a leverage transaction merchant;
-5. without approval, to engage in the business of a futures trust enterprise, managed futures enterprise, futures advisory enterprise or any other related futures services enterprises;
-6. the violation of the provision of Paragraph 1 of Article 84 by any futures trust enterprise in raising a futures trust fund; or
-7. the violation of Article 106, Article 107, or Paragraph 1 of Article 108.
+    <條文內容><![CDATA[A person who violates Article 106, Article 107, or paragraph 1 of Article 108 shall be punished with imprisonment for not less than 3 years but not more than 10 years, and in addition thereto may be fined a criminal fine of not less than NT$10 million but not more than NT$200 million.
+A person who commits an offense as set out in the preceding paragraph and subsequently voluntarily surrenders to the authorities himself/herself, if he or she voluntarily hands over the proceeds of crime in full, shall have his or her punishment reduced or remitted; and if another principal offender or an accomplice is captured as a result, his or her punishment shall be remitted.
+A person who commits an offense as set out in paragraph 1 and confesses during the prosecutorial inquiry, if he or she voluntarily hands over the proceeds of crime in full, shall have his or her punishment reduced; and if another principal offender or an accomplice is captured as a result, his or her punishment shall be reduced by one-half.
+When the interest in property or assets gained by a person through commission of an offense in paragraph 1 exceeds the maximum amount of the criminal fine, the fine may be increased within the scope of the interest gained.
+A person shall be punished with imprisonment for a period not exceeding seven years and in addition thereto may be fined a criminal fine of not more than NT$3 million for any of the following offenses:
+1.without approval, to engage in the operation of a futures exchange or any related business of a futures exchange;
+2.without approval, to engage in the operation of a futures clearing house;
+3.the violation of the provisions of Paragraph 1 of Article 56;
+4.without approval, to engage in the business of a leverage transaction merchant;
+5.without approval, to engage in the business of a futures trust enterprise, managed futures enterprise, futures advisory enterprise or any other related futures services enterprises;
+6.the violation of the provision of Paragraph 1 of Article 84 by any futures trust enterprise in raising a futures trust fund; or
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 113</條號>
-    <條文內容><![CDATA[Any director, supervisor, manager, mandatary, or employee of a futures exchange, futures clearing house, or futures trust enterprise who demands, agrees to accept, or receives any illegitimate profit in connection with the performance of his duty shall be punished with imprisonment for a period not exceeding five years, detention, or in addition thereto a criminal fine of not more than two million four hundred thousand New Taiwan Dollars (NT$2,400,000)
-Any person referred to in the preceding Paragraph who demands, agrees to accept, or receives any illegitimate profits for actions in contravention of his duty, shall be punished with imprisonment for a period not exceeding seven years, detention, and/or a criminal fine of not more than three million New Taiwan Dollars (NT$3,000,000)
-The profits received by the person who committed the offenses specified in the preceding two Paragraphs shall be confiscated. If the whole or partial portion of the profits cannot be confiscated, the value thereof shall be disgorged from the offender.
+    <條文內容><![CDATA[Any director, supervisor, manager, mandatary, or employee of a futures exchange, futures clearing house, or futures trust enterprise who demands, agrees to accept, or receives any illegitimate profit in connection with the performance of his duty shall be punished with imprisonment for a period not exceeding five years, detention, or in addition thereto a criminal fine of not more than NT$2.4 million
+Any person referred to in the preceding Paragraph who demands, agrees to accept, or receives any illegitimate profits for actions in contravention of his duty, shall be punished with imprisonment for a period not exceeding seven years, detention, and/or a criminal fine of not more than NT$3 million
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 114</條號>
-    <條文內容><![CDATA[Any person who offers, promises, or delivers illegitimate profit to any person who acts in contradiction to his duty as specified in the preceding Article shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine not exceeding two million New Taiwan Dollars (NT$2,000,000).
+    <條文內容><![CDATA[Any person who offers, promises, or delivers illegitimate profit to any person who acts in contradiction to his duty as specified in the preceding Article shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine not exceeding NT$2 million.
 The punishment of the offense specified in the preceding Paragraph may be pardoned if the offender voluntarily surrenders himself to the law enforcement authorities.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 115</條號>
-    <條文內容><![CDATA[A person shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine of not more than two million and four hundred thousand New Taiwan Dollars (NT$2,400,00) for any of the following offenses:
-1. making false representation or omission in the contents of the application materials required under Paragraph 1 of Article 8, Paragraph 1 of Article 45, Paragraphs 2 to 4 of Article 56, Paragraphs 2 and 3 of Article 80, Paragraphs 1 and 2 of Article 82, and Paragraph 1 of Article 84;
-2. the violation of the provisions of Article 71;
-3. the violation of Article 81 mutatis mutandis applying Article 71 thereunder by a leverage transaction merchant;
-4. making false statement in the accounting books, documents or other related articles or reporting materials required to be produced under an order from the Competent Authority issued pursuant to Article 98; or
-5. making false statement in the accounting books, documentary evidence, financial statement or any other business documents filed by any futures exchange, futures clearing house, futures enterprise, or futures association as required by law or by orders issued by the Competent Authority under the laws.
+    <條文內容><![CDATA[A person shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine of not more than NT$2.4 million for any of the following offenses:
+1.making false representation or omission in the contents of the application materials required under Paragraph 1 of Article 8, Paragraph 1 of Article 45, Paragraphs 2 to 4 of Article 56, Paragraphs 2 and 3 of Article 80, Paragraphs 1 and 2 of Article 82, and Paragraph 1 of Article 84;
+2.the violation of the provisions of Article 71;
+3.the violation of Article 81 mutatis mutandis applying Article 71 thereunder by a leverage transaction merchant;
+4.making false statement in the accounting books, documents or other related articles or reporting materials required to be produced under an order from the Competent Authority issued pursuant to Article 98; or
+5.making false statement in the accounting books, documentary evidence, financial statement or any other business documents filed by any futures exchange, futures clearing house, futures enterprise, or futures association as required by law or by orders issued by the Competent Authority under the laws.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 116</條號>
-    <條文內容><![CDATA[A person shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine of not more than two million New Taiwan Dollars (NT$2,000,000) for any of the following offenses:
-1. the violation of the provisions of Article 5 or Article 63;
-2. the violation of Paragraph 2 of Article 13, except where the provider does not know that it is an illegal futures exchange or is engaging in illegal futures exchange business;
-3. the violation of Article 81 mutatis mutandis applying Article 63 thereunder by the responsible person, associated person, or any other employees of a leverage transaction merchant; or
-4. the violation of Article 88 mutatis mutandis applying Article 63 thereunder by the responsible persons, associated person or any other employees of a futures services enterprise.
+    <條文內容><![CDATA[A person shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine of not more than NT$2 million for any of the following offenses:
+1.the violation of the provisions of Article 5 or Article 63;
+2.the violation of Paragraph 2 of Article 13, except where the provider does not know that it is an illegal futures exchange or is engaging in illegal futures exchange business;
+3.the violation of Article 81 mutatis mutandis applying Article 63 thereunder by the responsible person, associated person, or any other employees of a leverage transaction merchant; or
+4.the violation of Article 88 mutatis mutandis applying Article 63 thereunder by the responsible persons, associated person or any other employees of a futures services enterprise.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 117</條號>
-    <條文內容><![CDATA[A person shall be punished with imprisonment for a period not exceeding one year, detention, and/or a criminal fine of not more than one million eight hundred thousand New Taiwan Dollars (NT$1,800,000) for any of the following offenses:
-1. the violation of the provisions of Article 12, Article 19, or Article 29; or
-2. the violation of Article 55 mutatis mutandis applying Article 19 or Article 29 thereunder by a futures clearing house.
+    <條文內容><![CDATA[A person shall be punished with imprisonment for a period not exceeding one year, detention, and/or a criminal fine of not more than NT$1.8 million for any of the following offenses:
+1.the violation of the provisions of Article 12, Article 19, or Article 29; or
+2.the violation of Article 55 mutatis mutandis applying Article 19 or Article 29 thereunder by a futures clearing house.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 118</條號>
     <條文內容><![CDATA[Where a representative, agent, associated person or any other employee of a juristic person committed the following offenses in connection with the performance of his/her duty, in addition to the punishment imposed on the person in violation of the law pursuant to Article 116 and Article 117, the criminal fines stipulated under each applicable Article shall also be imposed on the juristic person:
-1. the violation of the provisions of Article 19, Article 29, or Article 63;
-2. the violation of the provisions of Article 55 mutatis mutandis applying Article 19 or Article 29 thereunder; or
-3. the violation of the provisions of Article 81 or Article 88 mutatis mutandis applying Article 63 thereunder.
+1.the violation of the provisions of Article 19, Article 29, or Article 63;
+2.the violation of the provisions of Article 55 mutatis mutandis applying Article 19 or Article 29 thereunder; or
+3.the violation of the provisions of Article 81 or Article 88 mutatis mutandis applying Article 63 thereunder.
 Before the crimes referred to in the preceding Paragraph have been discovered, if the juristic person on its own accord file a complaint or report the crime, the punishment hereunder may be reduced or remitted.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 119</條號>
-    <條文內容><![CDATA[A person shall be punished with an administrative fine of not less than one hundred twenty thousand New Taiwan Dollars (NT$120,000) but not more than six hundred thousand New Taiwan Dollars (NT$600,000) for committing any of the following offenses:
-1. the violation of the provisions of Article 10, Article 18, first part of Paragraph 2 of Article 45, Paragraph 4 of Article 56, Paragraph 1 of Article 57, Article 64, Paragraph 1 of Article 65, Paragraph 1 of Article 66, Article 67, Paragraph 1 of Article 70, Paragraph 1 of Article 72, Article 73, Article 74, Paragraph 1 of Article 78, Paragraph 3 of Article 80, Paragraph 2 of Article 82, Paragraph 1 of Article 85, Paragraph 1 of Article 87, Paragraph 1 or Paragraph 3 of Article 97-1, Paragraph 2 of Article 104, or Article 105 of this Act;
-2. the violation of the orders issued pursuant to the provisions of Paragraph 2 of Article 8, last part of Paragraph 2 of Article 45, Paragraph 5 of Article 56, Paragraph 4 of Article 80, Paragraph 3 of Article 82, or Paragraph 2 of Article 85 of this Act;
-3. a futures clearing house acting in violation of the provision of Article 55 mutatis mutandis applying Article 18 of this Act;
-4. a futures commission merchant acting in violation of the provisions of Article 79 mutatis mutandis applying Article 18 of this Act;
-5. a leverage transaction merchant acting in violation of the provisions of Article 81 mutatis mutandis applying Article 18, Paragraph 1 of Article 57, Article 64, Paragraph 1 of Article 65, Paragraph 1 of Article 66, Article 67, Paragraph 1 of Article 70, Paragraph 1 of Article 72, Article 73 and Article 74, or Paragraph 1 of Article 78 of this Act;
-6. a futures service enterprise acting in violation of the provisions of Article 88 mutatis mutandis applying Article 18, Paragraph 1 of Article 57, Article 64, Paragraph 1 of Article 65, Paragraph 1 of Article 66, or Article 74 of this Act.
-7. failure to furnish accounting books, documentary evidence or other related articles or reporting materials within the period specified in an order issued by the Competent Authority, or any refusal or impediment of the inspection initiated by the Competent Authority pursuant to the provisions of Article 98;
-8. failure on the part of a futures exchange, futures clearing house, futures enterprise, or futures association to prepare, register, publicly announce, maintain, or keep the accounts, documentary evidence, financial statement or other relevant business documents according to law or as required by orders issued by the Competent Authority;
-9. refusal to comply with the investigation initiated by the Competent Authority pursuant to Article 99, to provide related documents, or to attend the hearing at the office of the competent authority for examination without justifiable cause.
-Where a person who has committed any act referred to in Item 1, or Item 3 to Item 8 of the preceding Paragraph and has been punished with an administrative fine and ordered by the Competent Authority to take corrective actions within a given time limit but fails to act within the defined period, the Competent Authority may set a new compliance period and successively impose an administrative fine of not less than two hundred forty thousand New Taiwan Dollars (NT$ 240,000) but not more than one million two hundred thousand New Taiwan Dollars (NT$ 1,200,000) for each successive failure to comply.
+    <條文內容><![CDATA[A person shall be punished with an administrative fine of not less than NT$120,000 but not more than NT$600,000 for committing any of the following offenses:
+1.the violation of the provisions of Article 10, Article 18, first part of Paragraph 2 of Article 45, Paragraph 4 of Article 56, Paragraph 1 of Article 57, Article 64, Paragraph 1 of Article 65, Paragraph 1 of Article 66, Article 67, Paragraph 1 of Article 70, Paragraph 1 of Article 72, Article 73, Article 74, Paragraph 1 of Article 78, Paragraph 3 of Article 80, Paragraph 2 of Article 82, Paragraph 1 of Article 85, Paragraph 1 of Article 87, Paragraph 1 or Paragraph 3 of Article 97-1, Paragraph 2 of Article 104, or Article 105 of this Act;
+2.the violation of the orders issued pursuant to the provisions of Paragraph 2 of Article 8, last part of Paragraph 2 of Article 45, Paragraph 5 of Article 56, Paragraph 4 of Article 80, Paragraph 3 of Article 82, or Paragraph 2 of Article 85 of this Act;
+3.a futures clearing house acting in violation of the provision of Article 55 mutatis mutandis applying Article 18 of this Act;
+4.a futures commission merchant acting in violation of the provisions of Article 79 mutatis mutandis applying Article 18 of this Act;
+5.a leverage transaction merchant acting in violation of the provisions of Article 81 mutatis mutandis applying Article 18, Paragraph 1 of Article 57, Article 64, Paragraph 1 of Article 65, Paragraph 1 of Article 66, Article 67, Paragraph 1 of Article 70, Paragraph 1 of Article 72, Article 73 and Article 74, or Paragraph 1 of Article 78 of this Act;
+6.a futures service enterprise acting in violation of the provisions of Article 88 mutatis mutandis applying Article 18, Paragraph 1 of Article 57, Article 64, Paragraph 1 of Article 65, Paragraph 1 of Article 66, or Article 74 of this Act.
+7.failure to furnish accounting books, documentary evidence or other related articles or reporting materials within the period specified in an order issued by the Competent Authority, or any refusal or impediment of the inspection initiated by the Competent Authority pursuant to the provisions of Article 98;
+8.failure on the part of a futures exchange, futures clearing house, futures enterprise, or futures association to prepare, register, publicly announce, maintain, or keep the accounts, documentary evidence, financial statement or other relevant business documents according to law or as required by orders issued by the Competent Authority;
+9.refusal to comply with the investigation initiated by the Competent Authority pursuant to Article 99, to provide related documents, or to attend the hearing at the office of the competent authority for examination without justifiable cause.
+Where a person who has committed any act referred to in subparagraph 1, or subparagraphs 3 to 8 of the preceding Paragraph and has been punished with an administrative fine and ordered by the Competent Authority to take corrective actions within a given time limit but fails to act within the defined period, the Competent Authority may set a new compliance period and successively impose an administrative fine of not less than NT$240,000) but not more than NT$1.2 million for each successive failure to comply.
 ]]></條文內容>
   </條文>
   <條文>

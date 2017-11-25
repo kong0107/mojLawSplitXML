@@ -3,12 +3,14 @@
 <英文法規名稱>Regulations for Selection and Fee Calculation of Information Services Providers Entrusted by Entities</英文法規名稱>
 <中文法規名稱>機關委託資訊服務廠商評選及計費辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=A0030078</法規網址>
-<最新英文異動日期>20141210</最新英文異動日期>
+<最新英文異動日期>20170911</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<沿革內容><![CDATA[1. Promulgated on May 17, 1999
-2. Amended on Dec. 11, 2002
-3. Last Amended on Dec. 10, 2014]]></沿革內容>
+<沿革內容><![CDATA[1.Promulgated on May 17, 1999
+2.Amended on Dec. 11, 2002
+3.Amended on Dec. 10, 2014
+4.Amended on Jul.1, 2016
+5.Last Amended on Sep.11, 2017]]></沿革內容>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
@@ -96,6 +98,7 @@ Where the property rights of the present infrastructure of computer software and
 10. The implementation method of the project..
 11. The completeness and feasibility of the proposal, and the level of understanding of the service items.
 12. Any other necessary matters.
+For procurement of software development services, the capability of the provider to deliver professional skills referred to in subparagraph 2 of the preceding paragraph may, under the premise of zero cost or low cost, include the capability of developing and integrating the interface of common application programs that can be freely accessed, used, modified and distributed.
 ]]></條文內容>
   </條文>
   <條文>
@@ -133,6 +136,7 @@ The relevant regulations for selection of the most advantageous tender of the Ac
     <條文內容><![CDATA[The award of contract referred to in the preceding Article shall be handled in accordance with one of the following methods:
 1. Where the invitation documents have stated a fixed price or rate for the service fees, the contract shall be awarded according to the fixed price or rate.
 2. Where the invitation documents have not stated a fixed price or rate for services fees, paragraph 2 of Article 53 and Article 54 of the Act shall apply to award of contract in excess of the government estimate or nullification of tenders.
+The provision of Article 46 of the Act shall apply where an entity sets the government estimate pursuant to subparagraph 2 of the preceding paragraph. Where the tender price of a supplier participating in price negotiation is reasonable and within the budget amount, and that price reduction is not required, the entity may set the government estimate in accordance with the tender price, and award the contract at the tender price.
 ]]></條文內容>
   </條文>
   <條文>
@@ -164,7 +168,7 @@ The salary or wages payable for the service fees referred to in the preceding pa
 Service fees referred to in the preceding paragraph may include the following:
 1. Direct fees:
 a) Direct salary or wages:
-This includes the actual salary or wages payable to the information service staffs directly involved in providing the services, including project manager, system analyst, program designer, system manager and machinery operator, plus a certain percentage of the above amount for fees related to the staff for paid leaves and  special day-off; bonuses paid not on a regular basis; and those which shall be paid by employers by law such as: labor insurance premium, the arrear wage payment fund premium, national health insurance premium, and labor pension.
+This includes the actual salary or wages payable to the information service staffs directly involved in providing the services, including project manager, system analyst, program designer, system manager and machinery operator, plus a certain percentage of the above amount for fees related to the staff for paid leaves and special day-off; bonuses paid not on a regular basis; and those which shall be paid by employers by law such as: labor insurance premium, the arrear wage payment fund premium, national health insurance premium, and labor pension.
 b) Management fees:
 This includes the salary or wages, as well as the insurance, and pension allowance, of management and accounting staffs who are not within the category for payment under direct salary or wages, office expenditure, bills for water, electricity, heater and air-conditioner, depreciation or rental on furniture, machinery, equipment, etc., administrative cost, transportation cost of machinery and equipment, cost of mail and telephone, cost on contracting business, advertising cost, cost incurred in the preparation for commencing and ending of work , cost incurred for attending vocational and technical conference domestically or internationally held, cost on the development of market and human resources, research cost or professional communication cost for special business purpose, related taxes, and so forth. The total amount of management fees however shall not exceed 100% of the amount of the direct salary or wages deducted by bonuses paid not on a regular basis.
 c) Other direct fees:
@@ -173,7 +177,7 @@ This includes the direct fees incurred during the process of implementing the en
 Means compensations paid to the provider for providing information service, including risks, profit, and related taxes.
 3. Business tax.
 The fees incurred for the paid leaves and special day-off as referred to in item 1 of subparagraph 1 of the preceding paragraph may be prescribed at a certain percentage of the actual salary or wage based on actual needs. Entities may priscribe the percentage and terms of payment in the tender documentation, and the payment may be made without receipts of the staffs. However, the percentage shall not exceed 16% of the actual salary or wage.
-Bonuses paid not on a regular basis as referred to in item 1 of subparagraph 1 of paragraph 2 may be prescribed at a certain percentage of the actual salary or wage based on actual needs. Entities may priscribe the percentage and terms of payment in the tender documentation, and the payment shall be made with  receipts of the staffs. However, the percentage shall not exceed 30% of the actual salary or wage.
+Bonuses paid not on a regular basis as referred to in item 1 of subparagraph 1 of paragraph 2 may be prescribed at a certain percentage of the actual salary or wage based on actual needs. Entities may priscribe the percentage and terms of payment in the tender documentation, and the payment shall be made with receipts of the staffs. However, the percentage shall not exceed 30% of the actual salary or wage.
 Labor insurance premium, the arrear wage payment fund premium, national health insurance premium, and labor pensions which shall be paid by employers by law as referred to in item 1 of subparagraph 1 of paragraph 2 shall be paid by entities after verification.
 The fees for work referred to in subparagraph 2 of paragraph 2 shall be set as a fixed amount and shall not be a variable amount that increases proportionately to the amount of the direct salary or wages and management fees. The total amount of the fees for work shall not exceed 25% of the combined value of both the direct salary or wages and the management fees deducted by bonuses paid not on a regular basis.
 ]]></條文內容>

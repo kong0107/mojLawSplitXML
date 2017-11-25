@@ -3,7 +3,7 @@
 <英文法規名稱>Standard for Installation of Fire Safety Equipments Based on Use and Occupancy</英文法規名稱>
 <中文法規名稱>各類場所消防安全設備設置標準</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=D0120029</法規網址>
-<最新英文異動日期>20130501</最新英文異動日期>
+<最新英文異動日期>20170705</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -12,9 +12,10 @@
   <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001871</下載網址>
   <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001872</下載網址>
   <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001873</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001874</下載網址>
   <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001875</下載網址>
   <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001876</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003416</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003765</下載網址>
 </附件>
 <沿革內容><![CDATA[1.A total of 111 articles, promulgated under Order Tai(78)-Nei-Ching-Tzu No.715824 on July 31, 1989, effective from September 1.
 2.A total of 198 articles, as amended, promulgated under Order Tai(85)-Nei-Hsiao-Tzu No.8573803 on March 13, 1996, effective from July 1.
@@ -24,7 +25,8 @@
 6.Articles 46, as amended, promulgated under Order Tai-Nei-Hsiao-Tzu No.0960825654 on November 1, 2007, effective from November 5, 2007.
 7.Articles 10, 23, 146, 154, 155, 193~195, 197, 198, 201, 207, 210, 213, 214, 218~222, 228, 229, 231, 232 and 238, as amended; 146-1~146-7and 206-1, as added; 147~152 as deleted, promulgated under Order Tai-Nei-Hsiao-Tzu No.0970822076 on May 15, 2008, effective from May 21, 2008.
 8.Articles 1、3、4、7、8、12、17～19、24、25、31、32、34、35、40、43、46、48、49、51、53、56、57、59、63、116、125、129～131、140、154、157、167、171、175、180、181～183、185、186、188～192、198、210、216、229、231 and 235, as amended; 111-1, as added; 2 as deleted, promulgated under Order Tai-Nei-Hsiao-Tzu No.1010821006 on Jan 10, 2012, effective from Jul 1, 2012.
-9.Articles 6、12、14、17、19、24、111-1、157、160、189、235, as amended; promulgated under Order Tai-Nei-Hsiao-Tzu No.1020821188 on May 1, 2013, effective from the same day.]]></沿革內容>
+9.Articles 6、12、14、17、19、24、111-1、157、160、189、235, as amended; promulgated under Order Tai-Nei-Hsiao-Tzu No.1020821188 on May 1, 2013, effective from the same day.
+10.Articles 46、47、198, as amended; promulgated under Order Tai-Nei-Hsiao-Tzu No.1060822680 on July 5, 2017, effective from the same day.]]></沿革內容>
 <法規內容>
   <編章節>Part 1 General Provisions</編章節>
   <條文>
@@ -240,7 +242,6 @@ In the above-mentioned places where automatic sprinkler system shall be equipped
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[Water fog, foam, dry powder, or carbon dioxide fire extinguishing equipment shall be selectively installed in the places as shown in the table below. Where the area of openings (usually opened) on outer wall accounts for over 15% of that very floor area, the foresaid fire extinguishing equipments shall employ movable mounting.
-
 ┌──┬───────────┬───┬──┬────┬───┐
 │Item│Place                 │Water │Foam│Carbon  │Dry   │
 │    │                      │fog   │    │dioxide │powder│
@@ -319,7 +320,6 @@ In the above-mentioned places where automatic sprinkler system shall be equipped
 │   central control room at where uncertain or certain       │
 │   persons stay at during a normal day.                     │
 └──────────────────────────────┘
-
 Restaurant where the floor area is more than 300 m2, oil smoke-discharging pipe and fume hood of its kitchen should equip with simple automatic fire extinguishing equipments.  However for those kitchens equip with fire extinguishing equipments as regulated by above Item may choose not to equip with simple automatic fire extinguishing equipments.
 ]]></條文內容>
   </條文>
@@ -618,38 +618,37 @@ Provisions of 37.2(1)~(3) and 37.2(5) shall apply to the above-mentioned pressur
   <條文>
     <條號>Article 46</條號>
     <條文內容><![CDATA[Nozzle shall be equipped pursuant to the following provisions:
-1.On stages and in property rooms of theater, ballroom, nightclub, singing room, conference hall and other show places, as well as projection room of cinema and warehouse of flammable materials, the horizontal distance from any point to the nozzle shall be less than 1.7m.
-2.Buildings not included in the previous clause should be equipped pursuant to the following provisions:
-(1)Standard sprinkler head (type II sensitivity): the horizontal distance from any point on each floor to the sprinkler head shall be less than 2.1m. But in fireproof buildings, the figure could be increased to 2.3m.
-(2)Fast response sprinkler head (type II sensitivity): the horizontal distance from any point on each floor to the sprinkler head shall be less than 2.3m. But in fireproof buildings, the figure could be increased to 2.6m. For effective sprinkling radius from sprinkler head as certified by central regulating authority, the horizontal distance from any point on each floor to the sprinkler head may exceed 2.6m.
-3.The living rooms, wards and other similar places listed in Article 12.1 (3), 12.1 (6), 12.2(7) and 12.5(1) shall be equipped with sprinkler heads dedicated to small partition approved (only the type I sensitivity can be applied). And the horizontal distance from any point to the nozzle shall be less than 2.6m and the protecting area of any nozzle shall be less than 13m2.
-4.The living room listed in the previous clause, its corridors, aisles and other similar places shall be equipped with sidewall sprinkler head (only the type I sensitivity can be applied). The horizontal distance between the both sides of wall surface and the nozzle shall be less than 1.8m and distance between the front of wall and the nozzle less than 3.6m.
-5.Places approved by the central regulating authority to store a large amount of flammable materials shall be equipped with water spray nozzles if the height of its ceiling is over 6m and other places also be equipped with this kind of nozzle if the height of the ceiling is over 10m.
-6.In underground buildings, if the height from ceiling to floor is 50cm or more, both the ceiling and the floor shall be equipped with nozzles, and the horizontal distance from any point to the nozzle shall be less than 2.1m. However, it is allowable that ceiling decorated with inflammable materials is not equipped with nozzles.
+On stages and in property rooms of theater, ballroom, nightclub, singing room, conference hall and other show places, as well as projection room of cinema and warehouse of flammable materials, the horizontal distance from any point to the nozzle shall be less than 1.7m.
+Buildings not included in the previous clause should be equipped pursuant to the following provisions:
+Standard sprinkler head (type II sensitivity): the horizontal distance from any point on each floor to the sprinkler head shall be less than 2.1m. But in fireproof buildings, the figure could be increased to 2.3m.
+Fast response sprinkler head (type II sensitivity): the horizontal distance from any point on each floor to the sprinkler head shall be less than 2.3m. But in fireproof buildings, the figure could be increased to 2.6m. For effective sprinkling radius from sprinkler head as certified by central regulating authority, the horizontal distance from any point on each floor to the sprinkler head may exceed 2.6m.
+The living rooms, wards and other similar places listed in Article 12.1 (3), 12.1 (6), 12.2(7) and 12.5(1) shall be equipped with sprinkler heads dedicated to small partition approved (only the type I sensitivity can be applied). And the horizontal distance from any point to the nozzle shall be less than 2.6m, the minimum distance between sprinklers shall be 3m, and the protecting area of any nozzle shall be less than 13m2.
+The living room listed in the previous clause, its corridors, aisles and other similar places shall be equipped with sidewall sprinkler head (only the type I sensitivity can be applied). The horizontal distance between the both sides of wall surface and the nozzle shall be less than 1.8m and distance between the front of wall and the nozzle less than 3.6m.
+Places approved by the central regulating authority to store a large amount of flammable materials shall be equipped with water spray nozzles if the height of its ceiling is over 6m and other places also be equipped with this kind of nozzle if the height of the ceiling is over 10m.
+In underground buildings, if the height from ceiling to floor is 50cm or more, both the ceiling and the floor shall be equipped with nozzles, and the horizontal distance from any point to the nozzle shall be less than 2.1m. However, it is allowable that ceiling decorated with inflammable materials is not equipped with nozzles.
 The water nozzle of overhead warehouse mentioned in Article 17.1(6) shall be installed pursuant to the following provisions:
-1.The nozzles installed on shelves should comply with the following requirements:
-(1)The horizontal distance from any point to the sprinkler head shall be less than 2.5m and the nozzles should be installed staggerly.
-(2)One sprinkler head shall be at least provided to the places which store cotton, plastic, wooden and paper products, fiber goods and other flammable materials for every 4m heigh, and one at least installed for every 6m heigh if the places store other materials.
-(3)If the materials stored block the spraying from sprinklers, another sprinkler head shall be installed to the below such materials.
-(4)Heat-absorbing plates shall be installed in accordance with Article 47.2. But if the sprinkler heads dedicated to racks approved by the central regulating authority has been installed, heat-absorbing plates isn’t required.
-2.If the sprinkler heads are located in the ceiling or floor, except mentioned in the previous clause, the horizontal distance from any point of the ceiling or floor to a sprinkler head shall be less than 2.1m.
+The nozzles installed on shelves should comply with the following requirements:
+The horizontal distance from any point to the sprinkler head shall be less than 2.5m and the nozzles should be installed staggerly.
+One sprinkler head shall be at least provided to the places which store cotton, plastic, wooden and paper products, fiber goods and other flammable materials for every 4m heigh, and one at least installed for every 6m heigh if the places store other materials.
+If the materials stored block the spraying from sprinklers, another sprinkler head shall be installed to the below such materials.
+Protection plates shall be installed in accordance with Article 47.2. But if the sprinkler heads dedicated to racks approved by the central regulating authority has been installed, protection plates isn’t required.
+If the sprinkler heads are located in the ceiling or floor, except mentioned in the previous clause, the horizontal distance from any point of the ceiling or floor to a sprinkler head shall be less than 2.1m.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 47</條號>
     <條文內容><![CDATA[Nozzle shall be located pursuant to the following provisions:
-1.Axle center of the nozzle shall be vertical to mounting surface.
-2.The space within 45cm under the deflector of nozzle and within horizontally 30cm shall be kept vacant.
-3.Where deflector of enclosed nozzle is installed under the ceiling, the distance between the two shall be less than 30cm.
-4.Where deflector of enclosed nozzle is installed under the beam, the distance between the deflector and the beam bottom shall be less than 10cm, and the distance between the deflector and the floorslabs or ceiling less than 50cm.
-5.Where the mounting surface of enclosed nozzle is divided and surrounded by beam with a net height of 40cm or more or other similar constructions, each division shall be equipped with nozzle unless the interval between the beams or similar constructions is less than 180cm.
-6.Where enclosed nozzle is used and the height of air pipe or other obstacles exceeds 120cm, nozzle shall also be equipped under the air pipe or other obstacles.
-7.Sidewall sprinkler heads shall comply with the following requirements:
+Axle center of the nozzle shall be vertical to mounting surface.
+The space within 45cm under the deflector of nozzle and within horizontally 30cm shall be kept vacant.
+Where deflector of enclosed nozzle is installed under the ceiling, the distance between the two shall be less than 30cm.
+Where deflector of enclosed nozzle is installed under the beam, the distance between the deflector and the beam bottom shall be less than 10cm, and the distance between the deflector and the floorslabs or ceiling less than 50cm.
+Where the mounting surface of enclosed nozzle is divided and surrounded by beam with a net height of 40cm or more or other similar constructions, each division shall be equipped with nozzle unless the interval between the beams or similar constructions is less than 180cm.
+Where enclosed nozzle is used and the height of air pipe or other obstacles exceeds 120cm, nozzle shall also be equipped under the air pipe or other obstacles.
+Sidewall sprinkler heads shall comply with the following requirements:
 The distance between the nozzle and mounting surface (wall) shall be less than 15m.
 The distance between the deflector and ceiling or floor shall be less than 15m.
 The space within 45m under the deflector or horizontally shall be kept vacant.
-8.Where there is a beam aside, the enclosed nozzle shall be equipped pursuant to the table below:
-
+Where there is a beam aside, the enclosed nozzle shall be equipped pursuant to the table below:
 ┌──────────────┬──┬───┬────┬───┐
 │Net distance between nozzle │≦74│75~99 │100~149 │≧150 │
 │and beam side (cm)          │    │      │        │      │
@@ -657,16 +656,14 @@ The space within 45m under the deflector or horizontally shall be kept vacant.
 │Height of deflector above   │ 0  │ ≦9  │  ≦14  │ ≦29 │
 │beam underside (cm)         │    │      │        │      │
 └──────────────┴──┴───┴────┴───┘
-
-Where the distance between the deflector of the nozzle mentioned in the above 47.7 and the ceiling or floorslabs is more than 30cm, an absorber plate shall be equipped pursuant to the following provisions:
-1.The absorber plate shall be made of metal materials, and the diameter shall be not less than 30cm.
-2.The distance between deflector and absorber plate shall be not more than 30cm.
+Where the distance between the deflector of the nozzle mentioned in the above 47.7 and the ceiling or floorslabs is more than 30cm, an protection plate shall be equipped pursuant to the following provisions:
+The protection plate shall be made of metal materials, and the diameter shall be not less than 30cm.
+The distance between deflector and protection plate shall be not more than 30cm.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 48</條號>
     <條文內容><![CDATA[Enclosed-type nozzle of certain rated temperature shall be selected according to the maximum ambient temperature of the mounting position and following the table below:
-
 ┌──────────────┬─────────┐
 │Maximum ambient temperature │Rated temperature │
 ├──────────────┼─────────┤
@@ -678,7 +675,6 @@ Where the distance between the deflector of the nozzle mentioned in the above 47
 ├──────────────┼─────────┤
 │            ≧106℃         │      ≧162℃     │
 └──────────────┴─────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -770,7 +766,6 @@ The water output of the open type nozzle shall be more than 5L/min for every 1m2
     <條號>Article 57</條號>
     <條文內容><![CDATA[The water source capacity of the automatic sprinkler system shall conform to the following:
 1.Where a standard-response or quick-response closed type sprinkler is used, water source shall be capable of providing a steady supply of water for 20 uninterrupted minutes to prescribed sprinkler quantity shown in the table below. However, where the number of sprinkler used in a particular fire scene is less than the prescribed number of sprinkler, water source capacity shall be calculated pursuant to the actual number of sprinkler to be used.
-
 ┌───────────────────┬──────────┐
 │Location                              │Sprinkler Quantity  │
 │                                      ├────┬─────┤
@@ -802,7 +797,6 @@ The water output of the open type nozzle shall be more than 5L/min for every 1m2
 │            │Storage facilities for  │16      │20        │
 │            │other materials         │        │          │
 └──────┴────────────┴────┴─────┘
-
 2.Where an open sprinkler is used, the following provisions shall be observed:
 (1) In the matter of stage structures in places prescribed in Article 12 Subparagraph 1, Item (1) and assembly hall listed in Item (2) located inside buildings rising under 10 floor levels (inclusive) high, the capacity shall exceed an uninterrupted 20-minute water supply for all the sprinklers in the largest discharge area.
 (2) In the matter of stage structures found in locations stated in Article 12 Subparagraph 1, Item (1) and assembly hall listed in Item (2) located inside buildings rising at least 11 floor levels high, the capacity shall exceed an uninterrupted 20-minute water supply for all the sprinklers in the largest building floor area.
@@ -894,7 +888,6 @@ Where fire pump is used as pressurization and driving device, water output and d
   <條文>
     <條號>Article 66</條號>
     <條文內容><![CDATA[The distance of water fog nozzle and matching pipe from high-voltage electric equipments shall comply with the table below:
-
 ┌──────────┬──┬──┬──┬──┬───┬───┬
 │Voltage (KV)        │≦7 │≦10│≦20│≦30│≦60  │≦70  │
 ├─────┬────┼──┼──┼──┼──┼───┼───┼
@@ -909,7 +902,6 @@ Where fire pump is used as pressurization and driving device, water output and d
 ───┼───┼───┼───┤
 1,100 │1,500 │2,100 │2,600 │
 ───┴───┴───┴───┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -938,7 +930,6 @@ Where fire pump is used as pressurization and driving device, water output and d
   <條文>
     <條號>Article 70</條號>
     <條文內容><![CDATA[Proper foam outlet shall be selected for fixed foam fire extinguishing equipments according to the actual expansion ratio of foam and the table below:
-
 ┌──────────┬────────────────┐
 │Expansion ratio     │Type of foam outlet             │
 ├──────────┼────────────────┤
@@ -947,7 +938,6 @@ Where fire pump is used as pressurization and driving device, water output and d
 │80≦R≦1,000        │High frothing outlet            │
 │(High frothing)     │                                │
 └──────────┴────────────────┘
-
 The above-mentioned expansion ratio refers to the ratio of the frothed cubage of foam to the cubage of foam-water solution required by frothing.
 ]]></條文內容>
   </條文>
@@ -978,7 +968,6 @@ Aqueous film foam solution≧3.7
     <條文內容><![CDATA[High frothing outlet shall be equipped pursuant to the following provisions:
 1.Where total flooding is used, the following shall be observed, and the opening of the protected area shall be automatically closed before foam water solution is sprayed. However, it is allowable that automatic closing device is not equipped where the leakage at the opening can be made up effectively.
 (1)Output value of foam water solution for high frothing outlet shall be calculated following the table below:
-
 ┌─────┬─────────┬──────────────┐
 │Protected │Type of expansion │Output value of foam water  │
 │object    │ratio             │solution for every cube/min │
@@ -1012,7 +1001,6 @@ Aqueous film foam solution≧3.7
 │ Article  ├─────────┼──────────────┤
 │ 18.8     │Type III          │            0.18            │
 └─────┴─────────┴──────────────┘
-
 (2)The above-mentioned cubage covered by foam refers to that cubage surrounded from the floor of the protected object to 0.05m above the highest point of the protected object.
 (3)Where high frothing outlets are located in the protected area, at least one outlet that is able to spray this area shall be equipped for every 500m2 of the floor area, and a stopping device shall be attached to the outlet.
 (4)The location of high frothing outlet shall be higher than the highest point of the protected object.
@@ -1041,7 +1029,6 @@ Aqueous film foam solution≧3.7
 1.Where foam nozzle is used, the minimum output value calculated under Article 72 shall be able to ensure spraying continuously in the largest foam spraying area for more than 20 minutes.
 2.Where high frothing outlet is used, the output value shall comply with the following:
 (1)Where total flooding is employed, foam water solution of the protected area of the maximum floorslabs shall be calculated following the table below and if the protected area hasn’t be equipped with lock device, the solution shall be added by the volume of the leakage foam:
-
 ┌────────────┬─────────────────┐
 │Type of expansion ratio │Value of foam water solution for  │
 │                        │every cube of the cubage covered  │
@@ -1053,7 +1040,6 @@ Aqueous film foam solution≧3.7
 ├────────────┼─────────────────┤
 │Type III                │              0.008               │
 └────────────┴─────────────────┘
-
 (2)Where local application is used, the minimum output value calculated under Article 73 shall be able to ensure spraying continuously in the largest foam spraying area for over 20 minutes.
 3.The capacity of water source for moveable foam fire extinguishing equipments shall be more than the output value of two foam sprinklers simultaneously discharging for 15 consecutive minutes.
 The solution calculated under the previous Article 76.2(1) and (2) shall be added by the foam amount to fill the pipe and 20% of total foam water solution.
@@ -1117,7 +1103,6 @@ For the same builiding, if low expansion foam concentration is used and each flo
     <條號>Article 83</條號>
     <條文內容><![CDATA[Carbon dioxide fire extinguishing equipments shall be equipped pursuant to the following provisions:
 1.Necessary quantity of fire extinguishing medium for total flooding shall be calculated following the table below:
-
 ┌──────┬───────┬───────────────┐
 │ Place      │Telecommunica-│            Others            │
 │            │tion machine  ├───┬───┬───┬───┤
@@ -1149,7 +1134,6 @@ For the same builiding, if low expansion foam concentration is used and each flo
 │extinguish- │              │      │      │      │      │
 │ing medium  │              │      │      │      │      │
 └──────┴───────┴───┴───┴───┴───┘
-
 2.Quantity of fire extinguishing medium for local application shall meet the following requirements:
 (1)Where flammable solid or flammable liquid is stored in containers with upper openings and flame is limited to one side and the flammable substance is unlikely to fly out of the container in case of fire, the required quantity of fire extinguishing medium shall be 13kg every square meter of the surface area of the protected subject. When the side length of the protected object is less than 0.6m, 0.6m shall be used for calculating the surface area. The multiple for additional quantity shall be 1.4 for high-pressure type and 1.1 for low-pressure type.
 (2)As for protected objects other than described in the former subclause, the required quantity shall be equal to the quantity for unit cubage calculated using the formula below multiplied by the cubage of the protected space (refers to the space 0.6m from any point of the protected object, also named imagined protected space).
@@ -1165,14 +1149,12 @@ Where, Q is the quantity of fire extinguishing medium for unit cubage of the pro
 1.Nozzles set for total flooding shall be able to make the sprayed medium quickly and evenly distributed into the whole protected area.
 2.Spraying pressure of carbon dioxide nozzles shall be more than 14kgf/cm2 or 1.4Mpa where the fire-extinguishing medium is stored at normal temperature, and more than 9kfg/cm2 or 0.9Mpa where the medium is stored at less than 18℃.
 3.Where total flooding is used, the quantity of fire extinguishing medium calculated pursuant to 83.1 shall be sprayed out in specified times following the table below:
-
 ┌──────┬──────────────────┬────┐
 │Place       │Telecom machine room, telephone     │ Others │
 │            │exchanger room                      │        │
 ├──────┼──────────────────┼────┤
 │Time (min)  │                 3.5                │   1    │
 └──────┴──────────────────┴────┘
-
 4.The effective range of nozzles for local application shall cover all surfaces of the protected objects, and the locations shall ensure the flammable substance will not fly outside due to the spraying of the extinguishing medium.
 5.The quantity of fire extinguishing medium for local application calculated under Article 83.2 shall be sprayed out in 30 seconds.
 ]]></條文內容>
@@ -1313,7 +1295,6 @@ The above-mentioned actuating device shall be equipped with automatic & manual s
     <條號>Article 99</條號>
     <條文內容><![CDATA[Quantity of dry chemicals extinguishing medium shall comply with the following provisions:
 1.Quantity of fire extinguishing medium required by total flooding shall be calculated following the table below:
-
 ┌─────┬─────┬──────┬─────┬─────┐
 │Type of   │Type I    │Type II     │Type III  │Type IV   │
 │dry       │ (major   │ (Major     │ (Major   │ (Major   │
@@ -1341,10 +1322,8 @@ The above-mentioned actuating device shall be equipped with automatic & manual s
 │meter of  │          │            │          │          │
 │opening   │          │            │          │          │
 └─────┴─────┴──────┴─────┴─────┘
-
 2.Quantity of fire extinguishing medium required by local application shall comply with the following provisions:
 (1)Where flammable solid or flammable liquid is stored in containers with upper openings and flame is limited to one side and the flammable substance is unlikely to fly out of the container in case of fire, the required quantity of fire extinguishing medium shall calculated following the table below:
-
 ┌─────────┬─────┬───────┬──────┐
 │Type of fire      │Type I dry│Type II or III│ Type IV dry│
 │extinguishing     │chemicals │dry chemicals │ chemicals  │
@@ -1362,12 +1341,10 @@ The above-mentioned actuating device shall be equipped with automatic & manual s
 │                  │less than 0.6m, 0.6m shall be used as   │
 │                  │side length for area calculation.       │
 └─────────┴────────────────────┘
-
 (2)As for places other than described in the former subclause, the required quantity of fire extinguishing medium shall be the quantity for unit protected space calculated following the formula below multiplied by the cubage of the protected space (refers to the space 0.6m from any point of the protected object, also named imaginary protected space). However, if used in telecom machine room, the quantity shall be multiplied by 0.7.
 Q=X–Yxa/A
 Where, Q is the quantity of fire extinguishing medium for unit cubage of the protected space (kg/m3), the multiple for additional quantity shall comply with the former subclause; a is the total area of the actual walls around the protected object (m2), and A is the total area of the imagined walls around the protected space (imaged protected space) (m2).
 Values of X and Y shall comply with the table below:
-
 ┌─────────┬─────┬───────┬──────┐
 │Type of fire exti-│Type I dry│Type II or III│Type IV dry │
 │nguishing medium  │chemicals │dry chemicals │chemicals   │
@@ -1376,9 +1353,7 @@ Values of X and Y shall comply with the table below:
 ├─────────┼─────┼───────┼──────┤
 │        Y         │   3.9    │    2.4       │    1.5     │
 └─────────┴─────┴───────┴──────┘
-
 3.Where moveable application is used, the quantity of fire extinguishing medium required by each spraying aimer shall be not less than the corresponding value in the table below:
-
 ┌─────────┬─────┬───────┬──────┐
 │Type of fire exti-│Type I dry│Type II or III│Type IV dry │
 │nguishing medium  │chemicals │dry chemicals │chemicals   │
@@ -1387,7 +1362,6 @@ Values of X and Y shall comply with the table below:
 │extinguishing     │          │              │            │
 │medium (kg)       │          │              │            │
 └─────────┴─────┴───────┴──────┘
-
 4.Where total flooding or local application is used and there are two or more protected areas or objects inside a same building, the quantity of the largest area shall be regarded as the required quantity.
 ]]></條文內容>
   </條文>
@@ -1409,7 +1383,6 @@ Values of X and Y shall comply with the table below:
     <條號>Article 102</條號>
     <條文內容><![CDATA[Storage container of fire extinguishing medium shall be equipped pursuant to the following provisions:
 1.Filling ratio shall comply with the table below:
-
 ┌─────────┬─────┬───────┬──────┐
 │Type of fire exti-│Type I dry│Type II or III│Type IV dry │
 │nguishing medium  │chemicals │dry chemicals │chemicals   │
@@ -1417,7 +1390,6 @@ Values of X and Y shall comply with the table below:
 │Filling ratio (R) │0.85≦R   │1.05≦R≦1.75 │1.5≦R≦2.5 │
 │                  │≦1.45    │              │            │
 └─────────┴─────┴───────┴──────┘
-
 2.Storage containers shall be placed pursuant to the following provisions:
 (1)Outside the protected area
 (2)In places where the temperature is lower than 40℃ and seldom varies.
@@ -1499,7 +1471,6 @@ Values of X and Y shall comply with the table below:
 3.Red indicating lamp shall be equipped and “Moveable Dry Chemicals Fire Extinguishing Equipments” shall be marked nearby each storage container.
 4.The equipments shall be placed where it is inaccessible for fume in case of fire.
 5.The quantity of fire extinguishing medium sprayed by each aimer shall comply with the table below:
-
 ┌─────────┬─────┬───────┬──────┐
 │Type of fire exti-│Type I dry│Type II or III│Type IV dry │
 │nguishing medium  │chemicals │dry chemicals │chemicals   │
@@ -1508,7 +1479,6 @@ Values of X and Y shall comply with the table below:
 │every minute      │          │              │            │
 │(kg/min)          │          │              │            │
 └─────────┴─────┴───────┴──────┘
-
 6.Leather pipe, nozzle and pipe carrier of moveable carbon dioxide fire extinguishing equipments shall comply with National Standard No.11177.
 ]]></條文內容>
   </條文>
@@ -1544,7 +1514,6 @@ Alarming length prescribed in Item (2) of above 5 meters within connecting point
   <條文>
     <條號>Article 114</條號>
     <條文內容><![CDATA[Proper detector shall be selected from the table below according to the height of the mounting position. If the height of the ceiling is different from that of the roof slab in a same room, the mean value shall be used for 
-
 ┌─────┬─────┬──────┬─────┬─────┐
 │Height of │    <4m   │  4m≦H<8m  │8m≦H<15m │15m≦H<20 │
 │mounting  │          │            │          │          │
@@ -1573,7 +1542,6 @@ Alarming length prescribed in Item (2) of above 5 meters within connecting point
 │          │or flame  │separated,or│          │          │
 │          │type      │flame type  │          │          │
 └─────┴─────┴──────┴─────┴─────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -1617,7 +1585,6 @@ Fame type detector may not be installed in the following places:
 4.Other places where the detector can’t work normally.
 9.There is lots of residual steam.
 Proper detector shall be selected from the table below for the places listed in the above two clauses.
-
 ┌─────────────┬────┬───┬───┬───┬
 │Place                     │   1    │  2   │  3   │  4   │
 │                          ├────┼───┼───┼───┼
@@ -1706,13 +1673,11 @@ ture    │waste │flow  │      │
                                 │
                                 │
 ────────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 118</條號>
     <條文內容><![CDATA[Detectors of smoke detecting type, smoke & heat compound type or flame type may be selected for the places listed in the table below:
-
 ┌─────┬────┬─────┬────┬─────┬
 │Places    │Stairway│Aisle or  │Elevator│Places    │
 │          │or      │passage   │hoistway│where     │
@@ -1773,7 +1738,6 @@ than 20m  │storeys,    │
                         │
                         │
 ────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -1786,7 +1750,6 @@ than 20m  │storeys,    │
     <條文內容><![CDATA[Differential topical, compensated topical and fixed temperature type detectors shall be equipped according the following provisions:
 1.The lower end of detector shall be located within 30cm under the mounting surface.
 2.At least one detector of the proper type shall be equipped in every effective detecting area following the table below:
-
 ┌─────────────────┬────────────
 │Height of mounting surface (H)    │                <4m
 ├─────────────────┼───────────┬
@@ -1831,7 +1794,6 @@ buildings │buildings with fireproof│buildings │
 ─────┼────────────┼─────┤
     15    │            --          │    --    │
 ─────┴────────────┴─────┘
-
 3.Detectors with fixed temperature functions shall be installed in places where the maximum ambient temperature at other times is 20℃ ore more lower than the nominal fixed temperature point of compensated topical detectors or than the nominal operating temperature of other detectors with fixed temperature functions. If a detector has two or more nominal operating temperatures, it shall be installed in places where the maximum ambient temperature at other times is 20℃ or more lower than the lowest nominal operating temperature.
 ]]></條文內容>
   </條文>
@@ -1846,7 +1808,6 @@ buildings │buildings with fireproof│buildings │
 2.Where thermocouple differential distributed detectors are used, the following provisions shall be observed:
 (1)Thermocouple shall be installed within 30cm under the mounting surface.
 (2)The number of detectors required by each detecting area shall comply with the table below:
-
 ┌──────┬──────┬────────────────┐
 │Construction│Floor area  │Number of required detectors    │
 │of buildings│of detecting│                                │
@@ -1865,12 +1826,10 @@ buildings │buildings with fireproof│buildings │
 │            │            │itional 18m2 (including less    │
 │            │            │than 18m2)                      │
 └──────┴──────┴────────────────┘
-
 (3)Up to 20 thermocouples may be mounted to a same detector.
 3.Where thermal semiconductor differential distributed detectors are used, the following provisions shall be observed:
 (1)The lower end of detector shall be located within 30cm under the mounting surface.
 (2)At least two detectors of the proper type shall be equipped in every effective detecting area following the table below:
-
 ┌──────┬──────┬────────────────┐
 │Height of   │Construction│Type of detector and effective  │
 │mounting    │of buildings│detecting area (m2)             │
@@ -1895,7 +1854,6 @@ buildings │buildings with fireproof│buildings │
 │            │Other       │      30      │       --       │
 │            │buildings   │              │                │
 └──────┴──────┴───────┴────────┘
-
 (3)The number of the heat sensors connected a same detector shall be not less than 2 and not more than 15.
 The above-mentioned detector shall be installed in places convenient for inspection and repair, and the mounting surface may not incline more than 5°.
 Fixed temperature detectors shall comply with the following provisions:
@@ -1910,7 +1868,6 @@ Fixed temperature detectors shall comply with the following provisions:
 2.The lower end of detector shall be within 60cm under the mounting surface.
 3.Detectors shall be mounted 60cm or more away from the wall or beams.
 4.At least one detector of the proper type shall be installed in every effective detecting area pursuant to the table below with exception of aisle, passage, stairway and ramped road surface:
-
 ┌──────────┬───────────────────┐
 │Height of mounting  │Type of detector and effective        │
 │surface (H)         │detecting area (m2)                   │
@@ -1921,7 +1878,6 @@ Fixed temperature detectors shall comply with the following provisions:
 ├──────────┼──────────┼────────┤
 │      4m≦H<20m     │        75          │      --        │
 └──────────┴──────────┴────────┘
-
 5.In aisles and passages, at least one detector shall be installed every 30m of waking distance; if Type III detector is used, at least one shall be installed for every 20m of travel distance, and one for every internal of less than 10m if the distance to the final wall is less tan 15m. But it is allowable that no detector is equipped where the travel distance from aisle or passage to stairway is less than 10m, and the stairway is equipped with fireproof door opened at other times, or the living rooms have gateways toward the opening.
 6.In stairway, ramped aisle and escalator, at least one detector shall be equipped for every 15m of vertical distance; where Type III detectors are used, at one shall be equipped for every 10m of vertical distance.
 7.In elevator hoistway and piping room (the sectional area of the pipe is not less than 1m2), detectors shall be installed on the top. However, where the machine room of elevator hoistway is on the top and the hoistway and machine room have openings, detectors shall be installed in the machine room, not on the top of the elevating way.
@@ -2023,7 +1979,6 @@ It is allowable that the above-mentioned fire alarm ring is not installed where 
     <條號>Article 133</條號>
     <條文內容><![CDATA[Emergency broadcasting equipments shall be installed pursuant to the following provisions:
 1.The volume measured at the position 1m away from the speaker shall comply with the table below:
-
 ┌────────┬────────┐
 │Type of speaker │  Volume (V)    │
 ├────────┼────────┤
@@ -2033,7 +1988,6 @@ It is allowable that the above-mentioned fire alarm ring is not installed where 
 ├────────┼────────┤
 │Grade S         │  84db≦V<87db  │
 └────────┴────────┘
-
 2.Speaker shall be installed pursuant to the following provisions:
 (1)Grade L speaker shall be used where the broadcasting area is larger than 100m2.
 (2)Grade L or Grade M speaker shall be used where the broadcasting area is larger than 50m2 but smaller than 100m2.
@@ -2175,7 +2129,6 @@ The above-mentioned gas refers to the following gas fuels:
 (3)Installation of indicating signs could be exempted when the travel distance is within 30 meters (inclusive).
 2.Living rooms that conform to the following:
 (1)The exit of the living room is easily recognizable from any point of the room, and the room floor area based on use and occupancy, is as follows:
-
 ┌─────┬────────┬────────┬──────┐
 │Type of   │Article 12.1(1) │Article 12.1(4),│Article 12.1│
 │Use and   │~ (3)           │(5), and (7),   │.(6), 12.2.(│
@@ -2189,7 +2142,6 @@ The above-mentioned gas refers to the following gas fuels:
 │rooms     │e)              │e)              │s (inclusive│
 │          │                │                │)           │
 └─────┴────────┴────────┴──────┘
-
 (2)Living rooms in collective residential building.
 3.Hall way and passages exits, leading to the main exit, and being equipped with detector-linked automatic closing fire door ,and with indicating signs in addition to emergency lighting equipment, to ensure the visibility of the signs, could be exempted from installation of exit indicating lamps.
 4.Stairways and slopes, if being equipped with emergency lighting equipment and floor signs for indicating refuge direction, could be exempted from installation of direction indicating lamps.
@@ -2199,7 +2151,6 @@ Main exits specified in the preceding paragraph, subparagraph 1 and 3, in the re
   <條文>
     <條號>Article 146-1</條號>
     <條文內容><![CDATA[Exit indicating lamps and direction indicating lamps that are not installed in stairways and slopes are classified according to the vertical dimension and luminous intensity of the lamp face as follows:
-
 ┌────────────┬────────┬────────┐
 │      Classification    │Vertical        │ Luminous       │
 │                        │dimension of the│ intensity of   │
@@ -2224,14 +2175,12 @@ Main exits specified in the preceding paragraph, subparagraph 1 and 3, in the re
 │            │Class C   │0.1~0.2         │ Over 5         │
 │            │          │(not inclusive) │ (inclusive)    │
 └──────┴─────┴────────┴────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 146-2</條號>
     <條文內容><![CDATA[The effective range of exit indicating lamps and direction indicating lamps is the travel distance toward the lamps that is within the range specified by one of the following subparagraphs. The effective range is 10 meters if the indicating lamps are not easily recognizable.
 1.As specified in the following table:
-
 ┌─────────────────────────┬────┐
 │Classification                                    │Travel  │
 │                                                  │distance│
@@ -2255,13 +2204,11 @@ Main exits specified in the preceding paragraph, subparagraph 1 and 3, in the re
 │            ├──────────────────┼────┤
 │            │Class C                             │  10    │
 └──────┴──────────────────┴────┘
-
 2. As calculated by the following formula:
 D=kh,
 D: travel distance (meter)
 H: the vertical dimension of exit indicating lamp or direction indicating lamp (meter)
 2.K: K value corresponds to the classification of the left column
-
 ┌─────────────────────────┬────┐
 │Classification                                    │K value │
 ├─────────┬───────────────┼────┤
@@ -2271,7 +2218,6 @@ H: the vertical dimension of exit indicating lamp or direction indicating lamp (
 ├─────────┴───────────────┼────┤
 │Direction indicating lamps                        │   50   │
 └─────────────────────────┴────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -2392,7 +2338,6 @@ The major evacuation routes provided in the preceding paragraph are as follows:
   <條文>
     <條號>Article 157</條號>
     <條文內容><![CDATA[Refuge appliances shall be selected following the table below:
-
 ┌───────────────┬──────┬─────┬
 │Quantity of refuge appliances │Underground │The second│
 │                              │storeys     │storey    │
@@ -2623,7 +2568,6 @@ above       │above     │
                         │
                         │
 ────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -2656,7 +2600,6 @@ above       │above     │
   <條文>
     <條號>Article 160</條號>
     <條文內容><![CDATA[The number of accommodated people referred to in Article 157 shall be calculated following the table below:
-
 ┌─┬────────┬───────────────────┐
 │  │Places          │Calculation of the number of the      │
 │  │                │accommodated people                   │
@@ -2885,7 +2828,6 @@ above       │above     │
 │b) Seats connected together                                 │
 │Seats that are placed in one place and cannot be moved.     │
 └──────────────────────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -2901,7 +2843,6 @@ above       │above     │
   <條文>
     <條號>Article 162</條號>
     <條文內容><![CDATA[Necessary opening area shall be reserved for refuge appliances following the table below:
-
 ┌──────────────┬───────────────┐
 │Type                        │Opening area                  │
 ├──────────────┼───────────────┤
@@ -2919,7 +2860,6 @@ above       │above     │
 │                            │maximum width of the refuge   │
 │                            │bridge                        │
 └──────────────┴───────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -2940,7 +2880,6 @@ above       │above     │
   <條文>
     <條號>Article 166</條號>
     <條文內容><![CDATA[When configuring refuge appliances, mounting positions and operation guide shall be marked and indicators equipped following the table below:
-
 ┌─────┬─────────┬────┬───┬─────┐
 │Type of   │Installation Place│Size    │Color │Indicating│
 │refuge    │                  │        │      │method    │
@@ -2983,7 +2922,6 @@ above       │above     │
 │          │                  │        │      │character │
 │          │                  │        │      │≧5cm2    │
 └─────┴─────────┴────┴───┴─────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -3055,7 +2993,6 @@ above       │above     │
     <條文內容><![CDATA[Where screw bolts are used to fix the fixed mount or supporting device, the following provisions shall be observed:
 1.Anchor bolts shall be used.
 2.The depth and torque of the proportion of screw bolt embedded in the reinforced concrete (the mortar layer excluded) shall comply with the table below:
-
 ┌────────┬────────────┬────────┐
 │Nominal size of │Depth of embedment (mm) │Torque (kgf-cm) │
 │screw           │                        │                │
@@ -3066,7 +3003,6 @@ above       │above     │
 ├────────┼────────────┼────────┤
 │M16ｘ2          │≧70                    │600~850         │
 └────────┴────────────┴────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -3178,7 +3114,6 @@ The above-mentioned effective quantity of water refers to the amount when the de
     <條號>Article 186</條號>
     <條文內容><![CDATA[Where the dedicated firefighting water reservoir is equipped with a mechanical priming device, in addition to the requirements set forth in the Article 185 Subparagraph 1 Item 1 and the latter section of Item 2, the horizontal distance between any water supply connection and every section of the building structure shall be within 100 meters. The fire pump and the Water supply connection shall conform to the following:
 1.Fire pump capacity and quantity of Water supply connection shall conform to the following table:
-
 ┌────────┬──────┬───────┬──────┐
 │Water Volume    │Under 40 m3 │Between 40 m3 │Over 120 m3 │
 │(m3)            │            │and 120 m3    │            │
@@ -3190,7 +3125,6 @@ The above-mentioned effective quantity of water refers to the amount when the de
 │connection      │            │              │            │
 │quantity (pc.)  │            │              │            │
 └────────┴──────┴───────┴──────┘
-
 2.The total head of the fire pump shall not fall below that obtained from the following equation:
 Total head = Drop height + friction loss head of piping +15 meters
 H = h1 + h2 + 15 m
@@ -3397,7 +3331,6 @@ The protective equipments in the manufacturing places of inflammable high-pressu
   <條文>
     <條號>Article 201</條號>
     <條文內容><![CDATA[Type I, II or III fire-suppression equipments shall be configured in the places of obvious difficulty in fire-suppression following the table below:
-
 ┌──────────────┬───────────────┐
 │Category of places          │Fire- suppression  equipment  │
 ├──────────────┼───────────────┤
@@ -3464,7 +3397,6 @@ The protective equipments in the manufacturing places of inflammable high-pressu
 │Indoor gas station          │Foam fixed fire-suppression   │
 │                            │equipment in Type III.        │
 └──────────────┴───────────────┘
-
 Type IV and Type V fire-suppression equipment shall also be configured in the places specified in the preceding paragraph with the following exemptions:
 1. For the manufacturing or common processing places of high flash point materials, if the operation temperature is less than 100℃, installation of Type IV fire-suppression  equipment could be exempted if the place is within the effective range of the Type I, II or III fire-suppression equipment shall be equipped.
 2. More than two sets of Type V fire-suppression equipment shall be equipped in outdoor or indoor storage tank of Category IV public hazardous materials.
@@ -3587,7 +3519,6 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
     <條號>Article 213</條號>
     <條文內容><![CDATA[The fixed foam fire-suppression equipment set for oil tank shall corrsspond to the following subparagraphs :
 1. The configuration of foam outlet shall comply with the prescription
-
 ┌───────┬──────────────────────┐
 │ Architectural│Number of Foam Outlets                      │
 │ structure and├────────┬──────┬──────┤
@@ -3701,9 +3632,7 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
 │  of the foam outlets may be configured similarly as storage│
 │  tank of outer floating top                                │
 └──────────────────────────────┘
-
 2. When storing water-insoluble Category IV public hazardous materials, the effective discharging volume from the foam outlets specified in paragraph 1 is, according to the following “public hazardous materials and types of foam outlet” table, calculated by multiplying the volume of foam solution outlet by the liquid surface of the storage tank and the discharge rate shall comply with the prescription specified on the table.
-
 ┌─────┬──────────┬──────────┬
 │   Type of│Type I              │Type Ⅱ             │
 │   Foam   ├────┬─────┼────┬─────┼
@@ -3840,9 +3769,7 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
                       │
                       │
   ──────────┘
-
 3.When storing non-water insoluble Category IV public hazardous good in the tank, alcohol-resistant foam shall be used and the volume of foam solution and the discharging rate shall comply with the table below:
-
 ┌──────────┬──────────┬─────
 │Type Ⅰ             │Type Ⅱ             │Special
 ├────┬─────┼────┬─────┼────┬
@@ -3881,9 +3808,7 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
                                                         │
                                                         │
   ───────────────────────────┘
-
 4. The values prescribed in paragraph 3 shall be multiplied by a coefficient that varies according to the category of public hazardous materials provided in following the table below. For coefficient of substances that are not specified in the table below, the coefficient shall be calculated with specific methods that are recognized by the central competent authority.
-
 ┌───────────────────────┬──────┐
 │Classes of Category IV Public Hazardous       │            │
 │Materials                                     │coefficient │
@@ -3960,7 +3885,6 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
 │insoluble │                                  │            │
 │substances│                                  │            │
 └─────┴─────────────────┴──────┘
-
 The liquid surface area, if the storage tank prescribed in paragraph 2 possesses a special foam outlet, shall be the surface area of the floating circular portion on the top of the storage tank.
 條號：214
 Installation of foam fixed outlet shall be equipped according to the preceding Article and the installation of supplementary foam hydrants and liquid-feeding orifices shall comply with the following subparagraphs:
@@ -4078,7 +4002,6 @@ The provisions of Article 38 shall apply mutatis mutandis to emergency power sou
     <條號>Article 222</條號>
     <條文內容><![CDATA[The configuration of carbon dioxide fire-suppression equipment shall apply mutais mutandis to the case as referred to in Article 82 through 97. The ingredient dosage of whole area spraying carbon dioxide fire-suppression equipment shall be calculated according to the following subparagraphs:
 1. The required ingredient dosage shall be calculated according to the cubage of the protected area and the quantity of fire-suppression equipment per cubic meter of the protected area stated in the table below. When the calculated value is less than the value stated, the dosage shall be calculated according to the basic minimum quantity.
-
 ┌───────┬──────────┬───────────┐
 │Volume of the │Ingredient dosage of│Basic quantity of     │
 │protected area│fire-suppression per│ingredient dosage in  │
@@ -4098,7 +4021,6 @@ The provisions of Article 38 shall apply mutatis mutandis to emergency power sou
 ├───────┼──────────┼───────────┤
 │V>1500        │0.75                │1200                  │
 └───────┴──────────┴───────────┘
-
 2. Where the opening of the protected area is not equipped with an automatic closing device under the paragraph 1, additional 5 kg per square meter of area of the opening shall be added in addition to the dosage calculated.
 When in the range of protected area or the protection subjects are related with storing or processing public hazardous materials, the dosage calculated under paragraph 1 or 2 shall be multiplied by a coefficient prescribed in the table below. For the public hazardous materials other than prescribed below, the coefficient shall be worked out using the test method recognized by the central competent authority.
 ]]></條文內容>
@@ -4278,7 +4200,6 @@ sprinkling volume may be reduced by a half if the protected object is coated by 
   <條文>
     <條號>Article 114</條號>
     <條文內容><![CDATA[Proper detector shall be selected from the table below according to the height of the mounting position. If the height of the ceiling is different from that of the roof slab in a same room, the mean value shall be used for 
-
 ┌─────┬─────┬──────┬─────┬─────┐
 │Height of │    <4m   │  4m≦H<8m  │8m≦H<15m │15m≦H<20 │
 │mounting  │          │            │          │          │
@@ -4307,7 +4228,6 @@ sprinkling volume may be reduced by a half if the protected object is coated by 
 │          │or flame  │separated,or│          │          │
 │          │type      │flame type  │          │          │
 └─────┴─────┴──────┴─────┴─────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -4351,7 +4271,6 @@ Fame type detector may not be installed in the following places:
 4.Other places where the detector can’t work normally.
 9.There is lots of residual steam.
 Proper detector shall be selected from the table below for the places listed in the above two clauses.
-
 ┌─────────────┬────┬───┬───┬───┬
 │Place                     │   1    │  2   │  3   │  4   │
 │                          ├────┼───┼───┼───┼
@@ -4440,13 +4359,11 @@ ture    │waste │flow  │      │
                                 │
                                 │
 ────────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 118</條號>
     <條文內容><![CDATA[Detectors of smoke detecting type, smoke & heat compound type or flame type may be selected for the places listed in the table below:
-
 ┌─────┬────┬─────┬────┬─────┬
 │Places    │Stairway│Aisle or  │Elevator│Places    │
 │          │or      │passage   │hoistway│where     │
@@ -4507,7 +4424,6 @@ than 20m  │storeys,    │
                         │
                         │
 ────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -4520,7 +4436,6 @@ than 20m  │storeys,    │
     <條文內容><![CDATA[Differential topical, compensated topical and fixed temperature type detectors shall be equipped according the following provisions:
 1.The lower end of detector shall be located within 30cm under the mounting surface.
 2.At least one detector of the proper type shall be equipped in every effective detecting area following the table below:
-
 ┌─────────────────┬────────────
 │Height of mounting surface (H)    │                <4m
 ├─────────────────┼───────────┬
@@ -4565,7 +4480,6 @@ buildings │buildings with fireproof│buildings │
 ─────┼────────────┼─────┤
     15    │            --          │    --    │
 ─────┴────────────┴─────┘
-
 3.Detectors with fixed temperature functions shall be installed in places where the maximum ambient temperature at other times is 20℃ ore more lower than the nominal fixed temperature point of compensated topical detectors or than the nominal operating temperature of other detectors with fixed temperature functions. If a detector has two or more nominal operating temperatures, it shall be installed in places where the maximum ambient temperature at other times is 20℃ or more lower than the lowest nominal operating temperature.
 ]]></條文內容>
   </條文>
@@ -4580,7 +4494,6 @@ buildings │buildings with fireproof│buildings │
 2.Where thermocouple differential distributed detectors are used, the following provisions shall be observed:
 (1)Thermocouple shall be installed within 30cm under the mounting surface.
 (2)The number of detectors required by each detecting area shall comply with the table below:
-
 ┌──────┬──────┬────────────────┐
 │Construction│Floor area  │Number of required detectors    │
 │of buildings│of detecting│                                │
@@ -4599,12 +4512,10 @@ buildings │buildings with fireproof│buildings │
 │            │            │itional 18m2 (including less    │
 │            │            │than 18m2)                      │
 └──────┴──────┴────────────────┘
-
 (3)Up to 20 thermocouples may be mounted to a same detector.
 3.Where thermal semiconductor differential distributed detectors are used, the following provisions shall be observed:
 (1)The lower end of detector shall be located within 30cm under the mounting surface.
 (2)At least two detectors of the proper type shall be equipped in every effective detecting area following the table below:
-
 ┌──────┬──────┬────────────────┐
 │Height of   │Construction│Type of detector and effective  │
 │mounting    │of buildings│detecting area (m2)             │
@@ -4629,7 +4540,6 @@ buildings │buildings with fireproof│buildings │
 │            │Other       │      30      │       --       │
 │            │buildings   │              │                │
 └──────┴──────┴───────┴────────┘
-
 (3)The number of the heat sensors connected a same detector shall be not less than 2 and not more than 15.
 The above-mentioned detector shall be installed in places convenient for inspection and repair, and the mounting surface may not incline more than 5°.
 Fixed temperature detectors shall comply with the following provisions:
@@ -4644,7 +4554,6 @@ Fixed temperature detectors shall comply with the following provisions:
 2.The lower end of detector shall be within 60cm under the mounting surface.
 3.Detectors shall be mounted 60cm or more away from the wall or beams.
 4.At least one detector of the proper type shall be installed in every effective detecting area pursuant to the table below with exception of aisle, passage, stairway and ramped road surface:
-
 ┌──────────┬───────────────────┐
 │Height of mounting  │Type of detector and effective        │
 │surface (H)         │detecting area (m2)                   │
@@ -4655,7 +4564,6 @@ Fixed temperature detectors shall comply with the following provisions:
 ├──────────┼──────────┼────────┤
 │      4m≦H<20m     │        75          │      --        │
 └──────────┴──────────┴────────┘
-
 5.In aisles and passages, at least one detector shall be installed every 30m of waking distance; if Type III detector is used, at least one shall be installed for every 20m of travel distance, and one for every internal of less than 10m if the distance to the final wall is less tan 15m. But it is allowable that no detector is equipped where the travel distance from aisle or passage to stairway is less than 10m, and the stairway is equipped with fireproof door opened at other times, or the living rooms have gateways toward the opening.
 6.In stairway, ramped aisle and escalator, at least one detector shall be equipped for every 15m of vertical distance; where Type III detectors are used, at one shall be equipped for every 10m of vertical distance.
 7.In elevator hoistway and piping room (the sectional area of the pipe is not less than 1m2), detectors shall be installed on the top. However, where the machine room of elevator hoistway is on the top and the hoistway and machine room have openings, detectors shall be installed in the machine room, not on the top of the elevating way.
@@ -4759,7 +4667,6 @@ It is allowable that the above-mentioned fire alarm ring is not installed where 
     <條號>Article 133</條號>
     <條文內容><![CDATA[Emergency broadcasting equipments shall be installed pursuant to the following provisions:
 1.The volume measured at the position 1m away from the speaker shall comply with the table below:
-
 ┌────────┬────────┐
 │Type of speaker │  Volume (V)    │
 ├────────┼────────┤
@@ -4769,7 +4676,6 @@ It is allowable that the above-mentioned fire alarm ring is not installed where 
 ├────────┼────────┤
 │Grade S         │  84db≦V<87db  │
 └────────┴────────┘
-
 2.Speaker shall be installed pursuant to the following provisions:
 (1)Grade L speaker shall be used where the broadcasting area is larger than 100m2.
 (2)Grade L or Grade M speaker shall be used where the broadcasting area is larger than 50m2 but smaller than 100m2.
@@ -4914,7 +4820,6 @@ The above-mentioned gas refers to the following gas fuels:
 (3)Installation of indicating signs could be exempted when the travel distance is within 30 meters (inclusive).
 2.Living rooms that conform to the following:
 (1)The exit of the living room is easily recognizable from any point of the room, and the room floor area based on use and occupancy, is as follows:
-
 ┌─────┬────────┬────────┬──────┐
 │Type of   │Article 12.1(1) │Article 12.1(4),│Article 12.1│
 │Use and   │~ (3)           │(5), and (7),   │.(6), 12.2.(│
@@ -4928,7 +4833,6 @@ The above-mentioned gas refers to the following gas fuels:
 │rooms     │e)              │e)              │s (inclusive│
 │          │                │                │)           │
 └─────┴────────┴────────┴──────┘
-
 (2)Living rooms in collective residential building.
 3.Hall way and passages exits, leading to the main exit, and being equipped with detector-linked automatic closing fire door ,and with indicating signs in addition to emergency lighting equipment, to ensure the visibility of the signs, could be exempted from installation of exit indicating lamps.
 4.Stairways and slopes, if being equipped with emergency lighting equipment and floor signs for indicating refuge direction, could be exempted from installation of direction indicating lamps.
@@ -4938,7 +4842,6 @@ Main exits specified in the preceding paragraph, subparagraph 1 and 3, in the re
   <條文>
     <條號>Article 146-1</條號>
     <條文內容><![CDATA[Exit indicating lamps and direction indicating lamps that are not installed in stairways and slopes are classified according to the vertical dimension and luminous intensity of the lamp face as follows:
-
 ┌────────────┬────────┬────────┐
 │      Classification    │Vertical        │ Luminous       │
 │                        │dimension of the│ intensity of   │
@@ -4963,14 +4866,12 @@ Main exits specified in the preceding paragraph, subparagraph 1 and 3, in the re
 │            │Class C   │0.1~0.2         │ Over 5         │
 │            │          │(not inclusive) │ (inclusive)    │
 └──────┴─────┴────────┴────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 146-2</條號>
     <條文內容><![CDATA[The effective range of exit indicating lamps and direction indicating lamps is the travel distance toward the lamps that is within the range specified by one of the following subparagraphs. The effective range is 10 meters if the indicating lamps are not easily recognizable.
 1.As specified in the following table:
-
 ┌─────────────────────────┬────┐
 │Classification                                    │Travel  │
 │                                                  │distance│
@@ -4994,13 +4895,11 @@ Main exits specified in the preceding paragraph, subparagraph 1 and 3, in the re
 │            ├──────────────────┼────┤
 │            │Class C                             │  10    │
 └──────┴──────────────────┴────┘
-
 2. As calculated by the following formula:
 D=kh,
 D: travel distance (meter)
 H: the vertical dimension of exit indicating lamp or direction indicating lamp (meter)
 2.K: K value corresponds to the classification of the left column
-
 ┌─────────────────────────┬────┐
 │Classification                                    │K value │
 ├─────────┬───────────────┼────┤
@@ -5010,7 +4909,6 @@ H: the vertical dimension of exit indicating lamp or direction indicating lamp (
 ├─────────┴───────────────┼────┤
 │Direction indicating lamps                        │   50   │
 └─────────────────────────┴────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -5132,7 +5030,6 @@ The major evacuation routes provided in the preceding paragraph are as follows:
   <條文>
     <條號>Article 157</條號>
     <條文內容><![CDATA[Refuge appliances shall be selected following the table below:
-
 ┌───────────────┬──────┬─────┬
 │Quantity of refuge appliances │Underground │The second│
 │                              │storeys     │storey    │
@@ -5363,7 +5260,6 @@ above       │above     │
                         │
                         │
 ────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -5396,7 +5292,6 @@ above       │above     │
   <條文>
     <條號>Article 160</條號>
     <條文內容><![CDATA[The number of accommodated people referred to in Article 157 shall be calculated following the table below:
-
 ┌─┬────────┬───────────────────┐
 │  │Places          │Calculation of the number of the      │
 │  │                │accommodated people                   │
@@ -5625,7 +5520,6 @@ above       │above     │
 │b) Seats connected together                                 │
 │Seats that are placed in one place and cannot be moved.     │
 └──────────────────────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -5641,7 +5535,6 @@ above       │above     │
   <條文>
     <條號>Article 162</條號>
     <條文內容><![CDATA[Necessary opening area shall be reserved for refuge appliances following the table below:
-
 ┌──────────────┬───────────────┐
 │Type                        │Opening area                  │
 ├──────────────┼───────────────┤
@@ -5659,7 +5552,6 @@ above       │above     │
 │                            │maximum width of the refuge   │
 │                            │bridge                        │
 └──────────────┴───────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -5680,7 +5572,6 @@ above       │above     │
   <條文>
     <條號>Article 166</條號>
     <條文內容><![CDATA[When configuring refuge appliances, mounting positions and operation guide shall be marked and indicators equipped following the table below:
-
 ┌─────┬─────────┬────┬───┬─────┐
 │Type of   │Installation Place│Size    │Color │Indicating│
 │refuge    │                  │        │      │method    │
@@ -5723,7 +5614,6 @@ above       │above     │
 │          │                  │        │      │character │
 │          │                  │        │      │≧5cm2    │
 └─────┴─────────┴────┴───┴─────┘
-
 ]]></條文內容>
   </條文>
   <條文>
@@ -5795,7 +5685,6 @@ above       │above     │
     <條文內容><![CDATA[Where screw bolts are used to fix the fixed mount or supporting device, the following provisions shall be observed:
 1.Anchor bolts shall be used.
 2.The depth and torque of the proportion of screw bolt embedded in the reinforced concrete (the mortar layer excluded) shall comply with the table below:
-
 ┌────────┬────────────┬────────┐
 │Nominal size of │Depth of embedment (mm) │Torque (kgf-cm) │
 │screw           │                        │                │
@@ -5806,7 +5695,6 @@ above       │above     │
 ├────────┼────────────┼────────┤
 │M16ｘ2          │≧70                    │600~850         │
 └────────┴────────────┴────────┘
-
 ]]></條文內容>
   </條文>
   <編章節>      Section 3 Emergency Lighting Equipments</編章節>
@@ -5922,7 +5810,6 @@ The above-mentioned effective quantity of water refers to the amount when the de
     <條號>Article 186</條號>
     <條文內容><![CDATA[Where the dedicated firefighting water reservoir is equipped with a mechanical priming device, in addition to the requirements set forth in the Article 185 Subparagraph 1 Item 1 and the latter section of Item 2, the horizontal distance between any water supply connection and every section of the building structure shall be within 100 meters. The fire pump and the Water supply connection shall conform to the following:
 1.Fire pump capacity and quantity of Water supply connection shall conform to the following table:
-
 ┌────────┬──────┬───────┬──────┐
 │Water Volume    │Under 40 m3 │Between 40 m3 │Over 120 m3 │
 │(m3)            │            │and 120 m3    │            │
@@ -5934,7 +5821,6 @@ The above-mentioned effective quantity of water refers to the amount when the de
 │connection      │            │              │            │
 │quantity (pc.)  │            │              │            │
 └────────┴──────┴───────┴──────┘
-
 2.The total head of the fire pump shall not fall below that obtained from the following equation:
 Total head = Drop height + friction loss head of piping +15 meters
 H = h1 + h2 + 15 m
@@ -6146,7 +6032,6 @@ The protective equipments in the manufacturing places of inflammable high-pressu
   <條文>
     <條號>Article 201</條號>
     <條文內容><![CDATA[Type I, II or III fire-suppression equipments shall be configured in the places of obvious difficulty in fire-suppression following the table below:
-
 ┌──────────────┬───────────────┐
 │Category of places          │Fire- suppression  equipment  │
 ├──────────────┼───────────────┤
@@ -6213,7 +6098,6 @@ The protective equipments in the manufacturing places of inflammable high-pressu
 │Indoor gas station          │Foam fixed fire-suppression   │
 │                            │equipment in Type III.        │
 └──────────────┴───────────────┘
-
 Type IV and Type V fire-suppression equipment shall also be configured in the places specified in the preceding paragraph with the following exemptions:
 1. For the manufacturing or common processing places of high flash point materials, if the operation temperature is less than 100℃, installation of Type IV fire-suppression  equipment could be exempted if the place is within the effective range of the Type I, II or III fire-suppression equipment shall be equipped.
 2. More than two sets of Type V fire-suppression equipment shall be equipped in outdoor or indoor storage tank of Category IV public hazardous materials.
@@ -6337,7 +6221,6 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
     <條號>Article 213</條號>
     <條文內容><![CDATA[The fixed foam fire-suppression equipment set for oil tank shall corrsspond to the following subparagraphs :
 1. The configuration of foam outlet shall comply with the prescription
-
 ┌───────┬──────────────────────┐
 │ Architectural│Number of Foam Outlets                      │
 │ structure and├────────┬──────┬──────┤
@@ -6451,9 +6334,7 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
 │  of the foam outlets may be configured similarly as storage│
 │  tank of outer floating top                                │
 └──────────────────────────────┘
-
 2. When storing water-insoluble Category IV public hazardous materials, the effective discharging volume from the foam outlets specified in paragraph 1 is, according to the following “public hazardous materials and types of foam outlet” table, calculated by multiplying the volume of foam solution outlet by the liquid surface of the storage tank and the discharge rate shall comply with the prescription specified on the table.
-
 ┌─────┬──────────┬──────────┬
 │   Type of│Type I              │Type Ⅱ             │
 │   Foam   ├────┬─────┼────┬─────┼
@@ -6590,9 +6471,7 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
                       │
                       │
   ──────────┘
-
 3.When storing non-water insoluble Category IV public hazardous good in the tank, alcohol-resistant foam shall be used and the volume of foam solution and the discharging rate shall comply with the table below:
-
 ┌──────────┬──────────┬─────
 │Type Ⅰ             │Type Ⅱ             │Special
 ├────┬─────┼────┬─────┼────┬
@@ -6631,9 +6510,7 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
                                                         │
                                                         │
   ───────────────────────────┘
-
 4. The values prescribed in paragraph 3 shall be multiplied by a coefficient that varies according to the category of public hazardous materials provided in following the table below. For coefficient of substances that are not specified in the table below, the coefficient shall be calculated with specific methods that are recognized by the central competent authority.
-
 ┌───────────────────────┬──────┐
 │Classes of Category IV Public Hazardous       │            │
 │Materials                                     │coefficient │
@@ -6710,7 +6587,6 @@ The emergency power source of water fog fire extinguishing equipment shall meet 
 │insoluble │                                  │            │
 │substances│                                  │            │
 └─────┴─────────────────┴──────┘
-
 The liquid surface area, if the storage tank prescribed in paragraph 2 possesses a special foam outlet, shall be the surface area of the floating circular portion on the top of the storage tank.
 條號：214
 Installation of foam fixed outlet shall be equipped according to the preceding Article and the installation of supplementary foam hydrants and liquid-feeding orifices shall comply with the following subparagraphs:
@@ -6828,7 +6704,6 @@ The provisions of Article 38 shall apply mutatis mutandis to emergency power sou
     <條號>Article 222</條號>
     <條文內容><![CDATA[The configuration of carbon dioxide fire-suppression equipment shall apply mutais mutandis to the case as referred to in Article 82 through 97. The ingredient dosage of whole area spraying carbon dioxide fire-suppression equipment shall be calculated according to the following subparagraphs:
 1. The required ingredient dosage shall be calculated according to the cubage of the protected area and the quantity of fire-suppression equipment per cubic meter of the protected area stated in the table below. When the calculated value is less than the value stated, the dosage shall be calculated according to the basic minimum quantity.
-
 ┌───────┬──────────┬───────────┐
 │Volume of the │Ingredient dosage of│Basic quantity of     │
 │protected area│fire-suppression per│ingredient dosage in  │
@@ -6848,7 +6723,6 @@ The provisions of Article 38 shall apply mutatis mutandis to emergency power sou
 ├───────┼──────────┼───────────┤
 │V>1500        │0.75                │1200                  │
 └───────┴──────────┴───────────┘
-
 2. Where the opening of the protected area is not equipped with an automatic closing device under the paragraph 1, additional 5 kg per square meter of area of the opening shall be added in addition to the dosage calculated.
 When in the range of protected area or the protection subjects are related with storing or processing public hazardous materials, the dosage calculated under paragraph 1 or 2 shall be multiplied by a coefficient prescribed in the table below. For the public hazardous materials other than prescribed below, the coefficient shall be worked out using the test method recognized by the central competent authority.
 ]]></條文內容>

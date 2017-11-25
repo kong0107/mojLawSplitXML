@@ -62,7 +62,6 @@ Liquid blockage testing shall be performed after the completion of gasoline vapo
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[The maximum pressure drop found in liquid blockage testing of gasoline vapor lines from gasoline pumps to gasoline tanks at newly-established gas stations shall comply with the following regulations:
-
 ┌───────────┬─────────┬────────┐
 │Liquid blockage test  │Maximum pressure  │Allowable error │
 │nitrogen flow         │drop              │                │
@@ -79,13 +78,11 @@ Liquid blockage testing shall be performed after the completion of gasoline vapo
 │(100 cubic            │water column (0.95│                │
 │inches/hour)          │inch water column)│                │
 └───────────┴─────────┴────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[A gas station shall maintain the effective operation of refueling guns and gasoline vapor recovery facilities; air to liquid volume ratio testing and vapor leak testing shall comply with the following regulations:
-
 ┌──────┬──────┬─────┬──────────┐
 │Test items  │Acceptable  │Allowable │Remarks             │
 │            │range       │error     │                    │
@@ -109,7 +106,6 @@ Liquid blockage testing shall be performed after the completion of gasoline vapo
 │            │inch water  │          │time should be five │
 │            │column)     │          │minutes             │
 └──────┴──────┴─────┴──────────┘
-
 ]]></條文內容>
   </條文>
   <條文>

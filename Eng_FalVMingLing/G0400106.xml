@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Futures Commission Merchants</英文法規名稱>
 <中文法規名稱>期貨商管理規則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400106</法規網址>
-<最新英文異動日期>20150709</最新英文異動日期>
+<最新英文異動日期>20160802</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1. Full text of 58 articles adopted and issued per 30 May 1997 Order No. (86)-Taiwan-Finance-Securities-(V)-03211 of the Securities and Futures Commission, Ministry of Finance; for enforcement from 1 June 1997
@@ -24,7 +24,10 @@
 18. Articles 2, 17, 24, and 58 amended and issued per 12 July 2012 Order No. Financial-Supervisory-Securities-Futures-1010030979 of the Financial Supervisory Commission; for enforcement from the date of issuance, except for Articles 17 and 24, which shall be enforced from the fiscal year 2013
 19. Articles 14, 23, 25-2, and 42 amended and issued per 29 May 2014 Order No. Financial-Supervisory-Securities-Futures-1030013322 of the Financial Supervisory Commission
 20. Articles 25-3, 38, and 56-2 amended and issued and Article 53-1 added per 6 January 2015 Order No. Financial-Supervisory-Securities-Futures-1030050108 of the Financial Supervisory Commission
-21.Articles 6, 23, 36, 56-1, and 56-5 to 56-7 amended and issued and Article 56-9 added per 9 July 2015 Order No. Financial-Supervisory-Securities-Futures-1040024996 of the Financial Supervisory Commission]]></沿革內容>
+21. Articles 6, 23, 36, 56-1, and 56-5 to 56-7 amended and issued and Article 56-9 added per 9 July 2015 Order No. Financial-Supervisory-Securities-Futures-1040024996 of the Financial Supervisory Commission
+22. Articles 14, 28, and 55 amended and issued per 27 January 2016 Order No. Financial-Supervisory-Securities-Futures-1050000242 of the Financial Supervisory Commission
+23. Article 18 amended and issued per 2 August 2016 Order No. Financial-Supervisory-Securities-Firms-1050027828 of the Financial Supervisory Commission
+]]></沿革內容>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
   <條文>
@@ -69,7 +72,7 @@ The matters that the preceding paragraph requires to be reported to the FSC for 
 10.where the futures commission merchant's futures trading volume, whether on its proprietary account or on customers' accounts, has reached the reporting threshold under futures trading acts and regulations of the ROC or a foreign country; or
 11.where there is any other matter that must be reported under FSC regulations.
 For the matters under subparagraphs 1 and 2 in the preceding paragraph, the company shall report in advance; for the matters under subparagraphs 3 through 7, the company shall report within 5 business days from either the date on which it becomes aware of such a matter, or the day on which such a matter occurs; for matters under item 8, any director, supervisor, or manager, or any shareholder holding more than 10 percent of the shares of the company, shall report to the company by the 5th day of the following month, and the company shall collect such reports and forward them in a single batch [to the FSC] by the 15th day of the same month; for matters under subparagraphs 9 and 10, the company shall report to the FSC at the time when it reports the same to the ROC or foreign futures exchange or to other authorities.
-Matters that mst be reported pursuant to paragraph 1 above shall be submitted to the FSC via the TAIFEX.
+Matters that must be reported pursuant to paragraph 1 above shall be submitted to the FSC via the TAIFEX.
 The term "business day" as used in these Regulations means a trading day on the domestic futures markets.
 ]]></條文內容>
   </條文>
@@ -136,15 +139,15 @@ The audit reports referred to in the preceding paragraph shall include comments 
 1.futures broker: 50 million New Taiwan Dollars.
 2.futures dealer: 10 million New Taiwan Dollars.
 3.merchant operating both businesses in the preceding two subparagraphs: sum total of the amounts referred to in the preceding two subparagraphs.
-4.branch unit: additional 10 million New Taiwan Dollars for each branch.
+4.branch unit: additional 5 million New Taiwan Dollars for each branch.
 The provisions in subparagraphs 1 through 4 above shall apply mutatis mutandis to other enterprises concurrently engaged in futures trading and to foreign futures commission merchants, both of which shall further be governed by the following provisions:
 1.Other enterprises applying to concurrently engage in brokerage of the type of futures contracts set forth in Article 25, paragraph 2, subparagraphs 1 to 3 or Article 40, paragraph 2, subparagraphs 1 to 3 of the Regulations Governing the Establishment of Futures Commission Merchants shall lodge an operating bond of 15 million New Taiwan Dollars.
 2.Other enterprises applying to concurrently engage in brokerage of the type of futures contracts set forth in Article 25, paragraph 2, subparagraph 4 or Article 40, paragraph 2, subparagraph 4 of the Regulations Governing the Establishment of Futures Commission Merchants shall lodge an operating bond of 25 million New Taiwan Dollars.
 3.A foreign futures commission merchant applying to engage only in the sub-brokered foreign futures trading services set forth in Article 20, paragraph 2 of the Establishment Criteria of Futures Commission Merchants shall lodge an operating bond of 15 Million New Taiwan Dollars.
 The financial institutions referred in paragraph 1 are those banks that have been approved by the FSC to provide custodian services, and which meet the conditions prescribed by the FSC.
 A financial institution concurrently engaged in futures trading shall lodge its operating bond with another financial institution.
-The operating bond referred to in paragraph 1 above shall be lodged in the form of cash, government bonds, or financial bonds.
-The operating bond lodged by a futures commission merchant may not be placed in divided custody, reported lost, or canceled. The items lodged as bond, and the associated custodial receipt, shall not be encumbered in any way, nor shall they be withdrawn or transferred without the approval of the FSC.
+The operating bond referred to in paragraph 1 above shall be lodged in the form of cash, government bonds, or financial bonds
+The operating bond lodged by a futures commission merchant may not be placed in divided custody, reported lost, or canceled. The items lodged as bond, and the associated custodial receipt, shall not be encumbered in any way, nor shall they be withdrawn or replaced without the approval of the FSC.
 ]]></條文內容>
   </條文>
   <條文>
@@ -167,7 +170,8 @@ Other enterprises concurrently engaged in futures trading shall, in making the c
     <條號>Article 18</條號>
     <條文內容><![CDATA[Futures commission merchants (except those concurrently operated by other enterprises, as these are governed by other relevant acts and regulations) that have already issued securities under the Securities and Exchange Act shall take 20 percent from annual after-tax profit and set it aside as the special reserve set forth under Article 41 of the Securities and Exchange Act; provided that funds for this special reserve need no longer be set aside once the accumulated reserve equals the amount of the company's paid-in capital.
 Futures commission merchants that have not issued securities under the Securities and Exchange Act shall set aside a 20 percent special reserve from the annual after-tax profit; provided that funds for this special reserve need no longer be set aside once the accumulated reserve equals the amount of the company's paid-in capital.
-The special reserve referred to in the preceding two paragraphs shall not be used for purposes other than covering the losses of the company or, when the special reserve reaches 50 percent of the amount of paid-in capital, half of it may be capitalized.
+The FSC may increase or decrease the percentages under the preceding two paragraphs based on business needs.
+The special reserve referred to in the preceding three paragraphs shall not be used for purposes other than covering the losses of the company or, when the accumulated special reserve reaches 50 percent of the amount of paid-in capital, half of it may be capitalized; provided, that this rule shall not apply if the FSC has provided otherwise.
 ]]></條文內容>
   </條文>
   <條文>
@@ -276,7 +280,7 @@ Account openings, orders, and other matters involving the persons referred to in
   </條文>
   <條文>
     <條號>Article 28</條號>
-    <條文內容><![CDATA[When handling a customer's request to open an account, a futures commission merchant shall provide a brokerage contract and a risk disclosure statement. After a specially assigned staff has outlined for the customer the contents of the contract and explained futures trading procedures, the said documents shall be signed or sealed and dated by the customer and kept on file.
+    <條文內容><![CDATA[When handling a customer's request to open an account, a futures commission merchant shall provide a brokerage contract and a risk disclosure statement. After the contents of the contract and futures trading procedures are outlined and explained to the customers, the said documents shall be signed or sealed and dated by the customer and kept on file.
 For the reference of customers, a futures commission merchant shall prepare a written prospectus, which shall include information on futures-related acts and regulations applicable to the merchant's business, and futures exchange rules and regulations regarding total futures trading volume, trading volume reporting thresholds, price fluctuation limits, and other relevant restrictions.
 In the event of any change to any of the restrictions in connection with trading referred to in the preceding paragraph, the futures commission merchant shall immediately give notice of such change on its public bulletin board.
 ]]></條文內容>
@@ -548,7 +552,7 @@ A futures commission merchant shall keep the reconciliation statements for 2 yea
 18.use fraud, coercion, or other improper means to enter into a brokerage contract with a futures trader;
 19.provide information on recommended trades to a futures trader in any fashion; provided, however, that where other acts or regulations provide otherwise, they shall govern;
 20.use information obtained through business relationships to trade futures on one's own account, or to provide others such information for their use in trading futures;
-21.make use of non-employees to carry out business relating to futures trading;
+21.make use of non-employees to carry out business relating to futures trading; however, if the FSC has provided otherwise, this rule shall not apply;
 22.violate the standards of self-governance adopted by the Futures Association; or
 23.otherwise violate futures regulations or regulations of the FSC governing compulsory or prohibited acts.
 ]]></條文內容>
@@ -565,9 +569,9 @@ Within 2 months after commencement of business, a futures commission merchant sh
     <條號>Article 56-1</條號>
     <條文內容><![CDATA[Investments by futures commission merchants in foreign enterprises shall be limited to those investments set forth in the following subparagraphs:
 1.Futures enterprises and enterprises related thereto (including related securities, futures, and financial businesses they are allowed to operate under the local laws and regulations of the country of the investment) in countries and territories that have established a competent authority for futures.
-2.Other related enterprises in which the FSC has approved investment.
+2.Other related enterprises in which the FSC has approved investment
 A futures firm or its subsidiaries investing in futures companies in Mainland China area shall do so in accordance with the Regulations Governing Permission and Administration of Securities and Futures Business Dealings and Investment Between the Taiwan Area and the Mainland Area. 
-A securities firm approved to invest in futures companies in the Mainland China area may not engage in any of the following conduct:
+A securities firm approved to invest in futures companies in the Mainland China area may not engage in any of the following conduct: 
 1.To accept engagement to conduct futures brokerage trading in the Mainland China area.
 2.To make recommendations to traders in Taiwan to engage in futures trades on the Mainland China futures market.
 A futures commission merchant or its subsidiaries investing in futures companies in the Mainland China area may not provide services to Taiwan area individuals or enterprises.

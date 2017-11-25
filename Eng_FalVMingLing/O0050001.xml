@@ -3,21 +3,22 @@
 <英文法規名稱>Waste Disposal Act</英文法規名稱>
 <中文法規名稱>廢棄物清理法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=O0050001</法規網址>
-<最新英文異動日期>20130529</最新英文異動日期>
+<最新英文異動日期>20170118</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<沿革內容><![CDATA[1.Original 28 articles promulgated by presidential order on July 26, 1974.
-2.Revisions to Articles 5, 6, 11, 15, 18 and 22 and addition of Article 24-1 promulgated by presidential order on April 9, 1980.
-3.Revisions to all 36 articles of this Act promulgated by presidential order on November 20, 1985.
-4.Revisions to Articles 4, 11 and 20 and addition of Articles 10-1 and 23-1 promulgated by presidential order on November 11, 1988.
-5.Revisions to Articles 10-1, 23-1 and 31 promulgated by presidential order on March 28, 1997.
-6.Revisions to Articles 5, 13, 17, 22 and 34 and addition of Article 34-1 promulgated by presidential order on July 14, 1999.
-7.Revisions to Articles 4 and 35 promulgated by presidential order on January 19, 2000.
-8.Revisions to all 77 articles of this Act promulgated by presidential order on October 24, 2001.
-9.Revisions to Article 51 promulgated by presidential order on June 2, 2004.
-10.Revisions to Articles 46 and 77 promulgated by presidential order on July 1, 2006.
-11.Revisions to Articles 71 and 77 promulgated by presidential order on November 28, 2012.
-12.Revisions of Articles 50-1 promulgated by presidential order on May 29,2013.]]></沿革內容>
+<沿革內容><![CDATA[1. Original 28 articles promulgated by presidential order on July 26, 1974.
+2. Revisions to Articles 5, 6, 11, 15, 18 and 22 and addition of Article 24-1 promulgated by presidential order on April 9, 1980.
+3. Revisions to all 36 articles of this Act promulgated by presidential order on November 20, 1985.
+4. Revisions to Articles 4, 11 and 20 and addition of Articles 10-1 and 23-1 promulgated by presidential order on November 11, 1988.
+5. Revisions to Articles 10-1, 23-1 and 31 promulgated by presidential order on March 28, 1997.
+6. Revisions to Articles 5, 13, 17, 22 and 34 and addition of Article 34-1 promulgated by presidential order on July 14, 1999.
+7. Revisions to Articles 4 and 35 promulgated by presidential order on January 19, 2000.
+8. Revisions to all 77 articles of this Act promulgated by presidential order on October 24, 2001.
+9. Revisions to Article 51 promulgated by presidential order on June 2, 2004.
+10. Revisions to Articles 46 and 77 promulgated by presidential order on July 1, 2006.
+11. Revisions to Articles 71 and 77 promulgated by presidential order on November 28, 2012.
+12. Revisions of Articles 50-1 promulgated by presidential order on May 29,2013.
+13. Revisions to Articles 2, 14, 28, 30, 31, 39, 41, 45, 46, 48, 52, 53, 55, 56 and 58 and addition of Article 2-1, 39-1, 63-1 promulgated by presidential order on January 18, 2017.]]></沿革內容>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
   <條文>
@@ -27,14 +28,28 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[Waste referred to in this Act is divided into the following two categories.
-I.      General waste: solid or liquid waste, including garbage, excrement and urine, and animal carcasses, from households or other non-industrial sources that is sufficient to pollute environmental sanitation
-II.     Industrial waste:
-A.      Hazardous industrial waste: waste produced by industry that is toxic or dangerous and the concentration or volume of which is sufficient to influence human health or pollute the environment
-B.      General industrial waste:waste produced by industry that is not hazardous industrial waste
-The central competent authority in consultation with the central industry competent authority shall determine determination standards for the hazardous industrial waste in the foregoing paragraph.
-The disposal of ionizing radioactive waste shall be performed in accordance with the relevant the atomic energy regulations.
-“Industrial” in Paragraph 1, Subparagraph 2 means agricultural, industrial and mining plants and sites, construction enterprises, medical organizations, public and private waste clearance and disposal organizations, joint industrial waste clearance and disposal organizations, laboratories of schools, agencies and groups, and other enterprises designated by the central competent authority.
+    <條文內容><![CDATA[For the purpose of this Act, “waste” means any movable solid or liquid substance or object:
+I.      Which is discarded;
+II.     Whose original purpose is weakened, given up, no longer existing, or unclear;
+III.    Which is resulted from construction, manufacturing, processing, repairing, selling, or other activities, and is not deliberately created;
+IV.     Which is resulted from production process, with no feasible technology existing, and is of no economic or market value;
+V.      Which is announced as “waste” by central competent authority.
+The waste referred to in the preceding paragraph is divided into “general waste” and “industrial waste.”
+I.      General waste refers to waste that is not industrial waste.
+II.     Industrial waste refers to waste that is produced from industry activities (but excluding waste generated by the employees themselves), including “hazardous industrial waste” and “general industrial waste.”
+A. Hazardous industrial waste: waste produced by industry that is toxic or dangerous with the concentration or volume sufficient to influence human health or pollute the environment
+B. General industrial waste: waste produced by industry that is not hazardous industrial waste.
+The central competent authority in consultation with the central industry competent authority shall enact determination standards for the hazardous industrial waste referred to in the foregoing paragraph.
+The disposal of ionizing radioactive waste shall be performed in accordance with the relevant atomic energy regulations.
+The industry referred to in Paragraph 2 means agricultural, industrial and mining plants and sites, construction enterprises, medical organizations, public and private waste clearance and disposal organizations, joint industrial waste clearance and disposal organizations, laboratories of schools or agency groups and other enterprises designated by the central competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 2-1</條號>
+    <條文內容><![CDATA[Any product coming from industry activities shall be determined as waste when it is under any of the following circumstances:
+I.      The product is determined as of no economic or market value by the central competent authority, and is intended to be disposed of illegally or harmful to the environment and human health.
+II.     The product is not lawfully stored or used, and is intended to be disposed of illegally or causing pollution.
+III.    The reuse product is not used in accordance with this Act, and is intended to be disposed of illegally or causing pollution.
 ]]></條文內容>
   </條文>
   <條文>
@@ -117,7 +132,7 @@ The enforcement authority may, based on the special characteristics of designate
   <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[The enforcement authority shall be responsible for the clearance of general waste and shall perform appropriate sanitary disposal. However, for general waste produced outside of households, the enforcement authority may designate clearance methods and disposal premises.
-For the clearance and disposal of general waste in the foregoing paragraph, the enforcement authority may, after receiving higher competent authority approval, commission a public or private waste clearance and disposal organization or perform the clearance and disposal in accordance with methods approved by the central competent authority.
+For the clearance and disposal of general waste referred to in the foregoing paragraph, the enforcement authority may, after receiving approval from a higher competent authority, commission a public or private waste clearance and disposal organization or perform the clearance and disposal in accordance with the methods announced or approved by the central competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -228,23 +243,28 @@ XI.     Other acts that pollute the environment officially announced by the comp
   <編章節>   Chapter 3 Disposal of Industrial Waste</編章節>
   <條文>
     <條號>Article 28</條號>
-    <條文內容><![CDATA[The disposal of industrial waste, with the exception of that subject to reuse methods, shall be performed in accordance with the following methods.
-I.      Self-clearance and disposal
+    <條文內容><![CDATA[The disposal of industrial waste, with the exception of that subject to reuse methods, shall be performed in accordance with the following methods:
+I.      Self-clearance and disposal.
 II.     Joint clearance and disposal: enterprises submit an application to the industry competent authority for permission for the establishment of a joint waste clearance and disposal organization to clear and dispose of the category of waste at issue.
 III.    Commissioned clearance and disposal:
-A.      Commission a public and private waste clearance and disposal organization that has received competent authority permission for the clearance and disposal of the category of waste at issue to perform clearance and disposal.
-B.      Commission the enforcement authority to perform clearance and disposal after receiving enforcement authority consent.
-C.      Commission a clearance and disposal facility installed by the industry competent authority itself or through its guidance to perform clearance and disposal.
-D.      Commission a public enterprise-installed clearance and disposal facility that has been designated by the competent authority to perform clearance and disposal.
-E.      Commission a clearance and disposal facility that has been installed by a private organization that has signed an investment contract with the sponsoring authority pursuant to the Promotion of Private Participation in Infrastructure Projects Act to perform clearance and disposal.
-F.      Commission a disposal facility of an enterprise that has received permission pursuant to management regulations determined pursuant to Article 29, Paragraph 2 to perform disposal.
-IV.     Other methods that receive central competent authority permission
-Enterprises designated and officially announced by the central competent authority shall employ professional technical personnel; the central competent authority in conjunction with the central industry competent authority shall determine management regulations for the conditions, permission, permission deadlines, cancellation and other binding matters for the clearance equipment and disposal facilities and equipment of enterprises that adopt self-clearance and disposal.
-The central industry competent authority in conjunction with the central competent authority shall determine management regulations for the conditions, classification, permission, permission deadlines, cancellation, hiring of professional technical personnel, operation, operational records and other binding matters for joint clearance and disposal organizations in Paragraph 1, Subparagraph 2.
-The central industry competent authority in consultation with relevant agencies shall determine management regulations for the hiring of professional technical personnel, operation, operational records and other binding matters for waste clearance and disposal facilities in Paragraph 1, Subparagraph 3, Item 3 that are established through guidance.
-The central competent authority in consultation with the relevant agencies shall determine management regulations for the hiring of professional technical personnel, operation, operational records and other binding matters for waste clearance and disposal facilities established pursuant to Paragraph 1, Subparagraph 3, Items 4 and 5.
-Enforcement authorities commissioned with the clearance and disposal of general industrial waste in Paragraph 1, Subparagraph 3, Item 2 shall collect fees in accordance with fee standards for clearance and disposal of industrial waste that shall be determined by the special municipality, county or city competent authority, and shall coordinate with the enterprise to submit reports pursuant to Article 31, Paragraph 1, Subparagraph 2.
-Facilities operated for the clearance and disposal of general waste or general industrial waste may not do so together with the clearance and disposal of hazardous industrial waste.
+A. Commission a public and private waste clearance and disposal organization that has received competent authority permission for the clearance and disposal of the category of waste at issue to perform clearance and disposal.
+B. Commission the enforcement authority to perform clearance and disposal after receiving enforcement authority’s consent.
+C. Commission a clearance and disposal facility installed by the industry competent authority itself or through its guidance to perform clearance and disposal.
+D. Commission a waste clearance and disposal facility installed by a public enterprise designated by the competent authority to perform clearance and disposal.
+E. Commission a clearance and disposal facility installed by a private organization that has signed an investment contract with the sponsoring authority pursuant to the Promotion of Private Participation in Infrastructure Projects Act to perform clearance and disposal.
+F. Commission a waste disposal facility of an enterprise receiving permission pursuant to the management regulations prescribed by Article 29, Paragraph 2 to perform disposal.。
+IV.     Other methods that receive central competent authority’s permission.
+Enterprises designated and officially announced by the central competent authority shall employ professional technical personnel; for the enterprises adopting self-clearance and disposal of their waste, the management regulations governing the conditions, permission, permission deadlines and cancellation of the clearance equipment and disposal facilities and other matters required to be complied with shall be enacted by the central competent authority in conjunction with the central industry competent authority
+The management regulations governing the conditions, classification, permission, permission deadlines, cancellation, hiring of professional technical personnel, operation, operational records of joint clearance and disposal organizations referred to in Paragraph 1, Subparagraph 2 and other matters required to be complied with shall be enacted by the central industry competent authority in conjunction with the central competent authority.
+The management regulations governing the hiring of professional technical personnel, operation, operational records of the waste clearance and disposal facilities set up through the guidance per Paragraph 1, Subparagraph 3, Item 3 and other matters required to be complied with shall be enacted by the central industry competent authority in consultation with relevant agencies.
+The management regulations governing the hiring of professional technical personnel, operation and operational records of the waste clearance and disposal facilities set up per Paragraph 1, Subparagraph 3, Item 4 and 5 and other matters required to be complied with shall be enacted by the central competent authority in consultation with relevant agencies.
+In the case that the enforcement authority is entrusted to clear and dispose of general industrial waste as referred to in Paragraph 1, Subparagraph 3, Item 2, it shall not accept the assignment until there is surplus disposal capacity left after disposing the following general waste. In addition, it shall collect fees in accordance with the industrial waste clearance and disposal fee standards enacted by the special municipality, country or city competent authority, and process the declaration in conjunction with the enterprise in question in accordance with Article 31, Paragraph 1, Subparagraph 2. The aforesaid “general waste” is as follows:
+I.      Waste which falls in the area designated for clearance.
+II.     Waste which is required to be disposed of through regional alliance or cross-region cooperation in accordance with Article 7 of this Act and Article 24-1 of the Local Government Act.
+III.    Waste which is under the central competent authority’s arrangement for disposal.
+Facilities operated for the clearance and disposal of general waste or general industrial waste shall not simultaneously clear or dispose of hazardous industrial waste.
+Under the circumstances where the enforcement authority’s disposal of the general waste referred to in Paragraph 6, Subparagraph 1 and 2 is not affected, the central competent authority may dispatch existing waste clearance and disposal facilities if necessary, and such dispatch shall not be rejected upon request.
+The regulations governing the terms, methods, expenses of the dispatch referred to in the preceding paragraph and other matters to be complied with shall be enacted by the central competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -255,21 +275,20 @@ The competent authority in consultation with the central industry competent auth
   </條文>
   <條文>
     <條號>Article 30</條號>
-    <條文內容><![CDATA[For those circumstances in which the commissioning by an enterprise of a public or private waste clearance and disposal organization to perform the clearance and disposal of industrial waste fails to comply with the following conditions, the enterprise and the commissioned person shall be mutually responsible for the disposal of the industrial waste at issue and making improvements to the environment.
-I.      A public or private waste clearance and disposal organization that has received competent authority approval for the clearance and disposal of the industrial waste at issue or the enforcement authority is commissioned in accordance with the law to perform the clearance and disposal, and the category for which it is commissioned does not exceed the content of the permission granted by the competent authority.
-II.     Proper disposal record documents for the industrial waste at issue are obtained from the commissioned person.
-The record documents in Subparagraph 2 of the foregoing paragraph shall clearly record the category, quantity and disposal site of the industrial waste, the permission content the competent authority has approved for the commissioned person, and other items designated by the central competent authority; the central competent authority shall determine the format of the record documents.
+    <條文內容><![CDATA[When an enterprise commissions clearance and disposal of its waste, it shall take up joint liability with the commissioned agency for the clearance of the waste. If the commissioned agency fails to properly clear the waste and the commissioning enterprise does not exercise its due care, the commissioning enterprise and commissioned agency shall be liable for joint environmental clearance and improvement in terms of the waste.
+The determined elements of the exercise of the due care of the commissioning enterprise referred to in the foregoing paragraph, precautions, management measures and other related matters shall be enacted by the central competent authority.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[Enterprises of a certain scale that are designated and officially announced by the central competent authority shall perform the following matters within a certain time period of the date of official announcement.
+    <條文內容><![CDATA[Enterprises of a certain scale that are designated and officially announced by the central competent authority shall perform the following matters within a certain time period demanded by the official announcement:
 I.      Operations may begin only after the review and approval of an industrial waste disposal plan submitted to the special municipality, county or city competent authority or the organization commissioned by the central competent authority; this regulation shall also apply to the modification of matters related to the production and disposal of industrial waste.
-II.     In accordance with the format, items, content and frequency designated by the central competent authority, report to the special municipality, county or city competent authority via the Internet circumstances regarding the production, storage, clearance, disposal, reuse, export, import, transit and transshipment of the waste at issue. However, those circumstances in which the central competent authority allows the submission of written reports shall not be subject to this restriction.
+II.     In accordance with the format, items, content and frequency stipulated by the central competent authority, report to the special municipality, county or city competent authority via the Internet the circumstances regarding the production, storage, clearance, disposal, reuse, export, import, transit and transshipment of the waste at issue. However, those circumstances in which the central competent authority allows the submission of written reports shall not be subject to this restriction.
 III.    Industrial waste clearance and transport machinery designated and officially announced by the central competent authority shall be installed with real-time tracking systems in accordance with the specifications designated by the central competent authority, and shall maintain normal operation.
-The central competent authority in consultation with the central industry competent authority shall determine the format and required items for the industrial waste disposal plan in Subparagraph 1 of the foregoing paragraph.
-An enterprise in Paragraph 1 that is required in accordance with regulations to conduct an environmental impact assessment may submit an industrial waste disposal plan together with documents related to the environmental impact assessment to the special municipality, county or city competent authority for review. After the passage of the environmental impact assessment review, the special municipality, county or city competent authority may grant approval directly.
-Those that perform the clearance and disposal of industrial waste produced by an enterprise designated and officially announced pursuant to Paragraph 1 shall submit reports pursuant to Paragraph 1, Subparagraph 2.
+The format of the industrial waste disposal plan referred to in subparagraph 1 of the foregoing paragraph and the items required to be stated in the plan shall be enacted by the central competent authority in consultation with the central industry competent authority.
+The regulations governing the review operation, change, cancellation and revocation of the industrial waste disposal plan referred to in subparagraph 1 of the foregoing paragraph and other matters required to be complied with shall be enacted by the central competent authority.
+An enterprise referred to in Paragraph 1 that is required to follow the regulations to conduct an environmental impact assessment shall attach the industrial waste disposal plan to its submission of the documents related to the environmental impact assessment to the special municipality, county or city competent authority for review. After passing the environmental impact assessment review, the special municipality, county or city competent authority may grant approval directly.
+Those that perform the clearance and disposal of industrial waste produced by an enterprise designated and officially announced per Paragraph 1 shall file their declaration according to Paragraph 1, Subparagraph 2.
 ]]></條文內容>
   </條文>
   <條文>
@@ -321,8 +340,17 @@ The import, export, transit or transshipment of general waste that is subject to
   </條文>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[Reuse of industrial waste shall be conducted in accordance with regulations designated by the central industry competent authority, and shall not be restricted by Article 28 or Article 41.
-The management regulations for the category, quantity, permission, permission deadlines, cancellation, records, application and other binding matters for the reuse of industrial waste in the foregoing paragraph shall be determined by the central industry competent authority in consultation with the central competent authority and the reuse industry competent authority.
+    <條文內容><![CDATA[Reuse of industrial waste shall be processed in accordance with the regulations stipulated by the central industry competent authorities or central competent authority, and shall not be restricted by Article 28 or Article 41.
+The management regulations governing the category, quantity, permission, permission deadlines, cancellation, records, declaration and labeling of the reused products of the reuse industrial waste referred to in the foregoing paragraph and other matters required to be complied with shall be enacted by the central industry competent authority in consultation with the central competent authority and the reuse industry competent authority. However, when the industrial waste involves the reuse of two or more industries, the central competent authority is responsible for enacting a unified regulation for reuse categories and management methods if considering it necessary.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 39-1</條號>
+    <條文內容><![CDATA[The central industry competent authority shall be responsible for the whereabouts of the reuse products which are designated by the central competent authority, and shall conduct environmental monitoring when necessary when:
+I.      The reuse products are used in sea or land reclamation;
+II.     The reuse products are used improperly and are likely to endanger the environment or human health; or
+III.    The central competent authority considers it necessary to strengthen the control of such reuse products.
+The monitoring requirements, sampling frequency, sampling methods, testing methods and procedure, and other relevant matters of the aforesaid environmental monitoring shall be enacted by the central industry competent authority in consultation with the central competent authority and reuse industry competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -333,15 +361,16 @@ The management regulations for the category, quantity, permission, permission de
   <編章節>   Chapter 4 The Management of Public and Private Waste Clearance and Disposal Organizations and Waste Analysis Laboratories</編章節>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[Enterprises that engage in waste clearance or disposal shall submit public or private waste clearance and disposal organization permission applications to the special municipality, county or city competent authority or organization commissioned by the central competent authority, and only after the permission is granted shall the organization be commissioned for the clearance and disposal of waste. However, if one of the following circumstances applies, it shall not be subject to this restriction.
-I.      The enforcement authority performs recycling, clearance, disposal and reuse of general waste pursuant to Article 5, Paragraphs 2 and 6 and Article 12, Paragraph 1.
-II.     The emergency disposal of the waste of designated facilities or equipment is performed pursuant to in Article 8.
-III.    Pursuant to Article 14, Paragraph 2, the clearance and disposal of general waste is performed in accordance with methods approved by the central competent authority.
-IV.     The recycling, storage, clearance or disposal of general waste is performed pursuant to Article 18, Paragraph 1.
-V.      The clearance machinery, disposal facilities or equipment in Article 28, Paragraph 1, Subparagraph 2, Article 28, Paragraph 1, Subparagraph 3, Items 2 through 5, or Article 28, Paragraph 1, Subparagraph 4
-VI.     The disposal facilities are installed by or through the guidance of the industry competent authority pursuant to Article 33 and Article 34.
+    <條文內容><![CDATA[Enterprises that engage in waste clearance or disposal shall submit public or private waste clearance and disposal organization permission applications to the special municipality, county or city competent authority or organization commissioned by the central competent authority, and only after the permission is granted shall the organization be commissioned for the clearance and disposal of waste. However, it is not limited to any of the following circumstances:
+I.      The recycling, clearance, disposal and reuse of general waste performed by the enforcement authority pursuant to Article 5, Paragraphs2 and 6 and Article 12, Paragraph 1.
+II.     The facilities or equipment prescribed by Article 8 for emergency disposal of the waste.
+III.    Clearance and disposal of the general waste according to the method announced or approved by the central competent authority as prescribed by Article 14, Paragraph 2.
+IV.     Recycling, storage, clearance or disposal of general waste pursuant to Article 18, Paragraph 1.
+V.      The clearance machinery, disposal facilities or equipment referred to in Article 28, Paragraph 1, Subparagraph 2. Subparagraph 3, Item 2 to 5 and Subparagraph 4.
+VI.     The disposal facilities installed by or through the guidance of the industry competent authority pursuant to Article 33 and Article 34.
 VII.    The facilities installed by the central competent authority in conjunction with the central industry competent authority pursuant to Article 35, Paragraph 1.
-Copies of the granted permission document for the public or private waste clearance and disposal organization in the foregoing paragraph shall be submitted to the central competent authority.
+VIII.   Other matters announced by the central competent authority.
+A copy of the permission document issued to the public or private waste clearance and disposal organization referred to in the foregoing paragraph shall be also sent to the central competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -363,20 +392,20 @@ The management regulations for the conditions, facilities, educational experienc
   <編章節>   Chapter 5 Incentives and Penalties</編章節>
   <條文>
     <條號>Article 45</條號>
-    <條文內容><![CDATA[For those that violate Article 12, Article 18, Paragraph 1, Article 28, Paragraphs 1 and 7, Article 36, Paragraph 1, Article 38, Paragraph 1, Article 39, Paragraph 1, or Article 41, Paragraph 1 thereby causing human death, permanent imprisonment or at least seven years imprisonment shall be imposed and may combine a fine of no more than fifteen million New Taiwan Dollars; thereby causing serious human injury, three to ten years imprisonment shall be imposed and may be combined with a fine of no more than nine million New Taiwan Dollars; thereby endangering human health and causing illness, at most five years imprisonment shall be imposed and may be combined with a fine of no more than six million New Taiwan Dollars.
-Forging or modification of the fee collection verification labels in Article 24, Paragraph 3 two to seven years imprisonment shall be imposed and may be combined with a fine of no more than ten million New Taiwan Dollars.
-Sale of the fee collection verification labels in the foregoing paragraph, one to seven years imprisonment shall be imposed and may be combined with a fine of no more than ten million New Taiwan Dollars.
+    <條文內容><![CDATA[For those that violate Article 12, Article 18, Paragraph 1, Article 28, Paragraphs 1 and 7, Article 36, Paragraph 1, Article 38, Paragraph 1, Article 39, Paragraph 1, or Article 41, Paragraph 1, thereby causing human death, permanent imprisonment or at least seven years’ imprisonment shall be imposed and may be combined with a fine of no more than thirty million New Taiwan Dollars; thereby causing serious human injury, three to ten years’ imprisonment shall be imposed and may be combined with a fine of no more than twenty five million New Taiwan Dollars; thereby endangering human health and causing illness, one to seven-year imprisonment shall be imposed and may be combined with a fine of no more than twenty million New Taiwan Dollars.
+Two to seven years’ imprisonment shall be imposed to those who forging or altering the fee collection verification labels referred to in Article 24, Paragraph 3, which may be combined with a fine of no more than ten million New Taiwan Dollars.
+One to seven years’ imprisonment shall be imposed to those who sell the fee collection verification labels referred to in the foregoing paragraph, which may be combined with a fine of no more than ten million New Taiwan Dollars.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[In any of the following circumstances, one to five years imprisonment shall be imposed and may be combined with a fine of no more than three million New Taiwan Dollars.
+    <條文內容><![CDATA[In any of the following circumstances, one to five years imprisonment shall be imposed and may be combined with a fine of no more than fifteen million New Taiwan Dollars:
 I.      Arbitrary disposal of hazardous waste.
 II.     The responsible person of the enterprise or relevant person fails to store, clear, dispose of or reuse waste pursuant to this Act, thereby causing environmental pollution.
-III.    Providing land for refill or piling waste without permission from the competent authority.
-IV.     Conducting waste storage, clearance, disposal without obtaining waste clearance and disposal permission pursuant to Article 41, Paragraph 1; or storing, clearing and disposing of waste not in accordance with the content designated in the waste clearance and disposal permission.
-V.      Personnel of the enforcement authority authorize clearance and disposal of general waste to enterprise without valid permission document; or authorize when knowing there is illegal conduct of clearance and disposal.
-VI.     Responsible person or relevant person of a public or private waste management organization, or personnel of the enforcement authority grant a forged certificate for waste that was not disposed of.
+III.    Providing land refilling or waste piling without permission from the competent authority
+IV.     Conducting waste storage, clearance, disposal without obtaining the waste clearance and disposal permission pursuant to Article 41, Paragraph 1; or storing, clearing and disposing of waste not in accordance with the content designated in the waste clearance and disposal permission.
+V.      Personnel of the enforcement authority authorize clearance and disposal of general waste to the enterprise without valid permission document; or authorize when knowing there is illegal conduct of clearance and disposal.
+VI.     Responsible person or relevant personnel of a public or private waste disposal organization, or personnel of the enforcement authority issue a false certificate for the waste not being disposed of.
 ]]></條文內容>
   </條文>
   <條文>
@@ -386,7 +415,7 @@ VI.     Responsible person or relevant person of a public or private waste manag
   </條文>
   <條文>
     <條號>Article 48</條號>
-    <條文內容><![CDATA[Any person who is required to submit reports pursuant to this Act that knowingly submits a false report based on known untrue facts or makes false entry in documents prepared for business purpose shall be punished with no more than three years imprisonment, detained for service or fine or combined fine of no more than 1.5 million New Taiwan Dollars.
+    <條文內容><![CDATA[Any person who is obligated to make a declaration pursuant to this Act but gives untrue declaration based on the known untrue fact or provide untrue recordkeeping for business documents shall be sentenced an imprisonment of no more than three years, detained or imposed or concurrently imposed a fine of no more than ten million New Taiwan Dollars.
 ]]></條文內容>
   </條文>
   <條文>
@@ -425,15 +454,15 @@ Serious noncompliance of the foregoing two paragraphs shall result in orders for
   </條文>
   <條文>
     <條號>Article 52</條號>
-    <條文內容><![CDATA[The violation of Article 28, Paragraph 1, Article 31, Paragraphs 1 and 4, Article 36, Paragraph 1, Article 39, Paragraph 1, or management regulations determined pursuant to Article 29, Paragraph 2 when storing, clearing, disposing of or reusing general industrial waste shall be imposed fines of between six thousand and thirty thousand New Taiwan Dollars, and shall be notified to make improvements within a designated time period. If the violation continues after the end of the designated time period, then continuous daily fines shall be imposed.
+    <條文內容><![CDATA[Those that violate Article 28, Paragraph 1, Article 31, Paragraphs 1 and 5, Article 34, Article 36, Paragraph 1, Article 39, or management regulations prescribed by Article 29, Paragraph 2 and Article 39-1, Paragraph 2 when storing, clearing, disposing of or reusing general industrial waste shall be imposed a fine in an amount between six thousand and three million New Taiwan Dollars. If they still fail to make any improvement after the demanded time limit, the fine will be repeatedly imposed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 53</條號>
-    <條文內容><![CDATA[In any of the following circumstances, a fine of between sixty thousand and three hundred thousands New Taiwan Dollars shall be imposed, and shall be notified to make improvements within a designated time period. If the violation continues after the end of the designated time period, then continuous daily fines shall be imposed. Serious violators may be ordered to suspend work or suspend business.
-I.      Storage, clearance, disposal or reuse of hazardous industrial waste that is in violation of Article 28, Paragraphs 1 and 7, Article 31, Paragraphs 1 and 4, Article 34, Article 39, Paragraph 1 or the management regulations determined pursuant to Article 29, Paragraph 2.
-II.     Storage, clearance or disposal of hazardous industrial waste that is in violation of Article 36, Paragraph 1
-III.    Violations of Article 38, Paragraphs 1 and 3 or Article 38, Paragraph 4 and Article 38, Paragraph 1 or 3 shall also be subject to these regulations.
+    <條文內容><![CDATA[In any of the following circumstances, a fine between sixty thousand and ten million New Taiwan Dollars shall be imposed. If no improvement has been made after the demanded time limit, the fine will be repeatedly imposed. Serious violators may be ordered to suspend their work or business:
+I.      1Storage, clearance, disposal or reuse of hazardous industrial waste that is in violation of Article 28, Paragraphs 1 and 7, Article 31, Paragraphs 1 and 5, Article 34, Article 39, or the management regulations prescribed by Article 29, Paragraph 2, and Article 39-1 Paragraph 2.
+II.     Storage, clearance or disposal of hazardous industrial waste that is in violation of Article 36, Paragraph 1.
+III.    Violation of Article 38, Paragraphs 1 and 3 or Article 38, Paragraph 4 and Article 38, Paragraph 1 or 3 shall be applied mutatis mutandis under Paragraph 1 or 3 of the same Article.
 ]]></條文內容>
   </條文>
   <條文>
@@ -443,17 +472,17 @@ III.    Violations of Article 38, Paragraphs 1 and 3 or Article 38, Paragraph 4 
   </條文>
   <條文>
     <條號>Article 55</條號>
-    <條文內容><![CDATA[IIn any of the following circumstances, a fine between six thousand and thirty hundred New Taiwan Dollars shall be imposed, and shall be notified to make improvements within a designated time period. Failure to make improvements within the designated time period shall be imposed of continuous daily fines.
-I.      The public or private waste clearance and disposal organization violates Article 12 or management regulations determined pursuant to Article 42.
-II.     An enterprise that performs self-clearance and disposal of industrial waste that violates the management regulations determined pursuant to Article 28, Paragraph 2.
-III.    Joint waste clearance and disposal organizations and clearance and disposal facilities of public or private organizations that violate the management regulations determined pursuant to Article 28, Paragraphs 3 to 5.
-IV.     The operation and testing of the storage, clearance, and disposal of hazardous industrial waste violates the management regulations of Article 37, Paragraph 2.
-V.      Waste analysis laboratories that violate provisions designated in Article 43, Paragraph 1.
+    <條文內容><![CDATA[In any of the following circumstances, a fine between six thousand and three million New Taiwan Dollars shall be imposed. If no improvement has been made after the demanded time limit, the fine will be repeatedly imposed:
+I.      The public or private waste clearance and disposal organization violates Article 12 or the management regulations prescribed by Article 42.
+II.     The designated and announced business violates Article 28, Paragraph 2 for hiring professional technical personnel or violates the management regulations prescribed by Article 28, Paragraph 2 in self-clearance and disposal of industrial waste.
+III.    The joint waste clearance and disposal organization and clearance and disposal facilities of the public or private organization violate the management regulations prescribed by Article 28, Paragraphs 3 to 5.
+IV.     The operation and testing of the storage, clearance, and disposal of hazardous industrial waste violates the management regulations prescribed by Article 37, Paragraph 2.
+V.      The waste testing organization violates Article 43, Paragraph 1.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 56</條號>
-    <條文內容><![CDATA[Violation of provisions designated in Paragraph 1 of Article 37, or without adequate reason, evade, impede or refuse to be checked, inspected, sampled or demanded regarding relevant information designated under Paragraph 1 of Article 9, shall be imposed a fine between twelve thousand and sixty thousand New Taiwan Dollars.
+    <條文內容><![CDATA[Those that violate Article 37, Paragraph 1 or evade, impede or refuse, without due reason, the spot check, inspection, sampling or order for providing relevant information prescribed by Article 37, Paragraph 1 shall be imposed a fine between thirty thousand and five million New Taiwan Dollars.
 ]]></條文內容>
   </條文>
   <條文>
@@ -463,7 +492,7 @@ V.      Waste analysis laboratories that violate provisions designated in Articl
   </條文>
   <條文>
     <條號>Article 58</條號>
-    <條文內容><![CDATA[Waste analysis laboratorys and inspection and testing persons, that violate management regulations determined under Paragraph 2 of Article 43, professional technical personnel for waste management who violate management regulations determined under Article 44, shall be imposed a fine between six thousand and thirty thousand New Taiwan Dollars.
+    <條文內容><![CDATA[Those waste testing organizations and inspection and testing personnel that violate the management regulations prescribed by Article 43, Paragraph 2 and those waste professional technical personnel who violate the management regulations prescribed by Article 44 shall be imposed a fine between sixty thousand and one million New Taiwan Dollars.
 ]]></條文內容>
   </條文>
   <條文>
@@ -494,6 +523,13 @@ V.      Other circumstances recognized by the competent authority
   <條文>
     <條號>Article 63</條號>
     <條文內容><![CDATA[Penalties imposed in accordance with this Act shall be enforced by the enforcement authority; in circumstances of enforcement authority nonfeasance, the higher competent authority may enforce the Act on behalf of the enforcement authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 63-1</條號>
+    <條文內容><![CDATA[The limitation of the penalty imposed in accordance with the Act shall be determined according to the waste’s pollution degree and characteristics and its hazardous degree, in which the penalty rules shall be enacted by the central competent authority.
+If the benefit ill-gotten from the violation surpasses the maximum amount of the statutory fine, the penalty shall be aggregated within the scope of the ill-gotten benefit, which is not limited by the maximum amount of the statutory fine.
+The determination and calculation regulations of the ill-gotten benefit referred to in the preceding paragraph shall be enacted by the central competent authority.
 ]]></條文內容>
   </條文>
   <條文>

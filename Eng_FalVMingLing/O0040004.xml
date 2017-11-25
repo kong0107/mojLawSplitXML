@@ -3,11 +3,12 @@
 <英文法規名稱>Effluent Standards</英文法規名稱>
 <中文法規名稱>放流水標準</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=O0040004</法規網址>
-<最新英文異動日期>20140122</最新英文異動日期>
+<最新英文異動日期>20160106</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002271</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003072</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003073</下載網址>
 </附件>
 <沿革內容><![CDATA[1.Original 4 articles promulgated by Department of Health Order Wei-Shu-Huan-Tzu No. 654798 on May 5, 1987.
 2.Revisions promulgated by EPA Order (80) Huan-Shu-Fa-Tzu No. 00359 on January 16, 1991.
@@ -23,8 +24,9 @@
 12.Revisions to Articles 2 and 6 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 0980065341 on July 28, 2009.
 13.Nine articles promulgated by EPA Order Huan-Shu-Shui-Tze No. 0990112348F on December 15, 2010.
 14.Revisions to Articles 2 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 10000103860 on December 1, 2011.
-15.Revisions to Articles 2,5 and 6  promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1010090770 on October 12, 2012.
-16.Revisions to Articles 2 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1030005842 on January 22, 2014.]]></沿革內容>
+15.Revisions to Articles 2,5 and 6 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1010090770 on October 12, 2012.
+16.Revisions to Articles 2 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1030005842 on January 22, 2014.
+17.Revisions to Articles 2 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1040110356 on January 6, 2016.]]></沿革內容>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
@@ -33,7 +35,9 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[Water quality items and limits for effluent standards for enterprises, sewage systems and building sewage treatment facilities are as follows in the table:
+    <條文內容><![CDATA[Water quality items and limits for effluent standards for enterprises, sewage systems and building sewage treatment facilities are as follows in the table 1.
+For the enterprises and sewage systems discharging wastewater to the special receiving water body in the water pollution total quantity control zone (“total quantity control zones” in brief) that has been announced by the special municipality, county or city competent authority for protecting the farmland water body, the regulations in Table 2 shall be applicable to the limits of copper, zinc, total chromium, nickel, cadmium and hexavalent chromium in the effluent. The regulations in table 2 shall not be applicable for the enterprises and sewage systems in the total quality control zones if the wastewater is discharged at a discharging point outside the total quality control zone through the attached pipelines along irrigation canals and all classes of water drainage channels, or jointly discharged through the pipelines, or if the wastewater is discharged at a discharging point in the total quality control zone but not to the special receiving water body.
+If the enterprises and sewage systems have designated effluent standards shall be applicable.
 ]]></條文內容>
   </條文>
   <條文>
@@ -48,17 +52,18 @@
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[The dioxin concentration is calculated as the sum of the measured concentrations of 17 compounds, including 2,3,7,8-tetrachlorinated dibenzo-p-dioxin-2,3,7,8-TeCDD, 2,3,7,8-tetrachlorinated dibenzofuran,2,3,7,8-TeCDF and 2,3,7,8- penta-, hexa-, hepta-, and octa-chlorinated dioxins and furans, multiplied by the international dioxin toxic equivalency factors (I-TEF), and is expressed as a toxicity equivalency quantity of 2,3,7,8-tetrachlorinated dibenzo-p-dioxin quantity (TEQ).
+    <條文內容><![CDATA[The dioxin concentration is calculated as the sum of the measured concentrations of 17 compounds, including 2,3,7,8-tetrachlorinated dibenzo-p-dioxin-2,3,7,8-TeCDD, 2,3,7,8-tetrachlorinated dibenzofuran,2,3,7,8-TeCDF and 2,3,7,8- penta-, hexa-, hepta-, and octa-chlorinated dioxins and furans,
+multiplied by the international dioxin toxic equivalency factors (I-TEF), and is expressed as a toxicity equivalency quantity of 2,3,7,8-tetrachlorinated dibenzo-p-dioxin quantity (TEQ).
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[All values of the effluent characteristics used in these Standards constitute maximum limitations, with the exception of the lowest limits for pH, and the units for such characteristics are defined as follows:
-I.      pH: Unitless
-II.     True color: Unitless
-III.    E. Coli: Colony count on filter membrane per 100 ml water sample (CFU/100mL).
-IV.     Dioxin: pg I-TEQ/L
-V.      Other characteristics: mg/L
+I. pH: Unitless
+II. True color: Unitless
+III. E. Coli: Colony count on filter membrane per 100 ml water sample (CFU/100mL).
+IV. Dioxin: pg I-TEQ/L
+V. Other characteristics: mg/L
 ]]></條文內容>
   </條文>
   <條文>

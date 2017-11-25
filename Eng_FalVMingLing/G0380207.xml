@@ -3,12 +3,13 @@
 <英文法規名稱>Act Governing Issuance of Electronic Stored Value Cards</英文法規名稱>
 <中文法規名稱>電子票證發行管理條例</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0380207</法規網址>
-<最新英文異動日期>20150624</最新英文異動日期>
+<最新英文異動日期>20170614</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1.Promulgated on January, 23, 2009
 (Passed by the Legislative Yuan on January 13, 2009)
-2.Amended on June 24, 2015]]></沿革內容>
+2.Amended on June 24, 2015
+3.Amended on June, 14, 2017]]></沿革內容>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
@@ -21,11 +22,8 @@ In line with the development of electronic technology, this Act is enacted to fa
     <條號>Article 2</條號>
     <條文內容><![CDATA[(Competent Authority)
 The term "Competent Authority", as used in this Act, shall mean the Financial Supervisory Commission. For matters involving the authority of other government agencies, the Competent Authority will consult with the government agencies concerned.
-]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 3</條號>
-    <條文內容><![CDATA[(Definitions)
+Article 3
+(Definitions)
 The terms as used in this Act are defined as follows:
 1. "Electronic stored value card" shall mean an IC chip, card, certificate or other forms of debt obligation that uses electronic, magnetic or optical means to store monetary value and performs the function of data storage or computing, and is used for multiple payment purposes.
 2. "Issuer" shall mean an institution that has been approved by the Competent Authority to engage in electronic stored value card business in accordance with this Act.
@@ -52,7 +50,7 @@ An issuer may conduct the following businesses after obtaining the approval of t
 2. Signing up contracted merchants; and
 3. Other businesses as approved by the Competent Authority.
 Where any of the businesses mentioned in the preceding paragraph involves foreign exchange, the issuer shall obtain the permission of the Central Bank of the ROC and conduct the business in compliance with the rules and instructions of the Central Bank of the ROC.
-Unless with the approval of the Competent Authority, an issuer may not change all or part of the businesses mentioned in the preceding paragraph. 
+Unless with the approval of the Competent Authority, an issuer may not change all or part of the businesses mentioned in the preceding paragraph.
 An issuer may outsource part of its businesses to or issue electronic stored value cards with a third party capable of providing relevant functions.
 ]]></條文內容>
   </條文>
@@ -74,7 +72,7 @@ The above minimum paid-in capital shall be subscribed in full by the promoters a
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[(Application for Establishment)
-An issuer must be organized as a company limited by shares and specialize in  the  business  of  electronic  stored  value  cards,  unless  it  is  otherwise provided in this Act or the issuer is approved by the Competent Authority to engage concurrently in the electronic payment business pursuant to the Act Governing Electronic Payment Institutions.
+An issuer must be organized as a company limited by shares and specialize in the business of electronic stored value cards, unless it is otherwise provided in this Act or the issuer is approved by the Competent Authority to engage concurrently in the electronic payment business pursuant to the Act Governing Electronic Payment Institutions.
 For an institution to specialize in the electronic stored value card business, its promoters or responsible persons shall submit two copies of the following documents to the Competent Authority for approval:
 1. Application form;
 2. The roster of the promoters or shareholders and directors and supervisors, and evidential documents;
@@ -185,7 +183,7 @@ Regulations governing the review criteria, business management, operating mode, 
     <條號>Article 17</條號>
     <條文內容><![CDATA[(Restriction on Concurrent Positions Held by Responsible Persons and Business Compliance)
 Regulations governing concurrent serving restrictions and other matters to be complied with for the responsible persons of an issuer shall be prescribed by the Competent Authority.
-The rules governing business management, operating mode, contracted merchants management, business outlets, internal control and audit, outsourcing operation, restrictions on investment, approval     and reporting of financial, business and operational information and other matters to be complied with shall be prescribed by the Competent Authority.
+The rules governing business management, operating mode, contracted merchants management, business outlets, internal control and audit, outsourcing operation, restrictions on investment, approval and reporting of financial, business and operational information and other matters to be complied with shall be prescribed by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -205,8 +203,7 @@ The funds declared trust may not be drawn unless for the following purposes:
 1. To pay for the products or services provided by the contracted merchants, government fees or other fees approved by the Competent Authority.
 2. To reimburse the balance in an electronic stored value card upon the request of the cardholder.
 3. To make use of the trust property.
-4. To dispense interest or other income earned from the trust property to the issuer.
-When a contracted merchant makes payment request, an issuer shall, based on the settlement results, instruct the trust enterprise to pay the contracted merchant without the act of stalling or deception.
+4. To dispense interest or other income earned from the trust property to the issuer. When a contracted merchant makes payment request, an issuer shall, based on the settlement results, instruct the trust enterprise to pay the contracted merchant without the act of stalling or deception.
 A trust enterprise may make use of the trust property only in any of the following manners:
 1. Deposit it in banks.
 2. Purchase government bonds or bank debentures.
@@ -315,7 +312,7 @@ Issuers shall observe the business rules and self-disciplinary rules referred to
   <條文>
     <條號>Article 30</條號>
     <條文內容><![CDATA[(Criminal Liability)
-Non-issuers that issue electronic stored value cards without the approval of the Competent Authority shall be punishable by imprisonment for not less than one (1) year and not more than ten (10) years, and in addition thereto, a fine of not less than NT$20,000,000 and not more than NT$500,000,000. 
+Non-issuers that issue electronic stored value cards without the approval of the Competent Authority shall be punishable by imprisonment for not less than one (1) year and not more than ten (10) years, and in addition thereto, a fine of not less than NT$20,000,000 and not more than NT$500,000,000.
 Violation of Paragraph 1, Article 4 herein by signing up contracted merchants without approval of the Competent Authority or violation of Paragraph 2, Article 18 or Paragraph 2, Article 19 herein shall be punishable by imprisonment for not more than seven (7) years, and in addition thereto, a fine of not more than NT$500,000,000.
 Selling electronic stored value cards issued by non-issuers shall be punishable by imprisonment for not more than three (3) years, or detention, or in lieu thereof, or in addition thereto, a fine of not more than NT$5,000,000.
 When the representative, agent, employee or other staff personnel of a juristic person commits any of the offenses provided in the preceding three paragraphs in the performance of duties, the actor shall be punished, and in addition, the juristic person shall be subject to the fines set out in the preceding three paragraphs.
@@ -327,7 +324,8 @@ When the representative, agent, employee or other staff personnel of a juristic 
 Commission of any of the following acts shall be punishable by a fine of not less than NT$600,000 and not more than NT$3,000,000:
 1. Violation of the regulations set forth pursuant to Paragraph 2 of Article 4 herein regarding security strength level, security requirements design, and protection measures.
 2. Violation of Paragraphs 1 ~ 3 of Article 5 herein by engaging in business not approved by the Competent Authority or changing business in part or in whole without the approval of the Competent Authority.
-3. Violation of Paragraph 1 of Article 5-1 herein or the amount of funds transferred exceeds the limit set out pursuant to Paragraph 2 of the same article.
+3. Violation of Paragraph 1 of Article 5-1 herein or the amount of funds transferred exceeds the limit set out pursuant to Paragraph 2 of
+the same article.
 4. Violation of Paragraph 1 of Article 7 herein by not specializing in electronic stored value card business or engaging concurrently in the business without the approval of the Competent Authority.
 5. Violation of provisions on limits set out in Article 13 herein.
 6. Violation of Paragraph 1 of Article 16 herein by issuing international electronic stored value cards, or cooperating with a foreign institution in the issue of electronic stored value cards without the approval of the Competent Authority, or violating the regulations set forth pursuant to Paragraph 2 of the same article governing business management, operating mode, and reporting of material financial, business or operational information.
@@ -370,8 +368,8 @@ Commission of any of the following acts shall be punishable by a fine of not les
   <條文>
     <條號>Article 34</條號>
     <條文內容><![CDATA[(Competent Authority's Authority to Impose Penalty and Relief Procedure)
-The amount of fines set forth in this Act shall be decided ex officio by the Competent Authority. In the event that the penalized party disagrees with the decision, he may appeal such decision in accordance with the procedures for administrative appeal and administrative litigation. During the period of administrative appeal and administrative proceedings, the Competent Authority may hold the execution of fines by ordering the appellant to furnish appropriate amount of bond.
-In the event a fine is not paid within the specified period of time, a surcharge at the rate of one percent (1%) of the amount of the fine in arrears shall be levied for each day of delay. If the payment of fine is in arrears for more than thirty (30) days, the case shall be referred to the court for compulsory execution and the Competent Authority may, in addition, suspend the business of the penalized party.
+The amount of fines set forth in this Act shall be decided ex officio by the Competent Authority. In the event that the penalized party disagrees with the decision, he may appeal such decision in accordance with the procedures for administrative appeal and administrative litigation.
+During the period of administrative appeal and administrative proceedings, the Competent Authority may hold the execution of fines by ordering the appellant to furnish appropriate amount of bond. In the event a fine is not paid within the specified period of time, a surcharge at the rate of one percent (1%) of the amount of the fine in arrears shall be levied for each day of delay. If the payment of fine is in arrears for more than thirty (30) days, the case shall be referred to the court for compulsory execution and the Competent Authority may, in addition, suspend the business of the penalized party.
 ]]></條文內容>
   </條文>
   <條文>
@@ -382,14 +380,14 @@ For issuers that have been penalized in accordance with this Act and fail to tak
   </條文>
   <條文>
     <條號>Article 36</條號>
-    <條文內容><![CDATA[(Disposition of Proceeds of Crime)
-The gains or property interests obtained from the commission of a crime provided in this Act, other than that which should be returned to the victims of crime or and person(s) with a claim for compensation due to harm, shall be confiscated, provided the remaining gains belong to the offender. Where the above gains or property interests cannot be confiscated in whole or in part, the value thereof shall be indemnified by either seeking recourse against the offender or offsetting such value with the property of the offender.
+    <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
   <編章節>   Chapter 5 Supplemental Provisions</編章節>
   <條文>
     <條號>Article 37</條號>
-    <條文內容><![CDATA[(Adjustment and Grace Period) Deleted.
+    <條文內容><![CDATA[(Adjustment and Grace Period)
+Deleted.
 ]]></條文內容>
   </條文>
   <條文>

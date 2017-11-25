@@ -3,7 +3,7 @@
 <英文法規名稱>Water Act</英文法規名稱>
 <中文法規名稱>水利法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=J0110001</法規網址>
-<最新英文異動日期>20140129</最新英文異動日期>
+<最新英文異動日期>20160525</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1.Full text (71 articles) promulgated on July 7, 1943 and implemented on April 1, 1943.
@@ -18,7 +18,8 @@
 10.Aaddition of Article 97-1 on May 7, 2008 by Presidential Decree.
 11.Amendment to Article 91 on June 1, 2011 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi-10000111011.
 12.Addition to Articles 93-6 on June 11, 2013 by Presidential Decree
-13.Amendment to Articles 78-2、82、83、91-2 on January 29, 2014 by Presidential Decree]]></沿革內容>
+13.Amendment to Articles 78-2、82、83、91-2 on January 29, 2014 by Presidential Decree
+14.Amendment to Articles 42,47-1,93-6,97-1,98,and Addition of Articles 54-3,84-1,93-7,93-8 promulgated on May 25, 2016 by Presidential Decree]]></沿革內容>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
@@ -321,12 +322,13 @@ The authority-in-charge may inspect the meter and water consumption under the pr
   </條文>
   <條文>
     <條號>Article 42</條號>
-    <條文內容><![CDATA[Water usage for the following purposes are exempt from water right registration:
+    <條文內容><![CDATA[Surface or ground water usage for the following purposes are exempt from water right registration:
 1. domestic use and livestock water consumption;
-2. pond digging on private land;
-3. well drilling on private land, provided that its water output is less than 100 liters per minute;
-4.water drawing by means of human power, animal power, or other simple means.
-The authority-in-charge may impose restrictions upon, or order a registration of, the use of water under the preceding paragraph if such use has interfered with public water works or water usage by others.
+2. water consumption in accordance with Subparagraph 4, Paragraph 1, Article 19 of the Indigenous Peoples Basic Law;
+3. hot spring water less than two cubic meters per household per day; and 
+4. water drawing by means of human power, animal power, or other simple means.
+The authority-in-charge may give recognition upon, or order a water right registration of, the use of water under the preceding paragraph if such use is suspected of interfering with public water works or water usage by others.
+Before the implementation of the amended Act on May 6, 2016, the authority-in-charge shall a water right registration of the well drilling on private land, provided that its water output is less than 100 liters per minute, in accordance with the plan, except water usage for the purposes stipulated in Paragraph 1 are exempt from water right registration.
 ]]></條文內容>
   </條文>
   <條文>
@@ -371,8 +373,9 @@ The authority-in-charge may issue an order of alteration or demolition of any hy
   </條文>
   <條文>
     <條號>Article 47-1</條號>
-    <條文內容><![CDATA[To prevent seawater intrusion and subsidence due to over-extraction of ground water in a certain area, the central authority-in-charge may designate a district as ground water control area to restrict or ban the development of ground water. The central authority-in-charge shall promulgate the control measure therefor.
-The authority-in-charge may restrict, alter, or revoke any water right already granted within a ground water control district.
+    <條文內容><![CDATA[To prevent the infringement on the sustainable use of groundwater, seawater intrusion, or subsidence due to over-extraction of ground water in a certain area, the central authority-in-charge may designate a district as ground water control area to restrict or ban the development of ground water. The central authority-in-charge shall promulgate the control measure for zoning procedures, well drilling, water registration and other related regulations therefore.
+For the purpose of agricultural water use in the ground water control area, the central authority-in-charge shall work with the central agricultural authority-in-charge to promulgate the control measure for zoning procedures, well drilling, water registration and other related regulations therefore.
+The authority-in-charge may restrict, alter, or revoke any water right already granted within a ground water control district stipulated in Paragraph 1.
 ]]></條文內容>
   </條文>
   <條文>
@@ -430,6 +433,17 @@ The authority-in-charge may entrust the reservoir management agency (entity) to 
   <條文>
     <條號>Article 54-2</條號>
     <條文內容><![CDATA[A reservoir storage area shall be managed by its proprietor or a management agency (entity) entrusted by the proprietor. The central authority-in-charge will prescribe the measure for the use and management of reservoir, boundaries of storage area, approval announcement procedure, and other provisions.　　
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 54-3</條號>
+    <條文內容><![CDATA[For the application for or alteration in development with the water usage reaching a certain scale or the increase in planned water usage, the developer shall submit the water usage plan or revised water usage plan to the authority-in-charge of relevant industry before the application or alteration. The authority-in-charge of relevant industry shall submit it to the central authority-in-charge for approval accordingly. 
+After the water usage plan is approved, the developer shall carry out the development in accordance with the water usage plan and report to the central authority-in-charge on a regular basis. The central authority-in-charge may carry out the inspection if necessary. 
+If the actual water usage and the planned water usage have a certain percentage or scale of difference, the developer shall submit the difference analysis report to the central authority-in-charge for review and adjust the water usage plan in accordance with the review result. If the actual water usage exceeds water usage specified in the final water usage plan, the same procedures stipulated in the first paragraph shall apply. 
+If the development has not been carried out within three years upon approval of the water usage plan, the developer shall apply for the extension or cancelation with the central authority-in-charge two months prior to the expiration; the extension is limited up to three years and once. When the central authority-in-charge orders the developer failing to apply for the extension or cancelation to make an improvement or carry out the development within the deadline and the developer fails to do so, the central authority-in-charge may cancel the approved water usage plan. 
+Before the approval of the water usage plan or revised water usage plan, the water supplier shall not supply water to the developer. 
+Before the implementation of the amended Act on May 6, 2016, if the developer with the actual water usage, except for agricultural water use, in the development approved by the authority-in-charge of relevant industry reaching a certain scale fails to submit the water usage plan, the central authority-in-charge may order the developer or the user to submit the water usage plan in accordance with the procedures stipulated in Paragraph 1. 
+The central authority-in-charge shall stipulate the content, submission, review, approval, extension, cancelation, and revocation of development, developer, user, certain scale, certain percentage, and difference analysis report, report and inspection of water usage, and other related regulations.
 ]]></條文內容>
   </條文>
   <條文>
@@ -769,6 +783,14 @@ All the fees levied under the preceding paragraph shall be expended exclusively 
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 84-1</條號>
+    <條文內容><![CDATA[To effectively and sustainable use water resources, the central authority-in-charge may impose the water conservation charge on the user with the water usage exceeding a certain scale. However, the user fulfilling the water-saving measures may be exempted from up to 60% of the water conservation charge.
+When the water price of water department is included in the cost of water conservation and drought preparation, the water conservation charge shall be reduced or exempted.
+The central authority-in-charge shall work with the central authority-in-charge of relevant industry shall stipulate the calculation and collection, object of collection, payment deadline, water-saving measures, scope and method of reduction of water conservation charge and other related regulations. 
+The water conservation charge collected in accordance with regulations stipulated in Paragraph 1 shall be managed and used by Water Resources Operation Fund under the central authority-in-charge for the promotion of water resource management, water recycling, and water conservation.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 85</條號>
     <條文內容><![CDATA[The water right fees shall be levied as follows: for agricultural and industrial use, a cubic meter per minute of supply as a starting point; for hydro-power use, a cubic meter per second of supply as a starting point. Rates shall be promulgated by the central authority-in-charge and announced publicly.
 ]]></條文內容>
@@ -935,10 +957,29 @@ The authority-in-charge may seize tools and machines used to perpetrate or obstr
   </條文>
   <條文>
     <條號>Article 93-6</條號>
-    <條文內容><![CDATA[To exercise applicable water rights and manage rivers, drainages, sea embankments, reservoirs, hydraulic structures or groundwater well drilling service operators, the competent authority or water works authority may send a representative to access the business operation site, the building, or land and perform inspections as long as the said businesses are believed to be violating the prohibition and restriction requirements of the Act and may have related parties to provide necessary explanations, adopt required measures, or provide related materials, which the party being inspected may not circumvent, obstruct, or reject. When there are substantial facts to prove violations during inspections and circumvention, obstruction, or rejection of inspections, the competent authority or water works authority may access such premises by force. When it is considered necessary, local police organizations may also be asked to provide assistance.
-Inspectors specified in the preceding paragraph shall spontaneously show their ID or symbols sufficient for identification while carrying out inspection assignments and may not interfere with the normal operations at the said business operation site.
+    <條文內容><![CDATA[To exercise applicable water rights and manage rivers, drainages, sea embankments, reservoirs, hydraulic structures, groundwater well drilling service operators or water usage plan, the competent authority or water works authority may send a representative to access the business operation site, the building, or land and perform inspections as long as the said businesses are believed to be violating the prohibition and restriction requirements of the Act or evading the water conservation charge and may have related parties to provide necessary explanations, adopt required measures, or provide related materials, which the party being inspected may not circumvent, obstruct, or reject. When there are substantial facts to prove violations during inspections and circumvention, obstruction, or rejection of inspections, the competent authority or water works authority may access such premises by force. When it is considered necessary, local police organizations may also be asked to provide assistance.
+A notice or announcement shall be given before the implementation of the inspection, except for those suspected of interfering with the inspection. 
+Inspectors specified in Paragraph 1 shall spontaneously show their ID or symbols sufficient for identification while carrying out inspection assignments and may not interfere with the normal operations at the said business operation site.
 The inspecting authority and inspectors indicated in Paragraph 1 shall keep confidential the personal and business secrets of the party being inspected.
-Unjustified circumvention, obstruction, or rejection of the inspections indicated in Paragraph 1 or failure to offer explanations, adopt required measures, or provide related materials shall be punishable by a maximum fine of NT$20,000 to NT$100,000. The punishment is applicable per violation.
+Unjustified circumvention, obstruction, or rejection of the inspections indicated in Paragraph 1 or failure to offer explanations, adopt required measures, or provide related materials shall be punishable by a maximum fine of NT$20,000 to NT$100,000. The punishment and mandatory inspection is applicable per violation.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 93-7</條號>
+    <條文內容><![CDATA[If one of the following occurs, a maximum fine of NT$300,000 to NT$1,500,000 will be imposed and the punishment is applicable per violation:
+1. The developer uses water before the water usage plan or revised water usage plan is approved by the central authority-in-charge in accordance with Paragraph 1 and 3, Article 54-3. 
+2. The developer violates the water usage plan approved under Paragraph 2, Article 54-3. 
+3. The water supplier supplies water to the developer before the water usage plan or revised water usage plan is approved under Paragraph 5, Article 54-3.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 93-8</條號>
+    <條文內容><![CDATA[If one of the following occurs and the improvement is not made within the deadline ordered by the central authority-in-charge, a maximum fine of NT$50,000 to NT$250,000 will be imposed and the punishment is applicable per violation:
+1. The developer fails to submit the water usage plan or revised water usage plan in accordance with Paragraph 1 or 3, Article 54-3. 
+2. The developer fails to report the water usage in accordance with Paragraph 2, Article 54-3. 
+3. The developer fails to submit the difference analysis report in accordance with Paragraph 3, Article 54-3.
+4. The developer fails to apply for the extension or cancelation in accordance with Paragraph 4, Article 54-3.
+5. The developer or the user fails to submit the water usage plan in accordance with Paragraph 6, Article 54-3.
 ]]></條文內容>
   </條文>
   <條文>
@@ -975,12 +1016,13 @@ If the aforesaid act causes the death of others, the offender shall be punished 
     <條號>Article 97-1</條號>
     <條文內容><![CDATA[Private land in reservoir storage area, sea embankment area, river area or range of drainage facilities whose use has been restricted is not subject to gift tax or inheritance tax when the land is gifted to a lineal relative by blood or inherited, provided the current status of land use does not violate this Act. Notwithstanding the foregoing, where the use of land by the recipient or heir violates this Act within five (5) years from the date of receiving or inheriting the land, the authority-in-charge will notify the tax authority in charge to demand tax payment due. 
 The act of gifting in the preceding paragraph may apply for exemption of land value increment tax, provided the current status of land use does not violate this Act. However if the land is subsequently transferred to a third party, land value increment tax shall be levied by calculating the total increment value based on the originally assessed land value before the land was first gifted or the present value of the land in the previous transfer. 
-In the application for exemption of inheritance tax, gift tax or land value increment tax according to the provisions of the preceding two paragraphs, the heir, donor or recipient shall submit to the tax authority in charge a supporting document issued by the authority-in-charge evidencing that the current status of land use does not violate this Act.
+In the application for exemption of inheritance tax, gift tax or land value increment tax according to the provisions of the preceding two paragraphs, the heir, donor or recipient shall submit to the tax authority in charge a supporting document issued by the authority-in-charge evidencing that the current status of land use does not violate this Act. No charge will be imposed on the issuance of certificates. 
+The central authority-in-charge may designate a subordinate agency or reservoir authority management authority to issue the certificates stipulated in the preceding paragraph.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 98</條號>
-    <條文內容><![CDATA[The enforcement rules of this Act shall be promulgated by the Executive Yuan.
+    <條文內容><![CDATA[The enforcement rules of this Act shall be promulgated by the central authority-in-charge.
 ]]></條文內容>
   </條文>
   <條文>

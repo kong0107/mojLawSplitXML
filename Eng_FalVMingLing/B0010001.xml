@@ -3,12 +3,13 @@
 <英文法規名稱>Taiwan Code of Civil Procedure</英文法規名稱>
 <中文法規名稱>民事訴訟法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=B0010001</法規網址>
-<最新英文異動日期>20030625</最新英文異動日期>
+<最新英文異動日期>20150701</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <沿革內容><![CDATA[1. Promulgated on February 1, 1935
    Effective from July 1, 1935
-15.As amended on June 25, 2003]]></沿革內容>
+15.As amended on June 25, 2003
+21. Amended on July 1, 2015]]></沿革內容>
 <法規內容>
   <編章節>PART I  GENERAL PRINCIPLES</編章節>
   <編章節>   CHAPTER I  THE COURT</編章節>
@@ -109,8 +110,8 @@ In matters relating to claims for damages arising from the crash of aircraft or 
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[In matters relating to succession, partition or compulsory share of an inheritance, or a legacy, or any other act that shall take effect upon death, an action may be initiated in the court for the location where the decedent resided at the time of its death.
-When the court for the decedent's place of domicile cannot exercise jurisdiction, or the transactions or occurrences giving rise to the claim took place at the decedent's place of residence, or the decedent is an R.O.C. citizen and either does not have a place of domicile in the R.O.C. or his/her place of domicile is unknown at the time of death, then the provision of Article 1 shall apply mutatis mutandis in determining the appropriate court.
+    <條文內容><![CDATA[In matters that become effective upon the death of a natural person, an action may be initiated in the court of jurisdiction at the location where the decedent resided at the time of death.
+When the court of jurisdiction, as prescribed in the preceding paragraph, cannot exercise its authority or the occurrences giving rise to the lawsuit took place at the natural person's place of residence, or the natural person was an R.O.C. citizen and either did not have a place of domicile in the R.O.C. or the natural person's place of domicile is unknown at the time of death, then the provision of Article 1 shall apply mutatis mutandis in determining the court of jurisdiction.
 ]]></條文內容>
   </條文>
   <條文>
@@ -188,6 +189,28 @@ The transferee court cannot retransfer the action to another court, except where
 In the case provided in the preceding paragraph, the court clerk shall annex the authenticated copy of the ruling to the dossier and forward it to the transferee court.
 ]]></條文內容>
   </條文>
+  <條文>
+    <條號>Article 31-1</條號>
+    <條文內容><![CDATA[The court'sjurisdiction over the case at the time legal action was initiated shall not be affected by the changes of facts or of legal status that occurred after the case was filed.
+If a case is already pending with a court of another jurisdiction, the case in question shall not be reinitiated with another civil court.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 31-2</條號>
+    <條文內容><![CDATA[When a civil courtdetermines that it has jurisdiction over a case, and delivers a final and binding ruling, other courts are bound by such ruling.
+If a civil court determines that itdoes not have jurisdiction over a case, the court shall rule to transfer the case ex officio to the court with jurisdiction.
+If the party of a case is disputing whether the civil court has jurisdiction over the case, the civil court should adjudicate that dispute as its first priority.
+The ruling as described in the preceding paragraph may be appealed.
+The civil court should seek the opinions of theparties prior to delivering a ruling in accordance with the provisions of the second and the third paragraphs.
+Provisions of Article 29 and Article 31 shall apply mutatis mutandis to the event as prescribed in the second paragraph.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 31-3</條號>
+    <條文內容><![CDATA[When other courts transfer a case to a civil court, the litigation costs shall be determined and collected in accordance with this Act. The litigation costs incurred prior to the transfer are deemed as part of the litigation costs of the civil court.
+Where the required litigation costs were not collected, were falling short of collection amount due, or were over charged, the civil court should collect the unpaid amount or notify the original court to return the overcharge portion of the collection.
+]]></條文內容>
+  </條文>
   <編章節>      Section 2  Disqualification of Officers of the Court</編章節>
   <條文>
     <條號>Article 32</條號>
@@ -242,7 +265,7 @@ A judge may, with the consent of the Chief Judge of the court to which the judge
   </條文>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[The provisions of this Section shall apply mutatis mutandis to all court clerks and interpreters.
+    <條文內容><![CDATA[The provisions of this Section shall apply mutatis mutandis to all Judicial Affair Officers, court clerks and interpreters.
 ]]></條文內容>
   </條文>
   <編章節>   CHAPTER II  PARTIES</編章節>
@@ -313,6 +336,13 @@ The appointment of an attorney in accordance with the provision of the preceding
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 45-1</條號>
+    <條文內容><![CDATA[If an assistant gives consent to a person, who has been declared requiring assistantship, to participate in a legal action, the consent should be evidenced in writing.
+If a person, who has been declared requiring assistantship, participates in a legal action initiated or appealed by other parties, that person does not require his or her assistant's consent.
+If a person, who has been declared requiring assistantship, participates in abandoning a claim, admitting a claim, voluntarily dismissing an action, or settling a case, his or her assistant must give special consent in writing.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 46</條號>
     <條文內容><![CDATA[A foreign national who does not have the capacity to litigate under the law of its own country but who has the capacity to litigate under the R.O.C. law will be deemed to have the capacity to litigate.
 ]]></條文內容>
@@ -334,7 +364,7 @@ The appointment of an attorney in accordance with the provision of the preceding
   </條文>
   <條文>
     <條號>Article 50</條號>
-    <條文內容><![CDATA[The provisions of the two preceding Articles shall apply mutatis mutandis to the case where a party is appointed in accordance with the provisions of Articles 41, 44-1, and 44-2.
+    <條文內容><![CDATA[The provisions of the two preceding Articles shall apply mutatis mutandis to a case where a party is appointed in accordance with the provisions of Articles 41, 44-1, and 44-2, and to a case where a person, who has been declared requiring assistantship, participates in a legal action in accordance with the provisions of Article 45-1.
 ]]></條文內容>
   </條文>
   <條文>
@@ -376,9 +406,10 @@ The provisions of all subparagraphs of Article 56 shall apply mutatis mutandis t
   <條文>
     <條號>Article 56</條號>
     <條文內容><![CDATA[Wherever a claim must be adjudicated jointly with regard to all co-parties, the following subparagraphs shall apply:
-1.Any act conducted by one of the co-parties in the interest of all co-parties will be effective with regard to all of them; any act conducted by one of the co-parties against the interests of all co-parties will have no effect with regard to any of them. 
-2.Any act conducted by the opposing party against one of the co-parties will be effective with regard to all of them;
-3.Any reason for a stay of proceeding, either by operation of law or by a court ruling, that arises with regard to one of the co-parties, will take effect with regard to all of them.
+1. Any act conducted by one of the co-parties in the interest of all co-parties will be effective with regard to all of them; any act conducted by one of the co-parties against the interests of all co-parties will have no effect with regard to all of them. 
+2. Any act conducted by the opposing party against one of the co-parties will be effective with regard to all of them;
+3. Any reason for a stay of proceeding, either by operation of law or by a court ruling, that arises with regard to one of the co-parties, will take effect with regard to all of them.  
+When one of the co-parties, as described in the preceding paragraph, petitions for an appeal, and one or more of the other co-parties are persons who have been declared requiring assistantship, the provisions of Article 45-1 Paragraph 2 shall apply mutatis mutandis.
 ]]></條文內容>
   </條文>
   <條文>
@@ -478,9 +509,7 @@ The Judicial Yuan shall prescribe the regulations governing permission of a pers
   <條文>
     <條號>Article 69</條號>
     <條文內容><![CDATA[An advocate shall produce a Power of Attorney upon conducting the initial act of litigation, except where the advocate is retained by a party orally and such retention is entered in the court record by the court clerk or where the advocate is appointed by the court or the presiding judge in accordance with the applicable law.
-The retention or appointment in accordance with the provision of the preceding paragraph shall be made separately in each instance, except in case of any of the following:
-1.The party has indicated in the Power of Attorney that the retention for a specific action takes effect in all of the court instances and such Power of Attorney has been duly notarized;
-2.The appointment is made in accordance with the provision of the first paragraph of Article 585.
+The retention or appointment, in accordance with the provisions of the preceding paragraph, shall be made separately in each court instance, except when the party has indicated in the Power of Attorney that the retention for a specific action takes effect in all of the court instances and that such Power of Attorney has been duly notarized.
 ]]></條文內容>
   </條文>
   <條文>
@@ -642,14 +671,14 @@ Where a motion for a rehearing proceeds to a final and binding ruling, court cos
   </條文>
   <條文>
     <條號>Article 77-19</條號>
-    <條文內容><![CDATA[As a general rule, no costs will be taxed on motions or statements.  Notwithstanding, court costs of NTD 1,000 shall be taxed on the following motions : 
-1.A motion for intervention or for denying intervention;
-2.A motion for restoration to status quo ante;
-3.A motion for pre-action perpetuation of evidence;
-4.A motion for issuance of a payment order;
-5.A motion for provisional attachment, provisional injunction, or revocation of a ruling for provisional attachment or provisional injunction;
-6.A motion for declaration of interdiction or for revocation of interdiction;
-7.A motion for public summons, for a judgment of abridgment of rights, or for declaration of death.
+    <條文內容><![CDATA[As a general rule, no costs will be collected on motions or statements. However, court costs of NT$ 500 shall be collected on motions as prescribed in first subparagraph below; court costs of NT$ 1,000 shall be collected on motions as prescribed in the second to the seventh subparagraphs inclusive.
+1. A motion for issuance of a payment order;
+2. A motion for intervention or for denying intervention;
+3. A motion for restoration to status quo ante;
+4. A motion for pre-action preservation of evidence;
+5. A motion for provisional attachment, provisional injunction, or revocation of a ruling for provisional attachment or provisional injunction;
+6. Repealed;
+7. A motion for public summons or for a judgment of abridgment of rights.
 ]]></條文內容>
   </條文>
   <條文>
@@ -666,17 +695,17 @@ In such cases, the party moving for issuance of a payment order may have the fil
   </條文>
   <條文>
     <條號>Article 77-22</條號>
-    <條文內容><![CDATA[The appointed party who initiated an action in accordance with the provision of Article 44-2 may temporarily be exempted from paying the portion of the court costs in excess of NTD 600,000 if the amount of court costs taxed is more than NTD 600,000.
-No court cost will be taxed on an action initiated in accordance with the provision of Article 44-3. 
-The court of first instance shall, after the action is concluded, make a ruling on its own initiative to tax court costs, the payment of which will be temporarily exempted  against the party who should bear such cost in accordance with the provision of the first paragraph.
+    <條文內容><![CDATA[The appointed party who initiated an action in accordance with the provision of Article 44-2 may temporarily be exempted from paying the portion of the court costs in excess of NT$ 600,000 if the amount of court costs collected is more than NT$ 600,000.
+No court cost will be collected on an action initiated in accordance with the provision of Article 44-3. 
+The court of first instance shall, after the action is concluded, make a ruling on its own initiative to collect court costs, which was temporarily exempted in accordance with the provisions of the first paragraph or other regulations, from the party who should bear such costs.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 77-23</條號>
-    <條文內容><![CDATA[The Judicial Yuan shall prescribe the items and rates of taxable fees for photocopies, video recording, transcripts, translation, daily fees, travel expenses of witnesses and expert witnesses, and other fees and disbursements necessary for the proceeding items.
+    <條文內容><![CDATA[The Judicial Yuan shall prescribe the items and rates of collectible fees for photocopies, video recording, transcripts, translation of litigation documents, daily fees, travel expenses of witnesses and expert witnesses, and other necessary fees anddisbursements.
 Fees for transportation, publication in official gazettes, newspapers and compensation of expert witness as assessed by the court, shall be calculated according to the actual cost.
-Advance payments received from the parties of the fees and disbursements referred to in the two preceding paragraphs shall be applied exclusively to the case for the items of designated fees.
-Fees for service effected by mail or telecommunication, and fees for meals, accommodation and transportation as incurred by the judge, court clerk, executive officer, and interpreter for conducting acts of litigation outside the courtroom shall not be taxed additionally.
+Advance payments for the fees and disbursements received from the parties, as referred to in the two preceding paragraphs, shall be applied exclusively to the specific case for the items of designated fees, and shall be collected and disbursed by the court. The excess amount shall be returned to the payee at the end of the legal action.
+Fees for service effected by mail or telecommunication, and fees for meals, accommodation and transportation as incurred by the judge, court clerk, executive officer, and interpreter for conducting acts of litigation outside the courtroom shall not be collected additionally.
 ]]></條文內容>
   </條文>
   <條文>
@@ -694,8 +723,9 @@ The Judicial Yuan shall prescribe the payment rates of such compensation taking 
   </條文>
   <條文>
     <條號>Article 77-26</條號>
-    <條文內容><![CDATA[In cases of excessive taxation of litigation expenses, the court shall, by ruling on a motion or on its own initiative, return the excess amount taxed and received.
-The motion provided in the preceding paragraph must be filed by the expiration of three months either following the entry of a final and binding decision or the conclusion of the action.
+    <條文內容><![CDATA[In cases of excessive collection of litigation expenses, the court shall, by ruling on a motion or on its own initiative, return the excess amount collected.
+The motion provided in the preceding paragraph must be filed within three months either afterthe entry of a final and binding decision or after the conclusion of the action.  
+If the court fees were paid as a result of a recording error in the writing of a court notice, or other such similar conditions, the said court fees may be returned on motions within five years from the date of payment, and the court must make a ruling on its own initiative to return such fees.
 ]]></條文內容>
   </條文>
   <條文>
@@ -738,14 +768,14 @@ The motion provided in the preceding paragraph must be filed by the expiration o
   </條文>
   <條文>
     <條號>Article 83</條號>
-    <條文內容><![CDATA[In cases of voluntary dismissal, the plaintiff shall bear the litigation expenses.  When the plaintiff voluntarily dismisses the action prior to the termination of the oral-argument session in the first instance, he/she may, within three months after such dismissal, move for the return of one-half of the court costs paid for that instance. 
+    <條文內容><![CDATA[In cases of voluntary dismissal, the plaintiff shall bear the litigation expenses.When the plaintiff voluntarily dismisses the action prior to the conclusion of the oral-argument session in the first instance, he/she may, within three months after such dismissal, move for the return of two-thirds of the court costspaid for that instance. 
 The provision of the preceding paragraph shall apply mutatis mutandis to cases of voluntary dismissal of an appeal from a judgment or an appeal from a ruling.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 84</條號>
     <條文內容><![CDATA[In cases of a settlement, the parties shall respectively bear the expenses of the settlement and the litigation expenses, except as otherwise may be agreed upon.
-When a settlement is reached, the parties may, within three months after the settlement date, move for the return of one-half of the court costs paid for the current court action.
+When a settlement is reached, the parties may, within three months after the settlement date, move for the return of two-thirds of the court costs paid for the current court action.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1239,8 +1269,7 @@ The time period which is designated by the court or the presiding judge begins t
   </條文>
   <條文>
     <條號>Article 162</條號>
-    <條文內容><![CDATA[Where a party does not dwell within the jurisdictional boundaries of the court, the time needed for transportation shall be deducted in calculating a period fixed by the applicable law, except where the party's advocate dwells within the jurisdictional boundaries of the court and has the authority to conduct the act of litigation which shall be conducted within such period.  
-The Judicial Yuan shall prescribe the time needed for transportation which shall be deducted as provided in the preceding paragraph.
+    <條文內容><![CDATA[Where a party does not dwell within the jurisdictional boundaries of the court, the time needed for transportation shall be deducted in calculating a period fixed by the applicable law, except where the party's advocate dwells within the jurisdictional bou 
 ]]></條文內容>
   </條文>
   <條文>
@@ -1309,7 +1338,8 @@ When all of the appointed parties who are appointed pursuant to the applicable l
   </條文>
   <條文>
     <條號>Article 174</條號>
-    <條文內容><![CDATA[When a party is adjudicated bankrupt, the proceeding of all actions concerning the bankruptcy estate shall be stayed automatically until a qualified person assumes the action pursuant to the Bankruptcy Act or the bankruptcy proceeding is concluded.
+    <條文內容><![CDATA[When a party is adjudicated bankrupt, the proceeding of all actions concerning the bankruptcy estate shall be stayed automatically until a qualified person assumes the action pursuant to the Bankruptcy Act or the bankruptcy proceeding is concluded.  
+When a party is ordered by the court to begin with liquidation proceedings in accordance with the Consumer Debt Clearance Act, an automatic stay is in effect on all proceedings concerning liquidation of the estate until anadminister assumes the case, or the liquidation proceedings are terminated, or concluded.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1359,8 +1389,9 @@ Except as otherwise provided, the provision of the preceding paragraph shall app
   </條文>
   <條文>
     <條號>Article 182-1</條號>
-    <條文內容><![CDATA[When a civil court's decision regarding its subject matter jurisdiction over an action conflicts with an administrative court's binding decision, the civil court shall stay the proceeding pending a ruling and petition for the Grand Justice Council's explanation.  Notwithstanding, should the parties?consent for the civil court to adjudicate the action, then the civil court shall adjudicate the case.
-The consent provided in the preceding paragraph shall be evidenced in writing.
+    <條文內容><![CDATA[When a civil court's decision regarding its subject matter jurisdiction over an action conflicts with an administrative court's binding decision, the civil court shall stay the proceeding by a ruling and petition for the Grand Justice Council's explanation.Notwithstanding, should the parties consent for the civil court to adjudicate the action, then the civil court shall adjudicate the case.
+If a civil court is deemed as having no jurisdiction over a case, upon the interpretation of the Grand Justice Council, the court shall forward the case ex officio to the court that has jurisdiction.
+The consent provided in the first paragraph shall be evidenced in writing.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1766,7 +1797,7 @@ The authenticated or excerpted copy of the document provided in the preceding pa
   </條文>
   <條文>
     <條號>Article 240-4</條號>
-    <條文內容><![CDATA[A party may, by submitting a pleading to the court administrator, object to the final measure taken by the court administrator in performing his/her functions within the ten-day peremptory period from the day following the service of the measure.  Notwithstanding, Article 518 and Article 519 shall still apply to an objection to a payment order.
+    <條文內容><![CDATA[A party may, by submitting a pleading to the court administrator, object to the final measures taken by the court administrator in performing his/her functions within the ten-day peremptory period starting from the day following the service of the measure. However, Article 519 shall still apply to an objection to a payment order, except when the objection is rejected by the court administrator due to situations as described in the provisions of Article 518, or other illegal conditions.
 Where the court administrator considers the objection provided in the preceding paragraph to be meritorious, he/she shall take appropriate measures; where he/she considers the objection meritless, it shall forward the objection to the court for a ruling.
 Where the court considers the objection provided in the first paragraph to be meritorious, it shall make an appropriate ruling; where it considers the objection meritless, it shall overrule the objection by a ruling.
 The ruling provided in the preceding paragraph shall state with particularity the reasons for the ruling and shall be served upon the parties.
@@ -1833,16 +1864,16 @@ In the case provided in the preceding paragraph, if another claim may be asserte
   </條文>
   <條文>
     <條號>Article 249</條號>
-    <條文內容><![CDATA[In case of any of the following, the court shall dismiss the plaintiff's action by a ruling, but where the defect is rectifiable, the presiding judge shall order rectification within a designated period of time:
-1. Where the civil court does not have subject matter jurisdiction over the action;
-2. Where the court in which the action is pending does not have territorial jurisdiction over the action and cannot issue a ruling provided in Article 28;
+    <條文內容><![CDATA[In case of any of the following, the court shall dismiss the plaintiff's action by a ruling, but where the defect is rectifiable, the presiding judge shall order the plaintiff to rectify within a designated period of time:
+1. Where the civil court does not have jurisdiction over the case, and the case cannot be forwarded in accordance with the provisions of the second paragraph of Article 31-2;
+2. Where the court in which the action is pending does not have jurisdiction over the action and cannot issue a ruling provided in Article 28;
 3. Where the plaintiff or defendant lacks the capacity to be a party;
 4. Where the plaintiff or defendant lacks the capacity to litigate and is not legally represented by his/her statutory agent;
 5. Where an advocate initiates the action and the advocate lacks authority;
 6. Where the action is not initiated in accordance with the prescribed formality, or lacks other requirements;
-7. Where the action is initiated in violation of either the provisions of Article 253 or the second paragraph of Article 263, or its claim has been adjudicated by a final judgment with binding effect.
+7. Where the action is initiated in violation of either the provisions of the second paragraph of Article 31-1, Article 253 or the second paragraph of Article 263, or its claim has been adjudicated by a final judgment with binding effect.
 Where the plaintiff's claim, given the facts that he/she alleges, is manifestly without legal grounds, the court may, without oral argument, issue a judgment dismissing the action with prejudice.  
-In the case provided in the preceding paragraph, the court may impose on the plaintiff a fine not exceeding NTD 60,000.
+In the case provided in the preceding paragraph, the court may impose on the plaintiff a fine not exceeding NT$ 60,000.
 An appeal may be taken from the ruling provided in the preceding paragraph; the execution shall be stayed pending such appeal.
 ]]></條文內容>
   </條文>
@@ -1870,11 +1901,15 @@ In an action where a preparatory proceeding has been conducted, the preparation 
   </條文>
   <條文>
     <條號>Article 254</條號>
-    <條文內容><![CDATA[No action will be affected by the fact that the legal relation of the subject matter of the claim has been transferred to a third person pending such action. Notwithstanding, subject to the consent of both parties, the third person may move for assuming the action for a party.
+    <條文內容><![CDATA[No action will be affected by the fact that the legal relation of the subject matter of the claim has been transferred to a third person whensuch action is pending. Notwithstanding, subject to the consent of both parties, the third person may move for assuming the action for a party.
 In cases provided in the proviso of the preceding paragraph, if only the opposing party disagrees, either the transferor party or the third person may move the court for a ruling to permit the third party to assume the action.
 An interlocutory appeal may be taken from the ruling provided in the preceding paragraph.
-When the court knows that the claim has been transferred, it shall immediately notify the third party in writing the fact that the action has been transferred.
-Where the acquisition, creation, loss or alternation of a claimed right must be registered pursuant to the applicable laws, after the action is initiated, the court in which the action is pending may, upon a party's motion, issue a certificate of fact that the action has been initiated so that the party may request the registrar agency to register such fact.  After the action is concluded, an interested party or person may move the court to issue a certificate to request the registrar agency to deregister such fact.
+When the court knows that the claim has been transferred, it shall immediately notify the third party the fact that the action has been transferredin writing.
+Where the acquisition, creation, loss or alteration of a claimed right, as prescribed in the first paragraph, must be registered pursuant to the applicable laws, and if the action initiated by the party is legal and is not obviously meritless, the court in which the action is pending may, upon a party's motion, issue a certificate of fact stating that the action has been initiated so that the party may request the registrar agency to register such fact.
+Prior to issuing a certificate of fact stating that an action has been initiated, the court must provide opportunities for the parties to state their opinions.
+When a party is in the process of registering a certificate of facts stating that a legal action has been initiated, and before the oral arguments on matters of fact are concluded, the opposing party may object.
+The ruling ofrejecting the motion as described in the fifth paragraph and the ruling adjudicated for the objection as described in the preceding paragraph shall not be challenged.
+After the legal action is concluded, the party or an interested party may move the court to issue a certificate that requests the registrar agency to deregister such fact.
 ]]></條文內容>
   </條文>
   <條文>
@@ -2684,7 +2719,7 @@ Where the party or statutory agent provided in the first paragraph confesses tha
     <條文內容><![CDATA[The provisions of Article 300, Article 301, Article 304, the first paragraph and the fifth paragraph of Article 305, Article 306, the third to the fifth subparagraphs inclusive of the first paragraph and the second paragraph of Article 307, the second paragraph of Article 308, Article 309, Article 310, the first paragraph of Article 316 and Articles 318 to 322 inclusive shall apply mutatis mutandis to the examination of parties or their statutory agents.
 ]]></條文內容>
   </條文>
-  <編章節>            Item 6  Perpetuation of Evidence</編章節>
+  <編章節>            Item 6  Preservation of evidence</編章節>
   <條文>
     <條號>Article 368</條號>
     <條文內容><![CDATA[Where it is likely that evidence may be destroyed or its use in court may be difficult, or with the consent of the opposing party, the party may move the court for perpetuation of such evidence; where necessary, the party who has legal interests in ascertaining the status quo of a matter or object may move for expert testimony, inspection or perpetuation of documentary evidence. 
@@ -2803,7 +2838,9 @@ Where settlement is deemed to be reached in accordance with the provisions of Ar
     <條號>Article 380</條號>
     <條文內容><![CDATA[A final settlement shall have the same effect as a final judgment with binding effect.
 Where grounds exist for nullifying or revoking the settlement, a party may move for continuing the proceeding of the action.
-The provisions of Articles 500 to 502 inclusive and Article 506 shall apply mutatis mutandis to the case provided in the preceding paragraph.
+If a party requests a continuance of the proceedings, the party shall pay the court fees that were returned to him/her in accordance with the provisions of the second paragraph of Article 84.
+The provisions prescribed in Articles 500 to 502 and Article 506 shall apply mutatis mutandis to the events as described in the second paragraph.
+The provisions as prescribed in Part V-1 Third-Party Opposition Proceeding shall apply mutatis mutandis to the events as described in the first paragraph.
 ]]></條文內容>
   </條文>
   <條文>
@@ -2870,11 +2907,11 @@ In entering a judgment provided in the preceding paragraph, the court shall take
   <條文>
     <條號>Article 389</條號>
     <條文內容><![CDATA[The court shall on its own initiative declare a provisional execution to the following judgments:
-1.A judgment which is entered based on the defendant's admission of the claim;
-2.A judgment which orders the performance of a maintenance obligation insofar as such performance became due within the six months prior to the initiation of the action or during the pendency of the action;
-3.A judgment against the defendant on an action entered under summary proceeding in accordance with the provisions of the first to the fourth paragraphs inclusive of Article 427;
-4.(Repealed.)
-5.A judgment which orders a performance, the price or value of which is not more than NTD 500,000.
+1. A judgment which is entered based on the defendant's admission of the claim;
+2. (Repealed.)
+3. A judgment against the defendant on an action entered under summary proceeding in accordance with the provisions of the first to the fourth paragraphs inclusive of Article 427;
+4. (Repealed.)
+5. A judgment which orders a performance, the price or value of which is not more than NT$ 500,000.
 The provisions with regard to the accounting of the claim's value shall apply mutatis mutandis to the accounting of the value provided in the fifth subparagraph of the preceding paragraph.
 The provision of the seventh paragraph of Article 427 shall apply mutatis mutandis to the price or value provided in the fifth subparagraph of the first paragraph.
 ]]></條文內容>
@@ -2969,7 +3006,7 @@ The provision of the preceding paragraph shall apply mutatis mutandis to a final
   <編章節>   CHAPTER II  MEDIATION PROCEEDING</編章節>
   <條文>
     <條號>Article 403</條號>
-    <條文內容><![CDATA[Except in cases provided in the subparagraphs of the first paragraph of Article 406, the following matters shall be subject to mediation by the court before the relevant action is initiated:
+    <條文內容><![CDATA[Except in cases provided in the subparagraphs of the first paragraph of Article 406, the following matters shall be subject to mediation by the court before an action is initiated:
 1. Disputes arising from a relationship of adjacency between real property owners or superficiaries, or other persons using the real property;
 2. Disputes arising from the determination of boundaries or demarcation of real property;
 3. Disputes among co-owners of real property arising from the management, disposition, or partition of a real property held in undivided condition;
@@ -2979,9 +3016,9 @@ The provision of the preceding paragraph shall apply mutatis mutandis to a final
 7. Disputes arising from a traffic accident or medical treatment;
 8. Disputes arising from an employment contract between an employer and an employee;
 9. Disputes arising from a partnership between the partners, or between the undisclosed partners and the nominal business operator;
-10. Disputes arising from proprietary rights between spouses, lineal relatives by blood, collateral relatives by blood within the fourth degree of relationship, collateral relatives by marriage within the third degree of relationship, or head of the house or members of the house;
-11. Other disputes arising from proprietary rights where the price or value of the object in dispute is less than NTD 100,000.
-The Judicial Yuan may, where necessary, order the amount provided in the eleventh subparagraph of the preceding paragraph to be reduced to NTD 50,000 or increased to NTD 150,000.
+10. Disputes arising from proprietary rights amongspouses, lineal relatives by blood, collateral relatives by blood within the fourth degree of relationship, collateral relatives by marriage within the third degree of relationship, or head of the house or members of the house;
+11. Other disputes arising from proprietary rights where the price or value of the object in dispute is less than NT$ 500,000.
+The Judicial Yuan may, where necessary, order the amount provided in the eleventh subparagraph of the preceding paragraph to be reduced to NT$ 250,000 or increased to NT$ 750,000.
 ]]></條文內容>
   </條文>
   <條文>
@@ -3011,7 +3048,8 @@ The ruling provided in the preceding paragraph is not reviewable.
   </條文>
   <條文>
     <條號>Article 406-1</條號>
-    <條文內容><![CDATA[A summary court judge shall conduct the mediation proceeding. The mediation shall be attempted in advance by one to three mediators appointed by the judge.  The judge will appear in such mediation session when the mediation has reached a stage with prospect shown for a successful mediation or the circumstances require the judge's presence.  Notwithstanding, mediation may be conducted immediately by the judge upon the parties?agreement to do so or where the judge considers it appropriate to do so.
+    <條文內容><![CDATA[A summary proceeding court judge shall conduct the mediation proceeding. However, cases that were transferred in accordance with the provisions of the first paragraph of Article 420-1 may be presided over by the original court judge, commissioned judge, or assigned judge.
+The mediation shall be initiated in advance by one to three mediators appointed by the judge.The judge will appear in such mediation session when the mediation has reached a stage with prospect shown for a successful mediation or the circumstances require the judge's presence.Notwithstanding, mediation may be conducted immediately by the judge upon the parties agreement or where the judge considers appropriate.
 In cases where a party has objected to any of the appointed mediators provided in the preceding paragraph, or where the parties have agreed to appoint other appropriate persons, the judge may re-appoint or appoint such persons as agreed-upon by the parties.
 ]]></條文內容>
   </條文>
@@ -3103,11 +3141,12 @@ Where the judge proposes the mediation terms, the mediation shall be deemed succ
   </條文>
   <條文>
     <條號>Article 416</條號>
-    <條文內容><![CDATA[A successful mediation is reached upon the agreement of the parties.  A successful mediation shall take the same effect as a settlement in litigation.
+    <條文內容><![CDATA[A successful mediation is reached upon the agreement of the parties.A successful mediation shall take the same effect as a settlement in litigation.
 Where grounds exist for nullifying or revoking the mediation, the party may initiate an action for a nullification declaration or for revoking the mediation in the original court.
-In the case provided in the preceding paragraph, the mediation applicant may consolidate his/her claim arising from the subject matter of the mediation or interpose a counterclaim and request the court to adjudicate such claim jointly upon entering a decision declaring the nullification of or revoking the mediation.  In such cases, the action shall be deemed to have been initiated upon the filing of the application for mediation.
+In the case provided in the preceding paragraph, the mediation applicant may consolidate his/her claim arising from the subject matter of the mediation or interpose a counterclaim and request the court to adjudicate such claim jointly upon entering a decision declaring the nullification of or revoking the mediation.In such cases, the action shall be deemed to have been initiated upon the filing of the application for mediation.
 The provisions of Article 500 to Article 502 inclusive and Article 506 shall apply mutatis mutandis to the cases provided in the second paragraph.
-In case of an unsuccessful mediation, the court shall issue a certificate thereof to the parties.
+In case of an unsuccessful mediation, the court shall issue a certificate thereof to the parties. 
+The provisions as prescribed in Part V-1 Third-Party Opposition Proceeding shall apply mutatis mutandis to the events as described in Paragraph 1.
 ]]></條文內容>
   </條文>
   <條文>
@@ -3139,8 +3178,9 @@ In cases where the mediation is deemed applied for by initiating the action or b
   <條文>
     <條號>Article 420-1</條號>
     <條文內容><![CDATA[An action pending in the court of first instance may, with the consent of both parties, be referred to mediation.
-In the case provided in the preceding paragraph, the litigation proceeding shall be stayed.  Where a successful mediation is reached, the action is concluded accordingly.  Where the mediation fails, the litigation proceeding shall resume accordingly.
-In cases of a successful mediation after the action was referred to mediation in accordance with the provision of the first paragraph, the plaintiff may move for the return of one half of the court costs paid within three months from the day of the successful mediation.
+In the case provided in the preceding paragraph, the litigation proceeding shall be stayed.Where a successful mediation is reached, the action is concluded accordingly.Where the mediation fails, the litigation proceeding shall resume accordingly.
+In cases of a successful mediation after the action was referred to mediation in accordance with the provision of the first paragraph, the plaintiff may move for the return of two-thirds of the court costs paid within three months from the day of the successful mediation.  
+The provisions of the second paragraph of Article 382 shall apply mutatis mutandis to the mediation as described in the second paragraph, if grounds for voidance or revocation are found. The applicant shall also pay the returned court fees as described in the preceding paragraph.
 ]]></條文內容>
   </條文>
   <條文>
@@ -3170,7 +3210,8 @@ Where multiple claims have been raised in the action, and part of such claims di
   </條文>
   <條文>
     <條號>Article 425</條號>
-    <條文內容><![CDATA[In cases where the application for mediation is voluntarily withdrawn, such application shall be deemed not to have been filed.  Notwithstanding, the applicant shall bear all the expenses incurred by the application.
+    <條文內容><![CDATA[In cases where the application for mediation is voluntarily withdrawn, such application shall be deemed not to have been filed.  
+The provisions of the first paragraph of Article 83 shall apply mutatis mutandis to the events described in the preceding paragraph.
 ]]></條文內容>
   </條文>
   <條文>
@@ -3181,7 +3222,7 @@ Where multiple claims have been raised in the action, and part of such claims di
   <編章節>   CHAPTER III  SUMMARY PROCEEDING</編章節>
   <條文>
     <條號>Article 427</條號>
-    <條文內容><![CDATA[A summary proceeding as provided in this Chapter shall apply to actions with regard to proprietary rights where the price or claim's value of claim is not more than NTD 500,000.  
+    <條文內容><![CDATA[A summary proceeding as provided in this Chapter shall apply to actions with regard to proprietary rights where the price or claim's value of claim is not more than NT$ 500,000.
 A summary proceeding shall apply to the following actions irrespective of the price or value of the claim:
 1. Actions arising from disputes over a fixed-term lease of a building or other object of work, or from a fixed-term lender-borrower relationship;
 2. Actions between an employer and an employee arising from an employment contract with an employment term of less than one year;
@@ -3190,14 +3231,14 @@ A summary proceeding shall apply to the following actions irrespective of the pr
 5. Actions arising from the fixing of the boundaries or the demarcation of a real property;
 6. Actions arising from claims in a negotiable instrument;
 7. Actions arising from claims in a cooperative association;
-8. Actions arising from claims in interest, bonus, rent, alimony, retirement/severance payment, or other periodical payments;
+8. Actions arising from claims in interest, bonus, rent, retirement/severance payment, or other periodical payments;
 9. Actions arising from the lease of personal property or a lender-borrower relationship with respect to the use of personal property;
 10. Actions arising from the guarantee for the claims provided in the first to the third subparagraphs inclusive and the sixth to the ninth subparagraphs inclusive.
 In actions not provided in the two preceding paragraphs, the parties may agree to apply a summary proceeding and such agreement must be evidenced in writing.
 In cases where the court has adopted a summary proceeding to an action which is not provided in the first and the second paragraphs and the parties to such action have proceeded orally on the merits without raising objections, the parties shall be deemed to have reached the agreement provided in the preceding paragraph.
 In the action provided in the second paragraph, where the dispute is complicated or where the price or the claim value exceeds the amount provided in the first paragraph by ten times or more, the court may, on motion, switch to the ordinary proceeding by a ruling and the same judge shall continue adjudicating the case.
 The ruling provided in the preceding paragraph is not reviewable.
-Where necessary, the Judicial Yuan may order a reduction in the amount provided in the first paragraph to NTD 250,000 or increase it to NTD 750,000.
+Where necessary, the Judicial Yuan may order a reduction in the amount provided in the first paragraph to NT$ 250,000 or increase it to NT$ 750,000.
 ]]></條文內容>
   </條文>
   <條文>
@@ -3224,7 +3265,7 @@ The preparation period for the first oral argument session shall be at least fiv
   </條文>
   <條文>
     <條號>Article 431</條號>
-    <條文內容><![CDATA[The party shall submit and may directly send to the opposing party preparatory pleadings prior to the session with respect to such statements or alleged facts or evidence to which the opposing party cannot respond without preparation; where such statement or allegation is made orally, the court clerk shall prepare a transcript to be served upon the opposing party.
+    <條文內容><![CDATA[The party shall submitpreparatory pleadings or answers prior to the session, with respect to such statements or alleged facts or evidence to which the opposing party cannot respond without preparation, and shalldirectly sendoriginal copies or photocopies of such pleading or answers to the opposing party; where such statement or allegation is made orally, the court clerk shall prepare a transcript to be served upon the opposing party.
 ]]></條文內容>
   </條文>
   <條文>
@@ -3663,7 +3704,7 @@ The provision of the preceding paragraph shall apply mutatis mutandis to appeals
   </條文>
   <條文>
     <條號>Article 463</條號>
-    <條文內容><![CDATA[Except as otherwise provided in this Chapter, the provisions of Chapter I of the preceding Part shall apply mutatis mutandis to the procedure in the second instance.
+    <條文內容><![CDATA[Except as otherwise provided in this Chapter, the provisions of Chapters I, and II of the preceding Part shall apply mutatis mutandis to the procedure in the second instance.
 ]]></條文內容>
   </條文>
   <編章節>   CHAPTER II  PROCEDURE IN THE THIRD INSTANCE</編章節>
@@ -3864,11 +3905,10 @@ Where the action is pending in the court of third instance, objections to ruling
   <條文>
     <條號>Article 486</條號>
     <條文內容><![CDATA[Except as otherwise provided, an appeal taken from a ruling shall be decided by the immediate superior court.
-No re-appeal may be taken from the ruling made by the immediate superior court dismissing an appeal on the ground that such appeal is not in conformity with the law.   Notwithstanding, an objection may be filed with the same immediate superior court.  
+No re-appeal may be taken from the ruling made by the immediate superior court dismissing an appeal on the ground that such appeal is not in conformity with the law.Notwithstanding, an objection may be filed with the same immediate superior court.  
 The provisions of the second and the third paragraphs of Article 484 shall apply mutatis mutandis to the objection provided in the preceding paragraph.
-Except as provided in the two preceding paragraphs, re-appeal may be taken from a ruling made by the immediate superior court only when it is based on the ground that there is a manifest error in the application of the law and the same superior court has permitted such appeal.
-The permission provided in the preceding paragraph shall be granted only when the legal opinion involved in the appealed ruling is significant in principle. 
-The provisions of the third and the fourth paragraphs of Article 436-3, and Article 436-6 shall apply mutatis mutandis to the appeal provided in the fourth paragraph.
+Except as provided in the two preceding paragraphs, re-appeal may be taken from a ruling made by the immediate superior court only when it is based on the ground that there is a manifest error in the application of the law.
+The provisions of Article 436-6 shall apply mutatis mutandis to the appeal proceeding provided in the preceding paragraph.
 ]]></條文內容>
   </條文>
   <條文>
@@ -4051,7 +4091,7 @@ In cases provided in the preceding paragraph, the original judgment shall still 
     <條文內容><![CDATA[The provisions of the first and the second paragraphs of Article 500, Articles 501 to 503 inclusive, Articles 505 and 506 shall apply mutatis mutandis to a third-party opposition action.
 ]]></條文內容>
   </條文>
-  <編章節>PART VI  DEMND PROCEEDING</編章節>
+  <編章節>PART VI  DEMAND PROCEEDING</編章節>
   <條文>
     <條號>Article 508</條號>
     <條文內容><![CDATA[In cases where the object of a creditor's claim is the performance of a certain amount of payment in cash, other replaceable things or securities, a creditor may apply to the court for issuance of a payment order in accordance with the demand proceeding.
@@ -4075,7 +4115,8 @@ Applications for the issuance of a payment order and the handling thereof may be
 2. The object of the claim and the amount thereof;
 3. The transactions or occurrences giving rise to such claim, and the status of performance of counter-prestation, if any;
 4. A statement that a payment order should be issued; and
-5. The court.
+5. The court.  
+A preliminary showing shall be made on the creditor's pleadings.
 ]]></條文內容>
   </條文>
   <條文>
@@ -4092,14 +4133,17 @@ The ruling provided in the preceding paragraph is not reviewable.
   <條文>
     <條號>Article 514</條號>
     <條文內容><![CDATA[The payment order shall indicate the following matters: 
-1.The matters provided in the first to the third subparagraphs inclusive and the fifth subparagraph of Article 511;
-2.The debtor shall satisfy the creditor's claim and reimburse the proceeding expenses, or file an objection to the payment order with the issuing court within the peremptory period of twenty days following the service of the payment order.
-The indication of the matters provided in the third subparagraph of Article 511 may be substituted with the application pleading annexed as an appendix to the payment order.
+1. The matters provided in the first to the third subparagraphs inclusive and the fifth subparagraph of Article 511;
+2. The debtor shall satisfy the creditor's claim and reimburse the proceeding expenses, or file an objection to the payment order with the issuing court within the peremptory period of twenty days following the service of the payment order.
+3. If no objection is filed by the debtor within the peremptory period, the creditor may petition for a compulsory execution in accordance with the payment order issued by the court and a certificate that proves such an order is final and binding.
+The indication of the matters provided in the third subparagraph of the first paragraph of Article 511 may be substituted with the application pleading annexed as an appendix to the payment order.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 515</條號>
-    <條文內容><![CDATA[A payment order shall cease to be operative if it cannot be served upon the debtor within three months after it is issued.
+    <條文內容><![CDATA[A payment order shall cease to be operative if it cannot be served upon the debtor within three months after it is issued.  
+In cases as provided in the preceding paragraph, where the court has issued a final-and-binding order certificate in error, and where such a certificate is revoked within five years, starting from the date recorded on the certificate, the court should notify the creditor of such an action. If the creditor initiates an action within the 20-day peremptory period after the notification is received, it is deemed that an action has been initiated when the motion for a payment order is filed; the same principle shall apply to the event when the action is initiated before the receipt of the notification.
+In cases as provided in the preceding paragraph, the costs for demand proceedings shall be included as a part of litigation costs or mediation procedure costs.
 ]]></條文內容>
   </條文>
   <條文>
@@ -4131,8 +4175,9 @@ In cases provided in the preceding paragraph, the demand proceeding expenses sha
   </條文>
   <條文>
     <條號>Article 521</條號>
-    <條文內容><![CDATA[In cases where the debtor fails to file an objection to the payment order within the peremptory period and in conformity with the law, the payment order shall take the same effect as a final judgment with binding effect.
-In cases where the payment order falls under the cases provided in the first paragraph of Article 496, a rehearing action may be initiated.  In such cases, the original application for issuance of a payment order shall be deemed the initiation of action.
+    <條文內容><![CDATA[In cases where the debtor fails to file an objection to the payment order within the peremptory period and in conformity with the law, the payment order shall be the writ of execution.
+In cases as provided in the preceding paragraph, the court that adjudicates such a ruling shall provide the final and binding certificate of such a ruling.
+Where the debtor claims that the creditors' rights, as stated on the payment order, do not exist and proceeds to file a petition for a declaratory judgment, the court may, on the debtor's motion, permit the debtor to provide an appropriate and solid security, and put a stay on the compulsory execution.
 ]]></條文內容>
   </條文>
   <編章節>PART VII  PROVISIONAL REMEDIES PROCEEDING</編章節>
@@ -4171,7 +4216,7 @@ In cases where the court at the place where the object of the provisional attach
     <條文內容><![CDATA[A preliminary showing of the claim and the ground for the provisional attachment must be made.
 In cases of insufficiency in the preliminary showing provided in the preceding paragraph, where the creditor has represented willingness to provide a security or where it is deemed appropriate by the court, the court may assess an amount for the security and issue a ruling for a provisional attachment upon the creditor's provision of such security.
 The court may still order the creditor to provide a security for the provisional attachment sought despite the fact that the preliminary showing of the claim and the ground for the provisional attachment has been made by the creditor.
-Where the creditor claims household living expenses, maintenance, alimony, distribution of the remainder of husband and wife's property, the court-assessed amount of security provided in the preceding paragraph must not exceed one tenth of the amount claimed.
+Where a husband or a wife petitions for a provisional attachment, based on the right to claim for distribution of the remainder of a husband and wife's property, the dollar amount ordered by the court for security, as described in the preceding paragraph, shall not be more than one tenth of the petitioned amount.
 ]]></條文內容>
   </條文>
   <條文>
@@ -4484,458 +4529,454 @@ A public notice of the order provided in the first paragraph shall be effectuate
 A public notice of the revocation of the order prohibiting payments shall be effectuated in accordance with the provision of Article 561 which shall apply mutatis mutandis.
 ]]></條文內容>
   </條文>
-  <編章節>PART IX  ACTIONS CONCERNING PERSONAL AFFAIRS</編章節>
-  <編章節>   CHAPTER I  ACTIONS CONCERNING MARRIAGE</編章節>
+  <編章節>PART IX  ACTIONS CONCERNING PERSONAL AFFAIRS  (Repealed.)</編章節>
+  <編章節>   CHAPTER I  ACTIONS CONCERNING MARRIAGE  (Repealed.)</編章節>
   <條文>
     <條號>Article 568</條號>
-    <條文內容><![CDATA[In matters seeking the nullification of, or the revocation of a marriage, or an action for a declaratory judgment confirming the existence or nonexistence of a marriage, for divorce or for the husband's or the wife's fulfillment of mutual obligation to co-habit, the court for the place where the husband and the wife domicile, or the court for the place where the husband or the wife domiciled at the time of death, has exclusive jurisdiction.  Notwithstanding, where the grounds and occurrences giving rise to the action took place at the place where the husband and the wife reside, the court for that place shall have jurisdiction.
-Where the court for the place where the husband and the wife domicile cannot exercise jurisdiction, or the husband and the wife have no domicile in the R.O.C., or their domicile is unknown, the provisions of the second sentence of the first and the second paragraphs of Article 1 shall apply mutatis mutandis. 
-Where the husband or the wife is an R.O.C. citizen and the court having jurisdiction cannot be determined in accordance with the provisions of the two preceding paragraphs, the court at the place where the central government is located shall have jurisdiction.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 569</條號>
-    <條文內容><![CDATA[In an action concerning marriage initiated by the husband or the wife, his or her spouse shall be the defendant.
-Where a third party initiates the action, the husband and the wife shall be co-defendants.  Notwithstanding, in a third-party action for the revocation of a marriage, where the husband or the wife is deceased, the survivor may be named as the defendant.
-In an action for the nullification of a marriage on the ground of bigamy, where such action is initiated by a party to one of the marriages in question, all the others in the marriages in question shall be defendants; where such action is initiated by a third party, all the parties to the marriages in question shall be co-defendants.
-In the action provided in the preceding paragraph, where one of the parties to one of the marriages in question is deceased, the survivor(s) shall be the defendant(s).
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 570</條號>
-    <條文內容><![CDATA[The husband or the wife who is a minor has capacity to litigate in an action for the nullification of a marriage or for a declaratory judgment confirming the non-existence of a marriage.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 571</條號>
-    <條文內容><![CDATA[In actions concerning marriage, where the husband or the wife is an interdicted person, his/her guardian shall conduct acts of litigation on his/her behalf; where the guardian is such interdicted person's husband or wife, acts of litigation shall be conducted on behalf of the interdicted person by the person designated by his/her family council.
-An action initiated by the guardian must be approved by the interdicted person's family council.
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 571-1</條號>
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 572</條號>
-    <條文內容><![CDATA[The following actions may be initiated jointly: an action for the nullification of a marriage; an action for a declaratory judgment confirming the existence or non-existence of a marriage; an action for the revocation of a marriage; an action for divorce; and an action for the husband's or the wife's fulfillment of mutual obligation to co-habit. In such joint actions, claims may be amended, additional claims may be raised or a counterclaim may be initiated before the oral argument at the first or the second court instance concludes.
-No action may be initiated separately where the claims of an action may be amended, additional claims may be raised or a counterclaim may be initiated as provided in the preceding paragraph.  Where an action has been initiated separately, the court shall transfer such separate action by a ruling to the court of first or second instance in which the action is pending to be adjudicated jointly.  In such cases, the transferee court cannot further transfer the action to another court by reason of violation of another court's exclusive jurisdiction.
-With regard to actions not concerning marriage, only actions for claiming distribution or partition of the husband's and the wife's property, the return of property, payment of household living expenses, alimony, maintenance, or for claiming damages arising from the grounds and occurrences giving rise to such action, may be initiated jointly with an action provided in the first paragraph or by amending the claim, raising additional claims or counterclaims before the oral argument at the first or the second court instance concludes.  Where an action of such nature has been initiated separately, the court shall transfer such action by a ruling to the court of first or second instance in which the action is pending to be adjudicated jointly.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 572-1</條號>
-    <條文內容><![CDATA[In an action for the nullification of a marriage or for divorce, the parties may, before the conclusion of oral argument at the first or the second court instance, raise the incidental claim for the court to determine the content and method of the exercise of rights and assumption of duties with regard to minor children if the court finds that a judgment should be entered for plaintiff.
-The court may, on its own initiative, make such determination in the situations provided in the preceding paragraph.  Notwithstanding, the court shall accord the parties an opportunity to be heard. 
-Where neither the husband nor the wife is suitable to exercise the rights with regard to minor children, the court may appoint an appropriate guardian for them.  Notwithstanding, the court must consult with the appointed guardian in advance.
-The court making decisions in cases provided in the three preceding paragraphs is not bound by the parties?statement with regard to the demand for judgment.
-The provisions of the four preceding paragraphs shall apply mutatis mutandis to: actions seeking the nullification of a marriage; actions for a declaratory judgment confirming the existence or non-existence of a marriage; and actions for the husband's or the wife's fulfillment of mutual obligation to co-habit.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 573</條號>
-    <條文內容><![CDATA[Where an action seeking the nullification of, or the revocation of a marriage or for divorce has been dismissed on the merits, the plaintiff of such action shall be barred from initiating a separate action based upon whatever occurrences he/she could have asserted by joining an action, amending the claim or raising an additional claim in the dismissed action, but failed to do so. 
-Where the action provided in the preceding paragraph has been initiated as a counterclaim, and subsequently dismissed on the merits, the defendant of such action shall be barred from initiating a separate action based upon whatever occurrences he/she could have, but did not, assert previously in his/her counterclaim.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 574</條號>
-    <條文內容><![CDATA[The provisions pertaining to admission of claims do not apply to actions concerning marriage.  The provisions pertaining to abandonment of claims do not apply to actions to nullify a marriage and actions for a declaratory judgment confirming existence or non-existence of a marriage. 
-The provisions pertaining to admission of facts and undisputed facts in a litigation proceeding do not apply to actions for the revocation of a marriage, for divorce or the husband's or the wife's fulfillment of mutual obligation to co-habit with respect to the ground and occurrences giving rise to such action or refusal to co-habit.  Nor do the same provisions apply to actions for the nullification of a marriage or for a declaratory judgment confirming the existence or non-existence of a marriage with respect to the ground and occurrences giving rise to the nullification or non-existence of the marriage as well as the validity or existence of the marriage.
-The provisions pertaining to admission of claims, abandonment of claims, admission of facts and undisputed facts in litigation proceeding do not apply to the matters provided in Article 572-1.
-Parties to an action concerning marriage may agree not to open the proceeding to the public and report such agreement to the court in which the action is pending.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 575</條號>
-    <條文內容><![CDATA[For purposes of maintaining the marriage in issue, or determining whether the marriage in issue is null or non-existent, the court may take into consideration facts not presented by the parties.
-Before entering a decision, the court shall accord the parties the opportunity to present their oral arguments about any facts provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 575-1</條號>
-    <條文內容><![CDATA[In the matters provided in Article 572-1, the court may take into consideration any facts not presented by the parties, and shall on its own initiative take evidence. 
-Before deciding on the matters provided in the preceding paragraph, the court may invite opinions from the competent authority or the relevant social welfare institution, or request such authority or institution to conduct visits, present an investigation report, and make recommendations.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 576</條號>
-    <條文內容><![CDATA[In cases where a party to an action or his/her statutory agent disobeys the summons to appear in court, the provision of Article 303 shall apply mutatis mutandis.  Notwithstanding, no apprehension is allowed. 
-The court may authorize the commissioned judge or the assigned judge to examine the parties.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 577</條號>
-    <條文內容><![CDATA[Actions for divorce and actions for the husband's or the wife's fulfillment of mutual obligation to co-habit shall be subject to mediation by the court before such actions are initiated.
-The provisions of Article 403 to Article 426 inclusive shall apply mutatis mutandis to the mediation provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 578</條號>
-    <條文內容><![CDATA[Where the court considers that there is an opportunity for a successful mediation between the parties to an action for divorce or an action for the husband's or the wife's fulfillment of mutual obligation to co-habit, the court by a ruling may order to stay the litigation proceeding for a period of no more than six months once and only one time.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 579</條號>
-    <條文內容><![CDATA[The court may, on motion or its own initiative, order a necessary provisional injunction with respect to the exercise of rights and assumption of duties with regard to minor children.
-The provision of Article 575-1 shall apply mutatis mutandis to the court order for the provisional injunction provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 580</條號>
-    <條文內容><![CDATA[Where the husband or the wife to the action dies before a final and binding judgment is entered, the pending action shall be deemed concluded except in an action initiated by a third party to revoke a marriage to which only the husband or the wife is deceased.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 581</條號>
-    <條文內容><![CDATA[Where the plaintiff to an action concerning marriage dies before a final and binding judgment is entered, another person who is entitled to initiate the same action may declare the assumption of the action within three months following the death of the plaintiff.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 582</條號>
-    <條文內容><![CDATA[A judgment entered on an action for the nullification of or the revocation of a marriage, or an action for a declaratory judgment confirming existence or non-existence of a marriage, shall be binding on third persons.
-Where an action for the nullification of a marriage that is initiated on the ground of bigamy is dismissed on the merits, the judgment dismissing such action shall be binding on the ex-spouse of the parties only if such ex-spouse has intervened in the action.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 582-1</條號>
-    <條文內容><![CDATA[In cases where an action for distribution or partition of a husband and wife's property, or for claiming alimony has been initiated jointly with the action provided in the first paragraph of Article 572, or by raising an additional claim or counterclaim in such action in accordance with the provision of the third paragraph of Article 572, then, if an appeal is taken only from the final judgment of the first or the second court instance with respect to the action provided in the first paragraph of that article, that appeal shall be deemed to have been taken jointly from the judgment on the plaintiff's claims for distribution or partition of husband and wife's property or for alimony to the extent that such judgment awards such claims. 
-In matters provided in Article 572-1, where a party has taken an appeal from the final judgment of the first or the second court instance with respect to the principal action, an appeal shall be deemed to have been taken from the incidental claim.
-Where the party or an interested person has requested for a review of the decision on the incidental claim only, the provisions pertaining to appeals from rulings shall apply.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
-  <編章節>   CHAPTER II  ACTIONS CONCERNING PARENT-CHILD RELATIONSHIP</編章節>
+  <編章節>   CHAPTER II  ACTIONS CONCERNING PARENT-CHILD RELATIONSHIP  (Repealed.)</編章節>
   <條文>
     <條號>Article 583</條號>
-    <條文內容><![CDATA[In actions for the nullification of, or the revocation of an adoption, or for a declaratory judgment confirming the existence or non-existence of an adoption relationship, or for termination of an adoption relationship, the court for the place where the adoptive parents domicile or were domiciled at the time of death has exclusive jurisdiction.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 584</條號>
-    <條文內容><![CDATA[The adopted children in the action provided in the preceding article have capacity to litigate irrespective of their lack of the capacity to undertake obligations through independent juridical acts.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 585</條號>
-    <條文內容><![CDATA[Where an adopted minor child needs to conduct acts of litigation, the presiding judge of the court in which the action is pending shall, on motion, appoint an attorney to act as that child's advocate or, on its own initiative, make such appointment if the court considers it necessary to do so.
-In cases provided in the preceding paragraph, the presiding judge may order compensation to be paid to the attorney.
-The ruling for appointment of an advocate shall be served upon that advocate.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 586</條號>
-    <條文內容><![CDATA[In cases where an adoptive parent is the opposing party to the adopted child, if the adopted child has no capacity to conduct juridical acts and the adoptive parent is such child's statutory agent, acts of litigation shall be conducted by the child's natural parent on behalf of the child, and absent a natural parent, by the person designated by the family council of the child's natural parent.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 587</條號>
-    <條文內容><![CDATA[An action for the termination of an adoption relationship shall be subject to mediation by the court before such action is initiated.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 588</條號>
-    <條文內容><![CDATA[Except as otherwise provided, the provisions pertaining to actions concerning marriage shall apply mutatis mutandis to the actions provided in Article 583.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 589</條號>
-    <條文內容><![CDATA[In actions seeking the disavowal of, or the acknowledgement of the legitimacy of a child, or for the nullification of, or the revocation of an acknowledgment, or for a declaratory judgment confirming the natural father of a child born after the mother's remarriage, the court for the place where the child domiciles or domiciled at the time of death has exclusive jurisdiction.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 589-1</條號>
-    <條文內容><![CDATA[Where an action for the disavowal of the legitimacy of a child is initiated by the husband, the wife and the child shall be co-defendants; where such an action is initiated by the wife, the husband and the child shall be co-defendants.
-In the action provided in the preceding paragraph, if the wife or the husband deceases, the child shall be the defendant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 590</條號>
-    <條文內容><![CDATA[Where the husband or the wife dies within or before the commencement of the statutory period for initiating an action to disavow the legitimacy of a child, a person whose right to inherit is injured may initiate such action.
-The action provided in the preceding paragraph must be initiated within six months from the death of the deceased person.
-In cases where the husband or the wife who initiated the action to disavow the legitimacy of a child dies after initiating such action, a person whose right to inherit is injured may assume the action.
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 590-1</條號>
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 591</條號>
-    <條文內容><![CDATA[In an action for a declaratory judgment confirming the natural father of a child born after the mother's remarriage, the current spouse and the ex-spouse of the mother shall be opposing parties against each other. 
-Where the child or the mother initiates the action, the current spouse and the ex-spouse of the mother shall be co-defendants.  In case either of them should die, the survivor will be the defendant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 592</條號>
-    <條文內容><![CDATA[In an action for the declaration of the suspension of parental rights over a child or for the revocation of such declaration, the court for the place where the person who exercises or exercised such rights domiciles has exclusive jurisdiction.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 593</條號>
-    <條文內容><![CDATA[In an action for the revocation of a declaration of suspension of parental rights, the person who currently exercises the parental rights or the guardian shall be the defendant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 594</條號>
-    <條文內容><![CDATA[The provisions pertaining to the operation of admitting claims and admission of facts or undisputed facts in litigation proceeding are not applicable to the actions provided in Article 589 and Article 592.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 595</條號>
-    <條文內容><![CDATA[The court may take into consideration any facts not presented by the parties to the actions provided in Article 589 and Article 592.
-The court, before entering a decision, shall accord the parties the opportunity to present their oral arguments about the facts provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 596</條號>
-    <條文內容><![CDATA[The provisions of the proviso of the first paragraph and the second and the third paragraphs of Article 586; Article 571; the third paragraph of Article 572; Article 572-1; the third and the fourth paragraphs of Article 574; Article 575-1; Article 576; Article 579 to Article 581 inclusive; and the first paragraph of Article 582 shall apply mutais mutandis to the actions provided in Article 589 and Article 592, except in cases where the action to acknowledge the legitimacy of a child is initiated by the natural mother or other statutory agent and subsequently dismissed on the merits, the provision of the first paragraph of Article 582 does not apply mutatis mutandis to the judgment with regard to its effects on the child born out of wedlock.
-The provisions of Article 584 to Article 586 inclusive shall apply mutatis mutandis to the actions provided in Article 589.
-The provisions of the first paragraph of Article 572 and Article 573 shall apply mutatis mutandis to an action for the nullification of or the revocation of an adoption.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
-  <編章節>   CHAPTER III  INTERDICTION  PROCEEDING</編章節>
+  <編章節>   CHAPTER III  INTERDICTION  PROCEEDING (Repealed.)</編章節>
   <條文>
     <條號>Article 597</條號>
-    <條文內容><![CDATA[In matters for application for interdiction, the court for the place where the person to be interdicted domiciles has exclusive jurisdiction.
-The provisions of the proviso of the first paragraph and the second paragraph of Article 568 shall apply mutatis mutandis to the application provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 598</條號>
-    <條文內容><![CDATA[An application for interdiction shall specify the grounds and the occurrences giving rise thereto and the evidence thereof.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 599</條號>
-    <條文內容><![CDATA[The court may order the applicant to produce the letter of diagnosis before the interdiction proceeding commences.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 600</條號>
-    <條文內容><![CDATA[Interdiction proceedings shall not be open to the public.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 601</條號>
-    <條文內容><![CDATA[The court shall take into consideration the facts and evidence presented by the applicant and conduct necessary investigation on its own initiative with respect to the application for interdiction.
-Investigation expenses shall be advanced by the national treasury if they are not prepaid by the applicant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 602</條號>
-    <條文內容><![CDATA[The court shall examine the person to be interdicted in the presence of an expert witness, except in cases where it is difficult to do so or it may harm the health of the person to be interdicted by doing so.
-The court may authorize the assigned judgment to conduct the examination provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 603</條號>
-    <條文內容><![CDATA[No interdiction may be declared without examining the expert witness with respect to the mental state of the person to be interdicted.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 604</條號>
-    <條文內容><![CDATA[The ruling declaring interdiction shall specify the reasons therefor.
-The ruling provided in the preceding paragraph shall be served upon the applicant and the statutory agent or the person who, by operation of law, should be the guardian of the interdicted person.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 605</條號>
-    <條文內容><![CDATA[The interdiction ruling shall take effect upon service upon the statutory agent or the person who, by operation of law, should be the guardian of the interdicted person.
-The court shall effectuate a public notice of the purport of the ruling provided in the preceding paragraph by appropriate means after the ruling is served.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 606</條號>
-    <條文內容><![CDATA[The court may, before declaring interdiction, order necessary measures to be taken to protect the body and property of the person to be interdicted.  The court may do the same after declaring interdiction if the court considers it necessary to do so.
-The court may, on motion, revoke the ruling for the measures provided in the preceding paragraph.
-An appeal may be taken from the ruling for the measures provided in the first paragraph and from the ruling revoking such ruling.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 607</條號>
-    <條文內容><![CDATA[An appeal may be taken from the ruling denying the application for interdiction.
-The provisions of Article 599 to Article 601 inclusive shall apply mutatis mutandis to the appellate proceeding in the superior court.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 608</條號>
-    <條文內容><![CDATA[Proceeding expenses incurred from an application for interdiction shall be borne by the interdicted person if he/she is declared interdicted.
-Except in cases provided in the preceding paragraph, the applicant shall bear the expenses.  Expenses shall be paid by the national treasury in cases where the public prosecutor is the applicant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 609</條號>
-    <條文內容><![CDATA[No appeal may be taken from a ruling declaring interdiction.
-A person who may apply for interdiction in accordance with the provisions of the Civil Code may initiate an action to revoke the declaration of interdiction in the district court which has decided the application for interdiction.
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 609-1</條號>
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 610</條號>
-    <條文內容><![CDATA[The applicant for the interdiction shall be the defendant in an action to revoke the declaration of interdiction.
- The statutory agent of the interdicted person shall be the defendant in actions initiated by the applicant for the interdiction or where the applicant is deceased.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 611</條號>
-    <條文內容><![CDATA[An action to revoke the declaration of interdiction must be initiated within a peremptory period of thirty days.
-The period provided in the preceding paragraph shall start to run from the time when the interdicted person knows the existence of the declaration with regard to the interdicted person and from the time when the ruling for the declaration takes effect with regard to other persons.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 612</條號>
-    <條文內容><![CDATA[The interdicted person has the capacity to litigate in an action to revoke the declaration of interdiction.
-The provision of Article 585 shall apply mutatis mutandis to the case where the acts of litigation are conducted by the interdicted person.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 613</條號>
-    <條文內容><![CDATA[No other action may be initiated jointly with an action to revoke the declaration of interdiction; nor may any additional claim or counterclaim be raised during the proceeding of the action.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 614</條號>
-    <條文內容><![CDATA[A pending action shall be deemed concluded where the interdicted person dies before a final and binding judgment is entered.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 615</條號>
-    <條文內容><![CDATA[The provisions of Article 581, Article 594, Article 595, Article 602 and Article 603 shall apply mutatis mutandis to an action to revoke the declaration of interdiction.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 616</條號>
-    <條文內容><![CDATA[The court shall enter a judgment to revoke the ruling for declaring interdiction when it considers meritorious an action to revoke the declaration of interdiction..
-In cases provided in the preceding paragraph, the court may order necessary measures to be taken to protect the body or property of the interdicted person before the judgment becomes final and binding.
-The provisions of the second and the third paragraphs of Article 606 shall apply mutatis mutandis to the measures provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 616-1</條號>
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 617</條號>
-    <條文內容><![CDATA[Acts conducted by the guardian before the declaration of interdiction is revoked shall continue in effect.
-No act conducted by the interdicted person before the declaration of interdiction is revoked may be asserted as inoperative by reason of the interdiction ruling.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 618</條號>
-    <條文內容><![CDATA[The court of first instance hearing the case shall effectuate a public notice of the judgment on the action to revoke the declaration of interdiction after such judgment has become final and binding.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 619</條號>
-    <條文內容><![CDATA[A person who may apply for interdiction in accordance with the provisions of the Civil Code may apply for revocation of the interdiction after the ground for interdiction has vanished.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 620</條號>
-    <條文內容><![CDATA[In matters of an application for revocation of an interdiction, the court for the place where the interdicted person domiciles has exclusive jurisdiction.
-The provisions of the proviso of the first paragraph and the second paragraph of Article 568 shall apply mutatis mutandis to the application provided in the preceding paragraph.
-In matters of an application for revocation of an interdiction, where the court having jurisdiction cannot be determined in accordance with the provisions of the two preceding paragraphs, the application may be filed in the district court which has once decided an application for interdiction.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 621</條號>
-    <條文內容><![CDATA[The provisions of Article 598 to Article 603 inclusive shall apply mutatis mutandis to an application for revocation of an interdiction.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 622</條號>
-    <條文內容><![CDATA[If the interdiction is revoked, the interdicted person shall bear all proceeding expenses incurred from a revocation of interdiction.
-Except in cases provided in the preceding paragraph, the applicant shall bear the expenses.  The expenses shall be paid by the national treasury in cases where the public prosecutor is the applicant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 623</條號>
-    <條文內容><![CDATA[The ruling revoking an interdiction shall specify the reason for the revocation.
-The ruling provided in the preceding paragraph shall be served upon the applicant and the interdicted person.  
-The provision of Article 618 shall apply mutatis mutandis to the ruling provided in the first paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 624</條號>
-    <條文內容><![CDATA[No appeal may be taken from a ruling denying an application for revoking an interdiction.
-A person who may apply for revocation of an interdiction may initiate an action to revoke the ruling provided in the preceding paragraph in the district court which decided such application for revoking the interdiction.
-The provisions of Article 610, Article 612 to Article 616 inclusive, the first paragraph of Article 617 and Article 618 shall apply mutatis mutandis to the action provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
-  <編章節>   CHAPTER IV  DECLARATION OF DEATH</編章節>
+  <條文>
+    <條號>Article 624-1</條號>
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 624-2</條號>
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 624-3</條號>
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 624-4</條號>
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 624-5</條號>
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 624-6</條號>
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 624-7</條號>
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 624-8</條號>
+    <條文內容><![CDATA[(Repealed.)
+]]></條文內容>
+  </條文>
+  <編章節>   CHAPTER IV  DECLARATION OF DEATH (Repealed.)</編章節>
   <條文>
     <條號>Article 625</條號>
-    <條文內容><![CDATA[Except as otherwise provided in this Chapter, the provisions of Article 540 to Article 553 inclusive shall apply mutatis mutandis to matters of declaration of death.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 626</條號>
-    <條文內容><![CDATA[In matters of an application for declaration of death, the court for the place where the absent person domiciles shall have exclusive jurisdiction. 
-The provisions of the proviso of the first paragraph, the second paragraph, and the third paragraph of Article 568 shall apply mutatis mutandis to the application provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 627</條號>
-    <條文內容><![CDATA[An application for declaration of death must specify the grounds and the occurrences giving rise thereto and the evidence thereof.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 628</條號>
-    <條文內容><![CDATA[A public summons shall indicate the following matters: 
-1. The absent person must report he/she is alive within the prescribed period and, failing to do so, he/she shall be declared dead;
-2. Any person who knows whether the absent person is alive or deceased shall report the same to the court within the prescribed period.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 629</條號>
-    <條文內容><![CDATA[The reporting period provided in the preceding Article shall start to run for a period of six months or more from the last day of the publication of the public summons in the official gazette or newspaper.
-Where the absent person is one hundred years of age or older, the public summons may be effectuated only by being posted on the bulletin board of the court.
-In cases provided in the preceding paragraph, the reporting period may be prescribed for a period of two months or more from the day when the public summon is posted on the bulletin board.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 630</條號>
-    <條文內容><![CDATA[A person who has the right to apply for declaration of death may be a co-applicant, join the proceeding, or continue the proceeding on behalf of the original applicant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 631</條號>
-    <條文內容><![CDATA[The provision of Article 601 shall apply mutatis mutandis to declaration of death matters. .
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 632</條號>
-    <條文內容><![CDATA[Where the survival of the absent person has been reported but the applicant denies survival, the court by a ruling shall order the stay of the proceeding before a decision thereon becomes final and binding.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 633</條號>
-    <條文內容><![CDATA[The judgment declaring death must provide the determined time of death of the absent person.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 634</條號>
-    <條文內容><![CDATA[Proceeding expenses incurred from an application for declaration of death shall be reimbursed by the inheritance of the absent person if he/she is declared dead.
-Except in cases provided in the preceding paragraph, the applicant shall bear the expenses.  The national treasury shall pay the expenses in cases where the public prosecutor is the applicant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 635</條號>
-    <條文內容><![CDATA[The public prosecutor or a legally interested person may initiate an action to revoke declaration of death.
-In cases where the applicant provided in the second paragraph of Article 551 is deceased, another legally interested person may be named as the defendant.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 636</條號>
-    <條文內容><![CDATA[In an action for the revocation of declaration of death, in addition to the provision of the second paragraph of Article 551 which shall apply mutatis mutandis, such action may be initiated where the person whose death is declared is still alive or the time of his/her death has been improperly determined.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 637</條號>
-    <條文內容><![CDATA[The provision of Article 552 does not apply in cases where an action to revoke declaration of death has been initiated on the ground that the person whose death is declared is still alive.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 638</條號>
-    <條文內容><![CDATA[Where there are multiple actions to revoke the same declaration of death, the court shall consolidate them.  The provision of Article 56 shall apply in such cases.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 639</條號>
-    <條文內容><![CDATA[The provisions of Article 581, Article 594, Article 595 and Article 613 shall apply mutatis mutandis to an action to revoke declaration of death.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 640</條號>
-    <條文內容><![CDATA[A judgment revoking declaration of death or correcting the determined time of death is binding on all persons.  Notwithstanding, the judgment shall not affect acts conducted in good faith before such judgment has become final and binding.
-Where a person has obtained property due to declaration of death, he/she shall be obliged to return such property within the limit of interests remained in case his/her right is abridged as a result the judgment provided in the preceding paragraph.
+    <條文內容><![CDATA[(Repealed.)
 ]]></條文內容>
   </條文>
 </法規內容>

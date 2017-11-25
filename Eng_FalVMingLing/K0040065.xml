@@ -3,7 +3,7 @@
 <英文法規名稱>Vehicle Safety Type Approval Management Regulations</英文法規名稱>
 <中文法規名稱>車輛型式安全審驗管理辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0040065</法規網址>
-<最新英文異動日期>20111115</最新英文異動日期>
+<最新英文異動日期>20160906</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -13,7 +13,8 @@
 </附件>
 <沿革內容><![CDATA[1. Promulgated on January 29, 2007
 2. Revised on December 17, 2009
-3. Revised on November 15, 2011]]></沿革內容>
+3. Revised on November 15, 2011
+4. Revised on September 6, 2016]]></沿革內容>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
   <條文>
@@ -85,19 +86,34 @@ The above-authorized issues and the relevant regulations shall be published on g
 (4) Illustrating documents of location and method of approval mark specified in Article 16.
 (5) For gravel and sand truck, concrete mixer truck and tank truck, shall provide the calculation instruction documents of loading volume dimension of each vehicle type.
 (6) For Liquefied Petroleum Gas (LPG) fuel system vehicles, shall provide proving documents specified in attachment 10 of Road Traffic Safety Regulations.
-(7) For large passenger vehicles, child-only vehicles and school buses, shall provide allocation drawings of seats.
-(8) For large passenger vehicle manufactured by local body constructors, the applicant shall provide body construction manual and structure calculation as below:
+(7) For large passenger vehicles, child-only vehicles and school buses, shall provide allocation  drawings of seats.
+(8) For large passenger vehicle manufactured by local body constructors, the applicant shall provide documents as below:
 A. The construction manual of body on chassis.
 B. The body construction self check list, the illustrations of superstructure design and body construction, the illustrations shall include six views of vehicle body, five views of chassis, frame information specification, the drawing or photograph of truss weights and locations.
-C. The calculation document of strength of superstructure.
+C. The body construction self-check list for each vehicle type of class I and class II large passenger vehicles signed by people with level B welding technical certificate or others welding technician approved by certification institution.
+D. The calculation document of strength of superstructure.
+(9) For class I and class II large passenger vehicle manufactured by local body constructors and imported by importer, additional documents shall provide as below:
+A. The verification documents of durability test.
+B. The body construction self-check list for each vehicle type signed by people with level B welding technical certificate or other welding technician approved by certification institution. However, if the assembly line is automated to certain extent and approved by certification institution, then this check list may be exempted.
+C. The main component list of each vehicle type.
 3. Examination report acquired for each vehicle type and testing item according to Article 14. The applicants can be different from the owners of the examination reports except for vehicles specification requirements in Vehicle Safety Testing Directions. If the applicants of vehicle safety type approval are different from the owners of the examination report, the applicants shall provide authorization document from the owners of examination report.
 If the complete vehicles or chassis of other makes are altered by domestic vehicle manufacturers or body constructors, and considered there is safety concern by the certification institution through MOTC, the applicants shall provide authorization document from the manufacturers of completed vehicle or chassis vehicle.
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 6-1</條號>
+    <條文內容><![CDATA[For vehicle manufacturers and body constructors applying for vehicle safety type approval for the first time, the applicants shall provide the following documents and their plant shall be assessed and approved by certification institution:
+1. Plant address and scale documents.
+2. The COP control plan.
+3. The verification documents of durability test. Electric motorcycle manufacturers shall also provide the documents of vehicle handling stability test and the document which shows the difference between the vehicle type and electric power-auxiliary bicycle or electric bicycle.
+4. For applicants authorized by foreign manufacturers to assemble or manufacture vehicles, authorization documents from foreign manufacturers shall be provided.
+5. For applicants not authorized by foreign manufacturers to assemble or manufacture vehicles, the design and development technical documents about the performance of powertrain and braking, and analysis of vehicle structure shall be provided. For large passenger vehicle manufacturers, research and development technical capability documents shall be provided.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[When there is one of following conditions, the applicants shall apply for low volume vehicle safety type approval instead:
-1. Applicants（vehicle importers, authorities, organizations, schools or individuals）who can not obtain the authorization documents by foreign original vehicle or chassis manufacturers specified in Item 4 of Subparagraph 1, Paragraph 1, Article 6.
+1. Applicants (vehicle importers, authorities, organizations, schools or individuals) who can not obtain the authorization documents by foreign original vehicle or chassis manufacturers specified in Item 4 of Subparagraph 1, Paragraph 1, Article 6.
 2. Those who cannot provide the examination report according to Subparagraph 3 of Paragraph 1, Article 6.
 3. Vehicles have been used but not scrapped from abroad.
 4. Vehicles have been used in the terminals of non-highway scopes.
@@ -138,7 +154,7 @@ The import tax and commodity tax (Exemption) certificate（for vehicles only use
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[The valid duration of Vehicle Safety Type Approval Certificate and Low Volume Vehicle Safety Type Approval Certificate is two years after the certifying date. If the whole vehicle inspection and testing items cannot comply with the items in Vehicles Safety Testing Directions being promulgated but not implemented yet, then the current valid duration can not be over the implementation date of the item specified therein.
-The Certificate Document specified in Paragraph 1 of Article 11 includes the Certificate and vehicle type of specifications information. The formats of Vehicle Safety Type Approval and Low Volume Vehicle Safety Type Approval Certificate are in attachment 1 and 2.
+The Certificate Document specified in Paragraph 1 of Article 11 includes the Certificate and vehicle type of specifications information.  The formats of Vehicle Safety Type Approval and Low Volume Vehicle Safety Type Approval Certificate are in attachment 1 and 2.
 ]]></條文內容>
   </條文>
   <條文>
@@ -153,7 +169,7 @@ If the Type Approval Certificate is lost or damaged, the original applicant shal
   <條文>
     <條號>Article 12-1</條號>
     <條文內容><![CDATA[For vehicles manufactured, constructed or imported but haven’t applied for registration, inspection and get the new license plate before the expiring date of the Type Approval Certificate which was acquired according to Paragraph 1 of Article 11 of this Regulations, the applicant for these vehicles may inventoried the vehicles and apply to extend 12 months for valid duration of Type Approval Certificate toward certification institution within 1 month after the expiring date to apply for registration, inspection and get the new license plate.
-Except other regulations promulgated by the MOTC, when the applicant constructs completed vehicles with the inventoried chassis specified in Paragraph 3 of Article 17, if they using the same type of chassis and their Type Approval Certificate will be expired, the applicant may apply to extend 18 months for valid duration of Type Approval Certificate toward certification institution to apply for registration, inspection and get the new license plate. This provision also applies to vehicles which were completed after the adoption of new Testing Regulations.
+Except other regulations promulgated by the MOTC, when the applicant constructs completed vehicles with the inventoried chassis specified in Paragraph 3 of Article 17, if they using the same type of chassis and their Type Approval Certificate will be expired, the applicant may apply to extend 18 months for valid duration of Type Approval Certificate toward certification institution to apply for registration, inspection and get the new license plate.  This provision also applies to vehicles which were completed after the adoption of new Testing Regulations.
 The compliances of Vehicle Safety Testing Directions shall be specified on the Type Approval Certificate with valid extension duration according to the above two Paragraphs and the new registration document and user's manual of related vehicles.
 ]]></條文內容>
   </條文>
@@ -212,13 +228,24 @@ The content and format of approval label are stipulated in attachment 3.
   <條文>
     <條號>Article 17</條號>
     <條文內容><![CDATA[The chassis manufactured by domestic chassis manufacturers or imported by importer to construct body in Taiwan have to process the chassis type registration.
-To process the type of chassis registration, the applicants shall provide following documents to certification institution，the document of application shall have seal the applicant and the duty-person on it or other electronically certified method. After registered by certification institution, certification institution shall issue the registration report：
+To process the type of chassis registration, the applicants shall provide following documents to certification institution, the document of application shall have seal the applicant and the duty-person on it or other electronically certified method. After registered by certification institution, certification institution shall issue the registration report：
 1. The copy of the applicant’s qualification document.
 (1) For domestic chassis manufacturers, shall provide company registration or commercial registration documents and factory registration documents.
 (2) For the chassis importer, shall provide company registration or commercial registration documents. Authorized importers have to provide additional authorization documents.
 2. For the chassis for construction of large passenger vehicles, applicants shall provide the body construction-on-chassis manual.
 3. The specification list and picture of the chassis type.
+4. For the chassis of class I and class II large passenger vehicles shall provide the verification documents of durability test of completed vehicle and the main components list for each type of chassis.
 When there are new Testing Regulations applied to chassis, if the chassis type were registered and used by domestic body maker to construct completed vehicle and been approved, for the same type of chassis which were manufactured or imported but not used to construct completed vehicle before the implementation of new Testing Regulations, the chassis manufacturers, importers or body makers may inventoried the chassis and apply to comply with the original Regulations in Vehicle Safety Testing Directions toward certification institution within 1 month after the implementation date of the new Testing Items.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 17-1</條號>
+    <條文內容><![CDATA[For chassis manufacturers applying for vehicle safety type approval for the first time, the applicants shall provide the following documents and their plants shall be assessed and approved by certification institution:
+1. Plant address and scale documents.
+2. The COP control plan.
+3. The verification documents of durability test.
+4. For applicants authorized by foreign manufacturers to assemble or manufacture chassis, authorization documents from foreign manufacturers shall be provided.
+5. For applicants not authorized by foreign manufacturers to assemble or manufacture chassis, the design and development technical documents about the performance of powertrain and braking, and analysis of vehicle structure shall be provided. For large passenger vehicle chassis manufacturers, research and development technical capability documents shall be provided.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter III Accreditation of technical services</編章節>
@@ -235,7 +262,7 @@ The domestic or foreign institutions which possess the qualification above may p
 4. Allocation drawings of test equipments of testing laboratory.
 5. The specification list of test equipments.
 6. Standard operation procedures（SOP）of testing.
-7. The chief of laboratory, the chief of quality assurance, test report signee and the resume of testing personnel.
+7. The chief of laboratory, the chief of quality assurance, report signatories and the resume of testing personnel.
 8. Other documents requested by MOTC or certification institution.
 For the foreign technical services, if the same test item has been accredited by their government authority, after the approval from MOTC, the requirement specified in Paragraph 1 of Article 18 may be waived.
 ]]></條文內容>
@@ -261,12 +288,12 @@ The items of ratification of vehicle specifications in Vehicles Safety Testing D
     <條號>Article 21</條號>
     <條文內容><![CDATA[If the accreditation certificate is lost, damaged or there is change of the contents in the certificate, the technical service shall fill out an application form and provide relevant documents for certification institution apply for reissue or change the certificate.
 If technical service apply to move to another testing location, increase testing locations or increase testing items, the certification institution shall proceed on-site assessment. The on-site assessment may be substituted by document examination or on-site check afterwards as the certification institution considers necessary.
-If there is change of the test report signee, the technical service shall report to MOTC for its reference through certification institution.
+If there is change of the report signatories, the technical service shall report to MOTC for its reference through certification institution.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[Technical service may conduct the tests and issue safety test reports according to the Vehicles Safety Testing Directions .
+    <條文內容><![CDATA[Technical service may conduct the tests and issue safety test reports according to the Vehicles Safety Testing Directions.
 Technical service may assign personnel to conduct witness tests in other test laboratories for the tests specified in Paragraph 1 of Article 22.
 If the technical service plan to conduct witness tests in other test laboratories, the technical service needs to provide the following documents and apply toward certification institution of the laboratories to be witnessed for the first time. Witness tests may be conducted after document examination and on-site assessment of the laboratory to be witnessed and the requirements are met and the certification shall issue the assessment report to the laboratory:
 1. Application form.
@@ -309,7 +336,7 @@ If non-conformity was found in the supervising audit, the technical service shal
   </條文>
   <條文>
     <條號>Article 27</條號>
-    <條文內容><![CDATA[If technical service acquire the accreditation certificate by cheating, threatening or bribing, MOTC shall revoke the accreditation and request to turn in the accreditation certificate within a time limit. If the technical service would not return the certificate with the deadline, MOTC shall announce to nullify the certificate.
+    <條文內容><![CDATA[If technical service acquire the accreditation certificate by cheating, threatening or bribing, MOTC shall revoke the accreditation and request to turn in the accreditation certificate within a time limit.  If the technical service would not return the certificate with the deadline, MOTC shall announce to nullify the certificate.
 If technical service has one of the following circumstances, MOTC may revoke entire or partial accreditation:
 1. Technical service applies for revocation.
 2. If the testing record, safety test report or relevant technical documents are counterfeit.
@@ -328,7 +355,7 @@ If the correction specified in Paragraph 2 of Article 28 meets the requirement, 
   </條文>
   <條文>
     <條號>Article 29</條號>
-    <條文內容><![CDATA[The certification institution shall conduct examination of COP to the applicants of Type Approval Certificate or examination reports. The examination is once a year in principle but the frequency may be adjusted depending on the result of examination.
+    <條文內容><![CDATA[The certification institution shall conduct examination of COP to the applicants of Type Approval Certificate or examination reports. The checks of annual reports is once a year and on-site assessment is once every three years in principle but the frequency may be adjusted depending on the result of examination.
 When there is non-conformity found in the COP examination, certification institution shall cease the Type Approval Certificate and examination report related applications. The applicant shall provide the documented explanation and correction toward certification institution within 1 month of the notification to apply for COP re-examination.
 If the applicants don’t offer explanation and improved measures as requested within the requested period or still failed to the COP reexamination by certification institution, certification institution shall report to MOTC to revoke the entire or partial of the Type Approval Certificate and announced that examination report is invalid.
 If the requirements of the re-examination are met, the application right of the applicant shall be resumed.
@@ -407,7 +434,7 @@ Within six months from the implementation date, the applicants may apply for typ
     <條號>Article 41</條號>
     <條文內容><![CDATA[These Regulations shall be effective upon the day of promulgation.
 
-（These Regulations are made in Chinese, which shall prevail in case of any discrepancy between the English translation and the Chinese original.）
+（These Regulations are made in Chinese, which shall prevail in case of any discrepancy between the English translation and the Chinese original. ）
 ]]></條文內容>
   </條文>
 </法規內容>

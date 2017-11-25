@@ -3,10 +3,10 @@
 <英文法規名稱>Regulations for Administration of Mobile Communications Businesses</英文法規名稱>
 <中文法規名稱>行動通信業務管理規則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0060035</法規網址>
-<最新英文異動日期>20130207</最新英文異動日期>
+<最新英文異動日期>20160712</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<沿革內容><![CDATA[1. The whole 58 articles were promulgated on April 29th in 1996 in Jiao-you-fa Zih, No. 8516 document issued by Ministry of Transportation and Communications.
+<沿革內容><![CDATA[1.The whole 58 articles were promulgated on April 29th in 1996 in Jiao-you-fa Zih, No. 8516 document issued by Ministry of Transportation and Communications.
 2. The amendment of Article 9 was promulgated on August 8th in 1996 in Jiao-you-fa Zih, No. 8533 document issued by Ministry of Transportation and Communications.
 3. The amendment of Article 33 was promulgated on March 26th in 1997 in Jiao-you-fa Zih, No. 8624 document issued by Ministry of Transportation and Communications.
 4. The amendment of Article 47 was promulgated on June 27th in 1997 in Jiao-you-fa Zih, No. 8652 document issued by Ministry of Transportation and Communications.
@@ -33,7 +33,8 @@
 25. The amendment of Articles 32, 55 and addition of Articles 32-1, 43-2 promulgated by National Communications Commission (NCC) on Sep. 19, 2011. Ref: Tung-Chuan-Chi Tze No. 10040028260.
 26. The amendment of Articles 40, 57 promulgated by National Communications Commission (NCC) on Sep. 22, 2011. Ref: Tung-Chuan-Ying Tze No. 10041057100.
 27. The amendment of Articles 62 promulgated by National Communications Commission (NCC) on Oct. 29, 2012. Ref: Tung-Chuan-Tung-Xun Tze No. 10141055110.
-28. The amendment of Articles 69 promulgated by National Communications Commission (NCC) on Feb 7, 2013. Ref: Tung-Chuan-Zong-Guei Tze No. 10240004070.]]></沿革內容>
+28. The amendment of Articles 69 promulgated by National Communications Commission (NCC) on Feb 7, 2013. Ref: Tung-Chuan-Zong-Guei Tze No. 1024000407029
+29. The amendment of Articles 73 promulgated by National Communications Commission (NCC) on July 12, 2016. Ref: Tung-Chuan-Ping-Tai Tze No. 10541021810]]></沿革內容>
 <法規內容>
   <編章節>   Chapter 1: General Principles</編章節>
   <條文>
@@ -695,7 +696,9 @@ Operators shall provide the records as maintained in the preceding paragraph acc
   <條文>
     <條號>Article 73</條號>
     <條文內容><![CDATA[Operators shall check and record user information, and may activate services only after such information has been saved in the operator's system data files. User information must be preserved for at least one year after the termination of a user's service contract. Operators shall provide user information for queries made by government agencies in accordance with law. These regulations shall also apply when these services are provided employing prepaid cards or pre-payment method.
-The user information in the foregoing paragraph must include user name, national ID card or passport number, number of other verifying document other than national ID card or passport sufficient to prove identification, address, and assigned telecommunications number.
+The user information in the foregoing paragraph must include user name, address, the numbers of two documents verifying identification, and assigned telecommunications number.
+The numbers of two documents verifying identification referred to in the preceding paragraph, in the case of an applicant being a domestic natural person, shall refer to the user’s ID number and passport number, or either the ID number or passport number and a number of another form of identification that suffices to identify the individual; in the case of an applicant being a foreign natural person, numbers of two documents verifying identification shall refer to the user’s passport number and Alien Permanent Resident Certificate (APRC) number, or either the passport number or the APRC number, and a number of another form of identification that suffices to identify the individual; in the case of an applicant being a legal person, non- legal person or company, numbers of two documents verifying identification shall refer to the verifying document of legal person, non- legal person or company number and the representative’s ID number, the passport number or APRC number.
+Those who cannot accord with the required two forms of documentation shall be handled in accordance with other laws and regulations.
 Entry of the user data in Paragraph 1 shall be completed within two days after the operator accepts a user's application.
 ]]></條文內容>
   </條文>

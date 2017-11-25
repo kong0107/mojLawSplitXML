@@ -3,7 +3,7 @@
 <英文法規名稱>Medical Examination Standards of Airmen</英文法規名稱>
 <中文法規名稱>航空人員體格檢查標準</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0090013</法規網址>
-<最新英文異動日期>20150115</最新英文異動日期>
+<最新英文異動日期>20160308</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -21,7 +21,8 @@
 8.Amendment to Articles 4,9,19,21,31,33 promulgated by CAA Order No. 0023 on March 15, 2005
 9.Amendment to Articles 5~9, 13, 14, 19, 31, 39~42 promulgated by CAA Order No. 0031 on May 3, 2007
 10.Amendment to Articles 19, 31, 40 promulgated by CAA Order No. 0056 on April 26, 2013
-11.Amendment to Articles 7 promulgated by CAA Order No. 1041400021 on January 15, 2015]]></沿革內容>
+11.Amendment to Articles 7 promulgated by CAA Order No. 1041400021 on January 15, 2015
+12.Amendment to Articles 4,17,21,29,33 promulgated by CAA Order No. 10514002841 on March 8, 2016]]></沿革內容>
 <法規內容>
   <編章節>   Chapter One- General Provisions</編章節>
   <條文>
@@ -42,10 +43,20 @@
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[Airmen shall be classified in medical standards as class A and class B (hereinafter “Class A” and “Class B” respectively). Such respective classifications in medical standards apply to the following airmen:
-1. Class A:
-Aircraft pilot of Civil Air Transport Enterprise.
-2. Class B:
-Student pilots, private pilots, aircraft pilot of General Aviation, flight engineers ， air traffic controllers and flight instructor
+· Class A:
+(1) Airline transport pilot
+(2) Commercial pilot engaged in Airline transport and General Aviation business charter operation
+(3) Multi-crew pilot
+· Class B:
+(1) Student pilot
+(2) Private pilot
+(3) Commercial pilot engaged in General Aviation other than business charter operation
+(4) Commercial pilot - free balloon
+(5) Commercial pilot - glider
+(6) Private pilot - airship
+(7) Flight engineer
+(8) Air traffic controller
+(9) Flight instructor
 ]]></條文內容>
   </條文>
   <條文>
@@ -123,16 +134,19 @@ The expenses of doctor to attain the evaluation who employed by Medical Review C
   <條文>
     <條號>Article 17</條號>
     <條文內容><![CDATA[The medical standards for mental and neurologic systems are as follows:
-1. Mental illnesses- none of the followings shall be found in the airman’s medical history or had by the airman the latter of which is confirmed by verification:
-(1) symptoms of mental disease
-(2) personality disorders or disorganized behaviors so severe to the extent such disorders or behaviors repeat themselves overtly
-(3) drug addiction, dependence or chronic alcoholism
-2. Diseases of neurologic system- none of the followings shall be found in the airman’s medical history or otherwise:
+1.Mental illnesses- none of the followings shall be found in the airman’s medical history or had by the airman the latter of which is confirmed by verification:
+(1) schizophrenia spectrum and other psychotic disorders.
+(2) severe neurotic, stressor-related disorders and somatoform disorder.
+(3) a personality disorder or disorganized behavior that is severe enough to have repeatedly manifested itself by overt acts.
+(4) psychoactive substance-related disorders and addiction.
+(5) behavioral and emotional disorders with onset usually occurring in childhood and adolescence.
+(6) mental illnesses severe enough to affect the airman’s ability to safely perform duties.
+2.Diseases of neurologic system- none of the followings shall be found in the airman’s medical history or otherwise:
 (1) epilepsy
 (2) disturbance of consciousness without identified causes
 (3) cerebral vascular diseases
-(4) migraine and/or headaches, collectively cause the disturbance of neurologic functions.
-(5) any other progressive of non-progressive central, peripheral or automatic nervous system diseases severe enough to affect the airmen’s ability to safely perform duties.
+(4) migraine and/or headaches, collectively cause the disturbance of neurologic functions
+(5) any other progressive of non-progressive central, peripheral or automatic nervous system diseases severe enough to affect the airmen’s ability to safely perform duties
 3. Head injuries- none of the followings shall be found in the airman’s medical history or otherwise:
 (1) head trauma to the intra cranial and the brain tissues or cerebral meninges remain partially injured
 (2) head trauma to dura mater
@@ -154,9 +168,9 @@ The expenses of doctor to attain the evaluation who employed by Medical Review C
   <條文>
     <條號>Article 19</條號>
     <條文內容><![CDATA[The examination standards in respect of internal medicine are as follows:
-1. No disease or malfunction that affects the airmen’s ability to safely perform duties shall be found.
-2. In respect of heart, no coronary artery disease shall be had or found in the medical history.
-3. None of the followings which affect the airmen’s ability to safely perform duties shall be found:
+· No disease or malfunction that affects the airmen’s ability to safely perform duties shall be found.
+· In respect of heart, no coronary artery disease shall be had or found in the medical history.
+· None of the followings which affect the airmen’s ability to safely perform duties shall be found:
 (1) severe hypertrophic cardiomyopathy or dilated cardiomyopathy
 (2) left bundle branch block of heart
 (3) congenital heart disease
@@ -165,21 +179,21 @@ The expenses of doctor to attain the evaluation who employed by Medical Review C
 (6) abnormal atrioventricular conduction: Mobitz II second degree atrioventricular block, third degree atrioventricular block and atrioventricular dissociation
 (7) having had pericarditis, endocarditis or myocarditis
 (8) heart murmurs
-4. The systolic blood pressure shall be 140 mmHg or lower; the diastolic blood pressure shall be 90 mmHg or lower.
-5. No apparent abnormality, either functional or structural, in circulatory system
-6. No acute diseases in lung tissues, mediastinum or pleura, or asthma requiring medication for control.
-7. No spontaneous pnemothorax shall be found in medical history
-8. No chronic obstructive lung diseases with or without complication
-9. No verified diagnosis of active tuberculosis
-10. No malfunction or disease in gastrointestinal tract, liver, gallbladder or pancreas, so severe that affect the airman’s ability to safely perform duties
-11. No disease in urinary tract or genital organs, so severe that affect the airman’s ability to safely perform duties
-12. No local or systemic lymphadenopathy, splenomegaly or blood diseases, so severe that affect the airman’s ability to safely perform duties
-13. No malignant tumor
-14. No dysfunction in metabolism, nutrition or endocrine system, so severe that affect the airman’s ability to safely perform duties
-15. No type Ⅰ diabetes mellitus, or any other type D.M.(diabetes mellitus) requiring medication for control.
-16. No uncured syphilis or its sequelae.
-17. No acquired immune deficiency syndrome
-18. Pregnant airwomen shall be suspended for air duty and shall be entitled to resume
+· The systolic blood pressure shall be 140 mmHg or lower; the diastolic blood pressure shall be 90 mmHg or lower.
+· No apparent abnormality, either functional or structural, in circulatory system
+· No acute diseases in lung tissues, mediastinum or pleura, or asthma requiring medication for control.
+· No spontaneous pnemothorax shall be found in medical history
+· No chronic obstructive lung diseases with or without complication
+· No verified diagnosis of active tuberculosis
+· No malfunction or disease in gastrointestinal tract, liver, gallbladder or pancreas, so severe that affect the airman’s ability to safely perform duties
+· No disease in urinary tract or genital organs, so severe that affect the airman’s ability to safely perform duties
+· No local or systemic lymphadenopathy, splenomegaly or blood diseases, so severe that affect the airman’s ability to safely perform duties
+· No malignant tumor
+· No dysfunction in metabolism, nutrition or endocrine system, so severe that affect the airman’s ability to safely perform duties
+· No type Ⅰ diabetes mellitus, or any other type D.M.(diabetes mellitus) requiring medication for control.
+· No uncured syphilis or its sequelae.
+· No acquired immune deficiency syndrome
+· Pregnant airwomen shall be suspended for air duty and shall be entitled to resume
 ]]></條文內容>
   </條文>
   <條文>
@@ -199,6 +213,7 @@ The expenses of doctor to attain the evaluation who employed by Medical Review C
 4. The ocular movement shall normal. The vertical phoria shall not be over one (1) prism diopter in heterophoric case and shall not be over six (6) prism diopters in each esophoric and exophoric cases.
 5. The night vision shall normally function.
 6. The eyes shall have normal stereopsis function. The depth perception shall not be over than 50 second farc.
+7. Applicants whose uncorrected distant visual acuity in either eye is worse than 20/200 shall be required to provide a full ophthalmic report every five years.
 The airmen by ways of corrections other than those corrective methods mentioned above, to meet the standards of visual acuity set out in the paragraphs 1 through 2 of this Article 21, shall be verified by CAA.
 ]]></條文內容>
   </條文>
@@ -254,15 +269,18 @@ The airmen by ways of corrections other than those corrective methods mentioned 
     <條號>Article 29</條號>
     <條文內容><![CDATA[The medical standards for mental and neurologic systems are as follows:
 1. Mental illnesses- none of the followings shall be found in the airman’s medical history or had by the airman the latter of which is confirmed by verification:
-(1) symptoms of mental disease
-(2) personality disorders or disorganized behaviors so severe to the extent such disorders or behaviors repeat themselves overtly
-(3) drug addiction, dependence or chronic alcoholism
+(1) schizophrenia spectrum and other psychotic disorders.
+(2) severe neurotic, stressor-related disorders and somatoform disorder.
+(3) a personality disorder or disorganized behavior that is severe enough to have repeatedly manifested itself by overt acts.
+(4) psychoactive substance-related disorders and addiction.
+(5) behavioral and emotional disorders with onset usually occurring in childhood and adolescence.
+(6) mental illnesses severe enough to affect the airman’s ability to safely perform duties.
 2. Diseases of neurologic system- none of the followings shall be found in the airman’s medical history or otherwise:
 (1) epilepsy
 (2) disturbance of consciousness without identified causes
 (3) cerebral vascular diseases
-(4) migraine and/or headaches, collectively cause the disturbance of neurologic functions.
-(5) any other progressive of non-progressive central, peripheral or automatic nervous system diseases severe enough to affect the airmen’s ability to safely perform duties.
+(4) migraine and/or headaches, collectively cause the disturbance of neurologic functions
+(5) any other progressive of non-progressive central, peripheral or automatic nervous system diseases severe enough to affect the airmen’s ability to safely perform duties
 3. Head injuries- none of the followings shall be found in the airman’s medical history or otherwise:
 (1) head trauma to the intra cranial and the brain tissues or cerebral meninges remain partially injured
 (2) head trauma to dura mater
@@ -284,28 +302,28 @@ The airmen by ways of corrections other than those corrective methods mentioned 
   <條文>
     <條號>Article 31</條號>
     <條文內容><![CDATA[The examination standards in respect of internal medicine are as follows:
-1. No disease or malfunction that affects the airmen’s ability to safely perform duties shall be found.
-2. In respect of heart, no congenital or acquired disease that affects the airmen’s ability to safely perform duties shall be found:
+· No disease or malfunction that affects the airmen’s ability to safely perform duties shall be found.
+· In respect of heart, no congenital or acquired disease that affects the airmen’s ability to safely perform duties shall be found:
 (1) Myocardial infarction.
 (2) Angina pectoris or coronary artery disease
 (3) Pathological hypertrophy of myocardium or dilation of heart chamber
 (4) Left bundle branch block of heart
-(5) Second or higher degree atrioventricular block or dissociation
-3. The systolic blood pressure shall be 140 mmHg or lower; the diastolic blood pressure shall be 90 mmHg or lower.
-4. No apparent functional and structural abnormality in circulatory system
-5. No acute diseases in lung tissues, mediastinum or pleura, or bronchial asthma which required medicine.
+· Second or higher degree atrioventricular block or dissociation
+· The systolic blood pressure shall be 140 mmHg or lower; the diastolic blood pressure shall be 90 mmHg or lower.
+· No apparent functional and structural abnormality in circulatory system
+· No acute diseases in lung tissues, mediastinum or pleura, or bronchial asthma which required medicine.
 6. No spontaneous pnemothorax
 7. No chronic obstructive lung diseases with or without complication
-8. No verified diagnosis of active tuberculosis
-9. No malfunction or disease in gastrointestinal tract, liver, gallbladder or pancreas, so severe that affect the airman’s ability to safely perform duties
-10. No disease in urinary tract or genital organs, so severe that affect the airman’s ability to safely perform duties
-11. No local or systemic lymphadenopathy, splenomegaly or blood diseases, so severe that affect the airman’s ability to safely perform duties
-12. No malignant tumor
-13. No dysfunction in metabolism, nutrition or endocrine system, so severe that affect the airman’s ability to safely perform duties; No taking hypoglycemic medicine or having insulin injections is allowed; Diabetics shall not take medicine in order to control blood glucose
-14. No type 1 diabetes mellitus and any other type diabetes mellitus requiring medication for control
-15. No uncured syphilis or its sequels.
-16. No Human Immunodeficiency Virus
-17. Pregnant airwomen shall be suspended for air duty and shall be entitled to resume the flight duties when she passes the Medical Exam after the laboring.
+· No verified diagnosis of active tuberculosis
+· No malfunction or disease in gastrointestinal tract, liver, gallbladder or pancreas, so severe that affect the airman’s ability to safely perform duties
+· No disease in urinary tract or genital organs, so severe that affect the airman’s ability to safely perform duties
+· No local or systemic lymphadenopathy, splenomegaly or blood diseases, so severe that affect the airman’s ability to safely perform duties
+· No malignant tumor
+· No dysfunction in metabolism, nutrition or endocrine system, so severe that affect the airman’s ability to safely perform duties; No taking hypoglycemic medicine or having insulin injections is allowed; Diabetics shall not take medicine in order to control blood glucose
+· No type 1 diabetes mellitus and any other type diabetes mellitus requiring medication for control
+· No uncured syphilis or its sequels.
+· No Human Immunodeficiency Virus
+· Pregnant airwomen shall be suspended for air duty and shall be entitled to resume the flight duties when she passes the Medical Exam after the laboring.
 The pilot to be classified as passing Class B in respect of internal medicine shall pass the Class A examination standards.
 ]]></條文內容>
   </條文>
@@ -321,12 +339,13 @@ The pilot to be classified as passing Class B in respect of internal medicine sh
     <條號>Article 33</條號>
     <條文內容><![CDATA[Visual acuity shall be as follows:
 1. The distant visual acuity in each (either right or left) naked eye or the eyes corrected with spectacles or monofocal, non-tinted contact lenses shall be 20/20. However, in case of corrective visual acuity, the airmen shall wear those corrective lenses when they are performing the duties privileged by the certificates issued to such airmen.
-2. The near visual acuity in each (either right or left) naked eye or the eyes corrected with spectacles or monofocal, non-tinted contact lenses shall be 20/40. However, in case of corrective visual acuity, the airmen shall wear those corrective lenses when they are performing the duties privileged by the certificates issued to such airmen.
+2. The near vision in each (either right or left) naked eye or the eyes corrected with spectacles or monofocal, non-tinted contact lenses shall be 20/40. However, in case of corrective vision, the airmen shall wear those corrective lenses when they are performing the duties privileged by the certificates issued to such airmen.
 3. For the airmen aged 50 or more, the intermediate visual acuity in each (either right or left) naked eye or the eyes corrected with spectacles or monofocal, non-tinted contact lenses shall be 20/40. However, in case of corrective visual acuity, the airmen shall wear those corrective lenses when they are performing the duties privileged by the certificates issued to such airmen.
 4. The ocular movement shall normal. The vertical phoria shall not be over one (1) prism diopter in heterophoric case and shall not be over six (6) prism diopters in each esophoric and exophoric cases.
 5. The night vision shall normally function.
 6. The eyes shall have normal stereopsis function. The depth perception shall not be over than 50 second farc.
-The airmen by ways of corrections other than those corrective methods mentioned above, to meet the standards of visual acuity set out in the paragraphs 1 through 2 of this Article 33, shall be verified by CAA.
+7. Applicants whose uncorrected distant visual acuity in either eye is worse than 20/200 shall be required to provide a full ophthalmic report every five years .
+The airmen by ways of corrections other than those corrective methods mentioned above, to meet the standards of visual acuity set out in the paragraphs 1 through 2 of this Article 21, shall be verified by CAA.
 ]]></條文內容>
   </條文>
   <條文>
@@ -375,14 +394,14 @@ While The applicant request the Waiver on Medical Exam，the reconsideration of 
   <條文>
     <條號>Article 40</條號>
     <條文內容><![CDATA[An applicant who failed pass on physical check  and his illness（or defect） is being developing and not in a stable condition, or one of the following illness（or defect） is found in his medical history, such airman shall not be eligible to apply for the Waiver on Medical Exam:
-1. Personality or behaviors disorders or psychological disturbances
-2. Chronic alcoholism or drug addiction
-3. Epilepsy
-4. Having had loss of consciousness in the medical history without identified cause
-5. Having had heart transplant surgery
-6. Wearing cardiac pacemaker
-7. Diabetes requiring medication for control
-8. Cerebral vascular diseases
+· Personality or behaviors disorders or psychological disturbances
+· Chronic alcoholism or drug addiction
+· Epilepsy
+· Having had loss of consciousness in the medical history without identified cause
+· Having had heart transplant surgery
+· Wearing cardiac pacemaker
+· Diabetes requiring medication for control
+· Cerebral vascular diseases
 ]]></條文內容>
   </條文>
   <條文>

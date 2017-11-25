@@ -117,7 +117,6 @@ D.      With regard to evaluation method for noise from wind power generation un
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[Noise control standards for factory plants or sites as follows:
-
 ┌───────────┬───────────────┬───────────────┐
 │    Work＼Frequency 　│20 Hz up to 200 Hz            │20 Hz up to 20 kHz            │
 │          ＼          ├────┬────┬─────┼────┬────┬─────┤
@@ -137,13 +136,11 @@ D.      With regard to evaluation method for noise from wind power generation un
 ├───────────┼────┼────┼─────┼────┼────┼─────┤
 │Class 4               │47      │47      │44        │80      │70      │65        │
 └───────────┴────┴────┴─────┴────┴────┴─────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[The following are noise control standard values for entertainment and business premises:
-
 ┌───────────┬───────────────┬───────────────┐
 │    Work＼Frequency 　│20 Hz up to 200 Hz            │20 Hz up to 20 kHz            │
 │          ＼          ├────┬────┬─────┼────┬────┬─────┤
@@ -163,13 +160,11 @@ D.      With regard to evaluation method for noise from wind power generation un
 ├───────────┼────┼────┼─────┼────┼────┼─────┤
 │Class 4               │40      │40      │35        │80      │70      │65        │
 └───────────┴────┴────┴─────┴────┴────┴─────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[Noise control standards for construction projects as follows:
-
 ┌───────────┬───────────────┬───────────────┐
 │    Work＼Frequency 　│20 Hz up to 200 Hz            │20 Hz up to 20 kHz            │
 │          ＼          │                              │                              │
@@ -195,13 +190,11 @@ D.      With regard to evaluation method for noise from wind power generation un
 │（Lmax）    │Classes │                              │100     │85      │75        │
 │            │3 and 4 │                              │        │        │          │
 └──────┴────┴───────────────┴────┴────┴─────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[Noise control standards for amplifying public addressing facilities as follows:
-
 ┌───────────┬────┬────┬─────┐
 │　 ＼ Sound ＼Work    │Day time│Evening │Night time│
 │     ＼ Level ＼Shift │        │        │          │
@@ -217,14 +210,12 @@ D.      With regard to evaluation method for noise from wind power generation un
 ├───────────┼────┼────┼─────┤
 │Class 4               │82      │72      │62        │
 └───────────┴────┴────┴─────┘
-
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[The following are noise control standard values for premises and facilities announced by the competent authority:
 I.      Premises and facilities, exclusive of the wind power generation units:
-
 ┌───────────┬───────────────┬───────────────┐
 │    Work＼Frequency 　│20 Hz up to 200 Hz            │20 Hz up to 20 kHz            │
 │          ＼          ├────┬────┬─────┼────┬────┬─────┤
@@ -244,10 +235,8 @@ I.      Premises and facilities, exclusive of the wind power generation units:
 ├───────────┼────┼────┼─────┼────┼────┼─────┤
 │Class 4               │40      │40      │35        │80      │70      │60        │
 └───────────┴────┴────┴─────┴────┴────┴─────┘
-
 II.     Wind power generation units:
 A.      The values of noise control standard for 20Hz to 200Hz are shown as below:
-
 ┌───────────┬───────────────┐
 │    Work＼Frequency 　│20Hz up to 200Hz              │
 │          ＼          ├────┬────┬─────┤
@@ -267,7 +256,6 @@ A.      The values of noise control standard for 20Hz to 200Hz are shown as belo
 ├───────────┼────┼────┼─────┤
 │Class 4               │47      │47      │44        │
 └───────────┴────┴────┴─────┘
-
 B.      The values of noise control standard for 20Hz to 20 kHz are shown as below:
 1.      When the overall noise level exceeds 50dB(A) in day time or evening, or 40dB(A) in night time, it is a must to take the noise rise control mechanism, where the increased noise of the power generator shall not exceed 5dB(A).
 2.      Regarding the wind power generation units that must make improvement within a time limit, if a full-frequency noise is measured during the re-examination while the indoor doors and windows kept shut, and if it does not exceed the noise level when the doors and windows are opened, it can be considered as a completion of the improvement work.
@@ -278,7 +266,6 @@ Regarding other projects announced by the competent authority, the values of noi
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[When the combined noise level created by facilities not belonging to one person, juridical person or non-juridical person that exceed the values for noise control standards of the foregoing articles, all such facilities shall equally comply with the values for post-correction noise control standards in the following table:
-
 ┌──────────────┬──────────────┐
 │Value of sound source not   │Corrected value for noise   │
 │belonging to one person,    │control standards with which│
@@ -295,7 +282,6 @@ Regarding other projects announced by the competent authority, the values of noi
 ├──────────────┼──────────────┤
 │          Above 6           │            -8              │
 └──────────────┴──────────────┘
-
 ]]></條文內容>
   </條文>
   <條文>
