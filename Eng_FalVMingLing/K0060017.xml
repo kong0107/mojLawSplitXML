@@ -6,6 +6,7 @@
 <最新英文異動日期>20170818</最新英文異動日期>
 <廢止註記>
 </廢止註記>
+<附件 />
 <沿革內容><![CDATA[1.The full text of 38 articles was promulgated in accordance with the Order Chiao Yu (65) Tzu No. 05539 issued by the MOTC dated June 25, 1976.
 2.Articles modified in accordance with the Order Chiao Yu Fa Tzu No. 08616 issued by the MOTC and the Order No. (86) Chi Kuang I Tzu No. 04045 issued by Government Information Office, Executive Yuan dated Apr. 19, 1997.
 3.The full text of 37 articles was promulgated in accordance with the Order Chiao Yu Fa Tzu No. 8895 issued by the MOTC dated Sep. 30, 1999.
@@ -17,6 +18,7 @@
 9.Articles 8, 12, 27 , 29 were promulgated and modified in accordance with the Order Tung-Chuan-Ji-Zih No. 10143043450 issued by National Communications Commission on Dec. 5, 2012.
 10.Articles 10, 26, 27 were promulgated and modified in accordance with the Order Tung-chuan-Ji-Chu No. 10563006590 issued by National Communications Commission on April 8, 2016.
 11.The amendment of Article 2, 5, 8, 12, 25, 26, 27, 30, 31 and the deletion of Article 11, 29 on Aug 18, 2017. Ref: Tung-chuan-Ji-Chu No. 10663019090]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
@@ -57,7 +59,6 @@
 The period of review mentioned above is 6 months, during which the competent authority may request a field test performed by the applicant based on the conditions of review.
 The establishment of an antenna tower of a radio station and the location of such a tower shall not violate the broadcasting service zone that has been announced or appointed by the competent authority.
 When two or more radio or television stations are operating on one shared tower with other radio, television or telecommunication stations, the radio station shall operate on a directional antenna, which the competent government authorities have assessed without concerns of interference, and also does not deviate from the initial primary service area, the radio antenna tower may be installed within a three-kilometer radius beyond the broadcast service area, and not restricted by the preceding stipulation.
-For the establishment of metal towers that are shared by three or more radio and/or television stations and on which directional antennas are installed, such towers may be located within 3km outside of broadcasting service zone limits and free from the limitation mentioned in the previous paragraph, provided that such a tower has been evaluated by the competent authority as no consideration of interference and the location is within a reasonable distance away from the intended broadcasting service zone.
 For Class B and C frequency modulation (FM) radio stations, a broadcasting station of the same frequency may be established in the broadcasting service zone appointed by the competent authority, provided that such a station or its establishment does not generate interference to other existing legally established radio stations and a proper request is made as per Paragraph 1.
 If the application of item 1 involves a new installation and changes of an antenna tower, the competent authorities, at the time of approving and issuing the tower installation permit, shall notify the municipalities or county (municipal) governments relevant to where the site is located.
 If the applicant fails to submit its application as per Item I Paragraph 7 or submits an untrue affidavit, the competent government authority may revoke or abolish the tower installation permit.
@@ -95,7 +96,6 @@ For the inspection of station, applicants shall attach the following documents:
 3. An Estimation Table of Frequency usage fee Or estimation table for number of population in service zone.
 4. An Estimation Table of Electric Field Intensity for the Octave Direction and Interference for Broadcasting Station
 5. Diagrams Radio Wave Coverage
-6. Photo copies of miscellaneous license that should be applied for and granted to an antenna tower pursuant to related architecture regulations.
 ]]></條文內容>
   </條文>
   <條文>
@@ -245,8 +245,7 @@ Stations that violate the proceeding regulations or related regulations shall be
 (3) Output electric power of transmitter for Type C FM broadcasting station shall be below 30kW. Field strength of ground wave beyond a radius of 60km from transmitting antenna shall not be greater than 500 uV/m or 54 dBuV/m. If isotropic curve for field strength of transmission isn’t a regular circle , the widest radial length of electric field intensity mentioned above shall not exceed 120km.
 (4) Output electric power of transmitter and electric field intensity of transmission for other types of FM broadcasting station shall be stipulated by the competent authority depending on the practical situations.
 3. Output electric power of transmitter and field strength for entire area digital radio broadcasting station(DVB)shall be less than 10 KW and Output power of transmitter and transmitting field strength for digital radio broadcasting station (DVB)shall be less than 5 KW.
-The field strength transmitted by station in the proceeding paragraph shall depend on the situations stipulated by the competent authority.
-To cope with the requirement of competent authority management or interfered by electric wave, under the competent authority’s discretion, the aforementioned station should adjust output power of transmitter and field strength. For interference resulted from adjusted power of transmitter, it should be resolve through negotiation. If failed to solve the interference, it can appeal the competent authority and solve in accordance with the competent authority’s concluded decision.
+The field strength transmitted by station in the proceeding paragraph shall depend on the situations stipulated by the competent authority.To cope with the requirement of competent authority management or interfered by electric wave, under the competent authority’s discretion, the aforementioned station should adjust output power of transmitter and field strength. For interference resulted from adjusted power of transmitter, it should be resolve through negotiation. If failed to solve the interference, it can appeal the competent authority and solve in accordance with the competent authority’s concluded decision.
 ]]></條文內容>
   </條文>
   <條文>

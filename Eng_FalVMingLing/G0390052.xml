@@ -3,9 +3,10 @@
 <英文法規名稱>Regulations Governing Implementation of Internal Control and Auditing System of Insurance Enterprises</英文法規名稱>
 <中文法規名稱>保險業內部控制及稽核制度實施辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0390052</法規網址>
-<最新英文異動日期>20160701</最新英文異動日期>
+<最新英文異動日期>20171019</最新英文異動日期>
 <廢止註記>
 </廢止註記>
+<附件 />
 <沿革內容><![CDATA[1.Promulgated by Ministry of Finance (90-tai-tsai-pao No. 0900751422) in total of 34 articles on 2001.12.20
 2.Amended on January 04, 2006
 3.Amended on March 17, 2010
@@ -13,7 +14,8 @@
 5.Amended on August 08, 2014
 6.Amended on May 12, 2015
 7.Amended on 1 July 2016 per Order Ref. Jin-Kuan-Bao-Tsai 10502076451 of the Financial Supervisory Commission
-]]></沿革內容>
+8.Amended on 19 October 2017 per Order Ref. Jin-Kuan-Bao-Tsai 10602504021 of the Financial Supervisory Commission.]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
   <條文>
@@ -38,6 +40,7 @@
 If the insurance enterprise has independent director(s), the opinions of respective independent director should be taken into consideration fully when the internal control system is submitted to the board for discussion in accordance with the preceding paragraph. The reservation or dissenting opinions of the independent director(s) and reasons therefor shall be recorded in the meeting minutes of the board of directors.
 If the insurance enterprise has established an audit committee, the adoption or revision of its internal control system shall be subject to the consent of at least the majority of the audit committee members and be submitted to the board of directors for a resolution.
 Any matter under the preceding paragraph that has not been approved with the consent of at least the majority of the audit committee members may be adopted with the consent of at least two-thirds of all directors, and the resolution adopted by the audit committee shall be recorded in the meeting minutes of the board of directors.
+The board of directors of the insurance enterprise shall be aware of the risks it faces in its operations, supervise its operating results and be ultimately responsible for ensuring the establishment and maintenance of a proper and effective internal control system.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter 2 The Design and Implementation of Internal Control System</編章節>
@@ -52,20 +55,27 @@ Any matter under the preceding paragraph that has not been approved with the con
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 4-1</條號>
+    <條文內容><![CDATA[The code of conduct for directors specified in Subparagh 1 of the preceding article shall contain at least the rules that when a director discovers that the insurance enterprise is in danger of suffering material loss or damage, he shall handle the matter properly as soon as possible, immediately notify the audit committee or the independent directors or supervisors, report it to the board of directors and supervise the insurance enterprise to report to the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[An insurance enterprise shall, based on its business nature and scale, establish operating procedures for at least the following control operations according to the principles of internal check, and review and revise such procedures in a timely manner:
-1. Insurance product development operation: Including risk assessment of insurance products, evaluation of premium rate adequacy and assessment of reserve adequacy.
+1. Insurance product development and management operation: Including risk assessment of insurance products, evaluation of premium rate adequacy, assessment of reserve adequacy and the product management operation.
 2. Product sales operation: Including promotional materials and information to be disclosed in insurance policy, business solicitation, underwriting, contract conversion, reinstatement, conservation, fees and charges.
 3. Claim operation: Including investigation of accident, review and payment operation.
 4. Fund utilization operation: Including holistic investment policies, acquisition, custody and disposal of various investment assets, and rules for related party transactions.
-5. Solvency assessment operation: Including assessment of all kinds of reserves to be set aside, evaluation of asset quality,the match of assets and liabilities, write-off of non-performing loans and non-accrual loans, management of investment and fund liquidity, assessment of financial conditions and capital adequacy.
+5. Solvency assessment operation: Including assessment of provisions for various kinds of reserves, evaluation of asset quality, the match of assets and liabilities, resolution of overdue loans and non-accrual loans, management of investment and fund liquidity, assessment of financial conditions and capital adequacy, insurance enterprise risk management and assessment of the insurance enterprise’s self risks and solvency.
 6. Processing derivatives transactions operation: Including trading principles and guidelines, operating procedures, announcement and reporting procedures, accounting treatment, internal control and audit system.
 7. Reinsurance operation: Including methods of reinsurance, assessment of risks and risk tolerance, reinsurance retention ratio and selection of reinsurers and reinsurance brokers.
 8. Control operations of accounting, general affairs, resources, personnel management and other businesses.
 9. Management of financial examination reports.
 10. Management of financial consumers protection.
 11. Management of the application of International Financial Reporting Standards.
-12. Other matters designated by the competent authority.
+12. Mechanism for handling major contingencies.
+13. Mechanism for anti-money laundering and combating the financing of terrorism (AML/CFT) and management of compliance with relevant laws and regulations, including the management mechanism for identifying, assessing, and monitoring AML/CFT risks.
+14. Other matters designated by the competent authority.
 Where an insurance enterprise is required to establish a remuneration committee according to law, the insurance enterprise shall design internal controls and operating procedures for the operation and management of the remuneration committee.
 Where an insurance enterprise has an audit committee established, its internal control system shall also include the management of the audit committee meeting procedures.
 For the stipulation, revision or abolition of all operational and management regulations mentioned in the preceding three paragraphs, it requires the participation of regulatory compliance, internal audit, and risk management agencies.
@@ -86,18 +96,20 @@ For the stipulation, revision or abolition of all operational and management reg
 10. Prevention and control of spread of computer viruses and hacker invasion;
 11. Control of system recovery plan, disaster backup plan and testing procedures;
 12. Control of outsourcing of core businesses;
-13.  Confidentiality and security control of classified data of customers and company; and
+13. Confidentiality and security control of classified data of customers and company; and
 14. Prevention and control of computer crimes.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[For the purpose of maintaining effective operation of its internal control system to achieve the objectives of internal control set out in Article 2 herein, an insurance enterprise shall adopt the following measures:
-1. Internal audit system: Set up an audit unit to take charge of auditing each unit and periodically evaluating the performance of self-inspection conducted by each business unit.
+    <條文內容><![CDATA[For the purpose of maintaining effective operation of its internal control system to achieve the objectives of internal control set out in Article 2 herein, an insurance enterprise shall establish such three defense lines for internal control, including a self-inspection system, a regulatory compliance system and risk management mechanism and an internal audit system.
+To implement the regulations in the foregoing paragraph, the insurance enterprise shall adopt the following measures:
+1. Internal audit system: an audit unit shall be set up to take charge of auditing each unit and periodically evaluating the performance of self-inspection conducted by each business unit.
 2. Regulatory compliance system: The chief compliance officer examines duly whether business personnel comply with relevant laws and regulations in conducting business in accordance with the compliance plan developed by the head office.
 3. Self-inspection system: Members of business, financial and information units check on each other the actual implementation of internal controls under the supervision of managerial personnel or personnel at comparable position or higher as assigned by each unit to discover deficiencies early and take corrective actions in a timely manner.
 4. CPA auditor system: When a certified public accountant (CPA) engaged by an insurance enterprise conducts annual audit of the enterprise, the CPA should also examine the effectiveness of its internal control system and express opinions on the accuracy of financial information the enterprise files with the competent authority and the status of implementation of internal control system and regulatory compliance system.
 5. Risk management mechanism: Establish independent and effective risk management mechanism to assess and monitor the overall risk bearing capacity and current status of risks already incurred, and to determine their compliance with the risk response strategies and risk management procedures.
+The execution procedures for the three defense lines for the internal control system of an insurance enterprise have been collectively established by the Life Insurance Association of the Republic of China and the Non-Life Insurance Association of the Republic of China and have been filed with the competent authority for record.
 ]]></條文內容>
   </條文>
   <條文>
@@ -108,7 +120,6 @@ The risk management mechanisms of an insurance enterprise shall include the foll
 1. Identifying and assessing acceptable risk range based on its business scale, product features and overall economic situation.
 2. Risks to be taken into consideration include underwriting risk, risks associated with reserve assessment, market risk (including interest rate risk), operational risk, compliance risk and other relevant risks.
 3. The management should regularly review the risk control mechanism and adopt suitable strategies based on the actual economic circumstances.
-4. Establishing a management mechanism for identifying, measuring and monitoring risks associated with money laundering and financing of terrorism, and drafting standard operating procedures for complying with anti-money laundering related regulations to reduce the risk of money laundering and financing of terrorism.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter 3 The Inspection of Internal Control System</編章節>
@@ -194,6 +205,7 @@ An insurance enterprise shall verify that its internal auditors meet the qualifi
     <條文內容><![CDATA[The department heads/office chiefs of an insurance enterprise or the head of its branch office or persons with comparable decision-making authority shall, before taking office or within half a year after taking office shall meet one of the following requirements:
 1. Having worked as an auditor of the internal audit unit and conducted internal audit work for more than one year; or
 2. Having attended an auditor, computer audit or supervisor audit training course offered by a competent authority recognized institution, and passed the exam conducted by the aforementioned training institution and obtained a completion certificate therefor. In case of a foreigner, he or she may choose to attend the internal audit training course held by the employing insurance enterprise.
+The person who acts for the first time as the department head/office chief of an insurance enterprise or the head of its branch office or person with sufficient decision-making authority shall meet all of the requirements listed in the preceding paragraph. In addition, the person who meets the requirement set forth in Subparagraph 2 of the preceding paragraph shall participate in at least four times of audit practices with the internal audit unit before actually assuming the post or within six months after assuming the post. Such person shall be responsible for at least one item in each practice, audit at least four items in the audit practices, write a report on the practice, and submit it to the chief auditor for acknowledgement. The chief auditor shall issue a certificate and keep the report for further reference.
 ]]></條文內容>
   </條文>
   <條文>
@@ -220,11 +232,12 @@ The annual audit plan and changes thereof shall be approved by the board of dire
     <條文內容><![CDATA[The internal audit unit shall follow up on the status of improvements made by respective units regarding the examination opinions of or deficiencies found by competent authority, accountants, internal audit units (including the internal audit unit of the parent financial holding company) and self-check personnel, and recommendations enumerated in the statement on internal control, and produce a written follow-up report to be provided to the board of directors and the supervisors or the audit committee for review and to be used as important reference in reward/discipline decisions and performance review.
 The internal audit report shall be provided to the supervisors or the audit committee for review, and unless it is otherwise stipulated by the competent authority, submitted to the competent authority within two (2) months from the date the audit is completed.
 Where an insurance enterprise has independent director(s), the reports shall be simultaneously provided to the independent director(s) when an action is taken under the two preceding paragraphs.
+The major points of audit task for an insurance enterprise should be prescribed by the competent authority.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[An insurance enterprise shall, in a prescribed format and via a Web-based information system, file with the competent authority for record information on its internal auditors, including name, age, education background, work experience, years of service, and training received by the end of January each year.
+    <條文內容><![CDATA[An insurance enterprise shall, in the format prescribed by the competent authority and via a Web-based information system, file with the competent authority for record information on its internal auditors, including the name and years of service by the end of January each year.
 ]]></條文內容>
   </條文>
   <條文>
@@ -256,7 +269,10 @@ An insurance enterprise shall disclose its internal control system statement on 
   <編章節>      Section 3 Audit by an Accountant</編章節>
   <條文>
     <條號>Article 26</條號>
-    <條文內容><![CDATA[If the annual financial report of an insurance enterprise is audited and certified by an accountant, the enterprise should also appoint the accountant to conduct an audit of on its internal control system. The accountant should also comment on the correctness of the report submitted by the insurance enterprise to the competent authority and the implementation status of internal control system and regulatory compliance system.
+    <條文內容><![CDATA[If the annual financial report of an insurance enterprise is audited and certified by an accountant, the enterprise should also appoint the accountant to conduct an audit of on its internal control system. The accountant should also comment on the correctness of the report submitted by the insurance enterprise to the competent authority and the implementation status of internal control system and regulatory compliance system. The scope of such audit shall also cover the foreign branches of the insurance enterprise.
+The competent authority may require the insurance enterprise to appoint an accountant to conduct a special audit of personal information protection and AML/CFT in accordance with the rules set forth by the competent authority.
+The audit fee for the accountant may be agreed upon by the insurance enterprise and the accountant and shall be paid by the insurance enterprise.
+The provisions of Paragraphs 1 and 2 do not apply to an insurance enterprise under receivership by the competent authority pursuant to law.
 ]]></條文內容>
   </條文>
   <條文>
@@ -276,7 +292,7 @@ If an audited insurance enterprise has a situation provided in Subparagraphs 2 ~
   </條文>
   <條文>
     <條號>Article 29</條號>
-    <條文內容><![CDATA[When an insurance enterprise appoints an accountant to conduct audit under Article 26 herein, the enterprise shall, before the end of March each year, submit an independent auditor's report of the previous year to the competent authority for record.
+    <條文內容><![CDATA[When an insurance enterprise appoints an accountant to conduct audit under Paragraph 1 of Article 26 herein, the enterprise shall, before the end of March each year, submit an independent auditor's report of the previous year to the competent authority for record.
 When the competent authority inquires the contents of the independent auditor's report, the accountant should provide detailed and relevant information and explanations.
 ]]></條文內容>
   </條文>
@@ -284,18 +300,21 @@ When the competent authority inquires the contents of the independent auditor's 
   <條文>
     <條號>Article 30</條號>
     <條文內容><![CDATA[An insurance enterprise shall, based on its size, business nature and organizational characteristics, establish a compliance unit directly under the general manager to take charge of the planning, management and implementation of regulatory compliance system.
-The compliance unit shall establish the position of head office chief compliance officer who oversees the compliance matters and reports to the board of directors and supervisors or audit committee at least semiannually. The head office chief compliance officer whose position is equivalent to a vice general manager may not hold internal positions other than the chief legal officer and should possess leadership and ability to effectively supervise the compliance works. The qualifications of head office chief compliance officer shall comply with the Regulations Governing Required Qualifications for Responsible Persons of Insurance Enterprises.
+The compliance unit shall establish the position of head office chief compliance officer who oversees the compliance matters and may not concurrently hold internal positions other than the chief legal officer and the dedicated AML/CFT compliance unit head. He should have a position equivalent to a vice general manager and possess the leadership and the ability to effectively supervise the compliance works. The qualifications of head office chief compliance officer shall comply with the Regulations Governing Required Qualifications for Responsible Persons of Insurance Enterprises. He shall give a report to the board of directors and supervisors or the audit committee at least semiannually and shall immediately escalate any material violation of laws or regulations he discovers (if any) to the board of directors and supervisors and report to the board of directors on the regulatory compliance matters.
 The branches of foreign insurance enterprises in Taiwan, reinsurance enterprises and insurance cooperatives may appoint a high level manager to act as the head office chief compliance officer under the preceding paragraph, and insurance cooperatives are not subject to the restriction on head office chief compliance officer holding concurrently other internal positions under the preceding paragraph.
 Chief auditor, head of audit unit and internal auditors may not serve as the head office chief compliance officer under Paragraph 2 hereof.
 The appointment and dismissal of head office chief compliance officer shall have the consent of at least the majority of all directors and be reported to competent authority for record.
-The head office chief compliance officer and personnel of the compliance unit of an insurance enterprise shall attend at least 20 hours of training a year offered by institutes recognized by the competent authority or financial holding companies or the employing insurance enterprise. The training courses shall cover at least the latest regulatory amendments and new insurance products launched.
+The head office chief compliance officer and personnel of the compliance unit of an insurance enterprise shall attend at least 20 hours of on-the-job training courses a year offered by the competent authority or institutions recognized by the competent authority or held internally by the financial holding company which is the parent company of the insurance enterprise or the insurance enterprise. The training courses shall cover at least the latest regulatory amendments and new insurance products launched.
+The compliance officer of the business unit, product development and management unit, fund utilization unit, information unit and asset custody unit and other units of an insurance enterprise shall attend at least 15 hours of on-the-job training a year offered by the competent authority or institutions recognized by the competent authority or held internally by the financial holding company which is the parent company of the insurance enterprise or the insurance enterprise.
+The compliance officer of a foreign branch of an insurance enterprise shall attend at least 15 hours of on-the-job training courses on regulatory compliance a year offered by the local competent authority or relevant institutions. If no such training course is available, the officer may attend the training courses offered by the competent authority or institutions recognized by the competent authority or held internally by the financial holding company which is the parent company of the insurance enterprise or the insurance enterprise.
+When a dedicated AML/CFT compliance unit is set up under the regulatory compliance unit, the required training for AML/CFT compliance unit personnel before their appointment and the annual required training for them after their appointment shall observe the relevant AML/CFT regulations and is not subject to the provisions of Paragraph 6 of this article and Paragraph 2 of Article 33.
 An insurance enterprise shall file the list of head office chief compliance officer and personnel of compliance unit and their reward/disciplinary records, qualifications and training records in the past three years with the competent authority via a Web-based information system.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 30-1</條號>
     <條文內容><![CDATA[An insurance enterprise should establish counseling and communication channels for regulatory compliance matters to keep employees informed of rules and regulations, swiftly clarify any questions of the employees on rules and regulations, and ensure regulatory compliance.
-The compliance unit of an insurance enterprise should analyze the causes of significant deficiency or malpractice in compliance matters within respective unit and propose recommendations for improvement. The report produced thereof shall be signed off by the general manager and then submitted to the board of directors for approval.
+When the compliance unit of an insurance enterprise makes a report to the board of directors in accordance with Paragraph 2 of the preceding article, the report should contain at least analysis of the causes of significant deficiency or malpractice in compliance matters within respective unit and as well as possible effects and recommendations for improvement.
 ]]></條文內容>
   </條文>
   <條文>
@@ -329,12 +348,21 @@ The regulatory compliance unit of an insurance enterprise should conduct the fol
 3. Before an insurance enterprise introduces a service, a new insurance product or an insurance product which is deemed to constitute material change by the competent authority and requires approval by the competent authority before marketing, or undertakes specific or major use of funds, the head office chief compliance officer shall issue and sign an opinion statement undertaking that the service, product or use of funds complies with applicable regulations and internal rules.
 4. Drafting the details of evaluation and procedures for evaluating regulatory compliance, overseeing the periodic self-evaluation conducted by respective units, and assessing the compliance self-evaluation conducted by respective units and producing a report thereon, which, after being signed off by the general manager, will be used as reference in the performance evaluation of respective units.
 5. Providing pertinent regulatory training to personnel of various units.
+6. Supervising the introduction, establishment and implementation of relevant internal rules by the compliance officer of respective unit.
 The internal audit unit may draft the details of evaluation and procedures for evaluating compliance by its subordinate units and perform self-evaluation of the compliance status of its subordinate units, to which the provisions in Subparagraph 4 of the preceding paragraph do not apply.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[The business unit, the funds utilized unit, information unit, asset management unit and other management units of an insurance enterprise should assign personnel to act as the compliance officer of the unit to take charge of compliance matters.
+    <條文內容><![CDATA[The business unit, product development and management unit, fund utilization unit, information unit, asset custody unit, other management units and foreign branches of an insurance enterprise should assign personnel to act as the compliance officer of the unit to take charge of compliance matters. The position of the compliance officer in the foreign branches shall be arranged in compliance with the local laws and regulations and the requirements by the local authorities, and the compliance officer shall not hold other posts concurrently except in any of the following situations:
+1. The compliance officer serves concurrently as the AML/CFT compliance officer.
+2. The compliance officer may hold concurrent posts that do not constitute any conflict of interest according to local laws and regulations.
+3. Where it is not clearly prescribed in local laws and regulations regarding whether or not compliance officers may hold concurrent posts, the compliance officer may hold other concurrent posts that do not result in any conflict of interest after such matter has been communicated with and confirmed by the local competent authority and reported to the competent authority for recordation.
+The chief compliance officer and  personnel of the compliance unit of an insurance enterprise as well as the compliance officer of the business unit, product development and management unit, fund utilization unit, information unit, asset custody unit, other management units and foreign branches of an  insurance enterprise shall meet one of the following qualification requirements prior to his appointment or within half a year after his appointment:
+1. Having worked as a regulatory compliance personnel or chief on a full-time basis for at least five years prior to the promulgation of the amendment of these Regulations on October 19, 2017.
+2. Having attended not less than 30 hours of courses offered by institutions recognized by the competent authority, passed the exams and received completion certificates therefor.
+3. The compliance officer of a foreign branch who is employed locally may take relevant training courses and exams not less than 30 hours in accordance with the specific training plan developed by the insurance enterprise, which suffices to show his familiarity with local laws and regulations and his competence in related matters.
+4. The compliance officer of the business unit, product development and management unit, fund utilization unit, information unit, asset custody unit and other management units of an insurance enterprise may take relevant training courses and exams not less than 30 hours held by the financial holding company which is the parent company of the insurance enterprise or the insurance enterprise in accordance with the specific training plan developed by the insurance enterprise, which suffices to show his familiarity with laws and regulations applicable to the respective unit and his competence in related matters.
 Respective unit should draw up a compliance manual, which will be implemented after being approved by the head office chief compliance officer and the general manager.
 The regulatory compliance manual shall contain at least the following particulars:
 1. Regulatory compliance procedures to be adopted by each business;
@@ -342,7 +370,9 @@ The regulatory compliance manual shall contain at least the following particular
 3. Procedures for handling violation of rules and regulations;
 4. Self-evaluation procedure for regulatory compliance operation; and
 5. Namelist of regulatory compliance officers.
-If an insurance enterprise has a foreign branch, the compliance unit should monitor the compliance with local rules and regulations by the foreign branch.
+Where an insurance enterprise has a foreign branch, the regulatory compliance unit shall supervise the foreign branch conducting the following matters:
+1. Gathering information on local insurance laws and regulations, establishing a local laws and regulations database, fully implementing the self-evaluation of the regulatory compliance business and ensuring the competency of the compliance officer and the adequacy of compliance resources (including personnel, equipment and training), to ensure the compliance with local laws and regulations by the foreign branches.
+2. Establishing the self-evaluation and monitoring mechanism for compliance risks; for foreign branches with larger business size, higher business complexity or higher risks involved, they shall commission a local independent expert to verify the effectiveness of their self-evaluation and monitoring mechanism for compliance risks.
 ]]></條文內容>
   </條文>
   <條文>
@@ -366,6 +396,11 @@ When a significant deficiency or malpractice event arises within the management 
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 36-1</條號>
+    <條文內容><![CDATA[After the examination conducted by the competent authority or the local competent authority governing a foreign branch is completed or after an examination report is received by an insurance enterprise, the internal audit unit of the head office shall, based on the principle of materiality, promptly inform the directors and supervisors, and make a report to the forthcoming meeting of the board of directors. The report items should include the content of the meeting for the examination communication, major deficiencies found in the examination and improvement action plans required by the competent authority or possible disciplinary actions to be taken.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 37</條號>
     <條文內容><![CDATA[The branch of a foreign insurance enterprise in Taiwan shall carry out internal control and audit in compliance with these Regulations. However, if the internal control and audit systems of a branch in Taiwan are prescribed by the head office based on regulations with higher or equivalent standards, the branch is allowed to implement such systems by submitting a comparison report which compares the standards that head office adopts and the system requirements in Taiwan and is signed by the branch's responsible person to the competent authority for record.
 An insurance cooperatives may, in view of its business scope and size and within six months from the date of promulgation of these Regulations amended on March 17, 2010, carry out internal control and audit in accordance with these Regulations, or report to the competent authority for record as provided in the preceding paragraph by describing the facts, reasons and the content of internal control and audit system to be adopted.
@@ -374,6 +409,7 @@ An insurance cooperatives may, in view of its business scope and size and within
   <條文>
     <條號>Article 38</條號>
     <條文內容><![CDATA[An insurance enterprise should establish necessary controls for its subsidiaries in its internal control system and urge its subsidiaries to establish internal control system in consideration of local rules and regulations at where each subsidiary is located and the actual nature of the subsidiary's operations.
+Where an insurance enterprise has a foreign branch (or subsidiary), the insurance enterprise shall establish an overall group plan for AML/CFT, including the information sharing policies and procedures for the purpose of AML/CFT under the laws and regulations of the jurisdiction where such foreign branch (or subsidiary) is located.
 An insurance enterprise shall establish audit plans targeted at each subsidiary in its annual audit plans based on the business risk profile and implementation of internal audits by each subsidiary.
 All subsidiaries of an insurance enterprise shall submit to the parent company their board meeting minutes, CPA audit reports, examination reports issued by the financial examination agency, and other relevant materials. For subsidiaries having established an internal audit unit, audit plans and reports on significant deficiencies identified in internal audit and the status of improvements thereof shall also be submitted. The parent company shall review such documents and monitor the improvement actions taken by each subsidiary.
 The chief auditor of an insurance enterprise shall periodically evaluate the effectiveness of the internal control activities of a subsidiary, and after having reported to the board of directors, send the evaluation results to the subsidiary's board of directors for their reference in personnel evaluations.
@@ -386,7 +422,8 @@ The chief auditor of an insurance enterprise shall periodically evaluate the eff
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[Insurance enterprises that do not meet the provisions in Article 30, or Subparagraph 3 or 4, Paragraph 3 of Article 32 herein shall make adjustment to become compliant within six months after the promulgation of these Regulations amended on August 8, 2014.
+    <條文內容><![CDATA[Insurance enterprises that do not comply with the provisions in Paragraph 1 of Article 33 regarding the full-time and concurrent posts shall make adjustments to become compliant within six months after the promulgation of these Regulations amended on October 19, 2017.
+Persons having held the positions as regulatory compliance personnel or chief without compliance with Paragraph 2 of Article 33 prior to October 19, 2017 when these Regulations were amended shall make adjustments to become compliant with the requirements of such Paragraph within one year.
 ]]></條文內容>
   </條文>
   <條文>

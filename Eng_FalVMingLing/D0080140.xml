@@ -1,16 +1,19 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations governing immigration inspection and data collection and utilization</英文法規名稱>
+<英文法規名稱>Regulations Governing Immigration Inspection and Data Collection and Utilization</英文法規名稱>
 <中文法規名稱>入出國查驗及資料蒐集利用辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=D0080140</法規網址>
-<最新英文異動日期>20131219</最新英文異動日期>
+<最新英文異動日期>20171023</最新英文異動日期>
 <廢止註記>
 </廢止註記>
+<附件 />
 <沿革內容><![CDATA[1.A Total of 17 articles were promulgated by the Decree of Ministry of the interior Tai-Nei-Yi-Tzu No. 8981447 on July 15, 2000.
 2.A Total of 23 articles were amended and promulgated by the Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 0970900411 on July 14, 2008; effective date to be announced.
   The Regulation was put in effect by the Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 0971035715 on August 1, 2008.
 3.A Total of 5 articles were amended and promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 1000939554 on February 1, 2011.
-4.A Total of 4 articles were amended and promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 1020958413 on December 19, 2013.]]></沿革內容>
+4.A Total of 4 articles were amended and promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 1020958413 on December 19, 2013.
+5.A Total of 26 articles were amended and promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 10609539122 on October 23, 2017.]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
@@ -19,13 +22,14 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[A national with household registration in Taiwan (hereafter NWHR) shall carry a valid passport and boarding document(s) of an aircraft/vessel for inspection when he/she exits the State. After the National Immigration Agency of the Ministry of the Interior (hereafter NIA) completes the required document inspection, with the exception of individuals who threaten national security, individuals who did not obtain prior approval from the serving agency specified in Paragraph 1 of Article 5 or individuals with exit bans specified in Paragraph 1 of Article 6, the NIA shall imprint an exit stamp on his/her passport page and allow his/her exit.
+    <條文內容><![CDATA[A national with household registration in Taiwan (hereafter NWHR) shall carry a valid passport for inspection when he/she exits the State. After completing the required document inspection, the National Immigration Agency of the Ministry of the Interior (hereafter NIA) shall imprint an exit stamp on his/her passport page and allow his/her exit; except for the individuals involved in national security affairs specified in Paragraph 1 of Article 5 failed obtaining prior approvals from their serving authorities, and the banned exit individuals specified in Paragraph 1 of Article 6 of the Act.
+Taiwan citizens born in Taiwan with dual nationalities at the time of birth, if departing from Taiwan area for the first time, should present his R.O.C. passport for inspection.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[When a NWHR enters the State, he/she shall carry a valid passport for inspection. After the inspection is complete, the NIA shall imprint an entry stamp on his/her passport page and allow his/her entry
-If a NWHR’s passport is lost or expired, he/she may enter the State with a Certificate of Entry Permit.
+    <條文內容><![CDATA[When a NWHR enters the State, he/she shall carry a valid passport for inspection. After the inspection is completed, the NIA shall imprint an entry stamp on his/her passport page and allow his/her entry
+If a NWHR’s passport is lost or expired, he/she may enter the State with a Certificate of Entry Document(s).
 If a NWHR has the citizenship of another country and enters the State through a passport of other nationality, he/she shall exit the State with the same specific passport.
 ]]></條文內容>
   </條文>
@@ -43,31 +47,34 @@ A NWOHR, who resides overseas, in the Mainland Area, or in Macau/Hong Kong and i
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[A resident of Macau or Hong Kong shall carry valid documents listed below for inspection when entering the State, and the NIA shall imprint an entry stamp on his/her travel document(s) after the inspection is completed:
-1. A Hong Kong or Macau passport that is valid for at least six months;
-2. A valid entry permit;
+1. A valid entry and exit permit;
+2. A Hong Kong or Macau passport that is valid for at least three months. ARC and Residency Entry and Exit Permit holders shall carry valid passports.
 3. A return aircraft /vessel ticket or ticket to next destination if required by the law;
-4. A completed arrival card (not required for R.O.C. passport holders).
+4. A completed arrival card (not required for the ARC holders and others promulgated by the NIA).
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[Resident of Macau or Hong Kong shall carry a valid passport with an entry permit for inspection when exiting the State. After the inspection is completed, the NIA shall imprint an exit stamp on his/her travel document(s).
+    <條文內容><![CDATA[Resident of Macau or Hong Kong shall carry a valid passport with an entry and exit permit for inspection when exiting the State. After the inspection is completed, the NIA shall imprint an exit stamp on his/her Entry and Exit Permit.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[People of the Mainland Area shall carry valid documents listed below for inspection when entering the State. After the inspection is completed, the NIA shall imprint an entry stamp on his/her travel document(s):
-1. A valid entry permit;
-2. A return aircraft /vessel ticket or ticket to next destination (does not apply to those specified by law);
-3. A valid visa or resident certificate of the country of the next destination;
-4. A completed arrival card does not need to be filled out by holders of alien resident certificate, single entry & exit permit, or others approved by the National Immigration Agency;
-5. Identification documents(s);
-For an individual approved for residency or household registration permission in Taiwan, he/she must enter with an entry permit and an alien resident certificate, or a Household Registration Permit.
+    <條文內容><![CDATA[People of the Mainland Area shall carry valid documents listed below for inspection when entering the State. After the inspection is completed, the NIA shall imprint an entry stamp on his/her Entry and Exit Permit:
+1. A valid entry and exit permit;
+2. A passport, Mainland Residents to Taiwan Pass, travel document(s), or non-permanent residency issued by Hong Kong or Macau government that is valid for at least six months. However, traveler (non-tourist group) under Article 3-1 of the Regulation of Mainlander Entering Taiwan for Tourism, shall obtain a Mainland Residents to Taiwan Pass with at least six months of validity.
+3. A return aircraft /vessel ticket or ticket to next destination; except for traveler permitted to stay over 6 months.
+4. A valid visa or resident certificate of the country of the next destination for traveler who enters from foreign places other than mainland China.
+5. A completed arrival card does not need to be filled out by holders of alien resident certificate, single entry & exit permit, or others approved by the NIA;
+6. Identification documents(s).
+For an individual approved for residency or household registration permission in Taiwan, he/she shall carry valid entry document(s) listed below, receive inspection and an entry stamp from the NIA upon entering the State:
+1. Entry & exit permit and an alien resident certificate, or a Household Registration Permit.
+2. A valid passport, Mainland Residents to Taiwan Pass, travel document, or non-permanent residency document(s) issued by Hong Kong of Macau government.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[People of the Mainland Area shall carry valid entry permits (with an authorized entry period) for inspection when exiting the State. After the inspection is completed, the NIA shall imprint exit stamps on the document(s).
+    <條文內容><![CDATA[People of the Mainland Area shall carry valid entry and exit permits (with an authorized entry period) for inspection when exiting the State. After the inspection is completed, the NIA shall imprint exit stamps on the document(s).
 ]]></條文內容>
   </條文>
   <條文>
@@ -77,7 +84,7 @@ For an individual approved for residency or household registration permission in
 2. A valid visa, an entry permit, or an alien permanent resident certificate. This does not apply to those entering with a landing visa;
 3. A return air/boat ticket or next destination air/boat ticket if applying for a landing visa. This does not apply to individuals providing exemption documents;
 4. A valid visa for the country of next destination. This does not apply to countries with no visa requirement for entry;
-5. A completed arrival card. This does not apply to R.O.C. alien resident certificate holders.
+5. A completed arrival card. This does not apply to R.O.C. alien resident certificate holders or those promulgated by the NIA.
 ]]></條文內容>
   </條文>
   <條文>
@@ -97,12 +104,17 @@ For an individual approved for residency or household registration permission in
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 12-1</條號>
-    <條文內容><![CDATA[For travelers who enter or exit the State through e-gate, the exit stamp may be omitted.
+    <條號>Article 13</條號>
+    <條文內容><![CDATA[For travelers who enter or exit the State through e-gate or those promulgated by the NIA, the exit stamp may be omitted.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 13</條號>
+    <條號>Article 14</條號>
+    <條文內容><![CDATA[Upon immigration inspection, the NIA is entitled to examine a passenger’s boarding certificate or other certificate(s)/ document(s) related with entering the country.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 15</條號>
     <條文內容><![CDATA[An aircraft/vessel crew member who is a NWHR serving on an aircraft/vessel and registered to the State shall carry the following documents for inspection by the NIA when entering/exiting the State:
 1. A valid passport or seamen service book;
 2. Duty Certificate;
@@ -110,64 +122,63 @@ For a crew member entering the State with an aircraft registered to the State or
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 14</條號>
+    <條號>Article 16</條號>
     <條文內容><![CDATA[A NWHR crew member of a deep sea fishing vessel shall carry the following documents for inspection by the NIA when entering or exiting the State:
 1. A valid passport or vessel crew book;
 2. The crew list of entry into and exit from the state.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 15</條號>
+    <條號>Article 17</條號>
     <條文內容><![CDATA[In order to facilitate the visitor(s) who visit Taiwan by seafaring vessel, the shipping company or the related company shall prepare required documents and the visitor/crew list when applying for entry permission to the NIA seven days before the vessel enters the port of Taiwan. After the permission is granted, the staff of the NIA will visit the vessel to complete an investigation at the previous berthing port.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 16</條號>
+    <條號>Article 18</條號>
     <條文內容><![CDATA[Visitor(s) who carry entry/exit permits other than a valid passport, travel documents, multiple entry permit or renewable entry permit, shall provide an entry/exit permit application receipt when NIA does an entry or exit inspection.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 17</條號>
+    <條號>Article 19</條號>
     <條文內容><![CDATA[Visitors who enter or exit the State via the local airport or seaport which has not been designated by the Executive Yuan as an international airport or seaport, shall apply for entry/exit permission to the NIA by special permission.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 18</條號>
+    <條號>Article 20</條號>
     <條文內容><![CDATA[Based on the purpose of entry/exit control management, the NIA may collect, use and store personal data permanently.
 The NIA shall assign designated personnel to be responsible for security management and protection when personal data are being processed and transferred.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 18-1</條號>
+    <條號>Article 21</條號>
     <條文內容><![CDATA[Foreigners, nationals without household registration in the Taiwan area, people of the mainland China area, and Hong Kong and Macau residents shall accepted biometric identification upon entry and exit immigration inspection by the National Immigration Agency of the Ministry of the Interior
 The preceding paragraph shall not apply to circumstances mentioned in Article 91, paragraph 2 of Immigration Act.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 19</條號>
+    <條號>Article 22</條號>
     <條文內容><![CDATA[When any organization (in the public or private sector) applies for personal entry/exit data from the NIA, such application shall be prepared according to related laws and regulations, with purpose and content in written form. If a public sector organization needs to regularly access personal entry/exit data, it may obtain such data from the official NIA website system with special permission from the NIA.
 Public and private sector organizations shall assign designated personnel to be responsible for the use and management of the data.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 20</條號>
+    <條號>Article 23</條號>
     <條文內容><![CDATA[The party, concerned party, or the guardian of the party may apply for the personal entry/exit certificate or make inquiries for personal entry/exit record(s) to NIA.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 21</條號>
-    <條文內容><![CDATA[In accordance with Article 19 and 20 of the Regulation governing immigration inspection and data collection and utilization, the personnel who apply, provide, use or manage the personal entry/exit data shall abide by the Personal Information Protection Act and others related laws and regulations.
+    <條號>Article 24</條號>
+    <條文內容><![CDATA[In accordance with Article 22 and 23 of the Regulation governing immigration inspection and data collection and utilization, the personnel who apply, provide, use or manage the personal entry/exit data shall abide by the Personal Information Protection Act and others related laws and regulations.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 22</條號>
+    <條號>Article 25</條號>
     <條文內容><![CDATA[The NIA may exchange the personal data of entry/exit passenger(s) with other states or areas. The categorization, scope, retention periods and use of the data shall abide by the laws and regulations of bilateral or multilateral agreements.
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 23</條號>
-    <條文內容><![CDATA[The effective date of the Act shall be decided by the Ministry of Interior.
-The amended articles hereof shall come into effect as of the day of promulgation.
+    <條號>Article 26</條號>
+    <條文內容><![CDATA[The Regulations shall come into effect as of the day of promulgation.
 ]]></條文內容>
   </條文>
 </法規內容>

@@ -3,9 +3,10 @@
 <英文法規名稱>Regulations Governing Securities Firms</英文法規名稱>
 <中文法規名稱>證券商管理規則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400072</法規網址>
-<最新英文異動日期>20160802</最新英文異動日期>
+<最新英文異動日期>20171205</最新英文異動日期>
 <廢止註記>
 </廢止註記>
+<附件 />
 <沿革內容><![CDATA[21. Articles 2, 3, 4, 6, 17, 18, 20 to 31, 34, and 36 to 69 were amended by Securities & Futures Commission, Ministry of Finance on 5 October 2000 per Order Ref. No. (89) Taiwan-Finance-Securities-(2)-04351
 22. Articles 18, 47, and 60 amended and promulgated and Articles 14-1 to 14-5 added by the Securities & Futures Commission, Ministry of Finance on 19 December 2001 per Order Ref. No. (90) Taiwan-Finance-Securities-(2)-006576
 23. Article 37 amended by the Securities & Futures Commission, Ministry of Finance on 11 March 2002 per Order Ref. No. (91) Taiwan-Finance-Securities-(2)-001540
@@ -41,7 +42,9 @@
 53. Articles 5, 53, and 54 amended and issued per 3 July 2015 Order No. Financial-Supervisory-Securities-Firms-1040024927 of the Financial Supervisory Commission
 54. Articles 19-7, 24, 31, 33, 36-2, 40 and 41 amended and issued per 12 November 2016 Order No. Financial-Supervisory-Securities-Firms-1040044236 of the Financial Supervisory Commission
 55. Article 14 amended and issued per 2 August 2016 Order No. Financial-Supervisory-Securities-Firms-1050027828 of the Financial Supervisory Commission
+56. Article 13, 14, 19, 19-3, 19-4, 19-6, 19-7, 38, and 53 amended and Article 52-1 added per 5 December 2017 Order No. Financial-Supervisory-Securities-Firms-1060045983 of the Financial Supervisory Commission
 ]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
   <條文>
@@ -78,7 +81,7 @@ Where a securities firm has entered into a contract for using the centralized se
 4.Where any director, supervisor, or employee has violated the order promulgated by the FSC in accordance with the Act;
 5.Where there is any change in the shareholding of any director, supervisor, manager or shareholder holding more than 10 percent of the shares of the company; or
 6.Where there is any matter required to be reported by the FSC.
-For the matters in subparagraph 1 in the preceding paragraph, the securities firm shall report in advance; for the matters in subparagraphs 2 through 4, the securities firm shall report within 5 days from the date on which it becomes aware thereof or on which the matters occur; for matters in subparagraph 5, the securities firm shall report by the 15th day of the following month.
+For the matters in subparagraph 1 in the preceding paragraph, the securities firm shall report in advance; for the matters in subparagraphs 2 through 4, the securities firm shall report within 5 days from the day on which it becomes aware thereof or on which the matters occur; for matters in subparagraph 5, the securities firm shall report by the 15th day of the following month.
 Where a securities firm has entered into a contract for using the centralized securities market with the TWSE , matters to be reported and approved as referred to in paragraph 1 above shall be submitted to the TWSE for transmittal to the FSC. Where a securities firm only entered into a contract for trading securities on the TPEx, the said submission shall be made to the FSC through the TPEx. Where no contract has been entered into, the submission shall be made to the FSC through a securities dealers' association.
 The term "business day," as used in these Regulations, means a trading day on the domestic securities markets.
 ]]></條文內容>
@@ -144,7 +147,7 @@ A securities firm operating over-the-counter securities trading business for cus
   </條文>
   <條文>
     <條號>Article 13</條號>
-    <條文內容><![CDATA[Unless a securities firm has obtained special-case approval for its special needs, or is concurrently operated by a financial institution and subject to other relevant acts or regulations, its total debts to other parties shall not be more than 4 times its net worth. The total amount of its current liabilities shall not exceed the total amount of its current assets; provided that, unless otherwise provided by the FSC, the total amount of debts to other parties of a securities firm trading securities for customers' accounts or for its own account shall not exceed its net worth.
+    <條文內容><![CDATA[Unless a securities firm has obtained special-case approval for its special needs, or is concurrently operated by a financial institution and subject to other relevant acts or regulations, its total debts to other parties shall not be more than 6 times its net worth. The total amount of its current liabilities shall not exceed the total amount of its current assets; provided that, unless otherwise provided by the FSC, the total amount of debts to other parties of a securities firm trading securities for customers' accounts or for its own account shall not exceed its net worth.
 In calculating the total amount of liabilities referred to in the preceding paragraph, the liabilities arising from trading of government bonds may be deducted.
 ]]></條文內容>
   </條文>
@@ -153,7 +156,7 @@ In calculating the total amount of liabilities referred to in the preceding para
     <條文內容><![CDATA[A securities firm, unless concurrently operated by a financial institution and subject to other relevant acts or regulations, shall, if it has already issued securities pursuant to the Act, set aside a 20 percent special reserve from the annual after-tax profit pursuant to Article 41 of the Act. However, if the accumulated amount reaches the paid-in capital amount, no further fund needs to be set aside.
 If it has not issued securities pursuant to the Act, it shall set aside a 20 percent special reserve from the annual after-tax profit. However, if the accumulated amount reaches the paid-in capital amount, no further fund needs to be set aside.
 The FSC may increase or decrease the percentages under the preceding two paragraphs based on business needs.
-The special reserve referred to in the preceding three paragraphs shall not be used for purposes other than covering the losses of the company or, when the accumulated special reserve reaches 50 percent of the amount of paid-in capital, half of it may be used for capitalization; provided, that this rule shall not apply if the FSC has provided otherwise.
+The special reserve referred to in the preceding three paragraphs shall not be used for purposes other than covering the losses of the company or, when the accumulated special reserve reaches 25 percent of the amount of paid-in capital, the portion in excess of 25 percent of paid-in capital may be used for capitalization; provided, that this rule shall not apply if the FSC has provided otherwise.
 ]]></條文內容>
   </條文>
   <條文>
@@ -233,7 +236,7 @@ A securities firm that operates only securities brokerage business, when holding
     <條文內容><![CDATA[A securities firm trading securities for its own account, unless it is concurrently operated by a financial institution and subject to other relevant acts or regulations, shall do so in accordance with the following rules:
 1.The firm shall not hold more than 10 percent of the total issued shares of any domestic company. The total amount of the cost of the securities issued by any domestic company held by such securities firm shall not be more than 20 percent of the securities firm's net worth.
 2.The firm shall not hold more than 5 percent of the total issued shares of any foreign company. The total amount of the cost of the securities issued by any foreign company held by the securities firm shall not be more than 20 percent of the securities firm's net worth; however, the total amount of the cost of such securities with equity characteristics shall not be more than 10 percent of the securities firm's net worth.
-3.The total amount of the investment cost of a securities firm in holdings of equity securities issued by a single related party may not exceed 5 percent of the firm's net worth. The total amount of the investment cost of a securities firm in holdings of equity securities issued by all related parties may not exceed 10 percent of the firm's net worth. However, these restrictions are exempted in the handling of exercise and hedging operations for call (put) warrants and structured instruments, and in the hedging of beneficial certificates of exchange traded funds and the underlying baskets of stock represented by such beneficial certificates.
+3.The total amount of the investment cost of a securities firm in holdings of equity securities issued by a single related party may not exceed 5 percent of the firm's net worth. The total amount of the investment cost of a securities firm in holdings of equity securities issued by all related parties may not exceed 10 percent of the firm's net worth. However, these restrictions are exempted in the handling of exercise and hedging operations for call (put) warrants and over-the-counter derivative financial product trading business, and in the hedging of beneficial certificates of exchange traded funds and the underlying baskets of stock represented by such beneficial certificates.
 4.The total amount of the investment cost of a securities firm in holdings of straight corporate bonds issued by a single securities firm may not exceed 5 percent of the securities firm's net worth. The total amount of the investment cost of a securities firm in holdings of straight corporate bonds issued by all securities firms may not exceed 10 percent of the securities firm's net worth.
 The term "related party" in these Regulations is defined as determined in accordance with the Regulations Governing the Preparation of Financial Reports by Securities Firms.
 A securities firm, when holding shares in any single company, may do so either by the method of a proprietary trading position or by the equity investment method in paragraph 1 of the preceding article, but not by both methods.
@@ -257,7 +260,7 @@ Except as otherwise provided by the Central Bank, a securities firm trading secu
     <條號>Article 19-3</條號>
     <條文內容><![CDATA[A securities firm meeting the qualifying requirements listed below may operate derivative financial product trading business at its business premises, and shall do so in accordance with the provisions of the TPEx:
 1.It must be an integrated securities firm that concurrently engages in brokerage, underwriting, and dealership business
-2.Its CPA audited or reviewed financial report for the most recent period shows no accumulated deficit, and its financial condition meets the provisions of Articles 13, 14, 16, 18, 18-1 and 19.
+2.Its CPA audited or reviewed financial report for the most recent period shows net worth not less than paid-in capital, and its financial condition meets the provisions of Articles 13, 14, 16, 18, 18-1 and 19.
 3.It must have reported a regulatory capital adequacy ratio meeting the requirements of the FSC for each of the most recent 6 months.
 4.It must be free of any of the following circumstances:
 A.Any sanction, during the preceding 3 months, under Article 66, subparagraph 1 of the Act or Article 100, paragraph 1, subparagraph 1 of the Futures Exchange Act.
@@ -275,7 +278,7 @@ Securities firms operating business referred to in the preceding paragraph and e
 A securities firm may, in the capacity of customer, conduct hedge trading through a designated bank approved by the Central Bank to conduct derivative foreign exchange product business, or through an overseas financial institution.
 For a securities firm operating business referred to in paragraph 1, matters relating to settlement of funds, payment and receipt of fees, and payment of funds upon early rescission or expiration of contracts shall be carried out according to the following:
 1.When denominated in New Taiwan Dollars, all settlement of funds and payment and receipt of fees with a customer shall be carried out in New Taiwan Dollars.
-2.When denominated in a foreign currency, all settlement of funds and payment and receipt of fees with a customer shall be carried out in foreign currency. The customer's payment of funds may be carried out by transfer from its own foreign exchange deposit account. Where foreign exchange settlement is required, it shall be carried out by the customer at a designated foreign exchange bank in accordance with the Regulations Governing the Reporting of Foreign Exchange Receipts and Disbursements or Transactions.
+2.When denominated in a foreign currency, all settlement of funds and payment and receipt of fees with a customer shall be carried out in foreign currency. The customer's payment of funds may be carried out by transfer from its own foreign exchange deposit account. Where foreign exchange settlement is required, it shall be carried out by the customer at a designated foreign exchange bank or at the same securities firm that conducts spot foreign exchange trading business in accordance with the Regulations Governing the Reporting of Foreign Exchange Receipts and Disbursements or Transactions.
 3.Upon early rescission by the customer or expiration of the contract, the securities firm shall deposit the funds receivable by the customer in its New Taiwan Dollar or foreign exchange deposit account on the settlement date based on the currency stipulated in the contract.
 A securities firm operating business referred to in paragraph 1 shall submit a monthly operations statement to the foreign exchange authority and the TPEx by the 5th business day after the end of each business month.
 A securities firm operating trading business in structured instruments linked to foreign financial products shall submit a monthly operations statement on its trading business in structured instruments linked to foreign financial products to the foreign exchange authority and the TPEx by the 5th business day after the end of each business month.
@@ -288,17 +291,20 @@ A securities firm operating trading business in structured instruments linked to
   </條文>
   <條文>
     <條號>Article 19-6</條號>
-    <條文內容><![CDATA[Derivative financial product trading business operated by a securities firm may not be linked to any of the below-listed underlyings, unless it is in trading with a professional institutional investor and an application has been made under Article 19-7:
+    <條文內容><![CDATA[Derivative financial product trading business operated by a securities firm may not be linked to any of the below-listed underlyings, except in trading with professional institutional investors and high net worth juristic person investors:
 1.Securities privately placed domestically or abroad.
 2.Certificates of beneficial interest that are issued overseas by domestic securities investment trust enterprises and are not listed for trading on a securities market.
 3.Any Taiwan stock index compiled by a domestic or foreign institution and related financial commodities, provided that this restriction shall not apply to an index compiled by the TPEx or the TWSE, either singly or in cooperation.
-4.Any foreign exchange product involving a requirement of approval by the Central Bank.
+When a securities firm conducts, with a professional institutional investor or a high net worth juristic person investor, derivative financial instrument trades linked to any of the instruments in the subparagraphs of the preceding paragraph, it shall submit an application to the TPEx with the relevant documentation, and the TPEx will forward the application to the FSC. After the FSC has granted approval for the first securities firm to conduct such trades, other securities firm shall apply to the TPEx for its consent before beginning to conduct such trades.
+A securities firm that handles foreign exchange derivative financial instruments shall apply to the Central Bank for permission or report by letter to the Central Bank for recordation, with a copy to the TPEx, in accordance with the Regulations Governing the Conduct of Foreign Exchange Business by Securities Enterprises.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19-7</條號>
-    <條文內容><![CDATA[A securities firm that will engage with a professional institutional investor in a derivative financial product trade involving a linked underlying set out in Article 19-6, subparagraphs 1 to 3 shall submit an application to the TPEx with the relevant documentation. The TPEx will forward the application to the FSC, and such a trade may take place only subsequent to the FSC's first issuance of an approval to a securities firm for such a trade. An application must be submitted to the Central Bank for any trade of a derivative financial product set out in Article 19-6, subparagraph 4.
-The term "professional institutional investor" as used in Article 19-6, and the preceding paragraph means the professional institutional investors as defined in Article 3 of the Regulations Governing Offshore Structured Products.
+    <條文內容><![CDATA[When a securities firm provides customers other than professional institutional investors and high net worth juristic person investors with complex high-risk products not approved by the FSC or approved by the FSC for less than half a year and that furthermore do not involve foreign exchange, the securities firm shall submit an application to the TPEx with the relevant documentation, and the TPEx will forward the application to the FSC.
+The term "complex high-risk products" in the preceding paragraph means complex high-risk products defined by the competent authority as authorized under paragraph 2 of Article 11-2 of the Financial Consumer Protection Act.?
+After the FSC has granted approval for the first securities firm to conduct trades in a product and half a year has elapsed, other securities firms shall submit the relevant documentation to the TPEx for recordation within 7 days after first conducting a trade in the product, and may conduct a subsequent trade only after having received a letter of consent and recordation from the TPEx.
+The provisions of Article 3 of the Regulations Governing Offshore Structured Products shall apply to the "professional institutional investors" and "high net worth juristic person investors" referred to in these Regulations.
 ]]></條文內容>
   </條文>
   <條文>
@@ -532,7 +538,7 @@ The types and scope of the securities under the preceding paragraph shall be sep
   </條文>
   <條文>
     <條號>Article 38</條號>
-    <條文內容><![CDATA[A securities firm accepting orders to trade securities shall establish a separate demand deposit account with a bank for paying and receiving settlement funds of the customer. The funds in the said account shall not be used for other purposes.
+    <條文內容><![CDATA[A securities firm accepting orders to trade securities shall establish a separate deposit account with a bank for paying and receiving settlement funds of the customer. The funds in the said account shall not be used for other purposes.
 A securities firm may, with the consent of the customer, retain the customer's settlement funds in the securities firm's settlement account. The securities firm shall set up a separate account ledger for each customer in the settlement account, and record therein on a daily basis the itemized receipts and payments of funds, and shall retain the record. The securities firm may not utilize such funds except for making payments of funds payable on behalf of the customer.
 ]]></條文內容>
   </條文>
@@ -692,19 +698,23 @@ G.others, such as: management of personnel operations, internal control auditing
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 52-1</條號>
+    <條文內容><![CDATA[Regarding investments that have been approved by the FSC under the preceding two articles, if a securities firm meets the qualification requirements set out in subparagraphs 1 to 5 of Article 50, it may submit the documents set out in subparagraphs 1 to 3 and 7 of the preceding article to apply to the FSC for approval of an increase in the amount of investment in the overseas enterprise.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 53</條號>
-    <條文內容><![CDATA[When any of the following circumstances occurs in connection with any investment by the securities firm as approved by the FSC, the securities firm shall immediately report the reasons to the FSC along with relevant documentation:
+    <條文內容><![CDATA[When any of the following circumstances occurs in connection with any investment by the securities firm as approved by the FSC, the securities firm shall report the reasons to the FSC along with relevant documentation:
 1.Change in business items or material operating policies.
-2.Change in authorized capital resulting in a change in the original shareholding ratio of the securities firm or its third-region overseas subsidiary.
-3.Material equity investment in another company.
-4.Dissolution or suspension of operations.
-5.Change in the institution's name.
-6.Merger with another financial institution, or assignment to or receipt of assignment from another of all or a major part of assets or operations.
-7.Occurrence of reorganization, liquidation, or bankruptcy.
-8.Occurrence or foreseeable occurrence of any instance of material loss.
-9.Material violation of law or regulation or the voidance or revocation of the business permit by the overseas competent authority.
-10.Any other material matter.
-For any circumstance under subparagraphs 1 to 7 of the preceding paragraph, unless otherwise provided by the FSC, the securities firm shall report to the FSC in advance.
+2.Change in the original shareholding ratio of the securities firm or its overseas subsidiary.
+3.Dissolution or suspension of operations.
+4.Change in the institution's name.
+5.Merger with another financial institution, or assignment to or receipt of assignment from another of all or a major part of assets or operations.
+6.Occurrence of reorganization, liquidation, or bankruptcy.
+7.Occurrence or foreseeable occurrence of any instance of material loss.
+8.Material violation of law or regulation or the voidance or revocation of the business permit by the overseas competent authority.
+9.Any other material matter.
+For any circumstance under subparagraphs 1 to 6 of the preceding paragraph, unless otherwise provided by the FSC, the securities firm shall report to the FSC in advance; for any circumstance under subparagraphs 7 to 9 of the preceding paragraph, the securities firm shall report to the FSC within 3 business days from the day on which it becomes aware of the circumstance or on which the circumstance occurs.
 ]]></條文內容>
   </條文>
   <條文>

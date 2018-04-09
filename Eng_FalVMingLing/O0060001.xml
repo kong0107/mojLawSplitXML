@@ -3,13 +3,16 @@
 <英文法規名稱>Environmental Agents Control Act</英文法規名稱>
 <中文法規名稱>環境用藥管理法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=O0060001</法規網址>
-<最新英文異動日期>20060127</最新英文異動日期>
+<最新英文異動日期>20161207</最新英文異動日期>
 <廢止註記>
 </廢止註記>
+<附件 />
 <沿革內容><![CDATA[1.Original 56 articles promulgated by presidential order on November 10, 1997
 2.Revisions to Articles 2, 9, 19, 31, 36, and 48 promulgated by presidential order on December 22, 1999
 3.Revisions to Articles 13, 16, and 45 and addition of Article 32-1 promulgated by presidential order on January 8, 2003
-4.Revisions to all 60 Articles promulgated by presidential order on January 27, 2006]]></沿革內容>
+4.Revisions to all 60 Articles promulgated by presidential order on January 27, 2006
+5.Deletion to Articles 45 promulgated by presidential order on December 7, 2016]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
   <條文>
@@ -37,8 +40,8 @@ VIII. Other national environmental agents control matters
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[The responsibilities of special municipality, county and city competent authorities are as follows: 
-I. Planning and implementation of environmental agents control action programs and plans under jurisdiction.
+    <條文內容><![CDATA[The responsibilities of special municipality, county and city competent authorities are as follows:
+I Planning and implementation of environmental agents control action programs and plans under jurisdiction.
 II. Implementation of environmental agents control laws and regulations, and drafting, interpretation and implementation of environmental agents control laws and regulations under jurisdiction.
 III. Environmental agents control research, development and public awareness.
 IV. Environmental agents control statistics compilation and reporting tasks under jurisdiction.
@@ -52,7 +55,6 @@ I. “Environmental agents” means the following types of chemical agents or mi
 1. Pesticides, miticides, rodenticides, bactericides/fungicides used for environmental sanitation, and other chemical agents used against organisms injurious to environmental sanitation.
 2. Synthetic chemical agents used to prevent air, water, or soil pollution, or treat waste, and that have been officially announced by the central competent authority.
 3. Microbial preparations produced from natural or artificially-modified microbe organisms or their metabolic products, and used to control air pollution, water pollution, or soil pollution, treat waste, or control environmental sanitation disease vectors.
-4. Other environmental agents officially announced and designated by the central competent authority.
 II. “Technical grade environmental agents” means active component raw materials used to manufacture or process general use environmental agents and restricted use environmental agents.
 III. “General use environmental agents” means those environmental agents that are used in a simple manner, are manufactured or processed from technical grade environmental agents, and contain amounts of active components within the limits designated and officially announced by the central competent authority.
 IV. “Restricted use environmental agents” means those environmental agents that are manufactured or processed from technical grade environmental agents and shall be used in conjunction with safety protection measures, or other chemical agents designated by the central competent authority.
@@ -88,8 +90,8 @@ III. Has exceeded the validity period.
   <編章節>   Chapter 2 Registration</編章節>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[Those that intend to manufacture, process, or import environmental agents shall apply to the central competent authority for checking and registration by submitting markings and a sample together with the product’s name, components, performance data, key aspects of the manufacturing process, analytical methods, toxicology report, efficacy (potency) report, and other relevant information or documentation. Manufacture, processing, or import may begin only after the central competent authority has issued a permit. 
-When an environmental agent for which a permit has been issued in the foregoing paragraph is a general use environmental agent, the competent authority shall announce information including the manufacturer or importer, product name, permit number, composition, performance data, and product markings on the Internet in order to facilitate public queries. 
+    <條文內容><![CDATA[Those that intend to manufacture, process, or import environmental agents shall apply to the central competent authority for checking and registration by submitting markings and a sample together with the product’s name, components, performance data, key aspects of the manufacturing process, analytical methods, toxicology report, efficacy (potency) report, and other relevant information or documentation.Manufacture, processing, or import may begin only after the central competent authority has issued a permit.
+When an environmental agent for which a permit has been issued in the foregoing paragraph is a general use environmental agent, the competent authority shall announce information including the manufacturer or importer, product name, permit number, composition, performance data, and product markings on the Internet in order to facilitate public queries.
 Customs shall order those persons obligated to pay tax to return within a limited time period any imported environmental agents that have not received the central competent authority’s permission or approval.
 Passengers or service personnel on transportation vehicles that import small quantities of environmental agents with themselves for personal use are not subject to the restrictions of the foregoing paragraph. Relevant types of environmental agents and permissible amounts shall be determined on the basis of relevant Customs Act regulations.
 The environmental agents in the foregoing paragraph shall be imported solely for personal use, and may not be sold.
@@ -97,15 +99,15 @@ The environmental agents in the foregoing paragraph shall be imported solely for
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[The validity period of the environmental agent permit in Paragraph 1 of the foregoing article shall be five years. Those who wish to continue to manufacture, process, or import an environmental agent after permit expiration shall apply to the central competent authority for an extension within the period between three and six months prior to the permit’s expiration. Each extension may not exceed 5 years. 
-The central competent authority shall determine regulations governing application conditions, approval or rejection, revocation, cancellation, extension, modification, issuance (replacement or renewal), and other binding matters. The central competent authority may cancel the permit in the foregoing paragraph when necessary to maintain citizens’ health or protect the environment or ecology.
+    <條文內容><![CDATA[The validity period of the environmental agent permit in Paragraph 1 of the foregoing article shall be five years. Those who wish to continue to manufacture, process, or import an environmental agent after permit expiration shall apply to the central competent authority for an extension within the period between three and six months prior to the permit’s expiration. Each extension may not exceed 5 years. The central competent authority shall determine regulations governing application conditions, approval or rejection, revocation, cancellation, extension, modification, issuance (replacement or renewal), and other binding matters.
+The central competent authority may cancel the permit in the foregoing paragraph when necessary to maintain citizens’ health or protect the environment or ecology.
 If an environmental agent permit has been cancelled pursuant to the regulations of the foregoing paragraph, the original applicant may reapply to the central competent authority for a permit after submitting scientific or technical data or on-site survey results verifying that the original cause of cancellation is no longer present.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[Environmental agent vendors and pest control operators shall apply to the local competent authority for a permit, and may engage in business only after the review and approval of registration and receipt of a license. However, those environmental agent manufacturing enterprises that concurrently engage in the export, wholesale, or retail sale of self-produced products, or in the import of technical grade products for self-use on the company or factory premises stated on the environmental agent permit are not required to apply for an environmental agent vendor license. The central competent authority shall determine regulations governing application conditions, procedures, approval or rejection, revocation, cancellation, modification, suspension of business, resumption of business, termination of business, and other binding matters. 
-When environmental agent vendor or pest control operators receives a permit as in the foregoing paragraph, the competent authority shall announce information including the company name, name of statutory responsible person, and permit number on the Internet in order to facilitate public queries. 
+    <條文內容><![CDATA[Environmental agent vendors and pest control operators shall apply to the local competent authority for a permit, and may engage in business only after the review and approval of registration and receipt of a license. However, those environmental agent manufacturing enterprises that concurrently engage in the export, wholesale, or retail sale of self-produced products, or in the import of technical grade products for self-use on the company or factory premises stated on the environmental agent permit are not required to apply for an environmental agent vendor license. The central competent authority shall determine regulations governing application conditions, procedures, approval or rejection, revocation, cancellation, modification, suspension of business, resumption of business, termination of business, and other binding matters.
+When environmental agent vendor or pest control operators receives a permit as in the foregoing paragraph, the competent authority shall announce information including the company name, name of statutory responsible person, and permit number on the Internet in order to facilitate public queries.
 When an environmental agent vendor or pest control operator receives a permit as in the foregoing paragraph, the competent authority shall announce information including the company name, name of statutory responsible person, and permit number on the Internet in order to facilitate public queries.
 ]]></條文內容>
   </條文>
@@ -145,7 +147,7 @@ The central competent authority shall determine regulations governing applicatio
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[The mixing and packaging of environmental agents may be performed only after receiving central competent authority approval. 
+    <條文內容><![CDATA[The mixing and packaging of environmental agents may be performed only after receiving central competent authority approval.
 The central competent authority shall determine regulations governing application conditions, review, approval, and other binding matters with regard to the commissioning or being commissioned in the foregoing paragraph.
 “Mixing”, as mentioned in the first paragraph, means the mixture of different components or environmental agent products to create environmental agents; separate packaging means to change for the purpose of sale the package capacity of an environmental agent that has been issued a permit.
 The packaging of environmental agents in the first paragraph may be performed only in environmental agents factories possessing unitary dosage form equipment.
@@ -175,8 +177,8 @@ Restricted use environmental agents may be used solely by health/environmental p
   </條文>
   <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[Environmental agents provided exclusively for experimental research, educational demonstrations, special control projects, or for license application shall not be subject to the restrictions designated in Article 9, Paragraph 1 and Article 15 after central competent authority approval has been obtained. The central competent authority shall determine regulations governing application conditions, review, approval, and other binding matters. 
-The environmental agents approved by the central competent authority in the foregoing paragraph may not be domestically sold or used for other purposes. 
+    <條文內容><![CDATA[Environmental agents provided exclusively for experimental research, educational demonstrations, special control projects, or for license application shall not be subject to the restrictions designated in Article 9, Paragraph 1 and Article 15 after central competent authority approval has been obtained. The central competent authority shall determine regulations governing application conditions, review, approval, and other binding matters.
+The environmental agents approved by the central competent authority in the foregoing paragraph may not be domestically sold or used for other purposes.
 The central competent authority may cancel its approval of environmental agents in the first paragraph for use in experimental research or educational demonstrations if necessary to maintain public health or protect the environment or ecology.
 ]]></條文內容>
   </條文>
@@ -220,7 +222,7 @@ The central competent authority shall determine regulations governing the markin
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[If environmental agents microbial preparations pollute the environment, or harm the ecology or human health, the statutory responsible person or actual operator shall promptly adopt emergency control measures, and shall notify the local special municipality, county, or city competent authority within a maximum of two hours. 
+    <條文內容><![CDATA[If environmental agents microbial preparations pollute the environment, or harm the ecology or human health, the statutory responsible person or actual operator shall promptly adopt emergency control measures, and shall notify the local special municipality, county, or city competent authority within a maximum of two hours.
 Under the circumstances in the foregoing paragraph, the special municipality, county or city competent authority may promptly prohibit handling activities connected with said pollution, including manufacturing, processing, separate packaging, blending, import, export, transport, sale, storage, use, experimental research, and educational demonstration.
 ]]></條文內容>
   </條文>
@@ -231,7 +233,8 @@ Under the circumstances in the foregoing paragraph, the special municipality, co
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[Environmental agents manufacturing enterprises, environmental agents vendors, and pest control operator may not overstep the content of their registration, and may not publish or broadcast false, exaggerated, or illicit advertising. The central competent authority shall determine regulations governing promotional methods in the foregoing paragraph, the content of explanatory information, and other binding matters.
+    <條文內容><![CDATA[Environmental agents manufacturing enterprises, environmental agents vendors, and pest control operator may not overstep the content of their registration, and may not publish or broadcast false, exaggerated, or illicit advertising. 
+The central competent authority shall determine regulations governing promotional methods in the foregoing paragraph, the content of explanatory information, and other binding matters.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter 4 Checking and Interdiction</編章節>
@@ -242,14 +245,14 @@ Under the circumstances in the foregoing paragraph, the special municipality, co
   </條文>
   <條文>
     <條號>Article 35</條號>
-    <條文內容><![CDATA[When environmental agents or related articles have been sealed pursuant to the foregoing article, the following actions shall be taken in accordance with the results of checking and testing: 
+    <條文內容><![CDATA[When environmental agents or related articles have been sealed pursuant to the foregoing article, the following actions shall be taken in accordance with the results of checking and testing:
 I. When there is a violation of this Act, in addition to penalties designated in this Act, those sealed environmental agents and articles that the competent authority has determined to be waste shall be disposed of pursuant to relevant waste disposal regulations.
-II. The premises shall be promptly unsealed if there is no violation of this Act.
+II.The premises shall be promptly unsealed if there is no violation II. of this Act.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 36</條號>
-    <條文內容><![CDATA[Environmental analysis and testing organizations may perform analysis and testing work pursuant to this Act only after obtaining an approved permit from the central competent authority. 
+    <條文內容><![CDATA[Environmental analysis and testing organizations may perform analysis and testing work pursuant to this Act only after obtaining an approved permit from the central competent authority.
 The environmental analysis and testing organization in the foregoing paragraph shall perform work consistent with the testing and analysis categories on its permit. The central competent authority shall determine regulations governing the organization’s required conditions and facilities; license application, review procedures, issuance (replacement), revocation, and cancellation; suspension and resumption of business; checking and evaluation procedures; instruments and equipment; in-service training and technical skills assessment; blind testing, testing methods, quality control items, basic quality system standards, testing report signing, data reporting, and other binding matters.
 ]]></條文內容>
   </條文>
@@ -296,14 +299,14 @@ The environmental analysis and testing organization in the foregoing paragraph s
   </條文>
   <條文>
     <條號>Article 45</條號>
-    <條文內容><![CDATA[Counterfeit or prohibited environmental agents, or equipment used for the manufacture or processing of counterfeit or prohibited environmental agents, discovered pursuant to this Act shall be confiscated, regardless of whether the property of the violator.
+    <條文內容><![CDATA[(deletion)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[When an enterprise manufactures, processes, or imports counterfeit or prohibited environmental agents, the statutory responsible person shall be fined NT$300,000 to NT$1.5 million. 
+    <條文內容><![CDATA[When an enterprise manufactures, processes, or imports counterfeit or prohibited environmental agents, the statutory responsible person shall be fined NT$300,000 to NT$1.5 million.
 When an enterprise knowingly sells, transfers, displays with the intent of selling, stores, mixes, or packages counterfeit or prohibited environmental agents, the statutory responsible person shall be fined NT$90,000 to NT$450,000.
-When an enterprise processes or imports the inferior quality environmental agents in Article 8, Subparagraphs 1 and 2, the statutory responsible person shall be fined NT$60,000 to NT$300,000. 
+When an enterprise processes or imports the inferior quality environmental agents in Article 8, Subparagraphs 1 and 2, the statutory responsible person shall be fined NT$60,000 to NT$300,000.
 When an enterprise sells, transfers, displays with the intent of selling, or stores the environmental agents in Article 6, Paragraph 1, Subparagraph 1, Article 7, or Article 8, Subparagraph 3, has been ordered to make improvements within a limited time period, but has failed to make improvements by the deadline, the statutory responsible person shall be fined NT$30,000 to NT$150,000.
 ]]></條文內容>
   </條文>
@@ -320,12 +323,13 @@ II. A violation of the management regulations of Article 26 governing the quanti
 III. A violation of the management regulations of Article 29 governing use applications, use quantity restrictions, records, and record preservation for environmental agent microbial preparations.
 IV. A violation of the management regulations of Article 30 governing environmental agent microbial preparation applications, physical and biological protective measures and emergency response measures at experiment sites, records and record preservation, and record reporting.
 V. A violation of the management regulations of Article 36, Paragraph 2 governing instruments and equipment, analysis personnel, technical skills assessment, blind sample testing, testing methods, quality control items, basic quality system standards, testing report signing, data reporting, and work responsibilities.
-VI.A violation of Article 37, Article 38, or Article 39 where the violator has failed to compile a list of recalled on-sale goods by the deadline or report said list to the competent authority for future reference.
+VI. A violation of Article 37, Article 38, or Article 39 where the violator has failed to compile a list of recalled on-sale goods by the deadline or report said list to the competent authority for future reference.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 49</條號>
-    <條文內容><![CDATA[I. When one of the following circumstances applies, the violator shall be fined NT$30,000 to NT$150,000, and may be ordered to make improvements within a limited time period; serious violators and those that fail to make improvements by the deadline shall have their permit or license revoked or cancelled, and may be ordered to suspend work, suspend business, or terminate business when necessary: A violation of Article 9, Paragraph 5, Article 12, Article 21, Paragraphs 1 or 2, or Article 27, Paragraph 1.
+    <條文內容><![CDATA[When one of the following circumstances applies, the violator shall be fined NT$30,000 to NT$150,000, and may be ordered to make improvements within a limited time period; serious violators and those that fail to make improvements by the deadline shall have their permit or license revoked or cancelled, and may be ordered to suspend work, suspend business, or terminate business when necessary:
+I. A violation of Article 9, Paragraph 5, Article 12, Article 21, Paragraphs 1 or 2, or Article 27, Paragraph 1.
 II. Refusal, evasion or obstruction of inspection, sampling, testing or sealing and safekeeping pursuant to Article 34.
 III. A violation of the management regulations of Article 13 governing factory establishment standards concerning factory environment, process equipment, and testing equipment.
 IV. A violation of the management regulations of Article 30 governing environmental agent microbial preparation applications, physical and biological protective measures and emergency response measures at experiment sites, records and record preservation, and record reporting.
@@ -346,7 +350,7 @@ VII. A violation of the management regulations in Article 40, Paragraph 1 govern
   </條文>
   <條文>
     <條號>Article 52</條號>
-    <條文內容><![CDATA[The competent authority shall variously take the following disciplinary actions if it discovers counterfeit or prohibited environmental agents: 
+    <條文內容><![CDATA[The competent authority shall variously take the following disciplinary actions if it discovers counterfeit or prohibited environmental agents:
 I. The local competent authority shall seize or confiscate the discovered environmental agents, or shall order the enterprise engaged in the manufacture, processing, import, or sale of environmental agents to take appropriate action.
 II. If an enterprise has manufactured, processed, or imported counterfeit or prohibited environmental agents, or is using a permit or license under false pretenses, the original issuing agency shall revoke or cancel the permit or license, and shall officially announce the company’s name and address, the name of its statutory responsible person, the names of the counterfeit or prohibited environmental agents, and the circumstances of the violation.
 III. If an enterprise sells, displays with intent to sell, or uses counterfeit or prohibited environmental agents, the original issuing agency shall revoke its license, and officially announce the manufacturer’s name, address, the name of the statutory responsible person, the names of the counterfeit or prohibited environmental agents, and the circumstances of the violation.
@@ -355,7 +359,7 @@ III. If an enterprise sells, displays with intent to sell, or uses counterfeit o
   <條文>
     <條號>Article 53</條號>
     <條文內容><![CDATA[When the competent authority sends personnel to perform counting of inferior quality environmental agents pursuant to Article 39, the personnel may, when necessary, seize said environmental agents.
-If the inferior quality environmental agents in the foregoing paragraph have been domestically manufactured or processed, and can still be altered for use after testing, the original manufacturer may submit an alteration plan to the central competent authority within two months of the date of inventory. Upon approval of the plan, alteration may be performed within a limited time period under the supervision of the special municipality, county or city competent authority. If the inferior quality environmental agents cannot be altered, no alteration plan has been submitted by the deadline, or no alteration has been performed by the deadline, the local competent authority may confiscate the inferior quality environmental agents or order the manufacturer to take appropriate action. If the inferior quality environmental agents have been imported with approval, the local competent authority shall order the original importer to send back the environmental agents out of the country within two months of the date of inventory. If the importer has not complied by the deadline, the local competent authority may confiscate the inferior quality environmental agents or order the importer to take appropriate action. 
+If the inferior quality environmental agents in the foregoing paragraph have been domestically manufactured or processed, and can still be altered for use after testing, the original manufacturer may submit an alteration plan to the central competent authority within two months of the date of inventory. Upon approval of the plan, alteration may be performed within a limited time period under the supervision of the special municipality, county or city competent authority. If the inferior quality environmental agents cannot be altered, no alteration plan has been submitted by the deadline, or no alteration has been performed by the deadline, the local competent authority may confiscate the inferior quality environmental agents or order the manufacturer to take appropriate action. If the inferior quality environmental agents have been imported with approval, the local competent authority shall order the original importer to send back the environmental agents out of the country within two months of the date of inventory. If the importer has not complied by the deadline, the local competent authority may confiscate the inferior quality environmental agents or order the importer to take appropriate action.
 If an enterprise has manufactured, processed, or imported the inferior quality environmental agents defined in Article 8, Subparagraphs 1 and 2, or has used technical grade environmental agents that have exceeded their validity period, the local competent authority shall officially announce the company’s name and address, the name of its statutory responsible person, the names of the environmental agents, and the circumstances of the violation; if the violation is serious or repeated, the local competent authority may revoke or cancel relevant permits or licenses or terminate the enterprise’s operations.
 ]]></條文內容>
   </條文>

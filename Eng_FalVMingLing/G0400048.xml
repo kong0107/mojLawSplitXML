@@ -3,9 +3,10 @@
 <英文法規名稱>Regulations Governing the Establishment of Internal Control Systems by Service Enterprises in Securities and Futures Markets</英文法規名稱>
 <中文法規名稱>證券暨期貨市場各服務事業建立內部控制制度處理準則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400048</法規網址>
-<最新英文異動日期>20140922</最新英文異動日期>
+<最新英文異動日期>20170930</最新英文異動日期>
 <廢止註記>
 </廢止註記>
+<附件 />
 <沿革內容><![CDATA[1. Full text of 30 articles adopted and issued per 20 January 2003 Order No. Taiwan-Finance-Securities-Audit-0920000279 of the Securities and Futures Commission, Ministry of Finance; for implementation from the date of issuance
 2. Articles 22 and 23 amended and issued per 12 January 2004 Order No. Taiwan-Finance-Securities-Audit-0930000180 of the Securities and Futures Commission, Ministry of Finance
 3. Full text of 35 articles amended and issued per 30 May 2006 Order No. Financial-Supervisory-Securities-Audit-0950002539 of the Financial Supervisory Commission, Executive Yuan; for implementation from the date of issuance
@@ -13,7 +14,9 @@
 5. Full text of 39 articles amended and issued per 24 March 2010 Order No. Financial-Supervisory-Securities-Audit-0990011062 of the Financial Supervisory Commission, Executive Yuan; for implementation from the date of issuance
 6. Articles 7, 8, 14, and 39 amended and issued, Article 9 deleted, and Article 36-1 added per 21 December 2011 Order Financial-Supervisory-Securities-Auditing-1000062344 of the Financial Supervisory Commission, Executive Yuan; for enforcement 3 months after the date of issuance, except for Article 8, paragraph 1, subparagraph 14 and Article 14, paragraph 3, which shall be enforced from 30 December 2011
 7. Articles 2, 4, 6 to 8, 12 to 15, 17, 21 to 24, 33, and 39 and title of Chapter III and Chapter III, Section 2 amended and issued per 22 September 2014 Order Financial-Supervisory-Securities-Auditing-1030036318 of the Financial Supervisory Commission; for enforcement from 1 January 2015
+8. Articles 5, 7, 8, 14, 16, and 26 to 28 amended and issued per 30 September 2017 Order No. Financial-Supervisory-Securities-Auditing-1060035864 of the Financial Supervisory Commission; for enforcement from 1 January 2015
 ]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
   <條文>
@@ -28,7 +31,7 @@
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The term "service enterprise" as used in these Regulations includes securities exchanges, over-the-counter securities markets, futures exchanges, central securities depositories, securities firms, futures enterprises, securities finance enterprises, securities investment trust enterprise, securities investment consulting enterprises operating discretionary investment services for customers (hereinafter, "securities investment consulting enterprise"), credit rating agencies, and any other service enterprises in the securities or futures market designated by the competent authority.
+    <條文內容><![CDATA[The term "service enterprise" as used in these Regulations includes securities exchanges, over-the-counter securities markets, futures exchanges, central securities depositories, securities firms, futures enterprises, securities finance enterprises, securities investment trust enterprise, securities investment consulting enterprises operating discretionary investment services for customers (hereinafter, “securities investment consulting enterprise”), credit rating agencies, and any other service enterprises in the securities or futures market designated by the competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -37,7 +40,7 @@
 1.Effectiveness and efficiency of operations.
 2.Reliability, timeliness, transparency, and regulatory compliance of reporting.
 3.Compliance with applicable laws, regulations, and bylaws.
-The objective of effectiveness and efficiency of operations referred to in subparagraph 1 of the preceding paragraph includes objectives such as profits, operating performance, and safeguarding of assets. 
+The objective of effectiveness and efficiency of operations referred to in subparagraph 1 of the preceding paragraph includes objectives such as profits, operating performance, and safeguarding of assets.
 The reporting referred to in subparagraph 2 of paragraph 1 includes internal and external financial and non-financial reporting of a service enterprise. The objectives of external financial reporting include ensuring that financial statements for external purposes are prepared in accordance with the regulations governing the preparation of financial reports prescribed for individual service enterprises and with generally accepted accounting principles, and that transactions are made with proper approval.
 ]]></條文內容>
   </條文>
@@ -48,6 +51,7 @@ Where a service enterprise has established the position of independent director,
 Where a service enterprise has established an audit committee in accordance with the Securities and Exchange Act, any adoption of or amendment to its internal control system shall be subject to the consent of one-half or more of the entire membership of the audit committee and be submitted to the board of directors for a resolution.
 Any matter under the preceding paragraph that has not been approved with the consent of one-half or more of the entire membership of the audit committee may be adopted with the consent of two-thirds or more of the entire board of directors, and the resolution of the audit committee shall be recorded in the board of directors meeting minutes.
 The term "entire membership of the audit committee" as used in paragraph 3, and the term "entire board of directors" as used in the preceding paragraph, shall be calculated as the number of members actually in office.
+The board of directors of a service enterprise shall recognize operational risks, supervise operational results, and be ultimately responsible for ensuring that an adequate and effective system of internal controls is established and maintained.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter II Design and Implementation of Internal Control System</編章節>
@@ -61,12 +65,13 @@ The term "subsidiaries" referred to in the preceding paragraph are those as dete
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[A service enterprise's internal control system shall consist of the following components:
-1.Control environment: The control environment is the basis of the design and implementation of the internal control system across the service enterprise. The control environment encompasses the integrity and ethical values of the enterprise, governance oversight responsibility of the board of directors and supervisors, organizational structure, assignment of authority and responsibility, human resources policy, and performance measures and reward and discipline. The board of directors and management shall prescribe internal standards of conduct, including the adoption of code of conduct for directors and employees.
+1.Control environment: The control environment is the basis of the design and implementation of the internal control system across the service enterprise. The control environment encompasses the integrity and ethical values of the enterprise, governance oversight responsibility of the board of directors and supervisors, organizational structure, assignment of authority and responsibility, human resources policy, and performance measures and reward and discipline. The board of directors and management shall prescribe internal standards of conduct, including the adoption of codes of conduct for directors and employees.
 2.Risk assessment: A precondition to risk assessment is the establishment of objectives, linked at different levels of the service enterprise, and with the suitability of the objects for the enterprise taken into consideration. Management shall consider the impact of possible changes in the external environment and within its own business model that may render internal control ineffective. The risk assessment results can assist the enterprise in designing, correcting, and implementing necessary controls in a timely manner.
 3.Control activities: Control activities are the actions of carrying out policies and procedures taken by the service enterprise on the basis of risk assessment results to limit relevant risks to a sustainable level. Control activities shall be performed at all levels of the enterprise, at various stages within business processes, and over the technology environment, and shall include supervision and management over subsidiaries.
 4.Information and communication: Information and communication means the relevant and quality information that the service enterprise obtains, generates, or uses from both internal and external sources to support the functioning of other components of internal control, and the capability of effective communication between the enterprise and external parties. The Internal control system must have mechanisms to generate information necessary for planning, implementation, and monitoring and to provide information to those who need it in a timely manner.
 5.Monitoring activities: Monitoring activities means ongoing evaluations, separate evaluations, or some combination of the two used by the service enterprise to ascertain whether each of the components of internal control is present and functioning. Ongoing evaluations means routine evaluations built into the course of operations at different levels of the enterprise. Separate evaluations are evaluations conducted by different personnel such as internal auditors, supervisors, or the board of directors. Findings of deficiencies of the internal control system shall be communicated to the management of appropriate levels, the board of directors, and supervisors, and improvements shall be made in a timely manner.
 A service enterprise designing and implementing, or carrying out self-assessment of, its internal control system, or a certified public accountant (CPA) engaged to conduct a special audit of the enterprise's internal control system, shall fully consider the components enumerated in the preceding paragraph, and, in addition to the criteria prescribed by the competent authority, may add additional items as dictated by actual needs.
+The code of conduct for directors under paragraph 1, subparagraph 1 shall, at the least, specify that when a director discovers that the enterprise is likely to be materially harmed, the director shall handle the matter as quickly as possible, and immediately notify the audit committee, independent director members of the audit committee, or the supervisors, and report to the board of directors, and shall see to it that the service enterprise reports to the competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -87,11 +92,14 @@ A service enterprise designing and implementing, or carrying out self-assessment
 13.Management of financial examination reports.
 14.Management of protection of financial consumers, provided this does not apply to the enterprises that are excluded under Article 3, paragraph 2 of the Financial Consumer Protection Act.
 15.Management of personal information protection.
-In addition to controls over the activities under the preceding paragraph, a service enterprise that is a public company, or that is designated by the competent authority, shall also include in its internal control system the management of procedure for board of directors meetings and the management of shareholder services. 
-The internal control system of a service enterprise that has established an audit committee pursuant to the provisions of the Securities and Exchange Act shall include the management of audit committee meeting operations. 
+16.Handling of material events (e.g. a material violation, or a likelihood of suffering material loss).
+In addition to controls over the activities under the preceding paragraph, a service enterprise that is a public company, or that is designated by the competent authority, shall also include in its internal control system the management of procedure for board of directors meetings and the management of shareholder services.
+The internal control system of a service enterprise that has established an audit committee pursuant to the provisions of the Securities and Exchange Act shall include the management of audit committee meeting operations.
 The internal control system of an enterprise whose stocks are already listed or traded over-the-counter at securities firms shall include controls over the following operations:
 1.Management of the operations of the remuneration committee.
 2.Management of the prevention of insider trading.
+If a service enterprise is a financial institution as defined in the Money Laundering Control Act, its internal control system shall include mechanisms for preventing money laundering and countering terrorism financing, and shall include management of compliance with applicable laws and regulations, including mechanisms for managing the identification and measurement of, and monitoring for, money laundering and terrorism financing.
+A service enterprise under the preceding paragraph which has established a foreign branch office (or subsidiary) shall formulate an overall group plan for preventing money laundering and countering terrorism financing, including policies and procedures for information sharing within the group for the purpose of preventing money laundering and countering terrorism financing that are in accordance with the laws and regulations of the place where the branch office (or subsidiary) is located.
 ]]></條文內容>
   </條文>
   <條文>
@@ -143,7 +151,7 @@ The requirements for the qualified full-time internal auditors referred to in pa
   <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[A service enterprise's internal audit unit shall, based on the results of the risk assessment, prepare an annual audit plan which, except as otherwise required by the competent authority, shall include matters to be audited monthly; the internal audit unit shall scrupulously implement the annual audit plan, so as to assess its internal control system, and prepare audit reports annexed with working papers and relevant materials.
-A service enterprise shall include at least the following as audit items in its annual audit plan for each year: 
+A service enterprise shall include at least the following as audit items in its annual audit plan for each year:
 1.Matters relating to compliance with applicable laws, regulations, and bylaws.
 2.The control activities for major financial or business activities, such as for acquiring or disposing of assets, engaging in derivatives transactions, management over making endorsements/guarantees for others, and management of related party transactions.
 3.Supervision and management over subsidiaries.
@@ -152,7 +160,8 @@ A service enterprise shall include at least the following as audit items in its 
 Each annual audit plan of a financial service enterprise as defined in the Financial Consumer Protection Act shall also include management of the protection of financial consumers, in addition to the audit items of the preceding paragraph.
 Each annual audit plan of a service enterprise that is a public company, or that is designated by the competent authority, shall also include management of the procedure for board of directors meetings, in addition to the audit items of the preceding two paragraphs.
 Each annual audit plan of a service enterprise whose stock is already listed or traded over-the-counter at securities firms shall also include management of the operations of the remuneration committee, in addition to the audit items of the preceding three paragraphs.
-The annual audit plan of a service enterprise that has established an audit committee pursuant to the provisions of the Securities and Exchange Act shall also include the management of audit committee meeting operations. 
+The annual audit plan of a service enterprise that has established an audit committee pursuant to the provisions of the Securities and Exchange Act shall also include the management of audit committee meeting operations.
+If a service enterprise is a financial institution as defined in the Money Laundering Control Act, its annual internal audit plan shall include prevention of money laundering, countering of terrorism financing, and management of compliance with applicable laws and regulations.
 A service enterprise shall have its annual audit plan, and any amendments thereto, passed by the board of directors.
 Where a service enterprise has established the position of independent director, when it submits its annual audit plan for deliberation by the board of directors pursuant to the preceding paragraph, the board of directors shall take into full consideration each independent director's opinion; when an independent director has an objection or reservation, the objection or reservation shall be recorded in the minutes of the meeting of the board of directors.
 The audit reports, working papers, and relevant materials under paragraph 1 shall be retained for no less than 5 years.
@@ -168,8 +177,9 @@ The correction of deficiencies and irregularities of internal control system ref
   <條文>
     <條號>Article 16</條號>
     <條文內容><![CDATA[After having presented the audit and follow-up reports, a service enterprise shall submit the same for review by each and all supervisors by the end of the month next following the completion of the audit items.
-A service enterprise's internal auditors identifying any material violation or any likelihood of material loss to the enterprise shall promptly prepare and present a report and notify each and all supervisors. If any of the recommendations regarding any of the aforementioned deficiencies is not accepted by management, resulting in material loss by the service enterprise, the internal auditors shall also prepare and present a report and notify each and all supervisors as well as report to the competent authority.
+A service enterprise's internal auditors identifying any material event such as a material violation or any likelihood of material loss to the enterprise shall promptly prepare and present a report and notify each and all supervisors. If any of the recommendations regarding any of the aforementioned deficiencies is not accepted by management, resulting in material loss by the service enterprise, the internal auditors shall also prepare and present a report and notify each and all supervisors as well as report to the competent authority.
 Where a service enterprise has established the position of independent director, when an action is taken under the two preceding paragraphs, a copy of the submission or notice shall be provided simultaneously to the independent director(s).
+After an examination of a service enterprise by its competent authority or an examination on a foreign branch (or subsidiary) by its local competent authority is completed, or after an examination report is received, the internal audit unit of its head office (or parent company) shall, in accordance with the principle of materiality, immediately report to the directors and supervisors, and report to the soonest board meeting. The report shall include the content of any examination communication meetings, any major deficiencies revealed by the examination, any rating downgrade by the competent authority, and any improvement plans demanded by the competent authority with respect to material deficiencies or possible disciplinary measures to be taken.
 ]]></條文內容>
   </條文>
   <條文>
@@ -178,7 +188,7 @@ Where a service enterprise has established the position of independent director,
 The internal auditors shall perform their duties in good faith and shall not do any of the following:
 1.Conceal or make false or inappropriate disclosures of any of the enterprise's business activities, reporting, or compliance with applicable laws, regulations, and bylaws that they know has caused direct damage to a beneficiary, a customer, or an interested party.
 2.Cause damage to the right or interest of the enterprise or any beneficiary, customer or interested party through neglect of duty.
-3.Act beyond the scope of audit functions or engage in other improper activity, or with the intent to gain illegal benefit for him/herself or a third party, violate the auditor's duties or embezzle company assets.
+3.Act beyond the scope of audit functions or engage in other improper activity, or with the intent to gain illegal benefit for him/herself or a third party, violate the auditor’s duties or embezzle company assets.
 4.Conduct an audit on a department where he/she worked within the past 1 year, provided that this rule does not apply where the competent authority provides otherwise.
 5.Fail to recluse himself/herself from auditing of cases in which he or she has a personal interest or has a conflict of interest.
 6.Fail to audit the matters instructed by competent authorities or provide relevant information.
@@ -249,13 +259,14 @@ The Statement on Internal Control referred to in paragraph 1 shall, as required,
   <條文>
     <條號>Article 26</條號>
     <條文內容><![CDATA[Articles 25 through 36 of the Regulations Governing the Establishment of Internal Control Systems by Public Companies shall apply mutatis mutandis where a CPA is engaged by a service enterprise to conduct a special audit of its internal control system.
+If a service enterprise is a financial institution under the Money Laundering Control Act, the competent authority may ask securities and futures related institutions such as the Taiwan Stock Exchange, the Taipei Exchange, the Taiwan Futures Exchange, or the Securities Investment Trust and Consulting Association of the R.O.C. to conduct a special audit of personal information protection, prevention of money laundering, and countering terrorism financing, and when necessary may require the enterprise to hire a CPA to conduct the special audit.
 ]]></條文內容>
   </條文>
   <編章節>      Section IV Compliance System</編章節>
   <條文>
     <條號>Article 27</條號>
     <條文內容><![CDATA[The competent authority may, after having considered the size, business nature, and organizational characteristics of a securities firm, futures enterprise, securities finance enterprise, securities investment trust enterprise, securities investment consulting enterprise, credit rating agency, or any other service enterprise in the securities or futures market designated by the competent authority, order such an enterprise to establish a unit in a direct reporting line to the general manager, to be charged with the planning, management and execution of a compliance system.
-The board of directors shall designate a member of senior management as the chief compliance officer, to be responsible for overseeing compliance matters and submit a report to the board of directors and to each and all supervisors at least semi-annually.
+The board of directors shall designate a member of senior management as the chief compliance officer, to be responsible for overseeing compliance matters and submit a report to the board of directors and to each and all supervisors at least semi-annually. If a material violation is discovered or there is a rating downgrade by the competent authority, the chief compliance officer shall immediately report to the directors and supervisors, and report to the board of directors any matters relating to compliance with applicable laws and regulations. The report shall, at the least, include analysis of the cause of the event, the potential impact, and recommendations for improvement.
 Except as otherwise required by provisions governing securities or futures enterprises, the information on the compliance officer described in the preceding paragraph shall be filed with the competent authority for recordation, specifying the reason for such a designation and annexed with the minutes of the board of directors meeting, within 5 days from the date of passage by the board of directors.
 ]]></條文內容>
   </條文>
@@ -266,9 +277,12 @@ Except as otherwise required by provisions governing securities or futures enter
 2.Ensure that procedural and managerial bylaws are updated in a timely manner in response to applicable laws and regulations, so that operations are in compliance with all laws and regulations.
 3.Formulate the content of and procedures for assessing compliance with laws and regulations and monitor the periodic self-assessment of the implementation thereof by each unit.
 4.Administer adequate and proper legal training on laws and regulations to personnel of each unit.
-5.Monitor the compliance by overseas branch units with the laws and regulations of the host country in which they are located.
+5.Monitor the compliance by foreign branch offices with the laws and regulations of the host country in which they are located.
 6.Carry out such other activities as may be required by the competent authority.
-Self-assessment of compliance with laws and regulations shall be performed no less frequently than annually, with the results delivered to the compliance unit for future reference. The head of a unit shall designate a person responsible for performing self-assessment within that unit. 
+If a service enterprise has established a foreign branch office, the unit responsible for overseeing legal compliance matters shall supervise the foreign branch office in handling the following matters:
+1.Matters to ensure compliance with local laws and regulations, including collecting information on local financial laws and regulations, establishing a database of local laws and regulations, implementing self-assessment of compliance with laws and regulations faithfully, ensuring suitability of the chief compliance officer and the adequacy of resources (including personnel, equipment, and training) for compliance with laws and regulations.
+2.Establishment of a mechanism for self-assessment and monitoring of legal compliance risks. If the scale of business is large, or the complexity or the degree of risk is high, a local external independent expert shall be engaged to verify the effectiveness of the mechanism for self-assessment and monitoring of legal compliance risks.
+Self-assessment of compliance with laws and regulations shall be performed no less frequently than annually, with the results delivered to the compliance unit for future reference. The head of a unit shall designate a person responsible for performing self-assessment within that unit.
 Working papers and materials in connection with the self-assessment under the preceding paragraph shall be retained for no less than 5 years.
 ]]></條文內容>
   </條文>

@@ -3,9 +3,10 @@
 <英文法規名稱>Regulations Governing the Preparation of Financial Reports by Company-Type Stock Exchanges</英文法規名稱>
 <中文法規名稱>公司制證券交易所財務報告編製準則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400027</法規網址>
-<最新英文異動日期>20170210</最新英文異動日期>
+<最新英文異動日期>20171108</最新英文異動日期>
 <廢止註記>
 </廢止註記>
+<附件 />
 <沿革內容><![CDATA[1. Full text of 18 articles adopted and issued per 7 May 1991 Order No. (80)-Taiwan-Finance-Securities-(III)-00862 of the Securities and Exchange Commission, Ministry of Finance
 2. Full text of 22 articles amended and issued per 27 December 2005 Order No. Financial-Supervisory-Securities-III-0940006117 of the Financial Supervisory Commission, Executive Yuan; for implementation from 1 January 2006
 3. Articles 8 to 12, 19, and 22 amended and issued per 12 March 2007 Order No. Financial-Supervisory-Securities-III-0960009536 of the Financial Supervisory Commission, Executive Yuan; form for Article 19, paragraph 1, subparagraph 5 to be implemented from 1 January 2008, other articles for implementation from 1 January 2007
@@ -13,7 +14,9 @@
 5. Articles 11 to 14, 23, and 24 amended and issued, and Article 26-1 added, per 30 December 2011 Order No. Financial-Supervisory-Securities-Trading-1000062537 of the Financial Supervisory Commission, Executive Yuan; for enforcement from 1 January 2013
 6. Full text of 30 articles amended and issued per 15 September 2014 Order No. Financial-Supervisory-Securities-Futures-1030035294 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 3, 6, 10 to 15, 17, 19, 21 to 23, 25, 27, and 29 and Article 9, paragraph 1, which will come into force from the beginning of financial year 2015
 7. Articles 11, 14, 17, 20 and 30, and Forms 1 and 1-1 of Article 21 amended per 10 February 2017 Order No. Financial-Supervisory-Securities-Futures-1060002200 of the Financial Supervisory Commission; for enforcement from the fiscal year 2017
+8. Articles 11 to 14, 17, 25 and 28 to 30, and Forms 1,1-1, 2, 2-1, 3, 4, 5-1, 5-3, and 5-8 of Article 21 amended per 8 November 2017 Order No. Financial-Supervisory-Securities-Futures-1060039727 of the Financial Supervisory Commission; for enforcement from financial year 2018
 ]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
   <條文>
@@ -102,37 +105,25 @@ Current assets means that the company-type stock exchange expects to realize the
 A.Cash on hand, demand deposits, and short-term, highly liquid time deposits or investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
 B.A company-type stock exchange shall disclose the components of cash and cash equivalents and the policy which it adopts in determining the composition of cash and cash equivalents.
 2.Financial assets at fair value through profit or loss –current:
-A.Financial assets held for trading:
-a.Assets that are acquired principally for the purpose of sale in the near term.
-b.Assets that, upon initial recognition, are a part of a portfolio of identified financial instruments that are managed together and for which there is evidence of a recent pattern of short-term profit-taking.
-c.Assets that are derivative financial assets, except for derivative financial assets that are financial guarantee contracts or designated and effective hedging instruments.
-B.Financial assets that, except for those designated as hedged items under hedge accounting requirements, are designated upon initial recognition as at fair value through profit or loss.
-C.Financial assets at fair value through profit or loss shall be measured at fair value.
-3.Available-for-sale financial assets –current:
-A.Financial assets that are not derivative financial assets and are designated as available-for-sale.
-B.Financial assets that are neither derivative financial assets nor any of the following:
-a.Financial assets measured at fair value through profit or loss.
-b.Held-to-maturity financial assets.
-c.Financial assets measured at cost.
-d.Debt instrument investments for which no active market exists.
-e.Receivables.
-C.Available-for-sale financial assets shall be measured at fair value.
-4.Derivative financial assets for hedging –current: Any derivative financial asset that is a designated and effective hedging instrument under hedge accounting requirements. Any such asset shall be measured at fair value.
-5.Financial assets measured at cost –current: Refers to financial assets that meet all of the following conditions:
-A.An investment in equity instruments that do not have a quoted price in an active market, or a derivative instrument that is linked to such equity instruments that do not have a quoted price in an active market and that shall settled by delivery of such equity instruments.
-B.The fair value cannot be reliably measured.
-6.Debt instrument investments for which no active market exists –current:
-A.Debt instrument investments that do not have a quoted price in an active market and with fixed or determinable payments, and that meet all of the following conditions:
-a.Not classified as at fair value through profit or loss.
-b.Not designated as available-for-sale.
-c.There are no other reasons except for credit worsening that are likely to cause the holder to not be able to recover almost all of the original investments.
-B.Debt instrument investments for which no active market exists shall be measured at amortized cost using the effective interest method.
-7.Trade receivables: Refers to claims resulting from principal business operations:
+A.Financial assets not measured at amortized cost or at fair value through other comprehensive income.
+B.Financial assets measured at amortized cost or at fair value through other comprehensive income, which may be designated as financial assets measured at fair value through profit or loss according to IFRS 9.
+3.Financial assets measured at fair value through other comprehensive income - current:
+A.Debt instrument investments that meet all of the following conditions:
+a.The company-type stock exchange holds the financial assets within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets.
+b.The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+B.Equity investments not held for trading, for which the entity has irrevocably elected at initial recognition to present changes in fair value in "other comprehensive income".
+4.Financial assets measured at amortized cost – current, meaning all of the following conditions are met:
+A.The company-type stock exchange holds the financial assets within a business model whose objective is achieved by collecting contractual cash flows.
+B.The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+5.Financial assets for hedging –current: Any financial asset that is a designated and effective hedging instrument under hedge accounting requirements.
+6.Contract assets:
+A.The entity has transferred goods or services to the customer according to the terms and conditions of a contract, but does not yet have an unconditional right to consideration.
+B.The recognition and measurement of the loss allowance for contract assets shall be in accordance with IFRS 9.
+7.Trade receivables: Means the entity has an unconditional contractual right to consideration for goods or services that have been transferred:
 A.Trade receivables shall be measured at amortized cost using the effective interest method. However, short-term trade receivables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
-B.With respect to discounted or transferred trade receivables, an assessment shall be made to determine whether the risks and rewards of the trade receivables, and the control retained over them, will qualify them for derecognition in accordance with IAS 39, and the trade receivables shall then be disclosed in accordance with IFRS 7.
-C.Trade receivables from related parties in significant amounts shall be presented separately.
-D.At each balance sheet date an assessment shall be made of whether there is any uncollectible amount from trade receivables and an appropriate allowance for doubtful debts shall be made.
-8.Other receivables: Refers to receivables other than notes receivable and trade receivables. At each balance sheet date an assessment shall be made of whether there is any unrecoverable amount from other receivables and an appropriate allowance for doubtful debts shall be made.
+B.With respect to discounted or transferred trade receivables, an assessment shall be made to determine whether the risks and rewards of the trade receivables, and the control retained over them, will qualify them for derecognition under IFRS 9.
+Trade receivables from related parties in significant amounts shall be presented separately.
+8.Other receivables: Refers to receivables other than notes receivable and trade receivables.
 9.Current tax assets: The portion of the tax amount already paid in respect of current and prior periods that exceeds the amount due for those periods.
 10.Prepayments: All prepayments and prepaid expenses.
 11.Non-current assets held for sale:
@@ -142,37 +133,31 @@ C.When non-current assets or disposal groups classified as held for sale no long
 D.When assets or disposal groups meet the definition of held for distribution to owners, they shall be reclassified from held for sale to held for distribution to owners, and shall be deemed an extension of the original disposal plan, and the classification, presentation, and measurement of the new disposal plan shall apply. When the assets or disposal groups classified as held for distribution to owners no longer meet the criteria in IFRS 5, they shall cease to be classified as held for distribution to owners.
 12.Other current assets: Current assets not attributable to any of the classes above.
 Non-current assets means tangible, intangible and financial assets of a long-term nature, other than assets classified as current. As a minimum, non-current assets shall include the following asset line items:
-1.Held-to-maturity financial assets – non-current:
-A.A non-derivative financial asset with fixed or determinable payments and fixed maturity, and which the enterprise has the positive intention and ability to hold to maturity, excluding the following items:
-a.Assets that are designated, upon initial recognition, as at fair value through profit or loss.
-b.Assets that are designated as available-for-sale.
-c.Assets that meet the definition of loans and receivables.
-B.Held-to-maturity financial assets shall be measured at amortized cost using the effective interest method.
-2.Investments accounted for using the equity method:
+1.Investments accounted for using the equity method:
 A.The valuation and presentation of investments accounted for using the equity method shall be made in accordance with IAS 28.
 B.When investment gain or loss is recognized, if the financial reports prepared by an associate do not conform to these Regulations, those financial reports shall first be adjusted to achieve conformance before they may be used to recognize investment gain or loss. The financial reports of an associate used in applying the equity method shall be prepared as of the same date as that of the investor, and if prepared as of a different date, adjustments shall be made for the effects of significant transactions or events that occur between that date and the date of the investor's financial reports. In no case shall there be more than 3 months difference between the balance sheet date of the associate and that of the investor. If a CPA determines, pursuant to Statement of Auditing Standards No. 51, that an associate has a material effect on the fair presentation of the financial reports of an investor, the financial reports of the associate shall be audited by a CPA in accordance with the Regulations Governing Auditing and Certification of Financial Statements by Certified Public Accountants and generally accepted auditing standards.
 C.If an investment accounted for using the equity method is pledged as collateral or otherwise subject to any restriction or limitation, that fact shall be noted.
-3.Property and equipment:
+2.Property and equipment:
 A.Tangible asset items that are held for use in the production or supply of goods or services, for rental to others, or for administrative purposes, and that are expected to be used during more than 1 financial year or 1 operating cycle.
 B.Property and equipment shall be subsequently measured using the cost model and accounted for in accordance with IAS 16.
 C.Each component of property and equipment that is significant shall be depreciated separately. The depreciation method used shall reflect the pattern in which the asset's future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The depreciable amount should be allocated on a systematic basis over the asset's useful life.
 D.When items of property and equipment have different useful lives, or provide economic benefits in different ways, or are subject to different depreciation methods or depreciation rates, the notes to the financial reports shall show each class of their material components.
-4.Investment property:
+3.Investment property:
 A.Property held, by the owner or by the lessee under a finance lease, to earn rentals, or for capital appreciation, or both.
 B.Investment property shall be subsequently measured using the cost model and accounted for in accordance with IAS 40. If the investment property is subsequently measured at fair value, the valuation model, qualifications of the appraiser, and information disclosure shall comply with Article 9, paragraph 4, subparagraph 4 of the Regulations Governing the Preparation of Financial Reports by Securities Issuers.
-5.Intangible assets:
-A.Refers to an identifiable non-monetary asset without physical substance that meets the definition of identifiability, control by an entity, and existence of future economic benefits.
+4.Intangible assets:
+A.Refers to an identifiable non-monetary asset without physical substance that meets the definition of identifiability, control, and existence of future economic benefits.
 B.Intangible assets shall be subsequently measured using the cost model and accounted for in accordance with IAS 38.
 C.The amortization method used shall reflect the pattern in which the asset's future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The amortized amount of an intangible asset shall be allocated on a systematic basis over its useful life.
-6.Deferred tax assets: The amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
-7.Settlement and clearing debit items: Refers to an item used by a company-type stock exchange for its securities settlement and clearing operations:
+5.Deferred tax assets: The amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
+6.Settlement and clearing debit items: Refers to an item used by a company-type stock exchange for its securities settlement and clearing operations:
 A.Settlement and clearing funds: Settlement and clearing funds deposited by securities firms in accordance with the Act and the Regulations Governing Securities Firms and the interest revenue and relevant fees arising from these funds shall be recorded under this item. The nature, content, utilization, and pledge status of these funds shall be indicated in the notes to the financial reports.
 B.Settlement prices: Settlement amounts receivable from securities firms.
-8.Other non-current assets: Non-current assets not attributable to any of the classes above.
-The items described in the preceding two paragraphs in relation to financial assets at fair value through profit or loss, derivative financial assets for hedging, available-for-sale financial assets, financial assets measured at cost, debt instrument investments for which no active market exists, held-to-maturity financial assets, trade receivables, and other receivables shall be accounted for in accordance with IAS 39.
-A company-type stock exchange shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in paragraph 3 and paragraph 4 in relation to available-for-sale financial assets, financial assets measured at cost, debt instrument investments for which no active market exists, held-to-maturity financial assets, trade receivables, other receivables, investments accounted for using the equity method, property and equipment, investment property measured using the cost model, intangible assets, and evaluation assets. If any such evidence exists, the company-type stock exchange shall recognize the amount of any impairment loss in accordance with IAS 39 and IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, and the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for value in use measurement.
-With respect to the items described in paragraph 3 and paragraph 4 in relation to financial assets at fair value through profit or loss, derivative financial assets for hedging, available-for-sale financial assets, debt instrument investments for which no active market exists, held-to-maturity financial assets, trade receivables, other receivables, non-current assets held for sale, and investment property, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
-The items described in paragraph 3 and paragraph 4 in relation to financial assets at fair value through profit or loss, derivative financial assets for hedging, available-for-sale financial assets, financial assets measured at cost, debt instrument investments for which no active market exists, and held-to-maturity financial assets shall be distinguished as current and non-current based on liquidity.
+7.Other non-current assets: Non-current assets not attributable to any of the classes above.
+The accounting treatment and the recognition and measurement of loss allowances for the items described in the preceding two paragraphs in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, trade receivables, and other receivables shall be in accordance with IFRS 9. Loss allowances shall be classified respectively as a deduction from financial assets measured at amortized cost, trade receivables, and other receivables. If those classifications are further subclassified, the loss allowances thereof shall also be presented respectively in the same manner.
+A company-type stock exchange shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in paragraph 4 in relation to investments accounted for using the equity method, property and equipment, investment property measured using the cost model, intangible assets, and evaluation assets. If any such evidence exists, the company-type stock exchange shall recognize the amount of any impairment loss in accordance with IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, and the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for value in use measurement.
+With respect to the items described in paragraph 3 and paragraph 4 in relation to financial assets at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, trade receivables, other receivables, non-current assets held for sale, and investment property, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
+The items described in paragraph 3 and paragraph 4 in relation to financial assets at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, and contract assets shall be distinguished as current and non-current based on liquidity.
 ]]></條文內容>
   </條文>
   <條文>
@@ -192,11 +177,11 @@ C.For short-term bills payable, the guarantor or accepting institution and the i
 A.Financial liabilities held for trading:
 a.Liabilities that are incurred principally for the purpose of repurchasing them in the near term.
 b.Liabilities that, upon initial recognition, are part of a portfolio of identified financial instruments that are managed together and for which there is evidence of a recent pattern of short-term profit-taking.
-c.Liabilities that are derivative financial liabilities, except for financial guarantee contracts or derivative financial liabilities that are designated and effective hedging instruments.
-B.Financial liabilities that, except for those designated as hedged items under hedge accounting requirements, are designated upon initial recognition as at fair value through profit or loss.
+c.Derivative financial liabilities, except for financial guarantee contracts or derivative financial liabilities that are designated and effective hedging instruments.
+B.Financial liabilities that are designated as measured at fair value through profit or loss.
 C.Financial liabilities at fair value through profit or loss shall be measured at fair value. However, with respect to a financial liability designated as at fair value through profit or loss, if the amount of change in the fair value of the financial liability is attributable to change in the credit risk, it shall be recognized in other comprehensive income, unless for the purpose of avoiding accounting mismatch or in the case of loan commitments and financial guarantee contracts, under which circumstances the amount of changes in fair value shall be recognized in profit or loss.
-4.Derivative financial liabilities for hedging -- current: A derivative financial liability that is a designated and effective hedging instrument under hedge accounting requirements. Any such liability shall be measured at fair value.
-5.Financial liabilities measured at cost -- current: derivative instrument liabilities that are linked to such equity instruments that do not have a quoted price in an active market and that shall be settled by delivery of such equity instruments, and the fair value cannot be reliably measured.
+4.Financial liabilities for hedging -- current: A financial liability that is a designated and effective hedging instrument under hedge accounting requirements.
+5.Contract liability: Means an entity's obligation to transfer goods or services to a customer for which the entity has received or is entitled to receive consideration from the customer under the terms and conditions of a contract.
 6.Trade payables:
 A.Refers to payables resulting from principal business operations.
 B.Trade payables shall be measured at amortized cost using the effective interest method. However, short-term trade payables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
@@ -226,9 +211,9 @@ D.Long-term notes payable and other long-term payables shall be measured at amor
 A.Deposits received for settlement and clearing funds: A contra item to the "settlement and clearing funds" on the assets side. The nature, content, utilization, and pledge status of these deposited funds shall be indicated in the notes to the financial reports.
 B.Settlement prices: Settlement amounts payable to securities firms.
 5.Other non-current liabilities: Non-current liabilities not attributable to any of the classes above:
-The items described in the preceding two paragraphs in relation to financial liabilities at fair value through profit or loss, derivative financial liabilities for hedging, financial liabilities measured at cost, trade payables, and other payables shall be accounted for in accordance with IAS 39.
-With respect to the items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, derivative financial liabilities for hedging, trade payables, other payables, liabilities directly associated with non-current assets held for sale, bonds payable, and long-term borrowings, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
-The items described in paragraph 3 and paragraph 4 in relation to financial liabilities at fair value through profit or loss, derivative financial liabilities for hedging, financial liabilities measured at cost, and provisions shall be distinguished as current and non-current based on liquidity.
+The items described in the preceding two paragraphs in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, trade payables, and other payables shall be accounted for in accordance with IFRS 9.
+With respect to the items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, trade payables, other payables, liabilities directly associated with non-current assets held for sale, bonds payable, and long-term borrowings, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
+The items described in paragraph 3 and paragraph 4 in relation to financial liabilities at fair value through profit or loss, contract liability,financial liabilities for hedging, and provisions shall be distinguished as current and non-current based on liquidity.
 ]]></條文內容>
   </條文>
   <條文>
@@ -245,7 +230,7 @@ a.Legal reserve: A fixed-percentage reserve appropriated as required by the Comp
 b.Special reserve: A reserve appropriated from earnings in accordance with the requirements of applicable laws and regulations, contracts, or articles of incorporation, or as resolved at shareholders meetings.
 c.Undistributed earnings (or deficit to be offset): Undistributed and unappropriated earnings ("deficit to be offset" is deficit not yet offset).
 d.An earnings distribution or offsetting of deficit shall not be accounted for unless and until approved by a regular shareholders meeting. However, when an earnings distribution or offsetting of deficit has been proposed, such shall be disclosed in the notes to the financial reports for the current period.
-D.Other equity: Includes the accumulated balances of exchange differences resulting from translating the financial statements of a foreign operation, of unrealized gains or losses from available-for-sale financial assets, of the effective portion of gains and losses on hedging instruments in a cash flow hedge, and of revaluation surplus.
+D.Other equity: Includes the accumulated balances of exchange differences resulting from translating the financial statements of a foreign operation, of unrealized gains or losses from financial assets measured at fair value through other comprehensive income, of gains and losses on hedging instruments, and of revaluation surplus.
 E.Treasury shares: Treasury shares shall be accounted for using the cost method and presented as a deduction from equity. The number of shares shall be noted.
 2.Non-controlling interest:
 A.The equity in a subsidiary not attributable, directly or indirectly, to a parent.
@@ -268,22 +253,27 @@ C.On-line processing fee revenue: Revenue from stipulated fees paid by securitie
 D.Information usage fee revenue: Revenue from stipulated fees paid by institutions such as securities firms, futures commission merchants, and domestic and foreign information companies for using the information transmitted by a company-type stock exchange.
 E.Data processing fee revenue: Revenue from stipulated fees paid by the Taipei Exchange for the processing of data by a company-type stock exchange on its behalf.
 F.Other revenue: Revenues not attributable to any of the items above.
-G.The recognition and measurement of revenue shall be made in accordance with IAS 18. When, and only when, a company-type stock exchange assesses it has exposure to the significant risks and rewards for the sale of goods or the rendering of services based on an examination of the circumstances of the transaction, the recognition of revenue shall be based on the gross amount; otherwise, the recognition of revenue shall be based on the net amount.
+G.The recognition and measurement of revenue from contracts with customers shall be made in accordance with IFRS 15. If a company-type stock exchange controls specific goods or services before it transfers the goods or services to its customer, it shall recognize the revenue based on the gross amount; otherwise, it shall recognize the revenue based on the net amount.
 2.Operating expense: The expenses to be borne as a result of operating activities in the period, including employee benefits expense, depreciation and amortization expense, and other operating expense.
-3.Finance costs: Include interest expenditures incurred in relation to operating activities and for all classes of liabilities, with the portion eligible for capitalization being deducted.
-4.Share of the profit or loss of associates and joint ventures accounted for using the equity method: The profit or loss of associates and interests in joint ventures that a company-type stock exchange recognizes using the equity method according to its share in the associates and the interests in joint ventures.
-5.Tax expense (benefit): The aggregate amount included in the determination of profit or loss for the period in respect of current tax and deferred tax.
-6.Profit or loss of discontinued operations:
+3.Net profit or loss upon derecognition of financial assets measured at amortized cost: Means the net profit or less that arises when a company-type stock exchange derecognizes from its books financial assets measured at amortized cost that it had originally recognized.
+4.Finance costs: Include interest expenditures incurred in relation to operating activities and for all classes of liabilities, with the portion eligible for capitalization being deducted.
+5.Expected credit impairment loss (or gain): The expected amount of credit loss (or reversal) according to IFRS 9.
+6.Share of the profit or loss of associates and joint ventures accounted for using the equity method: The profit or loss of associates and interests in joint ventures that a company-type stock exchange recognizes using the equity method according to its share in the associates and the interests in joint ventures.
+7.Net gains or losses from reclassification of financial assets: Means one of the following conditions, in accordance with IFRS 9:
+A.Net gains or losses from reclassification of financial assets from measurement at amortized cost to measurement at fair value through profit or loss.
+B.Cumulative net gains or losses from reclassification from measurement at fair value through other comprehensive income to measurement at fair value through profit or loss.
+8.Tax expense (benefit): The aggregate amount included in the determination of profit or loss for the period in respect of current tax and deferred tax.
+9.Profit or loss of discontinued operations:
 A.The post-tax profit or loss of discontinued operations and the post-tax gain or loss recognized on the measurement to fair value less costs to sell or on the disposal of the assets or disposal group(s) constituting the discontinued operation.
 B.The presentation and disclosure of profit or loss of discontinued operations shall be made in accordance with IFRS 5.
-7.Profit or loss during the period: Earnings or deficit in the current reporting period.
-8.Other comprehensive income: Refers to each component of other comprehensive income classified by nature, including share of the other comprehensive income of associates and joint ventures accounted for using the equity method:
-A.Items that may be subsequently reclassified into profit or loss: Include exchange differences resulting from translating the financial statements of a foreign operation, unrealized valuation gains and losses from available-for-sale financial assets, and the effective portion of gains and losses on hedging instruments in a cash flow hedge.
-B.Items not to be reclassified into profit or loss: Include revaluation surplus and remeasurements of defined benefit plans.
-9.Total comprehensive income.
-10.Allocations of profit or loss during the period attributable to non-controlling interest and owners of the parent.
-11.Allocations of total comprehensive income during the period attributable to non-controlling interest and owners of the parent.
-12.Earnings per share:
+10.Profit or loss during the period: Earnings or deficit in the current reporting period.
+11.Other comprehensive income: Refers to each component of other comprehensive income classified by nature, including share of the other comprehensive income of associates and joint ventures accounted for using the equity method:
+A.Items that may be subsequently reclassified into profit or loss: Include exchange differences resulting from translating the financial statements of a foreign operation, unrealized valuation gains and losses from investments in debt instruments measured at fair value through other comprehensive income, and gains and loss on hedging instruments.
+B.Items not to be reclassified into profit or loss: Include revaluation surplus, unrealized valuation gains and losses from investments in equity instruments measured at fair value through other comprehensive income, remeasurements of defined benefit plans, and gains and loss on hedging instruments.
+12.Total comprehensive income.
+13.Allocations of profit or loss during the period attributable to non-controlling interest and owners of the parent.
+14.Allocations of total comprehensive income during the period attributable to non-controlling interest and owners of the parent.
+15.Earnings per share:
 A.Basic and diluted earnings per share for profit or loss from continuing operations attributable to the ordinary equity holders of the parent entity and for profit or loss attributable to the ordinary equity holders of the parent entity.
 B.The calculation and presentation of earnings per share shall be made in accordance with IAS 33.
 ]]></條文內容>
@@ -331,18 +321,20 @@ A company-type stock exchange shall present, either in the statement of changes 
 18.Losses due to major disasters.
 19.Major litigation pending or concluded.
 20.The signing, completion, voidance, or lapse of major contracts.
-21.Major organizational adjustments and significant management reforms.
-22.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, and certainty of future cash flows, actuarial losses and gains arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
-23.Segment financial information in accordance with IFRS 8, including the scope of business, revenue, and gains and losses of each reportable segment.
-24.Any research and development project funded by another party and the amount.
-25.Information about investments in derivative instruments.
-26.When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
-27.In the case of private placement of securities, the type, issue date, and amount shall be disclosed.
-28.Material effects of changes in government laws and regulations.
-29.Material effects of discontinuance of operations.
-30.Fair value information. The information shall be disclosed in accordance with IFRS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
-31.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
-32.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
+21.Information about financial instruments. The information shall be disclosed in accordance with IFRS 7, including disclosure of the significance of financial instruments for the company-type securities exchange's financial position and performance; qualitative and quantitative disclosures describing risk exposures arising from financial instruments.
+22.Comprehensive information about the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers shall be disclosed in accordance with IFRS 15, including details of revenue recognized from contracts with customers, contract balances, contract obligations, significant judgments and changes in the judgments, and any assets recognized from the costs to obtain or fulfil a contract with a customer.
+23.Major organizational adjustments and significant management reforms.
+24.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, and certainty of future cash flows, actuarial losses and gains arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
+25.Segment financial information in accordance with IFRS 8, including the scope of business, revenue, and gains and losses of each reportable segment.
+26.Any research and development project funded by another party and the amount.
+27.Information about investments in derivative instruments.
+28.When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
+29.In the case of private placement of securities, the type, issue date, and amount shall be disclosed.
+30.Material effects of changes in government laws and regulations.
+31.Material effects of discontinuance of operations.
+32.Fair value information. The information shall be disclosed in accordance with IFRS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
+33.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
+34.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
 ]]></條文內容>
   </條文>
   <條文>
@@ -407,7 +399,7 @@ In considering whether a counterparty is a related party, attention shall be dir
   <編章節>   Chapter III Interim Financial Reports</編章節>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[financial reports shall include interim financial reports for each of the following periods:
+    <條文內容><![CDATA[Financial reports shall include interim financial reports for each of the following periods:
 1.Balance sheets as of the end of the current interim period, as of the end of the immediately preceding financial year, and as of the end of the comparable interim periods of the immediately preceding financial year.
 2.Statements of comprehensive income for the current interim period, for the current financial year to the end of the current interim period, for the comparable interim periods of the immediately preceding financial year, and for the immediately preceding financial year to the end of the comparable interim periods.
 3.Statement of changes in equity for the current financial year to date, with a statement of changes in equity for the same period of the immediately preceding financial year.
@@ -439,49 +431,45 @@ Titles and forms of statements of major accounting items are as follows:
 1.Statements of assets, liabilities, and equity items:
 A.Statement of cash and cash equivalents (Form 6-1).
 B.Statement of financial assets at fair value through profit or loss -- current (Form 6-2).
-C.Statement of available-for-sale financial assets -- current (Form 6-3).
-D.Statement of derivative financial assets for hedging -- current (Form 6-4).
-E.Statement of financial assets measured at cost -- current (Form 6-5).
-F.Statement of debt instrument investments for which no active market exists -- current (Form 6-6).
-G.Statement of trade receivables (Form 6-7).
-H.Statement of other receivables (Form 6-8).
-I.Statement of prepayments (Form 6-9).
-J.Statement of non-current assets held for sale (Form 6-10).
-K.Statement of other current assets (Form 6-11).
-L.Statement of changes in financial assets at fair value through profit or loss -- non-current (Form 6-12).
-M.Statement of available-for-sale financial assets -- non-current (Form 6-13).
-N.Statement of changes in held-to-maturity financial assets -- current (Form 6-14).
-O.Statement of changes in derivative financial assets for hedging -- non-current (Form 6-15).
-P.Statement of financial assets measured at cost -- non-current (Form 6-16)
-Q.Statement of debt instrument investments for which no active market exists -- non-current (Form 6-17)
-R.Statement of changes in investments accounted for using the equity method (Form 6-18).
-S.Statement of changes in accumulated impairment of investments accounted for using the equity method (Form 6-19).
-T.Statement of changes in property and equipment (Form 6-20).
-U.Statement of changes in accumulated depreciation of property and equipment (Form 6-21).
-V.Statement of changes in accumulated impairment of property and equipment (Form 6-22).
-W.Statement of changes in investment property (Form 6-23).
-X.Statement of changes in accumulated depreciation of investment property (Form 6-24).
-Y.Statement of changes in accumulated impairment of investment property (Form 6-25).
-Z.Statement of changes in intangible assets (Form 6-26).
-AA.Statement of deferred tax assets (Form 6-27).
-BB.Statement of other non-current assets (Form 6-28).
-CC.Statement of short-term borrowings (Form 7-1).
-DD.Statement of short-term bills payable (Form 7-2).
-EE.Statement of financial liabilities at fair value through profit or loss -- current (Form 7-3).
-FF.Statement of derivative financial liabilities for hedging -- current (Form 7-4).
-GG.Statement of financial liabilities measured at cost (Form 7-5).
-HH.Statement of trade payables (Form 7-6).
-II.Statement of other payables (Form 7-7).
-JJ.Statement of provisions -- current (Form 7-8).
-KK.Statement of liabilities directly associated with non-current assets held for sale (Form 7-9).
-LL.Statement of other current liabilities (Form 7-10).
-MM.Statement of changes in financial liabilities at fair value through profit or loss -- non-current (Form 7-11).
-NN.Statement of derivative financial liabilities for hedging -- non-current (Form 7-12).
-OO.Statement of bonds payable (Form 7-13).
-PP.Statement of long-term borrowings (Form 7-14).
-QQ.Statement of provisions -- non-current (Form 7-15).
-RR.Statement of deferred tax liabilities (Form 7-16).
-SS.Statement of other non-current liabilities (Form 7-17).
+C.Statement of financial assets measured at fair value through other comprehensive income - current (Form 6-3).
+D.Statement of financial assets for hedging -- current (Form 6-4).
+E.Statement of financial assets measured at amortized cost - current (Form 6-6).
+F.Statement of trade receivables (Form 6-7).
+G.Statement of other receivables (Form 6-8).
+H.Statement of prepayments (Form 6-9).
+I.Statement of non-current assets held for sale (Form 6-10).
+J.Statement of other current assets (Form 6-11).
+K.Statement of changes in financial assets at fair value through profit or loss -- non-current (Form 6-12).
+L.Statement of changes in financial assets measured at fair value through other comprehensive income (Form 6-13).
+M.Statement of changes in financial assets for hedging -- non-current (Form 6-15).
+N.Statement of changes in financial assets measured at amortized cost - non-current (Form 6-17)
+O.Statement of changes in investments accounted for using the equity method (Form 6-18).
+P.Statement of changes in accumulated impairment of investments accounted for using the equity method (Form 6-19).
+Q.Statement of changes in property and equipment (Form 6-20).
+R.Statement of changes in accumulated depreciation of property and equipment (Form 6-21).
+S.Statement of changes in accumulated impairment of property and equipment (Form 6-22).
+T.Statement of changes in investment property (Form 6-23).
+U.Statement of changes in accumulated depreciation of investment property (Form 6-24).
+V.Statement of changes in accumulated impairment of investment property (Form 6-25).
+W.Statement of changes in intangible assets (Form 6-26).
+X.Statement of deferred tax assets (Form 6-27).
+Y.Statement of other non-current assets (Form 6-28).
+Z.Statement of short-term borrowings (Form 7-1).
+AA.Statement of short-term bills payable (Form 7-2).
+BB.Statement of financial liabilities at fair value through profit or loss -- current (Form 7-3).
+CC.Statement of financial liabilities for hedging -- current (Form 7-4).
+DD.Statement of trade payables (Form 7-6).
+EE.Statement of other payables (Form 7-7).
+FF.Statement of provisions -- current (Form 7-8).
+GG.Statement of liabilities directly associated with non-current assets held for sale (Form 7-9).
+HH.Statement of other current liabilities (Form 7-10).
+II.Statement of changes in financial liabilities at fair value through profit or loss -- non-current (Form 7-11).
+JJ.Statement of financial liabilities for hedging -- non-current (Form 7-12).
+KK.Statement of bonds payable (Form 7-13).
+LL.Statement of long-term borrowings (Form 7-14).
+MM.Statement of provisions -- non-current (Form 7-15).
+NN.Statement of deferred tax liabilities (Form 7-16).
+OO.Statement of other non-current liabilities (Form 7-17).
 2.Statements of profit or loss items:
 A.Statement of operating revenue (Form 8-1).
 B.Statement of operating expense (Form 8-2).
@@ -508,7 +496,7 @@ Except when electing to use the deemed cost exemption in accordance with Article
   </條文>
   <條文>
     <條號>Article 28</條號>
-    <條文內容><![CDATA[For the financial assets or financial liabilities measured at cost upon initial recognition prior to the date of conversion, a company-type stock exchange may, on the date of conversion, elect to use the exemption designated by the previously recognized financial instruments pursuant to IFRS 1, or classifies them as financial assets or financial liabilities held for trading on the premises that they meet the conditions for financial assets or financial liabilities held for trading under Article 11 or 12 of these Regulations.
+    <條文內容><![CDATA[For the financial assets or financial liabilities measured at cost upon initial recognition prior to the date of conversion, a company-type stock exchange shall, on the date of conversion, follow the provisions of IFRS 1 and IFRS 9.
 Financial assets or financial liabilities not included in the preceding paragraph may not be reclassified on the date of conversion.
 ]]></條文內容>
   </條文>
@@ -519,13 +507,13 @@ Financial assets or financial liabilities not included in the preceding paragrap
 1.All of the parties are bound by a contractual arrangement.
 2.The contractual arrangement gives two or more of those parties joint control of the arrangement.
 When a joint arrangement is a joint operation, the assets, liabilities, revenues, and expenses relating to the joint operation shall be recognized in accordance with these Regulations, applicable IFRSs, and contractual agreement.
-When a joint arrangement is a joint venture, the interest in the joint venture shall be accounted for using the equity method pursuant to Article 11, paragraph 4, subparagraph 2 and IAS 28.
+When a joint arrangement is a joint venture, the interest in the joint venture shall be accounted for using the equity method pursuant to Article 11, paragraph 4, subparagraph 1 and IAS 28.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter VII Supplementary Provisions</編章節>
   <條文>
     <條號>Article 30</條號>
-    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 3, Article 6, Article 9, paragraph 1, Articles 10 to 15, Article 17, Article 19, Articles 21 to 23, Article 25, Article 27, and Article 29, as amended on 15 September 2014, which shall come into force from financial year 2015, and the amendments of 10 February 2017, which shall come into force from financial year 2017.
+    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 3, Article 6, Article 9, paragraph 1, Articles 10 to 15, Article 17, Article 19, Articles 21 to 23, Article 25, Article 27, and Article 29, as amended on 15 September 2014, which shall come into force from financial year 2015, the amendments of 10 February 2017, which shall come into force from financial year 2017, and the amendments of 8 November 2017, which shall come into force from financial year 2018.
 ]]></條文內容>
   </條文>
 </法規內容>

@@ -3,10 +3,11 @@
 <英文法規名稱>Enforcement Rules of Weights and Measures Act</英文法規名稱>
 <中文法規名稱>度量衡法施行細則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=J0100053</法規網址>
-<最新英文異動日期>20070914</最新英文異動日期>
+<最新英文異動日期>20170928</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<沿革內容><![CDATA[1. Adopted and promulgated by the Order of Ministry of Industry and Commerce on 11 April 1929.
+<附件 />
+<沿革內容><![CDATA[1. Adopted and promulgated by the Order of Ministry of Industry and Commerce on 11 April 1929
 2. Amended and promulgated by Order of the Ministry of Industries on 5 December 1931
 3. Amended and promulgated by Order of the Ministry of Economic Affairs on 29 May 1934
 4. Amended and promulgated by Order of the Ministry of Economic Affairs on 29 May 1944
@@ -25,7 +26,8 @@
 17. 10 articles amended in full by Ministerial Order on 20 January 1999
 18. 16 articles amended and promulgated in full by Ministerial Order on 22 October 2003
 19. Article 9 amended and promulgated by Ministerial Order on 14 September 2007
-]]></沿革內容>
+20. Articles 2 and 3 amended and promulgated by Ministerial Order on 28 September 2017]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
@@ -34,32 +36,38 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA["Legal measuring instruments" referred to in Article 5 of the Act includes the following:
+    <條文內容><![CDATA[The varieties of legal measuring instruments in Article 5 of the Act includes the following:
 1.Dimensional instruments;
 2.Weighing instruments;
-3.Force meters;
-4.Thermometers;
-5.Pressure meters (including sphygmomanometers);
-6.Volumeters;
-7.Speed meters;
-8.Calorimeters;
-9.Density meters;
-10.Concentration meters;
-11.Specific gravity meters;
-12.Watt-hour meters;
-13.Surface area meters;
-14.Lux meters;
-15.Light meters;
-16.Sound level meters;
-17.Deninermeters; and
-18.Other instruments designated by the competent authority.
+3.Weights;
+4.Force meters;
+5.Thermometers;
+6.Pressure meters;
+7.Volumeters;
+8.Speed meters;
+9.Heat meters;
+10.Density meters;
+11.Concentration meters;
+12.Specific gravity meters;
+13.Watt-hour meters;
+14.Surface area meters;
+15.Illuminometer;
+16.Irradiation meters;
+17.Sound level meters;
+18.Deninermeters; and
+19.Other instruments designated by the competent authority.
+The categories and scopes of each of legal measuring instrument covered in the preceding paragraph shall be designated by the competent authority by notice.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[According to the provisions of Article 7 of the Act, the traceability of measuring instruments used in performing official inspection and testing and that of standard instruments used by verification and/or inspection agencies (institutions) or organizations shall be maintained at laboratories accredited by the Taiwan Accreditation Foundation (hereinafter referred to as “the Foundation”), unless the measuring instruments used for official testing are subject to verification.
-Where there are no laboratories accredited by the Foundation for maintaining the traceability referred to in the preceding Paragraph, the requirement for traceability is deemed to be met when a calibration report or relevant certificate is acquired from the National Measurement Institute, a laboratory accredited by an accreditation body having mutual recognition arrangements with the Foundation, or national measurement organizations of foreign countries.
-Before the Foundation is established, the traceability referred to in Paragraph One shall be maintained at laboratories accredited by the Chinese National Laboratory Accreditation (CNLA) program established by the dedicated weights and measures authority.
+    <條文內容><![CDATA[According to the provisions of Article 7 of the Act, the traceability of measuring instruments used in performing official inspection and testing and that of reference standards used by verification and/or inspection agencies (institutions) or organizations shall be maintained at the following agencies (institutions) or laboratories:
+1.National Measurement Laboratory R.O.C.
+2.A dedicated authority in charge of measurement or institutions appointed by the dedicated authority.
+3.Laboratories obtaining the CNS 17025 or ISO/IEC 17025 certificate issued by domestic accreditation institutions, which shall sign the Mutual Recognition Arrangement (MRA) with International Laboratory Accreditation Cooperation (ILAC).
+If the above agencies (institutions) or laboratories are unable to provide the traceability, the traceability may be provided by the following laboratories:
+1.Foreign National Measurement Laboratories.
+2.Laboratories obtaining the ISO/IEC 17025 certificate issued by the foreign accreditation institutions, which shall sign the Mutual Recognition Arrangement (MRA) with International Laboratory Accreditation Cooperation (ILAC).
 ]]></條文內容>
   </條文>
   <條文>
@@ -94,7 +102,7 @@ If an applicant fails to report to the dedicated weights and measures authority 
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[(Deleted.).
+    <條文內容><![CDATA[(Deleted.)
 ]]></條文內容>
   </條文>
   <條文>

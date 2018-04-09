@@ -3,9 +3,10 @@
 <英文法規名稱>National Health Insurance Act</英文法規名稱>
 <中文法規名稱>全民健康保險法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=L0060001</法規網址>
-<最新英文異動日期>20110629</最新英文異動日期>
+<最新英文異動日期>20171129</最新英文異動日期>
 <廢止註記>
 </廢止註記>
+<附件 />
 <沿革內容><![CDATA[1.Promulgated on August 9,1994 by the President’s Order of Hua Chung (1) Yi Tze No.4705
 2.Amended and Promulgated Articles 11-1, 69-1 and 87 by the President’s Order of Hua Chung (1) Yi Tze No.5865 on October 3, 1994
   This Act is effective from March 1, 1995 by the Excutive Yuan's Order of Tai Wei Tze No.06956 on February 27, 1995
@@ -18,7 +19,9 @@
 9.Amendment of the National Health Insurance Act by the President’s Order of Hua Chung (1) Yi Tze No. 10000011861 on January 26, 2011; the Executive Yuan shall decide upon the date of implementation of this Act
   Amendment and Promulgation of Articles 27, 28 and 35 by the Executive Yuan's Order of Yuan Tai Wei Tze No. 1010024941 on May 21, 2012, and Articles 27, 28 and 35 are effective from July 1, 2012.
   Promogation of all articles other than those which have already taken effect by the Executive Yuan's Order of Yuan Tai Wei Tze No. 1010144186 on October 9, 2012, and the said articles are effective from January 1, 2013.
-10.Amendment and Promulgation of Article 11 of the National Health Insurance Act by the President’s Order of Hua Chung (1) Yi Tze No. 10000132401 on June 29, 2011; the Executive Yuan shall decide upon the date of implementation of Article 11；Article 11 is effective from September 1, 2011 by the Executive Yuan's Order of Yuan Tai Wei Tze No.1000041163 on August 12, 2011]]></沿革內容>
+10.Amendment and Promulgation of Article 11 of the National Health Insurance Act by the President’s Order of Hua Chung (1) Yi Tze No. 10000132401 on June 29, 2011; the Executive Yuan shall decide upon the date of implementation of Article 11；Article 11 is effective from September 1, 2011 by the Executive Yuan's Order of Yuan Tai Wei Tze No.1000041163 on August 12, 2011
+11.Amendment and Promulgation of Articles 6, 9, 95 and 104 by the President’s Order of Hua Chung (1) Yi Tze No. 10600142271 on November 29,2017.]]></沿革內容>
+<前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
   <條文>
@@ -69,9 +72,11 @@ Matters reviewed and coordinated by the NHIC should be approved by the Competent
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[The insured, the group insurance applicants, premium withholder, and the contracted medical institutions should apply for a review to settle disputes against the Insurer. They may file administrative appeal and administrative lawsuit if they disagree with the review results.
+    <條文內容><![CDATA[The insured, the group insurance applicant, premium withholder and the contracted medical institution should apply for a review to settle disputes against the insurer. They may file administrative appeal or administrative lawsuit if they disagree with the review results.
 The National Health Insurance Dispute Mediation Committee shall perform the task of reviewing such disputes.
 The Competent Authority shall determine the scope of the abovementioned disputes, application for review or deadline for submission of documents, procedures, as well as the review methods and process.
+The National Health Insurance Dispute Mediation Committee shall publicize the dispute review results periodically via publication of government gazette, Internet or other proper methods.
+The publication of the dispute review results referred to in the preceding paragraph shall be made only after the information of individuals, juridical persons or groups has been de-identified through coding, anonymizing, masking part of the information or other methods, and no longer identifiable.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter 2 The Insurer, The Beneficiary, and The Group Insurance Applicant</編章節>
@@ -96,8 +101,9 @@ Individuals who have previously subscribed to this Insurance and have gone abroa
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[With the exception of individuals mentioned in the previous article, any person who has an alien resident certificate in the Taiwan area must meet one of the following requirements in order to become the beneficiaries of this Insurance:
-1.Those who have established a registered domicile for at least six months;
-2.Those with a regular employer.
+1. Those who have established a registered domicile in Taiwan for at least six months.
+2. Those with a regular employer.
+3. Newborns in the Taiwan area.
 ]]></條文內容>
   </條文>
   <條文>
@@ -712,11 +718,11 @@ The Competent Authority shall determine the scope, payment compensation, and oth
   </條文>
   <條文>
     <條號>Article 95</條號>
-    <條文內容><![CDATA[In case the third party is liable for the beneficiary due to tortuous accident covered by this Insurance, the Insurer of this Insurances may, after paying the medical benefits to the beneficiary, exercise the right of subrogation against the tortfeasors specifically addressed by the following subparagraphs:
-1.In Motor Vehicle Traffic Accidents: the Insurer of motor vehicle’s compulsory third party liability.
-2.In Public Safety Accidents: the Insurer of compulsory third party liability.
-3.In Significant Traffic Accidents other than Motor Vehicle Ones, the Public Nuisance Accidents, or the Food Poisoning Accidents: the Insurer of the compulsory third party liability insurance, or in case that the third-party tortfeasor is without insurances, the tortfeasor himself or herself.
-The Competent Authority shall promulgate regulations governing scope, the method, the procedure, and any other matters related to the exercise of that right with respect to the accidents provided by subparagraph 3 of the preceding paragraph.
+    <條文內容><![CDATA[If the Insurer has paid insurance benefits to a beneficiary for any car traffic accident, the Insurer may claim against the insurer of the compulsory automobile liability insurance to recover the benefits paid.
+If a beneficiary has a indemnity claim against a third party arising out of an incident covered by this Insurance, the Insurer of this Insurance may, after paying insurance benefits to the beneficiary, exercise the right of subrogation in accordance with the following subparagraphs:
+1. Public safety incidents: The Insurer shall claim against the insurer of the liability insurance carried by the third party as required by the laws and regulations. However, if the indemnity amount is deficient in settlement, the Insurer then claims against the third party for the deficit amount.
+2. Other serious traffic accidents, public nuisance or food poisoning incidents: When the third party has carried his liability insurance, the Insurer shall claim against the third party’s insurer. If there is any deficit in settlement or no such insurance being carried, the Insurer shall claim against the third party for the deficit amount or the indemnity.
+The regulations governing the minimum compensation amount, the compensation scope, methods and procedures of the public safety incidents, serious traffic accidents, public nuisance or food poisoning incidents referred to in the preceding paragraph shall be prescribed by the competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -764,6 +770,7 @@ The Competent Authority shall determine the loan application, conditions, loan r
   <條文>
     <條號>Article 104</條號>
     <條文內容><![CDATA[The Executive Yuan shall decide upon the date of implementation of this Act.
+The amendments to articles of this Act shall come into force as of the date of promulgation, with the exception that the implementation date of Article 11 amended on June 29, 2011, shall be determined by the Executive Yuan.
 ]]></條文內容>
   </條文>
 </法規內容>
