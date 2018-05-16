@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations for the Accounting Arrangement and Procedure of Submitting Business and Financial Reports of Compulsory Automobile Liability Insurance</英文法規名稱>
 <中文法規名稱>強制汽車責任保險會計處理及業務財務資料陳報辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0390063</法規網址>
-<最新英文異動日期>20141218</最新英文異動日期>
+<最新英文異動日期>20180131</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -14,7 +14,8 @@
 5.Article 12 was amended and promulgated pursuant and Article 9-1 was added pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09902564891 of the Financial Supervisory Commission, Executive Yuan, dated 26 July 2010; for implementation from the date of promulgation. 
 6.Articles 3, 9 and 12 and the Appendix of Article 4 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09902567127 of the Financial Supervisory Commission, Executive Yuan, dated 16 December 2010; Articles 3 and 9 and the Appendix of Article 4 shall be implemented from 1 January 2011.
 7.Articles 9 and 12 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-10002565601 of the Financial Supervisory Commission, Executive Yuan, dated 2 December 2011; Articles 9 shall be implemented from 1 January 2012.
-8.Article 3, 7 , 9 and 12 and the Appendix of Article 4 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-10302529351 of the Financial Supervisory Commission, dated 18 December 2014. Article 3, 7 and 9 shall be implemented from 1 January 2015, other articles shall be implemented from the date of promulgation.]]></沿革內容>
+8.Article 3, 7 , 9 and 12 and the Appendix of Article 4 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-10302529351 of the Financial Supervisory Commission, dated 18 December 2014. Article 3, 7 and 9 shall be implemented from 1 January 2015, other articles shall be implemented from the date of promulgation.
+9.Article 2, 3, 5 and 10 and the Appendix of Article 4 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-10704520901 of the Financial Supervisory Commission, dated 31 January 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -24,15 +25,15 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[An insurer operating the Compulsory Automobile Liability Insurance (hereinafter referred to as ”this Insurance”) shall add a note to the accounting titles under the current accounting system to indicate the name of this Insurance. It shall, based on the underwriting year, create a sub-account to list together with other existing sub-accounts on an equivalent level under the accounting titles.
+    <條文內容><![CDATA[An insurer operating the Compulsory Automobile Liability Insurance (hereinafter referred to as ”this Insurance”) shall add a note to the accounting items under the current accounting system to indicate the name of this Insurance. It shall, based on the underwriting year, create a sub-account to list together with other existing sub-accounts on an equivalent level under the accounting items.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The accounting titles to which sub-accounts shall be added for this Insurance are as follows:
-1. Profit and loss account titles and various investment valuation titles related to this Insurance, including premium income, reinsurance premium income, reinsurance premium expenditures, net change in unearned premium reserves, interest income, unrealized valuation gains or losses on financial products held for sale, realized gains or losses on financial products held for sale, insurance claims and payments, claims settlement expenses, reinsurance claims and payments, claims and payments recovered from reinsurers, net change in loss reserves, net change in special reserves, handling fee payments, stabilization fund payments, business expenses, and administration expenses.
-2. Asset accounts related to this Insurance, including cash, bank deposits, cash equivalents, notes receivable, premium receivable, reinsurance claims and payments receivable from reinsurers, indemnity refundable on reinsurance ceded, due from reinsurers and ceding companies, other receivables, available-for-sale financial assets, reserve for ceded unearned premiums, ceded claims reserve, temporary payments and suspense accounts, and other assets.
-3. Liability accounts related to this Insurance, including notes payable, claims payable and payment, reinsurance claims payable and payment, commissions payable, other payables, accrued expenses, unearned premium reserve, loss reserve, special reserve, temporary receivable and suspense, and other liabilities.
+    <條文內容><![CDATA[The accounting items to which sub-accounts shall be added for this Insurance are as follows:
+1. Profit and loss account items and various investment valuation items related to this Insurance, including premium income, reinsurance premium income, reinsurance premium expenditures, net change in unearned premium reserves, interest income, gain(loss) on debt instruments measured at fair value through other comprehensive income, realized gain(loss) on financial assets measured at fair value through other comprehensive income, insurance claims and payments, claims settlement expenses, reinsurance claims and payments, claims and payments recovered from reinsurers, net change in loss reserves, net change in special reserves, handling fee payments, stabilization fund payments, business expenses, and administration expenses.
+2. Asset line items related to this Insurance, including cash, bank deposits, cash equivalents, notes receivable, premium receivable, reinsurance claims and payments receivable from reinsurers, indemnity refundable on reinsurance ceded, due from reinsurers and ceding companies, other receivables, financial assets measured at fair value through other comprehensive income, reserve for ceded unearned premiums, ceded claims reserve, temporary payments and suspense accounts, and other assets.
+3. Liability line items related to this Insurance, including notes payable, claims payable and payment, reinsurance claims payable and payment, commissions payable, other payables, accrued expenses, unearned premium reserve, loss reserve, special reserve, temporary receivable and suspense, and other liabilities.
 ]]></條文內容>
   </條文>
   <條文>
@@ -42,15 +43,15 @@
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[An insurer shall make a distinction between direct expenses and joint expenses contribution in respect of all kinds of business and administration expenses.  
+    <條文內容><![CDATA[An insurer shall make a distinction between direct expenses and joint expenses contribution in respect of all kinds of business and administration expenses.
 Direct expenses mean the expenses directly accrued from the operation of this Insurance; joint expenses contribution means that the expenses cannot be treated as direct expenses and shall be jointly allocated with other insurance.
 An insurer shall include the allocation method for joint expenses contribution into its internal management system, making a record and accurately calculate the joint expenses contribution of this Insurance in producing reports.
 The allocation method stipulated in the preceding paragraph shall be conformed to the principle of consistency. The competent authority may require the insurer to provide the allocation method if necessary.
-The expense for promotion, expense for actuarial and research and development, expense for inquiry services, and expense for data transmission shall be booked into account, on an accrual basis at the end of each month. They shall be respectively booked using the following subsidiary accounts and accrued expenses, and shall be offset upon payment:
-1. Expense for promotion shall be booked in the subsidiary account "business expenses - advertisement expenses - promotion expenses for compulsory automobile liability insurance."
-2. Expense for actuarial, research and development shall be booked in the subsidiary account "business expenses - research and development expenses - expenses for actuarial research and development for compulsory automobile liability insurance. "
-3. Expense for inquiry service shall be booked in the subsidiary account "business expenses - postage expenses - expenses for inquiry service for compulsory automobile liability insurance."
-4. Expense for data transmission shall be booked in the subsidiary account "business expenses - postage expenses - expenses for data transmission for compulsory automobile liability insurance."
+The expense for promotion, expense for actuarial and research and development, expense for inquiry services, and expense for data transmission shall be booked into account, on an accrual basis at the end of each month. They shall be respectively booked using the following subsidiary items and accrued expenses, and shall be offset upon payment:
+1. Expense for promotion shall be booked in the subsidiary item "business expenses - advertisement expenses - promotion expenses for compulsory automobile liability insurance."
+2. Expense for actuarial, research and development shall be booked in the subsidiary item "business expenses - research and development expenses - expenses for actuarial research and development for compulsory automobile liability insurance. "
+3. Expense for inquiry service shall be booked in the subsidiary item "business expenses - postage expenses - expenses for inquiry service for compulsory automobile liability insurance."
+4. Expense for data transmission shall be booked in the subsidiary item "business expenses - postage expenses - expenses for data transmission for compulsory automobile liability insurance."
 ]]></條文內容>
   </條文>
   <條文>
@@ -92,7 +93,7 @@ When an insurer simultaneously handles claims for this Insurance and other insur
 5. A statement of utilization of funds for compulsory automobile liability insurance.
 6. A statement of business expenses for compulsory automobile liability insurance.
 An insurer shall prepare the statements listed in subparagraphs 1 through 5 of the preceding paragraph and transmit the data by the 25th day of next month to the institutions designated by the competent authority.
-An insurer shall produce semiannual statements for the items set forth in subparagraphs 1 through 5 of the first paragraph and file them to the competent authority by the end of August each year after auditing and attestation by a certified public accountant. The statements under subparagraphs 2 through 4 shall additionally be audited and attested by an actuary and be reported to the competent authority prior to the end of August each year. 
+An insurer shall produce semiannual statements for the items set forth in subparagraphs 1 through 5 of the first paragraph and file them to the competent authority by the end of August each year after auditing and attestation by a certified public accountant. The statements under subparagraphs 2 through 4 shall additionally be audited and attested by an actuary and be reported to the competent authority prior to the end of August each year.
 An insurer shall prepare annual statements for the items set forth in subparagraphs 1 through 6 of the first paragraph, and file them with the competent authority by the end of April of the following year after auditing and attestation by a certified public accountant. The statements set forth in subparagraphs 2 through 4 and subparagraph 6 shall also be audited and attested by an actuary and reported to the competent authority prior to the end of March of the following year.
 ]]></條文內容>
   </條文>
@@ -103,19 +104,19 @@ An insurer shall prepare annual statements for the items set forth in subparagra
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[With the exception of uncollected receivables and advance payments duly made, an insurer shall record the funds it holds in relation to handling of this Insurance as available-for-sale financial assets, and file statements based on their measured fair value. This requirement shall not be applied, however, to funds placed on deposit in a financial institution or when the date of maturity or repayment occurs within three months of the investment date.
+    <條文內容><![CDATA[With the exception of uncollected receivables and advance payments duly made, an insurer shall record the funds it holds in relation to handling of this Insurance as financial assets measured at fair value through other comprehensive income, and file statements based on their measured fair value. This requirement shall not be applied, however, to funds placed on deposit in a financial institution or when the date of maturity or repayment occurs within three months of the investment date.
 The term "funds" in the preceding paragraph refers to all types of reserves, payables, temporary receivables and suspense.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 11</條號>
+    <條文內容><![CDATA[An insurer that processes data relating to underwriting and claim settlement business for this Insurance shall do so pursuant to the “Business statistics rules for compulsory automobile liability insurance” edited by the Non-life Insurance Association of the R.O.C. and the Taiwan Insurance Institute and approved by the competent authority.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[These Regulations shall be implemented from 1 January 2010.
 The amended articles of these Regulations shall be implemented from the date of their announcement. Articles 3, 4, and 9, as amended and issued on 16 December 2010, however, shall be implemented from 1 January 2011. Article 9, as amended on 2 December 2011, shall be implemented from 1 January 2012. Articles 3, 7, and 9, as amended and issued on 18 December 2014, shall be implemented from 1 January 2015.
-]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 11</條號>
-    <條文內容><![CDATA[An insurer that processes data relating to underwriting and claim settlement business for this Insurance shall do so pursuant to the “Business statistics rules for compulsory automobile liability insurance” edited by the Non-life Insurance Association of the R.O.C. and the Taiwan Insurance Institute and approved by the competent authority.
 ]]></條文內容>
   </條文>
 </法規內容>
