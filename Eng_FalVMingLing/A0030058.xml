@@ -3,7 +3,7 @@
 <英文法規名稱>Enforcement Rules of the Government Procurement Act</英文法規名稱>
 <中文法規名稱>政府採購法施行細則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=A0030058</法規網址>
-<最新英文異動日期>20161118</最新英文異動日期>
+<最新英文異動日期>20180326</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -12,7 +12,9 @@
 3. Amended on November 27, 2002
 4. Amended on November 30, 2010
 5. Amended on December 25, 2012
-6. Amended on November 18, 2016]]></沿革內容>
+6. Amended on November 18, 2016
+7. Amended on March 2, 2018
+8. Last Amended on March 26, 2018]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -175,8 +177,6 @@ The terms "physically or mentally disabled" and “philanthropic organization of
   <條文>
     <條號>Article 23</條號>
     <條文內容><![CDATA[For a procurement where part of it involves an exclusive right or a sole source product or supply which no reasonable alternative or substitute exists, and the estimated value of that part is not less than 50 per cent of the value of the procurement, it may be conducted by limited tendering procedures pursuant to subparagraph 2 of paragraph 1 of Article 22 of the Act, provided that separating the procurement into several parts would cause significant inconvenience to the entity and it is necessary to procure all parts as a whole.
-Article 23-1In conducting a procurement under limited tendering procedures pursuant to paragraph 1 of Article 22 of the Act, the requesting, using or procuring unit of an entity shall give a detailed account of each specific case in conformity with the requirements in each subparagraph of that paragraph, and report it to the head of the entity or the personnel authorized by the head for approval. Where it is applicable to conduct price competition under restricted tendering, such tendering shall be a preferred method to use.
-In conducting a procurement under limited tendering procedures pursuant to paragraph 1 of Article 22 of the Act, an entity may publish solicitation notice on the Government Procurement Gazette or make it available on the information network of the responsible entity, unless otherwise provided for in the Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -310,7 +310,7 @@ Where there is no conflict of interest or concern of unfair competition, circums
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[The term "shall not participate in tendering" referred to in paragraph 1 of Article 38 of the Act does not include subcontracting.
+    <條文內容><![CDATA[(deleted)
 ]]></條文內容>
   </條文>
   <條文>
@@ -454,6 +454,7 @@ Where a tendering procedure is nullified after tender opening, and a tenderer re
 1. the entity may conduct a re-tendering;
 2. where an award has been made to the lowest tender, the entity may request other unsuccessful tenderers, who meet the requirements set forth in the tender documentation, one by one and in the sequence of tender price from the one with the lowest tender price, and award a contract to the one who first reduces its tender price to the original award price. In the event that no tenderer reduces its tender price to the original award price, the entity may award a contract pursuant to subparagraphs 1 and 2 of paragraph 1 of Article 52 of the Act and the principles of contract awarding specified in the tender documentation; or
 3. where an award has been made to the most advantageous tender, the entity may convene a meeting of evaluation committee and conduct a re-evaluation pursuant to the requirements specified in the tender documentation.
+4. where a procurement has been conducted pursuant to subparagraphs 9 to 11 of paragraph 1 of Article 22 of the Act, and there are two or more winning providers selected or suppliers matching the requirements after evaluation and selection, the entity may conduct price negotiation by sequence.
 The requirement referred to in the preceding paragraph shall apply mutatis mutandis to the circumstances where an entity revokes an award or rescinds a contract due to a winning tenderer’s waiving of an award, or refusing to execute or perform a contract, to deposit a guarantee bond, or to provide a guarantee.
 ]]></條文內容>
   </條文>
@@ -666,7 +667,7 @@ Where the outcome of an award is not published on the Government Procurement Gaz
 3. the name of the winning tenderer;
 4. the award price; and
 5. the date of award.
-Where a contract cannot be awarded, the entity shall notify all tenderers of the reasons thereof. .
+Where a contract cannot be awarded, the entity shall notify all tenderers of the reasons thereof.
 ]]></條文內容>
   </條文>
   <條文>
