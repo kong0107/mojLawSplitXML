@@ -3,13 +3,13 @@
 <英文法規名稱>Regulations Governing Verification and Inspection of Measuring Instruments</英文法規名稱>
 <中文法規名稱>度量衡器檢定檢查辦法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=J0100056</法規網址>
-<最新英文異動日期>20151116</最新英文異動日期>
+<最新英文異動日期>20180507</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002549</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002550</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002919</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004156</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004157</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004158</下載網址>
 </附件>
 <沿革內容><![CDATA[1.41 Articles adopted and promulgated by Ministerial Order on 28 August 1987
 2.Articles 4 and 17 amended and promulgated by Ministerial Order on 14 January 1994
@@ -23,7 +23,8 @@
 10.Articles 3,12,14 and 22 amended and promulgated by Ministerial Order on 26 March 2010.
 11.Articles 3,6, and 17 amended and promulgated by Ministerial Order on 31 October 2012.
 12.Articles 3, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, and 22 amended and promulgated by Ministerial Order on 5 November 2014.
-13.Articles 3 amended and promulgated by Ministerial Order on 16 November 2015.]]></沿革內容>
+13.Articles 3 amended and promulgated by Ministerial Order on 16 November 2015.
+14.Articles 3, 8, 21 and 22 amended and promulgated by Ministerial Order on 7 May 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -53,11 +54,11 @@
 3. Non-Invasive mechanical sphygmomanometers;
 4. Volumeters:
 (1) Liquid volumetric meters: metal measuring pails and measuring tanks marked with divisions; excluding the following measuring tanks:
-(i) Measuring tanks with a capacity of more than 110 m3; and
+(i)  Measuring tanks with a capacity of more than 110 m3; and
 (ii) Pressure measuring tanks.
 (2) Diaphragm gas meters, excluding gas meters with a maximum air flow more than 100 m3/hr.
 (3) Water meters: volumetric water meters, velocity water meters（Woltmann meters, single-jet meters and multi-jet meters）and vortex water meters, excluding combination water meters and water meters with a caliber of more than 300 mm.
-(4) Oil meters, excluding oil meters with a caliber of more than 160 mm.
+(4) Oil meters provided for trading petroleum products, excluding oil meters with a caliber of more than 160 mm.
 (5) Liquefied petroleum gas flow meters.
 5. Electricity meters：Watt-hour meters, Var-hour meters, Watt-hour demand meters, Static electricity meters and Instrument transformers, excluding are as follows:
 (1) Ancillary electricity meters within the electric products
@@ -86,6 +87,7 @@
 The legal measuring instruments subject to verification under the provisions set forth in subparagraph 2 may be exempted from verification if they were manufactured or imported before 1 January 2014 and marked not for transaction use, certification or official inspection.
 The field corn moisture meters listed in item 3, subparagraph 8,Paragraph 1 shall be included as legal measuring instruments subject to verification and come into force on 1 July 2016. To meet the field corn production season, the period of accepting verification for field corn moisture meters shall be during February to March and July to August each year.
 The applicable targets, applicable legislations, and usage of the legal measuring instruments for official inspection or law enforcement in subparagraph 6 to 9, Paragraph 1 are shown in Annex .
+The definitions of petroleum products used in item 4, subparagraph 4, Paragraph 1 shall be referred to subparagraph 4, Paragraph 1, Article 2 of Petroleum Administration Act and include gasoline, diesel oil, kerosene, naphtha, jet fuel, and fuel oil.
 ]]></條文內容>
   </條文>
   <條文>
@@ -118,7 +120,8 @@ The application form as referred to in the preceding Paragraph shall include the
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[Verification shall be conduced at the site of the verification agency (institution). Under special circumstances, an application may be filed to require that the verification agency (institution) dispatch its personnel to conduct verification at the storage place of the legal measuring instruments subject to verification.
-Where the verification cannot be conducted at the site of the verification agency (institution), the verification agency (institution) shall dispatch its personnel to carry the verification apparatus to the storage place of the legal measuring instruments subject to verification and conduct verification. Where necessary, the verification agency (institution) may seek the assistance from the applicant in carrying the verification apparatus.
+Where the verification cannot be conducted at the site of the verification agency (institution), the verification agency (institution) shall dispatch its personnel to the storage place of the legal measuring instruments subject to verification and conduct verification by using its own verification apparatus or the other ones which were evaluated by the verification agency (institution)in advance.
+In case of dispatching personnel of the verification agency (institution) to the storage place and conducting verification by using its own verification apparatus , the verification agency (institution) may seek the assistance from the applicant in carrying the verification apparatus.
 ]]></條文內容>
   </條文>
   <條文>
@@ -159,8 +162,8 @@ Where necessary, the measuring instruments may be disassembled to conduct the ve
   </條文>
   <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[Legal measuring instruments that have passed verification shall bear a verification mark “ ,”the ratio of the lines to the spaces being 1:2.
-The mark “ ”shall be affixed to the measuring instruments in any irremovable methods of the following manners or in their combination:
+    <條文內容><![CDATA[Legal measuring instruments that have passed verification shall bear a verification mark “*,”the ratio of the lines to the spaces being 1:2.
+The mark “*”shall be affixed to the measuring instruments in any irremovable methods of the following manners or in their combination:
 1. Engraving, stamping, spraying, branding or adhering.
 2. Seal.
 A report of verification result of legal measuring instruments shall be issued by verification agency (institution) after verification.
@@ -197,12 +200,12 @@ Where the suspension of use referred to in the preceding Paragraph is not report
   <條文>
     <條號>Article 20</條號>
     <條文內容><![CDATA[The legal measuring instruments that have passed inspection shall bear an inspection compliance mark on their front bodies respectively excluding taximeters which will be specified in other methods by the verification agency (institution).
-The pattern of the inspection compliance mark referred to in the preceding Paragraph shall be “ ,” the ratio of the lines to the spaces being 1:1.
+The pattern of the inspection compliance mark referred to in the preceding Paragraph shall be “,” the ratio of the lines to the spaces being 1:1.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[Under any of the following circumstances, the verification agency (institution) shall remove the verification and inspection compliance marks from the verified legal measuring instruments:
+    <條文內容><![CDATA[Under any of the following circumstances, the verification agency (institution) shall remove the verification and inspection compliance marks (including the corresponding seals) from the verified legal measuring instruments, but in case of multi-instruments sharing a seal and at least one of them passed inspection or verification the seal shall be kept:
 1. Where they do not pass verification during the new application; or
 2. Where they do not pass inspection.
 The measuring instruments that do not pass inspection as referred in the preceding Paragraph shall be attached with markings of stopping use.
@@ -210,14 +213,12 @@ The measuring instruments that do not pass inspection as referred in the precedi
   </條文>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[The dedicated weights and measures authority shall prescribe the formats of the verification and inspection compliance marks and verification certificates, and prepared them for use.
+    <條文內容><![CDATA[The dedicated weights and measures authority shall prescribe the formats of the verification and inspection compliance marks and verification certificates for use.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
     <條文內容><![CDATA[These Regulations shall come into force upon the date of promulgation unless another date of enforcement is prescribed.
-
-Note: In case of any discrepancy between this translation and the Chinese version, the Chinese version shall govern
 ]]></條文內容>
   </條文>
 </法規內容>

@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Establishment of Internal Control Systems by Service Enterprises in Securities and Futures Markets</英文法規名稱>
 <中文法規名稱>證券暨期貨市場各服務事業建立內部控制制度處理準則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400048</法規網址>
-<最新英文異動日期>20170930</最新英文異動日期>
+<最新英文異動日期>20180530</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -15,7 +15,7 @@
 6. Articles 7, 8, 14, and 39 amended and issued, Article 9 deleted, and Article 36-1 added per 21 December 2011 Order Financial-Supervisory-Securities-Auditing-1000062344 of the Financial Supervisory Commission, Executive Yuan; for enforcement 3 months after the date of issuance, except for Article 8, paragraph 1, subparagraph 14 and Article 14, paragraph 3, which shall be enforced from 30 December 2011
 7. Articles 2, 4, 6 to 8, 12 to 15, 17, 21 to 24, 33, and 39 and title of Chapter III and Chapter III, Section 2 amended and issued per 22 September 2014 Order Financial-Supervisory-Securities-Auditing-1030036318 of the Financial Supervisory Commission; for enforcement from 1 January 2015
 8. Articles 5, 7, 8, 14, 16, and 26 to 28 amended and issued per 30 September 2017 Order No. Financial-Supervisory-Securities-Auditing-1060035864 of the Financial Supervisory Commission; for enforcement from 1 January 2015
-]]></沿革內容>
+9. Articles 8, 28, and 39 amended and issued and Articles 28-1 and 36-2 added per 30 May 2018 Order No. Financial-Supervisory-Securities-Auditing-1070319112 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 28-1, which is for enforcement from 6 months after the date of issuance]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -66,7 +66,7 @@ The term "subsidiaries" referred to in the preceding paragraph are those as dete
     <條號>Article 7</條號>
     <條文內容><![CDATA[A service enterprise's internal control system shall consist of the following components:
 1.Control environment: The control environment is the basis of the design and implementation of the internal control system across the service enterprise. The control environment encompasses the integrity and ethical values of the enterprise, governance oversight responsibility of the board of directors and supervisors, organizational structure, assignment of authority and responsibility, human resources policy, and performance measures and reward and discipline. The board of directors and management shall prescribe internal standards of conduct, including the adoption of codes of conduct for directors and employees.
-2.Risk assessment: A precondition to risk assessment is the establishment of objectives, linked at different levels of the service enterprise, and with the suitability of the objects for the enterprise taken into consideration. Management shall consider the impact of possible changes in the external environment and within its own business model that may render internal control ineffective. The risk assessment results can assist the enterprise in designing, correcting, and implementing necessary controls in a timely manner.
+2.Risk assessment: A precondition to risk assessment is the establishment of objectives, linked at different levels of the service enterprise, and with the suitability of the objects for the enterprise taken into consideration. Management shall consider the impact of possible changes in the external environment and within its own business model that may render internal control ineffective, and possible fraud scenarios. The risk assessment results can assist the enterprise in designing, correcting, and implementing necessary controls in a timely manner.
 3.Control activities: Control activities are the actions of carrying out policies and procedures taken by the service enterprise on the basis of risk assessment results to limit relevant risks to a sustainable level. Control activities shall be performed at all levels of the enterprise, at various stages within business processes, and over the technology environment, and shall include supervision and management over subsidiaries.
 4.Information and communication: Information and communication means the relevant and quality information that the service enterprise obtains, generates, or uses from both internal and external sources to support the functioning of other components of internal control, and the capability of effective communication between the enterprise and external parties. The Internal control system must have mechanisms to generate information necessary for planning, implementation, and monitoring and to provide information to those who need it in a timely manner.
 5.Monitoring activities: Monitoring activities means ongoing evaluations, separate evaluations, or some combination of the two used by the service enterprise to ascertain whether each of the components of internal control is present and functioning. Ongoing evaluations means routine evaluations built into the course of operations at different levels of the enterprise. Separate evaluations are evaluations conducted by different personnel such as internal auditors, supervisors, or the board of directors. Findings of deficiencies of the internal control system shall be communicated to the management of appropriate levels, the board of directors, and supervisors, and improvements shall be made in a timely manner.
@@ -93,13 +93,14 @@ The code of conduct for directors under paragraph 1, subparagraph 1 shall, at th
 14.Management of protection of financial consumers, provided this does not apply to the enterprises that are excluded under Article 3, paragraph 2 of the Financial Consumer Protection Act.
 15.Management of personal information protection.
 16.Handling of material events (e.g. a material violation, or a likelihood of suffering material loss).
+17.Whistleblower system.
 In addition to controls over the activities under the preceding paragraph, a service enterprise that is a public company, or that is designated by the competent authority, shall also include in its internal control system the management of procedure for board of directors meetings and the management of shareholder services.
 The internal control system of a service enterprise that has established an audit committee pursuant to the provisions of the Securities and Exchange Act shall include the management of audit committee meeting operations.
 The internal control system of an enterprise whose stocks are already listed or traded over-the-counter at securities firms shall include controls over the following operations:
 1.Management of the operations of the remuneration committee.
 2.Management of the prevention of insider trading.
 If a service enterprise is a financial institution as defined in the Money Laundering Control Act, its internal control system shall include mechanisms for preventing money laundering and countering terrorism financing, and shall include management of compliance with applicable laws and regulations, including mechanisms for managing the identification and measurement of, and monitoring for, money laundering and terrorism financing.
-A service enterprise under the preceding paragraph which has established a foreign branch office (or subsidiary) shall formulate an overall group plan for preventing money laundering and countering terrorism financing, including policies and procedures for information sharing within the group for the purpose of preventing money laundering and countering terrorism financing that are in accordance with the laws and regulations of the place where the branch office (or subsidiary) is located.
+A service enterprise under the preceding paragraph which has established a domestic or foreign branch office (or subsidiary) shall formulate an overall group plan for preventing money laundering and countering terrorism financing, including policies and procedures for information sharing within the group for the purpose of preventing money laundering and countering terrorism financing that are in accordance with the laws and regulations of the place where the branch office (or subsidiary) is located.
 ]]></條文內容>
   </條文>
   <條文>
@@ -277,13 +278,33 @@ Except as otherwise required by provisions governing securities or futures enter
 2.Ensure that procedural and managerial bylaws are updated in a timely manner in response to applicable laws and regulations, so that operations are in compliance with all laws and regulations.
 3.Formulate the content of and procedures for assessing compliance with laws and regulations and monitor the periodic self-assessment of the implementation thereof by each unit.
 4.Administer adequate and proper legal training on laws and regulations to personnel of each unit.
-5.Monitor the compliance by foreign branch offices with the laws and regulations of the host country in which they are located.
+5.Monitor the compliance by domestic and foreign branch offices with the laws and regulations of the country in which they are located.
 6.Carry out such other activities as may be required by the competent authority.
 If a service enterprise has established a foreign branch office, the unit responsible for overseeing legal compliance matters shall supervise the foreign branch office in handling the following matters:
-1.Matters to ensure compliance with local laws and regulations, including collecting information on local financial laws and regulations, establishing a database of local laws and regulations, implementing self-assessment of compliance with laws and regulations faithfully, ensuring suitability of the chief compliance officer and the adequacy of resources (including personnel, equipment, and training) for compliance with laws and regulations.
+1.Matters to ensure compliance with local laws and regulations, including collecting information on local financial laws and regulations, implementing self-assessment of compliance with laws and regulations faithfully, ensuring suitability of the chief compliance officer and the adequacy of resources (including personnel, equipment, and training) for compliance with laws and regulations.
 2.Establishment of a mechanism for self-assessment and monitoring of legal compliance risks. If the scale of business is large, or the complexity or the degree of risk is high, a local external independent expert shall be engaged to verify the effectiveness of the mechanism for self-assessment and monitoring of legal compliance risks.
 Self-assessment of compliance with laws and regulations shall be performed no less frequently than annually, with the results delivered to the compliance unit for future reference. The head of a unit shall designate a person responsible for performing self-assessment within that unit.
 Working papers and materials in connection with the self-assessment under the preceding paragraph shall be retained for no less than 5 years.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 28-1</條號>
+    <條文內容><![CDATA[To promote sound corporate operations, a service enterprise shall set up a whistleblower system, and designate a unit with independent exercise of powers, to be responsible for the processing and investigation of whistleblower reports.
+A service enterprise shall provide the following protections for whistleblowers:
+1.The identity information of the whistleblower shall be kept confidential, and no information may be disclosed that could be used to identify the whistleblower.
+2.The whistleblower may not be terminated, dismissed, demoted/relocated, or receive a reduction in pay, or impairment of any rightful entitlement under law or regulation, contract, or custom, or other unfavorable disposition due to the reported case.
+Any person with a conflict of interest shall recuse himself or herself from the processing and investigation of the reported case.
+The whistleblower system under paragraph 1 shall at least include the following matters, and be resolved by the board of directors:
+1.The express provision that anyone who discovers any potential crime, misconduct, or legal violation may file a whistleblower report.
+2.The types of reports that will be accepted for processing.
+3.The establishment and making public of the channels for reporting.
+4.The procedures for investigation and collaborative support, rules of recusal, and standard operating procedures for follow-up and disposition of cases.
+5.Whistleblower protection measures.
+6.The documentation and preservation of records covering the acceptance of reported cases, the investigation process, investigation results, and the preparation of relevant documents.
+7.That the whistleblower shall be given appropriate notice in writing or by other means with respect to the progress of the reported case.
+If the alleged perpetrator is a director, supervisor, or management personnel at a level equivalent to or higher than vice president, the investigation report shall be submitted to and reviewed by the supervisors or the audit committee.
+The service enterprise shall take the initiative to file a report or an information with the relevant authorities if any material contingency or legal violation is discovered in the investigation.
+The service enterprise shall hold regular awareness programs and education and training in the whistleblower system for its personnel.
 ]]></條文內容>
   </條文>
   <條文>
@@ -356,6 +377,14 @@ When a material deficiency or malpractice arises within the management or operat
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 36-2</條號>
+    <條文內容><![CDATA[A service enterprise shall allocate adequate human resources and equipment for the planning and monitoring of the information security system and the implementation of information security management operations. The competent authority may, after having considered the size, business nature, and organizational characteristics of the services enterprise, order service enterprises to establish a dedicated information security (i.e., cybersecurity) unit, chief officer, and other personnel.
+Each year, the service enterprise's highest officer responsible for information security and its chairman, president, and chief internal auditor shall jointly sign and issue a written statement on the overall implementation of information security in the preceding fiscal year, and submit it to the board of directors within 3 months after the end of the fiscal year.
+The service enterprise's information security officer and personnel shall attend at least 15 hours of information security professional courses or functional training every year. All other personnel who use the information system shall attend at least 3 hours of information security awareness courses every year.
+The Securities Association, National Futures Association, and Securities Investment Trust and Consulting Association of the R.O.C. shall adopt and regularly review self-disciplinary regulations relating to information security.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 37</條號>
     <條文內容><![CDATA[The competent authority shall separately prescribe the formats described in these Regulations.
 ]]></條文內容>
@@ -370,6 +399,7 @@ When a material deficiency or malpractice arises within the management or operat
     <條文內容><![CDATA[These Regulations shall enter into force from the date of issuance.
 The 21 December 2011 amendments shall enter into force 3 months after the date of issuance, except Article 8, paragraph 1, subparagraph 14 and Article 14, paragraph 3, which shall enter into force from 30 December 2011.
 The provisions amended and issued on 22 September 2014 shall enter into force from 1 January 2015.
+Article 28-1 introduced in the 30 May 2018 amendments shall enter into force 6 months after the date of issuance.
 ]]></條文內容>
   </條文>
 </法規內容>

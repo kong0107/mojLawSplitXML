@@ -3,7 +3,7 @@
 <英文法規名稱>Agro-pesticides Management Act</英文法規名稱>
 <中文法規名稱>農藥管理法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=M0140012</法規網址>
-<最新英文異動日期>20151209</最新英文異動日期>
+<最新英文異動日期>20180523</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -15,10 +15,11 @@
 6.Amendment to Articles 13, 48 and addition of Articles 11-1, 11-2, 12-1, 13-1, 14-1, 21-1, 22-1, 40-1 promulgated on December 18, 2002.
 7.Amendment to all Articles promulgated on July 18, 2007.
 8.Amendment to Articles 7, 16, 20, 23, 24, 26, 29, 32, 35, 47, 48, 53 and addition of Articles 49-1, 50-1, 53-1 promulgated on December 24, 2014.
-9.Amendment to Articles 45 and 46 promulgated on December 9, 2015.]]></沿革內容>
+9.Amendment to Articles 45 and 46 promulgated on December 9, 2015.
+10.Amendment to Articles 10 and 59 promulgated on May 23, 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter I.　 General Provisions</編章節>
+  <編章節>   Chapter I. General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[This Act is enacted to protect agricultural production and ecological environment, prevent and eliminate pests, prevent hazards from agro-pesticides, strengthen agro-pesticide administration, promote the development of agro-pesticide industry, and enhance the safety of agricultural products.
@@ -45,7 +46,7 @@
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[The matters governed by municipal or county/city competent authority are as follows:
-1. Planning and implementation of implementation schemes and plans regarding agro-pesticide administration in the area under its jurisdiction.
+1. Planning and implementation of implementation schemes and plans  regarding agro-pesticide administration in the area under itsjurisdiction.
 2. Implementation of agro-pesticide administration laws and regulations,as well as enactment (formulation), interpretation and implementation of autonomous regulations on agro-pesticide administration in the area under its jurisdiction.
 3. Research, development and advocacy of agro-pesticide administration in the area under its jurisdiction.
 4. Data statistics and report of agro-pesticide administration in the area under its jurisdiction.
@@ -92,7 +93,7 @@
 3. The quality other than the content of the active ingredients referred to in the first paragraph does not conform to the standard specifications prescribed.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter II.　 Registration</編章節>
+  <編章節>   Chapter II. Registration</編章節>
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[Agro-pesticides shall not be manufactured, processed, or imported without having passed the examination of, approval for registration with, and obtained a permit from the central competent authority, unless otherwise prescribed in this Act or in case that the agro-pesticides are promulgated by the central competent authority as non-controlled agro-pesticides.
@@ -100,12 +101,18 @@
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[Before the agro-pesticide manufacturers and dealers apply for approval of registration for formulated agro-pesticides, the agro-pesticides shall pass the tests according to the standard specifications for agro-pesticides prescribed by the central competent authority, and pass the examination of the data of physicochemical property test, toxicity test and field test. However, if one of the following conditions applies, then all or a part of the data of field test and toxicity test may be exempted from examination.
-1. If the formulated product has previously obtained approval for registration eight years before.
-2. If the formulated product has previously obtained approval for registration and received a permit, and the permit holder agrees authorization for the use of test data.
-Technical grade agro-pesticides shall be exempted from field test.
-The field test shall be exempted if a registered formulated product had applied for the permit of a comparatively safer new formulation and had been approved by the central competent authority
-The directions for the standard specifications, physicochemical property test, toxicity test and field test under paragraph one shall be prescribed by the central competent authority.
+    <條文內容><![CDATA[When the agro-pesticide manufacturers and dealers apply for approval of registration for formulated agro-pesticides under the preceding Article, they shall fill in the application form, attach the certification documents that the agro-pesticides passed the tests of standard specifications prescribed, submit the data of physicochemical and toxicological test and field test and other relevant documents.
+In the following period, the data in the preceding paragraph shall not be cited by other applicants without receiving the approval of the data holder for use of the test data.
+1. For a product that has a new active ingredient which has previously obtained approval for registration, a period of ten years starting from the date of approval for registration.
+2. For a product that has a new or changed content or formulation that has previously obtained approval for registration, a period of seven years starting from the date of approval for registration.
+3. For a product that has new scope of application that has previously obtained approval for registration, a period of four years starting from the date of approval for registration.
+When the agro-pesticide manufacturers and dealers apply for approval of registration for formulated agro-pesticides, if one of the following conditions applies, then all or a portion of the test data in paragraph one may be exempted from submission.
+1. After the expiration of the period in the preceding paragraph, when applying for approval of registration with the same active ingredient, formulation, content or the scope of application of the registered agro-pesticide, all or a portion of the data of the field test and toxicological test may be exempted from submission.
+2. Under the permission of data holder for the use of test data during the period in the preceding paragraph, when applying for approval of registration with the same active ingredient, formulation, content, or the scope of application of the registered agro-pesticide, all data of the field test and toxicological test may be exempted from submission.
+3. When applying for approval of registration for technical grade agro-pesticides, the data of the field test may be exempted from submission.
+4. The field test may be exempted if a registered formulated product had previously applied for the permit of a comparatively safer new formulation and was approved by the central competent authority.
+5. All or a portion of the data of the toxicological test may be exempted when applying for approval of registration for formulated product considered to be safe or has a low risk of application and was approved by the central competent authority.
+The directions for the standard specifications, physicochemical property test, toxicological test and field test under paragraph one shall be prescribed by the central competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -167,7 +174,7 @@ For the agro-pesticides the permit of which is abolished or the use and scope of
     <條文內容><![CDATA[If the permit of an agro-pesticide is abolished or revoked under this Act, the central competent authority may order the manufacturers or dealers to call back or destroy the said agro-pesticide within a specified time limit.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter III.　 Manufacturing, Import and Export</編章節>
+  <編章節>   Chapter III. Manufacturing, Import and Export</編章節>
   <條文>
     <條號>Article 20</條號>
     <條文內容><![CDATA[An agro-pesticide manufacturer shall establish an agro-pesticide factory. In addition to the factory registration to be obtained in accordance with the applicable laws and regulations, the factory established shall satisfy the agro-pesticides factory establishment criteria.
@@ -197,7 +204,7 @@ The agro-pesticide label shall be changed after the first and preceding paragrap
     <條文內容><![CDATA[With the approval of the central competent authority, the following agro-pesticides may be exempted from the restrictions prescribed in Article 9:
 1. Those dedicated for experimental research, educational demonstration or emergency prevention.
 2. Those imported for manufacturing, processing, repackaging and other related procedures dedicated for exporting.
-3. Those manufactured or processed exclusively for exporting. 
+3. Those manufactured or processed exclusively for exporting.
 The agro-pesticides listed in the preceding paragraph must not be sold in Taiwan or used for other purposes. However, this shall not apply if such ago-pesticides are sold in Taiwan for emergency prevention.
 The regulations governing the application for, examination and other relevant matters of the agro-pesticides listed in the first paragraph shall be prescribed by the central competent authority.
 ]]></條文內容>
@@ -208,7 +215,7 @@ The regulations governing the application for, examination and other relevant ma
 The technical grade agro-pesticides imported with approval shall be self-use only and must not be transferred, unless otherwise approved by the central competent authority.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter IV.　 Sale and Use</編章節>
+  <編章節>   Chapter IV. Sale and Use</編章節>
   <條文>
     <條號>Article 26</條號>
     <條文內容><![CDATA[An agro-pesticide dealer shall designate full-time managers and before proceeding to do business, first apply to the local municipality or county/city competent authority for issuing an agro-pesticide dealer's license.
@@ -243,7 +250,7 @@ The licenses, issued prior to enforcement of the amendment of this Act, December
 5. Separate agro-pesticides from others if the dealer also sells other goods.
 6. Prepare books of account or adopt other manner promulgated by the central competent authority to record the name, address, age and contact of the buyers and the quantity they buy, and keep such books for three years.
 7. Do not sell to children and juveniles under 18 years.
-8. Ask the buyer ’ s purpose for buying such agro-pesticide; do not sell if the use or its scope is other than approved and registered.
+8. Ask the buyer’s purpose for buying such agro-pesticide; do not sell if the use or its scope is other than approved and registered.
 9. Provide certificate of sale recording the item, quantity, application scope, buyer and seller to the buyer.
 10. Recycle pesticide waste containers and deliver to clean and manage by environmental protection related laws.
 ]]></條文內容>
@@ -270,7 +277,7 @@ The competent authority may appoint an agro-pesticide dealer registered accordin
   <條文>
     <條號>Article 33</條號>
     <條文內容><![CDATA[The users of agro-pesticide shall use the agro-pesticides approved by the central competent authority.
-Before appealing on the market, if the crop or its product ’ s pesticide residue exceed the standard stipulated by health competent authority, the crop or its product shall appeal on the market when it has been re-examined or re-inspected and is determined to be up to the standard.
+Before appealing on the market, if the crop or its product’s pesticide residue exceed the standard stipulated by health competent authority, the crop or its product shall appeal on the market when it has been re-examined or re-inspected and is determined to be up to the standard.
 For the safety of human body, environmental protection and ecological conservation, the central competent authority shall establish regulations governing the use of agro-pesticides, selective inspection of agro-pesticide residue in agricultural products and other relevant matters.
 ]]></條文內容>
   </條文>
@@ -280,7 +287,7 @@ For the safety of human body, environmental protection and ecological conservati
 The service provider under the preceding paragraph shall designate technicians qualified in the training on the use of agricultural agro-pesticides to spray agro-pesticides for others; the regulations governing the training shall be prescribed by the central competent authority.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter V.　 Supervision, Inspection, Crackdown and Encouragement</編章節>
+  <編章節>   Chapter V. Supervision, Inspection, Crackdown and Encouragement</編章節>
   <條文>
     <條號>Article 35</條號>
     <條文內容><![CDATA[An agro-pesticide manufacturer or dealer shall maintain books of account to record the quantity and trading counterparts of agro-pesticides produced, imported, purchased and sold and shall make them available to the competent authority for inspection.
@@ -337,7 +344,7 @@ Samples taken according to the preceding paragraph shall be examined and dispose
 The regulations governing the appraisal and encouragement under the preceding paragraph shall be prescribed by the central competent authority.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter VI.　 Penal Provisions</編章節>
+  <編章節>   Chapter VI. Penal Provisions</編章節>
   <條文>
     <條號>Article 45</條號>
     <條文內容><![CDATA[Whoever is guilty of manufacturing, processing, repackaging or importing prohibited agro-pesticides shall be punished by way of imprisonment for no less than one year and no more than seven years, and a fine of no less than NT$1,500,000 and no more than NT$7,500,000 shall be imposed.
@@ -410,7 +417,7 @@ Upon the occurrence of the situation described in Subparagraph 4 or 5 of the pre
 2. Violates the Paragraph 2 of Article 25, the Suparagraphs 5 to 9 of Article 29, Paragraph 1 of Article 30, Paragraphs 1 and 2 of Article 33, or Articles 34 or 35;
 3. Sells out any agro-pesticides designated for experimental research or educational demonstration under Subparagraph 1, Paragraph 1 of Article 24 in Taiwan;
 4. Uses any agro-pesticides designated for experimental research, educational demonstration or emergency prevention under Subparagraph 1, Paragraph 1 of Article 24 for other purposes;
-5. Violates the relevant provisions on the use of agro-pesticides in the regulations referred to in Paragraph 3 of Article 33; however, if applier violates the relevant provisions on the use and scope but fulfils the residues standards of health competent authority, competent authority shall mandate the applier to attend agro-pesticides safety use lesson. The fine shall be imposed when the applier violates again or refuse to attend the lesson; or
+5. Violates the relevant provisions on the use of agro-pesticides in the regulations referred to in Paragraph 3 of Article 33; however, if applier violates the relevant provisions on the use and scope but fulfils the residues standards of health competent authority, competent authority shall mandate the applier to attend agro-pesticides safety use lesson. The fine shall be imposed when the applier violates again or refuse to attend the lesson; or 
 6. Violates the provisions on the transportation and storage of agro-pesticides in the regulations referred to in Article 39.
 The promotion period is one year after enforcement of the amendment of this Act, December nine, 2014. The violator shall not be imposed with the fine stipulated under Subparagraph 9 of previous paragraph during the period, and the competent authority shall strengthen promotion.
 Violates the agro-pesticides residue standard stipulated under Paragraph 3 of Article 33 shall not be imposed with the fine, if it has been regarded by the competent authority as polluted by neighbor farms and been re-examined up to the standard.
@@ -447,7 +454,7 @@ The regulations governing the disposal of goods confiscated under the preceding 
     <條文內容><![CDATA[The fines prescribed herein shall be imposed by the municipal or county (city) competent authority.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter VII.　Supplementary Provisions</編章節>
+  <編章節>   Chapter VII. Supplementary Provisions</編章節>
   <條文>
     <條號>Article 58</條號>
     <條文內容><![CDATA[The Enforcement Regulations of this Act shall be established by the central competent authority.
@@ -455,7 +462,7 @@ The regulations governing the disposal of goods confiscated under the preceding 
   </條文>
   <條文>
     <條號>Article 59</條號>
-    <條文內容><![CDATA[This Act shall become effective as of the date of its being promulgated.
+    <條文內容><![CDATA[This Act shall become effective as of the date of its promulgation. However, the date of entering into force of the articles amended on May 8, 2018 shall be decided by the Executive Yuan.
 ]]></條文內容>
   </條文>
 </法規內容>

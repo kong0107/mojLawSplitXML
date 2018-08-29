@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations for Administration of Mobile Broadband Businesses</英文法規名稱>
 <中文法規名稱>行動寬頻業務管理規則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0060091</法規網址>
-<最新英文異動日期>20180206</最新英文異動日期>
+<最新英文異動日期>20180410</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -20,7 +20,8 @@
 3.The amendment of Article 77 by NCC on Jul 12, 2016. Ref: Tung-Chuan-Ping-Tai Tze No. 10541021810
 4.The amendment of Article 2,43,55,89 and the addition of Article 55-1, 55-2,83-1 to 83-5 promulgated by NCC on May 22, 2017, Ref. Order Tung-Chuan-Chi-Chu Tze No. 10663009550
 5.The amendment of Article 7, 18, 22, 26, 30, 31, 33, 34, 40, 42, 45, 51, 72, 80, 82, the addition of Article 21-1, 21-2, 21-3, 33-1, 33-2, 33-3, 33-4, 33-5 and the deletion of Article 23, 32 promulgated by NCC on Jul 11, 2017. Ref: Tung-Chuan-Zong-Guei Tze No. 10640017031
-6.The amendment of Article 85-1 by NCC on February 6, 2018. Ref. Order Tung-Chuan-Tz-Ji-Yuan Tze No. 10743002250.]]></沿革內容>
+6.The amendment of Article 85-1 by NCC on February 6, 2018. Ref. Order Tung-Chuan-Tz-Ji-Yuan Tze No. 10743002250.
+7.The amendment of Article 79-1 by NCC on April 10, 2018. Ref: Tung-Chuan-Ping-Tai Tze No. 10741011260]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -79,11 +80,11 @@ The rule shall apply to the condition that any deviation from the content of the
     <條號>Article 7</條號>
     <條文內容><![CDATA[Frequency segments and frequencies that may be used by concession licenses that were open for the application of mobile broadband business over the years are as follows:
 1. Available from 2013:
-(1) The 700 MHz frequency segment: Uplink 703 MHz to 748 MHz; downlink  758 MHz to 803 MHz.
-(2) The 900 MHz frequency segment: Uplink 885 MHz to 915 MHz; downlink  930 MHz to 960 MHz.
-(3) The 1800 MHz frequency segment: Uplink 1710 MHz to 1770 MHz ;  downlink 1805 MHz to 1865 MHz.
+(1) The 700 MHz frequency segment: Uplink 703 MHz to 748 MHz; downlink 758 MHz to 803 MHz.
+(2) The 900 MHz frequency segment: Uplink 885 MHz to 915 MHz; downlink 930 MHz to 960 MHz.
+(3) The 1800 MHz frequency segment: Uplink 1710 MHz to 1770 MHz ; downlink 1805 MHz to 1865 MHz.
 2. Available from 2015:
-(1) 2500 MHz and 2600 MHz paired frequency segment:  2500 MHz to 2570 MHz and 2620 MHz to 2690 MHz.
+(1) 2500 MHz and 2600 MHz paired frequency segment: 2500 MHz to 2570 MHz and 2620 MHz to 2690 MHz.
 (2) 2500 MHz and 2600 MHz unpaired frequency segment: 2570 MHz to 2620 MHz
 3. Available from 2017:
 (1) 1800 MHz frequency band: Uplink 1770 MHz to 1785 MHz; downlink 1865 MHz to 1880 MHz.
@@ -849,6 +850,18 @@ Of the foresaid stipulation, the operator shall specify it in its business rules
     <條文內容><![CDATA[The operator, when planning to temporarily suspend or terminate its service as a whole or in part, shall file a request with the competent authority for approval three months prior to the scheduled temporarily suspension or termination date, and shall also notify the subscriber one month prior to the scheduled temporarily suspension or termination date.
 In the event where the operator should be terminated of its entire operation as approved by the competent authority, the competent authority shall abolish the operator’s concession permit.
 At the expiry of the foresaid temporarily suspension period or when the business has been terminated, the competent authority may adopt adequate disposition where deemed necessary.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 79-1</條號>
+    <條文內容><![CDATA[The operator, when terminating its whole service due to the expiry of the concession license, shall submit a business termination plan to the competent authority for its reference three months prior to the expiry of the concession license, and shall also notify its subscribers one month prior to the expiry of the concession license.
+The foresaid business termination plan shall disclose the following:
+1. The number of users when submitting the plan and the expected decrease of the number of users prior to the expiry of the concession license.
+2. Amount of refunds of deposits and overpayments.
+3. Plan for the announcement of business termination.
+4. Specific measures to notify subscribers.
+5. Customer service response plan.
+6. Other consumer protection measures.
 ]]></條文內容>
   </條文>
   <條文>

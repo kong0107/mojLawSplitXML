@@ -3,7 +3,7 @@
 <英文法規名稱>Enforcement Rules of Value-added and Non-value-added Business Tax Act</英文法規名稱>
 <中文法規名稱>加值型及非加值型營業稅法施行細則</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340081</法規網址>
-<最新英文異動日期>20170501</最新英文異動日期>
+<最新英文異動日期>20180625</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -19,10 +19,11 @@
 10.Articles 38 and 47 amended by the Order of Tai (100) Tsai-Tze No. 1010007170 issued by the Executive Yuan on 6 March 2012.
 11.Articles 16-4,28,29,38 and 47 amended by the Order of Tai (103) Tsai-Tze No. 1030018242 issued by the Executive Yuan on 2 May 2014.
 12.Article 38 amended by the Order of Tai (104) Tsai-Tze No. 1040064965 issued by the Executive Yuan on 23 December 2015 with entry into force on the same day.
-13.Article 4, 6 and 34 amended; Article 4-1, 11-1, 32-2 and 38-3 added; Article 28-1 deleted by the Order of Tai (106) Tsai-Tze No. 1060010181 issued by the Executive Yuan on 1 May 2017 with entry into force on the same day.]]></沿革內容>
+13.Article 4, 6 and 34 amended; Article 4-1, 11-1, 32-2 and 38-3 added; Article 28-1 deleted by the Order of Tai (106) Tsai-Tze No. 1060010181 issued by the Executive Yuan on 1 May 2017 with entry into force on the same day.
+14.Article 38 amended by the Order of Tai (107) Tsai-Tze No. 1070021609 issued by the Executive Yuan on 25 june 2018 with entry into force on the same day.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter  1  General Provisions</編章節>
+  <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[These Enforcement Rules are adopted pursuant to Article 59 of the Value-Added and Non-Value-Added Business Tax Act ("the Act").
@@ -102,7 +103,7 @@ The term "taxable zone" as used in Subparagraph 8 of Article 7 of the Act means 
 4. Other businesses approved by the Ministry of Finance.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter  2  Reductions and Exemptions</編章節>
+  <編章節>   Chapter 2 Reductions and Exemptions</編章節>
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[A business entity applying for a zero business tax rate on goods or services pursuant to Article 7 of the Act shall submit the following documentary evidence:
@@ -193,7 +194,7 @@ The "agricultural, forestry, fishery, and livestock products and by-products har
     <條文內容><![CDATA[Where a wholesale dealer in an agricultural products wholesale market purchases agricultural products from the said wholesale market and sells such products in the same wholesale market or another wholesale market, the sales amount thereof shall be eligible for application of 0.1% business tax rate prescribed in Paragraph Two, Article 13 of Act.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter  3  Calculation of Tax</編章節>
+  <編章節>   Chapter 3 Calculation of Tax</編章節>
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[When a business entity uses goods or services in a trade for the goods or services of others, the sales amount shall be the higher of the prevailing prices for the goods or services traded-out and traded-in.
@@ -218,13 +219,13 @@ The provisions of the preceding two Paragraphs shall also be applicable to the d
     <條文內容><![CDATA[Where a business entity sells a parcel of land together with building fixed on the land, unless the selling price for the land and that for the building are stated separately, the sales amount for the building shall be calculated based on the ratio of the assessed standard price of the unit of the building (inclusive of business tax) to the total of the government-assessed current value of the land and the assessed standard price of the unit of the building (inclusive of business tax). The formula for calculation is as follows:
 Selling price of the building =
 
-　　　　　　　　　　　　　　Assessed standard price of the unit of 
+　　　　　　　　　　　　　　Assessed standard price of the unit of
 　　　　　　　　　　　　　　the building × (1 + Applicable tax rate)
 Selling price of
 the land and building × ─────────────────────────
-　　　　　　　　　　　　　　Government-assessed current value of 
-　　　　　　　　　　　　　　the land + Assessed standard price of 
-　　　　　　　　　　　　　　the unit of the building × (1 + 
+　　　　　　　　　　　　　　Government-assessed current value of
+　　　　　　　　　　　　　　the land + Assessed standard price of
+　　　　　　　　　　　　　　the unit of the building × (1 +
 　　　　　　　　　　　　　　Applicable tax rate)
 
 Sales amount of the building = Selling price of the building ÷ (1 + Applicable tax rate)
@@ -245,8 +246,8 @@ Sales amount of the building = Selling price of the building ÷ (1 + Applicable 
     <條文內容><![CDATA[With respect to a business entity subject to business tax calculation under Section 1 of Chapter 4 of the Act, the sales amount for security deposits it receives from the leasing out of property shall be calculated on a monthly basis, provided that for any term of lease of less than a full month, the sales amount need not be calculated. The formula for calculation is as follows:
 Sales amount＝
 
-　　　　　　　　　　　　Fixed interest rate for a one-year postal time 
-　　　　　　　　　　　　deposit as announced on 1 January of the lease 
+　　　　　　　　　　　　Fixed interest rate for a one-year postal time
+　　　　　　　　　　　　deposit as announced on 1 January of the lease
 　　　　　　　　　　　　year ÷ 12
 Security deposit × ─────────────────────────────
 　　　　　　　　　　　　　　　　　1 ＋Applicable tax rate
@@ -343,7 +344,7 @@ Where a business entity fails to report its business tax payable in accordance w
     <條文內容><![CDATA[Inventory losses or casualty losses on goods, raw materials and supplies, work-in-process, semi-finished products and finished goods shall be allowed if such losses have been reported to and approved by the competent tax authority.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter  4  Assessment and Collection Procedures</編章節>
+  <編章節>   Chapter 4 Assessment and Collection Procedures</編章節>
   <條文>
     <條號>Article 36</條號>
     <條文內容><![CDATA[A business entity, which computes its business tax based on the provisions of Section I of Chapter IV of the Act and has not yet commenced its operations, may file application with the tax authority in charge for issuance of an identification number in order to obtain the documentary evidence conforming to Article 33 of the Act when it makes purchases of goods or service.
@@ -365,7 +366,7 @@ Where a business entity fails to report its business tax payable in accordance w
 6. Documentary evidence as prescribed in Article 14 of these Rules.
 7. “Statement of Input Vouchers of a Business Entity Purchasing Used Passenger Cars or Motorcycles”.
 8. Deduction copy of the receipt payable before December 2015 issued by a water company, electricity company, gas company, or other public utility company, stating the purchaser's name, address, and business administration number.
-9. With respect to the share of input tax paid by the business entity for water, electricity, or gas utility expenses it shares with others, a photocopy of the deduction copy of the receipt in the preceding subparagraph and the documentary evidence of the apportioned expense and tax paid by the business entity. With respect to bills payable after January 2016, a photocopy of the uniform invoice and the documentary evidence of the apportioned expense and tax paid by the business entity; With respect to non-physical electronic invoices, the alphabetic letters and numbers of the uniform invoice, or documentary evidence of the apportioned expense and tax paid by the business entity.
+9. With respect to the share of input tax paid by the business entity for water, electricity, or gas utility expenses it shares with others, a photocopy of the deduction copy of the receipt in the preceding subparagraph and the documentary evidence of the apportioned expense and tax paid by the business entity. With respect to bills payable after January 2016, a photocopy of the uniform invoice and the documentary evidence of the apportioned expense and tax paid by the business entity; With respect to cloud invoices, the alphabetic letters and numbers of the uniform invoice, or documentary evidence of the apportioned expense and tax paid by the business entity.
 10. A photocopy of the receipt or stub of the train (coach) ticket, high speed railway ticket, boat ticket, or airplane ticket purchased for an employee's business trip and issued by a transportation enterprise.
 11. With respect to goods auctioned or sold off by Customs and the deduction copy of the “List of Goods Auctioned or Sold” is issued by Customs.
 12. Certification copies of electronic uniform invoices, stating the business administration number of the business entity and the amount of business tax.
@@ -380,7 +381,7 @@ If a business entity falls under any of the following circumstances, it may appl
 A business entity using photocopies of vouchers under Subparagraphs 3 and 10 of Paragraph 1 above as documentary evidence of tax refundable or creditable shall aggregate the input tax on a period-by-period basis. The formula for calculation of input tax is as follows:
 Input tax = Total amount of the vouchers × [Applicable tax rate ÷ (1 + Applicable tax rate)]
 The input tax referred to in the preceding paragraph shall be rounded up to the nearest New Taiwan Dollar.
-When business entities receive non-physical electronic invoices and certificates of sales return, purchase return or allowances on purchased merchandise referred to those sales, they shall report input tax by using an itemized statement of input vouchers in place of the original input tax deduction copies.
+When business entities receive cloud invoices and certificates of sales return, purchase return or allowances on purchased merchandise referred to those sales, they shall report input tax by using an itemized statement of input vouchers in place of the original input tax deduction copies.
 ]]></條文內容>
   </條文>
   <條文>
@@ -459,7 +460,7 @@ The local competent tax authorities shall, after receiving the business tax with
 2. Accounting and other documentary evidence: If photocopy of the original documents is sufficient proof of the tax evasion or omission, the business entity shall sign and chop on the photocopy to the effect that such photocopy is identical to the original document. After verification by the tax authority in charge of the photocopy, the original document may be returned to the business entity.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter  5  Penalty Provisions</編章節>
+  <編章節>   Chapter 5 Penalty Provisions</編章節>
   <條文>
     <條號>Article 49</條號>
     <條文內容><![CDATA[The provisions regarding imposition of surcharges on belated reporting or non-reporting as specified in a article 49 of the Act shall apply to the filing of the declaration of amount of sales or the detailed statement of uniform invoices effective from April 1, 1986, the date on which the amendment of the Act come into force.
@@ -477,13 +478,13 @@ The local competent tax authorities shall, after receiving the business tax with
   </條文>
   <條文>
     <條號>Article 52</條號>
-    <條文內容><![CDATA[The circumstance "the amount of input tax is falsely reported" as set out in Subparagraph 5 of Paragraph 1 of Article 51 of the Act includes any filing for a tax refund or credit under any circumstance in which the Act prohibits deduction of the input tax amount, or in which no purchase has in fact occurred, or in which an input tax voucher has been falsified. 
-The amount of tax evasion for circumstances set out in Subparagraphs 1 to 6 of Paragraph 1 of Article 51 of the Act shall be determined in accordance with the following provisions: 
-1. For circumstances set out in Subparagraphs 1 to 4 and Subparagraph 6, the amount of tax evaded shall be the delinquent tax amount leviable assessed by the competent tax authority based on the data it obtained from investigation, including the input tax that has been reported pursuant to Article 35 of the Act and that is not of any type of input tax provided in Article 19 therein, and the input tax calculated in accordance with Paragraph 2 of Article 15-1 of the Act. 
+    <條文內容><![CDATA[The circumstance "the amount of input tax is falsely reported" as set out in Subparagraph 5 of Paragraph 1 of Article 51 of the Act includes any filing for a tax refund or credit under any circumstance in which the Act prohibits deduction of the input tax amount, or in which no purchase has in fact occurred, or in which an input tax voucher has been falsified.
+The amount of tax evasion for circumstances set out in Subparagraphs 1 to 6 of Paragraph 1 of Article 51 of the Act shall be determined in accordance with the following provisions:
+1. For circumstances set out in Subparagraphs 1 to 4 and Subparagraph 6, the amount of tax evaded shall be the delinquent tax amount leviable assessed by the competent tax authority based on the data it obtained from investigation, including the input tax that has been reported pursuant to Article 35 of the Act and that is not of any type of input tax provided in Article 19 therein, and the input tax calculated in accordance with Paragraph 2 of Article 15-1 of the Act.
 2. For the circumstance set out in Subparagraph 5, the amount of tax evaded shall be the actual amount of tax evaded as a result of false reporting of input tax that has been discovered by the competent tax authority.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter  6  Supplementary Provisions</編章節>
+  <編章節>   Chapter 6 Supplementary Provisions</編章節>
   <條文>
     <條號>Article 53</條號>
     <條文內容><![CDATA[The format of the various documents, forms, books, and receipts required by the Act will be prescribed by the Ministry of Finance.

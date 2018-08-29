@@ -3,7 +3,7 @@
 <英文法規名稱>Insurance Act</英文法規名稱>
 <中文法規名稱>保險法</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0390002</法規網址>
-<最新英文異動日期>20180131</最新英文異動日期>
+<最新英文異動日期>20180523</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -31,7 +31,9 @@
 24.Amendment to Article 167-2、167-3 promulgated per Presidential Order No. Hua-Zong-Yi-Zi-10500055691 dated June 8, 2016.
 25.Amendment to Article 146-5、168 promulgated per Presidential Order No. Hua-Zong-Yi-Zi-10500136231 dated November 9, 2016.
 26.Amendment to Article 163 promulgated per Presidential Order No. Hua-Zong-Yi-Zi-10500161501 dated December 28, 2016.
-27.Amendment to Article 167、168-2～168-4, addition of Article 136-1 promulgated per Presidential Order No. Hua-Zong-Yi-Zi-10700011041 dated January 31, 2018]]></沿革內容>
+27.Amendment to Article 167、168-2～168-4, addition of Article 136-1 promulgated per Presidential Order No. Hua-Zong-Yi-Zi-10700011041 dated January 31, 2018
+28.Additions of Articles 16-1 and 163-1 per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10700042161 dated April 25, 2018
+29.Amended on 23 May 2018 per Presidential Order No. Hua-Zong-Yi-Zi-10700055501]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I. General Principles</編章節>
@@ -128,6 +130,11 @@ Insurance of the person includes life insurance, health insurance, personal inju
 2. Persons upon whom the proposer depends for living expenses or educational expenses.
 3. The proposer's obligors.
 4. Persons who manage the proposer's assets or interests on the proposer's behalf.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 16-1</條號>
+    <條文內容><![CDATA[When a minor or a parent (father or mother) or guardian of a person under guardianship as ordered by the court pursuant to Paragraph 1, Article 14 of the Civil Code becomes the insured in accordance with Paragraph 2, Article 138-2 of the Act, the proposer, the insured and the beneficiary of an insurance contract may, prior to the occurrence of an insured peril, enter a joint agreement that the payout of benefits after an insured peril occurs shall be remitted into a designated trust account and that the proposer waives the right to dispose his or her insurable interest under Article 111 of the Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1229,12 +1236,12 @@ The combined total amount of (i) an insurance enterprise's investment in corpora
 2. Foreign securities.
 3. Establishment of or investment in a foreign insurance company, insurance agent company, insurance broker company, or other insurance-related enterprise approved by the competent authority.
 4. Such other foreign investments as may be approved by the competent authority.
-Insurance enterprises shall apply for the foreign investment value in accordance with the provisions of the preceding paragraph for its funds, which shall be approved by the competent authority based on the operation status of respective insurance enterprises. The value may not exceed 45% of the funds of each of the said insurance enterprises. The following, however, may not be included as part of the overseas investment ceiling: 
+Insurance enterprises shall apply for the foreign investment value in accordance with the provisions of the preceding paragraph for its funds, which shall be approved by the competent authority based on the operation status of respective insurance enterprises. The value may not exceed 45% of the funds of each of the said insurance enterprises. The following, however, may not be included as part of the overseas investment ceiling:
 1. The value of non-investment-linked life insurance products distributed in foreign currencies and not to be included as part of the overseas investment ceiling with prior approval from the competent authority.
 2. The value for foreign currency denominated listed or over-the-counter certificates of domestic stocks or bonds that are invested in by insurance enterprises in accordance with provisions of the Act.
 3. The value of insurance-related enterprise established by or invested in by insurance enterprises and not to be included as part of the foreign investment ceiling with prior approval from the competent authority.
 4. Other foreign investments and their values with prior approval from the competent authority.
-The competent authority shall prescribe regulations setting forth investment rules, investment limits, review procedures, and other compliance matters pertaining to foreign investments of insurance enterprise funds.
+The competent authority shall prescribe regulations setting forth investment rules, investment limits, review procedures, and other compliance matters pertaining to foreign investments of insurance enterprise funds. The competent authority may, according to the financial conditions, risk management and regulatory compliance of insurance enterprise, impose a limit on the amount of investment in accordance with the provisions of Subparagraph 2 in the preceding paragraph.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1522,6 +1529,11 @@ A bank may operate either one of the insurance agent or insurance broker busines
 An insurance broker shall negotiate for the insurance contract on behalf of the insured or provide related services to the insured, with due diligence and loyalty.
 Within the applicable scope prescribed by the competent authority, an insurance broker shall provide a written analysis report and shall expressly advise the insured or proposer of his/her remuneration, if any, prior to negotiating for the insurance contract on behalf of the insured.
 The applicable scope and content of said written analysis report and limit of the remuneration shall be defined by the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 163-1</條號>
+    <條文內容><![CDATA[Insurance agents and brokers may, after obtaining permission from the competent authority, engage in related businesses in coordination with the development of electronic commerce business by insurance enterprises, and may conduct the business using an electronic system. The required qualifications and scope of business for insurance agents and brokers, and other compliance matters shall be prescribed by the competent authority.
 ]]></條文內容>
   </條文>
   <條文>

@@ -1,14 +1,16 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Standards of Permissible Exposure Limits of Airborne Hazardous Substances in Workplace</英文法規名稱>
+<英文法規名稱>Standards of Permissible Exposure Limits at Job Site</英文法規名稱>
 <中文法規名稱>勞工作業場所容許暴露標準</中文法規名稱>
 <法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=N0060004</法規網址>
-<最新英文異動日期>20100126</最新英文異動日期>
+<最新英文異動日期>20180314</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001417</下載網址>
-  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001418</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004117</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004118</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004119</下載網址>
+  <下載網址>http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004120</下載網址>
 </附件>
 <沿革內容><![CDATA[1.Enacted and promulgated of total eleven articles of the Standards by the Ministry of the Interior Order of the Tai-Nei-Lao-Tzu No. 58463 on Aug 7, 1974.
 2.Amended and promulgated by the Ministry of the Interior Order of the Tai-Nei-Lao-Tzu No. 17206 on Apr 17, 1981.
@@ -16,24 +18,26 @@
 4.Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order of the Lao-An-3-Tzu No. 123510 on Jun 30, 1995.
 5.Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order of the Lao-An-3-Tzu No. 0920073294 on Dec 31, 2003.
 6.Amended and promulgated of attachment 1 and 2 of the Standards by the Council of Labor Affairs, Executive Yuan Order of the Lao-An-3-Tzu No. 0980146513 on Jan. 5, 2010.
-7.Amended and promulgated of Article 11 of the Standards by the Council of Labor Affairs, Executive Yuan Order of the Lao-An-3-Tzu No. 0990145030 on Jan. 26, 2010. Amended attachment 1 and 2 of the Standards was implemented on Feb. 1, 2010.]]></沿革內容>
+7.Amended and promulgated of Article 11 of the Standards by the Council of Labor Affairs, Executive Yuan Order of the Lao-An-3-Tzu No. 0990145030 on Jan. 26, 2010. Amended attachment 1 and 2 of the Standards was implemented on Feb. 1, 2010.
+8.Amended on June 27, 2014.
+9.Amended on March 14, 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Standards have been enacted in accordance with the provisions of Article 5 of the Labor Safety and Health Act.
+    <條文內容><![CDATA[These Regulations are promulgated according to Article 12, Paragraph 2 of the Occupational Safety and Health Act.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The Employer shall limit the concentration of hazardous substances in air of workplace not exceeding the provisions in Attachment 1 or Attachment 2. If the hazardous substances whose permissible exposure limits are not given in Attachment 1 are detected, it shall be deemed as exceeding the standard.
+    <條文內容><![CDATA[The Employer shall ensure that laborers’ hazard exposure at job site is under the provisions in Attachment 1 or Attachment 2. If the hazardous substances whose permissible exposure limits are not given in Attachment 1 are detected, it shall be deemed as exceeding the standard.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[The permissible exposure limits are specified herein as follows:
-1. The time weighted average for an 8-hour workday: the 8-hour time weighted average concentration for any substances without designation of "Ceiling" in Attachment 1, to which it is believed that workers may be repeatedly exposed for a daily usual work of 8 hours, without adverse effect.
-2. The time weighted average for short term exposure: For any substance without designation of "Ceiling " in Attachment 1 and any substance listed in Attachment 2, the time weighted average for short term exposure shall be calculated by multiplying the "8-hour time weighted average" by an corresponding "Excursion Factor" listed in the following Attachment. This is the concentration to which it is believed that workers can be continuously exposed for any 15 minutes without suffering from irritation, chronic or irreversible tissue damage, or narcosis of sufficient degree to increase accidental injury or reduce work efficiency.
+1.The time weighted average for an 8-hour workday: the 8-hour time weighted average concentration for any substances without designation of "Ceiling" in Attachment 1, to which it is believed that workers may be repeatedly exposed for a daily usual work of 8 hours, without adverse effect.
+2.The time weighted average for short term exposure: For any substance without designation of "Ceiling" in Attachment 1 and any substance listed in Attachment 2, the time weighted average for short term exposure shall be calculated by multiplying the "8-hour time weighted average" by an corresponding "Excursion Factor" listed in the following Attachment. This is the concentration to which it is believed that workers can be continuously exposed for any 15 minutes without suffering from irritation, chronic or irreversible tissue damage, or narcosis of sufficient degree to increase accidental injury or reduce work efficiency.
 ┌─────────────────┬─────┬──────┐
 │8-hour time weighted average      │Excursion │Remarks     │
 │                                  │Factors   │            │
@@ -50,11 +54,11 @@
 │                                  │          │in ppm,     │
 │                                  │          │particulate │
 │                                  │          │substances  │
-│                                  │          │in mg/m3,   │
+│                                  │          │in mg/m^3,  │
 │                                  │          │Asbestos in │
 │                                  │          │f/cc.       │
 └─────────────────┴─────┴──────┘
-3. Ceiling Permissible Density: An employee's exposure to a substance designated by " Ceiling" in Attachment 1 shall not exceed, at any time during an ordinary 8-hour shift, the Ceiling Permissible Density given for the substance in the Attachment so as to prevent the employee from suffering unbearable irritation or physical impairment.
+3.Ceiling Permissible Density: An employee's exposure to a substance designated by " Ceiling" in Attachment 1 shall not exceed, at any time during an ordinary 8-hour shift, the Ceiling Permissible Density given for the substance in the Attachment so as to prevent the employee from suffering unbearable irritation or physical impairment.
 ]]></條文內容>
   </條文>
   <條文>
@@ -62,7 +66,7 @@
     <條文內容><![CDATA[The time weighted average concentration referred to in the Standard shall be computed as follows:
 TWA= C1T1 + C2T2+------+CnTn
 Where:
-TWA is the time weighted average for the computed working period of (T1 + T2+---+Tn).
+TWA is the time weighted average for the computed working period of (T1+ T2+---+Tn).
 Ci is the concentration during any period of time Ti.
 Ti is the duration in hours of the exposure at the concentration Ci.
 ]]></條文內容>
@@ -74,7 +78,7 @@ Ti is the duration in hours of the exposure at the concentration Ci.
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[The ㎎/m3 referred to herein is the number of "mg" in every cubic meter, equivalent to unit mg of particulate or gaseous hazardous substances in every cubic meter of air at 25oC and 760 torr.
+    <條文內容><![CDATA[The mg/m^3 referred to herein is the number of "mg" in every cubic meter, equivalent to unit mg of particulate or gaseous hazardous substances in every cubic meter of air at 25oC and 760 torr.
 ]]></條文內容>
   </條文>
   <條文>
@@ -85,9 +89,9 @@ Ti is the duration in hours of the exposure at the concentration Ci.
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[An employee's exposure to any hazardous substances in air of workplace shall be limited in accordance with the following requirements:
-1. The time-weighted average of any 8-hour work shift for any substance, which is not designated by "Ceiling", shall not exceed the 8-hour time weighted average limit given for that substance.
-2. The time-weighted average of any continuous 15-minute exposure to any substance, which is not designated by "Ceiling", shall not exceed the short -term exposure limit given for that substance.
-3. Exposure to any substance, which is designated by "Ceiling", shall not exceed the acceptable ceiling concentration given for that substance.
+1.The time-weighted average of any 8-hour work shift for any substance, which is not designated by "Ceiling", shall not exceed the 8-hour time weighted average limit given for that substance.
+2.The time-weighted average of any continuous 15-minute exposure to any substance, which is not designated by "Ceiling", shall not exceed the short -term exposure limit given for that substance.
+3.Exposure to any substance, which is designated by "Ceiling", shall not exceed the acceptable ceiling concentration given for that substance.
 ]]></條文內容>
   </條文>
   <條文>
@@ -104,14 +108,15 @@ Once the sum (Em) exceeds unity (1), the exposure shall be deemed as being excee
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[The Standard shall not be used for the judgment of the following matters:
-1. Relative index of toxicity between two different hazardous substances.
-2. Pollution indices for community air nuisances.
-3. Unique basis for the identification of occupational diseases.
+1.Relative index of toxicity between two different hazardous substances.
+2.Pollution indices for community air nuisances.
+3.Unique basis for the identification of occupational diseases.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[The Standard shall become effective on the date of promulgation.The attachment 1 of Article 2 of the Standards amended and promulgated on Dec. 31, 2003 shall be put in force on Jul. 1, 2004. The attachment 1 and 2 of Article 2 of the Standards amended and promulgated on Jan. 5, 2010 shall be put in force on Feb. 1, 2010.
+    <條文內容><![CDATA[These Standards shall take effect on July 3, 2014.
+In addition to number 4, 43, 231 and 477 in Attachment 1 of Article 2 of these Standards amended taking effect on July 1, 2018, these amendments of Standards shall be put in force on the date of promulgation.
 ]]></條文內容>
   </條文>
 </法規內容>
