@@ -2,8 +2,8 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations Governing the Use of Uniform Invoices</英文法規名稱>
 <中文法規名稱>統一發票使用辦法</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340082</法規網址>
-<最新英文異動日期>20180119</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340082</法規網址>
+<最新英文異動日期>20180716</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -23,10 +23,11 @@
 14. Amendments to Articles 1,7,24-2and 32 by the Ministry of Finance on 31 December 2013 under Decree No. 10204706040.
 15. Amendments of Articles 4, Article 5-1 and Article 32 were and promulgated by the Ministry of Finance on 9 March 2015 under Decree No. 10404525110, which shall come into force from the day of promulgation, except Article 4 shall become effective from 1 January 2016.
 16. Amendments to Articles 15, 25and 32 by the Ministry of Finance on 15 July 2016 under Decree No. 10504604020.
-17. Amendments of Articles 1, 7 to 9, 11, 14, 20, 24, 24-1, 31 and 32 were and promulgated by the Ministry of Finance under Decree No. 10704510060 on 19 January 2018, which shall come into force from the day of promulgation, with the exception of paragraph 4 to 6 of Article 7 which shall become effective from 1 March 2018, and, the exception of paragraph 1 and paragraph 2 of Article 7; Article 8; subparagraph 1 of paragraph 1 of Article 9; Article 24-1; Articles 25 to 27; and Article 31, which shall become effective from 1 January 2020.]]></沿革內容>
+17. Amendments of Articles 1, 7 to 9, 11, 14, 20, 24, 24-1, 31 and 32 were and promulgated by the Ministry of Finance under Decree No. 10704510060 on 19 January 2018, which shall come into force from the day of promulgation, with the exception of paragraph 4 to 6 of Article 7 which shall become effective from 1 March 2018, and, the exception of paragraph 1 and paragraph 2 of Article 7; Article 8; subparagraph 1 of paragraph 1 of Article 9; Article 24-1; Articles 25 to 27; and Article 31, which shall become effective from 1 January 2020.
+18. Amendments of Articles 7-1, Article 9, Article 20-1, and Article 32 were promulgated by the Ministry of Finance under Decree No. 10704607090 on 16 July 2018, which shall come into force from the day of promulgation, with the exception of Paragraph 2 of Article 7-1; Subparagraph 5, Paragraph 1, Article 9; and Paragraph 2 of Article 20-1, which will become effective on 1 January 2019.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter 1 General Provisions</編章節>
+  <編章節>   Chapter1 General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[These Regulations are adopted pursuant to Paragraph 4, Article 32 of the Value-Added and Non-Value-Added Business Tax Act ("the Act").
@@ -42,7 +43,7 @@
     <條文內容><![CDATA[Except when a business entity is exempted from the use of uniform invoices pursuant to Article 4, the competent tax authority shall impose the use of uniform invoices on all business entities.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter 2 Exemptions</編章節>
+  <編章節>   Chapter2 Exemptions</編章節>
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[Business entities or operations meeting any of the following criteria may be exempted from the use or issuance of uniform invoices:
@@ -83,7 +84,7 @@
 35. Others exempted from the use or issuance of uniform invoices with approval of the Ministry of Finance
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter 3 Purchase, Use, and Declaration</編章節>
+  <編章節>   Chapter3 Purchase, Use, and Declaration</編章節>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[When purchasing uniform invoices for the first time, business entities shall file an application with the competent tax authority for the issuance of a uniform invoice purchase certificate. The purchase certificates are required to be stamped with the unique uniform invoice seal of the entity.
@@ -133,9 +134,15 @@ In the event of loss of the uniform invoice purchase certificate, business entit
 (3) The certification media file is transmitted to E-Invoice Platform of MOF (hereafter called "the Platform") by the invoice issuer as certification.
 Where necessary, an additional copy may be prepared for the uniform invoices under the first subparagraph to the fourth subparagraph of the preceding paragraphs if approved by the Ministry of Finance.
 The issuer and the purchaser of electronic uniform invoices could download and print the certification copy of electronic uniform invoices with prescribed form and paper from The retention media file and the certification media file of the Platform, respectively for accounting purpose or for receiving an award.
-Business entities issuing electronic uniform invoices with a non-business entity as a purchaser shall upload the information of uniform invoices and the identification codes of carriers which are approved by the competent tax authority and used by purchasers requesting uniform invoices to the Platform within forty-eight hours after issuing, enabling a purchaser to inquire or receive the information. The aforementioned situation shall also apply in cases of  invoices nullified, sales returns and discounts, donations, printing the certification copy of electronic uniform invoices, and other changes of the invoice information.
+Business entities issuing electronic uniform invoices with a non-business entity as a purchaser shall upload the information of uniform invoices and the identification codes of carriers which are approved by the competent tax authority and used by purchasers requesting uniform invoices to the Platform within forty-eight hours after issuing, enabling a purchaser to inquire or receive the information. The aforementioned situation shall also apply in cases of invoices nullified, sales returns and discounts, donations, printing the certification copy of electronic uniform invoices, and other changes of the invoice information.
 Business entities issuing electronic uniform invoices with a business entity as a purchaser shall upload the information of uniform invoices to the Platform within seven days after issuing; the Platform will notify the purchaser when the information is available. If the purchaser does not set the automatic acceptance method on the Platform, it shall be notified by the electronic uniform invoice issuer. In cases of invoices nullified or sales returns and discounts, the issuer of electronic uniform invoices shall complete the notification of the trading counterpart and upload the information to the Platform before the above deadline.
 Business entities issuing electronic uniform invoices, and complying with the provisions of the preceding paragraph, are deemed as issuing uniform invoices to the purchaser, and the purchaser is deemed as obtaining uniform invoices. Where something happened not attributable to the business entities, causing failure to handle the matter in accordance with the provisions of the preceding two paragraphs, shall complete the transmission and apply to the local competent tax authority within three days following the day the cause is eliminated. After approval by the local tax authority, business entities are deemed as delivering uniform invoices in accordance with the regulations.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 7-1</條號>
+    <條文內容><![CDATA[The cloud invoice is a kind of electronic invoice which is issued, transferred, and obtained pursuant to provisions of the preceding Article. It is not printed in the certificated copy of electronic invoices when a business entity sells goods and services to a purchaser using the carriers approved by the MOF, or designated by a purchaser that an invoice shall be donated to an institution or a group via the use of a donation code.
+The business entity prescribed in Subparagraph 4, Article 6 of the Act shall issue cloud invoices to the purchaser.
 ]]></條文內容>
   </條文>
   <條文>
@@ -152,13 +159,14 @@ When a business entity engaged in the food and beverage or lodging and accommoda
 1. For business entities using triplicate uniform invoices or computerized uniform invoices, the name and the uniform serial number of the purchaser shall be provided. If the name of the purchaser cannot be produced by the computer in print, the uniform serial number of the purchaser shall suffice.
 2. Business entities in the manufacturing or import trade businesses issuing uniform invoices for goods or services sold to non-business entities shall provide the name and address or the national identification number of the purchaser.
 3. With the exception of the preceding clause, business entities issuing uniform invoices to non-business entity purchasers need not provide the name and address of the purchaser unless under request of the purchaser.
-4. Business entities issuing uniform invoices for goods or services sold to purchasers making payment with a credit card shall provide the last four digits of the card number in the remarks column of the invoice, with the exception of transactions where there is issuance of a duplicate cash register uniform invoice.
-Business entities using classification codes in replace of item names on uniform invoices shall submit the code-name index list to the competent tax authority for recordation in advance. In the event of any changes to said list, the same shall apply.
+4. (Deleted)
+5.The certain requirements and particulars recorded in the cloud invoices which are issued by business entities prescribed in Subparagraph 4, Article 6 of the Act may be in a foreign language; the actual date may be displayed in the Christian Era; the unit price, item subtotal, and total amount may be listed in foreign currency, but the business entities shall add its source.
+Business entities using classification codes in place of item names on uniform invoices shall report the code-name index list to the competent tax authority in advance. In the event of any changes to said list, the same shall apply.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[(Deleted.)
+    <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
   <條文>
@@ -240,6 +248,15 @@ The certificate of sales return, purchase return or allowances on purchased merc
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 20-1</條號>
+    <條文內容><![CDATA[The business entity who uses electronic invoices may issue, transfer, or obtain the certificate of sales return, purchase return, or allowances on purchased merchandise via the Internet or other electronic tools when the invoice issuer and the purchaser agree in the matter of sales return, purchase return, or allowances. There shall be the retention media file, the receipt media file, and the certification media file. The uses of the certificate aforementioned are as follows:
+1.The retention media file is retained by the invoice issuer. It could be used as an accounting voucher and for tax deduction or reduction declarations pursuant to the provisions of the Act.
+2.The receipt media file is given to the purchaser as receipt. If the purchaser is a business entity, it could be used as an accounting voucher and for tax deduction or reduction declarations pursuant to the provisions of the Act.
+3.The certification media file is transmitted to the Platform by the invoice issuer as certification.
+The business entity prescribed in Subparagraph 4, Article 6 of the Act shall issue and transfer the certificate of sales return, purchase return, or allowances on purchased merchandise via the Internet or other electronic tools.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 21</條號>
     <條文內容><![CDATA[Non-current term uniform invoices shall not be issued or used, with the exception of approval by the competent tax authority.
 Neither the uniform invoices purchased by business entities or the alphanumeric code numbers of uniform invoices assigned by the tax authority may be transferred for use by others.
@@ -273,7 +290,7 @@ In the aforementioned situation, the business entities shall indicate the word �
     <條文內容><![CDATA[(Deleted).
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter 4 Computer Uniform Invoices</編章節>
+  <編章節>   Chapter4 Computer Uniform Invoices</編章節>
   <條文>
     <條號>Article 25</條號>
     <條文內容><![CDATA[(Deleted).
@@ -299,7 +316,7 @@ In the aforementioned situation, the business entities shall indicate the word �
     <條文內容><![CDATA[(Deleted).
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter 5 Supplementary Provisions</編章節>
+  <編章節>   Chapter5 Supplementary Provisions</編章節>
   <條文>
     <條號>Article 30</條號>
     <條文內容><![CDATA[Any violations of the provisions of these Regulations shall be subject to punishments under the relevant provisions of the Act or the Tax Collection Act.
@@ -326,6 +343,7 @@ The articles of these Regulations amended and promulgated on 31 December 2013 sh
 The articles of these Regulations amended and promulgated shall come into force on 9 March 2015 from the day of promulgation, except Article 4 shall become effective from 1 January 2016.
 The articles of these Regulations amended and promulgated shall come into force on 15 July 2016 from the day of promulgation.
 The articles of these Regulations amended and promulgated shall come into force on 19 January 2018 from the day of promulgation, with the exception of paragraph 4 to 6 of Article 7 which shall become effective from 1 March 2018, and, the exception of paragraph 1 and paragraph 2 of Article 7; Article 8; subparagraph 1 of paragraph 1 of Article 9; Article 24-1; Articles 25 to 27; and Article 31, which shall become effective from 1 January 2020.
+The Articles of the Regulations amended and promulgated shall come into force on 16 July 2018 from the day of promulgation, with the exception of Paragraph 2 of Article 7-1; Subparagraph 5, Paragraph 1, Article 9; and Paragraph 2 of Article 20-1, which will become effective on 1 January 2019.
 ]]></條文內容>
   </條文>
 </法規內容>

@@ -2,8 +2,8 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations Governing Taxation Registration</英文法規名稱>
 <中文法規名稱>稅籍登記規則</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340087</法規網址>
-<最新英文異動日期>20170329</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340087</法規網址>
+<最新英文異動日期>20180629</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -12,10 +12,11 @@
 3.Amendments to Articles 3 and 12 announced on 23 March ,2012 by the Ministry of Finance under Decree No. 10104516460.
 4.Amendment to Article 5 by the Ministry of Finance on 14 December 2012 under Decree No. 10104656130.
 5.Amendments to Articles 2, 5 and 7 by the Ministry of Finance on 2 April 2014 under Decree No.10304538230.
-6.Amendment on 29 March 2017 by the Ministry of Finance under Decree No. 10604544510.]]></沿革內容>
+6.Amendment on 29 March 2017 by the Ministry of Finance under Decree No. 10604544510.
+7.Amendments to Articles 13 and 20 by the Ministry of Finance on 29 June 2018 under Decree No. 10704603600.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter  1  General Provisions</編章節>
+  <編章節>   Chapter1 General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[These Regulations are adopted pursuant to Article 30-1 of the Value-Added and Non-Value-Added Business Tax Act (hereafter “the Act”).
@@ -28,8 +29,8 @@ A business entity shall conduct taxation registration in accordance with these R
 The taxation registration for a business entity as prescribed in Subparagraph 4, Article 6 of the Act shall be complied with the provisions in all Sections and Articles of Chapter III.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter  2  Taxation Registration for a Business Entity with a Fixed Place of Business within the Territory of the Republic of China(R.O.C.)</編章節>
-  <編章節>      Section  1  Establishment Registration</編章節>
+  <編章節>   Chapter2 Taxation Registration for a Business Entity with a Fixed Place of Business within the Territory of the Republic of China(R.O.C.)</編章節>
+  <編章節>      Section1 Establishment Registration</編章節>
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[Under any of the following circumstances, a business entity shall fill out a registration application form and apply for taxation registration with the competent tax authority before the commencement of business operations:
@@ -97,7 +98,7 @@ The documents prescribed in Subparagraph 3 of the preceding Paragraph shall be a
 All the documents listed in Paragraph 1 shall be accompanied by the Chinese translation if they are in a foreign language.
 ]]></條文內容>
   </條文>
-  <編章節>      Section  2  Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration</編章節>
+  <編章節>      Section2 Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration</編章節>
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[Where there has been a change to any particulars in the taxation registration, the business entity shall apply to the competent tax authority to modify the registration within 15 days from the occurrence of the change by filling out an application for modification registration attached with relevant supporting documents; in the case of a change of address, the business entity shall apply for modification registration with the competent tax authority for the new address.
@@ -116,7 +117,7 @@ If a company, sole proprietorship, partnership or limited partnership has comple
     <條文內容><![CDATA[When a business entity is discontinued due to dissolution, nullification of registration, transfer, or merger with another business entity, it shall fill out an application form for cancellation of business registration and apply for cancellation of business registration with the competent tax authority within 15 days from the occurrence of the fact.
 ]]></條文內容>
   </條文>
-  <編章節>      Section  3  Revocation or Nullification of Registration</編章節>
+  <編章節>      Section3 Revocation or Nullification of Registration</編章節>
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[If any forgery or falsification has been found with respect to the establishment of the business entity or any other particulars in the registration for which a final and unappealable conviction is issued, the competent tax authority may revoke the taxation registration based on notification by the prosecution agency.
@@ -127,8 +128,8 @@ Given the occurrence of any of the following circumstances with respect to a bus
 If the circumstance of any of the preceding two Paragraphs occurs with respect to a business entity that carries out taxation registration pursuant to Paragraph 2, Article 3 requiring that the registration be revoked or nullified, the competent tax authority shall file a report with the competent authority for the registration, and may only revoke or nullify the registration after the revocation or nullification by the registration authority, except those which have been notified of dissolution or termination by the competent authority for the registration.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter  3  Taxation Registration for a Business Entity Having No Fixed Place of Business Entity within the Territory of the R.O.C. Which Sells Electronic Services to Domestic Individuals.</編章節>
-  <編章節>      Section  1  Establishment Registration</編章節>
+  <編章節>   Chapter3 Taxation Registration for a Business Entity Having No Fixed Place of Business Entity within the Territory of the R.O.C. Which Sells Electronic Services to Domestic Individuals.</編章節>
+  <編章節>      Section1 Establishment Registration</編章節>
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[The competent tax authorities for taxation registration on business entities in accordance with the provisions of Article 28-1 of the Act shall be as follows:
@@ -141,7 +142,7 @@ If the circumstance of any of the preceding two Paragraphs occurs with respect t
     <條文內容><![CDATA[A business entity shall apply for taxation registration at the taxation registration platform of the Ministry of Finance. The required registration items are as follows:
 1. Name.
 2. Name of the business entity’s responsible person.
-3. Business information: domain name and IP address, commencing date of supplying services, home country of registration, registered name, registration number.
+3. Business information: domain name and IP address, commencing date of supplying services, type of electronic services sold, home country (area) of registration, registered name, registration number.
 4. Contact information: telephone number, mailing address, e-mail address.
 5. Information about tax-filing agent:
 (1) An individual residing within the territory of the R.O.C.: name, national ID number, mailing address, telephone number, e-mail address, duration of appointment, scope of appointment.
@@ -161,7 +162,7 @@ The documents prescribed in Subparagraph 1 of the preceding Paragraph shall be a
 All the documents listed in Paragraph 1 shall be accompanied by the Chinese translation if they are in a foreign language.
 ]]></條文內容>
   </條文>
-  <編章節>      Section  2  Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration</編章節>
+  <編章節>      Section2 Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration</編章節>
   <條文>
     <條號>Article 15</條號>
     <條文內容><![CDATA[Where there are any changes in taxation registration, the business entity shall, within 15 days from the occurrence of the facts, apply for modification registration at the taxation registration platform of the Ministry of Finance.
@@ -181,13 +182,13 @@ The aforesaid period of business suspension or extension of suspension filed for
 3. The taxation registration has been completed in accordance with the provisions of Article 28 of the Act.
 ]]></條文內容>
   </條文>
-  <編章節>      Section  3  Nullification of Registration</編章節>
+  <編章節>      Section3 Nullification of Registration</編章節>
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[The competent tax authority may nullify the taxation registration ex officio if any of the circumstances referred to Subparagraph 1 or 2 of the preceding Article occurs and the business entity has not applied for cancellation of registration after six months even if such entity has been notified by the tax authority.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter  4  Supplementary Provisions</編章節>
+  <編章節>   Chapter4 Supplementary Provisions</編章節>
   <條文>
     <條號>Article 19</條號>
     <條文內容><![CDATA[A business entity that violates these Regulations will be notified to comply with the requirements within a prescribed time limit and will be punished in accordance with the Act.
@@ -196,6 +197,7 @@ The aforesaid period of business suspension or extension of suspension filed for
   <條文>
     <條號>Article 20</條號>
     <條文內容><![CDATA[These Regulations shall come into force from May 1, 2017.
+The amended Articles of the Regulations shall come into force from the day of promulgation.
 ]]></條文內容>
   </條文>
 </法規內容>

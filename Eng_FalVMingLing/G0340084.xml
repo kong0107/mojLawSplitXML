@@ -2,7 +2,7 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations Governing the Use of Cash Register by Business Entities</英文法規名稱>
 <中文法規名稱>營業人使用收銀機辦法</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340084</法規網址>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0340084</法規網址>
 <最新英文異動日期>20180119</最新英文異動日期>
 <廢止註記>
 </廢止註記>
@@ -26,8 +26,8 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[The types of business entities using cash registers are as follows:
-Using cash registers to issue uniform invoices.
-Using cash registers to issue receipts instead of issuing uniform invoices.
+1.Using cash registers to issue uniform invoices.
+2.Using cash registers to issue receipts instead of issuing uniform invoices.
 A business entity shall, prior to using cash registers in its business, file the type, brand, make and machine number of its cash registers with the competent authority, and paste the use mark issued by the competent authority at a distinct spot of the cash register.
 ]]></條文內容>
   </條文>
@@ -35,9 +35,9 @@ A business entity shall, prior to using cash registers in its business, file the
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[Business entities meeting the criteria below may apply to the competent authority for permission to use cash register for issuing uniform invoices:
-The business entity calculates business tax in accordance with Section 1, Chapter 4 of the Act.
-The business entity engages in retail business.
-The goods or services supplied by the business entity may be numbered and price tagged.
+1.The business entity calculates business tax in accordance with Section 1, Chapter 4 of the Act.
+2.The business entity engages in retail business.
+3.The goods or services supplied by the business entity may be numbered and price tagged.
 The competent authority will approve business entities using cash register to issue uniform invoices in view of their nature and capabilities.
 ]]></條文內容>
   </條文>
@@ -49,18 +49,18 @@ The competent authority will approve business entities using cash register to is
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[Cash registers used by a business entity to issue uniform invoices must be equipped with the following functions:
-It can accommodate government-produced cash register uniform invoices.
-It can print the buyer's business administration number, and show sales amount and business tax separately or their total.
-It can print a buyer's copy (receipt) and seller's copy (stub) of the uniform invoice simultaneously.
-It will halt printing automatically if the uniform invoices are not accurately positioned or an error occurs in the operating procedure.
-It can automatically cut off each and every uniform invoice receipt after operation, while saving the seller's copies in the roll.
-It can perform statistical and report-printing functions, such as tallying total amount, daily total and monthly total, and if the purchases need to be posted on two or more invoices, it can print the serial number of each invoice and show the total on the last invoice printed.
-It can keep discount records and correction records, and mark those transactions with distinct signs.
-It has a sealed memory device for recording the total sum of entries where the amount cannot be zeroed out and does not have the function of entry deduction; the memory shall have the capacity for recording at least a ten-digit number.
-It has the sealed journal of number of entries that cannot be zeroed out.
-It can perform account reconciliation and account closing, during which the uniform invoice roll is removed and replaced with the seller's own paper tape.
-It is equipped with a transaction amount display that can rotate by more than 270 degrees.
-It is able to mark TX for taxable sales and TZ for zero rating sales.
+1.It can accommodate government-produced cash register uniform invoices.
+2.It can print the buyer's business administration number, and show sales amount and business tax separately or their total.
+3.It can print a buyer's copy (receipt) and seller's copy (stub) of the uniform invoice simultaneously.
+4.It will halt printing automatically if the uniform invoices are not accurately positioned or an error occurs in the operating procedure.
+5.It can automatically cut off each and every uniform invoice receipt after operation, while saving the seller's copies in the roll.
+6.It can perform statistical and report-printing functions, such as tallying total amount, daily total and monthly total, and if the purchases need to be posted on two or more invoices, it can print the serial number of each invoice and show the total on the last invoice printed.
+7.It can keep discount records and correction records, and mark those transactions with distinct signs.
+8.It has a sealed memory device for recording the total sum of entries where the amount cannot be zeroed out and does not have the function of entry deduction; the memory shall have the capacity for recording at least a ten-digit number.
+9.It has the sealed journal of number of entries that cannot be zeroed out.
+10.It can perform account reconciliation and account closing, during which the uniform invoice roll is removed and replaced with the seller's own paper tape.
+11.It is equipped with a transaction amount display that can rotate by more than 270 degrees.
+12.It is able to mark TX for taxable sales and TZ for zero rating sales.
 The cash register used by business entities for issuing uniform invoices shall be equipped with a battery that allows continuous operation of at least eight hours during a power outage.
 ]]></條文內容>
   </條文>
@@ -101,22 +101,22 @@ In the event if the business entity fails to report the loss of unused blank uni
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[Business entities meeting the criteria below may apply to the competent authority for permission to use cash registers to issue receipts instead of issuing uniform invoices:
-The business entity is a company limited by share and practices sound accounting system.
-The business entity engages in retail business.
-The goods or services supplied by the business entity may be numbered and price tagged.
+1.The business entity is a company limited by share and practices sound accounting system.
+2.The business entity engages in retail business.
+3.The goods or services supplied by the business entity may be numbered and price tagged.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[A cash register used by a business entity to issue receipts instead of issuing uniform invoices must be equipped with the following functions:
-It can add up sales amount and business tax to show the total amount.
-It can print a buyer's copy and seller's copy of the receipt simultaneously.
-It can perform statistical functions, such as tallying total amount, daily total and monthly total.
-It can keep discount records and correction records, and mark those transactions with distinct signs.
-It has a sealed memory device for recording the total sum of entries where the amount cannot be zeroed out and does not have the function of entry deduction; the memory shall have the capacity for recording at least a ten-digit number.
-It has the sealed journal of number of transactions that cannot be zeroed out.
-It can perform account reconciliation and account closing.
-It is able to mark TX for taxable sales.
+1.It can add up sales amount and business tax to show the total amount.
+2.It can print a buyer's copy and seller's copy of the receipt simultaneously.
+3.It can perform statistical functions, such as tallying total amount, daily total and monthly total.
+4.It can keep discount records and correction records, and mark those transactions with distinct signs.
+5.It has a sealed memory device for recording the total sum of entries where the amount cannot be zeroed out and does not have the function of entry deduction; the memory shall have the capacity for recording at least a ten-digit number.
+6.It has the sealed journal of number of transactions that cannot be zeroed out.
+7.It can perform account reconciliation and account closing.
+8.It is able to mark TX for taxable sales.
 ]]></條文內容>
   </條文>
   <條文>

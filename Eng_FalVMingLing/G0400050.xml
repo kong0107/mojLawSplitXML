@@ -2,8 +2,8 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations Governing the Preparation of Financial Reports by Securities Issuers</英文法規名稱>
 <中文法規名稱>證券發行人財務報告編製準則（採國際財務報導準則版本）</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400050</法規網址>
-<最新英文異動日期>20170628</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400050</法規網址>
+<最新英文異動日期>20180713</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -21,6 +21,7 @@
 21. Full text of 31 articles amended and issued per 13 August 2014 Order No. Financial-Supervisory-Securities-Auditing-1030029342 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 2, 4, 7, paragraph 1, 8 to 13, 15, 17, 19 to 21, 24, 26, and 28, which will come into force from the beginning of financial year 2015
 22. Articles 9, 12, 15, 18, 29 and 31, and name of Chapter 5 and Forms 1 and 1-1 of Article 19, and Forms 6-11, 6-23 to 6-25 and 6-31 of Article 23 amended; Articles 24-1 and 24-2 added; Article 30 deleted per 19 December 2016 Order No. Financial-Supervisory-Securities-Auditing-1050050021 of the Financial Supervisory Commission; for enforcement from the beginning of fiscal year 2017
 23. Articles 9 to 12, 15, 23 and 31, and Forms 1, 1-1, 2, 2-1, 3, 4, 5-1, 5-3 and 5-8 of Article 19, amended and issued per 28 June 2017 Order No. Financial-Supervisory-Securities-Auditing-1060023231 of the Financial Supervisory Commission; for enforcement from the beginning of financial year 2018
+24. Articles 9, 10, 15, 20, 23, 28, and 31, and Forms 1, 1-1, and 5-2 of Article 19, and Form 8-7 of Article 23 amended and issued; Forms 6-26 to 6-28 and 7-16 of Article 23 added; original Forms 6-26 to 6-32 adjusted to 6-29 to 6-35, and original forms 7-16 to 7-18 adjusted to 7-17 to 7-19; and Article 27 deleted per 13 July 2018 Order No. Financial-Supervisory-Securities-Auditing-1070324155 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 9, paragraph 4, subparagraphs 3 and 4, and paragraph 6, and Articles 10, 15, and 23, and Forms 1 and 1-1 of Article 19, which will come into force from financial year 2019.
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -120,16 +121,17 @@ B.The contractual terms of the financial asset give rise on specified dates to c
 A.The entity has transferred goods or services to the customer according to the terms and conditions of a contract, but does not yet have an unconditional right to consideration.
 B.The recognition and measurement of the loss allowance for contract assets shall be in accordance with IFRS 9.
 7.Notes receivable: Means all notes receivable:
-A.Notes receivable shall be measured at amortized cost using the effective interest method. However, short-term notes receivable with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+A.Notes receivable shall be measured in accordance with IFRS 9. However, short-term notes receivable with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
 B.With respect to discounted or transferred notes receivable, an assessment shall be made to determine whether the risks and rewards of the notes receivable, and the control retained over them, will qualify them for derecognition under IFRS 9.
 C.Notes receivable arising from operating activities shall be presented separately from other notes receivable arising from non-operating activities.
 D.Notes receivable from related parties in significant amounts shall be presented separately.
 E.Notes provided as security shall be indicated in the notes to the financial reports.
+F.The issuer shall disclose an aged analysis of notes receivable.
 8.Trade receivables: Means the entity has an unconditional contractual right to consideration for goods or services that have been transferred:
-A.Trade receivables shall be measured at amortized cost using the effective interest method. However, short-term trade receivables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+A.Trade receivables shall be measured in accordance with IFRS 9. However, short-term trade receivables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
 B.With respect to discounted or transferred trade receivables, an assessment shall be made to determine whether the risks and rewards of the trade receivables, and the control retained over them, will qualify them for derecognition under IFRS 9.
-C.Trade receivables from related parties in significant amounts shall be presented separately.
-D.Pledged trade receivables shall be disclosed in the notes to the financial reports.
+Trade receivables from related parties in significant amounts shall be presented separately. Pledged trade receivables shall be disclosed in the notes to the financial reports.
+C.The issuer shall disclose an aged analysis of trade receivables.
 9.Other receivables: Means receivables other than notes receivable and trade receivables.
 10.Current tax assets: The portion of the tax amount already paid in respect of current and prior periods that exceeds the amount due for those periods.
 11.Inventories:
@@ -153,12 +155,15 @@ A.The valuation and presentation of investments accounted for using the equity m
 B.When investment gain or loss is recognized, if the financial reports prepared by an associate do not conform to these Regulations, those financial reports shall first be adjusted to achieve conformance before they may be used to recognize investment gain or loss. The financial reports of an associate used in applying the equity method shall be prepared as of the same date as that of the investor, and if prepared as of a different date, adjustments shall be made for the effects of significant transactions or events that occur between that date and the date of the investor's financial reports. In no case shall there be more than 3 months difference between the balance sheet date of the associate and that of the investor. If a CPA determines, pursuant to Statement of Auditing Standards No. 51, that an associate has a material effect on the fair presentation of the financial reports of an investor, the financial reports of the associate shall be audited by a CPA in accordance with the Regulations Governing Auditing and Certification of Financial Statements by Certified Public Accountants and generally accepted auditing standards.
 C.If an investment accounted for using the equity method is pledged as collateral or otherwise subject to any restriction or limitation, that fact shall be noted.
 2.Property, plant and equipment:
-A.Tangible asset items, including bearer plants, that are held for use in the production or supply of goods, produce, or services, for rental to others, or for administrative purposes, and that are expected to be used during more than 1 financial year or 1 operating cycle.
+A.Tangible asset items, including bearer plants, that are held for use in the production or supply of goods, agricultural produce, or services, for rental to others, or for administrative purposes, and that are expected to be used during more than 1 financial year or 1 operating cycle.
 B.Property, plant and equipment shall be subsequently measured using the cost model and accounted for in accordance with IAS 16.
 C.Each component of property, plant and equipment that is significant shall be depreciated separately. The depreciation method used shall reflect the pattern in which the asset’s future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The depreciable amount should be allocated on a systematic basis over the asset's useful life.
 D.When items of property, plant and equipment have different useful lives, or provide economic benefits in different ways, or are subject to different depreciation methods or depreciation rates, the notes to the financial reports shall show each class of their material components.
-3.Investment property:
-A.Means property held, by the owner or by the lessee under a finance lease, to earn rentals, or for capital appreciation, or both.
+3.Right-of-use asset:
+A.Means an asset that represents a lessee's right to use an underlying asset for the lease term.
+B.A right-of-use asset shall be accounted for in accordance with IFRS 16.
+4.Investment property:
+A.Means property that is held by the owner or that is held by the lessee with the right of use, to earn rentals, or for capital appreciation, or both.
 B.Investment property shall be accounted for in accordance with IAS 40, and investment property that is subsequently measured using the fair value model shall be subject to the following provisions:
 a.The income approach shall be used for the valuation of fair value. If, however, undeveloped land cannot be valuated using the income approach, the land development analysis approach shall be adopted instead.
 b.When the income approach is used, it shall be subject to the following provisions:
@@ -203,15 +208,15 @@ d.When there is a major discrepancy between the assumptions, estimates, paramete
 e.The content of a review report shall include at a minimum the names and addresses of the party that commissioned the report, the CPA performing the review, and the firm to which the CPA belongs, the purpose and uses of the review, the major assumptions and limitations of the review case, the scope of review work performed, the principal information adopted in the review procedure, the review conclusion, and the date of the review report. The review shall also include a statement that the opinion is true and accurate, professional and independent, and in compliance with applicable laws and regulations.
 H.A subsidiary of the issuer that holds investment property shall also be subject to the provisions of this subparagraph.
 I.If the shares issued by an issuer have no par value or a par value other than NT$10 per share, the valuation threshold of 20 percent of paid-in capital applicable to any single item of investment property as set out in item B (c) of this paragraph shall be replaced by 10 percent of equity attributable to owners of the parent as stated in the balance sheet.
-4.Intangible assets:
+5.Intangible assets:
 A.An identifiable non-monetary asset without physical substance that meets the definition of identifiability, control by an entity, and existence of future economic benefits.
 B.Intangible assets shall be subsequently measured using the cost model and accounted for in accordance with IAS 38.
 C.The amortization method used shall reflect the pattern in which the asset’s future economic benefits are expected to be consumed by the entity. If that pattern cannot be determined reliably, the straight-line method shall be used. The amortized amount of an intangible asset shall be allocated on a systematic basis over its useful life.
-5.Biological assets: A living animal or plant related to agricultural activity. Biological assets shall be accounted for in accordance with IAS 41. Bearer plants shall be classified into property, plant and equipment, and accounted for in accordance with IAS 16.
-6.Deferred tax assets: The amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
-7.Other non-current assets: Non-current assets not attributable to any of the classes above. Exploration and evaluation of such assets shall be subsequently measured using the cost model and accounted for in accordance with IFRS 6.
-The accounting treatment and the recognition and measurement of loss allowances for the items described in the preceding two paragraphs in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, , notes receivable, trade receivables, and other receivables shall be in accordance with IFRS 9. Loss allowances shall be classified respectively as a deduction from financial assets measured at amortized cost, notes receivable, trade receivables, and other receivables. If those classifications are further subclassified, the loss allowances thereof shall also be presented respectively in the same manner.
-An issuer shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in paragraph 4 in relation to investments accounted for using the equity method, property, plant and equipment, investment property measured using the cost model, intangible assets, and exploration and evaluation assets. If any such evidence exists, the issuer shall recognize the amount of any impairment loss in accordance with IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for fair value measurement.
+6.Biological assets: A living animal or plant related to agricultural activity. Biological assets shall be accounted for in accordance with IAS 41. Bearer plants shall be classified into property, plant and equipment, and accounted for in accordance with IAS 16.
+7.Deferred tax assets: The amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
+8.Other non-current assets: Non-current assets not attributable to any of the classes above. Exploration and evaluation of such assets shall be subsequently measured using the cost model and accounted for in accordance with IFRS 6.
+The accounting treatment and the recognition and measurement of loss allowances for the items described in the preceding two paragraphs in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, notes receivable, trade receivables, and other receivables shall be in accordance with IFRS 9. Loss allowances shall be classified respectively as a deduction from financial assets measured at amortized cost, notes receivable, trade receivables, and other receivables. If those classifications are further subclassified, the loss allowances thereof shall also be presented respectively in the same manner.
+An issuer shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in paragraph 4 in relation to investments accounted for using the equity method, property, plant and equipment, right-of-use assets, investment property measured using the cost model, intangible assets, and exploration and evaluation assets. If any such evidence exists, the issuer shall recognize the amount of any impairment loss in accordance with IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for fair value measurement.
 With respect to the items described in paragraphs 3 and 4 in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, notes receivable, trade receivables, other receivables, non-current assets held for sale, investment property, and biological assets, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
 The items described in paragraphs 3 and 4 in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, contract assets, and biological assets shall be distinguished as current and non-current based on liquidity.
 ]]></條文內容>
@@ -268,11 +273,14 @@ A.Includes long-term borrowings from banks and other long-term borrowings or bor
 B.For a long-term borrowing repaid in a foreign currency or in an amount translated at a foreign exchange rate, the name and amount of such foreign currency shall be noted.
 C.Long-term borrowings from shareholders, employees, and related parties shall be noted separately.
 D.Long-term notes payable and other long-term payables shall be measured at amortized cost using the effective interest method.
-3.Deferred tax liabilities: The amounts of income taxes payable in future periods in respect of taxable temporary differences.
-4.Other non-current liabilities: Non-current liabilities not attributable to any of the classes above.
+3.Lease liabilities:
+A.Means the present value of the lease payments that the lessee has not paid.
+B.Lease liabilities shall be accounted for in accordance with IFRS 16.
+4.Deferred tax liabilities: The amounts of income taxes payable in future periods in respect of taxable temporary differences.
+5.Other non-current liabilities: Non-current liabilities not attributable to any of the classes above.
 The items described in the preceding two paragraphs in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, notes payable, trade payables, and other payables shall be accounted for in accordance with IFRS 9.
 With respect to the items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, notes payable, trade payables, other payables, liabilities directly associated with non-current assets held for sale, bonds payable, and long-term borrowings, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
-The items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, contract liability, financial liabilities for hedging, and provisions shall be distinguished as current and non-current based on liquidity.
+The items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, contract liability, financial liabilities for hedging, lease liabilities, and provisions shall be distinguished as current and non-current based on liquidity.
 ]]></條文內容>
   </條文>
   <條文>
@@ -379,17 +387,18 @@ An issuer shall present, either in the statement of changes in equity or in the 
 21.The signing, completion, voidance, or lapse of major contracts.
 22.Information about financial instruments. The information shall be disclosed in accordance with IFRS 7, including disclosure of the significance of financial instruments for the entity's financial position and performance; qualitative and quantitative disclosures describing risk exposures arising from financial instruments.
 23.Comprehensive information about the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers shall be disclosed in accordance with IFRS 15, including details of revenue recognized from contracts with customers, contract balances, contract obligations, significant judgments and changes in the judgments, and any assets recognized from the costs to obtain or fulfil a contract with a customer.
-24.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, certainty of future cash flows, actuarial losses arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
-25.Segment financial information. Information shall be disclosed in accordance with IFRS 8, including types of goods and services sold or rendered by each reportable segment, revenue, and gains and losses.
-26.Information on investment in the Mainland Area.
-27.Information about investments in derivative instruments.
-28.When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
-29.In the case of private placement of securities, the type, issue date, and amount shall be disclosed.
-30.Major organizational adjustments and significant management reforms.
-31.Material effects of changes in government laws and regulations.
-32.Fair value information. The information shall be disclosed in accordance with IFRS13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
-33.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
-34.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
+24.Relevant information about leases. The information shall be disclosed in accordance with IFRS 16, including disclosure of information that gives a basis for users of the financial statements to assess the effect that the leases have on the financial position, financial performance, and cash flows of the issuer, and relevant qualitative and quantitative information about its leasing activities.
+25.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, certainty of future cash flows, actuarial losses arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
+26.Segment financial information. Information shall be disclosed in accordance with IFRS 8, including types of goods and services sold or rendered by each reportable segment, revenue, and gains and losses.
+27.Information on investment in the Mainland Area.
+28.Information about investments in derivative instruments.
+29.When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
+30.In the case of private placement of securities, the type, issue date, and amount shall be disclosed.
+31.Major organizational adjustments and significant management reforms.
+32.Material effects of changes in government laws and regulations.
+33.Fair value information. The information shall be disclosed in accordance with IFRS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
+34.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
+35.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
 ]]></條文內容>
   </條文>
   <條文>
@@ -475,7 +484,7 @@ In considering whether a counterparty is a related party, attention shall be dir
 Interim financial reports shall disclose events or transactions of materiality that have occurred since the date of the end of the reporting period of the immediately preceding financial year; the disclosure shall be made in accordance with IAS 34, and shall include the following information:
 1.Possible impact that the application of newly issued or revised standards or interpretations will have on the issuer, as required to be disclosed in accordance with IAS 8.
 2.Qualitative and quantitative disclosure of risks arising from financial instruments, including credit risk, liquidity risk, and market risk, and management of such risks.
-3.Aged analysis of accounts receivable, and changes in allowances for bad debts and evaluated impairment thereof.
+3.Aged analysis of notes receivable and trade receivables, and changes in loss allowances.
 4.Foreign-currency-denominated assets and liabilities that have significant influence, including the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
 5.Sensitivity analysis of exchange rate risk for monetary items denominated in foreign currencies.
 ]]></條文內容>
@@ -519,30 +528,34 @@ S.Statement of changes in accumulated impairment of investments accounted for us
 T.Statement of changes in property, plant and equipment (Form 6-23).
 U.Statement of changes in accumulated depreciation of property, plant and equipment (Form 6-24).
 V.Statement of changes in accumulated impairment of property, plant and equipment (Form 6-25).
-W.Statement of changes in investment property (Form 6-26).
-X.Statement of changes in accumulated depreciation of investment property (Form 6-27).
-Y.Statement of changes in accumulated impairment of investment property (Form 6-28).
-Z.Statement of changes in intangible assets (Form 6-29).
-AA.Statement of deferred tax assets (Form 6-30).
-BB.Statement of biological assets - non-current (Form 6-31).
-CC.Statement of other non-current assets (Form 6-32).
-DD.Statement of short-term borrowings (Form 7-1).
-EE.Statement of short-term bills payable (Form 7-2).
-FF.Statement of financial liabilities at fair value through profit or loss - current (Form 7-3).
-GG.Statement of financial liabilities for hedging - current (Form 7-4).
-HH.Statement of notes payable (Form 7-6).
-II.Statement of trade payables (Form 7-7).
-JJ.Statement of other payables (Form 7-8).
-KK.Statement of provisions - current (Form 7-9).
-LL.Statement of liabilities directly associated with non-current assets held for sale (Form 7-10).
-MM.Statement of other current liabilities (Form 7-11).
-NN.Statement of changes in financial liabilities at fair value through profit or loss - non-current (Form 7-12).
-OO.Statement of financial liabilities for hedging - non-current (Form 7-13).
-PP.Statement of bonds payable (Form 7-14).
-QQ.Statement of long-term borrowings (Form 7-15).
-RR.Statement of provisions - non-current (Form 7-16).
-SS.Statement of deferred tax liabilities (Form 7-17).
-TT.Statement of other non-current liabilities (Form 7-18).
+W.Statement of changes in right-of-use assets (Form 6-26).
+X.Statement of changes in accumulated depreciation of right-of-use assets (Form 6-27).
+Y.Statement of changes in accumulated impairment of right-of-use assets (Form 6-28).
+Z.Statement of changes in investment property (Form 6-29).
+AA.Statement of changes in accumulated depreciation of investment property (Form 6-30).
+BB.Statement of changes in accumulated impairment of investment property (Form 6-31).
+CC.Statement of changes in intangible assets (Form 6-32).
+DD.Statement of deferred tax assets (Form 6-33).
+EE.Statement of biological assets - non-current (Form 6-34).
+FF.Statement of other non-current assets (Form 6-35).
+GG.Statement of short-term borrowings (Form 7-1).
+HH.Statement of short-term bills payable (Form 7-2).
+II.Statement of financial liabilities at fair value through profit or loss - current (Form 7-3).
+JJ.Statement of financial liabilities for hedging - current (Form 7-4).
+KK.Statement of notes payable (Form 7-6).
+LL.Statement of trade payables (Form 7-7).
+MM.Statement of other payables (Form 7-8).
+NN.Statement of provisions - current (Form 7-9).
+OO.Statement of liabilities directly associated with non-current assets held for sale (Form 7-10).
+PP.Statement of other current liabilities (Form 7-11).
+QQ.Statement of changes in financial liabilities at fair value through profit or loss - non-current (Form 7-12).
+RR.Statement of financial liabilities for hedging - non-current (Form 7-13).
+SS.Statement of bonds payable (Form 7-14).
+TT.Statement of long-term borrowings (Form 7-15).
+UU.Statement of lease liabilities (Form 7-16).
+VV.Statement of provisions - non-current (Form 7-17).
+WW.Statement of deferred tax liabilities (Form 7-18).
+XX.Statement of other non-current liabilities (Form 7-19).
 2.Statements of profit or loss items:
 A.Statement of operating revenue (Form 8-1).
 B.Statement of operating costs (Form 8-2).
@@ -588,8 +601,7 @@ Except when electing to use the deemed cost exemption in accordance with Article
   </條文>
   <條文>
     <條號>Article 27</條號>
-    <條文內容><![CDATA[For the financial assets or financial liabilities measured at cost upon initial recognition prior to the date of conversion, an issuer may, on the date of conversion, elect to use the exemption designated by the previously recognized financial instruments pursuant to IFRS 1, or classifies them as financial assets or financial liabilities held for trading on the premises that they meet the conditions for financial assets or financial liabilities held for trading under Article 9 or 10 of these Regulations.
-Financial assets or financial liabilities not included in the preceding paragraph may not be reclassified on the date of conversion.
+    <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
   <編章節>   Chapter VII Joint Arrangements</編章節>
@@ -599,7 +611,7 @@ Financial assets or financial liabilities not included in the preceding paragrap
 1.All of the parties are bound by a contractual arrangement.
 2.The contractual arrangement gives two or more of those parties joint control of the arrangement.
 When a joint arrangement is a joint operation, the assets, liabilities, revenues, and expenses relating to the joint operation shall be recognized in accordance with these Regulations, applicable IFRSs, and contractual agreement.
-When a joint arrangement is a joint venture, the interest in the joint venture shall be accounted for using the equity method pursuant to Article 9, paragraph 4, subparagraph 2 and IAS 28.
+When a joint arrangement is a joint venture, the interest in the joint venture shall be accounted for using the equity method pursuant to Article 9, paragraph 4, subparagraph 1 and IAS 28.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter VIII Supplementary Provisions</編章節>
@@ -615,7 +627,7 @@ When a joint arrangement is a joint venture, the interest in the joint venture s
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 2, Article 4, Article 7, paragraph 1, Articles 8 to 13, Article 15, Article 17, Article 19, Article 20, Article 21, Article 24, Article 26, and Article 28, as amended on 13 August 2014, which shall come into force from financial year 2015, the articles amended on 19 December 2016, which shall come into force from financial year 2017, and the articles amended on 28 June 2017, which shall come into force from financial year 2018.
+    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 2, Article 4, Article 7, paragraph 1, Articles 8 to 13, Article 15, Article 17, Article 19, Article 20, Article 21, Article 24, Article 26, and Article 28, as amended on 13 August 2014, which shall come into force from financial year 2015, the articles amended on 19 December 2016, which shall come into force from financial year 2017, the articles amended on 28 June 2017, which shall come into force from financial year 2018, and Article 9, paragraph 4, subparagraphs 3 and 4, Article 9, paragraph 6, Article 10, Article 15, Article 23, and Forms 1 and 1-1 of Article 19, which shall come into force from financial year 2019.
 ]]></條文內容>
   </條文>
 </法規內容>

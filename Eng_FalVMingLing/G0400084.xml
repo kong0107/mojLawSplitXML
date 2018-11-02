@@ -2,8 +2,8 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations Governing the Conduct of Discretionary Investment Business by Securities Investment Trust Enterprises and Securities Investment Consulting Enterprises</英文法規名稱>
 <中文法規名稱>證券投資信託事業證券投資顧問事業經營全權委託投資業務管理辦法</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400084</法規網址>
-<最新英文異動日期>20160104</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400084</法規網址>
+<最新英文異動日期>20180730</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -16,6 +16,7 @@
 7. Articles 2, 10, 16, 17-1, 23, and 31-3 amended and issued, and article 43 deleted, per 29 May 2014 Order No. Financial-Supervisory-Securities-SITC-10300133221 of the Financial Supervisory Commission
 8. Articles 4 to 6 amended and issued per 28 August 2014 Order Financial-Supervisory-Securities-Firms-1030030988 of the Financial Supervisory Commission 
 9. Articles 5, 6, and 7-3 amended and issued per 4 January 2016 Order No. Financial-Supervisory-Securities-SITC-1040052431 of the Financial Supervisory Commission
+10. Articles 4, 5, 11, 21, 22, 26, 28, and 29 amended and issued per 30 July 2018 Order No. Financial-Supervisory-Securities-SITC-1070326730 of the Financial Supervisory Commission
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -53,7 +54,7 @@ No person that has not received the approval referred to in the preceding paragr
     <條號>Article 4</條號>
     <條文內容><![CDATA[A SITE applying to provide discretionary investment services shall possess the following qualifications:
 1.Having already established a securities investment trust fund.
-2.A net worth per share not lower than par value in the CPA-audited and certified financial report for the preceding period.
+2.A net worth per share not lower than par value in the CPA-audited and certified financial report for the preceding period. However, this requirement shall not apply to a SITE that has obtained its business licenses for less than 1 full fiscal year.
 3.Having received no sanction pursuant to Article 103, subparagraph 1 of the SITC Act, Article 100, paragraph 1, subparagraph 1 of the Futures Trading Act, or Article 66, subparagraph 1 of the Securities and Exchange Act within the preceding half-year.
 4.Having received no sanction equal to or greater than those under Article 103, subparagraphs 2 through 5 of the SITC Act, Article 100, paragraph 1, subparagraphs 2 through 4 of the Futures Trading Act, or Article 66, subparagraphs 2 through 4 of the Securities and Exchange Act within the preceding two years.
 5.Having made substantive corrections after being sanctioned pursuant to the preceding two subparagraphs and receiving an order to take corrective action.
@@ -64,7 +65,7 @@ No person that has not received the approval referred to in the preceding paragr
     <條號>Article 5</條號>
     <條文內容><![CDATA[A SICE applying to provide discretionary investment services shall possess the following qualifications:
 1.Paid-in capital of no less than NT$50 million. For a SICE making this application that concurrently conducts futures advisory business or a SICE simultaneously applying to conduct discretionary investment business and to concurrently conduct futures advisory business, actual paid-in capital shall be no less than NT$70 million.
-2.The CPA-audited and certified financial report for the preceding period, showing a net worth per share not lower than par value.
+2.The CPA-audited and certified financial report for the preceding period, showing a net worth per share not lower than par value. However, this requirement shall not apply to a SICE that has obtained its business licenses for less than 1 full fiscal year.
 3.Having not been subject within the past three months to a warning, penalty for default, suspension of some or all of the rights and interests normally enjoyed by a member, or voidance or suspension of membership qualifications by the Securities Investment Trust and Consulting Association of the R.O.C. (SITCA) or the Chinese National Futures Association, pursuant to their self-regulatory rules, resulting from its operation of securities investment analysis or futures research and analysis.
 4.Having received no sanction pursuant to Article 103, subparagraph 1 of the SITC Act, Article 100, paragraph 1, subparagraph 1 of the Futures Trading Act, or Article 66, subparagraph 1 of the Securities and Exchange Act within the preceding the preceding half-year.
 5.Having received no sanction equal to or greater than those under Article 103, subparagraphs 2 through 5 of the SITC Act, Article 100, paragraph 1, subparagraphs 2 through 4 of the Futures Trading Act, or Article 66, subparagraphs 2 through 4 of the Securities and Exchange Act within the preceding two years.
@@ -175,7 +176,7 @@ When a SITE or a SICE is concurrently operated by a non-industry enterprise, wit
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[Where a SITE or SICE provides mandate-type discretionary investment services, the customer shall place the discretionary investment assets in the custody of the custodian or transfer them to the custodian by trust.
+    <條文內容><![CDATA[Where a SITE or SICE provides mandate-type discretionary investment services, the customer shall place the discretionary investment assets in the custody of the discretionary investment custodian or transfer them to the custodian by trust.
 The SITE or the SICE may not for any reason keep the customer's discretionary investment assets in its own custody.
 The custodian of the discretionary investment assets referred to in the preceding paragraph shall be personally designated by the customer.
 The SITE or the SICE has the obligation to inform the customer when any of the following types of controlling relationship exist between itself and the custodian of the discretionary investment assets designated by the customer:
@@ -186,6 +187,7 @@ The SITE or the SICE has the obligation to inform the customer when any of the f
 5.Any other substantive controlling relationship exists between the custodian of the discretionary investment assets and the SITE or the SICE.
 The provisions of subparagraph 2 of the preceding paragraph apply mutatis mutandis to the representative or designated representative of a director or supervisor that is a juristic person.
 If a discretionary investment services customer is a trust enterprise or another enterprise approved by the FSC, the customer may keep the discretionary investment assets in its own custody without regard for the provisions of paragraph 1.
+If a discretionary investment business customer is a qualified institutional investor as set forth in Article 4, paragraph 2 of the Financial Consumer Protection Act, and it furthermore has designated a custodian for the discretionary investment assets, the SITE or SICE and the customer may agree between themselves on the custody of the discretionary investment assets, and are exempted from application of the provisions of paragraph 1 that the customer place the discretionary investment assets in the custody of a discretionary investment custodian or transfer them to the custodian by trust.
 ]]></條文內容>
   </條文>
   <條文>
@@ -311,6 +313,7 @@ The prospectus referred to in the preceding paragraph shall set out the followin
 6.The status of any dispositions received by the enterprise or its responsible person pursuant to Articles 103 or 104 of the SITC Act, Articles 100 or 101 of the Futures Trading Act, Article 56 or 66 of the Securities and Exchange Act, or Article 44 of the Trust Enterprise Act.
 7.Cautionary language regarding the risks of investment or trading, the special characteristics of the instruments to be traded or invested in, and any possible associated risks or legal restrictions.
 Any change in the prospectus referred to in the paragraph 1 with a material influence on customer rights and interests shall be reported to the FSC for recordation.
+If a discretionary investment business customer meets the conditions set out in Article 11, paragraph 6, the SITE or SICE and the customer may agree between themselves on the matters required to be done before signing of the discretionary investment services contract, and are exempted from application of the provisions of the preceding three paragraphs.
 ]]></條文內容>
   </條文>
   <條文>
@@ -346,7 +349,7 @@ Where the customer makes no designation of a securities broker or futures broker
 The compensation referred to in paragraph 2, subparagraph 13 may include collection of the performance compensation provided for in Article 20.
 SITCA shall draft contract templates for discretionary investment business and adopt regulations governing mediation procedures in regard to the method of dispute resolution referred to in paragraph 2, subparagraph 20, which it shall submit to the FSC by letter for approval; the same shall apply to any amendment thereto.
 The discretionary investment services contract of paragraph 1 and related materials shall be retained on file for a period of not less than five years after the contract ceases to have effect.
-Designation or change in designation of the custodian of the discretionary investment assets as referred to in paragraph 2, subparagraph 8 shall not apply when the customer keeps the discretionary investment assets in its own custody as provided for in Article 11, paragraph 5.
+Designation or change in designation of the custodian of the discretionary investment assets as referred to in paragraph 2, subparagraph 8 shall not apply when the customer keeps the discretionary investment assets in its own custody as provided for in Article 11, paragraph 5 or when the SITE or SICE and the customer agree between themselves on the custody of the discretionary investment assets as provided for in Article 11, paragraph 6.
 ]]></條文內容>
   </條文>
   <條文>
@@ -381,7 +384,7 @@ When the scope of trading or investment allowed by a SITE or a SICE in the condu
   <條文>
     <條號>Article 26</條號>
     <條文內容><![CDATA[When a SITE or a SICE conducts discretionary investment business, the customer shall separately enter into a mandate agreement or a trust agreement with the custodian of the discretionary investment assets to govern the handling of matters relating to investments in securities or trading in securities-related products. Such matters include account opening, custody of funds and certificates, deposit of margins and premiums, trade settlement, account servicing, and exercise of equity rights.
-The provisions of the preceding paragraph do not apply to customers who keep discretionary investment assets in their own custody as provided for in Article 11, paragraph 5.
+The provisions of the preceding paragraph do not apply when the customer keeps the discretionary investment assets in its own custody as provided for in Article 11, paragraph 5 or when the SITE or SICE and the customer agree between themselves on the custody of the discretionary investment assets as provided for in Article 11, paragraph 6.
 The custodian of the discretionary investment assets shall enter into mandate or trust agreements of the type specified in paragraph 1 separately with each individual customer, and except where law, regulation, or the FSC provide otherwise, may not accept any collective mandate or collective trust.
 Prior to implementing the matters referred to in paragraph 1, the custodian of the discretionary investment assets shall first review the scope and the restrictions set out in the mandate contract.
 The content and scope of the mandate agreement or trust agreement referred to in paragraph 1 and the related contract templates shall be drafted by SITCA and submitted by letter to the FSC for approval.
@@ -395,13 +398,13 @@ The operating rules of the preceding paragraph regarding contract signing, accou
   </條文>
   <條文>
     <條號>Article 28</條號>
-    <條文內容><![CDATA[A SITE or a SICE that utilizes discretionary investment assets for investment or trading shall produce a written transaction decision based on its analysis report and produce a record of the transaction at the time the decision is executed. The SITE or SICE shall further produce a monthly review report regarding these procedures, and its analysis report and transaction decision shall be based on reasonable analytical bases and source data.
-In the preceding paragraph, the analysis report shall state the analytical bases, source data, and recommendation made; the written trading decision shall state the type, volume, and price of the investment instrument as well as the timing of the trade, as anticipated by the SITE or SICE; the record of implementation shall state the type, volume, and price of the investment instrument as well as the timing of the trade, as actually executed, and shall state the reasons for any discrepancies with the written decision.
-The analysis report, written trading decision, record of implementation, and review report referred to in the first paragraph shall be produced in written form in chronological sequence, and kept on file for a period of not less than five years.
-When a SITE or a SICE utilizes discretionary investment assets for investment or trading, and the customer is a qualified institutional investor as specified in Article 4, paragraph 2 of the Financial Consumer Protection Act, the procedures for the utilization of discretionary investment assets for investment or trading may be separately stipulated in the discretionary investment services contract that it enters into with the customer, and are not subject to the restrictions of the preceding three paragraphs. The relevant investment information or trading information shall be produced in chronological sequence and kept on file for a period of not less than five years.
+    <條文內容><![CDATA[In utilizing discretionary investment assets to invest or trade, a SITE or SICE shall base its decisions on its analysis; it shall keep records of its execution thereof, and shall also submit a review on a monthly basis. Its analysis and decisions shall be founded on reasonable grounds and bases.
+The SITE or SICE shall include the analysis, decisions, execution, and review referred to in the preceding paragraph in the internal control system, and faithfully implement the system.
+The SITE or SICE shall keep records of the control activities under the preceding paragraph, and shall preserve them for not less than 5 years.
 When a SITE or a SICE conducts discretionary investment business, it shall establish an account for each individual customer in which it records daily the status of trading of customer assets and the customer's balance by volume and value.
 A customer may request to examine the data referred to in the preceding paragraph and the appointed SITE or SICE may not refuse such a request.
-A SITE or SICE using discretionary investment assets to trade securities or securities-related products shall apply any transaction fees returned or other benefits paid by securities brokers, futures commission merchants, or other trading counterparties to offsetting the customer's transaction costs.
+A SITE or SICE using discretionary investment assets to trade securities, securities-related products, or any other instrument in which investment or transaction is permitted by the FSC, shall apply any transaction fees returned or other benefits paid by securities brokers, futures commission merchants, or other trading counterparties to offsetting the customer's transaction costs.
+If a discretionary investment business customer meets the conditions set out in Article 11, paragraph 6, the SITE or SICE and the customer may agree between themselves on the treatment of service fees returned or other benefits paid by trading counterparties, and are exempted from application of the provisions of the preceding paragraph.
 ]]></條文內容>
   </條文>
   <條文>
@@ -410,6 +413,7 @@ A SITE or SICE using discretionary investment assets to trade securities or secu
 At any time impairment of the net asset value of a customer's discretionary investment assets equals 20 percent or more of the value of the original discretionary investment assets, the SITE or SICE shall produce the report referred to in the preceding paragraph and deliver it to the customer within two business days from the date of the event. The same shall apply in each subsequent case of impairment equaling 20 percent or more of the net asset value stated in a previous report.
 When a customer's discretionary investment assets are the assets of a special ledger account for investment-linked insurance or Labor Pension Act annuity insurance, then at any time impairment of its discretionary investment account assets equals 5 percent or more of their per-unit value on the previous business day, the SITE or SICE shall produce the report referred to in the paragraph 1 and deliver it to the customer within two business days from the date of the event, without regard for the provisions of the preceding paragraph.
 The percentage given in the preceding paragraph may be adjusted with the customer's consent or by stipulation in the discretionary investment services contract, but may not exceed 10 percent.
+If a discretionary investment business customer meets the conditions set out in Article 11, paragraph 6, the SITE or SICE and the customer may agree between themselves on the treatment of reporting obligations, and are exempted from application of the provisions of paragraphs 1 and 2.
 ]]></條文內容>
   </條文>
   <條文>

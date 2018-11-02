@@ -2,8 +2,8 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations Governing the Preparation of Financial Reports by Futures Commission Merchants</英文法規名稱>
 <中文法規名稱>期貨商財務報告編製準則</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400117</法規網址>
-<最新英文異動日期>20170914</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400117</法規網址>
+<最新英文異動日期>20180730</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -21,6 +21,7 @@
 12. Full text of 41 Articles amended and issued per 11 September 2014 Order No. Financial-Supervisory-Securities-Firms-1030034680 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 4, 7, 13 to 19, 22, 24, 26, 27, 35, and 37, and Article 12, paragraph 1, which will come into force from the beginning of financial year 2015
 13. Articles 14, 18, 22, 24, 25, 30 to 34, and 41, and the title of Chapter V, amended, and Articles 35-1 and 35-2 added, per 14 February 2017 Order No. Financial-Supervisory-Securities-Firms-1060002308 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 14, 18, 22, 25, 35-1, and 35-2, which will come into force from financial year 2017
 14. Articles 14 to 18, 22, 29, 30, 38, 39, and 41 amended per 14 September 2017 Order No. Financial-Supervisory-Securities-Firms-1060032840 of the Financial Supervisory Commission; for enforcement from financial year 2018
+15. Articles 14, 15, 22, 26, 29, 30, and 41 amended, and Articles 36, 37, and 38 and the title "Chapter VI" deleted, per 30 July 2018 Order No. Financial-Supervisory-Securities-Firms-1070324179 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 14, paragraph 4, subparagraphs 3 and 4, and paragraph 6, and Articles 15, 22, and 29, which will come into force from financial year 2019.
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -151,9 +152,10 @@ When the balance of customer margin accounts does not match that of futures trad
 8.Deposits for securities borrowed: Guarantee amounts deposited in Securities Borrowing and Lending transactions, either for borrowing underlying securities from the holders or for short selling on an exchange market.
 9.Collateral for securities borrowed: Collateral posted in Securities Borrowing and Lending transactions, either for borrowing underlying securities from the holders or for short selling on an exchange market.
 10.Trade receivables: Means the entity has an unconditional contractual right to consideration for services that have been transferred.
-A.Trade receivables shall be measured at amortized cost using the effective interest method. However, short-term trade receivables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+A.Trade receivables shall be measured in accordance with IFRS 9. However, short-term trade receivables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
 B.With respect to discounted or transferred trade receivables, an assessment shall be made to determine whether the risks and rewards of the trade receivables, and the control retained over them, will qualify them for derecognition under IFRS 9.
 C.Trade receivables from related parties in significant amounts shall be presented separately.
+D.The FCM shall disclose an aged analysis of trade receivables.
 11.Other receivables: Receivables other than trade receivables, including claims arising from out-trades.
 12.Current tax assets: The portion of the tax amount already paid in respect of current and prior periods that exceeds the amount due for those periods.
 13.Prepayments: All prepayments and prepaid expenses.
@@ -173,15 +175,18 @@ A.Tangible asset items that are held for use in the production or supply of good
 B.Property and equipment shall be subsequently measured using the cost model and accounted for in accordance with IAS 16.
 C.Each component of property and equipment that is significant shall be depreciated separately. The depreciation method used shall reflect the pattern in which the asset's future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The depreciable amount should be allocated on a systematic basis over the asset's useful life.
 D.When items of property and equipment have different useful lives, or provide economic benefits in different ways, or are subject to different depreciation methods or depreciation rates, the notes to the financial reports shall show each class of their material components.
-3.Investment property:
-A.Property held, by the owner or by the lessee under a finance lease, to earn rentals, or for capital appreciation, or both.
+3.Right-of-use assets:
+A.Means an asset that represents a lessee's right to use an underlying asset for the lease term.
+B.A right-of-use asset shall be accounted for in accordance with IFRS 16.
+4.Investment property:
+A.Means property that is held by the owner or that is held by the lessee with the right of use, to earn rentals, or for capital appreciation, or both.
 B.Investment property shall be accounted for in accordance with IAS 40. If the investment property is subsequently measured at fair value, the valuation model, qualifications of the appraiser, and information disclosure shall comply with Article 9, paragraph 4, subparagraph 3 of the Regulations Governing the Preparation of Financial Reports by Securities Issuers.
-4.Intangible assets:
+5.Intangible assets:
 A.An identifiable non-monetary asset without physical substance that meets the definition of identifiability, control, and existence of future economic benefits.
 B.Intangible assets shall be subsequently measured using the cost model and accounted for in accordance with IAS 38.
 C.The amortization method used shall reflect the pattern in which the asset’s future economic benefits are expected to be consumed by the entity. If that pattern cannot be determined reliably, the straight-line method shall be used. The amortized amount of an intangible asset shall be allocated on a systematic basis over its useful life.
-5.Deferred tax assets: The amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
-6.Other non-current assets: Non-current assets not attributable to any of the classes above.The major line items under other non-current assets are as follows:
+6.Deferred tax assets: The amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
+7.Other non-current assets: Non-current assets not attributable to any of the classes above.The major line items under other non-current assets are as follows:
 A.Operating bond: The operating bond deposited in accordance with Article 60 of the Futures Trading Act.
 B.Settlement and clearing funds: Settlement and clearing funds deposited in accordance with the Futures Trading Act and other applicable requirements.
 C.Refundable deposits: All other guarantee deposits paid out as refundable deposits.
@@ -190,7 +195,7 @@ E.Accounts with branches: To be used when there is a debit balance in transactio
 F.Accounts with head office: To be used when there is a debit balance in transactions between the branches and head office of an FCM.
 G.Intra-entity accounts: To be used when there is a debit balance in transactions between the futures segment and any other segment, in the case of an enterprise from another industry that concurrently conducts futures business.
 The accounting treatment and the recognition and measurement of loss allowances of the items described in the preceding two paragraphs in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, futures trading margins receivable, trade receivables, and other receivables shall be in accordance with IFRS 9. Loss allowances shall be classified respectively as deductions from financial assets measured at amortized cost, futures trading margins receivable, trade receivables, and other receivables. If those classifications are further subclassified, the loss allowances thereof shall also be presented respectively in the same manner.
-An FCM shall assess as of each balance sheet date whether there is any objective evidence of impairment for the items described in paragraphs 3 and 4 in relation to investments accounted for using the equity method, property and equipment, investment property measured using cost model, and intangible assets. If any such evidence exists, the FCM shall recognize the amount of any impairment loss in accordance with IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, and the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for value in use measurement.
+An FCM shall assess as of each balance sheet date whether there is any objective evidence of impairment for the items described in paragraphs 3 and 4 in relation to investments accounted for using the equity method, property and equipment, right-of-use assets, investment property measured using cost model, and intangible assets. If any such evidence exists, the FCM shall recognize the amount of any impairment loss in accordance with IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, and the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for value in use measurement.
 With respect to the items described in paragraph 3 and paragraph 4 in relation to financial assets at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, customer margin accounts, trade receivables, other receivables, non-current assets held for sale, and investment property, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
 The items described in paragraphs 3 and 4 in relation to financial assets at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, and financial assets for hedging, shall be distinguished as current and non-current based on liquidity.
 ]]></條文內容>
@@ -244,15 +249,18 @@ B.Premiums and discounts on bonds payable are valuations of bonds payable. They 
 A.For long-term borrowings, the content, maturity date, interest rate, name of collateral, carrying amount, and any other important restriction terms shall be noted.
 B.For a long-term borrowing repaid in a foreign currency or in an amount translated at a foreign exchange rate, the name and amount of such foreign currency shall be noted.
 C.Long-term notes payable and other long-term payables shall be measured at amortized cost using the effective interest method.
-3.Deferred tax liabilities: The amounts of income taxes payable in future periods in respect of taxable temporary differences.
-4.Other non-current liabilities: Non-current liabilities not attributable to any of the classes above. The major line items under other non-current liabilities are as follows:
+3.Lease liabilities:
+A.Means the present value of the lease payments that the lessee has not paid.
+B.Lease liabilities shall be accounted for in accordance with IFRS 16.
+4.Deferred tax liabilities: The amounts of income taxes payable in future periods in respect of taxable temporary differences.
+5.Other non-current liabilities: Non-current liabilities not attributable to any of the classes above. The major line items under other non-current liabilities are as follows:
 A.Refundable deposits: All other guarantee deposits received as refundable deposits.
 B.Accounts with branches: To be used when there is a credit balance in transactions between the head office and branches, if an FCM has branches.
 C.Accounts with head office: To be used when there is a credit balance in transactions between the branches and head office of an FCM.
 D.Intra-entity accounts: To be used when there is a credit balance in transactions between the futures segment and any other segment, in the case of an enterprise from another industry that concurrently conducts futures business.
 The items described in the preceding two paragraphs in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, trade payables, and other payables shall be accounted for in accordance with IFRS 9.
 With respect to the items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, futures traders' equity, trade payables, other payables, bonds payable, and long-term borrowings, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
-The items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, and provisions shall be distinguished as current and non-current based on liquidity.
+The items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, lease liabilities, and provisions shall be distinguished as current and non-current based on liquidity.
 ]]></條文內容>
   </條文>
   <條文>
@@ -389,24 +397,25 @@ An FCM shall present, either in the statement of changes in equity or in the not
 21.Losses due to major disasters.
 22.Major litigation pending or concluded.
 23.The signing, completion, voidance, or lapse of major contracts.
-24.Information about financial instruments. The information shall be disclosed in accordance with IFRS 7, including disclosure of the significance of financial instruments for the securities firm's financial position and performance; qualitative and quantitative disclosures describing risk exposures arising from financial instruments.
+24.Information about financial instruments. The information shall be disclosed in accordance with IFRS 7, including disclosure of the significance of financial instruments for the FCM's financial position and performance; qualitative and quantitative disclosures describing risk exposures arising from financial instruments.
 25.Comprehensive information about the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers. The information shall be disclosed in accordance with IFRS 15, including details of revenue recognized from contracts with customers, contract balances, contract performance obligations, significant judgments and changes in the judgments, and any assets recognized from the costs to obtain or fulfil a contract with a customer.
-26.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, and certainty of future cash flows, actuarial losses and gains arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
-27.Segment financial information required to be disclosed in accordance with IFRS 8, including the scope of business, revenue, and gains and losses of each reportable segment.
-28.Information on Mainland Area investments by the FCM or by its subsidiaries in a third jurisdiction.
-29.When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
-30.In the case of private placement of securities, the type, issue date, and amount shall be noted.
-31.Major organizational adjustments and significant management reforms.
-32.Material effects of changes in government laws and regulations.
-33.Material effects of discontinuance of operations.
-34.Any merger with or transfer of all business operations from or to another FCM.
-35.Fair value information. The information shall be disclosed in accordance with IAS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
-36.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
-37.The basis for calculating the number of shares to be distributed as profit-sharing compensation to employees, and information on profit-sharing compensation to employees, directors, and supervisors:
+26.Relevant information about leases. The information shall be disclosed in accordance with IFRS 16, including disclosure of information that gives a basis for users of the financial statements to assess the effect that the leases have on the financial position, financial performance, and cash flows of the FCM, and relevant qualitative and quantitative information about its leasing activities.
+27.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, and certainty of future cash flows, actuarial losses and gains arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
+28.Segment financial information required to be disclosed in accordance with IFRS 8, including the scope of business, revenue, and gains and losses of each reportable segment.
+29.Information on Mainland Area investments by the FCM or by its subsidiaries in a third jurisdiction.
+30.When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
+31.In the case of private placement of securities, the type, issue date, and amount shall be noted.
+32.Major organizational adjustments and significant management reforms.
+33.Material effects of changes in government laws and regulations.
+34.Material effects of discontinuance of operations.
+35.Any merger with or transfer of all business operations from or to another FCM.
+36.Fair value information. The information shall be disclosed in accordance with IAS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
+37.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
+38.The basis for calculating the number of shares to be distributed as profit-sharing compensation to employees, and information on profit-sharing compensation to employees, directors, and supervisors:
 A.The fixed amount or ratio prescribed in the articles of incorporation (and a statement that this information may be queried on the Market Observation Post System).
 B.The basis for the estimated figures for the current period, the basis for calculating the number of shares to be distributed, and the accounting treatment of the discrepancy, if any, between the actual distributed amount and the estimated figure.
 C.The actual distribution for the previous fiscal year (with an indication of the number of shares, monetary amount, and stock price, of the shares distributed), and, if there is any discrepancy between the actual distribution and the recognized compensation, additionally specify the amount of the discrepancy, the cause, and how it is treated.
-38.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
+39.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
 ]]></條文內容>
   </條文>
   <條文>
@@ -467,7 +476,7 @@ In considering whether a counterparty is a related party, attention shall be dir
 Interim financial reports shall disclose events or transactions of materiality that have occurred since the date of the end of the reporting period of the immediately preceding financial year; the disclosure shall be made in accordance with IAS 34, and shall include the following information:
 1.Possible impact that the application of newly issued or revised standards or interpretations will have on the FCM, as required to be disclosed in accordance with IAS 8.
 2.Qualitative and quantitative disclosure of risks arising from financial instruments, including credit risk, liquidity risk, and market risk, and management of such risks.
-3.Aged analysis of accounts receivable, and changes in allowances for bad debts and evaluated impairment thereof.
+3.Aged analysis of trade receivables, and changes in loss allowances.
 4.Foreign-currency-denominated assets and liabilities that have significant influence, including the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
 5.Sensitivity analysis of exchange rate risk for monetary items denominated in foreign currencies.
 ]]></條文內容>
@@ -516,30 +525,34 @@ X.Statement of changes in investments accounted for using the equity method.
 Y.Statement of changes in accumulated impairment of investments accounted for using the equity method.
 Z.Statement of changes in property and equipment.
 AA.Statement of changes in accumulated depreciation of property and equipment.
-BB.Statement of changes in accumulated impairment of property and equipment.
-CC.Statement of changes in investment property.
-DD.Statement of changes in accumulated depreciation of investment property.
-EE.Statement of changes in accumulated impairment of investment property.
-FF.Statement of changes in intangible assets.
-GG.Statement of deferred tax assets.
-HH.Statement of other non-current assets.
-II.Statement of short-term borrowings.
-JJ.Statement of commercial paper payable.
-KK.Statement of financial liabilities at fair value through profit or loss –current.
-LL.Statement of financial liabilities for hedging –current.
-MM.Statement of futures traders' equity.
-NN.Statement of trade payables.
-OO.Statement of other payables.
-PP.Statement of provisions –current.
-QQ.Statement of liabilities directly associated with non-current assets held for sale.
-RR.Statement of other current liabilities.
-SS.Statement of changes in financial liabilities at fair value through profit or loss –non-current.
-TT.Statement of financial liabilities for hedging –non-current.
-UU.Statement of long-term borrowings.
-VV.Statement of bonds payable.
-WW.Statement of provisions –non-current.
-XX.Statement of deferred tax liabilities.
-YY.Statement of other non-current liabilities.
+AB.Statement of changes in accumulated impairment of property and equipment.
+AC.Statement of changes in right-of-use assets.
+AD.Statement of changes in accumulated depreciation of right-of-use assets.
+AE.Statement of changes in accumulated impairment of right-of-use assets.
+AF.Statement of changes in investment property.
+AG.Statement of changes in accumulated depreciation of investment property.
+AH.Statement of changes in accumulated impairment of investment property.
+AI.Statement of changes in intangible assets.
+AJ.Statement of deferred tax assets.
+AK.Statement of other non-current assets.
+AL.Statement of short-term borrowings.
+AM.Statement of commercial paper payable.
+AN.Statement of financial liabilities at fair value through profit or loss –current.
+AO.Statement of financial liabilities for hedging –current.
+AP.Statement of futures traders' equity.
+AQ.Statement of trade payables.
+AR.Statement of other payables.
+AS.Statement of provisions –current.
+AT.Statement of liabilities directly associated with non-current assets held for sale.
+AU.Statement of other current liabilities.
+AV.Statement of changes in financial liabilities at fair value through profit or loss –non-current.
+AW.Statement of financial liabilities for hedging –non-current.
+AX.Statement of long-term borrowings.
+AY.Statement of lease liabilities.
+AZ.Statement of bonds payable.
+BA.Statement of provisions –non-current.
+BB.Statement of deferred tax liabilities.
+BC.Statement of other non-current liabilities.
 2.Statements of profit or loss items:
 A.Statement of gains (losses) on derivative instruments.
 B.Statement of futures commission expenses.
@@ -554,10 +567,10 @@ An FCM may determine, having regard to the concept of materiality, whether or no
     <條號>Article 30</條號>
     <條文內容><![CDATA[An FCM shall provide information on its business conditions in accordance with the following:
 1.Significant business matters: The FCM shall provide information on matters arising over the most recent 5 financial years that have had a significant impact on its business, including acquisitions of or mergers with other companies, demergers, equity investments in affiliated enterprises, reorganization, purchases or disposals of major assets, and significant changes in operation method or business activity.
-2.Remuneration to directors, supervisors, general manager, and assistant general managers and related information:
+2.Remuneration to directors, supervisors, general manager, assistant general managers and any board chairman(men) and general manager(s) who retired from the FCM or an affiliated enterprise thereof and have resumed employment at the FCM as a consultant and related information:
 A.The FCM may opt either to disclose aggregate remuneration information, with the name(s) indicated for each remuneration range, or to disclose the name of each individual and the corresponding remuneration amount. For a director concurrently serving as a member of management, the remuneration shall be disclosed separately for each position held. The FCM may adopt the aggregate disclosure method if it is a non-public company whose issued voting shares are all held, directly or indirectly, by one single person.
-B.In any of the following circumstances, the FCM shall disclose the remuneration paid to each of the directors and supervisors, provided that this rule does not apply if it is a non-public company whose issued voting shares are all held, directly or indirectly, by one single person:
-a.If the FCM has had an after-tax deficit for the most recent two financial years, it shall disclose the remuneration paid to each of the directors, supervisors, and general manager. This requirement, however, shall not apply if there is net income after tax for the most recent fiscal year and such net income after tax is sufficient to make up the accumulated deficits.
+B.In any of the following circumstances, the FCM shall disclose the remuneration paid to each individual director, supervisor, general manager, assistant general manager, and consultant, provided that this rule does not apply if it is a non-public company whose issued voting shares are all held, directly or indirectly, by one single person:
+a.The FCM has had an after-tax deficit on its parent company only or individual financial report in one of the most recent two financial years. This requirement, however, shall not apply if there is net income after tax for the most recent fiscal year and such net income after tax is sufficient to make up the accumulated deficits.
 b.The FCM, if a public company that has had an insufficient director shareholding percentage for 3 consecutive months or longer during the most recent financial year, shall disclose the remuneration paid to each of the directors, and, if one that has had an insufficient supervisor shareholding percentage for 3 consecutive months or longer during the most recent financial year, shall disclose the remuneration paid to each of the supervisors.
 c.The FCM, if a public company that has had an average ratio of share pledging by directors and supervisors in excess of 50 percent in any 3 months during the most recent financial year, shall disclose the remuneration paid to each of the directors and supervisors having a ratio of pledged shares in excess of 50 percent for each such month.
 d.If the total amount of remuneration received by all of the directors and supervisors in their capacity as directors or supervisors of the companies listed in the financial reports exceeds 2 percent of the net income after tax, and the remuneration received by any individual director or supervisor exceeds NT$15 million, the FCM shall disclose the remuneration paid to that individual director or supervisor.
@@ -565,9 +578,11 @@ d.If the total amount of remuneration received by all of the directors and super
 4.Labor-management relations:
 A.Indicate each item of employee benefit policies, professional development, training, or retirement programs and the status of their implementation, as well as agreements between labor and management and policies for safeguarding employees' rights and interests.
 B.List the loss sustained as a result of labor disputes in the most recent financial year, together with the disclosure of an estimate of losses incurred to date or likely to be incurred in the future and the mitigation measures taken or to be taken. If the losses cannot be reasonably estimated, the FCM shall make a statement to that effect.
+C.List any violations of the Labor Standards Act found during a labor inspection, including the disposition date, disposition reference number, the articles of laws or regulations breached, description of the violation, and the disposition.
 5.The following items shall be disclosed with respect to the implementation of the internal control system:
 A.Statement of the internal control system.
 B.If a CPA has been engaged to carry out a project audit of the internal control system, the CPA audit report shall be disclosed.
+6.The term "affiliated enterprise" in this article means an affiliated enterprise as defined in Article 369-1 of the Company Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -576,7 +591,7 @@ B.If a CPA has been engaged to carry out a project audit of the internal control
 1.Condensed balance sheet and statement of comprehensive income for the most recent 5 years, and shall specify the name of the CPAs and the auditor's opinion.
 2.Financial analysis for the most recent 5 years: including financial structure, solvency, profitability, cash flows and the rates of other special requirements, and explain the reasons for the change of each of the financial ratios over the most recent 2 fiscal years.
 3.If the FCM or an affiliated enterprise has encountered any financial difficulties in the most recent fiscal year, the impact on the company's financial condition shall be set forth.
-"Affiliated enterprise" in subparagraph 3 of the preceding paragraph refers to an affiliated enterprise as defined in Article 369-1 of the Company Act.
+"Affiliated enterprise" in subparagraph 3 of the preceding paragraph means an affiliated enterprise as defined in Article 369-1 of the Company Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -652,30 +667,26 @@ If any investment property or interest in joint operations that the FCM acquires
     <條文內容><![CDATA[Goodwill which is recognized in connection with a business combination of an FCM shall be tested for impairment at least annually in accordance with IAS 36. If there is any significant difference between the actual operation conditions of the acquired company after the business combination and the expected benefits at the time of acquisition, it shall be disclosed in the notes.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter VI First-time Adoption</編章節>
+  <編章節>   Chapter VI (Deleted)</編章節>
   <條文>
     <條號>Article 36</條號>
-    <條文內容><![CDATA[IFRS 1 applies when an FCM first adopts IFRS.
-Except when electing to use the deemed cost exemption in accordance with Article 37 below, the FCM shall apply IAS 40, IAS 16, and IAS 38 retrospectively to investment property, property and equipment not classified as for investment or held for sale, and intangible assets in accordance with the preceding paragraph at the date of transition to IFRS.
+    <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 37</條號>
-    <條文內容><![CDATA[An FCM electing to use the deemed cost exemption described in IFRS 1 shall be subject to the following:
-1.If the FCM chooses to use the fair value of such an item of investment property as its deemed cost, it shall comply with Article 9, paragraph 4, subparagraph 4 of the Regulations Governing the Preparation of Financial Reports by Securities Issuers.
-2.For an item of investment property that does not fall within the scope of the preceding subparagraph allowing the use of fair value as deemed cost, of property and equipment not classified as for investment or held for sale, or of intangible assets, the FCM may only elect to use a previous GAAP revaluation of that item as deemed cost at the date of the revaluation.
+    <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38</條號>
-    <條文內容><![CDATA[For the financial assets or financial liabilities measured at cost upon initial recognition prior to the date of conversion, an FCM shall, on the date of conversion, elect to use the exemption designated by the previously recognized financial instruments pursuant to IFRS 1 and IFRS 9.
+    <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
   <編章節>   Chapter VII Joint Arrangements</編章節>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[Financial assets or financial liabilities not included in the preceding paragraph may not be reclassified on the date of conversion.
-Joint arrangements are either joint operations or joint ventures, and have the following characteristics:
+    <條文內容><![CDATA[Joint arrangements are either joint operations or joint ventures, and have the following characteristics:
 1.All of the parties are bound by a contractual arrangement.
 2.The contractual arrangement gives two or more of those parties joint control of the arrangement.
 When a joint arrangement is a joint operation, the assets, liabilities, revenues, and expenses relating to the joint operation shall be recognized in accordance with these Regulations, applicable IFRSs, and contractual agreement.
@@ -690,7 +701,7 @@ When a joint arrangement is a joint venture, the interest in the joint venture s
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 4, Article 7, Article 12, paragraph 1, Article 13 to Article 19, Article 22, Article 24, Article 26, Article 27, Article 35, Article 37, and Article 39, as amended on 11 September 2014, which shall come into force from financial year 2015, and Article 14, Article 18, Article 22, Article 25, Article 35-1, and Article 35-2, as amended on 14 February 2017, which shall come into force from financial year 2017, and the Articles as amended on 14 September 2017, which shall come into force from financial year 2018.
+    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 4, Article 7, Article 12, paragraph 1, Article 13 to Article 19, Article 22, Article 24, Article 26, Article 27, Article 35, Article 37, and Article 39, as amended on 11 September 2014, which shall come into force from financial year 2015, and Article 14, Article 18, Article 22, Article 25, Article 35-1, and Article 35-2, as amended on 14 February 2017, which shall come into force from financial year 2017, the Articles as amended on 14 September 2017, which shall come into force from financial year 2018, and Article 14, paragraph 4, subparagraphs 3 and 4, and paragraph 6, Article 15, Article 22, and Article 29, as amended on 30 July 2018, which shall come into force from financial year 2019.
 ]]></條文內容>
   </條文>
 </法規內容>

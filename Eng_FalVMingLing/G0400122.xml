@@ -2,8 +2,8 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations Governing Offshore Funds</英文法規名稱>
 <中文法規名稱>境外基金管理辦法</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400122</法規網址>
-<最新英文異動日期>20151013</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400122</法規網址>
+<最新英文異動日期>20180713</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -15,7 +15,9 @@
 6. Article 42 amended and issued per 6 June 2009 Order No. Financial-Supervisory-Securities-SITC-0980027137 of the Financial Supervisory Commission, Executive Yuan
 7. Articles 3, 10, 12, 40, and 52 amended and issued, and Article 39-1 added, per 3 September 2010 Order No. Financial-Supervisory-Securities-SITC-0990042830 of the Financial Supervisory Commission, Executive Yuan
 8. Articles 2 and 10 amended and issued per 29 May 2014 Order No. Financial-Supervisory-Securities-SITC-10300133221 of the Financial Supervisory Commission
-9. Articles 12, 13, 24, 27, 28, 29, 31, 32, and 59 amended and issued, and Article 26-1 added per 13 October 2015 Order No. Financial-Supervisory-Securities-SITC-1040039376 of the Financial Supervisory Commission; for implementation from the date of issuance, with the exception of Article 13, which shall be implemented from 15 April 2016, and Article 24, which shall be implemented from 15 October 2016]]></沿革內容>
+9. Articles 12, 13, 24, 27, 28, 29, 31, 32, and 59 amended and issued, and Article 26-1 added per 13 October 2015 Order No. Financial-Supervisory-Securities-SITC-1040039376 of the Financial Supervisory Commission; for implementation from the date of issuance, with the exception of Article 13, which shall be implemented from 15 April 2016, and Article 24, which shall be implemented from 15 October 2016
+10. Articles 4, 12, and 52 amended and issued per 13 July 2018 Order No. Financial-Supervisory-Securities-SITC-1070324202 of the Financial Supervisory Commission
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -42,7 +44,8 @@ A participating dealer processing or engaging in the purchase or redemption of o
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[Investment consulting services relating to offshore funds shall be conducted by securities investment consulting enterprises ("SICE") with approval to engage in such business.
-A SICE that is not also acting as a sub-distributor shall sign an information sharing contract with the master agent for purposes of engaging in the business of providing investment consulting services for offshore funds. Required content of such contracts, and any subsequent amendments thereto, shall be drafted by the securities Investment Trust and Consulting Association (SITCA) and ratified by the FSC.
+A SICE that is not also acting as a sub-distributor shall have information equipment to obtain real-time investment research information relating to offshore funds, or sign an information sharing contract with the master agent for purposes of engaging in the business of providing investment consulting services for offshore funds.
+The required content of an information sharing contract referred to in the preceding paragraph, and any subsequent amendments thereto, shall be drafted by the securities Investment Trust and Consulting Association (SITCA) and ratified by the FSC.
 Offshore funds referred to in paragraph l shall be limited to offshore funds that have been approved by, or effectively registered with, the FSC for offering and sale.
 ]]></條文內容>
   </條文>
@@ -114,7 +117,7 @@ Directions for the procedures for deposit, withdrawal, and substitution of opera
   </條文>
   <條文>
     <條號>Article 12</條號>
-    <條文內容><![CDATA[The master agent shall publicly announce the following events within 3 days from their occurrence:
+    <條文內容><![CDATA[The master agent shall publicly announce the following events within 3 days from the occurrence thereof:
 1.Revocation of the represented offshore fund’s approval or restriction of its investment activities by the competent authority in the place where the offshore fund is registered;
 2.Inability of the offshore fund institution to continue to conduct relevant business due to dissolution, suspension of business, transfer of business, merger or acquisition, cessation of business, voidance or revocation of its permit under laws or regulations of the country where it is located, or other similar material event;
 3.Voidance by the FSC of the registration of an offshore fund represented by the master agent;
@@ -130,7 +133,7 @@ The master agent shall report any matter under subparagraph 1, 2, 4, 5, 9, or 10
 The master agent shall submit any of the following matters to the SITCA in advance for review and approval, and publicly announce the matter within 3 days after the approval:
 1.Any change in sub-distributors.
 2.Any change in participating dealers.
-3.In the case of an offshore fund represented by the master agent, any addition, suspension, or cancellation of the classes that are offered and sold in Taiwan.
+3.In the case of an offshore fund represented by the master agent, any addition, suspension, resumption, or cancellation of the class that is offered and sold in Taiwan.
 The SITCA shall report, on a monthly basis, any matters under subparagraphs 1 and 2 of the preceding paragraph to the FSC and the Central Bank of China (CBC), and any matters under subparagraph 3 to the FSC.
 Where the master agent is unable to continue offering and distributing any offshore fund due to events referred to in subparagraphs 1 through 3 of paragraph 1, the master agent shall assist investors to carry out subsequent redemption, switch, or other relevant matters relating to the offshore funds.
 An offshore fund shall require the approval of the FSC for any of the following events, and shall publicly announce such event within 3 days from its occurrence:
@@ -248,7 +251,7 @@ The term "member of its own group," as used in subparagraph 4 of the preceding p
   </條文>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[The custodian institution for an offshore fund, other than an offshore ETF, approved by or effectively registered with the FSC for offer and sale in Taiwan shall have a certain credit rating or higher from a credit rating institution approved or recognized by the FSC.
+    <條文內容><![CDATA[The custodian institution for an offshore fund, other than an offshore ETF, approved by, or effectively registered with, the FSC for offer and sale in Taiwan shall have a certain credit rating or higher from a credit rating institution approved or recognized by the FSC.
 If the custodian institution mentioned in the preceding paragraph does not have any credit rating, the credit rating of the conglomerate to which the custodian institution belongs may be used instead.
 ]]></條文內容>
   </條文>
@@ -535,7 +538,7 @@ The master agent shall report to the SITCA within 10 days from the occurrence of
     <條文內容><![CDATA[An offshore fund institution may conduct private placements of offshore funds to the following counterparties in Taiwan:
 1.Banks, bills finance enterprises, trust enterprises, insurance companies, securities enterprises, financial holding companies, and other juristic persons or institutions approved by the FSC;
 2.Natural persons, juristic persons, or funds meeting the conditions set by the FSC.
-The total number of counterparties under subparagraph 2 of the preceding paragraph may not exceed 35 persons.
+The total number of counterparties under subparagraph 2 of the preceding paragraph may not exceed 99 persons.
 On reasonable request by a counterparty under subparagraph 2 of paragraph 1, prior to consummation of a private placement, the offshore fund institution shall be obligated to provide financial, business, or other information relevant to the current private placement of a fund.
 In conducting private placements to specified counterparties, the offshore fund institution may not make any general advertisement or public inducement.
 If paragraph 1or 2, or the preceding paragraph is violated, the placement shall be deemed a public offering to non-specified persons.

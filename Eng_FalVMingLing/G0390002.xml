@@ -2,8 +2,8 @@
 <法規性質>法律</法規性質>
 <英文法規名稱>Insurance Act</英文法規名稱>
 <中文法規名稱>保險法</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0390002</法規網址>
-<最新英文異動日期>20180523</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0390002</法規網址>
+<最新英文異動日期>20180613</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -33,7 +33,9 @@
 26.Amendment to Article 163 promulgated per Presidential Order No. Hua-Zong-Yi-Zi-10500161501 dated December 28, 2016.
 27.Amendment to Article 167、168-2～168-4, addition of Article 136-1 promulgated per Presidential Order No. Hua-Zong-Yi-Zi-10700011041 dated January 31, 2018
 28.Additions of Articles 16-1 and 163-1 per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10700042161 dated April 25, 2018
-29.Amended on 23 May 2018 per Presidential Order No. Hua-Zong-Yi-Zi-10700055501]]></沿革內容>
+29.Amended on 23 May 2018 per Presidential Order No. Hua-Zong-Yi-Zi-10700055501
+30.Amendment to Article 166、167-1、167-4～168-1、169、169-2、170-1～171-1、172 and 172-2 promulgated per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10700060041 dated June 6, 2018
+31.Amendment to Article 107、125、128、131、133、135、138-2、146-5, addition of Article 107-1 promulgated per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10700062351 dated June 13, 2018]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I. General Principles</編章節>
@@ -703,9 +705,14 @@ When the insured exercises the right to withdraw consent as stated in the preced
     <條號>Article 107</條號>
     <條文內容><![CDATA[If, at the time a life insurance contract is entered into, the insured is a minor under fifteen years of age, the death benefits shall take effect on the date the insured reaches fifteen years of age. If the insured dies before reaching fifteen years of age, the insurer shall refund all premiums paid with or without interest, or refund the account value of the insured in a separate account set up for investment-linked insurance.
 The calculation of interest mentioned in the preceding paragraph will be set forth by the competent authority.
-If, at the time a life insurance contract is entered into, the insured is mentally impaired or of diminished mental capacity that he or she is incapable of comprehending his or her own action or lacks the ability to act based on his or her comprehension, all death benefits other than funeral expense benefits shall be void.
+If the provisions in paragraph 1 to paragraph 2 are otherwise provided in other laws, such other laws shall prevail.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 107-1</條號>
+    <條文內容><![CDATA[If, at the time a life insurance contract is entered into, the insured is subject to  the declaration of guardianship and such declaration has not yet been revoked, all death benefits other than funeral expense benefits shall be void.
 The insured amount for the funeral expenses referred to in the preceding paragraph may not exceed one half of the funeral expense deduction allowed for estate tax under Article 17 of the Estate and Gift Tax Act.
-If the provisions in paragraph 1 to paragraph 4 are otherwise provided in other laws, such other laws shall prevail.
+If the provisions in paragraph 1 to paragraph 2 are otherwise provided in other laws, such other laws shall prevail.
 ]]></條文內容>
   </條文>
   <條文>
@@ -826,6 +833,7 @@ With respect to the invested assets of an investment-linked insurance contract, 
   <條文>
     <條號>Article 125</條號>
     <條文內容><![CDATA[A health insurer is obligated to pay the insured amount when the insured falls sick or gives birth, or becomes disabled or dies due to sickness or childbirth.
+The content of the disability referred to in the preceding paragraph shall be in accordance with the terms of each insurance contract.
 ]]></條文內容>
   </條文>
   <條文>
@@ -884,7 +892,7 @@ When a beneficiary willfully attempts to injure the insured but fails to do so, 
   </條文>
   <條文>
     <條號>Article 135</條號>
-    <條文內容><![CDATA[The provisions of Articles 102 to Article 105, Article 107, Articles 110 to Article 116, Article 123, and Article 124 apply mutatis mutandis to personal injury insurance.
+    <條文內容><![CDATA[The provisions of Articles 102 to Article 105, Article 107, Article 107-1, Articles 110 to Article 116, Article 123, Article 124, and paragraph 2 of Article 125 apply mutatis mutandis to personal injury insurance.
 ]]></條文內容>
   </條文>
   <編章節>      Section 4. Annuity Insurance</編章節>
@@ -971,7 +979,7 @@ When the occurrence of a major earthquake results in payable claims that exceed 
   <條文>
     <條號>Article 138-2</條號>
     <條文內容><![CDATA[An insurance enterprise engaging in insurance of the person may stipulate an insurance contract that policy proceeds be paid either in a lump sum or in installments.
-With respect to the portion of policy proceeds in a contract for insurance of the person that are for death or disablement, the proposer may, prior to occurrence of an insured peril, negotiate a trust contract whereunder the insurance enterprise acts as trustee of the insurance trust. Such an arrangement may only be made where a single person is both proposer and insured, where the beneficiaries of the trust contract are also the beneficiaries of the insurance contract, and where the arrangement is for the benefit of an insured or a person who is a minor, mentally impaired, or of diminished mental capacity.
+With respect to the portion of policy proceeds in a contract for insurance of the person that are for death or disablement, the proposer may, prior to occurrence of an insured peril, negotiate a trust contract whereunder the insurance enterprise acts as trustee of the insurance trust. Such an arrangement may only be made where a single person is both proposer and insured, where the beneficiaries of the trust contract are also the beneficiaries of the insurance contract, and where the arrangement is for the benefit of an insured, a person who is a minor, or a person whose declaration of guardianship has not yet been revoked.
 With respect to trust benefits paid out pursuant to the preceding paragraph, that part which constitutes trust principal shall be deemed insurance benefits.
 An insurance enterprise providing insurance trust services shall set up segregated trust accounts named as trust asset accounts.
 Where the trust assets of the preceding paragraph are subject to a registration requirement, registration of trust shall be carried out in accordance with the applicable provisions.
@@ -1249,9 +1257,9 @@ The competent authority shall prescribe regulations setting forth investment rul
     <條文內容><![CDATA[Application shall be made to the competent authority for approval of allocations of insurance enterprise funds to special projects and investments in public utilities and social welfare enterprises. With respect to applications for approval, the competent authority shall prescribe regulations governing required documentation, procedures, scope of and limits upon allocations and investments, and other compliance matters.
 Where the funds referred to in the preceding paragraph are allocated to investment in corporate stocks, the conditions and percentages related thereto shall not be subject to the restrictions set forth in Article 146-1, paragraph 1, subparagraph 3.
 Where the funds referred to in paragraph 1, the provisions of Article 146-1, paragraph 3 and 4 shall apply mutatis mutandis.
-Allocations of insurance enterprise funds to investment in public utilities that meet the following requirements are not subject to the restrictions set forth in the preceding paragraph:
-1.Where the insurance enterprise or its representative serves as director or supervisor of the invested company, the number of directors or supervisors appointed by the insurance enterprise shall not exceed one third of the total number of directors or supervisors of the invested company.
-2.The insurance enterprise shall not assign any person to act as manager of the invested company.
+Allocations of insurance enterprise funds to investment in public utilities and social welfare enterprises that meet the following requirements are not subject to the restrictions set forth in the preceding paragraph:
+1. Where the insurance enterprise or its representative serves as director or supervisor of the invested enterprises, the number of directors or supervisors appointed by the insurance enterprise shall not exceed one third of the total number of directors or supervisors of the invested enterprises.
+2. The insurance enterprise shall not assign any person to act as manager of the invested enterprises.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1603,7 +1611,7 @@ To carry out the matters set forth in the preceding paragraph, the association m
   <編章節>      Section 5. Penal Provisions</編章節>
   <條文>
     <條號>Article 166</條號>
-    <條文內容><![CDATA[Enterprises that engage in the business of insurance without obtaining approval from the competent authority in accordance with the provisions of Article 137 of this Act shall be ordered to suspend business, and shall be assessed an administrative fine of not less than New Taiwan Dollars three million but not more than New Taiwan Dollars fifteen million.
+    <條文內容><![CDATA[Enterprises that engage in the business of insurance without obtaining approval from the competent authority in accordance with the provisions of Article 137 of this Act shall be ordered to suspend business, and shall be assessed an administrative fine of not less than New Taiwan Dollars three million but not more than New Taiwan Dollars thirty million.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1621,8 +1629,7 @@ Where a juristic person’s representative, agent, employee or other staff commi
     <條號>Article 167-1</條號>
     <條文內容><![CDATA[Any person who provides agent, broker, surveyor services for insurance enterprises or foreign insurance enterprises not approved under the Act shall be subject to a prison term of not more than three (3) years, and in addition thereto, a fine of not less than New Taiwan Dollars three million (NT$3,000,000) but not more than New Taiwan Dollars twenty million (NT$20,000,000). For violations deemed severe, the competent authority may order the violating insurance agent, broker, surveyor, or the bank operating the insurance agent or insurance business concurrently to suspend business, in whole or in part, or revoke the offender’s practice license.
 Where a juristic person’s representative, agent, employee or other staff commits the offense described in the preceding paragraph when practicing business, the offender shall be punished and said fine shall be imposed on the juristic person too.
-Where the offender in the preceding paragraph is a juristic person, the responsible person of the offender shall be punished.
-Any person who operates or practices the business of an insurance agent, broker or surveyor without a practice license  is subject to a fine of not less than New Taiwan Dollars nine hundred thousand (NT$900,000) but not more than New Taiwan Dollars four million five hundred thousand (NT$4,500,000).
+Any person who operates or practices the business of an insurance agent, broker or surveyor without a practice license is subject to a fine of not less than New Taiwan Dollars nine hundred thousand (NT$900,000) but not more than New Taiwan Dollars nine million (NT$9,000,000).
 ]]></條文內容>
   </條文>
   <條文>
@@ -1637,26 +1644,26 @@ Any person who operates or practices the business of an insurance agent, broker 
   </條文>
   <條文>
     <條號>Article 167-4</條號>
-    <條文內容><![CDATA[When the competent authority dispatches officers to inspect the financial or business conditions of an insurance agent, broker, surveyor, or a bank operating the insurance agent or insurance broker business concurrently, or order an insurance agent, broker , surveyor or a bank operating the insurance agent or insurance broker business concurrently to report the condition of its business within a specified time limit pursuant to Paragraph 5 of Article 163 herein, Paragraph 4 of Article 165 herein to which Article 148 applies mutatis mutandis, a fine of not less than New Taiwan Dollars three hundred thousand (NT$300,000) but not more than New Taiwan Dollars one million five hundred thousand (NT$1,500,000) will be imposed on the insurance agent, broker, surveyor or bank operating the insurance agent or insurance broker business concurrently if the insurance agent, broker or surveyor himself/herself or an responsible person or employee of the insurance agent, broker or surveyor, or the departmental supervisor, vice supervisor, or employee of the bank operating the insurance agent or insurance broker business concurrently has any of the situations:
+    <條文內容><![CDATA[When the competent authority dispatches officers to inspect the financial or business conditions of an insurance agent, broker, surveyor, or a bank operating the insurance agent or insurance broker business concurrently, or order an insurance agent, broker , surveyor or a bank operating the insurance agent or insurance broker business concurrently to report the condition of its business within a specified time limit pursuant to Paragraph 5 of Article 163 herein, Paragraph 4 of Article 165 herein to which Article 148 applies mutatis mutandis, a fine of not less than New Taiwan Dollars three hundred thousand (NT$300,000) but not more than New Taiwan Dollars three million (NT$3,000,000) will be imposed on the insurance agent, broker, surveyor or bank operating the insurance agent or insurance broker business concurrently if the insurance agent, broker or surveyor himself/herself or an responsible person or employee of the insurance agent, broker or surveyor, or the departmental supervisor, vice supervisor, or employee of the bank operating the insurance agent or insurance broker business concurrently has any of the situations: The person-in-charge may be dismissed under severe circumstances.
 1. Refusing to allow inspection or to open the safe or other storage rooms.
 2. Concealing or destroying account books or documents related to the business or financial conditions of the insurance agent, broker or surveyor.
 3. Refusing to respond to, or making false representation in response to an inspector’s queries without cause.
 4. Missing the deadline for submission of financial reports, property list, or other related information and reports, or making false or incomplete representations, or missing the deadline for payment of inspection fees.
-Where the competent authority dispatches an officer to conduct inspection of an affiliate of an insurance agent, broker, surveyor or bank operating the insurance agent or insurance broker business concurrently, or any other financial institution related thereto pursuant to Paragraph 5 of Article 163 herein, and Paragraph 4 of Article 165 herein to which Article 148 applies mutatis mutandis, the inspected entity that is remiss in submitting the financial statements, account books, documents, or relevant transaction records shall receive a fine of not less than New Taiwan Dollars three hundred thousand (NT$300,000) but not more than New Taiwan Dollars one million five hundred thousand (TWD1,500,000).
+Where the competent authority dispatches an officer to conduct inspection of an affiliate of an insurance agent, broker, surveyor or bank operating the insurance agent or insurance broker business concurrently, or any other financial institution related thereto pursuant to Paragraph 5 of Article 163 herein, and Paragraph 4 of Article 165 herein to which Article 148 applies mutatis mutandis, the inspected entity that is remiss in submitting the financial statements, account books, documents, or relevant transaction records shall receive a fine of not less than New Taiwan Dollars three hundred thousand (NT$300,000) but not more than New Taiwan Dollars three million (TWD3,000,000).
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 167-5</條號>
-    <條文內容><![CDATA[An insurance enterprise that has business dealings with an insurance agent, broker or surveyor as described in Paragraph 3 of Article 167-1 herein shall be subject to a fine of New Taiwan Dollars one million five hundred thousand  (NT$1,500,000) but not more than New Taiwan Dollars four million five hundred thousand (NT$4,500,000).
+    <條文內容><![CDATA[An insurance enterprise that has business dealings with an insurance agent, broker or surveyor as described in Paragraph 3 of Article 167-1 herein shall be subject to a fine of New Taiwan Dollars one million five hundred thousand (NT$1,500,000) but not more than New Taiwan Dollars fifteen million (NT$15,000,000).
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 168</條號>
-    <條文內容><![CDATA[If an insurance enterprise violates the provisions of Article 138, paragraph 1, 3, or 5, or the provisions relating to business scope in regulations prescribed by the competent authority pursuant to Article 138, paragraph 2, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than four million five hundred thousand shall be imposed.
-If an insurance enterprise violates the provisions of Article 138-2, paragraph 2, 4, 5, or 7, or Article 138-3, paragraph 1 or 2, or the provisions relating to the amount to be provisioned for the compensation reserve fund and the manner of such provisioning as set out in regulations prescribed by the competent authority pursuant to paragraph 2 of that same article, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than four million five hundred thousand shall be imposed; where the circumstances are severe, the enterprise's permit to engage in insurance trust business may also be revoked.
-Where an insurance enterprise violates the provisions of Article 143, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than New Taiwan Dollars four million five hundred thousand shall be imposed.
-Where an insurance enterprise violates Article 143-5 herein, or the competent authority takes measures in accordance with Article 143-6 herein, an administrative fine of not less than New Taiwan Dollars two million but not more than New Taiwan Dollars ten million shall be imposed.
-Where any one of the following circumstances obtains with respect to the funds allocation of an insurance enterprise, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than New Taiwan Dollars four million five hundred thousand shall be imposed, or the enterprise shall be ordered to replace its responsible person; where the circumstances are severe, its business license may also be revoked:
+    <條文內容><![CDATA[If an insurance enterprise violates the provisions of Article 138, paragraph 1, 3, or 5, or the provisions relating to business scope in regulations prescribed by the competent authority pursuant to Article 138, paragraph 2, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than nine million shall be imposed.
+If an insurance enterprise violates the provisions of Article 138-2, paragraph 2, 4, 5, or 7, or Article 138-3, paragraph 1 or 2, or the provisions relating to the amount to be provisioned for the compensation reserve fund and the manner of such provisioning as set out in regulations prescribed by the competent authority pursuant to paragraph 2 of that same article, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than nine million shall be imposed; where the circumstances are severe, the enterprise's permit to engage in insurance trust business may also be revoked.
+Where an insurance enterprise violates the provisions of Article 143, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than New Taiwan Dollars nine million shall be imposed.
+Where an insurance enterprise violates Article 143-5 herein, or the competent authority takes measures in accordance with Article 143-6 herein, an administrative fine of not less than New Taiwan Dollars two million but not more than New Taiwan Dollars twenty million shall be imposed.
+Where any one of the following circumstances obtains with respect to the funds allocation of an insurance enterprise, an administrative fine of not less than New Taiwan Dollars ten hundred thousand but not more than New Taiwan Dollars ten million  shall be imposed, or the enterprise shall be ordered to dismiss its responsible person; where the circumstances are severe, its business permit may also be revoked:
 1.A violation of Article 146, paragraph 1, 3, 5, or 7, or the provisions relating to administration and custody of special ledgers or the allocation of investment assets as set out in regulations prescribed by the competent authority pursuant to paragraph 6 of that same article, or a violation of provisions relating to the terms and conditions of derivatives trading by insurance enterprises, the scope thereof, transaction limits, or internal handling procedures as set out in regulations prescribed by the competent authority pursuant to paragraph 8 of that same article.
 2.A violation of Article 146-1, paragraph 1, 2, or 3, or the provisions relating to eligibility conditions, scope and type of investments, and investment rules as set out in regulations prescribed by the competent authority pursuant to paragraph 5 of that same article; or a violation of Paragraph 3 or 4 of Article 146-5.
 3.A violation of the provisions of Article 146-2.
@@ -1664,20 +1671,20 @@ Where any one of the following circumstances obtains with respect to the funds a
 5.A violation of Article 146-4, paragraph 1 or 2, or the provisions relating to investment rules or investment limits as set out in regulations prescribed by the competent authority pursuant to paragraph 3 of that same article.
 6.A violation of the forepart of paragraph 1 of Article 146-5, or of the provisions relating to scope of or limits upon investments as set out in regulations prescribed by the competent authority pursuant to the latter part of that same article.
 7.A violation of Article 146-6, paragraph 1 or 2, or the provisions relating to the method of reporting investments as set out in regulations prescribed by the competent authority pursuant to paragraph 3 of that same article.
-8.A violation of the provisions relating to limits on loans or other transactions as set out in regulations prescribed by the competent authority pursuant to Article 146-7, paragraph 1, or of the provisions relating to procedures for the adoption of resolutions or limits on transaction size as set out in regulations prescribed by the competent authority pursuant to Article 146-7, paragraph 3.
-9.A violation of the provisions of Article 146-9, paragraph 1, 2, or 3.
+8.A violation of the provisions of Article 146-9, paragraph 1, 2, or 3.
 Where a secured loan made by an insurance enterprise under Article 146-3, paragraph 3 or Article 146-8, paragraph 1 is not fully secured or the conditions are better than those extended to other loanees of the same class, the person responsible for the act shall be sentenced to imprisonment for not more than three years or detention, and in addition may be assessed a criminal fine of not more than New Taiwan Dollars twenty million.
-Where a secured loan made by an insurance enterprise under Article 146-3, paragraph 3 or Article 146-8, paragraph 1 reaches or exceeds the monetary amount prescribed by the competent authority without approval by three-quarters of the directors present at a board of directors meeting attended by at least two-thirds of the directors, or where an insurance enterprise violates the provisions relating to loan limits and aggregate loan balances as set out in regulations prescribed by the competent authority pursuant to Article 146-3, paragraph 3, the person responsible for the act shall be assessed an administrative fine of not less than New Taiwan Dollars two million but not more than New Taiwan Dollars ten million.
+Where a secured loan made by an insurance enterprise under Article 146-3, paragraph 3 or Article 146-8, paragraph 1 reaches or exceeds the monetary amount prescribed by the competent authority without approval by three-quarters of the directors present at a board of directors meeting attended by at least two-thirds of the directors, or where an insurance enterprise violates the provisions relating to loan limits and aggregate loan balances as set out in regulations prescribed by the competent authority pursuant to Article 146-3, paragraph 3, the person responsible for the act shall be assessed an administrative fine of not less than New Taiwan Dollars two million but not more than New Taiwan Dollars twenty million.
+If an insurance enterprise violates the provisions relating to limits on loans or other transactions as set out in regulations prescribed by the competent authority pursuant to Article 146-7, paragraph 1, or of the provisions relating to procedures for the adoption of resolutions or limits on transaction size as set out in regulations prescribed by the competent authority pursuant to Article 146-7, paragraph 3, an administrative fine of not less than New Taiwan Dollars two million but not more than twenty million shall be imposed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 168-1</條號>
-    <條文內容><![CDATA[Where the competent authority, pursuant to Article 148, dispatches an officer or commissions an appropriate institution or expert to inspect the business and financial conditions of an insurance enterprise, or orders an insurance enterprise to report the status of its business within a specific time limit, a responsible person or an employee of the insurance enterprise who commits any of the following acts shall be assessed an administrative fine of not less than New Taiwan Dollars one million and eight hundred thousand but not more than New Taiwan Dollars nine million:
+    <條文內容><![CDATA[Where the competent authority, pursuant to Article 148, dispatches an officer or commissions an appropriate institution or expert to inspect the business and financial conditions of an insurance enterprise, or orders an insurance enterprise to report the status of its business within a specific time limit, a responsible person or an employee of the insurance enterprise who commits any of the following acts shall be assessed an administrative fine of not less than New Taiwan Dollars one million and eight hundred thousand but not more than New Taiwan Dollars eighteen million: The person-in-charge may be dismissed under severe circumstances.
 1. Refusing to allow inspection or to open the safe or other storage areas.
 2. Concealing or destroying account books or documents related to the enterprise's business or financial conditions.
 3. Refusing to respond to, or making false representation in response to, an investigator's queries without cause.
 4. Missing the deadline for submission of financial reports, a list of assets, or other related information and reports, or in submitting such items, making false or incomplete representations, or missing the deadline for payment of inspection fees.
-Where the competent authority dispatches an officer to conduct inspection pursuant to Article 148, paragraph 4, an affiliate of the insurance enterprise, or any other financial institution related thereto, that fails to submit the financial statements, account books, documents, or relevant transaction records shall be assessed an administrative fine of not less than New Taiwan Dollars one million eight hundred thousand but not more than New Taiwan Dollars nine million.
+Where the competent authority dispatches an officer to conduct inspection pursuant to Article 148, paragraph 4, an affiliate of the insurance enterprise, or any other financial institution related thereto, that fails to submit the financial statements, account books, documents, or relevant transaction records shall be assessed an administrative fine of not less than New Taiwan Dollars one million eight hundred thousand but not more than New Taiwan Dollars eighteen million.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1721,7 +1728,7 @@ The right of revocation under paragraphs 1 and 2 shall be extinguished one year 
   </條文>
   <條文>
     <條號>Article 169</條號>
-    <條文內容><![CDATA[If an insurance enterprise violates the provisions of Article 72 of this Act by underwriting insurance in excess of the value of the subject matter insured, the portion in violation shall become void, and the offense shall also be punished by an administrative fine of not less than New Taiwan Dollars four hundred fifty thousand but not more than New Taiwan Dollars two million two hundred fifty thousand.
+    <條文內容><![CDATA[If an insurance enterprise violates the provisions of Article 72 of this Act by underwriting insurance in excess of the value of the subject matter insured, the portion in violation shall become void, and the offense shall also be punished by an administrative fine of not less than New Taiwan Dollars four hundred fifty thousand but not more than New Taiwan Dollars four million fifty hundred thousand.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1731,9 +1738,9 @@ The right of revocation under paragraphs 1 and 2 shall be extinguished one year 
   </條文>
   <條文>
     <條號>Article 169-2</條號>
-    <條文內容><![CDATA[An insurance enterprise found with one of the following conditions will be reported by the stabilization fund to the competent authority for a fine of NTD 300 thousand to NTD 1.5 million at maximum. The person-in-charge may be replaced under severe circumstances. 
+    <條文內容><![CDATA[An insurance enterprise found with one of the following conditions will be reported by the stabilization fund to the competent authority for a fine of NTD 300 thousand to NTD 3 million at maximum. The person-in-charge may be dismissed under severe circumstances.
 I. It fails to make contributions to the stabilization fund or refuses to pay for it.
-II. It violates the provisions of Article 143-3, Paragraph 5 by failing to create electronic data files or refusing to provide electronic data files as required, or providing electronic data files that are seriously untrue. 
+II. It violates the provisions of Article 143-3, Paragraph 5 by failing to create electronic data files or refusing to provide electronic data files as required, or providing electronic data files that are seriously untrue.
 III. It circumvents, obstructs with, or refuses inspections performed by the stabilization fund in accordance with the provisions of Article 143-3, Paragraph 6.
 ]]></條文內容>
   </條文>
@@ -1744,23 +1751,23 @@ III. It circumvents, obstructs with, or refuses inspections performed by the sta
   </條文>
   <條文>
     <條號>Article 170-1</條號>
-    <條文內容><![CDATA[Where an insurance enterprise violates the provisions relating to the manner in which insurance enterprises cede or assume reinsurance or operate other risk spreading mechanisms, or limits applying thereto, as set out in regulations prescribed by the competent authority pursuant to Article 147, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than four million five hundred thousand shall be imposed.
-If a professional reinsurance enterprise violates the provisions relating to business scope or financial management as set out in regulations prescribed by the competent authority pursuant to Article 147-1, paragraph 2, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than four million five hundred thousand shall be imposed.
+    <條文內容><![CDATA[Where an insurance enterprise violates the provisions relating to the manner in which insurance enterprises cede or assume reinsurance or operate other risk spreading mechanisms, or limits applying thereto, as set out in regulations prescribed by the competent authority pursuant to Article 147, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than nine million shall be imposed.
+If a professional reinsurance enterprise violates the provisions relating to business scope or financial management as set out in regulations prescribed by the competent authority pursuant to Article 147-1, paragraph 2, an administrative fine of not less than New Taiwan Dollars nine hundred thousand but not more than nine million shall be imposed.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 171</條號>
-    <條文內容><![CDATA[An insurance enterprise that violates the provisions of Paragraphs 1~4 of Article 144 herein, or Article 145 herein shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars three million, and in addition thereto may be ordered to remove and replace its underwriters or actuaries.
+    <條文內容><![CDATA[An insurance enterprise that violates the provisions of Paragraphs 1~4 of Article 144 herein, or Article 145 herein shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars six million, and in addition thereto may be ordered to remove and replace its underwriters or actuaries.
 Where the certified actuary or external verification actuary appointed or employed by an insurance enterprise violates Paragraph 5 of Article 144 herein, the competent authority may, according to the severity of the circumstances, issue a warning, suspend the actuary from providing certification or verification services for three years, or order the insurance enterprise to replace the actuary.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 171-1</條號>
-    <條文內容><![CDATA[An insurance enterprise that violates the provisions of Article 148-1, paragraph 1 or 2 shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars three million.
-An insurance enterprise that violates the provisions of Article 148-2, paragraph 1 by not making explanatory documents publicly available for inspection, or submitting explanatory documents that do not contain required information, or submitting explanatory documents containing misrepresentations, shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars three million.
-An insurance enterprise that violates the provisions of Article 148-2, paragraph 2 by failing to report to the competent authority or to provide a public explanation within the specified time period, or by making false representations in its reports to the competent authority or public explanations, shall be assessed an administrative fine of not less than New Taiwan Dollars three hundred thousand but not more than New Taiwan Dollars one million five hundred thousand.
-An insurance enterprise that violates the provisions of Article 148-3, paragraph 1 by failing to establish or enforce internal control or auditing systems shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars six million.
-An insurance enterprise that violates the provisions of Article 148-3, paragraph 2 by failing to establish or enforce internal handling systems or procedures shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars six million.
+    <條文內容><![CDATA[An insurance enterprise that violates the provisions of Article 148-1, paragraph 1 or 2 shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars six million.
+An insurance enterprise that violates the provisions of Article 148-2, paragraph 1 by not making explanatory documents publicly available for inspection, or submitting explanatory documents that do not contain required information, or submitting explanatory documents containing misrepresentations, shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars six million.
+An insurance enterprise that violates the provisions of Article 148-2, paragraph 2 by failing to report to the competent authority or to provide a public explanation within the specified time period, or by making false representations in its reports to the competent authority or public explanations, shall be assessed an administrative fine of not less than New Taiwan Dollars three hundred thousand but not more than New Taiwan Dollars three million.
+An insurance enterprise that violates the provisions of Article 148-3, paragraph 1 by failing to establish or enforce internal control or auditing systems shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars twelve million.
+An insurance enterprise that violates the provisions of Article 148-3, paragraph 2 by failing to establish or enforce internal handling systems or procedures shall be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars twelve million.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1772,7 +1779,7 @@ Shareholders of an insurance company that violate the provisions of Article 139-
   </條文>
   <條文>
     <條號>Article 172</條號>
-    <條文內容><![CDATA[If an insurance enterprise that has had its registration voided delays in carrying out liquidation procedures, each responsible person may be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars three million.
+    <條文內容><![CDATA[If an insurance enterprise that has had its registration voided or business permit revoked delays in carrying out liquidation procedures, each responsible person may be assessed an administrative fine of not less than New Taiwan Dollars six hundred thousand but not more than New Taiwan Dollars six million.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1786,7 +1793,8 @@ Shareholders of an insurance company that violate the provisions of Article 139-
   </條文>
   <條文>
     <條號>Article 172-2</條號>
-    <條文內容><![CDATA[If an insurance enterprise, after having been punished in accordance with the provisions of this Section, fails to make corrections within the time period provided that the punishment for the same fact or action may be increased by 100 percent to 500 percent.
+    <條文內容><![CDATA[If an insurance enterprise or the punished person, after having been punished in accordance with the provisions of this Section, fails to make corrections within the time period provided, the competent authority may mete out penalties each time a violation occurs.
+Fine for an act under this Section may be remitted if the act was committed in a trivial circumstance for which it is considered appropriate not to punish.
 ]]></條文內容>
   </條文>
   <條文>
