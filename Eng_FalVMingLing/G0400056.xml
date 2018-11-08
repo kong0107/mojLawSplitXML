@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Use of Proxies for Attendance at Shareholder Meetings of Public Companies</英文法規名稱>
 <中文法規名稱>公開發行公司出席股東會使用委託書規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0400056</法規網址>
-<最新英文異動日期>20180329</最新英文異動日期>
+<最新英文異動日期>20180816</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -19,6 +19,7 @@
 18. Articles 1, 7, 8, 10, 13-1, and 24 amended and issued and Article 13-2 added per 11 April 2013 Order No. Financial-Supervisory-Securities-Trading-1020012999 of the Financial Supervisory Commission; for enforcement from the date of issuance, except Article 13-1, for enforcement from 1 July 2013.
 19. Articles 6 and 10 amended and issued and Article 7-2 added per 4 March 2015 Order No. Financial-Supervisory-Securities-Trading-1040004113 of the Financial Supervisory Commission
 20. Articles 5，7 and 11 amended and issued and Article 10-1 added per 29 March 2018 Order No. Financial-Supervisory-Securities-Trading-1070307079 of the Financial Supervisory Commission
+21. Articles 5, 6, 15, and 24 amended and issued per 16 August 2018 Order No. Financial-Supervisory-Securities-Trading-1070328433 of the Financial Supervisory Commission; for enforcement from the date of issuance, except Articles 5 and 6, for enforcement from 1 July 2019
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -48,7 +49,7 @@ Solicitation and non-solicitation of a proxy shall not be conducted unless in ac
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[Except as provided in Article 6, a solicitor of proxies shall be a shareholder holding 50,000 or more of the issued shares of the company; provided that if election of directors or supervisors is proposed in the shareholders meeting, the solicitor shall hold the shares issued by such company, as evidenced by the shareholders register, or by the documentation of deposit in the centralized securities depository enterprise, as of the book closure date for the shareholders meeting, under one of the following conditions:
-1.Where a financial holding company, a bank regulated under the Banking Act, or an insurance company regulated under the Insurance Act convenes a shareholders meeting, the solicitor shall have continuously held for a period of at least one year 800,000 or more of the issued shares of the company, or 0.2% or more of the total number of issued shares of the company; or
+1.Where a financial holding company, a bank regulated under the Banking Act, or an insurance company regulated under the Insurance Act convenes a shareholders meeting, the solicitor shall have continuously held for a period of at least one year 0.5% or more of the total number of issued shares of the company; or
 2.Where a company other than those specified in the preceding subparagraph convenes a shareholders meeting, the solicitor shall have continuously held for a period of at least 6 months 800,000 or more of the issued shares of the company, or 0.2% or more of the total number of issued shares of the company.
 A shareholder qualified under the preceding paragraph, or a trust enterprise or shareholder services agent under Article 6, or a responsible person thereof, to which any of the following circumstances applies shall not serve as a solicitor:
 1.Has previously been convicted by a conclusive judgment of a crime under the Organized Crime Prevention Act, where less than five years has elapsed since completion of the term of sentence.
@@ -62,11 +63,13 @@ A shareholder qualified under the preceding paragraph, or a trust enterprise or 
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[A shareholder who for one year or more has continuously held issued shares of a company in conformance with one of the following conditions may mandate a trust enterprise or shareholder services agent to act as the solicitor, and the number of shares to be represented by it shall not be subject to the restriction under Article 20:
-1.Where a financial holding company, a bank regulated under the Banking Act, or an insurance company regulated under the Insurance Act convenes a shareholders meeting, the shareholder shall hold 10% or more of the total issued shares of the company, provided that when election of directors or supervisors is proposed on the shareholders meeting agenda, the shareholder shall hold 12% or more of the total issued shares of the company;
+1.Where a financial holding company, a bank regulated under the Banking Act, or an insurance company regulated under the Insurance Act convenes a shareholders meeting, the shareholder and its related parties shall hold 10% or more of the total issued shares of the company, and shall meet one of the following conditions;
+A.Have reported to or obtained approval from the FSC under Article 16, paragraphs 1 or 3 of the Financial Holding Company Act, Article 25, paragraphs 3 or 5 of the Banking Act, or Article 139-1, paragraphs 2 or 4 of the Insurance Act.
+B.Comply with the provisions of Article 10 of the Regulations Governing Approvals of the Same Person's or Same Related Parties' Application to Own More Than a Certain Percentage of the Issued Voting Shares of a Financial Holding Company, or of Article 10 of the Regulations Governing Approvals of the Same Person's or Same Related Parties' Applications to Own More Than a Certain Percentage of the Issued Voting Shares of a Bank, or of Article 11 of the Regulations Governing the Same Person or Same Related Parties Holding the Issued Shares with Voting Rights over a Particular Ratio of an Insurance Enterprise.
 2.Where a company other than those specified in the preceding subparagraph convenes a shareholders meeting, the shareholder shall hold issued shares of the company in conformance with one of the following conditions:
 A.Has held 10 percent or more of the total number of issued shares of the company.
 B.Has held 8 percent or more of the total number of issued shares of the company and, when election of directors or supervisors is on the shareholders meeting agenda, one of the candidates it intends to support meets the qualifications for independent director.
-3.Where the consolidated number of shares of the shareholders sharing the same opinion on a proposal in a shareholders meeting meets the number of shares required to be held under the preceding two subparagraphs, such shareholders may jointly make a mandate.
+3.Where the consolidated number of shares of the shareholders sharing the same opinion on a proposal in a shareholders meeting meets the requirements of the preceding subparagraph, such shareholders may jointly make a mandate.
 When assigning election votes under proxies obtained through solicitation by a trust enterprise or shareholder services agent mandated by a shareholder to act as a solicitor in accordance with the preceding paragraph, the number of votes assigned to any independent director candidate the shareholder intends to support shall be greater than those assigned to any non-independent director candidate.
 A trust enterprise or shareholder services agent, under any of the following circumstances, when election of directors or supervisors is on the shareholders meeting agenda, shall not act as a solicitor for a shareholder under paragraph 1 or handle proxy solicitation matters for a solicitor:
 1.where it is itself a shareholder services agent of the public company calling the shareholders meeting.
@@ -76,6 +79,7 @@ After a shareholder mandates a trust enterprise or shareholder services agent to
 If the shareholder of the preceding paragraph is a financial holding company, then no subsidiary of the financial holding company at the current shareholders meeting may make any further solicitation or handle proxy solicitation matters mandated by any solicitor.
 "Subsidiary" in paragraph 3, subparagraph 2 and in the preceding paragraph means a subsidiary as defined in Article 4 of the Financial Holding Company Act.
 Where there is a proposal for election of directors or supervisors in a shareholders meeting, at least one of the shareholders mandating solicitation referred to in paragraph 1 above shall be the candidate for the directorship or supervisorship; provided this restriction shall not apply if the candidate supported meets the qualifications for independent director.
+The scope of "related parties" in paragraph 1, subparagraph 1 shall be as defined in in Article 4 and Article 16, paragraph 4 of the Financial Holding Company Act, Article 25, paragraph 4 and Article 25-1, paragraph 2 of the Banking Act, and Article 139-1, paragraph 3 and Article 139-2, paragraph 2 of the Insurance Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -206,7 +210,7 @@ A shareholders services agent shall handle the business referred to in paragraph
   </條文>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[The FSC or the institution designated by the FSC may at any time request a solicitor, a company mandated to handle solicitation matters, a proxy agent, or its related person to provide the shareholders meeting attendance proxies obtained or other relevant documents and/or information, or send personnel to inspect the obtainment of proxies; a solicitor, a company mandated to handle solicitation matters, proxy agent, or related person may not refuse or evade such a request.
+    <條文內容><![CDATA[The FSC or the institution designated by the FSC may at any time request a solicitor, a company mandated to handle solicitation matters, a proxy agent, or relevant personnel to provide the shareholders meeting attendance proxies obtained or other relevant documents and/or information, or send personnel to inspect the obtainment of proxies; a solicitor, a company mandated to handle solicitation matters, proxy agent, or relevant personnel may not refuse or evade such a request.
 ]]></條文內容>
   </條文>
   <條文>
@@ -278,7 +282,7 @@ If a primary exchange-listed (or OTC-listed) company or emerging stock company, 
   </條文>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[These Regulations shall take force as of the date of issuance , except Article 7-1 amended and issued on 15 December 2005, which shall take force from 1 January 2006. Articles 5 and 6 amended and issued on 20 December 2006 shall take force from 1January 2008. Article 13-1 amended and issued on 11 April 2013 shall take force from 1 July 2013.
+    <條文內容><![CDATA[These Regulations shall take force as of the date of issuance, except, Article 7-1 amended and issued on 15 December 2005 shall take force from 1 January 2006; Articles 5 and 6 amended and issued on 20 December 2006 shall take force from 1 January 2008; Article 13-1 amended and issued on 11 April 2013 shall take force from 1 July 2013; Articles 5 and 6 amended and issued on 16 August 2018 shall take force from 1 July 2019.
 ]]></條文內容>
   </條文>
 </法規內容>
