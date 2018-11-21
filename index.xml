@@ -1,4 +1,4 @@
-<LAWS UpdateDate="20181026">
+<LAWS UpdateDate="20181102">
 <LAW PCode="A0000001" name="中華民國憲法" lastUpdate="19470101" english="Constitution of the Republic of China (Taiwan)"/>
 <LAW PCode="A0000002" name="中華民國憲法增修條文" lastUpdate="20050610" english="Additional Articles of the Constitution of the Republic of China"/>
 <LAW PCode="A0000007" name="戒嚴時期人民受損權利回復條例" lastUpdate="20000202" english="Act Governing the Recovery of Damage of Individual Rights during the Period of Martial Law"/>
@@ -126,6 +126,7 @@
 <LAW PCode="B0000007" name="涉外民事法律適用法" lastUpdate="20100526" english="Act Governing the Choice of Law in Civil Matters Involving Foreign Elements"/>
 <LAW PCode="B0010001" name="民事訴訟法" lastUpdate="20180613" english="Taiwan Code of Civil Procedure"/>
 <LAW PCode="B0010002" name="民事訴訟法施行法" lastUpdate="20180613" english="Enforcement Act of the Code of Civil Procedure"/>
+<LAW PCode="B0010004" name="強制執行法" lastUpdate="20180613" english="Compulsory Enforcement Act"/>
 <LAW PCode="B0010010" name="公證法" lastUpdate="20091230" english="The Notary Act"/>
 <LAW PCode="B0010014" name="外國法院委託事件協助法" lastUpdate="19630425" english="THE LAW IN SUPPORTING FOREIGN COURTSON CONSIGNED CASES"/>
 <LAW PCode="B0010048" name="家事事件法" lastUpdate="20151230" english="Family Act"/>
@@ -292,7 +293,7 @@
 <LAW PCode="D0050151" name="老人福利服務專業人員資格及訓練辦法" lastUpdate="20170411" english="Regulations of qualifications and training for professionals of senior citizens’welfare service"><UPDATES><DATE>20070807</DATE><DATE>20120928</DATE></UPDATES></LAW>
 <LAW PCode="D0050152" name="國民年金法" lastUpdate="20161130" english="National Pension Act"/>
 <LAW PCode="D0050161" name="老人福利服務提供者資格要件及服務準則" lastUpdate="20151116" english="Regulations for Qualification and Service of Senior Citizens Welfare Service Providers"><UPDATES><DATE>20080320</DATE></UPDATES></LAW>
-<LAW PCode="D0050164" name="國民年金保險基金管理運用及監督辦法" lastUpdate="20160630" english="Regulations for Management, Utilization and Supervision of the National Pension Insurance Fund"><UPDATES><DATE>20080825</DATE><DATE>20111122</DATE><DATE>20150323</DATE></UPDATES></LAW>
+<LAW PCode="D0050164" name="國民年金保險基金管理運用及監督辦法" lastUpdate="20181102" english="Regulations for Management, Utilization and Supervision of the National Pension Insurance Fund"><UPDATES><DATE>20080825</DATE><DATE>20111122</DATE><DATE>20150323</DATE><DATE>20160630</DATE></UPDATES></LAW>
 <LAW PCode="D0050175" name="消除對婦女一切形式歧視公約施行法" lastUpdate="20110608" english="Enforcement Act of Convention on the Elimination of All Forms of Discrimination against Women"/>
 <LAW PCode="D0050179" name="疑似發展遲緩兒童通報流程及檔案管理辦法" lastUpdate="20120529" english="Regulations for Suspected Report and File Management of Delay Development Children"/>
 <LAW PCode="D0050180" name="弱勢兒童及少年生活扶助與托育及醫療費用補助辦法" lastUpdate="20151211" english="Regulations For Subsidizing Life Assistance As Well As Nursery And Medical Expenses Of Disadvantaged Children And Youth"><UPDATES><DATE>20120528</DATE><DATE>20140218</DATE></UPDATES></LAW>
@@ -711,7 +712,7 @@
 <LAW PCode="G0350003" name="入境旅客攜帶行李物品報驗稅放辦法" lastUpdate="20180821" english="Regulations Governing the Declaration, Inspection, Duty and Release of Personal Luggage or Goods of Inward passengers"><UPDATES><DATE>20011226</DATE><DATE>20040228</DATE><DATE>20040805</DATE><DATE>20061023</DATE><DATE>20070813</DATE><DATE>20090722</DATE><DATE>20141230</DATE><DATE>20150216</DATE><DATE>20160819</DATE><DATE>20170628</DATE><DATE>20170830</DATE><DATE>20180206</DATE></UPDATES></LAW>
 <LAW PCode="G0350005" name="海關管理保稅工廠辦法" lastUpdate="20180806" english="Regulation Governing Customs Bonded Factories"><UPDATES><DATE>20011230</DATE><DATE>20041224</DATE><DATE>20050414</DATE><DATE>20070831</DATE><DATE>20091021</DATE><DATE>20101130</DATE><DATE>20130610</DATE><DATE>20150318</DATE><DATE>20160512</DATE><DATE>20170428</DATE></UPDATES></LAW>
 <LAW PCode="G0350006" name="保稅倉庫設立及管理辦法" lastUpdate="20170526" english="The Regulations Governing the Establishment and Management of Bonded Warehouses"><UPDATES><DATE>20010712</DATE><DATE>20011230</DATE><DATE>20030627</DATE><DATE>20050117</DATE><DATE>20060628</DATE><DATE>20080104</DATE><DATE>20091030</DATE><DATE>20100827</DATE><DATE>20120425</DATE><DATE>20130328</DATE><DATE>20140218</DATE><DATE>20150724</DATE><DATE>20161109</DATE></UPDATES></LAW>
-<LAW PCode="G0350007" name="報關業設置管理辦法" lastUpdate="20180821" english="Regulations Governing the Establishment and Management of Customs Brokers"><UPDATES><DATE>20011230</DATE><DATE>20040210</DATE><DATE>20040716</DATE><DATE>20060119</DATE><DATE>20061031</DATE><DATE>20080613</DATE><DATE>20091005</DATE><DATE>20100812</DATE><DATE>20110614</DATE><DATE>20130816</DATE><DATE>20150413</DATE><DATE>20170310</DATE></UPDATES></LAW>
+<LAW PCode="G0350007" name="報關業設置管理辦法" lastUpdate="20181102" english="Regulations Governing the Establishment and Management of Customs Brokers"><UPDATES><DATE>20011230</DATE><DATE>20040210</DATE><DATE>20040716</DATE><DATE>20060119</DATE><DATE>20061031</DATE><DATE>20080613</DATE><DATE>20091005</DATE><DATE>20100812</DATE><DATE>20110614</DATE><DATE>20130816</DATE><DATE>20150413</DATE><DATE>20170310</DATE><DATE>20180821</DATE></UPDATES></LAW>
 <LAW PCode="G0350008" name="駐華外交機構及其人員進口用品免稅辦法" lastUpdate="20041224" english="Regulations Governing Duty Exemption of Goods Imported by Foreign Diplomatic Institutes in the Republic of China and Their Personnel"><UPDATES><DATE>20011230</DATE></UPDATES></LAW>
 <LAW PCode="G0350010" name="運輸工具進出口通關管理辦法" lastUpdate="20170810" english="Regulations Governing the Management of Import/Export Clearance for Transportation means"><UPDATES><DATE>20011230</DATE><DATE>20030226</DATE><DATE>20040907</DATE><DATE>20091005</DATE><DATE>20100803</DATE><DATE>20110905</DATE><DATE>20120305</DATE><DATE>20130227</DATE><DATE>20130816</DATE><DATE>20140606</DATE><DATE>20150325</DATE></UPDATES></LAW>
 <LAW PCode="G0350012" name="進出口貨物預行報關處理準則" lastUpdate="20150609" english="Regulations Governing the pre-entry Customs Declaration of Import/Export Goods"><UPDATES><DATE>20011230</DATE><DATE>20040719</DATE><DATE>20130816</DATE><DATE>20150324</DATE></UPDATES></LAW>
@@ -741,7 +742,7 @@
 <LAW PCode="G0350071" name="海運快遞貨物通關辦法" lastUpdate="20180712" english="Regulations Governing Customs Clearance Procedures for Maritime Express Consignments"><UPDATES><DATE>20131129</DATE><DATE>20150326</DATE><DATE>20170314</DATE><DATE>20170925</DATE></UPDATES></LAW>
 <LAW PCode="G0350072" name="郵包物品進出口通關辦法" lastUpdate="20170925" english="Regulations Governing Customs Clearance Procedures for Importing and Exporting Postal Parcels"><UPDATES><DATE>20140207</DATE></UPDATES></LAW>
 <LAW PCode="G0350073" name="業者使用自備封條許可及管理辦法" lastUpdate="20170614" english="Regulations Governing the Approval and Management of Using Self-prepared Seals by Relevant Stakeholders"><UPDATES><DATE>20150106</DATE></UPDATES></LAW>
-<LAW PCode="G0350074" name="海關管理承攬業辦法" lastUpdate="20161014" english="Regulations Governing the Customs Management of Freight forwarders"><UPDATES><DATE>20150325</DATE></UPDATES></LAW>
+<LAW PCode="G0350074" name="海關管理承攬業辦法" lastUpdate="20181102" english="Regulations Governing the Customs Management of Freight forwarders"><UPDATES><DATE>20150325</DATE><DATE>20161014</DATE></UPDATES></LAW>
 <LAW PCode="G0350075" name="進口貨物原產地預先審核實施辦法" lastUpdate="20170717" english="The Regulations Governing the Implementation of Advance Ruling on the Country of Origin of Imported Goods"/>
 <LAW PCode="G0360001" name="民國二十三年六釐英金庚款公債條例" lastUpdate="19340528" english="1934 Six Percent British Boxer Indemnity Government Bond Act"/>
 <LAW PCode="G0360002" name="民國三十六年美金公債條例" lastUpdate="19470329" english="1947 US Dollar Bond Act"/>
@@ -1046,7 +1047,7 @@
 <LAW PCode="G0420003" name="中央銀行各局處室組織規程" lastUpdate="20110520" english="The Organic Regulations of the Departments and Offices of the Central Bank of the Republic of China(Taiwan)"><UPDATES><DATE>20010718</DATE><DATE>20030404</DATE><DATE>20040630</DATE><DATE>20051228</DATE><DATE>20070126</DATE></UPDATES></LAW>
 <LAW PCode="G0420005" name="中央印製廠組織規程" lastUpdate="20151126" english="The Organic Regulations of the Central Engraving and Printing Plant"><UPDATES><DATE>20041027</DATE><DATE>20060901</DATE><DATE>20121228</DATE></UPDATES></LAW>
 <LAW PCode="G0420006" name="中央造幣廠組織規程" lastUpdate="20151126" english="The Organic Regulations of the Central Mint"><UPDATES><DATE>20010808</DATE><DATE>20041027</DATE><DATE>20121228</DATE></UPDATES></LAW>
-<LAW PCode="G0420007" name="中央銀行人事管理準則" lastUpdate="20130530" english="Regulations Governing Personnel Management of the Central Bank of the Republic of China (Taiwan)"><UPDATES><DATE>20120530</DATE></UPDATES></LAW>
+<LAW PCode="G0420007" name="中央銀行人事管理準則" lastUpdate="20181101" english="Regulations Governing Personnel Management of the Central Bank of the Republic of China (Taiwan)"><UPDATES><DATE>20120530</DATE><DATE>20130530</DATE></UPDATES></LAW>
 <LAW PCode="G0430001" name="信用合作社資金轉存及融通辦法" lastUpdate="20140124" english="Regulations for Funds to be Re-Deposited by and Accommodated to the Credit Cooperatives"><UPDATES><DATE>20041201</DATE><DATE>20060830</DATE><DATE>20080829</DATE></UPDATES></LAW>
 <LAW PCode="G0430002" name="金融機構存款及其他各種負債準備金調整及查核辦法" lastUpdate="20150611" english="Regulations Governing the Audit and Adjustment of Deposit and Other Liability Reserves of Financial Institutions"><UPDATES><DATE>20010418</DATE><DATE>20030915</DATE><DATE>20070502</DATE><DATE>20080523</DATE><DATE>20091203</DATE><DATE>20101129</DATE><DATE>20131029</DATE></UPDATES></LAW>
 <LAW PCode="G0430003" name="票據交換及銀行間劃撥結算業務管理辦法" lastUpdate="20140124" english="Regulations Governing the Business of Negotiable Instruments Exchange and Clearance of Accounts among Banks"><UPDATES><DATE>20010627</DATE><DATE>20020731</DATE><DATE>20101222</DATE><DATE>20120928</DATE></UPDATES><HISTORY><NAME>中央銀行管理票據交換業務辦法</NAME></HISTORY></LAW>
@@ -1286,6 +1287,7 @@
 <LAW PCode="I0020026" name="政府資訊公開法" lastUpdate="20051228" english="The Freedom of Government Information Law"/>
 <LAW PCode="I0020027" name="法務部及所屬機關提供政府資訊收費標準" lastUpdate="20060102" english="The Fee Standard for Requesting the Ministry of Justice and its Subordinate Agencies to Provide Government Information"/>
 <LAW PCode="I0020028" name="公民與政治權利國際公約及經濟社會文化權利國際公約施行法" lastUpdate="20090422" english="Act to Implement the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights"/>
+<LAW PCode="I0020030" name="財團法人法" lastUpdate="20180801" english="Foundations Act"/>
 <LAW PCode="I0030001" name="引渡法" lastUpdate="19800704" english="Law of Extradition"/>
 <LAW PCode="I0030002" name="保安處分執行法" lastUpdate="20110126" english="Rehabilitative Disposition Execution Act"/>
 <LAW PCode="I0030003" name="罰金罰鍰提高標準條例" lastUpdate="20090429" english="Act of Criteria on Raise of Fines"/>
@@ -1366,7 +1368,7 @@
 <LAW PCode="J0040051" name="產業創新條例" lastUpdate="20180620" english="Statute for Industrial Innovation"/>
 <LAW PCode="J0050001" name="加工出口區設置管理條例" lastUpdate="20100602" english="Statute for the Establishment and Administration of Export Processing Zone"/>
 <LAW PCode="J0050002" name="加工出口區設置管理條例施行細則" lastUpdate="20090730" english="Enforcement Rules of Statute for the Establishment and Administration of Export Processing Zone"><UPDATES><DATE>20020320</DATE><DATE>20041229</DATE><DATE>20070124</DATE></UPDATES></LAW>
-<LAW PCode="J0050003" name="加工出口區管理處及分處業務管理規則" lastUpdate="20130914" english="Management Regulations of Administration and Branches in the Export Processing Zone"><UPDATES><DATE>20020703</DATE><DATE>20031015</DATE><DATE>20050225</DATE><DATE>20051006</DATE><DATE>20070124</DATE><DATE>20071108</DATE><DATE>20090608</DATE></UPDATES></LAW>
+<LAW PCode="J0050003" name="加工出口區管理處及分處業務管理規則" lastUpdate="20181030" english="Management Regulations of Administration and Branches in the Export Processing Zone"><UPDATES><DATE>20020703</DATE><DATE>20031015</DATE><DATE>20050225</DATE><DATE>20051006</DATE><DATE>20070124</DATE><DATE>20071108</DATE><DATE>20090608</DATE><DATE>20130914</DATE></UPDATES></LAW>
 <LAW PCode="J0050004" name="加工出口區區內事業申請設立審查辦法" lastUpdate="20150205" english="Regulations on Examination Measures for Establishment Application of Business Entity in the Economic Processing Zone"><UPDATES><DATE>20020206</DATE><DATE>20021106</DATE><DATE>20050512</DATE></UPDATES></LAW>
 <LAW PCode="J0050014" name="在加工出口區內設有營業或聯絡處所之事業核准登記管理辦法" lastUpdate="20180927" english="Regulations Governing Approval of Registration and Management of Business Entities Setting up Operation or Liaison Offices within the Export Processing Zone"><UPDATES><DATE>20011128</DATE><DATE>20040407</DATE><DATE>20080506</DATE><DATE>20120213</DATE><DATE>20160809</DATE></UPDATES></LAW>
 <LAW PCode="J0050015" name="加工出口區區內事業從事轉運業務課稅作業辦法" lastUpdate="20091207" english="Taxation Imposed Measures on Transshipment Engaged by Business Entity in the Export Processing Zone"><UPDATES><DATE>20011219</DATE></UPDATES></LAW>
@@ -1386,7 +1388,7 @@
 <LAW PCode="J0070012" name="專利規費收費辦法" lastUpdate="20141106" english="Regulations of Patent Fees"><UPDATES><DATE>20011121</DATE><DATE>20040630</DATE><DATE>20080904</DATE><DATE>20091228</DATE><DATE>20110615</DATE><DATE>20120303</DATE><DATE>20121222</DATE><DATE>20140102</DATE></UPDATES><HISTORY><NAME>專利規費收費準則</NAME></HISTORY></LAW>
 <LAW PCode="J0070013" name="專利年費減免辦法" lastUpdate="20160629" english="Regulations for Reduction and Exemption of Patent Annuities"><UPDATES><DATE>20040114</DATE><DATE>20060704</DATE><DATE>20121129</DATE></UPDATES></LAW>
 <LAW PCode="J0070014" name="發明創作獎助辦法" lastUpdate="20150721" english="Regulations Governing Invention and Creation Awards"><UPDATES><DATE>20031217</DATE><DATE>20050317</DATE><DATE>20070207</DATE><DATE>20080303</DATE><DATE>20090217</DATE><DATE>20120213</DATE><DATE>20121226</DATE><DATE>20140306</DATE></UPDATES></LAW>
-<LAW PCode="J0070015" name="專利權期間延長核定辦法" lastUpdate="20180411" english="Regulations for Ratifying Extension of Patent Term"><UPDATES><DATE>20040303</DATE><DATE>20121228</DATE></UPDATES></LAW>
+<LAW PCode="J0070015" name="專利權期間延長核定辦法" lastUpdate="20180411" english="Regulations Governing the Determination of Patent Term Extension"><UPDATES><DATE>20040303</DATE><DATE>20121228</DATE></UPDATES></LAW>
 <LAW PCode="J0070017" name="著作權法" lastUpdate="20161130" english="Copyright Act"/>
 <LAW PCode="J0070019" name="著作權集體管理團體條例" lastUpdate="20100210" english="Copyright Collective Management Organization Act"/>
 <LAW PCode="J0070020" name="著作權爭議調解辦法" lastUpdate="20040414" english="Regulations of Copyright Dispute Mediation"/>
@@ -1441,7 +1443,7 @@
 <LAW PCode="J0080055" name="有限合夥登記申請辦法" lastUpdate="20151201" english="Regulations Governing the Application of Limited Partnership Registration"/>
 <LAW PCode="J0080056" name="有限合夥規費收費準則" lastUpdate="20151209" english="Regulations Governing Fees for Limited Partnership"/>
 <LAW PCode="J0090004" name="貿易法" lastUpdate="20131211" english="Foreign Trade Act"/>
-<LAW PCode="J0090006" name="出進口廠商登記辦法" lastUpdate="20140610" english="Regulations Governing Registration of Exporters and Importers"><UPDATES><DATE>20010620</DATE><DATE>20021211</DATE><DATE>20070427</DATE><DATE>20100601</DATE><DATE>20130325</DATE></UPDATES><HISTORY><NAME>出進口廠商登記管理辦法</NAME></HISTORY></LAW>
+<LAW PCode="J0090006" name="出進口廠商登記辦法" lastUpdate="20181101" english="Regulations Governing Registration of Exporters and Importers"><UPDATES><DATE>20010620</DATE><DATE>20021211</DATE><DATE>20070427</DATE><DATE>20100601</DATE><DATE>20130325</DATE><DATE>20140610</DATE></UPDATES><HISTORY><NAME>出進口廠商登記管理辦法</NAME></HISTORY></LAW>
 <LAW PCode="J0090008" name="貨品輸出管理辦法" lastUpdate="20100708" english="Regulations Governing Export of Commodities"><UPDATES><DATE>20021211</DATE><DATE>20030702</DATE><DATE>20040804</DATE><DATE>20050406</DATE><DATE>20070305</DATE></UPDATES></LAW>
 <LAW PCode="J0090011" name="貿易法施行細則" lastUpdate="20050318" english="Enforcement Rules of the Foreign Trade Act"><UPDATES><DATE>20030219</DATE><DATE>20041006</DATE></UPDATES></LAW>
 <LAW PCode="J0090013" name="戰略性高科技貨品輸出入管理辦法" lastUpdate="20171020" english="Regulations Governing Export and Import Of Strategic High-tech Commodities"><UPDATES><DATE>20100629</DATE><DATE>20110812</DATE><DATE>20120731</DATE><DATE>20140421</DATE></UPDATES></LAW>
@@ -1466,6 +1468,7 @@
 <LAW PCode="J0100031" name="商品型式認可管理辦法" lastUpdate="20180319" english="Regulations Governing Type Approval of Commodities"><UPDATES><DATE>20020109</DATE><DATE>20021106</DATE><DATE>20031231</DATE><DATE>20110707</DATE></UPDATES></LAW>
 <LAW PCode="J0100032" name="商品免經型式認可報驗辦法" lastUpdate="20020109" english="Regulations Governing the Application for Inspection of Commodities Exempted from Type Approval"/>
 <LAW PCode="J0100033" name="商品免驗辦法" lastUpdate="20170616" english="Regulations Governing Exemption from Inspection of Commodities"><UPDATES><DATE>20020201</DATE><DATE>20040611</DATE><DATE>20080321</DATE><DATE>20101118</DATE><DATE>20120316</DATE><DATE>20140310</DATE></UPDATES></LAW>
+<LAW PCode="J0100034" name="商品市場檢查辦法" lastUpdate="20180907" english="Regulations Governing Market Surveillance of Commodities"><UPDATES><DATE>20020201</DATE><DATE>20071219</DATE></UPDATES></LAW>
 <LAW PCode="J0100035" name="商品檢驗指定試驗室認可管理辦法" lastUpdate="20080111" english="Regulations Governing Recognition of Designated Testing Laboratory for Commodity Inspection"><UPDATES><DATE>20020201</DATE><DATE>20040421</DATE></UPDATES></LAW>
 <LAW PCode="J0100037" name="外銷食品及飼料衛生安全管理系統驗證實施辦法" lastUpdate="20141029" english="Regulations Governing Implementation of Hygiene and Safety Management System Certification of Food And Feed for Export"><UPDATES><DATE>20020619</DATE><DATE>20110414</DATE></UPDATES><HISTORY><NAME>外銷食品加工廠危害分析重要管制點系統驗證實施辦法</NAME></HISTORY></LAW>
 <LAW PCode="J0100038" name="商品檢驗標識使用辦法（91.01.09訂定）" lastUpdate="20180928" english="Regulations Governing the Use of Commodity Inspection Mark（2002.01.09 promulgated）"><UPDATES><DATE>20020109</DATE><DATE>20021030</DATE><DATE>20060105</DATE><DATE>20070524</DATE><DATE>20080129</DATE><DATE>20091112</DATE></UPDATES><HISTORY><NAME>商品檢驗標識使用辦法（新 91.01.09 訂定）</NAME></HISTORY></LAW>
@@ -1558,7 +1561,7 @@
 <LAW PCode="J0160048" name="核子反應器設施監查工作範圍及監查機構認可辦法" lastUpdate="20140113" english="Regulations on the Scope of Inspection and on the Certification of Authorized Inspection Agencies for Nuclear Reactor Facilities"><UPDATES><DATE>20040623</DATE><DATE>20090211</DATE></UPDATES></LAW>
 <LAW PCode="J0160054" name="核子反應器設施除役許可申請審核辦法" lastUpdate="20120709" english="Regulations for the Review and Approval of Applications for Decommissioning Permit of Nuclear Reactor Facilities"><UPDATES><DATE>20040714</DATE></UPDATES></LAW>
 <LAW PCode="J0160056" name="核子事故緊急應變法" lastUpdate="20031224" english="Nuclear Emergency Response Act"/>
-<LAW PCode="J0160059" name="行政院原子能委員會輻射偵測中心規費收費標準" lastUpdate="20180814" english="Service Charging Fees of Radiation Monitoring Center,Atomic Energy Council,Executive Yuan"><UPDATES><DATE>20041020</DATE><DATE>20120116</DATE></UPDATES></LAW>
+<LAW PCode="J0160059" name="行政院原子能委員會輻射偵測中心規費收費標準" lastUpdate="20180814" english="Standards of Service Fee Charges of Radiation Monitoring Center, Atomic Energy Council, Executive Yuan"><UPDATES><DATE>20041020</DATE><DATE>20120116</DATE></UPDATES></LAW>
 <LAW PCode="J0160060" name="核子事故緊急應變法施行細則" lastUpdate="20171002" english="Enforcement Rules for the Implementation of the Nuclear Emergency Response Act"><UPDATES><DATE>20050303</DATE><DATE>20120328</DATE></UPDATES></LAW>
 <LAW PCode="J0160061" name="核子燃料運作安全管理規則" lastUpdate="20091030" english="Regulations for the Nuclear Fuels Operational Safety Management"><UPDATES><DATE>20040519</DATE></UPDATES></LAW>
 <LAW PCode="J0160062" name="核子原料運作安全管理規則" lastUpdate="20091030" english="Regulations for the Nuclear Source Materials Operational Safety Management"><UPDATES><DATE>20040519</DATE></UPDATES></LAW>
@@ -2196,7 +2199,7 @@
 <LAW PCode="M0140003" name="植物防疫及檢疫執行辦法" lastUpdate="20150525" english="Regulations of Conduct for Executing Plant Protection and Quarantine"><UPDATES><DATE>20020329</DATE><DATE>20051103</DATE></UPDATES></LAW>
 <LAW PCode="M0140009" name="梨接穗輸入檢疫作業辦法" lastUpdate="20050627" english="Quarantine Inspection Regulations for The Importation of Pear Scions"><UPDATES><DATE>20020830</DATE></UPDATES></LAW>
 <LAW PCode="M0140010" name="特定植物檢疫物及物品輸入核准辦法" lastUpdate="20150525" english="Regulations for Approving Imports of Designated Plant Regulated Articles or other Articles"><UPDATES><DATE>20100518</DATE></UPDATES><HISTORY><NAME>特定植物或植物產品輸入核准辦法</NAME></HISTORY></LAW>
-<LAW PCode="M0140011" name="植物或植物產品運輸途中經由特定疫病蟲害疫區輸入檢疫作業辦法" lastUpdate="20181015" english="Quarantine Regulations for Transshipment of Plants or Plant Products through Countries or Districts Where Designated Diseases or Pests Are Known to Occur"><UPDATES><DATE>20030630</DATE><DATE>20100902</DATE></UPDATES></LAW>
+<LAW PCode="M0140011" name="植物或植物產品運輸途中經由特定疫病蟲害疫區輸入檢疫作業辦法" lastUpdate="20181015" english="Quarantine Requirements for Transshipment of Plants or Plant Products through Countries or Districts Where Designated Diseases or Pests Are Known to Occur"><UPDATES><DATE>20030630</DATE><DATE>20100902</DATE></UPDATES></LAW>
 <LAW PCode="M0140012" name="農藥管理法" lastUpdate="20180523" english="Agro-pesticides Management Act"/>
 <LAW PCode="M0140013" name="農藥管理法施行細則" lastUpdate="20150826" english="Enforcement Rules of the Agro-pesticides Management Act"><UPDATES><DATE>20031215</DATE><DATE>20100206</DATE></UPDATES></LAW>
 <LAW PCode="M0140029" name="基因轉殖植物輸出入許可辦法" lastUpdate="20050707" english="Regulations for Approving Import/Export of Transgenic Plant"/>
@@ -2575,7 +2578,7 @@
 <LAW PCode="A0010016" name="中央研究院組織法" lastUpdate="20140115"/>
 <LAW PCode="A0010017" name="國史館組織條例" lastUpdate="20011024"/>
 <LAW PCode="A0010018" name="國父陵園管理委員會組織條例" lastUpdate="19460702"/>
-<LAW PCode="A0010019" name="中央研究院研究所組織規程" lastUpdate="20160518"><UPDATES><DATE>20021127</DATE><DATE>20030507</DATE><DATE>20030903</DATE><DATE>20031119</DATE><DATE>20040512</DATE><DATE>20050518</DATE><DATE>20060510</DATE><DATE>20061108</DATE><DATE>20070502</DATE><DATE>20111109</DATE><DATE>20151111</DATE></UPDATES></LAW>
+<LAW PCode="A0010019" name="中央研究院研究所組織規程" lastUpdate="20181023"><UPDATES><DATE>20021127</DATE><DATE>20030507</DATE><DATE>20030903</DATE><DATE>20031119</DATE><DATE>20040512</DATE><DATE>20050518</DATE><DATE>20060510</DATE><DATE>20061108</DATE><DATE>20070502</DATE><DATE>20111109</DATE><DATE>20151111</DATE><DATE>20160518</DATE></UPDATES></LAW>
 <LAW PCode="A0010020" name="國史館史料審查委員會組織規程" lastUpdate="20180214"/>
 <LAW PCode="A0010021" name="國家安全會議組織法" lastUpdate="20030625"/>
 <LAW PCode="A0010022" name="國家安全局組織法" lastUpdate="20111230"/>
@@ -3061,7 +3064,6 @@
 <LAW PCode="A0040013" name="臺灣省政府功能業務與組織調整暫行條例施行期間員工權益處理辦法" lastUpdate="20180625"><UPDATES><DATE>20020131</DATE></UPDATES></LAW>
 <LAW PCode="A0040019" name="臺灣省政府組織規程（95.09.11訂定）" lastUpdate="20110428"><UPDATES><DATE>20060911</DATE><DATE>20090324</DATE></UPDATES></LAW>
 <LAW PCode="B0010003" name="民事訴訟費用法" lastUpdate="20030910"/>
-<LAW PCode="B0010004" name="強制執行法" lastUpdate="20180613"/>
 <LAW PCode="B0010005" name="管收條例" lastUpdate="19800723"/>
 <LAW PCode="B0010006" name="破產法" lastUpdate="20180613"/>
 <LAW PCode="B0010007" name="破產法施行法" lastUpdate="20180613"/>
@@ -4158,6 +4160,7 @@
 <LAW PCode="D0090055" name="海洋委員會海巡署艦隊分署編制表" lastUpdate="20180427"/>
 <LAW PCode="D0090056" name="海洋委員會海巡署教育訓練測考中心編制表" lastUpdate="20180427"/>
 <LAW PCode="D0090057" name="國家海洋研究院籌備處編制表" lastUpdate="20180427"/>
+<LAW PCode="D0090058" name="海洋委員會海洋野生動物保育諮詢委員會設置辦法" lastUpdate="20181101"/>
 <LAW PCode="D0100001" name="蒙藏委員會輔導海外蒙藏學生回國升學辦法" lastUpdate="20170817"><UPDATES><DATE>20050920</DATE><DATE>20051109</DATE></UPDATES></LAW>
 <LAW PCode="D0100002" name="蒙藏委員會蒙藏學生獎勵辦法" lastUpdate="20000701"/>
 <LAW PCode="D0100003" name="蒙藏委員會補助在臺蒙藏學生辦法" lastUpdate="20000703"/>
@@ -6069,7 +6072,7 @@
 <LAW PCode="H0150053" name="公立學校教職員定期退撫給與查驗及發放辦法" lastUpdate="20180518"/>
 <LAW PCode="H0150054" name="公立學校退休教職員一次退休金及養老給付優惠存款辦法（107.06.29訂定）" lastUpdate="20180629"/>
 <LAW PCode="H0150055" name="偏遠地區學校合聘教師及巡迴教師聘任辦法" lastUpdate="20180827"/>
-<LAW PCode="H0160007" name="科學工業園區貿易業務管理辦法" lastUpdate="20041124"><UPDATES><DATE>20020304</DATE></UPDATES><HISTORY><NAME>科學工業園區貿易業務處理辦法</NAME></HISTORY></LAW>
+<LAW PCode="H0160007" name="科學園區貿易業務管理辦法" lastUpdate="20181031"><UPDATES><DATE>20020304</DATE><DATE>20041124</DATE></UPDATES><HISTORY><NAME>科學工業園區貿易業務處理辦法</NAME><NAME>科學工業園區貿易業務管理辦法</NAME></HISTORY></LAW>
 <LAW PCode="H0160008" name="科學工業園區土地租賃及建築物租售管理辦法" lastUpdate="20010412"/>
 <LAW PCode="H0160012" name="科學工業園區管理局儲運服務中心設置辦法" lastUpdate="20041224"/>
 <LAW PCode="H0160013" name="科技部新竹科學工業園區管理局消防隊設置辦法" lastUpdate="20140828"/>
@@ -6265,7 +6268,7 @@
 <LAW PCode="I0000031" name="法務部矯正署少年矯正學校組織準則" lastUpdate="20101231"/>
 <LAW PCode="I0000036" name="檢察官評鑑委員會組織規程" lastUpdate="20140530"><UPDATES><DATE>20111228</DATE></UPDATES></LAW>
 <LAW PCode="I0000037" name="檢察官會議實施辦法" lastUpdate="20120615"/>
-<LAW PCode="I0000038" name="檢察官遴選委員會設置及審查辦法" lastUpdate="20140825"><UPDATES><DATE>20120705</DATE><DATE>20140127</DATE></UPDATES></LAW>
+<LAW PCode="I0000038" name="檢察官遴選委員會設置及審查辦法" lastUpdate="20181102"><UPDATES><DATE>20120705</DATE><DATE>20140127</DATE><DATE>20140825</DATE></UPDATES></LAW>
 <LAW PCode="I0000040" name="各機關政風機構設置標準" lastUpdate="20140418"/>
 <LAW PCode="I0000041" name="法務部矯正署臺南第二監獄編制表" lastUpdate="20170623"><UPDATES><DATE>20150717</DATE></UPDATES></LAW>
 <LAW PCode="I0000042" name="法務部矯正署八德外役監獄編制表" lastUpdate="20170623"><UPDATES><DATE>20150717</DATE></UPDATES></LAW>
@@ -6439,7 +6442,6 @@
 <LAW PCode="I0020022" name="犯罪被害人保護志工志願服務獎勵辦法" lastUpdate="20051014"/>
 <LAW PCode="I0020025" name="律師聘僱外國人從事助理或顧問工作申請案件審查費收費標準" lastUpdate="20051201"/>
 <LAW PCode="I0020029" name="行政機關與司法機關辦理行政罰及刑事罰競合案件業務聯繫辦法" lastUpdate="20120803"/>
-<LAW PCode="I0020030" name="財團法人法" lastUpdate="20180801"/>
 <LAW PCode="I0030005" name="檢察機關辦理刑事被告具保責付辦法" lastUpdate="19960807"/>
 <LAW PCode="I0030007" name="檢察官推事指揮司法警察證細則" lastUpdate="20021104"/>
 <LAW PCode="I0030008" name="檢察官與司法警察機關執行職務聯繫辦法" lastUpdate="19981111"/>
@@ -6473,7 +6475,7 @@
 <LAW PCode="I0030036" name="檢察官服務紀錄良好證明核發辦法" lastUpdate="20120613"/>
 <LAW PCode="I0030037" name="候補、試署檢察官辦理事務及服務成績考核辦法" lastUpdate="20120629"/>
 <LAW PCode="I0030038" name="法務部調派實任檢察官至同級法院檢察署任職或辦事辦法" lastUpdate="20120629"/>
-<LAW PCode="I0030039" name="遴選檢察官職前研習辦法" lastUpdate="20120702"/>
+<LAW PCode="I0030039" name="遴選檢察官職前研習辦法" lastUpdate="20181102"><UPDATES><DATE>20120702</DATE></UPDATES></LAW>
 <LAW PCode="I0030040" name="檢察官全面評核實施辦法" lastUpdate="20120705"/>
 <LAW PCode="I0030041" name="實任檢察官申請停止辦理案件及從事研究或司法行政工作辦法" lastUpdate="20120705"/>
 <LAW PCode="I0030042" name="檢察官進修考察辦法" lastUpdate="20170501"><UPDATES><DATE>20120706</DATE><DATE>20130725</DATE></UPDATES></LAW>
@@ -6856,6 +6858,7 @@
 <LAW PCode="J0030142" name="無形資產評價人員及機構登錄管理辦法" lastUpdate="20180604"/>
 <LAW PCode="J0030144" name="個人投資新創事業公司所得減除辦法" lastUpdate="20180606"/>
 <LAW PCode="J0030145" name="醫療服務園區各種用地用途及使用規範辦法" lastUpdate="20181015"/>
+<LAW PCode="J0030146" name="經濟部事業廢棄物再利用產品環境監測管理辦法" lastUpdate="20181029"/>
 <LAW PCode="J0040003" name="技術合作條例" lastUpdate="19950802"/>
 <LAW PCode="J0040004" name="專利權及專門技術作為股本投資辦法" lastUpdate="19970924"/>
 <LAW PCode="J0040005" name="公司提撥國外投資損失準備處理辦法" lastUpdate="20100903"><UPDATES><DATE>20021230</DATE><DATE>20060210</DATE></UPDATES><HISTORY><NAME>國外投資或技術合作輔導及審核處理辦法</NAME></HISTORY></LAW>
@@ -6959,6 +6962,7 @@
 <LAW PCode="J0080048" name="參與政府專案紓困方案公司發行新股與董事監察人經理人限制報酬及相關事項辦法" lastUpdate="20090319"/>
 <LAW PCode="J0080050" name="經濟部輔導及獎勵主管事業機構成立關係企業僱用身心障礙者辦法" lastUpdate="20120620"/>
 <LAW PCode="J0080052" name="網際網路零售業及網際網路零售服務平台業個人資料檔案安全維護計畫及業務終止後個人資料處理作業辦法" lastUpdate="20150917"/>
+<LAW PCode="J0080057" name="公司法第二十二條之一資料申報及管理辦法" lastUpdate="20181031"/>
 <LAW PCode="J0090001" name="參加國外商展處理辦法" lastUpdate="20000503"/>
 <LAW PCode="J0090002" name="輸出業團體分業標準" lastUpdate="20171227"><UPDATES><DATE>20080327</DATE><DATE>20090807</DATE><DATE>20150304</DATE></UPDATES></LAW>
 <LAW PCode="J0090003" name="海外經濟合作發展基金收支保管及運用辦法" lastUpdate="19960731"/>
@@ -6996,7 +7000,6 @@
 <LAW PCode="J0100019" name="中華民國品質管理及環境管理認證制度實施辦法" lastUpdate="20051201"/>
 <LAW PCode="J0100020" name="經濟部標準檢驗局委託代施度量衡器檢定業務及監督管理辦法" lastUpdate="20030723"/>
 <LAW PCode="J0100021" name="經濟部標準檢驗局辦理我國遠洋漁船漁獲物之衛生管理符合性評鑑驗證辦法" lastUpdate="20021218"/>
-<LAW PCode="J0100034" name="商品市場檢查辦法" lastUpdate="20180907"><UPDATES><DATE>20020201</DATE><DATE>20071219</DATE></UPDATES></LAW>
 <LAW PCode="J0100036" name="辦理受託物品試驗或其他技術服務辦法" lastUpdate="20080115"><UPDATES><DATE>20020220</DATE><DATE>20040908</DATE></UPDATES></LAW>
 <LAW PCode="J0100040" name="實施管理及檢驗制度認可廠場監視查驗辦法" lastUpdate="20031205"/>
 <LAW PCode="J0100042" name="商品驗證登錄收費實施辦法" lastUpdate="20020410"/>
@@ -8607,7 +8610,7 @@
 <LAW PCode="M0090028" name="未產生經濟效益之嚴重地層下陷區之農牧用地及養殖用地認定標準" lastUpdate="20110617"/>
 <LAW PCode="M0090029" name="因天然災害致未產生經濟效益之農牧用地養殖用地及林業用地認定標準" lastUpdate="20110617"/>
 <LAW PCode="M0090030" name="農民職業災害保險試辦辦法" lastUpdate="20181009"/>
-<LAW PCode="M0090031" name="農民職業災害保險被保險人因實際從事農業工作而致傷害審查準則" lastUpdate="20181017"/>
+<LAW PCode="M0090031" name="農民職業災害保險被保險人因實際從事農業工作而致傷害審查辦法" lastUpdate="20181017"/>
 <LAW PCode="M0100002" name="農田水利會人事管理規則" lastUpdate="20140527"><UPDATES><DATE>20041231</DATE><DATE>20071212</DATE><DATE>20091214</DATE><DATE>20120416</DATE><DATE>20130429</DATE></UPDATES></LAW>
 <LAW PCode="M0100003" name="農田水利會會長及會務委員考核獎懲辦法" lastUpdate="20111011"><UPDATES><DATE>20040615</DATE></UPDATES></LAW>
 <LAW PCode="M0100004" name="農田水利會財務處理辦法" lastUpdate="20180425"><UPDATES><DATE>20010418</DATE><DATE>20090715</DATE><DATE>20140509</DATE><DATE>20170303</DATE></UPDATES></LAW>
