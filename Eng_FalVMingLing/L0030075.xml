@@ -3,17 +3,13 @@
 <英文法規名稱>Regulations for the Inspection and Examination of Imported Medicaments</英文法規名稱>
 <中文法規名稱>輸入藥物邊境抽查檢驗辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=L0030075</法規網址>
-<最新英文異動日期>20150703</最新英文異動日期>
+<最新英文異動日期>20180822</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<附件>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002055</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002763</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004602</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004734</下載網址>
-</附件>
+<附件 />
 <沿革內容><![CDATA[1.DOH Food No. 1021600820 Promulgated, May 13, 2013.
-2.Article 24 and Annex II of Article 22 amended and promulgated by the Ministry of Health and Welfare Order Bu-Shou-Shi-Zi No. 1041603996 on July 3rd, 2015; for implementation from July 1st, 2015]]></沿革內容>
+2.Article 24 and Annex II of Article 22 amended and promulgated by the Ministry of Health and Welfare Order Bu-Shou-Shi-Zi No. 1041603996 on July 3rd, 2015; for implementation from July 1st, 2015
+3.Amended and Promulgated on August 22,2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I  General Provisions</編章節>
@@ -24,19 +20,19 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[Definition:  terms used in these regulations:
+    <條文內容><![CDATA[Definition: terms used in these regulations:
 1. Inspections: This refers to spot checks or examination before permitting the importation of medicaments
 2. Examination: This refers to conducting sensory, chemical, biological, or physical tests in a laboratory.
 3. Inspection authorities: This refers to inspection enforcement by the central competent health authority or its appointed agencies (organizations).
-4. Obligatory inspection applicants:  This refers to medicaments importers.
+4. Obligatory inspection applicants: This refers to medicaments importers.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter II  Imported Drugs Inspection</編章節>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[For drugs required for inspection by the competent authority , the obligatory inspection applicants shall submit the following documents to the inspection authority to carry out the inspection:
+    <條文內容><![CDATA[For drugs required for inspection by the competent authority, the obligatory inspection applicants shall submit the following documents to the inspection authority to carry out the inspection:
 1. An application form for inspection.
-2. A copy of medicaments permit license.
+2. A copy of medicaments permit license or import certificate issued by the central competent health authority.
 3. A copy of application for import declaration.
 4. Necessary documents required by the central competent authority.
 The application of the preceding paragraph can be submitted electronically.
@@ -51,6 +47,18 @@ Drugs pursuant to the first Paragragh that conform to one of the following situa
 1. Batch-by-batch examination: carried out for each submitted batch of drugs.
 2. Randomly-selected batch examination: performed based on a 2%-50% inspection rate.
 3. On-site inspection: inspecting and checking (hereinafter referred to as ‘verification’) of items, packaging, appearance and labels of products on site.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 4-1</條號>
+    <條文內容><![CDATA[For active pharmaceutical ingredients (as raw materials in Article 16 of Pharmaceutical Affairs Act) that belong to classification codes in Chapters 28 and 29 of the Import and Export Commodity Classification of the Republic of China, management of randomly-selected batch examination in Subparagraph 2 of the foregoing article are as follows:
+1. For those randomly-selected:
+(1) Testing is done through rapid test instruments. Once determined as illicit drugs, they are to be forwarded to the customs or judicial/police authority for investigation.
+(2) When test results cannot be determined or it is impossible to perform testing with rapid testing instruments, they shall be sealed immediately and may not be unpacked without authorization.
+(3) For drugs that are sealed according to preceding item, the inspection authority may issue the notice allowing prior release of imported drugs to facilitate customs declaration after the applicant has prepared the affidavit as required by Article 18 and enclosed supporting documents for compliance of the storage site with the Regulations for Good Manufacturing Practice or having filed for reference with the competent municipal and county (city) health authority. The storage site, without prior approval from the inspection authority, may not be changed unilaterally.
+(4) The applicant indicated in the preceding item shall proactively notify the inspection authority for sending staff to the location compliance with the Pharmaceutical Good Manufacturing Practice Regulations for unsealing and examination. Those having met requirements shall be managed according to Article 19.
+(5) The quantities involved in the randomly-selected batch examination are indicated in Annex 1.
+2. For batches not being selected, the inspection authority will review the application documents. Those having met requirements shall be managed according to Article 19.
 ]]></條文內容>
   </條文>
   <條文>
@@ -109,11 +117,11 @@ Medical devices that conform to one of the following situations can be exempted 
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[In addition to documentation review (as prescribed in Article9), inspection authority can carry out the medical devices inspection in one or some of the following measures:
+    <條文內容><![CDATA[In addition to documentation review (as prescribed in Article 9), inspection authority can carry out the medical devices inspection in one or some of the following measures:
 1. Batch-by-batch examination: The inspection is carried out for each submitted batch of medical devices.
 2. Randomly-selected batch examination: The inspection is performed based on a 2%-50% inspection rate.
 3. On-site inspection: verification of items, packaging, appearance and labels of products on site.
-The methods for inspection and the items and methodologies for examination of imported medical devices as prescribed in Annex I.
+The methods for inspection and the items and methodologies for examination of imported medical devices as prescribed in Annex II.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter V  Others</編章節>
@@ -162,8 +170,8 @@ If the pledged storage location does not conform to the actual storage location,
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[After medicaments applied for inspection are found to conform to the regulations, the inspection authority shall issue a medicaments import  notification ,the obligatory inspection applicant can apply to the inspection authority for a notification of the medicaments import admitted.
-The obligatory inspection applicant can claim remaining samples by presenting the sampling receipt within 15 days after receipt of the notice of inspection results. However, if the sample is not collected within the time period or has short shelf life, the inspection authority may   dispose of the samples directly.
+    <條文內容><![CDATA[After medicaments applied for inspection are found to conform to the regulations, the inspection authority shall issue a medicaments import notification ,the obligatory inspection applicant can apply to the inspection authority for a notification of the medicaments import admitted.
+The obligatory inspection applicant can claim remaining samples by presenting the sampling receipt within 15 days after receipt of the notice of inspection results. However, if the sample is not collected within the time period or has short shelf life, the inspection authority may dispose of the samples directly.
 ]]></條文內容>
   </條文>
   <條文>
@@ -187,7 +195,7 @@ If imported products that have been released via a prior release notice do not c
 2. On-site inspection fees;
 3. Certificate fees;
 4. Examination fees;
-The inspection fees in the preceding paragraph is described in Annex Π.
+The inspection fees in the preceding paragraph is described in Annex III.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter VII  Supplementary Provisions</編章節>
