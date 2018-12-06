@@ -3,20 +3,21 @@
 <英文法規名稱>Administrative Regulations on the Establishment and Operation of Dedicated Telecommunications, and the Connection of Dedicated Telecommunications to Public Communication System</英文法規名稱>
 <中文法規名稱>專用電信設置使用及連接公共通信系統管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0060015</法規網址>
-<最新英文異動日期>20070713</最新英文異動日期>
+<最新英文異動日期>20180727</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1. Promulgated by the Ministry of Transportation and Communications（MOTC） on Jan. 31, 1970. Ref：Jiao-Yu （59）Tze No.01188
-2. Amended and Promulgated by MOTC on Oct. 9, 1972. Ref：Jiao-Yu （61）Tze No.13525
-3. Amended and Promulgated by MOTC on June 6, 1978. Ref：Jiao-Yu （66）Tze No.10058
-4. The amendment of Articles 19,29,48 to 51,59,63,74 , 76 and Attachment 1 promulgated by MOTC on Aug. 3, 1984. Ref：Jiao-Yu （73） Tze No.17299
-5. The amendment of Articles 4 and 5 promulgated by MOTC on Dec. 15, 1986. Ref：Jiao-Yu-Fa Tze No.7536
-6. The amendment of Attached Table promulgated by MOTC on Jan. 15, 1989. Ref：（78）Jiao-Yu-Fa Tze No.7803
-7. The amendment of Articles 52 to 55,57 and 74 ,and addition of Articles 48 to 51,and annulled Article 56 promulgated by MOTC on May 19, 1995. Ref：Jiao-Yu-Fa Tze No.8424
-8. 22 Articles and the title amended and promulgated in full by MOTC on Nov. 5, 1997. Ref：Jiao-Yu- Fa Tze No.8680
-9. The amendment of the title and Articles 1,4 and 8 promulgated by MOTC on Dec. 11, 2000. Ref：Jiao-Yu- Fa Tze No.8975
-10. The amendment of Articles 2,4 to 12 and 17 promulgated by  National Communications Commission（NCC） on July 13, 2007. Ref： Tung-Chuan-Fa Tze No.09605105731]]></沿革內容>
+<沿革內容><![CDATA[1. Jiao-You-Zih(59) No.01188, Enacted and promulgated by the order of the Ministry of Transportation and Communications on January 31, 1970.
+2. Jiao-You-Zih(61) No.13525, Amended and promulgated by the order of the Ministry of Transportation and Communications on October 9, 1972.
+3. Jiao-You-Zih(66) No.10058, Amended and promulgated by the order of the Ministry of Transportation and Communications on June 6, 1978.
+4. Jiao-You-Zih (73) No.17288, The amendments of partial Articles and attachment 1 are hereby promulgated by the order of the Ministry of Transportation and Communications on August 3, 1984.
+5. Jiao-You-Fa-Zih No.7536, The amendments of Article 4 and Article 5 are hereby promulgated by the order of the Ministry of Transportation and Communications on December 15, 1986.
+6. Amended on January 15, 1989
+7. Jiao-You-Fa-Zih No.8424, The amendments of Article 52 to 55, Article 57 and Article 74, and addition of new Article 48 to 51, and deletion of Article 56 are hereby promulgated by the order of the Ministry of Transportation and Communications on May 19, 1995.
+8. Jiao-You-Fa-Zih No.8680, The amendments of 22 Articles and the Title are hereby promulgated in full by the order of the Ministry of Transportation and Communications on November 5, 1997. (The original name is the Regulations for the Dedicated Telecommunications Establishment).
+9. Jiao-You-Fa-Zih No.8975, The amendments of the Title and Article 1, Article 4, and Article 8 are hereby promulgated by the order of the Ministry of Transportation and Communications on December 11, 2000. (The original name is the Administrative Regulations on the Establishment and Operation of Dedicated Telecommunications).
+10. Tong-Chuan- Fa-Zih No. 09605105731, Amended and Promulgated by the order of the National Communications Commision on July 13, 2007.
+11. Tung-Chuan-Tz- Ji- yuan-Zih No. 10743016940, Amended and Promulgated by the order of the National Communications Commision on July 27, 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -34,16 +35,16 @@
     <條號>Article 3</條號>
     <條文內容><![CDATA[In accordance with the application for establishment system or purpose, the dedicated telecommunications shall be classified into the following:
 1. Dedicated wired telecommunications:
-(1) Wired carrier station.
-(2) Optical fiber transmission station.
-(3) Dedicated wired telephone.
+(1)Wired carrier station.
+(2)Optical fiber transmission station.
+(3)Dedicated wired telephone.
 2. Dedicated radio telecommunications:
-(1) Ship radio station.
-(2) Aircraft radio station.
-(3) Taxi radio station.
-(4) Academic experimental radio station.
-(5) Amateur radio station.
-(6) Dedicated radio stations for fishing, electricity, police, fire safety, railroad, highway, Mass Rapid Transit, medical, water resources service, meteorology and established for dedicated use by other users to support their own service activities.
+(1)Ship radio station.
+(2)Aircraft radio station.
+(3)Taxi radio station.
+(4)Academic experimental radio station.
+(5)Amateur radio station.
+(6)Dedicated radio stations for fishing, electricity, police, fire safety, railroad, highway, Mass Rapid Transit, medical, water resources service, meteorology and established for dedicated use by other users to support their own service activities.
 ]]></條文內容>
   </條文>
   <條文>
@@ -53,13 +54,13 @@
 2. Communications for ship or aircraft.
 3. The necessary emergency communications for maintaining the national security, public order or public interest.
 4. The rescue operation communications for nature disaster, incident or urgent danger.
-5.Others obtaining the special approval by the competent authority.
+5. Others obtaining the special approval by the competent authority.
 If aforementioned reason of the permit for connecting to public communication system no longer exists, the operator shall disconnect immediately and report to competent authority for reference.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[The competent authority for these regulations is the NATIONAL COMMUNICATIONS COMMISSION.
+    <條文內容><![CDATA[The competent authority for these regulations is the National Communications Commision.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter 2 The Approval of the Establishment and Operation</編章節>
@@ -79,6 +80,7 @@ The aforementioned application shall specify the following:
 4. The radio telecommunications part of system diagram and communication mode for the telephone equipment shall specify the power, frequency, type of transmission, frequency bandwidth and antenna types.
 5. The name and ID numbers of the engineering supervisors.
 6. The expected completion date of the dedicated wired telecommunications’ establishment period.
+Where the application as described in Paragraph 1 is submitted by a public utility that installs a smart meter system on dedicated frequency, the said public utility shall attach the type approval or certificate of the wireless transmission or reception equipment as issued by the competent authority with the application.
 ]]></條文內容>
   </條文>
   <條文>
@@ -118,7 +120,7 @@ For overall development of telecommunications and information, if necessary, the
     <條號>Article 13</條號>
     <條文內容><![CDATA[The dedicated telecommunications frequency shall remain stable. The bandwidth and the tolerance deviation shall comply with the Administrative Regulations on Radio waves, and shall avoid spurious emissions and harmonic interference.
 The antenna for the dedicated radio station shall not violate the aviation safety standard and the regulation for building restriction around airport, aviation ground, and the navigation aids related facilities.
-The antenna shall keep a safe distance from the high-tension wire.  If its altitude is more than 60 meters, it shall have a color tag of aviation and the lights to avoid endangering the public safety.
+The antenna shall keep a safe distance from the high-tension wire. If its altitude is more than 60 meters, it shall have a color tag of aviation and the lights to avoid endangering the public safety.
 ]]></條文內容>
   </條文>
   <條文>
