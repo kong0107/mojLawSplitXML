@@ -3,17 +3,14 @@
 <英文法規名稱>Fuel Economy Standards and Regulations on Vehicle Inspection and Administration</英文法規名稱>
 <中文法規名稱>車輛容許耗用能源標準及檢查管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=J0130009</法規網址>
-<最新英文異動日期>20161223</最新英文異動日期>
+<最新英文異動日期>20181018</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002497</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002498</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002499</下載網址>
   <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003417</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004672</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004673</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004674</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004987</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004988</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004989</下載網址>
 </附件>
 <沿革內容><![CDATA[1. Approved and promulgated by the Executive Yuan and enforced on June 25, 1987；Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on July 24, 1987
 2. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on November 24, 1989
@@ -25,7 +22,8 @@
 8. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on August 4, 2009
 9. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on May 7, 2010
 10. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on August 11, 2014
-11. Amended on December 23, 2016]]></沿革內容>
+11. Amended on December 23, 2016
+12. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on October 18, 2018]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -66,8 +64,8 @@ Any matters not provided for in these regulations herein shall be subject to the
 
 Combined fuel economy value (kilometers/liter, km/L) =
 　　　　　　　       　1
- ─────────────────────────
-          0.55　                  0.45
+─────────────────────────
+　　　　0.55　　　　　 　　0.45
 ─────────── + ─────────────
 City fuel economy(km/L)　Highway fuel economy(km/L)
 
@@ -91,13 +89,14 @@ City fuel economy(km/L)　Highway fuel economy(km/L)
 Combined fuel economy value (kilometers/liter, km/L) =
 　Urban test mileage (km)　 +　 Extra urban test mileage (km)
 ────────────────────────────────
- Urban test mileage (km)　　  　Extra urban test mileage (km)
-─────────────  +   ────────────────
+Urban test mileage (km)　　 　Extra urban test mileage (km)
+───────────── + ────────────────
 Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 
 4.2 Effective from Jan.1, 2016 for manufactured or imported passenger car (including sedans and station wagons) with a gasoline or diesel engine by any entity to apply for vehicle type fuel economy certificates shall be tested in accordance with the test procedures prescribed in the European directive 1999/100/EC and its subsequent revisions; effective from Jan. 1, 2017, the previous mentioned vehicles shall comply with the following requirements:
 4.2.1 The average fuel economy value of the manufacturer sold vehicles shall be higher than the required average fuel economy target value.
 4.2.2 The average fuel economy limits corresponding to different vehicle types prescribed by the required average fuel economy target value are as follows. But if the previous year sales of a brand by the vehicle entity were less than 300 units and the brand’s world annual production is less than 10,000 units, a proposal for its fuel economy improvement may be submitted and being approved by the central competent authority to execute its improvement project announced by the central competent authority, and not applicable for the average fuel economy limits prescribed herein.
+4.2.2.1 The average fuel economy limits effective from Jan. 1, 2017 till Dec. 31, 2021:
 ┌────────────────┬─────────────┐
 │Class of vehicle reference mass │Average fuel economy      │
 │(kg)                            │limits (km/liter)         │
@@ -105,6 +104,8 @@ Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 │Below 850                       │19.2                      │
 ├────────────────┼─────────────┤
 │Over 850 to 965                 │18.2                      │
+├────────────────┼─────────────┤
+│Over 965 to 1080                │17.4                      │
 ├────────────────┼─────────────┤
 │Over 1080 to 1190               │16.6                      │
 ├────────────────┼─────────────┤
@@ -132,39 +133,79 @@ Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 ├────────────────┼─────────────┤
 │Over 2610                       │7.2                       │
 └────────────────┴─────────────┘
+4.2.2.2 The average fuel economy limits effective from Jan. 1, 2022:
+┌────────────────┬─────────────┐
+│Class of vehicle reference mass │Average fuel economy      │
+│(kg)                            │limits (km/liter)         │ 
+├────────────────┼─────────────┤
+│Below 850                       │23.3                      │
+├────────────────┼─────────────┤
+│Over 850 to 965                 │23.3                      │
+├────────────────┼─────────────┤
+│Over 965 to 1080                │23.3                      │
+├────────────────┼─────────────┤
+│Over 1080 to 1190               │22.2                      │
+├────────────────┼─────────────┤
+│Over 1190 to 1305               │21.3                      │
+├────────────────┼─────────────┤
+│Over 1305 to 1420               │20.4                      │
+├────────────────┼─────────────┤
+│Over 1420 to 1530               │19.6                      │
+├────────────────┼─────────────┤
+│Over 1530 to 1640               │18.9                      │
+├────────────────┼─────────────┤
+│Over 1640 to 1760               │18.2                      │
+├────────────────┼─────────────┤
+│Over 1760 to 1870               │17.5                      │
+├────────────────┼─────────────┤
+│Over 1870 to 1980               │16.9                      │
+├────────────────┼─────────────┤
+│Over 1980 to 2100               │16.1                      │
+├────────────────┼─────────────┤
+│Over 2100 to 2210               │15.6                      │
+├────────────────┼─────────────┤
+│Over 2210 to 2380               │15.2                      │
+├────────────────┼─────────────┤
+│Over 2380 to 2610               │14.3                      │
+├────────────────┼─────────────┤
+│Over 2610                       │13.7                      │
+└────────────────┴─────────────┘
 4.2.3 The average fuel economy value and average fuel economy target values prescribed in 4.2.1 shall be calculated by using the following formula:
 4.2.3.1 Average fuel economy value:
-
-                                         N
-                                         ΣVi
-                                         1
+　                                     　N
+　                                    　Σvi x wi
+　                                     　1
 Average Fuel Economy Value (km/liter) ＝────
-                                         N  Vi
-                                         Σ──
-                                         1  FCi
-
+　                                     　N Vi
+　                                    　Σ──
+　                                    　1 FCi
 i: manufactured or imported vehicle type’s sequence number.
 FCi: fuel economy test value (km/liter) for manufactured or imported vehicle type i.
 Vi: sales number (units) of manufactured or imported vehicle type i.
-4.2.3.2 Average fuel economy target value:
-
-                                                N
-                                                ΣVi
-                                                1
+Wi : Correspond Credit Multiplier for Vehicle Type i.
+ 4.2.3.2 Average fuel economy target value:
+　                                           　N
+　                                           　ΣVi
+　                                            　1
 Average Fuel Economy Target Value (km/liter) ＝────
-                                                N  Vi
-                                                Σ──
-                                                1  Ti
-
+　                                            　N  Vi
+　                                            　Σ ──
+　                                            　1  Ti
 i: manufactured or imported vehicle type’s sequence number.
 Ti: average fuel economy limit (km/liter) of the manufactured or imported vehicle type i in accordance with 4.2.2 of this Article.
 Vi: sales number (units) of manufactured or imported vehicle type i.
 4.2.4 The average fuel economy values for each individual manufacturer shall be calculated by the central competent authority by using the fuel economy test values registered by each individual manufacturer; different manufacturers may be combined for their average fuel economy value calculation, if being approved by the central competent authority.
 4.2.5 Vehicle entities pursued 4.2.4 may consent to end their combined calculation of average fuel economy value; their previous earned credits from exceed the required target value may continue to be used by the assigned manufacturer through agreement; the deficiency from under their target value shall be managed in accordance with 4.2.8 of this Article.
 4.2.6 The same vehicle entity manufactured or imported different brands of vehicles, may calculate the fuel economy values separately for different brands, if being approved by the central competent authority.
-4.2.7 Vehicle entities with annual sales number over 100 units or values over 100 million NT dollars being approved by the central competent authority may use their annual sales number for the calculation of average fuel economy value. If the calculated average fuel economy is over the target value, the earned credits may be accumulated for the calculation of next 3 year’s average fuel economy values.
+4.2.7 Vehicle entities with annual sales number over 100 units or values over 100 million NT dollars being approved by the central competent authority may use their annual sales number for the calculation of average fuel economy value. If the calculated average fuel economy is over the target value, the earned credits may be accumulated for the calculation of next 3 year’s average fuel economy values. After this amended regulation becomes effective upon its promulgation in 2018, if the calculated average fuel economy is over the target value, the earned credits may be accumulated for the calculation of the next 4 year’s average fuel economy values.
 4.2.8 For vehicle entities mentioned in the previous paragraph 4.2.7, if their calculated fuel economy values are under their required target values at specific year, their subsequent market sold vehicles must comply with the average fuel economy limits being defined by 4.2.2 of this Article until the difference of calculated and target values are being complemented or acquired from other entities’ credits to regain their average fuel economy calculation by their annual sales numbers.
-4.2.9 Electric vehicle (sedans and station wagons) sold by the vehicle entity, its fuel economy test value may be multiplied by 2.5 as the fuel economy value and being used in the average fuel economy calculation; the fuel economy test value for electric vehicle shall be rated by the competent authority.
+4.2.9 For Electric vehicles or Fuel Cell vehicles (sedans and station wagons) that being sold by the vehicle entity, its sales may be multiplied by 10 as the correspond sales and being used in the calculation of average fuel economy value; for Plug-In Hybrid Electric sedans and station wagons with pure electric travel mileage over 50 kilometers, their correspond sales multiplier may be set as 5. The provisions 4.2.2 to 4.2.8 are also applicable and the fuel economy test values shall be rated by the competent authority in other provisions.
+4.2.10 Effective from Jan. 1, 2022, for the sedans or station wagons that being sold by the vehicle entity, if its fuel economy value is higher than the correspond average fuel economy target value as listed in provision 4.2.2.2, the multipliers for the calculation of average fuel economy value are set as follows：
+4.2.10.1 Over by 10%, set as 1.5;
+4.2.10.2 Over by 20%, set as 2;
+4.2.10.3 Over by 30%, set as 2.5;
+4.2.10.4 Over by 40%, set as 3;
+4.2.10.5 Over by 50%, set as 3.5.
 4.3 The fuel economy standards listed in Article 6 are applicable to vehicles with importer provided the listing of US certificate being classified as LDT model or with the EU certificate being classified as M1G model.
 ]]></條文內容>
   </條文>
@@ -189,15 +230,16 @@ Vi: sales number (units) of manufactured or imported vehicle type i.
 5.2 The combined fuel economy value for motorcycles is calculated by the following equation:
 
 Combined fuel economy value (kilometers/liter, km/L) =
-　　　　　　　       　   1
- ─────────────────────────────
-          0.6                             0.4
-────────────  +  ─────────────────
-Urban fuel economy(km/L) 　  Constant speed fuel economy(km/L)
+　　　　　　　 　 1
+─────────────────────────────
+　　　　0.6　　　　　　　　　0.4
+──────────── + ─────────────────
+Urban fuel economy(km/L) 　 Constant speed fuel economy(km/L)
 
 5.3 Effective from Jan.1, 2016 for manufactured or imported motorcycles by any entity to apply for vehicle type fuel economy certificates shall comply with the following requirements:
 5.3.1 The average fuel economy value of the manufacturer sold vehicles shall be higher than the required average fuel economy target value.
 5.3.2 The average fuel economy limits corresponding to different vehicle types prescribed by the required average fuel economy target value are as follows.
+5.3.2.1 The average fuel economy standards effective from Jan. 1, 2016 till Dec. 31, 2021:
 ┌──────────────────┬───────────┐
 │Class of Vehicles Engine            │Average fuel economy  │
 │Displacement (cubic centimeters)    │limits                │
@@ -214,35 +256,53 @@ Urban fuel economy(km/L) 　  Constant speed fuel economy(km/L)
 │Over 1250 to 1500                   │14.7                  │
 │Over 1500                           │14.1                  │
 └──────────────────┴───────────┘
+5.3.2.2 The average fuel economy standards effective from Jan. 1, 2022:
+┌──────────────────┬───────────┐
+│Class of Vehicles Engine            │Average fuel economy  │
+│Displacement (cubic centimeters)    │limits                │
+│                                    │(kilometer/liter)     │
+├──────────────────┼───────────┤
+│Below 50                            │61.0                  │
+│Over 50 to 100                      │52.3                  │
+│Over 100 to 150                     │48.2                  │
+│Over 150 to 250                     │34.1                  │
+│Over 250 to 500                     │28.1                  │
+│Over 500 to 750                     │19.8                  │
+│Over 750 to 1000                    │19.2                  │
+│Over 1000 to 1250                   │16.7                  │
+│Over 1250 to 1500                   │15.6                  │
+│Over 1500 to 1750                   │14.9                  │
+│Over 1750 to 2000                   │14.3                  │
+│Over 2000                           │13.8                  │
+└──────────────────┴───────────┘
 5.3.3 The average fuel economy value and average fuel economy target values prescribed in 5.3.1 shall be calculated by using the following formula:
-5.3.3.1 Average fuel economy value:
+ 5.3.3.1 Average fuel economy value:
 
-                                         N
-                                         ΣVi
-                                         1
+　                                    　N
+　                                    　ΣVi x wi
+　                                     　1
 Average Fuel Econcmy Value (km/liter) ＝────
-                                         N  Vi
-                                         Σ──
-                                         1  FCi
+　                                     　N Vi
+　                                     　Σ──
+　                                     　1 FCi
 
 i: manufactured or imported vehicle type’s sequence number.
 FCi: fuel economy test value (km/liter) for manufactured or imported vehicle type i.
 Vi: sales number (units) of manufactured or imported vehicle type i.
+Wi : Correspond Credit Multiplier for Vehicle Type i.
 5.3.3.2 Average fuel economy target value:
-
-                                                N
-                                                ΣVi
-                                                1
+　                                           　N
+　                                           　ΣVi
+　                                            　1
 Average Fuel Econcmy Target Value (km/liter) ＝────
-                                                N  Vi
-                                                Σ──
-                                                1  Ti
-
+　                                            　N Vi
+　                                           　Σ──
+　                                            　1 Ti
 i: manufactured or imported vehicle type’s sequence number.
 Ti: average fuel economy limit (km/liter) of the manufactured or imported vehicle type i in accordance with 5.3.2 of this Article.
 Vi: sales number (units) of manufactured or imported vehicle type i.
 5.3.4 The calculation of average fuel economy value and average target value for vehicle entity with combined reporting or end of their combined reporting, the qualification for using annual average fuel economy value calculation and credit accumulation, and the handling process for vehicle entities failed to comply with their required annual average fuel economy target values shall be in accordance with stipulations in Article 4.
-5.3.5 Electric motorcycle sold by the vehicle entity, its fuel economy test value may be multiplied by 2.5 as the fuel economy value and being used in the average fuel economy calculation; the fuel economy test value for electric vehicle shall be rated by the competent authority.
+5.3.5 For electric motorcycles being sold by the vehicle entity, the sales may be multiplied by 2.5 then being used for the calculation of average fuel economy value, and the previous provisions are also applicable. The fuel economy test value for electric vehicle shall be rated by the competent authority in other provisions.
 ]]></條文內容>
   </條文>
   <條文>
@@ -266,11 +326,11 @@ Vi: sales number (units) of manufactured or imported vehicle type i.
 6.1.1.2 The combined fuel economy value for light-duty trucks of a gross weight less than 2,500 kilograms, commercial vehicles and passenger cars (not sedans or station wagons) is calculated by the following equation:
 
 Combined fuel economy value (kilometers/liter, km/L) =
-　　　　　　　       　   1
- ─────────────────────────────
-          0.55                             0.45
-────────────  +  ───────────────
-City fuel economy(km/L) 　   Highway fuel economy(km/L)
+　　　　　　　 　 　　　　1
+─────────────────────────────
+　　　　0.55　　　　　　　　　0.45
+──────────── + ───────────────
+City fuel economy(km/L) 　 Highway fuel economy(km/L)
 
 6.1.2 Fuel economy testing is conducted in accordance with Directive 1999/100/EC and subsequent amendments:
 6.1.2.1 Fuel Economy Standards
@@ -292,13 +352,14 @@ City fuel economy(km/L) 　   Highway fuel economy(km/L)
 Combined fuel economy value (kilometers/liter, km/L)=
 　Urban test mileage (km)　 +　 Extra urban test mileage (km)
 ───────────────────────────────
- Urban test mileage (km)　　　  Extra urban test mileage (km)
-─────────────  +　 ───────────────
+Urban test mileage (km)　　　 Extra urban test mileage (km)
+───────────── +　 ───────────────
 Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 
 6.2 Effective from Jan.1, 2016 for manufactured or imported light-duty truck of a gross weight less than 2,500 kilograms, commercial vehicle and passenger car (not sedans or station wagons) with gasoline or diesel engine by any entity to apply for vehicle type fuel economy certificates shall be tested in accordance with the test procedures prescribed in the European directive 1999/100/EC and its subsequent revisions; effective from Jan. 1, 2017, the previous mentioned vehicles shall comply with the following requirements:
 6.2.1 The average fuel economy value of the manufacturer sold vehicles shall be higher than the required average fuel economy target value.
 6.2.2 The average fuel economy limits corresponding to different vehicle types prescribed by the required average fuel economy target value are as follows.
+6.2.2.1 The average fuel economy standards effective from Jan. 1, 2017 till Dec. 31, 2021:
 ┌──────────────────┬───────────┐
 │Class of vehicle reference mass     │Average fuel economy  │
 │(kg)                                │limits (km/liter)     │
@@ -335,40 +396,126 @@ Urban fuel economy (km/L) 　　　Extra urban fuel economy (km/L)
 ├──────────────────┼───────────┤
 │Over 2610                           │5.7                   │
 └──────────────────┴───────────┘
-6.2.3 The average fuel economy value and average fuel economy target values prescribed in 6.2.1 shall be calculated by using the following formula:
-6.2.3.1 Average fuel economy value:
+6.2.2.2 The average fuel economy standards effective from Jan. 1, 2022:
+┌──────────────────┬───────────┐
+│Class of vehicle reference mass     │Average fuel economy  │
+│(kg)                                │limits (km/liter)     │
+├──────────────────┼───────────┤
+│Below 850                           │18.6                  │
+├──────────────────┼───────────┤
+│Over 850 to 965                     │18.6                  │
+├──────────────────┼───────────┤
+│Over 965 to 1080                    │18.6                  │
+├──────────────────┼───────────┤
+│Over 1080 to 1190                   │17.8                  │
+├──────────────────┼───────────┤
+│Over 1190 to 1305                   │17.0                  │
+├──────────────────┼───────────┤
+│Over 1305 to 1420                   │16.3                  │
+├──────────────────┼───────────┤
+│Over 1420 to 1530                   │15.7                  │
+├──────────────────┼───────────┤
+│Over 1530 to 1640                   │15.1                  │
+├──────────────────┼───────────┤
+│Over 1640 to 1760                   │14.6                  │
+├──────────────────┼───────────┤
+│Over 1760 to 1870                   │14.0                  │
+├──────────────────┼───────────┤
+│Over 1870 to 1980                   │13.5                  │
+├──────────────────┼───────────┤
+│Over 1980 to 2100                   │12.9                  │
+├──────────────────┼───────────┤
+│Over 2100 to 2210                   │12.5                  │
+├──────────────────┼───────────┤
+│Over 2210 to 2380                   │12.2                  │
+├──────────────────┼───────────┤
+│Over 2380 to 2610                   │11.4                  │
+├──────────────────┼───────────┤
+│Over 2610                           │11.0                  │
+└──────────────────┴───────────┘
+6.2.2.3 For vehicles that comply with the truck standards stipulated in the “Vehicular Air Pollutant Emission Standards” by Taiwan EPA, effective from Jan.1, 2022 shall comply with the average fuel economy standards as follows:
+┌──────────────────┬───────────┐
+│Class of vehicle reference mass     │Average fuel economy  │
+│(kg)                                │limits (km/liter)     │
+├──────────────────┼───────────┤
+│Below 850                           │15.8                  │
+├──────────────────┼───────────┤
+│Over 850 to 965                     │15.8                  │
+├──────────────────┼───────────┤
+│Over 965 to 1080                    │15.8                  │
+├──────────────────┼───────────┤
+│Over 1080 to 1190                   │15.1                  │
+├──────────────────┼───────────┤
+│Over 1190 to 1305                   │14.5                  │
+├──────────────────┼───────────┤
+│Over 1305 to 1420                   │13.9                  │
+├──────────────────┼───────────┤
+│Over 1420 to 1530                   │13.3                  │
+├──────────────────┼───────────┤
+│Over 1530 to 1640                   │12.8                  │
+├──────────────────┼───────────┤
+│Over 1640 to 1760                   │12.4                  │
+├──────────────────┼───────────┤
+│Over 1760 to 1870                   │11.9                  │
+├──────────────────┼───────────┤
+│Over 1870 to 1980                   │11.5                  │
+├──────────────────┼───────────┤
+│Over 1980 to 2100                   │11.0                  │
+├──────────────────┼───────────┤
+│Over 2100 to 2210                   │10.6                  │
+├──────────────────┼───────────┤
+│Over 2210 to 2380                   │10.4                  │
+├──────────────────┼───────────┤
+│Over 2380 to 2610                   │9.7                   │
+├──────────────────┼───────────┤
+│Over 2610                           │9.4                   │
+└──────────────────┴───────────┘
+6.2.3 The average fuel economy value and average fuel economy target value prescribed in 6.2.1 shall be calculated by using the following equation:
 
-                                         N
-                                         ΣVi
-                                         1
+6.2.3.1 Average fuel economy value:
+　                                     　N
+　                                     　ΣVi x wi
+　                                     　1
 Average Fuel Econcmy Value (km/liter) ＝────
-                                         N  Vi
-                                         Σ──
-                                         1  FCi
+　                                     　N Vi
+　                                     　Σ──
+　                                     　1 FCi
 
 i: manufactured or imported vehicle type’s sequence number.
 FCi: fuel economy test value (km/liter) for manufactured or imported vehicle type i.
 Vi: sales number (units) of manufactured or imported vehicle type i.
+Wi : Correspond Credit Multiplier for Vehicle Type i.
 6.2.3.2 Average fuel economy target value:
 
-                                                N
-                                                ΣVi
-                                                1
+　                                             　N
+　                                            　ΣVi
+　                                             　1
 Average Fuel Econcmy Target Value (km/liter) ＝────
-                                                N  Vi
-                                                Σ──
-                                                1  Ti
+　                                            　N Vi
+　                                            　Σ──
+　                                            　1 Ti
 
 i: manufactured or imported vehicle type’s sequence number.
 Ti: average fuel economy limit (km/liter) of the manufactured or imported vehicle type i in accordance with 6.2.2 of this Article.
 Vi: sales number (units) of manufactured or imported vehicle type i.
 6.2.4 The calculation of average fuel economy value and average target value for vehicle entity with combined reporting or end of their combined reporting, the calculation of average fuel economy value for different brands under the same vehicle entity, the qualification for using annual average fuel economy value calculation and credit accumulation, and the handling process for vehicle entities failed to comply with their required annual average fuel economy target values shall be in accordance with stipulations in Article 4.
-6.2.5 Electric vehicle sold by the vehicle entity, its fuel economy test value may be multiplied by 2.5 as the fuel economy value and being used in the average fuel economy calculation; the fuel economy test value for electric vehicle shall be rated by the competent authority.
+6.2.5 For Electric or Fuel Cell light-duty trucks, commercial vehicles and passenger cars (not sedans or station wagons) that being sold by the vehicle entity, its sales may be multiplied by 10 as the correspond sales and being used in the calculation of average fuel economy values; for Plug-In Hybrid Electric light-duty truck, commercial vehicle and passenger car (not sedans or station wagons) with pure electric travel mileage over 50 kilometers, the correspond sales multiplier may be set as 5; and the previous mentioned provisions are also applicable and the fuel economy test values shall be rated by the competent authority in other provisions.
+6.2.6 Effective from Jan. 1, 2022, for light-duty trucks, commercial vehicles and passenger cars (not sedans or station wagons) that being sold by the vehicle entity, if its fuel economy value is higher than the correspond average fuel economy target value as listed in provision 4.2.2.2, the multipliers for the calculation of average fuel economy value are set as follows：
+6.2.6.1 Over by 10%, set as 1.5;
+6.2.6.2 Over by 20%, set as 2;
+6.2.6.3 Over by 30%, set as 2.5;
+6.2.6.4 Over by 40%, set as 3;
+6.2.6.5 Over by 50%, set as 3.5.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 6-1</條號>
+    <條文內容><![CDATA[6-1.1 Effective from Jan. 1, 2022, for the vehicle entity developed eco-innovation technology or product with proof of energy-saving capability that can improve the fuel efficiency of vehicles, and the central competent authority has approved a certain amount of related credit value for the calculation of the entity’s average fuel economy value, the vehicle entity may add the approved credit value to the sold vehicle for the average fuel economy calculation. The eco-innovation technologies, products and their related amount of credit values for the calculation of average fuel economy shall be set and promulgated by the central competent authority.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[Any light-duty truck of a gross weight less than 2,500 kilograms, commercial vehicle and passenger car with gasoline or diesel engine manufactured or imported by the entity that being tested in accordance with the US FTP 75 test procedures and found to be in compliance with the fuel economy standards prescribed in 4.1.1 of Article 4 or 6.1.1 of Article 6 of the May 7, 2010 revised version of this regulation and obtained their fuel economy certificates, may continue to be sold till Dec. 31, 2015.
+    <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
   <條文>
