@@ -2,8 +2,8 @@
 <法規性質>法律</法規性質>
 <英文法規名稱>Labor Standards Act</英文法規名稱>
 <中文法規名稱>勞動基準法</中文法規名稱>
-<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=N0030001</法規網址>
-<最新英文異動日期>20180131</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0030001</法規網址>
+<最新英文異動日期>20181121</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -26,6 +26,7 @@
 17.Amended on December 21, 2016
 18.Article 61 of the Labor Standards Act amended and promulgated by Presidential Decree No. 10600155871 on December 27, 2017
 19.Amended and promulgated Article 24, 32, 34, 36 to 38 and 86, added Article 32-1 of the Act by the Presidential Decree No. 10700009781 on January 31, 2018, and shall effect from March 1, 2018
+20.Article 54, 55 and 59 of the Labor Standards Act amended and promulgated by Presidential Decree No. 10700125351 on November 21, 2018
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -474,16 +475,16 @@ The breast feeding time referred to in the preceding paragraph shall be deemed a
     <條號>Article 54</條號>
     <條文內容><![CDATA[An employer shall not force a worker to retire unless any of the following situations has occurred:
 1. Where the worker attains the age of sixty-five.
-2. Where the worker is unable to perform his/ her duties due to mental handicap or physical disability.
+2. Where the worker is unable to perform his/ her duties due to disability.
 A business entity may request the central competent authority to adjust the age prescribed in Subparagraph 1 of the preceding paragraph if the specific job entails risk, requires substantial physical strength or otherwise of a special nature; provided, however, that the age shall not be reduced below fifty-five.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 55</條號>
-    <條文內容><![CDATA[The criteria for payment of worker pensions shall be as follows: 
-1. Two bases are given for each full year of service rendered. But for the rest of the years over 15 years, one base is given for each full year of service rendered. The total number of bases shall be no more than 45. The Length of service is calculated as half year when it is less than six months and as one year when it is more than six months;
-2. As set forth in subparagraph 2 of Paragraph 1 of Article 54, an additional 20% on top of the amount calculated according to the preceding subparagraph shall be given to workers forced to retire due to mental disorders or physical disabilities incurred from the execution of their duties. 
-The retirement pension base as specified in subparagraph 1 of the preceding Paragraph shall be one month’s average wage of the worker at the time when his or her retirement is approved.
+    <條文內容><![CDATA[The criteria for payment of worker pensions shall be as follows:
+1. Two bases are given for each full year of service rendered. But for the rest of the years over 15 years, one base is given for each full year of service rendered. The total number of bases shall be no more than 45. The length of service is calculated as half year when it is less than six months and as one year when it is more than six months;
+2. As set forth in Subparagraph 2 of Paragraph 1 of Article 54, an additional 20% on top of the amount calculated according to the preceding subparagraph shall be given to workers forced to retire due to disability incurred from the execution of their duties.
+The retirement pension base as specified in Subparagraph 1 of the preceding paragraph shall be one month’s average wage of the worker at the time when his or her retirement is approved.
 Employers shall pay the pensions specified in Paragraph 1 within 30 days from the day of retirement. Those unable to pay the amount in one lump sum may apply to the competent authority for approval to pay the amount in installments. If the retirement pension criteria established by business entities before the enforcement of the Act are better than those set forth in the Act, such criteria shall apply.
 ]]></條文內容>
   </條文>
@@ -516,10 +517,10 @@ The deposits in the specific account of the preceding Paragraph shall not be the
   <編章節>   Chapter Ⅶ Compensation for Occupational Accidents</編章節>
   <條文>
     <條號>Article 59</條號>
-    <條文內容><![CDATA[An employer shall pay compensation to a worker who is dead, injured, incapacitated or sick due to occupational accidents according to the following provisions; provided that if, in respect of the same accident, the employer has already paid compensation to the worker concerned in accordance with the provisions of the Labor Insurance Act or other applicable statutes and administrative regulations, The employer may deduct those already paid compensation therefrom:
-1. When a worker is injured or suffers from any occupational disease, the employer shall compensate him the necessary medical expenses. The categories of occupation-related diseases and the scope of medical treatment covered shall be governed by the relevant provisions of the Labor Insurance Act.
-2. When a worker under medical treatment is not able to work, the employer shall pay him compensation according to his/her pre-existing wage. The employer shall be released from such compensation obligation by giving to the worker a lump sum payment equal to forty months of average wage if the worker failing to recover after two years of medical treatment has been diagnosed and confirmed by a designated hospital as being unable to perform the original work and so does not meet the disability requirements under Subparagraph 3 hereof.
-3. When after the termination of medical treatment the designated hospital has definitely diagnosed that the worker is disabled forever, the employer shall pay him a lump sum as disability compensation in accordance with he/her average wage and the degree of disability. The standards of disability compensation shall be prescribed in the applicable provisions of the Labor Insurance Act.
+    <條文內容><![CDATA[An employer shall pay compensation to a worker who is dead, injured, disabled or sick due to occupational accidents according to the following provisions; provided that if, in respect of the same accident, the employer has already paid compensation to the worker concerned in accordance with the provisions of the Labor Insurance Act or other applicable statutes and administrative regulations, The employer may deduct those already paid compensation therefrom:
+1. When a worker is injured or suffers from any occupational disease, the employer shall compensate him/her the necessary medical expenses. The categories of occupation-related diseases and the scope of medical treatment covered shall be governed by the relevant provisions of the Labor Insurance Act.
+2. When a worker under medical treatment is not able to work, the employer shall pay him/her compensation according to his/her pre-existing wage. The employer shall be released from such compensation obligation by giving to the worker a lump sum payment equal to forty months of average wage if the worker failing to recover after two years of medical treatment has been diagnosed and confirmed by a designated hospital as being unable to perform the original work and so does not meet the disability requirements under Subparagraph 3 hereof.
+3. When after the termination of medical treatment the designated hospital has definitely diagnosed that the worker is disabled forever, the employer shall pay him/her a lump sum as disability compensation in accordance with he/her average wage and the degree of disability. The standards of disability compensation shall be prescribed in the applicable provisions of the Labor Insurance Act.
 4. When a worker dies of occupational injury or disease, his/ her employer shall pay funeral subsidy equal to five months of average wage and a lump sum survivors compensation equal to forty months of average wage to his/her survivors. The said survivors compensation shall be paid to survivors in the following order:
 a. Spouse and children,
 b. Parents,

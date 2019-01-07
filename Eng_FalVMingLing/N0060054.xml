@@ -2,24 +2,25 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations for the Labeling and Hazard Communication of Hazardous Chemicals</英文法規名稱>
 <中文法規名稱>危害性化學品標示及通識規則</中文法規名稱>
-<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=N0060054</法規網址>
-<最新英文異動日期>20140627</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060054</法規網址>
+<最新英文異動日期>20181109</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002633</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002634</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002635</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002636</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000002637</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004704</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004705</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004706</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004707</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000004708</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002634</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002635</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002637</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004705</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004706</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004708</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005000</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005001</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005002</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005003</下載網址>
 </附件>
-<沿革內容><![CDATA[1.Promulgated by the Council of Labor Affairs of the Executive Yuan on October 19, 2007 by the Order of Lao-An-3-Tzu-No. 0960145703
-2.Amended on June 27,2014]]></沿革內容>
+<沿革內容><![CDATA[1.Promulgated by the Council of Labor Affairs of the Executive Yuan on October 19, 2007 by the Order of Lao-An-3-Tzu-No. 0960145703.
+2.Amended on June 27,2014.
+3.Amended on November 9, 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -47,8 +48,8 @@
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[The provisions of these Regulations do not apply to the following items: 
-1.Hazardous industrial waste;
+    <條文內容><![CDATA[The provisions of these Regulations do not apply to the following items:
+1.Industrial waste;
 2.Tobacco or tobacco products;
 3.Food, beverages, drugs, cosmetics;
 4.Manufactured articles;
@@ -61,7 +62,7 @@
   <編章節>   Chapter 2 Labeling</編章節>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[Employers shall conspicuously label the following items on containers containing hazardous chemicals in accordance with the classification and hazard pictograms prescribed in Attachment 1. and the format of Attachment 2. The text for the labels in Chinese shall be primary , and if necessary, supplement with foreign languages that workers understand: 
+    <條文內容><![CDATA[Employers shall conspicuously label the following items on containers containing hazardous chemicals in accordance with the classification and label elements prescribed in Attachment 1. and the format of Attachment 2. The text for the labels in Chinese shall be primary, and if necessary, supplement with foreign languages that workers understand:
 1.Hazard pictograms
 2.Contents:
 （1）Name;
@@ -71,7 +72,6 @@
 （5）Precautionary statements;
 （6）Name, address, and telephone number of manufacturer, importer or supplier.
 If the contained hazardous chemicals prescribed in the preceding Paragraph are mixtures, their hazardous ingredients that should be labeled refer to all hazardous ingredients that contain hazardous properties of physical and health hazards that satisfy CNS15030 classification within the mixture.
-Contained hazardous chemicals of Paragraph 1 that cannot be classified in accordance with Attachment 1 may label only the information specified in Paragraph 1 subparagraph 2.
 If the volume of the container prescribed in Paragraph 1 is under 100ml, it may label only the names, hazard pictograms, and signal words.
 ]]></條文內容>
   </條文>
@@ -133,6 +133,7 @@ The text for the Safety Data Sheet (SDS) referred to in the previous Paragraph s
 For the chemicals prescribed in the previous Paragraph, hazardous ingredients shall be listed by their chemical names, and the methods of hazard classification of mixtures as follows:
 1.If a mixture has been tested as a whole, the results shall be used;
 2.If a mixture has not been tested as a whole, in addition to having scientific proofs to its health hazards, the physical hazards of its flammable, explosive, and reactive properties shall be assessed using scientifically valid data in accordance with the standards for classifying mixtures set by CNS 15030 Classification.
+The content, template, and text for the Safety Data Sheet (SDS)described in the preceding Article shall apply to Paragraph 1.
 ]]></條文內容>
   </條文>
   <條文>
@@ -154,7 +155,7 @@ Related trainings of the preceding Paragraph shall include general health and sa
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[In order to prevent workers from not having accurate information on hazardous chemicals that thereby would result in occupational accidents, the employer shall adopt the following mandatory measures: 
+    <條文內容><![CDATA[In order to prevent workers from not having accurate information on hazardous chemicals that thereby would result in occupational accidents, the employer shall adopt the following mandatory measures:
 1.Formulate a hazard communication plan based on actual circumstances; review and update promptly, and implement according to the plan. The record of implementation shall be kept for three years;
 2.Prepare an inventory of hazardous chemicals. The content and format of such shall refer to Attachment 5;
 3.Place the Safety Data Sheet(s) of hazardous chemicals at an easily accessible location at the workplace;
@@ -165,22 +166,32 @@ The hazard communication plan in subparagraph 1 of the preceding Paragraph shall
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[Manufacturers, importers, or suppliers that withhold the disclosure of the name, concentration, or manufacturer, importer as well as supplier's name of hazardous chemical ingredients in Safety Data Sheet(s) for the necessity of national security or trade secret protection purposes, shall provide the following written documentation to the central competent authority for approval:
+    <條文內容><![CDATA[Manufacturers, importers, or suppliers that withhold the disclosure of the name,Chemical Abstract Service number, concentration, or manufacturer, importer as well as supplier's name of hazardous chemical ingredients in Safety Data Sheet(s) for the necessity of national security or trade secret protection purposes, shall applyto the central competent authority for approval by offering the following written documentation:
 1.Documents that prove such information have been identified as a national security or trade secret;
 2.Countermeasures undertaken to protect information of national security or trade secrets;
 3.Assessment of economic interests to the applicant and their competitors;
 4.Explanations and proofs regarding hazard classification of hazardous chemical ingredients contained in the products.
-Hazardous chemical ingredients possessing the following hazards as specified in CNS15030 Classification shall not apply for withholding the aforementioned Safety Data Sheet disclosure:
-1.Acute toxicity category 1, category 2, or category 3;
-2.Skin corrosion/irritation category 1;
-3.Serious eye damage/eye irritation category 1;
-4.Respiratory or skin sensitization;
-5.Germ cells mutagenicity;
-6.Carcinogenicity;
-7.Reproductive toxicity;
-8.Specific target organ systemic toxicity -- single exposure category 1
-9.Specific target organ systemic toxicity-- repeated exposure category 1
+If documents of the preceding Paragraph aredeficient, the applicant shall make corrections and supplements within 30 days afterreceiving the notification of corrections and supplements from the central competent authority.Corrections and supplements shall only be made no more than twice.In case corrections and supplements are not made in time, the application shall not be accepted.
 When handling affairs of Paragraph 1, the central competent authority may employ scholars and experts for consultation prior to granting approval.
+If an applicant who obtained a Safety Data Sheet withholding approval document of Paragraph 1 is found to submit documents containing false information or fail to perform handling in accordance with approved items, the central competent authority may void or revoke its approval.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 18-1</條號>
+    <條文內容><![CDATA[Hazardous chemical ingredients possessing the following shall not apply for withholding the aforementioned Safety Data Sheet disclosure:
+1.Hazardous substances listed in Standards of Permissible Exposure Limits at Job Site.
+2.Substance classified as the following hazard categories in CNS15030 Classification:
+（1）Acute toxicity category 1, category 2, or category 3;
+（2）Skin corrosion or irritation category 1;
+（3）Serious eye damage or eye irritation category 1;
+（4）Respiratory or skin sensitization;
+（5）Germ cells mutagenicity;
+（6）Carcinogenicity;
+（7）Reproductive toxicity;
+（8）Specific target organ systemic toxicity - single exposure category 1
+（9）Specific target organ systemic toxicity- repeated exposure category 1
+3.Others designated and publishedby the central competent authority.
+The scope of withholding application, approved labeling of hazardous chemicals, Safety Data Sheet withholding pursuant to preceding Article and this Article shall be in accordance with the guidance and application tools designated by the central competent authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -208,6 +219,7 @@ Those who acquired the trade secrets of the preceding Paragraph are obligated to
   <條文>
     <條號>Article 23</條號>
     <條文內容><![CDATA[These Regulations shall come into force from July 3, 2014.
+In addition to Attachment 4 of Article 12 of these Regulations amended taking effect on January 1, 2020, these amendments of Regulations shall be put in force on the date of promulgation.
 ]]></條文內容>
   </條文>
 </法規內容>
