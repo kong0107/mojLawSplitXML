@@ -1,14 +1,19 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations for the Review and Approval of Applications for Decommissioning Permit of Nuclear Reactor Facilities</英文法規名稱>
+<英文法規名稱>Regulations on the Permit Application and the Management for Decommissioning of Nuclear Reactor Facilities</英文法規名稱>
 <中文法規名稱>核子反應器設施除役許可申請審核及管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160054</法規網址>
-<最新英文異動日期>20120709</最新英文異動日期>
+<最新英文異動日期>20181116</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<附件 />
+<附件>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005010</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005011</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005012</下載網址>
+</附件>
 <沿革內容><![CDATA[1.Promulgated and enforced by Letter Hui-Wu-Tzu No. 0930021810 on July 14th, 2004
-2.Amendment of Articles 2 on July 9, 2012 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-1010010790]]></沿革內容>
+2.Amendment of Articles 2 on July 9, 2012 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-1010010790
+3.Amendment of all Articles on November 16, 2018 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-10700136792.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -18,72 +23,124 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[To apply for decommission of nuclear reactor facilities, the operator shall summit an application form enclosed with a decommissioning plan and a financial guarantee statement to the competent authority for review and pay the licensing fee.
-Where environmental impact assessment shall be conducted for decommissioning of nuclear reactor facilities, the applicant shall submit the relevant environmental impact data recognized by the competent authority in charge of environmental protection, before the competent authority complete its review conclusion.
+    <條文內容><![CDATA[To apply for decommissioning of nuclear reactor facilities, the licensee shall submit an application form enclosed with a decommissioning plan to the competent authority for review and pay the fee.
+If the decommissioning of nuclear reactor facilities shall implement the environmental impact assessment, the licensee shall submit related documents of the environmental impact assessment approved by the environmental protection authority before the competent authority issues the decommissioning permit.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[The decommissioning plan referred to in Paragraph 1 of the preceding Article shall include the following contents:
-1.Facility overview, operating history, big events in the past years and their impacts.
-2.Radioactivity survey methods and primary assessment results for facilities, equipment, parts and materials.
-3.Decommission objectives, time schedule and the equipment, method and safe operating procedures used.
-4.System, equipment and parts keep running during the decommission period and the running methods.
-5.The safety analysis of expected accidents during the decommission period.
-6.Methods for removal of pollution and the disposal of the radioactive waste gas and water during the decommission period.
-7.Class, characteristics, quantity, reduction measures and the planning for treatment, transportation, storage and final disposal of the radioactive waste decommissioned.
-8.Radiation dosage evaluation and radiation protection measures.
-9.Environmental radiation monitoring.
-10.Organization and personnel training.
-11Nuclear protection goods and the management of the related equipment.
-12.Reutilization plan of factory building and land.
-13.Quality guarantee program.
-14.Security measures.
-15.Accident response scheme.
-16.Other contents required by the competent authority in public notice.
+(1) Facility overview, operating history, significant events in the past years and their impacts.
+(2) Radioactivity survey methods and preliminary assessment results for facilities system, equipment, components, and materials.
+(3) Decommissioning objectives, time schedule and the equipment, method and procedures of safety.
+(4) System, equipment and components that are required to operate during the decommissioning period and the operation patterns.
+(5) The safety analysis of anticipated occurrence of accidents during the decommissioning period.
+(6) Methods for decontamination and the disposal of the radioactive waste gas and liquid during the decommissioning period.
+(7) Classification, characteristics, quantity, reduction measures and the planning for treatment, transportation, storage and final disposition of the radioactive waste of the decommissioning.
+(8) Radiation dose evaluation and radiation protection measures.
+(9) Environmental radiation monitoring.
+(10) Organization and personnel training.
+(11) Nuclear safeguards materials and the management of the related equipment.
+(12) Reutilization plan of facility buildings and lands.
+(13) Quality assurance program.
+(14) Security measures.
+(15) Accident response plan.
+(16)The report of technology, management ability and the financial basis including the financial guarantee statement, which shall include the financial sources and financial planning of the expenses for decommissioning of the facilities and management of radioactive waste.
+(17) Other contents required by the competent authority in public notice.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[The financial guarantee statement referred to in Paragraph One of Article 2 shall include the financial sources and financial planning of the expenses for decommission of the facilities and management of radioactive waste.
+    <條文內容><![CDATA[Upon receiving the documents referred to in Paragraph 1, Article 2, if the competent authority considers that they are incomplete or noncompliant, it shall detailedly list the documents to be supplemented or corrected and notify the applicant to supplement or correct within a specified deadline； If the applicant fails to do so after the deadline expires or the supplemented or corrected documents do not comply with the relevant provisions, the competent authority shall not accept the application.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[Upon receipt of the documents referred to in Paragraph One of Article 2, if the competent authority deems they are incomplete or wrong, it shall detailedly list the documents to be supplemented or corrected and notify the applicant to finish supplementation or correction within a specified time limit. If the applicant fails to do so after the time limit expires or the supplemented or corrected documents do not conform to the relevant provisions, the competent authority shall not accept the application.
+    <條文內容><![CDATA[After receiving the complete documents referred to in Paragraph1, Article 2, the competent authority shall draw a notification of evaluation results to the licensee within one year.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[After receiving the documents referred to in Paragraph One of Article 2, the competent authority shall draw an examination conclusion with one year.
+    <條文內容><![CDATA[The review period referred to in the preceding Article shall commence from the day when the applicant prepares all the required documents.
+The review period referred to in the preceding Paragraph does not include the following periods:
+(1) Not more than sixty days for the related competent authority to interpret the laws or consult with other government agencies (institutions).
+(2) Other delays not attributable to the competent authority.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[The time limit for examination referred to in the preceding Article shall commence from the day when the applicant submits all the necessary documents and pay the examination fee to the competent authority.
-The time limit for examination referred to in the preceding Paragraph does not include the following periods:
-1.Not more than sixty days for the related competent authorities to explain the laws or consult with other government agencies (institutions).
-2.Other delay not attributable to the competent authority.
+    <條文內容><![CDATA[Before all nuclear fuels are removed from the nuclear reactor vessel in decommissioning period, the nuclear reactor operator shall have reactor operator license; the license management and medical examination shall be implemented according to the provisions of the regulation on the reactor operator license and for the implementation of medical examination of reactor operator.
+To meet the needs in the operation of decommissioning unit, the licensee may adjust the training requirements and the content of the retraining plan of the qualification for the reactor operator. These adjustments shall be implemented after submitting to the competent authority for review and approval, and they are not subject to the relevant provisions of the regulation in preceding paragraph.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[Where it is deemed in the examination conclusion referred to in Article 6 that the application conforms to Paragraph One of Article 23 to the Law, the competent authority shall issue the decommission permit.
+    <條文內容><![CDATA[Before all nuclear fuels are removed from the nuclear reactor facilities in decommissioning period, the licensee shall follow safety analysis report and the technical specification to operate.
+The licensee may revise the safety analysis report and specification under preceding Paragraph, and implement them after submitting to the competent authority for review and approval
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[Where it is deemed in the examination conclusion referred to in Article 6 that the application should not be approved, the competent authority shall reject the application.
+    <條文內容><![CDATA[Before all nuclear fuels are removed from the nuclear reactor facilities in decommissioning period, the licensee shall hire the authorized inspection agency to inspect the nuclear reactor facilities.
+The certification of authorized inspection agencies and the scope of inspection for nuclear reactor facilities referred to in the preceding paragraph shall be in accordance with (mutatis mutandis) the regulations on the scope of inspection and on the certification of authorized inspection agencies for nuclear reactor facilities.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[The formats of the application forms set forth in these Regulations shall be prescribed by the competent authority.
+    <條文內容><![CDATA[During decommissioning period, the licensee shall submit the report related to radiation safety, environmental radiation monitoring, report on radioactive gas and liquid waste release, record of radioactive waste production, report on the investigation of site environment and public dose assessment parameters of nuclear reactor facilities, and other reports designated by component authority.
+The deadlines for submitting the respective reports or records to the competent authority by the licensee referred to preceding Paragraph shall be subject to following provisions:
+(1) Radiation safety, environmental radiation monitoring report, report on radioactive gas and liquid waste release: a quarterly report be submitted within sixty (60) days upon end of each quarter; an annual report be submitted within ninety (90) days upon end of each year.
+(2) Radioactive waste production record: a monthly report be submitted within thirty (30) days upon end of each month.
+(3) Report on the investigation of site environment and public dose assessment parameters of nuclear reactor facilities: a report shall to be submitted every five years; research reactor facilities are not subject to this provision.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[These Regulations shall come into force as of the date of promulgation.
+    <條文內容><![CDATA[During the decommissioning period of the nuclear power reactor facilities, one of the situations occurred which are prescribed in Annexed 1 that shall notify instantly, the licensee shall use phone to notify the competent authority about the time, sequences, impact, any radioactive contamination or release、personnel radiation exposure harm and other matters within specified period, and fill the notification and transmit the documents. If the accident continues to deteriorate, the licensee shall report again under previous provisions.
+During the decommissioning period of the nuclear power reactor facilities, one of the situations occurred which are prescribed in Annexed 2, the licensee shall submit written report within thirty (30) days to the competent authority and include the following contents:
+(1) Event sequences, causes, and unit condition prior to the event.
+(2) Any radioactive materials released and the quantity released.
+(3) Any personnel suffered from radiation exposure and the injured situation.
+(4) And potential impact.
+(5) Similar events occurred in the past.
+(6) Corrective and preventive measures.
+During the decommissioning period of research reactor facilities, one of the situations occurred which are prescribed in Annexed 3, the licensee shall notify the competent authority within two hours, and submit written report within thirty (30) days; the way and content for the notification shall be accordance with the provisions in preceding two paragraphs.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 12</條號>
+    <條文內容><![CDATA[The licensee shall submit an annual implementation report and a revised version of the decommissioning plan according to approved decommissioning plan to the competent authority for review and approval by March 31 each year.
+Annual operation report under preceding Paragraph shall include the following contents:
+(1) The completed tasks of decommissioning, ongoing tasks, and the expenditures of previous year.
+(2) The important tasks and estimated expenditure which are planned to execute for the current year.
+(3) Analysis of integrated activities of decommissioning, accumulated expenditures, and the latest cost estimation of integrated expenditures of decommissioning.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 13</條號>
+    <條文內容><![CDATA[Within six months of completing the decommissioning plan of nuclear reactor facilities, the regulation of decommissioning shall be lifted after the licensee submit the report on environmental radiation detection on the post-decommissioning site and report of completion of decommissioning to the competent authority for review and approval.
+The report of completion of decommissioning referred to preceding paragraph shall include the following contents:
+(1) Decommissioning strategy and related implementation of nuclear reactor facilities.
+(2) Radiation protection of the workers and the public during the decommissioning process.
+(3) The results of the final site survey on radiation dose.
+(4) The management of radioactive waste and the quantity of materials released.
+(5) Subsequent oversight of the post-decommissioning site.
+(6) Other items designated by the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 14</條號>
+    <條文內容><![CDATA[The decommissioning plan, the decommissioning plan related documents, information, various reports or records reported in accordance with this regulation which have been reviewed by the competent authority shall be permanently preserved; the licensee shall set a list of categories and preservation duration for documents and information related to decommissioning technologies, analysis, measurement, and the others, and submit the list to the competent authority for reference.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 15</條號>
+    <條文內容><![CDATA[The formats of the application forms set forth in these regulations shall be prescribed by the competent authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 16</條號>
+    <條文內容><![CDATA[These regulations shall come into force as of the date of promulgation.
 ]]></條文內容>
   </條文>
 </法規內容>
