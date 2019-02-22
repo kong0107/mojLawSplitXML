@@ -3,7 +3,7 @@
 <英文法規名稱>Postal Act</英文法規名稱>
 <中文法規名稱>郵政法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0050001</法規網址>
-<最新英文異動日期>20110427</最新英文異動日期>
+<最新英文異動日期>20181205</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -28,7 +28,8 @@
 19. Amendment to Article 4 promulgated on July 15, 1988.
 20. Amendment to Article 5 promulgated on May 16, 2001.
 21. Amendment to 49 articles in all  per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-09100138680 dated July 10, 2002.Implemented on January 1,2003 per Executive Yuan Decree No.Yuan-Tai-Jiiao-Zi-0910060323 dated December 5, 2002.
-22. Amendment to Article 10, 49 and deletion of Article 20 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-10000079381 dated April 27, 2011;and implemented from announcement date.]]></沿革內容>
+22. Amendment to Article 10, 49 and deletion of Article 20 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-10000079381 dated April 27, 2011;and implemented from announcement date.
+23. Amendment to Article 4, 6, 14, 19, 29, 31, 40, deletion of Article 30, 46, and addtion of Article 5-1, 6-1 per Presidential Decree No.Hua-Zong-Yi-Jing-Zi-10700130971 dated December 5, 2018; and implemented from announcement date.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter One General Principles</編章節>
@@ -50,16 +51,25 @@
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[The following terms that appear in this Act are hereby defined:
-1.Post office branches: Postal outlets of Chunghwa Post in locations around Taiwan that handle postal businesses.
-2.Postal employees: All personnel who work for Chunghwa Post.
-3.Mail items: Letters, postcards, aerogrammes and letter sheets, newspapers, magazines, printed materials, documents for the blind, small packets, parcels or any other documents or materials that are handed over to Chunghwa Post for delivery including those that are processed electronically or by other methods.
-4.Postal assets: Movable property, real estate or other rights that Chunghwa Post utilizes for its operations.
-5.Postal property: Structures, land, machinery, vehicles, boats, aircraft and other transportation devices that Chunghwa Post uses exclusively.
-6.Postage stamps: Vouchers issued by Chunghwa Post that certify postage has been paid.
-7.Aerogrammes and letter sheets: Pieces of paper that can be folded into envelopes and sealed that have postage printed on the cover and a blank space inside for the sender to write messages on. These can thus be used for correspondence without the need for separate envelopes.
-8.Postal identity cards: Cards issued and sold by Chunghwa Post to verify the identification of the holder.
-9.International reply coupon: A coupon of monetary value that is sold and exchangeable for postage at post offices in member countries of the Universal Postal Union.
-10.All other postage paid symbols: Imprints of postage stamps on postcards, aerogrammes and letter sheets, or postage impressions made by postage meters or printers or in any other manner approved by postal regulations.
+1. Correspondence mail: The common name for letters, postcards, aerogrammes and letter sheets, printed materials, documents for the blind and small packets.
+2. Letter: A document containing messages delivered to an addressee or designated address, excluding postcards, aerogrammes and letter sheets, printed materials and documents for the blind.
+3. Postcard: This refers to a document containing messages on a single sheet of paper made in accordance with the quality and specifications designated by Chunghwa Post Co., Ltd, which is delivered without an envelope.
+4. Aerogramme and letter sheet: This refers to a document containing paper made according to the size and specifications designated by Chunghwa Post Co., Ltd and printed with messages on it, which is then folded and sealed into an envelope and delivered without a separate envelope. The postage is printed on the cover. Chunghwa Post Co., Ltd issues its exclusive aerogrammes.
+5. Printed material: This refers to newspapers, magazines, books, catalogs, etc.
+6. Document for the blind: This refers to a document printed with marks or protruding texts for blind people, which is delivered with the text “document for the blind” printed on its front cover. Audiotapes, sound recordings, recording lines and special papers for the blind should be regarded as documents for the blind if sent from or delivered to a registered school for the blind.
+7. Small packet: This refers to small article with a weight not exceeding 1kg, which is delivered to an addressee or designated address.
+8. Parcel: This refers to articles other than small packets, which are delivered to addressees or designated addresses.
+9. Mail items: This refers to documents or materials handed over to Chunghwa Post Co., Ltd for delivery, including correspondence mai , parcels or those items that are processed electronically or by other methods.
+10. Basic postage: This refers the postage set by the competent authority, which is charged to correspondent mails delivered with the distance and weight at the first level.
+11. Delivery: This refers to the sending and receiving, sealing and dispatching, shipping, and delivering of documents or materials.
+12.Post office branches: Postal outlets of Chunghwa Post in locations around Taiwan that handle postal businesses.
+13.Postal employees: All personnel who work for Chunghwa Post.
+14. Postal assets: Movable property, real estate or other rights that Chunghwa Post utilizes for its operations.
+15. Postal property: Structures, land, machinery, vehicles, boats, aircraft and other transportation devices that Chunghwa Post uses exclusively.
+16. Postage stamps: Vouchers issued by Chunghwa Post that certify postage has been paid.
+17. Postal identity cards: Cards issued and sold by Chunghwa Post to verify the identification of the holder.
+18. International reply coupon: A coupon of monetary value that is sold and exchangeable for postage at post offices in member countries of the Universal Postal Union.
+19. All other postage paid symbols: Imprints of postage stamps on postcards, aerogrammes and letter sheets, or postage impressions made by postage meters or printers or in any other manner approved by postal regulations.
 ]]></條文內容>
   </條文>
   <條文>
@@ -75,9 +85,30 @@
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 5-1</條號>
+    <條文內容><![CDATA[In order to protect people’s basic rights and interests of correspondence, the competent authority should ensure the provision of popularized domestic delivery services.
+To accomplish the aforesaid popularized delivery services, the service provider should provide basic delivery services with high quality and at reasonable price on the following items:
+1. Single correspondence mail with a weight not exceeding 2kg.
+2. Single parcel with a weight not exceeding 20kg and the sum of its length, width and height not exceeding 150cm.
+3. Other documents or materials designated by the competent authority.
+Chunghwa Post Co., Ltd should ensure the provision of the popularized delivery services provided in the preceding paragraph, however, the company may announce that it will restrict or suspend the delivery of the aforesaid mail items due to a natural disaster or other force majeure events which may cause obvious difficulties in the implementation.
+The competent authority should set the service standards for the popularized delivery services.
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[Apart from Chunghwa Post and others so entrusted, no others may engage in the business of delivering letters, postcards or other correspondence.
+    <條文內容><![CDATA[Except Chunghwa Post Co., Ltd and its entrusted parties, no one may, for the purpose of business, deliver the following documents except for cross-border documents sent to and from other countries:
+1. Postcards
+2. Aerogrammes and letter sheets
+3. Letters:
+(1) Sent by government bodies (organizations) at all levels, public schools, public legal persons, public institutions or military units. 
+(2) Sent by parties other than the senders provided in the preceding item, where a single item with a weight less than 500 grams or the postage of a single item not exceeding 13 times the basic postage. 
 With the exception of delivery notices connected with shipments, no forwarding agency may deliver mail as described in the preceding paragraph.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 6-1</條號>
+    <條文內容><![CDATA[Business operators engaged in the sending, receiving and delivering of correspondence mails should indicate their name , trademarks or other identifiable signs on the cover of the correspondence mails. This is not required in the event that no addressee name and address are provided.
 ]]></條文內容>
   </條文>
   <條文>
@@ -120,8 +151,9 @@ Proof of inspection shall be issued after the inspection is completed as mention
   <編章節>   Chapter Two Postage and Postage Stamps</編章節>
   <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[Subject to approval by the competent regulatory agency, Chunghwa Post shall set the postage for postcards, letters and other items of correspondence mail.
-Chunghwa post may set at its discretion rates for mail items other than the above.
+    <條文內容><![CDATA[Subject to approval by the competent authority, Chunghwa Post Co., Ltd may set the postages for delivery of the documents which are only allowed to be delivered by Chunghwa Post and its entrusted parties as described in paragraph 1 of Article 6. 
+Chunghwa Post Co., Ltd may set at its discretion rates for mail items other than the ones provided in the preceding paragraph. 
+Postage of mail items should reasonably reflect the cost and a rational profit.
 ]]></條文內容>
   </條文>
   <條文>
@@ -149,7 +181,7 @@ Holders of the voided postage stamps may exchange them for valid new issues at C
   <編章節>   Chapter Three Delivery and Management of Mail</編章節>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[Unless acting in accordance with law, Chunghwa Post may not refuse to accept and deliver any mail items, except for contraband or mail items that do not meet specifications as publicly announced by Chunghwa Post.
+    <條文內容><![CDATA[Unless acting in accordance with the law, Chunghwa Post Co., Ltd may not refuse to accept and deliver mail items provided in the subparagraphs of paragraph 2 of Article 5-1, except for material or mail items which do not meet the specifications publicly announced by Chunghwa Post.　
 ]]></條文內容>
   </條文>
   <條文>
@@ -207,26 +239,30 @@ Chunghwa Post and the forwarding agents may negotiate the carriage charge for th
   <條文>
     <條號>Article 29</條號>
     <條文內容><![CDATA[In the event that any of the following should happen to a mail item, the sender may lodge a claim with Chunghwa Post for compensation:
-1.Loss of part or whole, theft or damage of a parcel, express mail, value-declared mail, or insured mail.
-2.Total loss or theft of other registered mail.
+1. Loss of part or whole, theft or damage of a parcel, express mail, value-declared mail, or insured mail.
+2. Total loss or theft of other types of registered mail items other than the ones provided in the preceding subparagraph. 
+3. Delays in delivering mail with a time limit and express mail , if the fault of Chunghwa Post after investigation.
+4. Registered mails are not delivered in accordance with the regulations for handling registered mail announced by Chunghwa Post. 
+The right of indemnity mentioned in the preceding paragraph may be exercised by the addressee in any of the following situations:
+1. Evidence produced by the addressee that the right of indemnity has been delegated by sender to the addressee.
+2. The addressee has stated to reserve the right of indemnity at the time the partially damaged or pilfered mail item is received. 
+The sender or addressee should not seek compensation to Chunghwa Post based on laws other than the stipulation provided in the preceding two paragraphs.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 30</條號>
-    <條文內容><![CDATA[The right of indemnity mentioned in the preceding article may be exercised by the addressee in case of either of the following:
-1.Evidence produced by the addressee that the right of indemnity has been delegated by the sender to the addressee.
-2.The addressee has stated to reserve the right of indemnity at the time the partially damaged or pilfered mail item is received.
+    <條文內容><![CDATA[（Deleted）
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[In the event that any of the following happens to the mail items listed under Article 29 hereof, there shall be no claim entertained:
-1.Damage or loss due to the nature of or defects in the mail item.
-2.Damage or loss caused by natural calamities or force majeure. For value-insured mail, these circumstances are limited to losses caused by war.
-3.Loss or damage is incurred in the territory of a foreign country where postal services are not liable for compensation under the laws of that nation.
-4.Where the item of mail is contraband or under law may not be delivered through the post.
-5.Where the damage or loss is a result of improper packaging, and the sender took no action to rectify the problem despite having been notified.
-6.When the addressee has received the mail item without any objection.
+    <條文內容><![CDATA[In the event that any of the following happens to the mail items listed under paragraph 1 of Article 29 hereof, there shall be no claim entertained:
+1. Damage or loss due to the nature of or defects in the mail item.
+2. Damage or loss caused by natural calamities or force majeure. For value-insured mail, these circumstances are limited to losses caused by war.
+3. Loss or damage is incurred in the territory of a foreign country where postal services are not liable for compensation under the laws of that nation.
+4. Where the item of mail is contraband or under law may not be delivered through the post.
+5. Where the damage or loss is a result of improper packaging, and the sender took no action to rectify the problem despite having been notified.
+6. When the addressee has received the mail item without any objection.
 ]]></條文內容>
   </條文>
   <條文>
@@ -276,9 +312,8 @@ Those who attempt to prepare used postage stamps, imprints of stamps or marks th
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[In the event of either of the following, a fine of NT$100,000 to NT$500,000 shall be levied and the offender shall be notified to cease and desist; failure to comply may result in successive fines:
-1.Violation of paragraph 1 of Article 6 hereof by engaging in the business of delivering letters, postcards or other correspondence.
-2.Violation of paragraph 2 of Article 6 hereof by delivering mail items other than notices related to shipment.
+    <條文內容><![CDATA[Violation of Article 6 is subject to a fine of NT$200,000 to NT$1,000,000 with orders to cease and desist within a given time limit, failure to comply by the deadline may result in successive fines for each subsequent offense. 
+Violation of Article 6-1 and failure to make corrections within the time limit prescribed by the competent authority may result in a fine of NT$20,000 to NT$100,000 with successive fines for each subsequent offense.
 ]]></條文內容>
   </條文>
   <條文>
@@ -310,8 +345,7 @@ Those who attempt to prepare used postage stamps, imprints of stamps or marks th
   </條文>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[The competent regulatory agency may instruct Chunghwa Post to impose fines as specified in the Act hereof.
-Failure to pay the fines imposed under the Act hereof within the given time limit shall result in compulsory enforcement.
+    <條文內容><![CDATA[（Deleted）
 ]]></條文內容>
   </條文>
   <編章節>   Chapter Six Supplementary Provisions</編章節>
