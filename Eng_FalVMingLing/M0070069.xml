@@ -1,13 +1,14 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations Governing Anti-Money Laundering of Agricultural Financial Institutions</英文法規名稱>
+<英文法規名稱>Regulations Governing Anti-money Laundering of Agricultural Financial Institutions</英文法規名稱>
 <中文法規名稱>農業金融機構防制洗錢辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0070069</法規網址>
-<最新英文異動日期>20170726</最新英文異動日期>
+<最新英文異動日期>20181227</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1.Promulgated on July 26 , 2017]]></沿革內容>
+<沿革內容><![CDATA[1.Promulgated per order of Council of Agriculture No. Nong-Jin-Zi-1065074296A dated July 26, 2017 and error correction (Article 3) announced per letter No. Nong-Shou-Jin-Zi-1065074440 dated September 20, 2017.
+2.Amendment of Articles 3, 10, 14 and 15 promulgated per order of Council of Agriculture No. Nong-Jin-Zi-1075074662A dated December 27, 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -19,7 +20,7 @@
     <條號>Article 2</條號>
     <條文內容><![CDATA[Terms used in these Regulations are defined as follows:
 1. The term “agricultural financial institution” shall mean credit departments of farmers’ associations, credit departments of fishermen’s associations (collectively referred to as “credit departments” hereunder) and Agricultural Bank of Taiwan.
-2. The term “a certain amount” shall mean NT$500,000 (including the foreign currency equivalent thereof) .
+2. The term “a certain amount” shall mean NT$500,000 (including the foreign currency equivalent thereof).
 3. The term “cash transaction” shall mean cash receipt or payment in a single transaction (including all transactions recorded on cash deposit or withdrawal vouchers for accounting purpose), or the transaction of currency exchange.
 4. The term “customer” shall mean the customers of agricultural financial institutions.
 5. The term “beneficial owner” shall mean a natural person who ultimately owns or controls a customer and/or the natural person on whose behalf a transaction is being conducted, including those persons who exercise ultimate effective control over a legal person or arrangement.
@@ -32,7 +33,9 @@
 1. An agricultural financial institution shall not accept anonymous accounts or accounts in fictitious names for establishing or maintaining business relationship.
 2. An agricultural financial institution shall undertake CDD measures when:
 A. establishing business relations with any customer;
-B. carrying out occasional transactions with respect to:(1) a cash transaction above a certain amount or multiple apparently related cash transactions that is above a certain amount when combined; or(2) a cross-border wire transfer involving NTD30,000 or more (including the foreign currency equivalent thereof);
+B. carrying out occasional transactions with respect to:
+(1) a transaction (including domestic remittance) above a certain amount or multiple apparently related transactions that is above a certain amount when combined; or
+(2) a cross-border wire transfer involving NTD30,000 or more (including the foreign currency equivalent thereof);
 C. there is a suspicion of money laundering or terrorist financing; or
 D. The agricultural financial institution has doubts about the veracity or adequacy of previously obtained customer identification data.
 3. The CDD measures to be taken by an agricultural financial institution are as follows:
@@ -66,7 +69,7 @@ C. Except for situations provided for in the proviso of Subparagraph 3 of Articl
 (9) an employee stock ownership trust or an employee savings trust.
 D. Except for situations provided for in the proviso of Subparagraph 3 of Article 6 herein, an agricultural financial institution is not subject to the requirements of identifying and verifying the identity of beneficial owner set out under Item C of Subparagraph 3 hereof when the customer purchases property insurance, accident insurance, health insurance or an insurance product that does not require policy value reserve.
 7. An agricultural financial institution should not establish a business relationship or carry out occasional transactions with a customer before completing the CDD process. However, an agricultural financial institution may first obtain information on the identity of the customer and any beneficial owner and complete the verification following the establishment of business relationship, provided that:
-A. money laundering and terrorist financing risks are effectively managed, including adopting risk management procedures with respect to the conditions under which a customer may utilize the  business relationship to complete a transaction prior to verification;
+A. money laundering and terrorist financing risks are effectively managed, including adopting risk management procedures with respect to the conditions under which a customer may utilize the business relationship to complete a transaction prior to verification;
 B. it would be essential not to interrupt the normal conduct of business with the customer; and
 C. verification of the identities of customer and beneficial owner will be completed as soon as reasonably practicable following the establishment of business relationship. The agricultural financial institution shall terminate the business relationship if verification cannot be completed as soon as reasonably practicable and inform the customer in advance.
 8. Where an agricultural financial institution is unable to complete the required CDD process on a customer, it should consider reporting suspicious transactions in relation to the customer.
@@ -93,10 +96,10 @@ C. verification of the identities of customer and beneficial owner will be compl
 1. An agricultural financial institution shall apply CDD measures to existing customers on the basis of materiality and risk, and to conduct due diligence on such existing relationships at appropriate times, taking into account whether and when CDD measures have previously been undertaken and the adequacy of data obtained. The aforementioned appropriate times include at least:
 A. When the customer opens a new account or enters new business relationships;
 B. When it is time for periodic review of the customer scheduled on the basis of materiality and risk; and
-C. When it becomes known that there is a material change to  customer’s identity and background information.
+C. When it becomes known that there is a material change to customer’s identity and background information.
 2. An agricultural financial institution shall scrutinize transactions taken place during its business relationship with a customer to ensure that the transactions being conducted are consistent with the institution’s knowledge of the customer, the customer’s business and risk profile, including, where necessary, the source of funds.
-3. An agricultural financial institution shall periodically review the adequacy of customeridentification information obtained in respect of customers and beneficial owners and ensure that the information is kept up to date, particularly for higher risk categories of customers, for whom the agricultural financial institution should conduct review at least once every year.
-4. An agricultural financial institution is entitled to rely on the identification and verification steps that it has already undertaken. Therefore an agricultural financial institution is allowed not to repeatedly identify and verify the identity of each customer every time that a customer conducts a transaction unless it has doubts about the veracity or adequacy of that information, discovers that the  customer is involved in a transaction suspicious of money laundering or terrorist financing, or discovers that there is a material change in the way that the customer’s account is operated, which is not consistent with the customer’s business profile. In such events, the agricultural financial institution shall conduct CDD again in accordance with the provisions of Article 3 herein.
+3. An agricultural financial institution shall periodically review the adequacy of customer identification information obtained in respect of customers and beneficial owners and ensure that the information is kept up to date, particularly for higher risk categories of customers, for whom the agricultural financial institution should conduct review at least once every year.
+4. An agricultural financial institution is entitled to rely on the identification and verification steps that it has already undertaken. Therefore an agricultural financial institution is allowed not to repeatedly identify and verify the identity of each customer every time that a customer conducts a transaction unless it has doubts about the veracity or adequacy of that information, discovers that the customer is involved in a transaction suspicious of money laundering or terrorist financing, or discovers that there is a material change in the way that the customer’s account is operated, which is not consistent with the customer’s business profile. In such events, the agricultural financial institution shall conduct CDD again in accordance with the provisions of Article 3 herein.
 ]]></條文內容>
   </條文>
   <條文>
@@ -118,7 +121,7 @@ B. Where an agricultural financial institution suspects that money laundering or
 1. An agricultural financial institution relying on a third party should be able to immediately obtain the necessary CDD information.
 2. An agricultural financial institution should take adequate steps to satisfy itself that copies of identification data and other relevant documentation relating to the CDD requirements will be made available from the third party upon request without delay.
 3. An agricultural financial institution shall make sure that the third party it relies on is regulated, supervised or monitored, and has appropriate measures in place for compliance with CDD and record-keeping requirements.
-4. An agricultural financial institution shall make sure that the jurisdiction at where the third partyit relies on is based has AML/CFT regulations in place that are consistent with the standards set out by the FATF.
+4. An agricultural financial institution shall make sure that the jurisdiction at where the third party it relies on is based has AML/CFT regulations in place that are consistent with the standards set out by the FATF.
 ]]></條文內容>
   </條文>
   <條文>
@@ -142,9 +145,9 @@ B. Where an agricultural financial institution suspects that money laundering or
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[When conducting CDD, an agricultural financial institution should use self-established database or information obtained from external sources to determine whether a customer or beneficial owner or senior managerial officer of a customer is a person who is or has been entrusted with a prominent function by a R.O.C. government, a foreign government or an international organization (referred to as politically exposed persons (PEPs) hereunder) and observe the following provisions:
+    <條文內容><![CDATA[When conducting CDD, an agricultural financial institution should adopt appropriate risk management mechanisms to determine whether a customer or beneficial owner or senior managerial officer of a customer is a person who is or has been entrusted with a prominent function by a R.O.C. government, a foreign government or an international organization (referred to as politically exposed persons (PEPs) hereunder) and observe the following provisions:
 1. For a customer or beneficial owner determined to be a current PEP of a foreign government, an agricultural financial institution shall treat the customer directly as a high-risk customer, and adopt enhanced CDD measures under Subparagraph 1 of Article 6 herein.
-2. For a customer or beneficial owner determined to be a current PEP of a R.O.C. government or an international organization, an agricultural financial institution shall assess risks when . establishing business relationship with the person and conduct annual review thereafter. In case of higher risk business relationship with such customers, the institution shall adopt enhanced CDD measures under Subparagraph 1 of Article 6 herein.
+2. For a customer or beneficial owner determined to be a current PEP of a R.O.C. government or an international organization, an agricultural financial institution shall assess risks when establishing business relationship with the person and conduct annual review thereafter. In case of higher risk business relationship with such customers, the institution shall adopt enhanced CDD measures under Subparagraph 1 of Article 6 herein.
 3. For a senior managerial officer of a customer determined to be a current PEP of a R.O.C. government, a foreign government or an international organization, an agricultural financial institution shall determine whether to apply the enhanced CDD measures under Subparagraph 1 of Article 6 by considering the level of influence the officer has on the customer.
 4. For former PEPs of R.O.C. or foreign governments or international organizations, an agricultural financial institution shall the level of influence that the individual could still exercise by considering relevant risk factors and determine whether to apply the provisions of the preceding three Subparagraphs based on the RBA.
 5. The preceding four Subparagraphs apply to family members and close associates of PEPs. The scope of family members and close associates mentioned above will be determined in a manner stipulated in the latter section of Paragraph 4, Article 7 of the Act.
@@ -180,7 +183,7 @@ C. For occasional transactions, verify the identity of the customer in accordanc
     <條文內容><![CDATA[An agricultural financial institution is not required to file a report on any of the following cash transactions above a certain amount with the Investigation Bureau, provided the financial institution verifies the identity of the customer and keeps the transaction records thereof:
 1. Deposits into the accounts opened by government agencies, state-run enterprises, institutions acting with governmental power (within the scope of mandate), public and private schools, public enterprises and government funds established where relevant regulations or contractual relationships so provide and their transactions with the agricultural financial institution.
 2. Receivables and payables collected and made by an agricultural financial institution on behalf of government treasuries.
-3. Transactions and fund arrangements between financial institutions. Notwithstanding the foregoing, payables to another financial institution’s customer paid through an inter-bank deposit account, such as a customer cashing the check issued by another financial institution, shall be handled as required, provided the cash transaction of the same customer exceeds a certain amount.
+3. Transactions and fund arrangements between financial institutions. Notwithstanding the foregoing, payables to another financial institution’s customer paid through an  inter-bank deposit account, such as a customer cashing thecheck issued by another financial institution, shall be handled as required, provided the cash transaction of the same customer exceeds a certain amount.
 4. Funds paid by a lottery merchant for purchasing lottery tickets.
 5. Payments collected on behalf of a third party (excluding payments deposited in designated stock subscription accounts and credit card payments collected) where the payment notice expressly bears the name, ID Card number (including the code which enables tracking of counterparty’s identity), and type and amount of transaction. Nevertheless, the duplicate copy of the payment notice shall be kept as the transaction record.
 In case of non-individual accounts such as those opened by department stores, megastores, supermarket chains, gas stations, hospitals, transportation businesses and hotels and restaurants which must deposit cash amounting to over a certain amount constantly or routinely in line with business needs, an agricultural financial institution may, after verifying the actual business needs, submit the name list to the Investigation Bureau. Verification and reporting of transactions on a case-by-case basis may be waived for such an account unless the Investigation Bureau responds to the contrary within ten days from the receipt of the name list. An agricultural financial institution shall examine the counterparties to the transactions exempted from reporting on a case-by-case basis at least once every year, and report to the Investigation Bureau for recordation if a counterparty no longer has business dealing as mentioned in this paragraph with it.
@@ -189,16 +192,17 @@ In case of non-individual accounts such as those opened by department stores, me
   <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[Agricultural financial institutions shall file suspicious transaction reports in accordance with following provisions:
-1. For transactions related to the monitoring patterns under Subparagraph 5 of Article 9 herein or other situations that are deemed as suspicious money laundering activities, an agricultural financial institution shall file a suspicious transaction report (STR) with the Investigation Bureau, regardless of the amount of transaction and regardless whether the transaction was completed or not.
-2. Within ten (10) business days upon discovery of a transaction suspected of money laundering or terrorist financing, an agricultural financial institution shall promptly file a STR with the Investigation Bureau in a format prescribed by the Bureau after the report has been approved by the responsible chief compliance officer at the institution.
+1. For transactions related to the monitoring patterns under Subparagraph 5 of Article 9 herein or other unusual situations, an agricultural financial institution shall promptly complete review to determine whether suspicious money laundering or terrorist financing activities are involved and save related records in accordance with Subparagraphs 4 and 6 of Article 9 herein.
+2. If a transaction is deemed suspected of money laundering or terrorist financing upon review, an agricultural financial institution shall, regardless of the amount of transaction and regardless whether the transaction is completed or not, promptly file a STR with the Investigation Bureau in a format prescribed by the Bureau in no later than two business days after the report has been approved by the responsible chief compliance officer at the institution.
 3. For obviously significant suspected money laundering transactions of urgent nature, an agricultural financial institution should file a report as soon as possible to the Investigation Bureau by fax or other available means and follow it up with a written report. The agricultural financial institution is not required to submit a follow-up written report, provided the Investigation Bureau has acknowledged the receipt of report by sending a reply by fax. In such event, the agricultural financial institution shall retain the faxed reply.
-4. The formats of STR and faxed reply mentioned in the preceding two subparagraphs shall be prescribed  by the Investigation Bureau.
+4. The formats of STR and faxed reply mentioned in the preceding two subparagraphs shall be prescribed by the Investigation Bureau.
 5. The data reported to the Investigation Bureau and relevant transaction records shall be kept in accordance with Article 11 herein.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
     <條文內容><![CDATA[These Regulations shall enter into force on June 28, 2017.
+The amended articles of these Regulations shall enter into force on the date of promulgation.
 ]]></條文內容>
   </條文>
 </法規內容>
