@@ -3,7 +3,7 @@
 <英文法規名稱>Tax Collection Act</英文法規名稱>
 <中文法規名稱>稅捐稽徵法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340001</法規網址>
-<最新英文異動日期>20181121</最新英文異動日期>
+<最新英文異動日期>20181205</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -34,10 +34,11 @@
 25.Article 26, 33 amended and promulgated by Presidential Decree Hua-tzung-1 No. 10400002291 on January 14, 2015.
 26.Article 23 amended and promulgated by Presidential Decree Hua-tzung-1 No. 10600005931 on January 18, 2017.
 27.Article 5-1, 46-1 added and promulgated by Presidential Decree Hua-tzung-1 No. 10600073171 on June 14, 2017.
-28.The name of Chapter 1-1 and Articles 11-3 to 11-7 deleted, Article 11-2 amended and promulgated by Presidential Decree Hua-tzung-1 No. 10700125301 on November 21, 2018.]]></沿革內容>
+28.The name of Chapter 1-1 and Articles 11-3 to 11-7 deleted, Article 11-2 amended and promulgated by Presidential Decree Hua-tzung-1 No. 10700125301 on November 21, 2018.
+29.Article 2, 20, 24, 27, 40, 45, 48 amended and promulgated by Presidential Decree Hua-tzung-1 No. 10700131331 on December 5, 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter1 General Provisions</編章節>
+  <編章節>   Chapter  1  General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[Collection of taxes shall be governed by this Act; with regard to matters not provided for under this Act, the relevant provisions of other acts and regulations shall govern.
@@ -53,7 +54,7 @@ The effectiveness of the Reference Table for Fines and Multiples of Punishments 
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The term "taxes" as used under this Act shall refer to all the taxes leviable by the state government, provincial (municipal) and county (city) governments, exclusive of customs duties and mining tax
+    <條文內容><![CDATA[The term "taxes" as used under this Act shall refer to all the taxes leviable by the state government, special municipality, county (city) and rural (urban township and township-level city) governments, exclusive of customs duties.
 ]]></條文內容>
   </條文>
   <條文>
@@ -137,7 +138,7 @@ With regard to land, house and goods sold at an auction or succeeded by creditor
 The Ministry of Finance shall cooperate with national policies to actively reward or guide taxpayers to use electronic payments to maintain the government's tax base, increase taxes, and achieve fair taxation.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter 1-1 The Protection of Taxpayer’s Rights (Deleted)</編章節>
+  <編章節>   Chapter  1-1 The Protection of Taxpayer’s Rights (Deleted)</編章節>
   <條文>
     <條號>Article 11-3</條號>
     <條文內容><![CDATA[(Deleted)
@@ -163,7 +164,7 @@ The Ministry of Finance shall cooperate with national policies to actively rewar
     <條文內容><![CDATA[(Deleted)
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter2 Obligation to Pay Taxes</編章節>
+  <編章節>   Chapter  2  Obligation to Pay Taxes</編章節>
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[For a jointly-owned property, the manager thereof shall be the taxpayer. In the event where no manager is appointed to a jointly-owned property, each of the co-owners thereof shall pay the taxes for his/her own portion of such jointly-owned property he/she owns respectively. If the property is collectively owned by a plural persons, all the collective owners as a whole shall be collectively regarded as the taxpayer.
@@ -197,8 +198,8 @@ In the event that the will executor, heir(s), beneficiary (beneficiaries) or the
     <條文內容><![CDATA[Where a profit-seeking enterprise ceases to exist after a merger, the surviving or newly incorporated profit-seeking enterprise shall pay in full the taxes originally payable by the dissolved enterprise prior to the merger.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter3 Collection of Taxes</編章節>
-  <編章節>      Section1 Tax Payment Notice</編章節>
+  <編章節>   Chapter  3  Collection of Taxes</編章節>
+  <編章節>      Section  1  Tax Payment Notice</編章節>
   <條文>
     <條號>Article 16</條號>
     <條文內容><![CDATA[A tax payment notice shall contain the particulars, including the name or title and address of the taxpayer, type of tax, tax amount, tax rate and the deadline for payment of the tax payable, and shall be issued by the tax collection authorities.
@@ -209,7 +210,7 @@ In the event that the will executor, heir(s), beneficiary (beneficiaries) or the
     <條文內容><![CDATA[Upon discovery of any incorrect entry, computation error or duplication in the contents of a tax payment notice issued under this Act, the taxpayer receiving such notice may, within the prescribed tax-paying period, apply with the tax collection authorities for review and correction.
 ]]></條文內容>
   </條文>
-  <編章節>      Section2 Service</編章節>
+  <編章節>      Section  2  Service</編章節>
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[Service of a document regarding the payment of tax(es) shall be executed by the tax collection authorities before the commencement date of payment of said tax(es) as stated in the document to be served.
@@ -222,10 +223,10 @@ For the documents issued for the collection of land tax or house tax, the user o
 If all joint owners as a whole are collectively regarded as the taxpayer, the service of the document can be made to one of the joint owners, the tax collection authorities should also issue the tax assessment notice with the receiver of the document and the tax-paying period to all joint owners before the commencement date of payment of said tax(es) as stated in the document to be served. If the joint owners are unascertainable, the service of the tax assessment notice can be made by public announcement, and it shall become effective as of the date following the date of posting on the notice board.
 ]]></條文內容>
   </條文>
-  <編章節>      Section3 Collection of Taxes</編章節>
+  <編章節>      Section  3  Collection of Taxes</編章節>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[In the event that a taxpayer is subject to delinquency charge for his/her/its failure to pay the tax by the deadline specified under the applicable tax act, a delinquency charge in an amount equal to one percent (1%) of the amount of said tax shall be charged for every two (2) days of delay. Where the period of delay exceeds thirty (30) days, the case shall be referred to the court for compulsory execution.
+    <條文內容><![CDATA[In the event that a taxpayer is subject to delinquency charge for his/her/its failure to pay the tax by the deadline specified under the applicable tax act, a delinquency charge in an amount equal to one percent (1%) of the amount of said tax shall be charged for every two (2) days of delay. Where the period of delay exceeds thirty (30) days, the case shall be referred for compulsory execution. However, a taxpayer who is unable to pay off the tax within the statutory period due to events that are force majeure or causes not attributable to the taxpayer, and has applied for the deferral of the tax payment or for payment by installments within ten days after the cause of the aforesaid events along with concrete evidence and has been approved by the collection authorities, shall be exempted from the surcharge for delinquent payment.
 ]]></條文內容>
   </條文>
   <條文>
@@ -262,11 +263,11 @@ Should the circumstance specified in the original Paragraph 5-1 of this Article 
     <條號>Article 24</條號>
     <條文內容><![CDATA[Where a taxpayer fails to make a due taxpayment, the tax collection authorities may notify the government authorities concerned to prohibit said taxpayer from transferring or creating other rights over the property of the taxpayer at a value equivalent to the amount of the outstanding tax payable, and may, if the taxpayer is a profit-seeking enterprise, notify the competent authorities to prohibit said taxpayer from reducing its capital or applying for the cancellation of its registration.
 In the event of any indication that the taxpayer failing to make the due tax payment as described in the preceding Paragraph intends to conceal or transfer his/her/its property or to evade tax, the tax collection authorities may, without furnishing any security, apply with the court for a provisional seizure of his/her/its property, except in the case where the taxpayer has furnished property equivalent to the tax payable as security.
-Any individual residing in the Republic of China or any profit-seeking enterprise operating within the territory of the Republic of China, which fails to pay tax in due date, the single account of tax due or the combined account of tax due plus fine, if over the amount of NT$1,000,000 for the individual or over the amount of NT$2,000,000 for the profit-seeking enterprise; as well as before the conclusion of procedures for administrative remedies, if the amount is over NT$1,500,000 for the individual, and the amount is over NT$3,000,000 for the profit-seeking enterprise, the Ministry of Finance may request, the National Immigration Agency of the Ministry of Interior to restrict the said taxpayer from exiting the Republic of China. If the taxpayer is a profit-seeking enterprise, the responsible person thereof may be restricted from exiting the Republic of China. However, in the event that the taxpayer has furnished property equivalent to the tax payable as security, such restriction shall be lifted.
-When the Ministry of Finance requests, the National Immigration Agency of the Ministry of Interior to restrict the said taxpayer from exiting the Republic of China, it shall also simultaneously notice, the said taxpayer in writing the reasons with remarks for the procedures for administrative remedies and delivers the notice as prescribed by law.
-If the tax collection authorities fail to carry out the preceding Paragraph 1 or Paragraph 2, the Ministry of Finance may not request, the National Immigration Agency of the Ministry of Interior to restrict the said taxpayer from exiting the Republic of China in accordance with Paragraph 3.
-The period of restriction from exiting the Republic of China by the National Immigration Agency of the Ministry of Interior shall not be over five years from the date of enforcement.
-The taxpayer or the responsible person of an enterprise, if falls under any of the falling conditions, the Ministry of Finance may request, the National Immigration Agency of the Ministry of Interior to lift such restriction:
+Any individual residing in the Republic of China or any profit-seeking enterprise operating within the territory of the Republic of China, which fails to pay tax in due date, the single account of tax due or the combined account of tax due plus fine, if over the amount of NT$1,000,000 for the individual or over the amount of NT$2,000,000 for the profit-seeking enterprise; as well as before the conclusion of procedures for administrative remedies, if the amount is over NT$1,500,000 for the individual, and the amount is over NT$3,000,000 for the profit-seeking enterprise, the Ministry of Finance may request the Ministry of the Interior National Immigration Agency to restrict the said taxpayer from exiting the Republic of China. If the taxpayer is a profit-seeking enterprise, the responsible person thereof may be restricted from exiting the Republic of China. However, in the event that the taxpayer has furnished property equivalent to the tax payable as security, such restriction shall be lifted.
+When the Ministry of Finance requests the Ministry of the Interior National Immigration Agency to restrict the said taxpayer from exiting the Republic of China, it shall also simultaneously notice, the said taxpayer in writing the reasons with remarks for the procedures for administrative remedies and delivers the notice as prescribed by law.
+If the tax collection authorities fail to carry out the preceding Paragraph 1 or Paragraph 2, the Ministry of Finance may not request the Ministry of the Interior National Immigration Agency to restrict the said taxpayer from exiting the Republic of China in accordance with Paragraph 3.
+The period of restriction from exiting the Republic of China by the Ministry of the Interior National Immigration Agency shall not be over five years from the date of enforcement.
+The taxpayer or the responsible person of an enterprise, if falls under any of the falling conditions, the Ministry of Finance may request the Ministry of the Interior National Immigration Agency to lift such restriction:
 1.Restriction from exiting the Republic of China has already over the period provided in the preceding paragraph.
 2.The taxpayer has paid the tax due and fine, or has furnished property equivalent to the tax payable as security to the tax collection authorities.
 3.The administrative remedy and penalty procedures were concluded, and the combined amount of the tax due and fine is under standard provid in paragraph 3.
@@ -288,37 +289,7 @@ Any tax which is collectible by law but has not been collected before the taxpay
     <條文內容><![CDATA[In accordance with this Act or any relevant tax act, where the amount of tax which shall be paid additionally or to be transferred for compulsive execution by the tax collection authority, is less than a specific amount, the Ministry of Finance may, depending upon the actual situation and after obtaining the approval of the Executive Yuan, waive the payment or compulsive execution.
 ]]></條文內容>
   </條文>
-  <編章節>      Section4 Deferred Payment of Taxes</編章節>
-  <條文>
-    <條號>Article 24</條號>
-    <條文內容><![CDATA[Where a taxpayer fails to make a due taxpayment, the tax collection authorities may notify the government authorities concerned to prohibit said taxpayer from transferring or creating other rights over the property of the taxpayer at a value equivalent to the amount of the outstanding tax payable, and may, if the taxpayer is a profit-seeking enterprise, notify the competent authorities to prohibit said taxpayer from reducing its capital or applying for the cancellation of its registration.
-In the event of any indication that the taxpayer failing to make the due tax payment as described in the preceding Paragraph intends to conceal or transfer his/her/its property or to evade tax, the tax collection authorities may, without furnishing any security, apply with the court for a provisional seizure of his/her/its property, except in the case where the taxpayer has furnished property equivalent to the tax payable as security.
-Any individual residing in the Republic of China or any profit-seeking enterprise operating within the territory of the Republic of China, which fails to pay tax in due date, the single account of tax due or the combined account of tax due plus fine, if over the amount of NT$1,000,000 for the individual or over the amount of NT$2,000,000 for the profit-seeking enterprise; as well as before the conclusion of procedures for administrative remedies, if the amount is over NT$1,500,000 for the individual, and the amount is over NT$3,000,000 for the profit-seeking enterprise, the Ministry of Finance may request, the National Immigration Agency of the Ministry of Interior to restrict the said taxpayer from exiting the Republic of China. If the taxpayer is a profit-seeking enterprise, the responsible person thereof may be restricted from exiting the Republic of China. However, in the event that the taxpayer has furnished property equivalent to the tax payable as security, such restriction shall be lifted.
-When the Ministry of Finance requests, the National Immigration Agency of the Ministry of Interior to restrict the said taxpayer from exiting the Republic of China, it shall also simultaneously notice, the said taxpayer in writing the reasons with remarks for the procedures for administrative remedies and delivers the notice as prescribed by law.
-If the tax collection authorities fail to carry out the preceding Paragraph 1 or Paragraph 2, the Ministry of Finance may not request, the National Immigration Agency of the Ministry of Interior to restrict the said taxpayer from exiting the Republic of China in accordance with Paragraph 3.
-The period of restriction from exiting the Republic of China by the National Immigration Agency of the Ministry of Interior shall not be over five years from the date of enforcement.
-The taxpayer or the responsible person of an enterprise, if falls under any of the falling conditions, the Ministry of Finance may request, the National Immigration Agency of the Ministry of Interior to lift such restriction:
-1.Restriction from exiting the Republic of China has already over the period provided in the preceding paragraph.
-2.The taxpayer has paid the tax due and fine, or has furnished property equivalent to the tax payable as security to the tax collection authorities.
-3.The administrative remedy and penalty procedures were concluded, and the combined amount of the tax due and fine is under standard provid in paragraph 3.
-4.The company which owes the tax has been dissolved and settled by law, and has no remaining assets to pay for tax and fine.
-5.The tax due by the taxpayer has been allocated in accordance with settlement or bankruptcy procedure of the Bankrupt Law.
-]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 25</條號>
-    <條文內容><![CDATA[Under any of the following circumstances, the tax collection authorities may collect any tax leviable under the act prior to the statutory date of taxation of such tax, except in the case where the taxpayer has furnished property equivalent to the tax payable as security:
-1.Where there is an indication that the taxpayer is apparently intending to conceal or transfer his/her/its property or to evade tax;
-2.Where the taxpayer applies for an exit permit prior to the statutory commencement date of collection of such tax; or
-3.Where early tax collection is applied for by the taxpayer for any other specific reason.
-Any tax which is collectible by law but has not been collected before the taxpayer concerned is declared bankrupt or is ordered by a court ruling to proceed with company reorganization shall be deemed a due obligatory claim against the bankrupt or a due claim in the company reorganization upon the announcement of bankruptcy or rendition of the ruling for company reorganization.
-]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 25-1</條號>
-    <條文內容><![CDATA[In accordance with this Act or any relevant tax act, where the amount of tax which shall be paid additionally or to be transferred for compulsive execution by the tax collection authority, is less than a specific amount, the Ministry of Finance may, depending upon the actual situation and after obtaining the approval of the Executive Yuan, waive the payment or compulsive execution.
-]]></條文內容>
-  </條文>
+  <編章節>      Section  4  Deferred Payment of Taxes</編章節>
   <條文>
     <條號>Article 26</條號>
     <條文內容><![CDATA[In the event that a taxpayer is unable to pay in full a tax within the statutory period for tax payment upon the occurrence of a natural disaster, force majeure, or being economically disadvantaged, an application may be filed with the competent tax collection authorities within the statutory period for tax payment for the deferral of the tax payment or for payment by installments; the period of such deferral or installment payments shall not exceed three (3) years.
@@ -327,10 +298,10 @@ The scope of natural disaster, force majeure, and economically disadvantaged per
   </條文>
   <條文>
     <條號>Article 27</條號>
-    <條文內容><![CDATA[In the event that a taxpayer fails to make timely payment of any tax for which the extension for tax payment or payment by installments has been approved, the tax collection authorities may, within three (3) days from the date following the expiration date of that particular payment, issue to the taxpayer a written notice, demanding the payment of the remaining tax in a lump sum within ten (10) days. In the event that the taxpayer further fails to pay such tax within the given time limit, the tax collection authorities shall forward the case to the court for compulsory execution.
+    <條文內容><![CDATA[In the event that a taxpayer fails to make timely payment of any tax for which the extension for tax payment or payment by installments has been approved, the tax collection authorities may, within three (3) days from the date following the expiration date of that particular payment, issue to the taxpayer a written notice, demanding the payment of the remaining tax in a lump sum within ten (10) days. In the event that the taxpayer further fails to pay such tax within the given time limit, the tax collection authorities shall forward the case to compulsory execution.
 ]]></條文內容>
   </條文>
-  <編章節>      Section5 Refund of Taxes</編章節>
+  <編章節>      Section  5  Refund of Taxes</編章節>
   <條文>
     <條號>Article 28</條號>
     <條文內容><![CDATA[In the event that a taxpayer has made overpayment of any tax as a result of mis-application of tax law or mis-calculation by him or herself, an application for refund of such overpaid tax supported by substantial documentation may be filed within five years from the date of payment thereof. Application for refund of such overpaid tax shall be denied if it is filed after the said five-year period.
@@ -345,7 +316,7 @@ In the event that the preceding mistakes were already known to the tax collectio
     <條文內容><![CDATA[For the tax payment refundable to a taxpayer, the tax collection authorities shall offset the refundable tax payment against the delinquent taxes receivable from a said taxpayer, and shall forthwith inform, by notice, said taxpayer of such offset.
 ]]></條文內容>
   </條文>
-  <編章節>      Section6 Investigation</編章節>
+  <編章節>      Section  6  Investigation</編章節>
   <條文>
     <條號>Article 30</條號>
     <條文內容><![CDATA[For the collection of information required for taxation, investigator(s) appointed by the tax collection authorities concerned or the Taxation Administration of the Ministry of Finance may conduct an investigation into the relevant entity, organization or individual, request the subject of an investigation to provide accounting books, receipts or other relevant documents, or request the presence of a taxpayer at the office of the investigator(s) to answer questions, to which the subject of the investigation shall raise no objection.
@@ -392,7 +363,7 @@ The term "confirmation" as used in the first Paragraph of this Article shall ref
 5.Where a judgment is rendered in an administrative litigation.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter4 Administrative Remedies</編章節>
+  <編章節>   Chapter  4  Administrative Remedies</編章節>
   <條文>
     <條號>Article 35</條號>
     <條文內容><![CDATA[A taxpayer may, when disagreeing with the decision made in a tax assessment notice, file an application in the statutory format for recheck, stating therein the reasons for disagreement along with evidentiary documents, and in accordance with the following provisions:
@@ -428,7 +399,7 @@ In the event that the final recheck decision, or the final decision of appeal, o
 In cases where the litigation procedures were concluded in recheck, administrative appeal or administrative litigation prior to the amendment and enforcement of this Article on January 10, 2011, but the tax collection authorities have not yet delivered the refund notice, refund check or supplementary tax payment notice, or have delivered pending the decision of interest rate for administrative remedy, the provisions after the amendment shall apply. However, if the provisions prior to the amendment are more favorable to the taxpayer(s), such provisions prior to the amendment shall apply.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter5 Compulsory Execution</編章節>
+  <編章節>   Chapter  5  Compulsory Execution</編章節>
   <條文>
     <條號>Article 39</條號>
     <條文內容><![CDATA[Any taxpayer who fails to pay the tax due within thirty (30) days after the expiration of the statutory period for payment of such tax shall be referred to compulsory execution by the tax collection authorities , unless said taxpayer has filed an application for recheck pursuant to the provisions set out in Article 35 hereof.
@@ -441,10 +412,10 @@ In cases where there were tax payable determined in a recheck decision , prior t
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[In the event that the tax collection authorities deem it improper to have referred a taxpayer to the court for compulsory execution of the payment of tax due, it may withdraw such case from the court. If the compulsory execution of the court is in process, the tax collection authorities shall apply with the court for cessation of the compulsory execution in process.
+    <條文內容><![CDATA[In the event that the tax collection authorities deem it improper to have referred a taxpayer to compulsory execution of the payment of tax due, it may withdraw such case. If the compulsory execution is in process, the tax collection authorities shall apply for cessation of the compulsory execution in process.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter6 Penal Provisions</編章節>
+  <編章節>   Chapter  6  Penal Provisions</編章節>
   <條文>
     <條號>Article 41</條號>
     <條文內容><![CDATA[A taxpayer who evades tax payment by fraud or other unrighteous means shall be sentenced to imprisonment for no more than five (5) years, detention, or in lieu thereof or in addition thereto, be imposed with a fine of no more than sixty thousand New Taiwan Dollars (NT$60,000).
@@ -472,7 +443,6 @@ The amount of fines in the preceding paragraph shall not exceed NT$1,000,000.
   <條文>
     <條號>Article 45</條號>
     <條文內容><![CDATA[Where a profit-seeking enterprise fails to maintain accounting books or record transactions as required by the prescribed regulations, it shall be imposed with a fine of no less than three thousand New Taiwan Dollars (NT$3,000) but no more than seven thousand and five hundred New Taiwan Dollars (NT$7,500), and shall, in addition thereto, maintain accounting books or record transactions as required by the prescribed regulations within one (1) month. Failure to maintain accounting books or to keep records within the given time limit shall cause the violator to be liable for a fine of no less than seven thousand and five hundred New Taiwan Dollars (NT$7,500) but no more than fifteen thousand New Taiwan Dollars (NT$15,000), and the violator shall maintain accounting books or to record transactions as required by the prescribed regulations within one (1) month. If the violator further fails to do so within the given time limit, it shall be ordered to suspend its business until the required accounting books are maintained or transactions are recorded in accordance with the prescribed regulations.
-In the event that the accounting books required to be submitted to the tax collection authorities for stamping as required by the prescribed regulations are not submitted within the given time limit, the taxpayer concerned shall be ordered to submit the same for stamping within another given time limit, and shall, in addition thereto, be imposed with a fine of no less than one thousand and five hundred New Taiwan Dollars (NT$1,500) but no more than fifteen thousand New Taiwan Dollars (NT$15,000). In the event that the taxpayer further fails to submit the accounting books for stamping within the given time limit, a fine shall be successively imposed until the submission is made.
 A profit-seeking enterprise which fails to keep accounting books or maintain accounting books at its business place without good cause shall be imposed with a fine of no less than fifteen thousand New Taiwan Dollars (NT$15,000) but no more than sixty thousand New Taiwan Dollars (NT$60,000).
 ]]></條文內容>
   </條文>
@@ -500,7 +470,9 @@ When the person as described in the preceding paragraph is not the same person a
   </條文>
   <條文>
     <條號>Article 48</條號>
-    <條文內容><![CDATA[A taxpayer who commits a material act of tax evasion shall be dealt with in accordance with the applicable provisions of tax acts, and, in addition thereto, the Ministry of Finance shall terminate the tax incentive and recover the benefits to which the taxpayer was originally entitled for the year(s) in which the violation occurred. In the case of a taxpayer is found to have committed serious acts in violation of environmental protection, labor, food safety and sanitation laws, the central regulating authority-in-charge of incentive measures shall notice the Ministry of Finance to terminate the tax incentive and recover the benefits to which the taxpayer was originally entitled for the year(s) in which the violation occurred.
+    <條文內容><![CDATA[A taxpayer who commits a material act of tax evasion shall be dealt with in accordance with the applicable provisions of tax acts, and, in addition thereto, the Ministry of Finance shall terminate the tax incentive and recover the benefits to which the taxpayer was originally entitled for the year(s) in which the violation occurred.
+In the case of a taxpayer is found to have committed serious acts in violation of environmental protection, labor, food safety and sanitation laws, the central regulating authority-in-charge of incentive measures shall notice the Ministry of Finance to terminate the tax incentive and recover the benefits to which the taxpayer was originally entitled for the year(s) in which the violation occurred.
+Where an incentive is to be terminated and recovered in accordance with the preceding two Paragraphs, the Ministry of Finance shall publish the taxpayer’s name on the following year of the year which the administrative disposition  is confirmed, and such publication is not subject to the restrictions under Article 33 of the Tax Collection Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -523,10 +495,10 @@ The standards for determining the severity of a tax-evading act, the amount of t
     <條文內容><![CDATA[A taxpayer who has violated any provision of this Act or any other applicable tax act shall be dealt with according to the act in force as of the date on which the punishment for such violating act is imposed; provided, however, that if the relevant provisions of the act applicable prior to the imposition of the punishment for such violating act are more favorable to said taxpayer, such favorable provisions of the Act shall prevail.
 ]]></條文內容>
   </條文>
-  <編章節>   Chapter7 Supplementary Provisions</編章節>
+  <編章節>   Chapter  7  Supplementary Provisions</編章節>
   <條文>
     <條號>Article 49</條號>
-    <條文內容><![CDATA[Unless otherwise provided for under this Act, the provisions of this Act in connection with taxation shall be applicable, mutatis mutandis, to the imposition of delinquency charges, interest, surcharge for delayed filing or non-filing of tax return, insufficient payment of tax amount or fines; provided, however, that the tax payment priority set forth in Article 6 hereof and the provisions of Article 38 hereof regarding interest surcharge shall not apply to the imposition of fines.
+    <條文內容><![CDATA[Unless otherwise provided for under this Act, the provisions of this Act in connection with taxation shall be applicable, mutatis mutandis, to the imposition of delinquency charges, interest, surcharge for delayed filing or non-filing of tax return, insufficient payment of tax amount or fines; provided, however, that the tax payment priority set forth in Article 6 hereof and the provisions of Article 38 hereof regarding interest surcharge shall not apply to the imposition of fines
 ]]></條文內容>
   </條文>
   <條文>
