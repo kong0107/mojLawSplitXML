@@ -3,20 +3,15 @@
 <英文法規名稱>Administrative Regulations for Radioactive Material and Equipment Capable of Producing Ionizing Radiation and Associated Practice</英文法規名稱>
 <中文法規名稱>放射性物質與可發生游離輻射設備及其輻射作業管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160025</法規網址>
-<最新英文異動日期>20121224</最新英文異動日期>
+<最新英文異動日期>20181222</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001788</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001789</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001790</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001791</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001792</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004566</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004567</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004568</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004569</下載網址>
-  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004570</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005144</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005145</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005146</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005147</下載網址>
+  <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005148</下載網址>
 </附件>
 <沿革內容><![CDATA[1.Promulgated on January 22, 2003 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu-0920001511
 2.Amendment of Article 1, Article 2, Article 4 to Article 6, Article 8, Article 9, Article 13, Article 17, Article 20, Article 22, Article 24, Article 26 to Article 28, Article 30, Article 31, Article 34 to Article 36, Article 41, Article 44, Article 49, Article 50, Article 52, Article 53, Article 55, Article 57 and Appendix on February 23, 2005 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu-0940008702
@@ -25,7 +20,8 @@
 5.Amendment of Article 23, Article 25, Article 27, Article 34, Article 51 and Article 55 on July 11, 2008 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu-0970010549
 6.Amendment of Articles 13 and 14 on September 30, 2009 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu 0980016382
 7.Amendment of Article 5, Article 17, Article 18, Article 19, Article 23, Article 28, Article 31, Article 42, Article 45, Article 47, Article 47-1 and Article 47-2 and Deletion of Article 57 on January 16, 2012 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu-1010000798
-8.Amendment of Articles 7 and 46 on December 24, 2012 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu 1010020806]]></沿革內容>
+8.Amendment of Articles 7 and 46 on December 24, 2012 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu 1010020806
+9.Amendment of Article 2, Article 25, Article 28, Article 31, Article 34, Article 36, Article 41, Article 45, and Article 54 on December 22, 2018 by the Atomic Energy Council Perits decree No. Huei-Fu-Tsu-10700152261]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Section I General Principles</編章節>
@@ -38,22 +34,23 @@
     <條號>Article 2</條號>
     <條文內容><![CDATA[The definitions for terms used in the Regulations are as follows:
 1.Sealed radioactive material refers to radioactive material placed in a sealed container sufficient to provide isolation from the outside under normal use.
-2.Modification refers to any one of the following situations involving radioactive material, equipment capable of producing ionizing radiation or the workplace:
-  (1)a change in the direction of primary radiation beam of sealed radioactive material or equipment capable of producing ionizing radiation;
-  (2)an increase in the activity of sealed radioactive material;
-  (3)an increase in the nominal voltage of an X-ray unit;
-  (4)an increase in the accelerating voltage of an accelerator;
-  (5)a change in the radiation protective shielding; or
-  (6)other situations as designated by the Competent Authority.
-3.Labeling refers to the process of combining a radioactive nuclide with another material to form a radioactive compound.
-4.Cabinet refers to a separate cabinet, not a part of a building, originally designed or constructed with appropriate shielding that, when in use, prevents entry by personnel and in which radioactive material or equipment capable of producing ionizing radiation is placed.
-5.High-level radiation facility refers to a facility characterized by one of the following:
-  (1)equipment capable of producing ionizing radiation with a rated accelerating voltage of greater than 30 MV
-  (2)equipment capable of producing ionizing radiation with a particle energy rating of greater than 30 MeV; or
-  (3)the use of sealed radioactive material with an activity of greater than 1,000 TBq.
-6.Transit refers to a stop-over period with definite time parameters for goods not yet unloaded being shipped on the same aircraft or means of transportation that are to enter another country or area via Taiwan air or sea ports. 
-7.Transshipment en route refers to a stop-over period with definite time parameters for unloaded goods being shipped on the same or other aircraft or means of transportation that are to enter another country or area via Taiwan air or sea ports.
-8.Surface contaminated object (SCO) refers to a solid substance that, itself not radioactive, has been contaminated on the surface by a radioactive material, but this does not include radioactive waste.
+2.Unsealed radioactive material refers to radioactive material that does not meet the definition of sealed radioactive material.
+3.Modification refers to any one of the following situations involving radioactive material, equipment capable of producing ionizing radiation or the workplace:
+(1)a change in the direction of primary radiation beam of sealed radioactive material or equipment capable of producing ionizing radiation;
+(2)an increase in the activity of sealed radioactive material;
+(3)an increase in the nominal voltage of an X-ray unit;
+(4)an increase in the accelerating voltage of an accelerator;
+(5)a change in the radiation protective shielding; or
+(6)other situations as designated by the Competent Authority.
+4.Labeling refers to the process of combining a radioactive nuclide with another material to form a radioactive compound.
+5.Cabinet refers to a separate cabinet, not a part of a building, originally designed or constructed with appropriate shielding that, when in use, prevents entry by personnel and in which radioactive material or equipment capable of producing ionizing radiation is placed.
+ 6.High-level radiation facility refers to a facility characterized by one of the following:
+(1)equipment capable of producing ionizing radiation with a rated accelerating voltage of equalling to or greater than 30 MV;
+(2)equipment capable of producing ionizing radiation with a particle energy rating of equalling to or greater than 30 MeV; or
+(3)the use of sealed radioactive material with an activity of equalling to or greater than 1,000 TBq.
+7.Transit refers to a stop-over period with definite time parameters for goods not yet unloaded being shipped on the same aircraft or means of transportation that are to enter another country or area via Taiwan air or sea ports.
+8.Transshipment en route refers to a stop-over period with definite time parameters for unloaded goods being shipped on the same or other aircraft or means of transportation that are to enter another country or area via Taiwan air or sea ports.
+9.Surface contaminated object (SCO) refers to a solid substance that, itself not radioactive, has been contaminated on the surface by a radioactive material, but this does not include radioactive waste.
 ]]></條文內容>
   </條文>
   <條文>
@@ -325,7 +322,7 @@ For use of equipment capable of producing ionizing radiation that the use requir
   </條文>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[Once every five (5) years, the facility operators who have the registration approved by the Competent Authority for radioactive material or equipment capable of producing ionizing radiation one (1) month prior to or after the day equivalent to the approved registration date, shall conduct a radiation safety survey and record the results for future reference.
+    <條文內容><![CDATA[Once every five (5) years, the facility operators who have the registration approved by the Competent Authority for radioactive material or equipment capable of producing ionizing radiation three (3) months prior to or after the month equivalent to the approved registration month, shall conduct a radiation safety survey and record the results for future reference.
 ]]></條文內容>
   </條文>
   <條文>
@@ -363,8 +360,8 @@ For use of a high-level radiation facility, applicants shall fill out an applica
 3.radiation protection plan and radiation safety operation guidelines;
 4.the structure of workplace shielding and machinery and an earthquake enduring level certification;
 5.operational training and practical operational training plan;
-6.pre-operational test plan and schedule;
-7.for sealed radioactive material, a photocopy of the original radioactive material certification and security planning shall be enclosed; and
+6.schedule plan of a trial operation run;
+ 7.for sealed radioactive material, a photocopy of the original radioactive material certification and security planning shall be enclosed; and
 8.procedure for dealing with accidents.
 Paragraph 28.2
 The workplace radiation safety assessment referred to in Subparagraph 28.1.2 shall contain the following information:
@@ -373,12 +370,15 @@ The workplace radiation safety assessment referred to in Subparagraph 28.1.2 sha
 3.measures for handling radioactive contaminants (including activated products); and
 4.other information as designated by the Competent Authority.
 Paragraph 28.3
-Only after the applicants have obtained the permit for installation may the work proceed in accordance with the approved radiation safety assessment, the floor plans, and the shielding planning. Within 30 days after completion of the work, a survey report shall be enclosed to the Competent Authority for review, inspection and approval, after which a pre-operational test permit will be issued.
+Only after the applicants have obtained the permit for installation may the work proceed in accordance with the approved radiation safety assessment, the floor plans, and the shielding planning. Within 30 days after completion of the work, a trial operation run plan shall be enclosed to the Competent Authority for review, inspection and approval, after which a trial operation run permit will be issued.
 Paragraph 28.4
-After the completion of the pre-operational test, the applicants shall enclose, within 30 days, a radiation safety analysis report that includes the following items to the Competent Authority for review, inspection and approval, after which a certificate of permission for use will be issued:
+After the completion of the trial operation run, the applicants shall enclose, within 30 days, a trial operation run report to the Competent Authority for review, inspection and approval, after which a certificate of permission for use will be issued.
+Paragraph 28.5
+The trial operation run report referred to  in Paragraph 28.4
+shall include the following items:
 1.the area monitoring results;
 2.the personal dose monitoring results;
-3.the record of the pre-operational test; and
+3.the record of the trial operation run; and
 4.other items as designated by the Competent Authority.
 ]]></條文內容>
   </條文>
@@ -400,15 +400,16 @@ After the completion of the pre-operational test, the applicants shall enclose, 
   <條文>
     <條號>Article 31</條號>
     <條文內容><![CDATA[Paragraph 31.1
-Those who are engaged in radiation protection service businesses shall not possess sealed radioactive material. However, the following circumstances with the permission of the Competent Authority are excluded:
-1.those who sale sealed radioactive material referred to in Subparagraph 16.1.2; or
-2.those who are engaged in sales service businesses or radiation protection detection businesses replace the sealed radioactive material for facility operators and do temporary storage of the material before export or transfer.
+Those who are engaged in radiation protection service businesses shall not possess radioactive material. However, the following circumstances with the permission of the Competent Authority are excluded:
+1.those who sale sealed radioactive material referred to in Paragraph 16.1;
+2.those who are engaged in sales service businesses or radiation protection detection businesses replace sealed radioactive material for facility operators and do temporary storage of the material before export or transfer; or
+3. those who are engaged in sales service businesses or radiation protection detection businesses do temporary storage of unsealed radioactive material during transportation.
 Paragraph 31.2
-Applicants who apply for possession of sealed radioactive material according to the stipulations in Subparagraphs 31.1.1 and 31.1.2 shall fill out an application form, enclose the following documents and make an application to the Competent Authority for review, inspection and approval, after which a possession permit will be issued:
+Applicants who apply for possession of radioactive material according to the stipulations in Subparagraphs 31.1.1,  31.1.2 and 31.1.3 shall fill out an application form, enclose the following documents and make an application to the Competent Authority for review, inspection and approval, after which a possession permit will be issued:
 1.the permit of radiation protection service businesses;
-2.application documentation on the brand, model, nuclide ,activity and quantity of the sealed radioactive material in possession;
+2.application documentation on the brand, model, nuclide, activity and quantity of the radioactive material for possession;
 3.radiation protection plan; and
-4.radiation safety assessment on an appropriate storage area and shielding planning. They shall be finished according to the maximum holding of the radioactive material estimated for the appropriate storage area.
+ 4.radiation safety assessment on an appropriate storage area and shielding planning. They shall be finished according to the maximum holding of the radioactive material estimated for the appropriate storage area.
 Paragraph 31.3
 Those who are permitted by the Competent Authority to engage in the sales of equipment capable of producing ionizing radiation may possess the equipment capable of producing ionizing radiation according to the approved items.
 ]]></條文內容>
@@ -447,7 +448,7 @@ When a facility operator replaces the X-ray tube or the accelerator tube of equi
 1.for that who obtains the permit for use, a survey report shall be enclosed to the Competent Authority for filing and reference within 15 days after the replacement.
 2.for the registration approved by the Competent Authority, the survey report shall be independently kept.
 Paragraph 34.2
-If a facility operator removes and replaces radioactive material for which he/she possesses the permit for use or the registration approved by the Competent Authority, he/she shall fill out an application form and enclose the following documents prior to effecting the replacement, and submit to the Competent Authority for review; and within 15 days following the replacement, he/she shall enclose a smear test report and a photocopy of the original certifying documentation of the newly installed radioactive material to the Competent Authority for filing and reference:
+If a facility operator removes and replaces radioactive material for which he/she possesses the permit for use or the registration approved by the Competent Authority, he/she shall fill out an application form and enclose the following documents prior to effecting the replacement, and submit to the Competent Authority for review; and within 30 days following the replacement, he/she shall enclose a smear test report and a photocopy of the original certifying documentation of the newly installed radioactive material to the Competent Authority for filing and reference:
 1.the documents relating to the transport details; and
 2.method of processing the original radioactive material after the replacement.
 Paragraph 34.3
@@ -470,7 +471,7 @@ The facility operator may, within 60 to 30 days prior to the expiration of cease
   <條文>
     <條號>Article 36</條號>
     <條文內容><![CDATA[Paragraph 36.1
-In cases where an application is made to resume the use of the radioactive material or the equipment capable of producing ionizing radiation that has previously obtained the approval for cease of use, the procedure shall follow the stipulations in Article 18 or Article 23; however, an application for a permission for installation may be waived in the case of use that will occur in the location originally approved by the Competent Authority.
+In cases where an application is made to resume the use of the radioactive material or the equipment capable of producing ionizing radiation that has previously obtained the approval for cease of use, the procedure shall follow the stipulations in Article 18, Article 19, Article 23, Article 24 or Article 28; however, an application for a permission for installation may be waived in the case of use that will occur in the location originally approved by the Competent Authority.
 Paragraph 36.2
 If the reason for the approved cease of use referred to in Paragraph 36.1 is the lack of qualified operating personnel, the facility operator shall, when making an application for the resumption of use, fill out an application form, attach qualified operating personnel credentials, and make an application to the Competent Authority for review and approval, after which the permit for use will be issued or the registration will be approved.
 ]]></條文內容>
@@ -512,11 +513,13 @@ If the assignee referred to in Paragraph 39.1 is applying for possession, he/she
   <條文>
     <條號>Article 41</條號>
     <條文內容><![CDATA[Paragraph 41.1
-When a facility operator permanently ceases the use of unsealed radioactive material, he/she shall fill out an application form, enclose the following documents and make an application to the Competent Authority for review and approval, after which he/she shall complete the decontamination in accordance with the approved plan and request the Competent Authority to conduct an inspection:
+When a facility operator permanently ceases the use of unsealed radioactive material  workplace, he/she shall fill out an application form, enclose the following documents and make an application to the Competent Authority for review and approval, after which he/she shall process the decontamination in accordance with the approved plan:
 1.the original permit for use for those who have already said issued; and
 2.decontamination plan.
 Paragraph 41.2
 The decontamination plan referred to in Subparagraph 41.1.2 shall include decontamination schedule, decontamination method, disposition method for radioactive waste, division of the decontamination area and measures for personnel control.
+Paragraph 41.3
+Following completion of the decontamination process,the facility operator shall enclose a radiation workplace monitoring certificate,and request the Competent Authority to conduct an inspection.
 ]]></條文內容>
   </條文>
   <編章節>   Section V Application for Display or Lease Permits</編章節>
@@ -559,7 +562,7 @@ For the display referred to in Paragraph 44.1, the applicant shall enclose the f
     <條文內容><![CDATA[Paragraph 45.1
 Applicants who apply for a lease permission for radioactive material or equipment capable of producing ionizing radiation shall possess one of the following qualifications:
 1.government agency (or organization);
-2.university, college or academic research organization;
+ 2.university, college or academic research organization;
 3.company or other legal person;
 4.a medical institution, radiology center or medical laboratory;
 5.a veterinary medical institution; or
@@ -569,6 +572,8 @@ For the application for a lease referred to in Paragraph 45.1, the following cri
 1.the lessee or the borrower has qualified operating personnel or the personnel are supplied by the lessor or the lender;
 2.the applicant possesses an appropriate workplace or storage area; and
 3.radioactive material or equipment capable of producing ionizing radiation must be mobile, carried-in-a-cabinet, carried-on-a-car or the radioactive material used for calibration purposes.
+Paragraph 45.3
+In cases where the carried-on-a-car equipment capable of producing ionizing radiation referred to in Subparagraph 45.2.3 is for medical use, its application for a lease permission may be waived once announced by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -644,21 +649,22 @@ The report referred to in Paragraph 52.1 may be filed via the Internet.
   <條文>
     <條號>Article 54</條號>
     <條文內容><![CDATA[Paragraph 54.1
-If a facility operator uses or possesses a sealed radioactive material with a half-life of more than 30 days that itself is a beta or gamma emitting nuclide with an activity of exceeding 3.7 MBq or is an alpha emitting nuclide with an activity of exceeding 370 kBq, he/she shall conduct a sealed radioactive material smear test within the time period stipulated in Paragraph 54.3 and keep a record for filing and reference.
-Paragraph 54.2
-The following sealed radioactive material may be excepted from the smear test referred to in Paragraph 54.1:
+If a facility operator uses, ceases of use or possesses a sealed radioactive material, he/she shall conduct a sealed radioactive material smear test within the time period stipulated in Paragraph 54.3 and keep a record for filing and reference.However the following sealed radioactive material may be excepted from the smear test:
 1.sealed radioactive material that is contained in a liquid scintillation counter and used for calibration;
-2.sealed gaseous radioactive material; or
-3.other materials as designated by the Competent Authority.
+2.sealed gaseous radioactive material;
+3.sealed radioactive material with a half-life of not exceeding 30 days;
+4.beta- or gamma-emitting radioactive material with an activity of not exceeding 3.7 MBq;
+5.alpha-emitting radioactive material with an activity of not exceeding 370 kBq; and
+6.other materials as designated by the Competent Authority.
+Paragraph 54.2
+If the radioactive nuclide referred to in Paragraph 54.1 is radium,the smear test shall include a test for radon leakage.
 Paragraph 54.3
 Smear test reports of sealed radioactive material shall be made by the facility operator according to the times stipulated below:
 1.once every six (6) months for sealed radioactive material in teletherapy equipment and remote after-loading brachytherapy equipment;
 2.once a year for sealed radioactive material of other uses;
-3.once every three (3) years for americium-241 contained in toxic gas detectors; or
+3.once every three (3) years for americium-241 or nickel-63 contained in toxic gas detectors; or
 4.other actions announced by the Competent Authority shall be completed according to the stipulated times.
 Paragraph 54.4
-If the radioactive nuclide referred to in Paragraph 54.1 is radium,the smear test shall include a test for radon leakage.
-Paragraph 54.5
 If the smear test results referred to in Paragraph 54.1 exceed 185 Bq, the facility operator shall cease the uses immediately and report to the Competent Authority within seven (7) days.
 ]]></條文內容>
   </條文>
@@ -686,6 +692,8 @@ If the smear test results referred to in Paragraph 54.1 exceed 185 Bq, the facil
   <條文>
     <條號>Article 59</條號>
     <條文內容><![CDATA[The Regulations come into force upon the promulgation.
+
+(In case of any discrepancy between the Chinese version and the English translation, the Chinese version shall prevail.)
 ]]></條文內容>
   </條文>
 </法規內容>

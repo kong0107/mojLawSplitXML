@@ -3,7 +3,7 @@
 <英文法規名稱>Regulation on Business Entity Accounting Handling</英文法規名稱>
 <中文法規名稱>商業會計處理準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080010</法規網址>
-<最新英文異動日期>20141119</最新英文異動日期>
+<最新英文異動日期>20181210</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -11,21 +11,22 @@
 2.Amended and promulgated by Order Ching (62) Shang Tze No. 05694 on March 5, 1973.
 3.The entire 43 articles were amended and promulgated by Order Ching (85) Shang Tze No. 85213206 on August 28, 1996.
 4.Amended and promulgated by Order Ching (90) Shang Tze No. 0902188540 on September 12, 2000.
-5.Amended and promulgated by Order Ching (90) Shang Tze No. 09002269250 on December 26, 2001.
+5.Amended and promulgated by Order Ching (90) Shang Tze No. 09002269250 on December 26, 2001. 
 6.Article 34-1 was added by Order No. 09102054180 on April 17, 2002.
 7.Amended by Order No. 09502431220 on November 30, 2006.
-8.Amended by Order No. 10302430520 on November 19, 2014.]]></沿革內容>
+8.Amended by Order No. 10302430520 on November 19, 2014.
+9.Amended by Order No. 10702425960 on December 10, 2018.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provision</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This Regulation is be prescribed in accordance with Article 13 of the Business Entity Accounting Law (hereinafter referred to as the “Law”)
+    <條文內容><![CDATA[This Regulation is be prescribed in accordance with Article 13 of Business Entity Accounting Act (hereinafter referred to as the “Act”)
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The handling of business accounting affairs shall be in accordance with the provisions of the Law, regulation and all other relevant legal directives, when encountering legal obscurities, deal with the matter according to the generally accepted accounting principles.
+    <條文內容><![CDATA[The handling of business accounting affairs shall be in accordance with the provisions of the “Act”, this Regulation and all applicable legal directives. Matters not provided herein shall be subject to Generally Accepted Accounting Principles. However, starting the beginning of 2018 fiscal year, a company, except when it has control or significant influence over, or a joint venture interest in, an invested company, in which case it shall value the long-term equity investment using the equity method, may prepare financial statements voluntarily pursuant to provisions in Articles 3, 9 through 14, 16, 18, 24-1 through 26 and 28 of “Regulations Governing the Preparation of Financial Reports by Securities Issuers” promulgated by Financial Supervisory Commission, and shall be exempted from restrictions under this Regulation.
 ]]></條文內容>
   </條文>
   <條文>
@@ -164,16 +165,16 @@ Long-term investments that are provided as lien or subject to restrictions, limi
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[Investment property is property held by the owner or by the lessee under a finance lease to earn rentals or for capital appreciation or both.
-Initial recognition of Investment property shall be recognized at cost, measurement after recognition shall be carried at its cost less accumulated depreciation and accumulated impairment losses. However, in event of stipulation provided by the other competent authority, a business entity which prepares the consolidated financial reports in accordance with it's parent company does not have to apply the rule mentioned above.
+    <條文內容><![CDATA[Investment property shall mean property held by the owner or by the lessee under a finance lease to earn rentals or for capital appreciation or both.
+Initial recognition of Investment properties shall be recognized at cost, and subsequent measurement shall be presented at a carrying amount of costs subtracted by accumulated depreciation and accumulated impairment losses.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[Property, plant and equipment are tangible items which are defined as held for use in the production or supply of goods or services, for rental to others, or for administrative purposes and expected to be used during more than one period, include land, buildings, machinery and equipment, shipping equipment and office equipment.
-Property, plant and equipment shall be recognized at its initial and subsequent cost when purchase or construction. The initial cost comprises its purchase price, any costs directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner and the initial estimate of the costs of dismantling, removing and restoring the assets in the future. The subsequent cost comprises its addition cost, partial replacement cost, and repair cost.
-Property, plant and equipment shall be carried at its cost less any accumulated depreciation and any accumulated impairment losses.
-The financial statements shall also disclose the existence and amounts of restrictions on title, and property, plant and equipment pledged as security for liabilities.
+    <條文內容><![CDATA[Property, plant and equipment shall mean tangible asset items held to be in the use of production or provision of commodities, agricultural produce or services, as rental to tenants or for administrative purposes, and to be with expected useful life longer than one year, and the accounting items of which shall include land, buildings, machineries, transportation equipment, office equipment and bearer plants.
+Property, plant and equipment shall be recognized at its original and subsequent costs at the time of acquisition or construction. Original cost shall include the purchase price, any costs incurred directly attributable to bringing the asset to the site and working condition for its intended use and estimated cost of dismantling and removing the asset and restoring the site in the future. Subsequent costs shall include the cost of enhancements, partial redevelopment or maintenance.
+Property, plant and equipment shall be presented at a carrying amount of costs subtracted by accumulated depreciation and accumulated impairment losses.
+The fact, if any, that property, plant and equipment being provided as security, pledged, or otherwise subject to any restriction or limitation shall be disclosed in financial statements together with the amounts involved.
 ]]></條文內容>
   </條文>
   <條文>
@@ -184,8 +185,8 @@ Mineral resources shall be recognized according to the exact cost of acquisition
   </條文>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[Biological assets are living animals or plants and related to agricultural activity.
-Biological assets shall be divided into current and non-current according to the liquidity, and measured by fair value less costs to sell. But fair value is not readily determinable without undue cost or effort, may be carried at its cost less accumulated depreciation and accumulated impairment losses.
+    <條文內容><![CDATA[Biological assets shall mean living animals or plants related to agricultural activities. However, bearer plants shall be classified into property, plant and equipment.
+Biological assets shall be divided as current and non-current based on liquidity and measured by fair value less costs to sell. However, in the event that fair value is not readily determined without undue cost or effort, biological assets may be presented at carrying amounts of costs subtracted by accumulated depreciation and accumulated impairment losses.
 ]]></條文內容>
   </條文>
   <條文>
@@ -194,7 +195,7 @@ Biological assets shall be divided into current and non-current according to the
 1.Intangible Assets other than Goodwill: defined as assets have meet identifiability, controlled by the business entity, and future economic benefits. Including trademarks, patents, copyrights, and computer software, etc.
 2.Goodwill: defined as the goodwill is unidentifiable and not separately recognized future economic benefits of intangible assets that acquired in a business combination.
 Intangible assets with economic benefit clearly shall be reasonably and systemically amortized over the years. Goodwill and intangible assets without economic benefit clearly shall be reasonably and systemically amortized or tested for impairment annually.
-Research expenditures and development expenditures, with the exception of commissioned research where the costs can be totally recovered according to contract, must be recognized incurred profit or loss. However, development expenditure qualify for recognition as assets, may recognized as intangible assets.
+Research expenditures and development expenditures, with the exception of commissioned research where the costs can be totally recovered according to contract, must be  recognized incurred profit or loss. However, development expenditure qualify for recognition as assets, may recognized as intangible assets.
 Intangible assets shall be carried at its cost less accumulated amortization and accumulated impairment losses. Amortization period and method of intangible assets shall be disclosed.
 ]]></條文內容>
   </條文>
@@ -222,7 +223,7 @@ Current liabilities include the following account items:
 1.Short-term borrowings: defined as the sum of money that is borrowed or is an overdraft from a financial institution or another party.
 (1)Shall be specified by type or nature, guarantee situation and interest rate range of the borrowings, and, if collateral is disclosed, the name and carrying amount of the collateral.
 (2)Borrowings from financial institutions, owners, employees, related persons, and other persons or institutions shall be separately disclosed.
-2.Short-term bills payable: defined as the short-term notes and bills issued through a commissioned financial institution for the purpose of obtaining funds from the money market, including commercial paper payable and bank acceptances, etc. Short-term bills payable shall be specified for the guarantee, institution of acceptance, interest rate, and if collateral is disclosed, the name and carrying amount of the collateral.
+2.Short-term bills payable: defined as the short-term notes and bills issued through a commissioned financial institution for the purpose of obtaining funds from the money market, including commercial paper payable and bank acceptances, etc.Short-term bills payable shall be specified for the guarantee, institution of acceptance, interest rate, and if collateral is disclosed, the name and carrying amount of the collateral.
 3.Financial liabilities at fair value through profit or loss-current: defined as when held for trading or is specified initial recognition of financial liabilities measured at fair value through profit or loss.
 4.Derivative financial liabilities for hedging-current: defined by hedge accounting and be an effective hedging instrument of derivative financial liabilities shall be measured by fair value.
 5.Financial liabilities measured at cost-current: defined as with the unlisted equity tools of the link and delivery settled derivatives such equity tools, financial liabilities whose fair value cannot be measured reliably.
@@ -296,7 +297,7 @@ The appropriation of retained earnings (or the offsetting of deficit) shall only
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[Treasury shares: defined as the shares once issued, later reacquired and still not resold or cancelled by the company. Treasury shares shall be accounted for using the cost method and presented as a deduction from equity. The number of shares shall be noted.
+    <條文內容><![CDATA[Treasury shares: defined as the shares once issued, later reacquired and still not resold or cancelled by the company.Treasury shares shall be accounted for using the cost method and presented as a deduction from equity. The number of shares shall be noted.
 ]]></條文內容>
   </條文>
   <條文>
@@ -400,7 +401,8 @@ Interest revenues and expenses shall be presented separately. Gains (losses) on 
   <編章節>   Chapter 5 Appendix</編章節>
   <條文>
     <條號>Article 45</條號>
-    <條文內容><![CDATA[This regulation shall be effective from January 1, 2016. But a business entity may voluntarily adopt these regulations since January 1, 2014.
+    <條文內容><![CDATA[This regulation shall be enforced from January 1, 2016. However, a business entity may voluntarily adopt the Regulation starting January 1, 2014.
+Except that Article 2 and Article 17 have been enforced starting January 1, 2018, amendments to the Regulation on December 10, 2018, shall be enforced starting January 1, 2019.
 ]]></條文內容>
   </條文>
 </法規內容>
