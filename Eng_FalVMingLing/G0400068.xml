@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Auditing and Attestation of Financial Statements by Certified Public Accountants</英文法規名稱>
 <中文法規名稱>會計師查核簽證財務報表規則（91.11.08訂定）</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400068</法規網址>
-<最新英文異動日期>20140813</最新英文異動日期>
+<最新英文異動日期>20190124</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -14,6 +14,7 @@
 5. Articles 2-1, 6, 12, 15, 17, 19, 20, 27, and 29 amended and issued, Articles 18-2 and 28-1 added, and Article 11 deleted, per 17 August 2012 Order No. Financial-Supervisory-Securities-Auditing-1010035642 of the Financial Supervisory Commission; for enforcement from the fiscal year 2013
 6. Articles 2-1, 8, 14, 20, 28-1, and 29 amended and issued per 30 December 2013 Order No. Financial-Supervisory-Securities-Auditing-1020052649 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 8, which shall enter into force from the fiscal year 2015, and Article 20, which shall enter into force from the fiscal year 2014 
 7. Articles 20 and 29 amended and Articles 20-1 and 20-2 added per 13 August 2014 Order No. Financial-Supervisory-Securities-Auditing-1030029286 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 20, paragraph 3, subparagraphs 8 and 13, which shall enter into force from fiscal year 2015
+8. Articles 5, 7, 9, 12-1, 18-1, 18-2, 20, 21, 27, and 29 amended and issued and Article 28-1 deleted per 24 January 2019 Order No. Financial-Supervisory-Securities-Auditing-1080300718 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exceptions of Article 20, paragraph 1, subparagraph 9 (the preamble and items 4 to 6, 11, and 14) and subparagraph 14, which shall enter into force from 1 July 2019
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -55,7 +56,6 @@ For the purposes of these Regulations, the term "major subsidiary" means any sub
     <條號>Article 5</條號>
     <條文內容><![CDATA[CPAs and those assistants who help CPAs carry out audit and attestation work (hereinafter collectively referred to as "auditors") shall expand their professional knowledge and practical experience and shall adhere to a code of professional ethics.
 CPAs shall pursue continuing professional development and shall see to it that their assistants pursue continuing development.
-Regulations for CPA continuing professional development referred to in the preceding paragraph, and any amendments thereto, shall be prepared by the National Federation of Certified Public Accounts Associations of the R.O.C. and submitted to the competent authority for adoption and issuance.
 ]]></條文內容>
   </條文>
   <條文>
@@ -65,7 +65,7 @@ Regulations for CPA continuing professional development referred to in the prece
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[When initially engaged to audit financial statements, a CPA shall, for its audits on opening balances, perform necessary audit procedures and issue an appropriate audit opinion in accordance with Statement of Auditing Standards No. 21.
+    <條文內容><![CDATA[When initially engaged to audit financial statements, a CPA shall, for its audits on opening balances, perform necessary audit procedures and issue an appropriate audit opinion in accordance with Statement of Auditing Standards No. 63.
 ]]></條文內容>
   </條文>
   <條文>
@@ -75,7 +75,7 @@ Regulations for CPA continuing professional development referred to in the prece
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[When using the report of an expert as audit evidence, a CPA shall do so in accordance with Statement of Auditing Standards No. 20 and carefully evaluate the reliability of the expert's opinion.
+    <條文內容><![CDATA[When using the report of an expert as audit evidence, a CPA shall do so in accordance with Statement of Auditing Standards No. 20 and carefully evaluate the reasonableness and appropriateness of the data, assumptions, and methods used in the expert's report and of the findings reached in the report.
 ]]></條文內容>
   </條文>
   <條文>
@@ -96,7 +96,7 @@ If the audited entity is a public company, the CPA shall assess whether the audi
   </條文>
   <條文>
     <條號>Article 12-1</條號>
-    <條文內容><![CDATA[A CPA shall communicate with those charged with governance of an audited entity in accordance with Statement of Auditing Standards No. 39, and if there is an audit committee, must document in the working papers the time, committee member(s), content, and results with respect to the communication with the audit committee.
+    <條文內容><![CDATA[A CPA shall communicate with those charged with governance of an audited entity in accordance with Statement of Auditing Standards No. 62, and if there is an audit committee, must document in the working papers the time, committee member(s), content, and results with respect to the communication with the audit committee.
 ]]></條文內容>
   </條文>
   <條文>
@@ -138,13 +138,12 @@ If an audited entity processes its accounting data electronically, the CPA may s
   </條文>
   <條文>
     <條號>Article 18-1</條號>
-    <條文內容><![CDATA[When performing an audit of the material assets, liabilities, and specific components of equity that require presentation or disclosure at fair value in financial statements, a CPA shall do so in accordance with Statement of Auditing Standards No. 42.
+    <條文內容><![CDATA[When performing an audit, a CPA shall evaluate the reasonableness and appropriateness of the accounting estimates recognized or disclosed in the financial statements (including fair value accounting estimates) in accordance with Statement of Auditing Standards No. 56.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18-2</條號>
-    <條文內容><![CDATA[When engaged to perform an audit of the audited entity's financial reports related to accounting estimates, a CPA shall comply with the Statement of Auditing Standards No. 22.
-If the audited entity changes an accounting policy, the auditor shall ascertain on an item-by-item basis whether an analysis of reasonableness, and specific evidence, have been provided for matters including pre-change analysis, estimation of the quantitative effect, and peer comparison. If the audited entity has any change in any matter among accounting estimates in relation to a change in the useful life or the depreciation or depletion method of depreciable or depletable assets, a change in the amortization period or amortization method of intangible assets, or a change in the residual value of any such assets, the CPA also shall comply with the provisions specified above.
+    <條文內容><![CDATA[If the audited entity changes an accounting policy, the auditor shall ascertain on an item-by-item basis whether an analysis of reasonableness, and specific evidence, have been provided for matters including pre-change analysis, estimation of the quantitative effect, and peer comparison. If the audited entity has any change in any matter among accounting estimates in relation to a change in the useful life or the depreciation or depletion method of depreciable or depletable assets, a change in the amortization period or amortization method of intangible assets, or a change in the residual value of any such assets, the CPA also shall comply with the provisions specified above.
 If the audited entity changes to any new accounting policy, the CPA shall ascertain whether it has applied the change retrospectively; if it is impracticable, the CPA shall ascertain whether it complies with International Accounting Standards 8.
 ]]></條文內容>
   </條文>
@@ -160,7 +159,7 @@ If the audited entity changes to any new accounting policy, the CPA shall ascert
 A.Evaluate the system of internal controls over cash, perform a test count of cash on hand, and, if the date of counting does not fall on the balance sheet date, make reconciliation to see whether the figure agrees.
 B.With respect to cash on hand and petty cash, ascertain the existence of any non-cash items, such as employee IOUs, uncashed checks, and unreimbursed vouchers, and make appropriate adjustment if necessary.
 C.Ascertain expenses reported and reimbursements made through petty cash and revolving funds, determine the remaining balances of each, check unreimbursed vouchers, and make necessary adjustments.
-D.Check the amounts on bank statements against those in the ledger, and send a written confirmation request to the bank. If there is any discrepancy, obtain a bank reconciliation statement prepared by the audited entity and perform a test audit of the reconciliation items.
+D.Check the amounts on bank statements against those in the ledger. If there is any discrepancy, obtain a bank reconciliation statement prepared by the audited entity and perform a test audit of the reconciliation items, and send a written confirmation request to the bank in accordance with Statement of Auditing Standards No 69.
 E.Perform a test audit of stubs from cash receipt books and check stubs and verify against cash book entries. Take note of whether any check has been issued for use by other parties or affiliated enterprises without being recorded on the books, and if so, make an adjusting entry or footnote disclosure.
 F.Ascertain whether bank deposits designated for specific purposes or otherwise restricted have been reported in a footnote or reclassified to an appropriate account.
 G.Perform an inventory count of certificates of deposit and audit the estimation and recording of the interest receivable, and for those on deposit with others, assess the reason(s) and check the custody receipt.
@@ -171,65 +170,63 @@ K.Perform a test audit of the supporting source documents for large inflows and 
 L.Select two time periods, one before and one after the balance sheet date, and check all supporting source documents for material cash transactions and interbank funds transfer transactions during each period, to ensure that there has been a proper cut-off of cash items.
 M.If there are any foreign currency deposits, ascertain whether such deposits have been adjusted to the spot exchange rate at the balance sheet date.
 N.If there are any cash equivalents, the audit procedures related to financial assets, as described in subparagraph 2, shall apply mutatis mutandis, and the appropriateness of their classification shall be ascertained.
-2.Financial assets, including, among others, those measured at fair value through profit or loss, those available for sale, those held to maturity, hedging derivatives, those measured at cost, and bond investments for which no active market exists (hereinafter collectively referred to as "financial assets"):
+2.Financial assets, including, among others, financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, and financial assets for hedging (hereinafter collectively referred to as "financial assets"):
 A.Assess the system of internal controls over such matters, and check the transaction records and all supporting source documents, to verify the reliability of the classification, calculation, and recording.
 B.Review minutes of the meetings of the board of directors or any other units specifically responsible for such matters, and ascertain the adequacy of the authorization of transactions and the existence of any unrecorded transactions.
 C.Obtain and review relevant contracts and documentation, to verify the appropriateness of the accounting treatment.
 D.Conduct an on-site inventory of securities on hand jointly with the custodian or check the central securities deposit passbook, and check the amount against account book entries, to verify ownership and liquidity, and for those on deposit with others, assess the reason(s) and check the custody receipt.
 E.With respect to securities provided as security or pledged as loan collateral, send a written confirmation request or otherwise check the custody receipt, and ascertain whether the established operating procedures for endorsements/guarantees have been complied with.
 F.Ascertain whether the reclassification and accounting treatment are appropriate.
-G.Ascertain whether the audited entity has evaluated financial assets for possible impairment on the balance sheet date, and evaluate the appropriateness of the estimation of the recoverable amount of such an asset, and of the corresponding accounting treatment, by the audited entity.
+G.Ascertain whether the recognition, measurement, and presentation and disclosure in the financial statements, of the amounts of expected credit losses are appropriate.
 H.For financial assets that are material in amount or whose underlying investments are unusual in nature, acquire an understanding of the nature of the transactions, whether any irregularities have been involved, and whether they have been appropriately treated.
 I.If any item is identified as having been used to secure an obligation or for any other purpose, ascertain whether the fact has been reported in a footnote or the item has been reclassified to an appropriate account.
 J.Ascertain whether dividends or interest income have been properly recorded.
 K.Ascertain whether financial assets have been adequately presented and disclosed (in terms of measurement, classification, and furnishing of required information) in the financial statements and footnotes, and whether they are identified as either current or non-current depending on their liquidity.
 L.Ascertain whether financial assets that are denominated in a foreign currency have been adjusted to reflect the foreign exchange rate required by generally accepted accounting principles and whether they have been properly accounted for.
-M.Ascertain whether financial assets designated as measured at fair value through profit or loss and whether hedging instruments meet the conditions set out in applicable requirements.
+M.Ascertain whether financial assets designated as measured at fair value through profit or loss and financial assets designated as measured at fair value through other comprehensive income meet the conditions set out in applicable requirements.
 N.Ascertain whether the accounting basis and ending valuation are appropriate.
-O.Audit derivative financial assets by the following procedure:
+O.Ascertain whether the accounting treatment of hedging is appropriate.
+P.Audit derivative financial assets by the following procedure:
 a.Acquire an understanding of whether any of the audited entity's assets, liabilities, firm commitments, and forecast transactions is significantly exposed to any risk associated with fair value, cash flow, or net investment in a foreign operation; review or inquire about relevant supporting source documents, such as balance statements for trading margins, premiums, bank fees, service fees, and professional service fees, to find out the existence of any unrecorded derivative transactions.
 b.Obtain trading summaries of derivative financial instruments prepared by the audited entity and relevant memorandum entries, inquire of those senior executives and internal auditors authorized by the board of directors of the audited entity, and obtain written records, to acquire knowledge of any irregularity in the derivative transactions by the audited entity.
 c.Analyze any increase or decrease in derivative transactions in relation to the prior period, and, if a significant change or irregularity exists, analyze the reason and reasonableness.
 d.Send written confirmation requests to the banks, securities firms, futures commission merchants, and major trading counterparties.
-e.Ascertain the requirement for separate recognition of embedded derivatives and their host contracts, and whether they have been appropriately accounted for.
-f.Ascertain whether derivatives accounted for using hedge accounting meet the applicable requirements.
-3.Notes receivable, accounts receivable, and operating revenues:
-A.Evaluate the system of internal controls over operating revenues, and check the transaction records and all supporting source documents, to verify whether revenue records are reliable, and also incorporate in the audit sample any new sales customer from during the present period that is a related party and that has entered into any transaction of a material amount with the audited entity, or any sales customer newly listed during the present period as one of the top ten sales customers, to identify whether any irregularity exists in the transactions.
-B.Conduct a comparative analysis against the amounts from the prior period, and also compare the growth rate of accounts receivable and notes receivable against that of operating revenues in the same period, to determine whether the trend of the changes has been reasonable. If there has been any material change, ascertain and analyze the cause.
+e.If embedded derivatives and their host contracts are recognized separately, ascertain whether such separate recognition complies with applicable requirements.
+3.Contract assets, notes receivable, accounts receivable, and operating revenues:
+A.Evaluate the system of internal controls over operating revenues, and check the transaction records and all supporting source documents, to verify whether revenue records are reliable, and also incorporate in the audit sample any new sales customer from during the present period that is a related party and that has entered into any transaction of a material amount with the audited entity, or any sales customer newly listed during the present period as one of the top ten sales customers, and ascertain the nature and reasonableness of the transactions with any sales customer newly listed during the present period as one of the top ten sales customers, and whether the customer has any connection to any supplier newly listed during the present period as one of the top ten suppliers, to identify whether any irregularity exists in the transactions. If any significant deficiency in internal control of the audited entity is found, ascertain the cause of the deficiency and the reasonableness thereof, and determine whether any extra audit procedures need to be performed.
+B.Conduct a comparative analysis against the amounts from the prior period, and also compare the growth rate of contract assets, accounts receivable, and notes receivable against that of operating revenues in the same period, to determine whether the trend of the changes has been reasonable. If there has been any material change, ascertain and analyze the cause.
 C.If the audited entity has engaged in consignment sales, distribution services, or any other special type of sales, ascertain whether the accounting records agree with the information from the underlying contractual agreements.
-D.Ascertain the appropriateness of the recording of principal operating revenues and their classification, and verify whether operating revenues have been recognized in accordance with applicable requirements.
-E.Send written confirmation requests to debtors selected on a random basis.
+D.Ascertain whether revenues have been appropriately recognized, measured, presented, and disclosed. If the entity recognizes revenue on a gross basis, ascertain whether revenue has been recognized in accordance with applicable requirements.
+E.Send written confirmation requests to debtors in accordance with Statement of Auditing Standards No. 69.
 F.For any note receivable pledged as security, send a written confirmation request to the pledgee, and ascertain whether the fact has been reported in a footnote.
 G.Ascertain whether material accounts receivable have been offset against the same parties to which the sales were made, and if any of them is not, assess the reason and reasonableness.
 H.Jointly conduct an inventory of notes on hand, and if any notes on hand are held by a third party or have been delivered to a bank for collection, send a written confirmation request to the holder or audit the supporting documents for such bank collection. If the inventory date is not the balance sheet date, reconcile the difference.
 I.If it is found that a note has been exchanged with another party, it shall be reported in a footnote or reclassified to an appropriate account.
 J.Obtain an aging schedule and perform an aged analysis of accounts receivable, ascertain the collection of notes and accounts receivable during the subsequent period, and, if any such item remains uncollected after the due date, ascertain whether they have been appropriately treated.
-K.Ascertain whether allowance for bad debts has been set aside in the appropriate manner and amount; if past-due accounts receivable or notes receivable account for a significant portion of any given account, ascertain the cause and reasonableness and evaluate the adequacy of the recorded allowance for bad debts.
-L.Ascertain whether appropriate treatment has been given with respect to notes or accounts receivable under dispute or litigation.
-M.Ascertain whether bad debts have been properly written off.
-N.Ascertain whether there is any note or account receivable due from a related party or investee company that exceeds the normal loan term and that is required to be reclassified under "other receivables," and if so, ascertain the reason(s) and whether any irregularities have been involved.
-O.Select two time periods, one before and one after the balance sheet date, and check all supporting source documents for each period, to ensure that there has been a proper cut-off of sales transactions and sales returns.
-P.Ascertain whether there have been any material sales returns or allowances in the current period and the subsequent period, and, if so, inquire about the reason and find out whether they have been adequately presented.
-Q.If it is found that a note or account receivable has arisen from a non-operating activity, ascertain whether it has been reclassified to an appropriate account.
-R.Ascertain whether notes and accounts receivable are presented in such a manner as to distinguish between current and non-current items, and ascertain whether they have been measured at amortized cost using the effective interest method. However, short-term notes and accounts receivable with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
-S.Ascertain whether any internal profit from internal transfer pricing has been offset.
-T.Ascertain whether the interest income and interest receivable arising from interest-bearing notes receivable have been recorded.
-U.For discounted or transferred notes receivable, if any, check the discount or transfer records, review relevant contracts, inspect supporting documentation, send a written confirmation request, and ascertain whether derecognition criteria have been met, whether the disclosure has been made in accordance with applicable requirements, and whether proper accounting treatment has been given.
-V.In the case of discounted or transferred accounts receivable, proceed in accordance with the preceding item.
-W.If there are any notes or accounts receivable denominated in a foreign currency, ascertain whether they have been adjusted to the spot exchange rate at the balance sheet date.
-X.Ascertain whether notes and accounts receivable arising from transactions with related parties have been adequately presented.
+K.Ascertain the appropriateness of the recognition, measurement, and write-off of loss allowance. If past-due accounts receivable or notes receivable account for a significant portion of any given account, ascertain the cause and reasonableness and evaluate the adequacy of the loss allowance.
+L.Ascertain whether appropriate treatment has been given with respect to contract assets, notes receivable, or accounts receivable under dispute or litigation.
+M.Ascertain whether there is any note or account receivable due from a related party or investee company that exceeds the normal loan term and that is required to be reclassified under "other receivables," and if so, ascertain the reason(s) and whether any irregularities have been involved.
+N.Select two time periods, one before and one after the balance sheet date, and check all supporting source documents for each period, to ensure that there has been a proper cut-off of sales transactions and sales returns.
+O.Ascertain whether there have been any material sales returns or allowances in the current period and the subsequent period, and, if so, inquire about the reason and find out whether they have been adequately presented.
+P.If it is found that a note or account receivable has arisen from a non-operating activity, ascertain whether it has been reclassified to an appropriate account.
+Q.Ascertain whether contract assets, notes receivable, and accounts receivable are presented in such a manner as to distinguish between current and non-current items, and ascertain whether they are measured by an appropriate method. However, short-term notes and accounts receivable with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+R.Ascertain whether any internal profit from internal transfer pricing has been offset.
+S.Ascertain whether the interest income and interest receivable arising from interest-bearing notes receivable have been recorded.
+T.For discounted or transferred notes receivable or accounts receivable, if any, check the discount or transfer records, review relevant contracts, inspect supporting documentation, send a written confirmation request, and ascertain whether the degree of retention of risks and rewards and of control meet the criteria for derecognition, whether the disclosure has been made in accordance with applicable requirements, and whether proper accounting treatment has been given.
+U.If there are any contract assets, notes receivable, or accounts receivable denominated in a foreign currency, ascertain whether they have been adjusted to the spot exchange rate at the balance sheet date.
+V.Ascertain whether contract assets, notes receivable, and accounts receivable arising from transactions with related parties have been adequately presented.
 4.Other receivables:
 A.Note the nature of each line item under "other receivables" and, for those not constituting current assets, ascertain whether they have been reclassified to an appropriate account.
 B.With respect those that are material in amount or unusual in nature, send written confirmation requests and ascertain the status of collections during the subsequent period; no written confirmation is required, however, if "other receivables" have been collected in full by the end of the subsequent period and the supporting source documents have been inspected and other alternative audit procedures have been performed.
 C.With respect to those that are in the nature of financing, ascertain whether such an item complies with the statutory provisions as well as the established operating procedures, and whether the content of the financing has been adequately disclosed in the financial statements.
-D.Ascertain whether the amount provided as allowance for bad debts is reasonable.
+D.Ascertain the appropriateness of the recognition, measurement, and write-off of loss allowance.
 E.Ascertain whether "other receivables" that are material in amount have been separately presented.
 F.Ascertain whether "other receivables" that are denominated in a foreign currency have been adjusted to the spot exchange rate at the balance sheet date.
 5.Inventories and operating overhead:
-A.Evaluate the system of internal controls over operating overhead, and check the transaction records and all supporting source documents, to verify the reliability of the classification, calculation, and recording of operating overhead.
+A.Evaluate the system of internal controls over operating overhead, and check the transaction records and all supporting source documents, to verify the reliability of the classification, calculation, and recording of operating overhead, and also incorporate in the audit sample any new supplier from during the present period that is a related party and that has entered into any transaction of a material amount with the audited entity, or any supplier newly listed during the present period as one of the top ten suppliers, and ascertain the nature and reasonableness of the transactions with any supplier newly listed during the present period as one of the top ten suppliers, and whether the supplier has any connection to any sales customer newly listed during the present period as one of the top ten sales customers, to identify whether any irregularity exists in the transactions. If any significant deficiency in internal control of the audited entity is found, ascertain the cause of the deficiency and the reasonableness thereof, and determine whether any extra audit procedures need to be performed.
 B.Conduct a comparative analysis against the amounts from the prior period to determine whether the trend of the change has been reasonable. If there has been any material change, ascertain and analyze the cause.
 C.Ascertain the accounting basis and calculation method with respect to inventories, check whether they are consistent with those used in the prior period, and, for any change therein, ascertain the reasonableness thereof and whether appropriate treatment has been given.
-D.Observe the on-site counting of inventories by the audited entity's personnel, and, with respect to the observation of the inventory counting, perform necessary audit procedures in accordance with Statement of Auditing Standards No. 9.
+D.Perform the audit procedures relating to attendance at physical inventory counting of the audited entity in accordance with Statement of Auditing Standards No. 70.
 E.Check physical inventory counts and results of inventory testing against the inventory list and book entries. If the book quantity of an inventory is materially at variance with the actual quantity counted during the on-site inventory, ascertain the reason.
 F.While the on-site inventory is being conducted, if there are items being sold on consignment or held for other parties, verify that they have been separately stored and labeled, and obtain the specifications, quantities, and other relevant information, to ensure that they are not included in the inventory of the audited entity.
 G.Select two time periods, one before and one after the balance sheet date, and check all supporting source documents for each period, to ensure that there has been a proper cut-off of operating overhead.
@@ -256,7 +253,7 @@ F.In the case of interests in joint ventures, and investment that confers materi
 G.In the case of any change in shareholding in an investment in a subsidiary or an investment accounted for using the equity method, ascertain the appropriateness of the accounting treatment.
 H.Ascertain the appropriateness of the accounting treatment of those classified as disposal groups held for sale.
 I.When ascertaining the share of recognized profit or loss of subsidiaries and investment accounted for using the equity method, the CPA should identify any material events in the financial statements of major subsidiaries and ascertain how they affect the audited entity's financial statements, and for associates that have been determined, pursuant to Statement of Auditing Standards No. 51, to have a material effect on the fair presentation of the financial reports of the audited entity, the CPA shall ascertain whether the financial reports of the associate comply with these Regulations and the Statements of Auditing Standards.
-J.Ascertain whether any unrealized profit or loss with respect to an affiliated company has been written off.
+J.Ascertain whether any unrealized profit or loss among the group entities has been written off.
 K.Ascertain whether the difference between the cost of an investment accounted for using the equity method and the net equity value has been amortized or offset as required.
 L.Ascertain whether there is any indication that an investment accounted for using the equity method of the audited entity may be impaired and the appropriateness of the impairment test performed by the audited entity and of the corresponding accounting treatment.
 M.Acquire an understanding of whether there is mutual investment between the audited entity and any subsidiary or associate, and if so, whether it complies with the provisions of the Company Act and whether it has been adequately disclosed in the financial statements. In the case of a subsidiary holding shares in its parent, acquire an understanding of whether it has been handled in accordance with applicable requirements.
@@ -264,18 +261,18 @@ N.Ascertain whether dividends from investments accounted for using the equity me
 O.Ascertain whether all subsidiaries or associates are going concerns, and if any of them is not, whether proper adjustment or footnote disclosure has been made.
 P.Ascertain whether the financial reports of associates and the audited entity are prepared as of the same date. If there is a difference in date, ascertain whether adjustments have been made for the effects of significant transactions or events occurring between the date of the associate's financial reports and the date of the audited entity's financial reports; and ascertain whether there is any difference of greater than 3 months between the balance sheet dates of associates and that of the audited entity.
 Q.Ascertain whether subsidiaries or associates use the same accounting policies as the audited entity for similar transactions and events under similar circumstances. If there is any difference in accounting policies, ascertain whether adjustments have been made.
-9.Property, plant and equipment, investment property, intangible assets, and biological assets:
+9.Property, plant and equipment, right-of-use assets, investment property, intangible assets, and biological assets:
 A.Ascertain whether the title to property, plant and equipment is held by the audited entity, and when necessary, observe the on-site inventory or conduct a joint on-site inventory of representative property, plant and equipment. If due to statutory restrictions the title to any such asset is not registered under the name of the audited entity for the time being, ascertain whether any safeguards are in place and whether a proper explanation has been provided in a footnote.
 B.Ascertain whether there is any property, plant and equipment that is not intended for use in the operation of the business. If there is, reclassify it to an appropriate account, in keeping with its character.
 C.Ascertain whether any property, plant and equipment or investment property has been provided as security, pledged, or otherwise subject to any restriction, and, if so, whether the fact has been reported in a footnote.
-D.Ascertain whether the basis used in accounting for property, plant and equipment, investment property, and intangible assets is appropriate.
-E.Ascertain whether property, plant and equipment, investment property, and intangible assets have been depreciated, depleted, or amortized in a rational and systematic manner in accordance with current statutory requirements, and that each component of property, plant and equipment that is material has been depreciated separately, and ascertain the appropriateness of the amounts. For the book value of any portions that have been replaced or substituted, ascertain whether it has been derecognized.
-F.Regularly examine whether capitalization policies and depreciation, depletion, and amortization methods, periods, and residual values applied to property, plant and equipment, investment property, and intangible assets are consistent with those of the prior period and reflect their economic substance. If a change has been made, ascertain the reasonableness, the appropriateness of the accounting treatment, and whether the method accords with the nature of the change, i.e. change in accounting principle or change in accounting estimate, as the case may be. If an impairment loss is recognized or reversed, ascertain whether a depreciation or depletion expense has been calculated based on the amount after the recognition or reversal of the impairment loss.
+D.Ascertain whether the basis used in accounting for property, plant and equipment, right-of-use assets, investment property, and intangible assets is appropriate.
+E.Ascertain whether property, plant and equipment, right-of-use assets, investment property, and intangible assets have been depreciated, depleted, or amortized in a rational and systematic manner in accordance with current statutory requirements, and that each component of property, plant and equipment that is material has been depreciated separately, and ascertain the appropriateness of the amounts. For the book value of any portions that have been replaced or substituted, ascertain whether it has been derecognized.
+F.Regularly examine whether capitalization policies and depreciation, depletion, and amortization methods, periods, and residual values applied to property, plant and equipment, right-of-use assets, investment property, and intangible assets are consistent with those of the prior period and reflect their economic substance. If a change has been made, ascertain the reasonableness, the appropriateness of the accounting treatment, and whether the method accords with the nature of the change, i.e. change in accounting principle or change in accounting estimate, as the case may be. If an impairment loss is recognized or reversed, ascertain whether a depreciation or depletion expense has been calculated based on the amount after the recognition or reversal of the impairment loss.
 G.If any property, plant and equipment, or investment property meets the definition of assets held for sale, ascertain whether it has been appropriately reclassified.
 H.Ascertain all expenditures in connection with property, plant and equipment, and investment property for the current period, to determine whether such items are capital expenditures or expense expenditures, and ascertain whether they have been given proper accounting treatment.
 I.Ascertain whether proper accounting treatment has been given to capitalization of borrowing costs with respect to property, plant and equipment and investment property currently in the process of acquisition or construction.
 J.Ascertain the reasonableness of any material change in prepayments for land or equipment.
-K.Ascertain any increase or decrease in property, plant and equipment, investment property, and intangible assets in the current period, and whether it has been given proper accounting treatment. Also, audit the following additional matters with respect to investment property:
+K.Ascertain any increase or decrease in property, plant and equipment, right-of-use assets, investment property, and intangible assets in the current period, and whether it has been given proper accounting treatment. Also, audit the following additional matters with respect to investment property:
 a.Ascertain whether the fair value model or the cost model was chosen as the accounting policy for the subsequent measurement of investment property, and apply the chosen accounting policy to all investment property items.
 b.When investment property was subsequently measured using the fair value model, obtain the appraisal report if outsourced appraisal was adopted, or, if internal appraisal was adopted, obtain the information relating to the internal control system applicable to the appraisal procedures, and if the report was reviewed by another CPA, obtain the CPA's review opinion on the reasonableness or validity, to ascertain whether the manner in which the appraisal was conducted, the appraisal method, and the definition of each parameter conform to the requirements.
 c.Ascertain the reasonableness and appropriateness of the recognized amount if material difference exists between the appraisal results shown in the appraisal reports issued by professional appraisers of two or more appraising offices, or if there is any disagreement between a review opinion issued by any other CPA and the appraisal reports by the professional appraisers and the audited entity's internal appraisal.
@@ -283,7 +280,7 @@ d.Ascertain the validity of the appraisal report at the balance sheet date.
 e.Ascertain whether the disclosure of investment property conforms to the requirements.
 L.Ascertain whether the house rentals, land rentals, and any other revenues arising from property, plant and equipment and investment property have been properly recorded.
 M.Ascertain whether any assets have been leased, and if so, whether such leases have been given proper accounting treatment.
-N.Ascertain whether there are any obligations to restore property, plant and equipment to their original condition, and whether any decommissioning costs have been estimated and recorded.
+N.Ascertain whether there are any obligations to restore right-of-use assets or property, plant and equipment to their original condition, and whether any decommissioning costs have been estimated and recorded.
 O.Ascertain the components of intangible assets, and whether they have been given proper accounting treatment.
 P.Check the supporting source documents, papers, and licenses relating to intangible assets.
 Q.Ascertain whether intangible assets are still useful and whether their cost has been amortized over their expected useful life.
@@ -291,19 +288,15 @@ R.Ascertain whether there is any indication that an asset may be impaired, and i
 S.Ascertain the nature of biological assets and whether they have been properly classified.
 T.Ascertain whether biological assets have been measured at fair value less costs to sell. If at the time of initial recognition it was impossible to obtain their market price or value, and if a substitution estimate to determine fair value would obviously be unreliable, the biological assets should be measured by cost less all accumulated depreciation and all accumulated impairment loss.
 U.For any agricultural goods after the harvesting of biological assets, ascertain whether they have been given proper classifications and accounting treatment.
-10.Deferred debits:
-A.Ascertain the nature and verify the appropriateness of the reported amounts.
-B.Ascertain whether the benefits extend to the following periods, and whether they have been reasonably amortized.
-C.Ascertain whether there is any indication that an asset may be impaired, and if so, the appropriateness of the estimated recoverable amount of the asset. In addition, ascertain whether the carrying amount of an asset after reversal of impairment loss does not exceed the carrying amount that would have been determined (net of required depreciation or amortization) had no impairment loss been recognized for the asset.
-11.Other non-current assets:
+10.Other non-current assets:
 A.Inspect all supporting source documents to confirm the reasonableness of the amounts recorded.
 B.If any item under "other non-current assets" is subject to amortization, ascertain the reasonableness of the amortization method and its consistency with that applied in the prior period.
-C.For any long outstanding amount for which it is impossible to obtain confirmation from the debtor or which is not likely to be collected, ascertain whether such amount has been written off or sufficient allowance for bad debt has been set aside.
+C.For any long outstanding amount for which it is impossible to obtain confirmation from the debtor or which is not likely to be collected, ascertain whether such amount has been written off or sufficient loss allowance has been set aside.
 D.Ascertain whether any item under "other non-current assets" that is material in amount has been separately presented.
 E.For items held in custody for other parties that are material in amount or unusual in nature, conduct a joint on-site inventory with the custodian(s) and send written confirmation requests to such other parties.
 F.Ascertain the nature of any refundable deposit paid out as security, and the reasonableness and necessity thereof.
 G.Ascertain whether there is any indication that an asset may be impaired, and if so, the appropriateness of the estimated recoverable amount of the asset. In addition, ascertain whether the carrying amount of an asset after reversal of impairment loss does not exceed the carrying amount that would have been determined (net of required depreciation or amortization) had no impairment loss been recognized for the asset.
-12.Borrowings:
+11.Borrowings:
 A.Ascertain whether a borrowing that is a bank overdraft, bank borrowing, commercial paper payable, banker's acceptance, or "other borrowing" has been separately presented.
 B.Identify any significant borrowing agreements and send written confirmation requests to confirm the borrowing balances, interest rates, repayment periods, amounts, material covenants, and the collateralization status.
 C.Ascertain whether the bank overdraft balance is the balance after offsetting against the bank deposit, and if so, make appropriate adjustment.
@@ -314,22 +307,22 @@ G.Ascertain whether there has been a breach of any material provision of a borro
 H.If repayment a foreign currency is required under a borrowing agreement, ascertain whether such has been translated using the spot exchange rate at the balance sheet date.
 I.Ascertain whether non-current liabilities to be settled within one year or within one operating cycle have been reclassified as current liabilities in accordance with applicable requirements.
 J.If the audited entity has set aside a sinking fund, ascertain whether it has been done in accordance with provisioning rules.
-13.Financial liabilities, including, among others, those measured at fair value through profit or loss, those used as hedging derivatives, and those measured at cost (hereinafter collectively referred to as "financial liabilities"):
+12.Financial liabilities, including, among others, those measured at fair value through profit or loss, those for hedging, and those measured at amortized cost (hereinafter collectively referred to as "financial liabilities"):
 A.Assess the system of internal controls over such matters, and check the transaction records and all relevant contracts and supporting source documents, to verify the reliability of recording of financial liabilities.
 B.Ascertain payments or deliveries during the subsequent period and all supporting source documents, and where necessary send written confirmation requests to and obtain relevant contracts from major trading counterparties.
 C.With respect to a financial liability that came due prior to the balance sheet date and was rescheduled or renegotiated by that time, ascertain whether relevant income or expense has been recognized in profit or loss.
 D.Select two time periods, one before and one after the balance sheet date, and check all supporting source documents for each period, to ascertain the existence of any unrecorded financial liabilities.
 E.Ascertain whether the accounting basis and ending valuation are appropriate. For financial liabilities designated as measured at fair value through profit or loss, if the change of amount in the fair value results from credit risks, ascertain whether the recognition of profit and loss meets the applicable requirements.
 F.Ascertain whether financial liabilities have been adequately presented and disclosed (in terms of measurement, classification, and furnishing of required information) in the financial statements and footnotes, and whether they are identified as either current or non-current depending on their liquidity.
-G.Ascertain whether financial liabilities that are denominated in a foreign currency have been adjusted to reflect the foreign exchange rate required by generally accepted accounting principles and whether they have been properly accounted for.
-H.Audit derivative financial liabilities by the following procedure:
+G.Ascertain whether the accounting treatment of hedging is appropriate.
+H.Ascertain whether financial liabilities that are denominated in a foreign currency have been adjusted to reflect the foreign exchange rate required by generally accepted accounting principles and whether they have been properly accounted for.
+I.Audit derivative financial liabilities by the following procedure:
 a.Acquire an understanding of whether any of the audited entity's assets, liabilities, firm commitments, and forecast transactions is significantly exposed to any risk associated with fair value, cash flow, or net investment in a foreign operation; review or inquire about relevant supporting source documents, such as balance statements for trading margins, premiums, bank fees, service fees, and professional service fees, to determine whether there have been any unrecorded derivative transactions.
 b.Obtain trading summaries of derivative financial instruments prepared by the audited entity and relevant memorandum entries, inquire of those senior executives and internal auditors authorized by the board of directors of the audited entity, and obtain written documents, to acquire knowledge of any irregularity in the derivative transactions by the audited entity.
 c.Analyze any increase or decrease in derivative transactions in relation to the prior period, and, if a significant change or irregularity exists, analyze the reason and reasonableness.
 d.Send written confirmation requests to banks, securities firms, futures commission merchants, and major trading counterparties.
 e.Ascertain the requirement for separate recognition of embedded derivatives and their host contracts, and whether they have been appropriately accounted for.
-f.Ascertain whether derivatives accounted for using hedge accounting meet the applicable requirements.
-14.Notes payable, accounts payable, and purchases:
+13.Notes payable, accounts payable, and purchases:
 A.Evaluate the system of internal controls over procurements, and check the transaction records and all supporting source documents, to verify the reliability of purchase records.
 B.Ascertain payments made in the subsequent period or relevant supporting source documents, and when necessary, send written confirmation requests to principal suppliers and creditors.
 C.Ascertain whether any material accounts payable have been offset by payment in favor of persons other than those to whom the accounts are payable, and if so, assess the reason and reasonableness.
@@ -341,35 +334,34 @@ H.Ascertain whether notes and accounts payable are presented in such a manner as
 I.If a creditor has been provided with collateral for a note or account payable, ascertain whether the nature and description of the collateral have been reported in a footnote.
 J.Ascertain whether notes payable are interest-bearing, and whether interest accrued in the current period has been recorded.
 K.If repayment in a foreign currency is required under an agreement with respect to a note or account payable, ascertain whether such has been translated using the spot exchange rate at the balance sheet date.
-15.Accrued expenses and other payables
+14.Lease liabilities, accrued expenses and other payables
 A.Select a period after the balance sheet date and check all supporting source documents for unpaid invoices, cash expenditures, and material liabilities falling within that period, to verify the existence of any unrecorded liabilities.
 B.For accrued expenses for which the amount is estimated or yet to be determined, ascertain whether the method of estimation is consistent with that applied in prior years, and whether any payments have been made in the subsequent period.
-C.Ascertain whether appropriate footnote disclosure has been made regarding negotiable instruments issued as installment payment for leased equipment.
+C.Ascertain whether the accounting treatment of lease liabilities is appropriate.
 D.Identify any payments made in the subsequent period and all supporting source documents.
 E.If a creditor has been provided with collateral, ascertain whether the nature and description of the collateral have been reported in a footnote.
 F.Ascertain whether any items under "other payables" that are material in amount have been separately presented.
 G.If repayment in a foreign currency is required under an agreement with respect to an item within accrued expenses or "other payables," ascertain whether it has been adjusted to the spot exchange rate at the balance sheet date.
-16.Payments received in advance, and deferred credits:
-A.Ascertain the nature of each item within sales revenue received in advance, deposits received in advance, income received in advance, and deferred credits, and perform a test check of the underlying contractual agreements, if any.
-B.Ascertain whether appropriate adjustment has been made to payments received in advance and deferred credits to reflect the accrual basis of accounting.
-C.Identify any change that has occurred in the subsequent period.
-D.Ascertain whether there is any significant offset during a certain time period before or after the balance sheet date to any receipts that are temporary in nature, and if so, assess the reason and reasonableness.
-17.Corporate bonds payable:
+15.Contract liabilities and payments received in advance:
+A.Ascertain the nature of any contract liabilities and payments received in advance, perform a test check of the underlying contractual agreements, if any, and ascertain whether the accounting treatment is appropriate.
+B.Identify any change that has occurred in the subsequent period.
+C.Ascertain whether there is any significant offset during a certain time period before or after the balance sheet date to any receipts that are temporary in nature, and if so, assess the reason and reasonableness.
+16.Corporate bonds payable:
 A.Obtain the issuance rules for corporate bonds and ascertain whether footnote disclosure has been made as to total authorized amount, interest rate, maturity, collateral or guarantee status, and other relevant covenants and restrictions. In the case of a convertible corporate bond, ascertain whether the method of conversion and conversion status have been reported in a footnote and been adequately presented and disclosed in accordance with applicable requirements.
 B.If there is a trustee or guarantor, ascertain whether any special clause is contained in the executed guarantee or trust agreement, and send a written confirmation request to the guarantor or trustee inquiring about the total issued and unissued amounts and the repaid or cancelled amount.
-C.Identify any interest payments made in the current period and perform a check calculation to verify whether interest has been recorded appropriately, and whether any discounts or premiums have been properly amortized, at period-end. If any convertible corporate bonds have been issued under a reverse repurchase agreement, ascertain whether an interest premium has been estimated and recorded, and whether an interest expense has been recognized, for each period in a rational and systematic manner.
+C.Identify any interest payments made in the current period and perform a check calculation to verify whether interest has been recorded appropriately, and whether any discounts or premiums have been properly amortized, at period-end.
 D.Ascertain whether corporate bonds repayable within one year have been reclassified as current liabilities in accordance with applicable requirements.
 E.Where a sinking fund has been established, ascertain the status of the provisioning rules, amounts set aside, and interest accrued.
 F.Ascertain the status of repayment of corporate bonds, and, in the case of convertible corporate bonds where capital increase or issuance of new shares is required by law, whether such has been duly carried out.
 G.Inspect relevant minutes of board meetings.
 H.Ascertain whether there has been a breach of any material provision in any agreement regarding the issuance of corporate bonds, and if so, whether appropriate treatment has been given, and consider the effect thereof on the financial statements.
-18.Other non-current liabilities:
+17.Other non-current liabilities:
 A.Ascertain whether any item under "other non-current liabilities" that is to be settled or reimbursed within one year has been reclassified as current liabilities in accordance with applicable requirements.
 B.On the basis of contracts, company rules or by-laws, and meeting minutes, calculate and check the balance of liabilities.
 C.With respect to those that are material in amount or unusual in nature, send written confirmation requests to creditors or other relevant persons.
 D.For liabilities for which the amount is an estimated figure, ascertain whether the basis of the estimate is appropriate, and whether any payments have been made in the subsequent period.
 E.Ascertain whether any item under "other non-current liabilities " that is material in amount has been separately presented.
-19.Equity:
+18.Equity:
 A.Ascertain the amounts of registered capital and paid-in capital, and, where shares have been issued, whether footnote disclosure has been made as to type of capital stock, par value per share, number of authorized shares, number of issued shares, and any special terms and conditions. Ascertain whether the capital management objectives, policies, and procedures have been adequately disclosed.
 B.With respect to any capital increase or decrease, review relevant minutes of shareholders meetings and board meetings and documents of approval issued by the competent authority or application documents submitted by the audited entity, and further ascertain whether appropriate disclosure has been made as to the specific details of the change in capital.
 C.When necessary, send a written confirmation request to the certification agent or stock registrar and transfer agent to inquire about the total number of shares issued.
@@ -379,46 +371,47 @@ F.Ascertain whether an explanation has been provided in a footnote on different 
 G.In the case of any prior period adjustment, ascertain whether proper accounting treatment has been given.
 H.Ascertain whether earnings distributions have been properly recorded or given footnote disclosure.
 I.Ascertain whether any restrictions on the distribution of retained earnings or capital reserves, or of any preferred stock dividends in arrears, have been disclosed by footnote.
-J.If there is any doubt about the going-concern assumption underlying the financial statements with respect to the audited entity, perform all necessary audit procedures under Statement of Auditing Standards No. 16, assess the reasonableness of the going-concern assumption, and ascertain whether adequate disclosure has been made in the financial statements, and further provide a fair audit opinion.
+J.If there is any doubt about the going concern basis of accounting underlying the financial statements with respect to the audited entity, perform all necessary audit procedures under Statement of Auditing Standards No. 61, evaluate the appropriateness of management's use of the going concern basis of accounting in the preparation of the financial report, and whether a material uncertainty exists on the entity’s ability to continue as a going concern, and ascertain whether adequate disclosure has been made in the financial statements, and further provide a fair audit opinion.
 K.If any treasury stock exists, review all relevant documentation, and conduct an inventory count or send written confirmation requests; also ascertain whether proper accounting treatment has been given.
 L.If any employee stock option arrangement exists, ascertain whether proper accounting treatment has been given and whether the arrangement has been adequately disclosed in the financial statements.
 M.Find out the issuance conditions of any preferred stocks; if a preferred stock by its economic substance is a liability, find out whether it has been classified as a preferred stock liability and whether the relevant dividends have been reported as an expense.
-20.Contingencies and commitments:
-A.When auditing contingencies and commitments, perform all necessary audit procedures under Statement of Auditing Standards No. 23 and provide an appropriate audit report. Where any of such items is an endorsement or guarantee, ascertain whether it complies with statutory provisions as well as the established operating procedures, to verify that the audited entity has already taken the measures required by applicable regulations, and whether an adequate disclosure has been made in the financial statements.
-B.Identify and disclose by footnote any illegality that might have a material effect on the fair presentation of the operating and financial statements of the audited entity.
-C.If the audited entity has any present obligation as a result of a past event, and it is probable that it will be required to settle that obligation and the amount can be reliably estimated, ascertain whether it has estimated and recorded provisions in accordance with applicable requirements, and ascertain whether adequate disclosure and proper accounting treatment have been given to provisions for employee benefits.
-21.Operating expenses:
+19.Provisions, contingencies, and commitments:
+A.When auditing matters related to litigation and claims, do so in accordance with Statement of Auditing Standards No. 70.
+B.Where any of such items is an endorsement or guarantee, ascertain whether it complies with statutory provisions as well as the established operating procedures, to verify that the audited entity has already taken the measures required by applicable regulations, and whether an adequate disclosure has been made in the financial statements.
+C.Identify and disclose by footnote any illegality that might have a material effect on the fair presentation of the operating and financial statements of the audited entity.
+D.If the audited entity has any present obligation as a result of a past event, and it is probable that it will be required to settle that obligation and the amount can be reliably estimated, ascertain whether it has estimated and recorded provisions in accordance with applicable requirements, and ascertain whether adequate disclosure and proper accounting treatment have been given to provisions for employee benefits.
+20.Operating expenses:
 A.Conduct a comparative analysis against the amounts from the prior period to determine whether the trend of the change has been reasonable. If there has been any material change, ascertain and analyze the cause.
 B.Analyze material expenses and audit all supporting source documents to verify whether any of them requires reclassification as a capital expenditure.
 C.Examine the nature and significance of individual expenses and verify, in light thereof, whether they have been classified under the appropriate account.
 D.Select two time periods, one before and one after the balance sheet date, and check all supporting source documents for each period, to ensure that there has been a proper cut-off of operating expenses.
-22.Non-operating income and expenses and other comprehensive income:
+21.Non-operating income and expenses and other comprehensive income:
 A.Conduct a comparative analysis against the amounts from the prior period and ascertain the cause for material differences, if any.
 B.Analyze any income and expense items that are material in amount or unusual in nature and ascertain the status of all supporting source documents and how they have been recorded.
 C.Ascertain whether the profits or losses on disposal of financial assets are recognized in accordance with applicable requirements.
 D.Examine the nature and significance of individual items and ascertain, in light thereof, whether they have been classified under the appropriate account.
-23.Income tax:
+22.Income tax:
 A.Ascertain whether the audited entity has recognized current income tax expense or deferred income tax asset or liability in accordance with applicable requirements, made intraperiod tax allocation, and disclosed all relevant information.
 B.Ascertain whether there are any materially significant pending tax remedies, or any back taxes or tax refunds from prior fiscal years, and evaluate the effect thereof on current income tax and income tax payable.
-24.Earnings per share
+23.Earnings per share:
 Ascertain whether earnings per share have been calculated and disclosed in accordance with applicable requirements.
-25.Related party transactions:
-With respect to the audit of related party transactions, in addition to reviewing the information on related party transactions provided by the audited entity, inspect the minutes of the audited entity's shareholders and board of directors meetings, contracts entered into with others, and other relevant materials, to ascertain whether there is any other significant related party transaction information not provided by the audited entity; and perform necessary audit procedures in accordance with Statement of Auditing Standards No. 6.
-26.Other matters:
+24.Related party transactions:
+With respect to the audit of related party transactions, in addition to reviewing the information on related party transactions provided by the audited entity, inspect the minutes of the audited entity's shareholders meetings, board of directors meetings and meetings of any other corporate governance bodies of the entity, contracts entered into with others, and other relevant records or documents, to ascertain whether there is any other significant related party transaction information not provided by the audited entity; and perform necessary audit procedures in accordance with Statement of Auditing Standards No. 67.
+25.Other matters:
 If the audited entity has engaged in non-arm's length transactions, ascertain and assess the effect thereof on the financial statements, and give appropriate treatment.
 When engaged to audit and attest financial statements, a CPA may exercise its own judgment in tailoring the audit procedures to the characteristics or actual circumstances specific to the audited entity's organization or the industry in which it operates, and also to applicable legal or regulatory requirements. When necessary, a new set of audit procedures may be compiled to reflect the tailored audit procedures, with the reason(s) therefor indicated in the working papers.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20-1</條號>
-    <條文內容><![CDATA[When engaged to audit the annual financial reports of a TWSE (or GTSM) primary listed company or an emerging stock foreign company, CPAs may cooperate with an international CPA firm that has a cooperative relationship with an ROC CPA firm. The Taiwan CPAs shall be responsible for planning, guidance and supervision, and shall proceed in accordance with Statement of Auditing Standards No. 54, and shall not mention in the audit report the audit work of other CPAs. 
+    <條文內容><![CDATA[When engaged to audit the annual financial reports of a TWSE (or TPEx) primary listed company or an emerging stock foreign company, CPAs may cooperate with an international CPA firm that has a cooperative relationship with an ROC CPA firm. The Taiwan CPAs shall be responsible for planning, guidance and supervision, and shall proceed in accordance with Statement of Auditing Standards No. 54, and shall not mention in the audit report the audit work of other CPAs.
 The major subsidiaries of a company under the preceding paragraph shall also be audited by the Taiwan CPAs, or by them in cooperation with the afore-mentioned international CPA firm, and in accordance with the preceding paragraph.
-The preceding two paragraphs apply mutatis mutandis to the CPA review of the interim financial reports of a TWSE (or GTSM) primary listed company or an emerging stock foreign company.
+The preceding two paragraphs apply mutatis mutandis to the CPA review of the interim financial reports of a TWSE (or TPEx) primary listed company or an emerging stock foreign company.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20-2</條號>
-    <條文內容><![CDATA[In addition to the requirements under Chapter II, CPAs auditing the major subsidiaries of a TWSE (or GTSM) primary listed company or an emerging stock foreign company shall comply with the following requirements: 
+    <條文內容><![CDATA[In addition to the requirements under Chapter II, CPAs auditing the major subsidiaries of a TWSE (or TPEx) primary listed company or an emerging stock foreign company shall comply with the following requirements:
 1.Understand fully the organization of the group and major subsidiaries, including the major subsidiaries' industries, supplier relationships, customer relationships, and technological development, and local laws, regulations and bylaws affecting their business operations, tax laws, government policies, and environmental regulations relating to their local operations, and local business customs and practices.
 2.In implementing the process of written confirmation regarding the relevant items in the financial reports of major subsidiaries, if it is difficult to send written confirmation requests to the financial institutions or the counterparties, or the reliability of the received confirmation is doubtful, evaluate whether the CPA should personally make the inquiries on site.
 3.Ascertain the relationship between the management of the major subsidiaries and the major clients and suppliers, and also ascertain whether the audited entity does not provide information on related party transactions.
@@ -430,7 +423,7 @@ The preceding two paragraphs apply mutatis mutandis to the CPA review of the int
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[Before issuing an audit report, a CPA shall obtain management representations in accordance with Statement of Auditing Standards No. 7.
+    <條文內容><![CDATA[Before issuing an audit report, a CPA shall obtain written representations from management in accordance with Statement of Auditing Standards No. 66.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter III Audit Working Papers</編章節>
@@ -471,7 +464,7 @@ The preceding two paragraphs apply mutatis mutandis to the CPA review of the int
 3.Statement of changes in owners' equity.
 4.Cash flow statement.
 Each page of the balance sheet, comprehensive income statement, statement of owners' equity, and cash flow statement referred to in the preceding paragraph shall be signed or sealed by a responsible person, managerial officer, and in-charge accountant as representatives of the audited entity.
-For the first, second, and third quarter financial reports of the audited entity that are required to be reviewed by a CPA and publicly announced and registered pursuant to Article 36 of the Securities and Exchange Act as amended and promulgated on 4 January 2012, the CPA also shall review the interim financial reports of the major subsidiaries of the audited entity. If the CPA issues a review report with a qualified opinion because the financial reports or related information of a non-major subsidiary have not been reviewed, the CPA in the interim review reports must specify the amounts of the unreviewed assets, liabilities, and comprehensive income, and the proportions that they constitute of each of those amounts in the financial reports.
+For the first, second, and third quarter financial reports of the audited entity that are required to be reviewed by a CPA and publicly announced and registered pursuant to Article 36 of the Securities and Exchange Act as amended and promulgated on 4 January 2012, the CPA also shall review the interim financial reports of the major subsidiaries of the audited entity. If the CPA expresses a qualified conclusion in a review report because the financial reports or related information of a non-major subsidiary have not been reviewed, the CPA in the interim review reports must specify the amounts of the unreviewed assets, liabilities, and comprehensive income, and the proportions that they constitute of each of those amounts in the financial reports.
 ]]></條文內容>
   </條文>
   <條文>
@@ -480,14 +473,8 @@ For the first, second, and third quarter financial reports of the audited entity
 ]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 28-1</條號>
-    <條文內容><![CDATA[When auditing the financial reports of a public company whose stock is neither listed on the stock exchange nor traded on the over-the-counter market, the CPA shall apply these Regulations from the fiscal year 2015. However, if the audited entity voluntarily adopts the International Financial Reporting Standards (IFRS) early, the CPA shall apply these Regulations from the fiscal year 2013.
-When auditing the financial reports of a public company whose stock is neither listed on the stock exchange nor traded on the over-the-counter market and that does not adopt the IFRS early, the CPA shall follow the provisions of these Regulations as amended and issued on 16 May 2008, with the exception of the 30 December 2013 amendments to Article 2-1, paragraph 2, subparagraph 4 (the proviso) and to Article 14, which shall apply from the date of issuance.
-]]></條文內容>
-  </條文>
-  <條文>
     <條號>Article 29</條號>
-    <條文內容><![CDATA[These Regulations shall be enforced from the date of issuance, except for the 26 December 2005 amendments, which shall be enforced from 1 January 2006, the 17 August 2012 amendments, which shall be enforced from the fiscal year 2013, and the 30 December 2013 amendments to Article 8, which shall be enforced from the fiscal year 2015, and to Article 20, which shall be enforced from the fiscal year 2014, and the 13 August 2014 amendment to Article 20, paragraphs 1, subparagraphs 3, 8 and 13, which shall be enforced from fiscal year 2015.
+    <條文內容><![CDATA[These Regulations shall be enforced from the date of issuance, except for the 26 December 2005 amendments, which shall be enforced from 1 January 2006, the 17 August 2012 amendments, which shall be enforced from the fiscal year 2013, the 30 December 2013 amendments to Article 8, which shall be enforced from the fiscal year 2015, and to Article 20, which shall be enforced from the fiscal year 2014, the 13 August 2014 amendment to Article 20, paragraphs 1, subparagraphs 3, 8 and 13, which shall be enforced from fiscal year 2015, and the 24 January 2019 amendment to Article 20, paragraph 1, subparagraph 9 (the preamble and items 4 to 6, 11, and 14) and subparagraph 14, which shall enter into force from 1 July 2019.
 ]]></條文內容>
   </條文>
 </法規內容>
