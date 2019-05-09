@@ -3,7 +3,7 @@
 <英文法規名稱>Money Laundering Control Act</英文法規名稱>
 <中文法規名稱>洗錢防制法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380131</法規網址>
-<最新英文異動日期>20161228</最新英文異動日期>
+<最新英文異動日期>20181107</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -14,7 +14,8 @@
 5.Amended to Article 3 promulgated on June 11, 2008.
 6.Amended to Article 3,7~11,13 promulgated on June 10, 2009
 7.Amended to Article 3,17 promulgated on April 13, 2016.
-8.Amended and promulgated on December 28, 2016; Effective from June 28, 2017.]]></沿革內容>
+8.Amended and promulgated on December 28, 2016; Effective from June 28, 2017.
+9.Amended and promulgated on November 7, 2018]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -57,42 +58,42 @@ When identifying that property is the proceeds of specified unlawful activity pr
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[As used in this Act, “financial institutions” include:
-1. banks;
-2. trust and investment corporations;
-3. credit cooperative associations;
-4. credit departments of farmers’ associations;
-5. credit departments of fishermen’s associations;
+1. Banks;
+2. Trust and investment corporations;
+3. Credit cooperative associations;
+4. Credit departments of farmers’ associations;
+5. Credit departments of fishermen’s associations;
 6. Agricultural Bank of Taiwan;
-7. postal service institutions which also handle the money transactions of deposit, transfer and withdrawal;
-8. bills finance companies;
-9. credit card companies;
-10. insurance companies;
-11. securities companies;
-12. securities investment trust enterprises;
-13. securities finance enterprises;
-14. securities investment consulting enterprises;
-15. centralized securities depository enterprises;
-16. futures commission merchants;
-17. trust enterprises; and
-18. other financial institutions designated by the competent authorities in charge of the relevant industries.
-The provisions governing financial institutions of this Act shall apply to financial leasing enterprises.
-As used in this Act, “designated nonfinancial businesses or professions” include the following:
-1. Jewelry retail businesses.
-2. Land administration agents and real estate agencies, when they are involved in transactions concerning the buying and selling of real estate.
-3. Lawyers, notaries and accountants, when they prepare for or carry out transactions for their client concerning the following activities:
-(1) buying and selling of real estate;
-(2) managing of client money, securities or other assets;
-(3) management of bank, savings or securities accounts;
-(4) organization of contributions for the creation, operation or management of companies; or
-(5) creating, operating or management of legal persons or arrangements.
-4. Trust and company service providers, when they prepare for or carry out transactions for a client concerning the following activities:
-(1) acting as a nominee of legal persons;
-(2) acting as or arranging for another person to act as a director or secretary of a company, a partner of a partnership, or a similar position in relation to other legal persons;
-(3) providing a registered office, business address, accommodation, correspondence or administrative address for a company, a partnership or any other form of business;
-(4) acting as or arranging for another person to act as a trustee of a trust or performing or arranging for another person to perform the equivalent function for another similar form of legal arrangement; or
-(5) acting as or arranging for another person to act as a nominee shareholder for another person.
+7. Postal institutions handling postal savings, remittance businesses and simple life insurance business;
+8. Bills finance companies;
+9. Credit card companies;
+10. Insurance companies;
+11. Securities companies;
+12. Securities investment trust enterprises;
+13. Securities finance enterprises;
+14. Securities investment consulting enterprises;
+15. Centralized securities depository enterprises;
+16. Futures commission merchants;
+17. Trust enterprises; and
+18. Other financial institutions designated by the competent authorities in charge of the relevant industries.
+The provisions governing financial institutions of this Act shall apply to enterprises handling financial leasing, virtual currency platform or transaction.
+As used in this Act, “designated nonfinancial businesses or professions” include the following enterprises or persons:
+1. Jewelry businesses.
+2. Land administration agents and real estate agencies, when they are involved in transactions concerning purchase and sale of real estate.
+3. Lawyers, notaries and accountants, when they prepare for or carry out transactions for their client concerning the following transactions:
+(1) Purchasing and selling real estate;
+(2) Managing of client money, securities or other assets;
+(3) Management of bank, savings or securities accounts;
+(4) Organization of contributions for the creation, operation or management of companies; or
+(5) Creation, operation or management of legal persons or agreements, and buying and selling business entities.
+4. Trust and company service providers, when they prepare for or carry out transactions for a client concerning the following transactions:
+(1) Acting as a formation agent of a legal person;
+(2) Acting as or arranging for another person to act as a director or secretary of a company, a partner of a partnership, or a similar position in relation to other legal persons;
+(3) Providing a registered office, business address, accommodation, correspondence or administrative address for a company, a partnership, a trust or any other legal persons or arrangement;
+(4) Acting as or arranging for another person to act as a trustee of a trust or performing the equivalent function for another form of legal arrangement; or
+(5) Acting as or arranging for another person to act as a nominee shareholder for another person.
 5. Other businesses or professions, with the characteristics of their operation or transaction modes likely involved in money laundering.
-The Ministry of Justice shall in consultation with the central competent authorities governing target businesses make a report for the Executive Yuan to designate the scope of financial leasing companies listed in paragraph 2, define the types of transactions applicable to the designated nonfinancial businesses or professions mentioned in the fifth subparagraph of paragraph 3, and the businesses or professions listed in the preceding paragraph not required to make a transaction report prescribed in paragraph 1 of Article 9.
+The Ministry of Justice shall, in consultation with the central competent authorities governing target businesses, make a report for the Executive Yuan to designate the scope of enterprises handling financial leasing, virtual currency platform or transaction listed in paragraph 2, define the types of transactions applicable to the designated nonfinancial businesses or professions mentioned in the fifth subparagraph of paragraph 3, and the businesses or professions listed in the preceding paragraph not required to make a transaction report prescribed in paragraph 1 of Article 9.
 The Ministry of Justice in consultation with the central competent authorities in charge of the relevant industries may, where necessary, designate payment tools aside from cash for the transactions made by financial institutions listed in paragraph 1, financial leasing enterprises of paragraph 2, and designated nonfinancial businesses or professions listed in paragraph 3.
 If the central competent authorities in charge of the relevant industries mentioned in paragraph 1 and 2, as well as the preceding two paragraphs, are ambiguous, the Executive Yuan shall designate the central competent authorities in charge of the relevant industries.
 Where the designation prescribed in the preceding three paragraphs involves affairs of the Judicial Yuan, the Executive Yuan shall make the designation in consultation with the Judicial Yuan.
@@ -100,14 +101,17 @@ Where the designation prescribed in the preceding three paragraphs involves affa
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[Each of the financial institutions as referred to in this Act shall establish its own policies and procedures against money laundering, and submit the policies and procedures to the central competent authorities in charge of the relevant industries forrecord; the policies and procedures shall include the following:
+    <條文內容><![CDATA[Each of the financial institutions and the designated nonfinancial businesses or professions shall establish its own internal control and audit system against money laundering based on the risk of money laundering and terrorism financing as well as business scale; the system shall include the following:
 1. Operation and internal control procedures against money laundering and terrorist financing.
 2. Regular on-the-job training for money laundering prevention organized or attended by the financial institution.
-3. Designation of personnel responsible for coordinating and supervising the implementation of the policies and procedures.
-4. Other matters prescribed by the central competent authorities in charge of the relevant industries.
-The central competent authorities in charge of the relevant industries may creat regulations governing the anti-money laundering policies and procedures for designated nonfinancial businesses or professions.
-The central competent authorities in charge of the relevant industries shall regularly inspect and review the implementation of the policies and procedures against money laundering prescribed in the preceding two paragraphs, and may delegate the inspection and review to another agency, institution, legal person or organization.
-For avoiding, rejecting, or obstructing the inspection and review required in this Article, the central competent authorities in charge of the relevant industries shall impose a fine of between NT$500,000 and NT$5 million on financial institutions of paragraph 1, and a fine of between NT$50,000 and NT$500,000 on designated nonfinancial businesses or professions of paragraph 2.
+3. Designation of personnel responsible for coordinating and supervising the implementation of the system prescribed in the first subparagraph.
+4. Preparation and regular updates of the risk assessment report on anti-money laundering and counter financing of terrorism.
+5. The procedures of audit.
+6. Other matters prescribed by the central competent authorities in charge of the relevant industries.
+The central competent authorities in charge of the relevant industries shall conduct regularly inspections of the implementation of the system prescribed in the preceding paragraph, and may delegate the inspections to another agency, institution, legal person or organization to do so.
+The central competent authorities in charge of the relevant industries shall, in consultation with the Ministry of Justice and other relevant government agencies, establish the regulations governing performance content, operating procedures, implementation measures prescribed in paragraph 1, the method of inspection and review , the qualification and conditions of delegation prescribed in preceding paragraph, and other matters to be obeyed; consultation with relevant industry associations shall be held prior to the establishment of the regulations.
+For violations of the requirements of establishment of the system in paragraphs 1 and performance content, operating procedures, implementation measures and other affairs to be obeyed prescribed in the preceding paragraph, a limited time period for improvement shall be notified by the central competent authorities in charge of the relevant industries. If improvements are still failed to be made by the deadline, a fine of between NT$500,000 and NT$10,000,000 shall be imposed on financial institutions, and a fine of between NT$50,000 and NT$1,000,000 shall be imposed on designated nonfinancial businesses or professions.
+For avoiding, rejecting, or obstructing the on-site or off-site inspections, the central competent authorities in charge of the relevant industry shall impose a fine of between NT$500,000 and NT$5 million on financial institutions, and a fine of between NT$50,000 and NT$500,000 on designated nonfinancial businesses or professions.
 ]]></條文內容>
   </條文>
   <條文>
@@ -130,30 +134,30 @@ For violations of the requirements in paragraphs 1 and 2, and the regulations es
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[Financial institutions and designated nonfinancial businesses or professions shall report currency transactions equal to or above the applicable designated threshold to the Investigation Bureau of the Ministry of Justice, unless otherwise prescribed in this Act.
-Financial institutions and designated nonfinancial businesses or professions reporting currency transactions as prescribed in the preceding paragraph shall be exempted from business confidentiality obligations.
-The central competent authorities in charge of the relevant industries shall, in consultation with the Ministry of Justice and other relevant government agencies, establish the regulations governing the applicable designated threshold, the scope and types of currency transactions, and the scope, methods and procedures of reporting prescribed in paragraph 1; consultation with relevant industry associations shall be held prior to the establishment of the regulations.
-For violations of the requirements in paragraph 1 and the regulations established in accordance with the preceding paragraph, the central competent authorities governing target businesses shall impose a fine of between NT$500,000 and NT$10 million on financial institutions, and a fine of between NT$50,000 to NT$1 million on designated nonfinancial businesses or professions.
+Financial institutions and designated nonfinancial businesses or professions, including responsible persons, directors, managers and employees of such institutions or businesses reporting currency transactions as prescribed in the preceding paragraph shall be exempted from business confidentiality obligations.
+The central competent authorities in charge of the relevant industries shall, in consultation with the Ministry of Justice and other relevant government agencies, establish the regulations governing the applicable designated threshold, the scope and types of currency transactions, and the scope, methods and procedures of reporting prescribed in paragraph 1 and other affairs to be obeyed; consultation with relevant industry associations shall be held prior to the establishment of the regulations.
+For violations of the requirements in the first paragraph and the rules enacted in accordance with the preceding paragraph relating to the scope, methods and procedures of reporting, the central competent authorities in charge of the relevant industry shall impose a fine of between NT$500,000 and NT$10,000,000 on financial institutions, and a fine of between NT$50,000 to NT$1,000,000 on designated nonfinancial businesses or professions.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[Financial institutions and designated nonfinancial businesses or professions shall report to the Investigation Bureau of the Ministry of Justice all suspicious transactions, including attempted transactions, which may involve any of the offenses described in Articles 14 and 15.
-Financial institutions and designated nonfinancial businesses or professions reporting suspicious transactions as prescribed in the preceding paragraph shall be exempted from business confidentiality obligations.
-The central competent authorities governing target businesses shall, in consultation with the Ministry of Justice and other relevant government agencies, establish the regulations governing the scope, methods and procedures of the reporting of suspicious transactions required by paragraph 1; consultation with relevant industry associations shall be held prior to the establishment of the regulations.
-Where the regulations to be established in accordance with the preceding paragraph, paragraph 4 of Article 7, paragraph 3 of Article 8, and paragraph 3 of the preceding Article 9 involve affairs of the Judicial Yuan, the Judicial Yuan shall establish the regulations in consultation with the Executive Yuan.
-For violations of the requirement in paragraph 1 and the regulations established in accordance with paragraph 3, the central competent authorities governing target businesses shall impose a fine of between NT$500,000 and NT$10 million on financial institutions, and a fine of between NT$50,000 and NT$1 million on designated nonfinancial businesses or professions.
+Financial institutions and designated nonfinancial businesses or professions, including responsible persons, directors, managers and employees of such institutions or businesses reporting suspicious transactions as prescribed in the preceding paragraph shall be exempted from business confidentiality obligations.
+Regulations governing the scope, methods and procedures of reporting prescribed in paragraph 1 as well as other affairs to be obeyed shall be prescribed jointly by the central competent authority in charge of the relevant industry, the Ministry of Justice and the relevant competent authorities; consultation with the relevant industries associations shall be held prior to the enactment of the rules.
+Where the affairs under the preceding paragraph, Paragraph 3 of Article 6, Paragraph 4 of Article 7, Paragraph 3 of Article 8 and Paragraph 3 of the preceding article involving in the Judicial Yuan, the rules shall be prescribed jointly by the Judicial Yuan and the Executive Yuan.
+For violations of the provisions in the first paragraph and the rules enacted in accordance with the third paragraph relating to the scope, methods and procedures of reporting, the central competent authorities in charge of the relevant industry associations shall impose a fine of between NT$500,000 and NT$10,000,000 on financial institutions, and a fine of between NT$50,000 and NT$1,000,000 on designated nonfinancial businesses or professions.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[To provide international cooperation in relation to anti-money laundering and countering the financing of terrorism , competent authorities in charge of financial institutions may, spontaneously or in response to reports submitted by the Investigation Bureau of the Ministry of Justice, take the following measures  against countries or regions with high risks of money laundering or terrorist financing :
-1. Requiring financial institutions to strengthen relevant measures for the verification of the customer’s identity during transactions.
-2. Limiting or prohibiting financial institutions to make wire transfers or conduct other transactions with high-risk money laundering and terrorist financing countries or regions.
-3. Adopting other necessary preventive measures that are effective and proportionate to the risks.
-Countries or areas where risks of money laundering or terrorist financing are high prescribed in the preceding paragraph refer to one of the following:
-1. Countries or areas where major flaws are detected in its counter-money laundering and terrorist financing efforts, according to announcements issued by international anti-money laundering organizations.
-2. Countries or regions where advice of international anti-money laundering organizations are not followed or not fully followed, according to announcements issued by international anti-money laundering organizations.
-3. Other countries or areas where high risks of money laundering and terrorist financing are confirmed by sufficient evidence.
+    <條文內容><![CDATA[To provide international cooperation in relation to money laundering prevention and counter-terrorism financing, the competent authorities in charge of financial institutions and the central competent authorities in charge of the industry related to designated nonfinancial businesses or professions may, spontaneously or in response to reports submitted by the Investigation Bureau of the Ministry of Justice, take the following measures against countries or regions with high risks of money laundering or terrorism financing :
+1. To order financial institutions, designated nonfinancial business or professions to strengthen relevant measures for verification of the customer’s identity during transactions.
+2. To limit or prohibit financial institutions designated nonfinancial business or professions to make wire transfers or conduct other transactions with high-risk money laundering and terrorist financing countries or regions.
+3. To take other necessary preventive measures those are effective and proportionate to the risks.
+Countries or regions where risks of money laundering or terrorism financing are high as prescribed in the preceding paragraph refer to one of the following:
+1. Countries or regions where major flaws are detected in its money laundering prevention and counter-terrorism financing efforts, according to announcements issued by international anti-money laundering organizations.
+2. Countries or regions where advice of international anti-money laundering organizations are not followed or not fully followed, according to announcements issued by international anti-money laundering organizations.\
+3. Other countries or regions where high risks of money laundering and terrorism financing are confirmed by sufficient evidence.
 ]]></條文內容>
   </條文>
   <條文>
@@ -198,15 +202,16 @@ An attempt to commit an offense specified in the preceding paragraph is punishab
   </條文>
   <條文>
     <條號>Article 16</條號>
-    <條文內容><![CDATA[When a representative, agent, employee, or other employed personnel of a legal person commit an offence listed in the preceding two Articles when performing his or her duties of employment, the offender shall be punished and the legal person shall be charged with a fine in accordance with relevant provisions.
+    <條文內容><![CDATA[When a representative, agent, employee or other employed personnel of a legal person commits an offence specified in the preceding two Articles when performing his or her duties of business, the offender shall be punished and the legal person shall be also charged with a fine in accordance with the provisions of the respective applicable article.
 For offenders of the preceding two Articles who confess during the investigation or trial, the punishment shall be reduced.
-The offences described in the preceding two Articles shall apply when citizens of the Republic of China commit such offences outside the territory of the Republic of China.
+The offences prescribed in the preceding two Articles shall apply when citizens of the Republic of China commit such offences outside the territory of the Republic of China.
+The offense prescribed in Article 14 does not require the act or the result of specified unlawful activity to be undertaken or take place within the territory of the Republic of China, unless the specified unlawful activity is not punishable by the law of the place of the act.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
     <條文內容><![CDATA[Public officials who disclose or deliver documents, pictures, information or objects relating to reported transactions suspected of violating provisions under Articles 14 and 15, or to suspected offences listed in Articles 14 and 15, shall be sentenced to imprisonment of not more than three years.
-Employed personnel prescribed in paragraphs 1 to 3 of Article 5, who are not public officials, and who disclose or deliver documents, pictures, information or objects relating to reported transactions suspected of violating provisions under Articles 14 and 15, or to suspected offences described in Articles 14 and 15, will f shall be sentenced to imprisonment of not more than two year, a detention, or a fine of not more than NT$500,000.
+Any one prescribed in paragraphs 1 to 3 of Article 5 who is not public official and who discloses or delivers documents, pictures, information or objects relating to reported transactions suspected of violating provisions under Articles 14 and 15, or to suspected offences described in Articles 14 and 15, shall be sentenced to imprisonment of not more than two year, a detention, or a fine of not more than NT$500,000.
 ]]></條文內容>
   </條文>
   <條文>
@@ -232,17 +237,18 @@ The Executive Yuan shall establish the regulations governing the distribution of
     <條號>Article 21</條號>
     <條文內容><![CDATA[The government may enter into treaties or agreements on combating money laundering with foreign governments, institutions or international organizations, on the principle of reciprocity.
 With regard to requests for assistance made by foreign governments, institutions or international organizations, unless otherwise stipulated in the applicable treaties or agreements, information concerning declarations, reports or investigation results gathered based on Articles 9, 10 and 12 may be provided based on the principle of reciprocity.
-Concerning to the anti-money laundering  matters between the Taiwan Area, and the Mainland Area, Hong Kong as well as Macau, the preceding two paragraphs will apply.
+Concerning to the anti-money laundering matters between the Taiwan Area, and the Mainland Area, Hong Kong as well as Macau, the preceding two paragraphs will apply.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[For the inspection and review of paragraph 3 of Article 6, and for the decision and investigation of paragraph 4 of Article 6, paragraph 5 of Article 7, paragraph 4 of Article 8, paragraph 4 of Article 9, and paragraph 5 of Article 10, the central competent authorities governing target businesses may delegate the tasks to special municipality, county and provincial municipality governments, who shall report results of their inspections and reviews on a regular basis.
+    <條文內容><![CDATA[For the inspection and review under Paragraph 2 of Article 6 and for the decision and its investigation under Paragraphs 4 and 5 of Article 6, Paragraph 5 of Article 7, Paragraph 4 of Article 8, Paragraph 4 of Article 9 and Paragraph 5 of Article 10, the central competent authorities in charge of the relevant industry may delegate the tasks to special municipality, county and provincial municipality governments, who shall report results of their inspections and reviews on a regular basis.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[This Act  shall enter into force six months after its promulgation.
+    <條文內容><![CDATA[This Act shall enter into force six months after its promulgation.
+The amended articles of this Act shall enter into force on the date of promulgation.
 ]]></條文內容>
   </條文>
 </法規內容>
