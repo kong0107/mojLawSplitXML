@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Preparation of Financial Reports by Securities Issuers</英文法規名稱>
 <中文法規名稱>證券發行人財務報告編製準則（採國際財務報導準則版本）</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400050</法規網址>
-<最新英文異動日期>20180713</最新英文異動日期>
+<最新英文異動日期>20190424</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -22,6 +22,7 @@
 22. Articles 9, 12, 15, 18, 29 and 31, and name of Chapter 5 and Forms 1 and 1-1 of Article 19, and Forms 6-11, 6-23 to 6-25 and 6-31 of Article 23 amended; Articles 24-1 and 24-2 added; Article 30 deleted per 19 December 2016 Order No. Financial-Supervisory-Securities-Auditing-1050050021 of the Financial Supervisory Commission; for enforcement from the beginning of fiscal year 2017
 23. Articles 9 to 12, 15, 23 and 31, and Forms 1, 1-1, 2, 2-1, 3, 4, 5-1, 5-3 and 5-8 of Article 19, amended and issued per 28 June 2017 Order No. Financial-Supervisory-Securities-Auditing-1060023231 of the Financial Supervisory Commission; for enforcement from the beginning of financial year 2018
 24. Articles 9, 10, 15, 20, 23, 28, and 31, and Forms 1, 1-1, and 5-2 of Article 19, and Form 8-7 of Article 23 amended and issued; Forms 6-26 to 6-28 and 7-16 of Article 23 added; original Forms 6-26 to 6-32 adjusted to 6-29 to 6-35, and original forms 7-16 to 7-18 adjusted to 7-17 to 7-19; and Article 27 deleted per 13 July 2018 Order No. Financial-Supervisory-Securities-Auditing-1070324155 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 9, paragraph 4, subparagraphs 3 and 4, and paragraph 6, and Articles 10, 15, and 23, and Forms 1 and 1-1 of Article 19, which will come into force from financial year 2019.
+25. Form 8-7 of Article 23 amended and issued per 24 April 2019 Order No. Financial-Supervisory-Securities-Auditing-1080310909 of the Financial Supervisory Commission
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -159,7 +160,7 @@ A.Tangible asset items, including bearer plants, that are held for use in the pr
 B.Property, plant and equipment shall be subsequently measured using the cost model and accounted for in accordance with IAS 16.
 C.Each component of property, plant and equipment that is significant shall be depreciated separately. The depreciation method used shall reflect the pattern in which the asset’s future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The depreciable amount should be allocated on a systematic basis over the asset's useful life.
 D.When items of property, plant and equipment have different useful lives, or provide economic benefits in different ways, or are subject to different depreciation methods or depreciation rates, the notes to the financial reports shall show each class of their material components.
-3.Right-of-use asset:
+3.Right-of-use assets:
 A.Means an asset that represents a lessee's right to use an underlying asset for the lease term.
 B.A right-of-use asset shall be accounted for in accordance with IFRS 16.
 4.Investment property:
@@ -218,8 +219,7 @@ C.The amortization method used shall reflect the pattern in which the asset’s 
 The accounting treatment and the recognition and measurement of loss allowances for the items described in the preceding two paragraphs in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, notes receivable, trade receivables, and other receivables shall be in accordance with IFRS 9. Loss allowances shall be classified respectively as a deduction from financial assets measured at amortized cost, notes receivable, trade receivables, and other receivables. If those classifications are further subclassified, the loss allowances thereof shall also be presented respectively in the same manner.
 An issuer shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in paragraph 4 in relation to investments accounted for using the equity method, property, plant and equipment, right-of-use assets, investment property measured using the cost model, intangible assets, and exploration and evaluation assets. If any such evidence exists, the issuer shall recognize the amount of any impairment loss in accordance with IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for fair value measurement.
 With respect to the items described in paragraphs 3 and 4 in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, notes receivable, trade receivables, other receivables, non-current assets held for sale, investment property, and biological assets, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
-The items described in paragraphs 3 and 4 in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, contract assets, and biological assets shall be distinguished as current and non-current based on liquidity.
-]]></條文內容>
+The items described in paragraphs 3 and 4 in relation to financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, contract assets, and biological assets shall be distinguished as current and non-current based on liquidity.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -388,7 +388,7 @@ An issuer shall present, either in the statement of changes in equity or in the 
 22.Information about financial instruments. The information shall be disclosed in accordance with IFRS 7, including disclosure of the significance of financial instruments for the entity's financial position and performance; qualitative and quantitative disclosures describing risk exposures arising from financial instruments.
 23.Comprehensive information about the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers shall be disclosed in accordance with IFRS 15, including details of revenue recognized from contracts with customers, contract balances, contract obligations, significant judgments and changes in the judgments, and any assets recognized from the costs to obtain or fulfil a contract with a customer.
 24.Relevant information about leases. The information shall be disclosed in accordance with IFRS 16, including disclosure of information that gives a basis for users of the financial statements to assess the effect that the leases have on the financial position, financial performance, and cash flows of the issuer, and relevant qualitative and quantitative information about its leasing activities.
-25.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, certainty of future cash flows, actuarial losses arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
+25.Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, certainty of future cash flows, actuarial losses and gains arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
 26.Segment financial information. Information shall be disclosed in accordance with IFRS 8, including types of goods and services sold or rendered by each reportable segment, revenue, and gains and losses.
 27.Information on investment in the Mainland Area.
 28.Information about investments in derivative instruments.
@@ -398,8 +398,7 @@ An issuer shall present, either in the statement of changes in equity or in the 
 32.Material effects of changes in government laws and regulations.
 33.Fair value information. The information shall be disclosed in accordance with IFRS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
 34.Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
-35.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.
-]]></條文內容>
+35.Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, or other necessary descriptions essential for avoiding misunderstanding by users or for the fair presentation of the financial reports.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
@@ -627,8 +626,7 @@ When a joint arrangement is a joint venture, the interest in the joint venture s
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 2, Article 4, Article 7, paragraph 1, Articles 8 to 13, Article 15, Article 17, Article 19, Article 20, Article 21, Article 24, Article 26, and Article 28, as amended on 13 August 2014, which shall come into force from financial year 2015, the articles amended on 19 December 2016, which shall come into force from financial year 2017, the articles amended on 28 June 2017, which shall come into force from financial year 2018, and Article 9, paragraph 4, subparagraphs 3 and 4, Article 9, paragraph 6, Article 10, Article 15, Article 23, and Forms 1 and 1-1 of Article 19, which shall come into force from financial year 2019.
-]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall come into force from the date of issuance, with the exception of Article 2, Article 4, Article 7, paragraph 1, Articles 8 to 13, Article 15, Article 17, Article 19, Article 20, Article 21, Article 24, Article 26, and Article 28, as amended on 13 August 2014, which shall come into force from financial year 2015, the articles amended on 19 December 2016, which shall come into force from financial year 2017, the articles amended on 28 June 2017, which shall come into force from financial year 2018, and Article 9, paragraph 4, subparagraphs 3 and 4, Article 9, paragraph 6, Article 10, Article 15, Article 23, and Forms 1 and 1-1 of Article 19, as amended on 13 July 2018, which shall come into force from financial year 2019.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

@@ -3,7 +3,7 @@
 <英文法規名稱>Patent Act</英文法規名稱>
 <中文法規名稱>專利法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0070007</法規網址>
-<最新英文異動日期>20170118</最新英文異動日期>
+<最新英文異動日期>20190501</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -20,7 +20,8 @@
 11. Amended on December 21, 2011; entered into force on January 1, 2013
 12. Amended on June 11, 2013; entered into force on June 13, 2013
 13. Amended on January 22, 2014; entered into force on March 24, 2014
-14. Amended on January 18, 2017, entered into force on May 1, 2017]]></沿革內容>
+14. Amended on January 18, 2017, entered into force on May 1, 2017
+15. Amended on May 1, 2019]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -260,7 +261,7 @@ An applicant claiming priority in accordance with the preceding article shall si
 3. the application number of the first patent application.
 Within sixteen (16) months after the earliest priority date, the applicant shall submit a certified copy of the first patent application issued by the foreign patent authority under the preceding paragraph.
 In case of a violation of Subparagraph 1 or Subparagraph 2 of Paragraph 1 or the preceding paragraph, the priority claim shall be deemed not to have been made.
-Where an applicant unintentionally fails to claim priority claim at the time of filing, or where the priority claim is deemed not to have been made as prescribed in the preceding paragraph, the applicant may, within sixteen (16) months after the earliest priority date, apply for reinstatement of priority claim, pay the required fees and undertake actions set forth in Paragraphs 1 and 2.
+Where an applicant unintentionally fails to claim priority claim at the time of filing, or where the priority claim is deemed not to have been made as prescribed in violation of Subparagraph 1 or Subparagraph 2 of Paragraph 1, the applicant may, within sixteen (16) months after the earliest priority date, apply for reinstatement of priority claim, pay the required fees and undertake actions set forth in Paragraph 1.
 ]]></條文內容>
   </條文>
   <條文>
@@ -307,15 +308,16 @@ Two or more inventions so linked as to form a single general inventive concept m
   </條文>
   <條文>
     <條號>Article 34</條號>
-    <條文內容><![CDATA[Division of application
+    <條文內容><![CDATA[Divisional application of invention patent
 A patent application that substantially contains two or more inventions may, upon notice by the Specific Patent Agency or upon request by the applicant, be divided into two or more divisional applications.
 A request for division shall be filed within any of the following time periods:
 1. before a reexamination decision on the original patent application is rendered; or
-2. within thirty (30) days after the date on which an approval decision for the original patent application is served. However, it shall not be filed if a reexamination decision has been rendered.
+2. within three (3) months after the date on which an approval decision for the original patent application or reexamination is served.
 The filing date of the divisional patent application shall be the same as the filing date of the original application. Where the priority claim has been made, the applicant may claim priority for the divisional patent application.
 The divisional patent application shall not extend beyond the scope of content disclosed in the description, claim(s), or drawing(s) of the original patent application as filed.
 For the divisional patent application filed in accordance with Subparagraph 1 of Paragraph 2, the examination thereof shall resume the completed examination procedure of the original patent application.
-For the divisional patent application filed in accordance with Subparagraph 2 of Paragraph 2, the examination thereof that has been conducted before the original patent application is approved shall be resumed; the original patent application shall be published based on the claim(s) and drawing(s) as originally approved.
+For the divisional patent application filed in accordance with Subparagraph 2 of Paragraph 2, it shall be based on the invention(s) disclosed in the description or the drawing(s), but shall not be the same as that have been approved in the original patent application; the examination thereof that has been conducted before the original patent application is approved shall be resumed.
+The description, claim(s), or drawing(s) of the original patent application that have been approved may not be altered and shall be published based on the claim(s) and drawing(s) as originally approved.
 ]]></條文內容>
   </條文>
   <條文>
@@ -421,8 +423,8 @@ A written decision of examination shall bear the name of the patent examiner. Th
   </條文>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[Grounds for decision of rejection
-When a patent application for invention is in violation of the provisions set forth in Articles 21 through 24, Article 26, Article 31, Paragraphs 1 and 3 of Article 32, Article 33, Paragraph 4 of Article 34, Paragraph 2 of Article 43, Paragraphs 2 and 3 of Article 44, or Paragraph 3 of Article 108, a decision of rejection shall be rendered.
+    <條文內容><![CDATA[Grounds for rejection of invention patent application
+When a patent application for invention is in violation of the provisions set forth in Articles 21 through 24, Article 26, Article 31, Paragraphs 1 and 3 of Article 32, Article 33, Paragraph 4 and the forepart of Paragraph 6 of Article 34, Paragraph 2 of Article 43, Paragraphs 2 and 3 of Article 44, or Paragraph 3 of Article 108, a decision of rejection shall be rendered.
 Before rendering a decision in accordance with the preceding paragraph, the Specific Patent Agency shall notify the applicant to file a response within a specified time period. If the applicant fails to make a response within the time period, a decision of rejection shall be rendered accordingly.
 ]]></條文內容>
   </條文>
@@ -513,8 +515,7 @@ Any person may file an invalidation action of the granted patent term extension 
 3. where the granted term of extension exceeds the period during which the patent cannot be exploited;
 4. where the requester of the patent term extension is not the patentee;
 5. where the regulatory approval of extension request is not the first approval, or a request for extension based on the said regulatory approval has been made;
-6. where the request for extension is based on the time spent on conducting trials or tests in a foreign country, the extended term granted by the Specific Patent Agency exceeds the period approved by the foreign patent authority; or
-7. where the pharmaceuticals involved in the granted patent term extension are veterinary drugs.
+6. where the pharmaceuticals involved in the granted patent term extension are veterinary drugs.
 If an invalidation decision revoking the patent term extension has become final and binding, the granted patent term extension shall be deemed non-existent ab initio. However, if such final and binding invalidation decision of revocation is rendered due to violation of Subparagraph 3 or Subparagraph 6 of the preceding paragraph, only the exceeding period of the extension shall be deemed non-existent.
 ]]></條文內容>
   </條文>
@@ -634,13 +635,13 @@ The patentee who unintentionally fails to pay a patent annuity within the time p
   </條文>
   <條文>
     <條號>Article 71</條號>
-    <條文內容><![CDATA[Grounds for invalidation
+    <條文內容><![CDATA[Grounds for invalidation against invention patent
 Any person may request for an invalidation action against an invention patent with the Specific Patent Agency under any of the following circumstances:
-1. where there is a violation of Articles 21 to 24, Article 26, Article 31, Paragraphs 1 and 3 of Article 32, Paragraph 4 of Article 34, Paragraph 2 of Article 43, Paragraphs 2 and 3 of Article 44, Paragraphs 2 to 4 of Article 67, or Paragraph 3 of Article 108 of this Act;
+1.where there is a violation of Articles 21 to 24, Article 26, Article 31, Paragraphs 1 and 3 of Article 32, Paragraph 4 and the forepart of Paragraph 6 of Article 34, Paragraph 2 of Article 43, Paragraphs 2 and 3 of Article 44, Paragraphs 2 to 4 of Article 67, or Paragraph 3 of Article 108 of this Act;
 2. where the home country of the patentee does not accept the patent applications filed by ROC nationals; or
 3. where there is a violation of Paragraph 1 of Article 12, or where the invention patentee is not the owner of the right to apply for an invention patent.
 An invalidation action based on Subparagraph 3 of the preceding paragraph shall only be filed by the interested party.
-With respect to the ground(s) upon which an invalidation action is based and filed  against an invention patent, the provisions in effect at the time of the said patent being approved shall govern. However, if an invalidation action is filed based on the ground(s) under Paragraph 4 of Article 34, Paragraph 2 of Article 43, Paragraphs 2 and 4 of Article 67, or Paragraph 3 of Article 108, the provisions in effect at the time of filing the said action shall govern.
+With respect to the ground(s) upon which an invalidation action is based and filed against an invention patent, the provisions in effect at the time of the said patent being approved shall govern. However, if an invalidation action is filed based on the ground(s) under Paragraph 4 and the forepart of Paragraph 6 of Article 34, Paragraph 2 of Article 43, Paragraphs 2 and 4 of Article 67, or Paragraph 3 of Article 108, the provisions in effect at the time of filing the said action shall govern.
 ]]></條文內容>
   </條文>
   <條文>
@@ -655,15 +656,17 @@ Where the interested party possesses recoverable legal interests due to the revo
 Where an invalidation action is filed, a request form containing a statement and reason(s), along with evidence shall be provided.
 Where a patent contains more than one claim, an invalidation action may be filed against parts of the claims.
 An invalidation statement shall not be modified or added after filing, but it can be narrowed.
-A requester of invalidation action may provide invalidation reasons or evidence within one (1) month after the date of filing the said action; however, the reasons or evidence provided prior to rendering a decision shall still be examined.
+A requester of invalidation action may provide invalidation reasons or evidence within three (3) months after the date of filing the said action.The reason or evidence shall not be examined if the requester fails to provide them within the specified time period.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 74</條號>
     <條文內容><![CDATA[Invalidation proceedings
-Upon receipt of a request form for invalidation action stated in the preceding article, the Specific Patent Agency shall send a copy thereof to the patentee.
+Upon receipt of a request form for invalidation action stated in the preceding article, the Specific Patent Agency shall serve a copy thereof to the patentee.
 The patentee shall provide a response within one (1) month after having been served with a copy of the request form. If the patentee fails to provide such response, the invalidation proceedings shall be conducted accordingly, unless a request for extension containing reason(s) thereof has been approved.
-The Specific Patent Agency may conduct invalidation proceedings accordingly if the reason(s) or evidence provided by the requester of invalidation action is likely to delay the proceedings or if the facts and evidence provided are sufficiently clear.
+During the invalidation proceedings, the patentee shall only file a request for amending the invention patent when providing a response after having been served with a copy of the request form, or when providing a response or supplementary response after having been served with a notification from the Specific Patent Agency. The above shall not apply if a litigation case involving the invention patent is pending.
+The Specific Patent Agency may, when necessary, notify the invalidation requester to submit comments or the patentee to provide a response or a supplementary response. The invalidation requester or patentee shall reply within one (1) month after having been served with the notification. Unless a request for extension thereof has been approved, the comments or response shall not be examined if the requester or patentee fails to submit comments or provide a response within the specified time period.
+The Specific Patent Agency may conduct invalidation proceedings accordingly if the comment(s) or the response(s) submitted or provided pursuant to the preceding paragraph is likely to delay the proceedings or if the facts and evidence are sufficiently clear.
 ]]></條文內容>
   </條文>
   <條文>
@@ -684,7 +687,8 @@ The Specific Patent Agency may, when necessary, visit the site or a designated p
   <條文>
     <條號>Article 77</條號>
     <條文內容><![CDATA[Consolidated proceedings of invalidation and post-grant amendment
-If, during the invalidation proceedings, a request for post-grant amendment is filed, the said proceedings and post-grant amendment shall be consolidated; the decisions concerned shall be rendered jointly as well. If the Specific Patent Agency considers the said post-grant amendment approvable, it shall send a copy of the amended description, claim(s) and/or drawing(s) to the requester of invalidation action.
+If, during the invalidation proceedings, a request for post-grant amendment is filed, the said proceedings and post-grant amendment shall be consolidated; the decisions concerned shall be jointly rendered as well.
+If the Specific Patent Agency considers the said post-grant amendment approvable, it shall serve a copy of the amended description, claim(s) and/or drawing(s) to the requester of invalidation action.The above shall not apply if the post-grant amendment is made only to delete claim(s).
 Where there are two or more requests for post-grant amendment filed during the proceedings of same invalidation action, the earlier-filed request(s) for post-grant amendment shall be deemed to have been withdrawn.
 ]]></條文內容>
   </條文>
@@ -972,9 +976,11 @@ Where the Chinese translation is not provided within the specified time period a
   </條文>
   <條文>
     <條號>Article 107</條號>
-    <條文內容><![CDATA[Division of application
+    <條文內容><![CDATA[Divisional application of utility model patent
 A patent application for utility model which substantially contains two or more utility models may, upon notice by the Specific Patent Agency or upon request by the applicant, be divided into two or more divisional applications.
-A request for division shall be made before a decision on the original utility model application is rendered.
+A request for division shall be filed within the time periods specified below:
+1. prior to the rendering of a decision on the original utility model application; or
+2. within three (3) months after the date on which an approval decision on the original utility model application is rendered.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1059,28 +1065,27 @@ Where a utility model patent is revoked, the patentee shall be liable for the da
   <條文>
     <條號>Article 118</條號>
     <條文內容><![CDATA[Post-grant amendment of utility model patent
-With respect to examining a request for post-grant amendment, except for the situation set forth in Paragraph 1 of Article 77, applicable mutatis mutandis under Article 120, the Specific Patent Agency shall conduct formality examination of the post-grant amendment, render a written decision and serve it on the patentee.
-A decision rejecting the post-grant amendment shall be rendered after formality examination under any of the following circumstances:
-1. where there is an event prescribed in Subparagraphs 1 to 5 of Article 112; or
-2. where the post-grant amendment obviously extends beyond the scope of content disclosed in the claim(s) or drawing(s) as published.
+With the exception to the situation set forth in Paragraph 3 of Article 74, applicable mutatis mutandis under Article 120, the patentee requesting to amend a utility model patent shall do so only within the time periods specified below:
+1. a request for technical evaluation report of the utility model patent is pending.
+2. a litigation case involving the utility model patent is pending.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 119</條號>
-    <條文內容><![CDATA[Grounds for invalidation action
+    <條文內容><![CDATA[Grounds for invalidation action against utility model patent
 Any person may request for an invalidation action against a utility model patent with the Specific Patent Agency under any of the following circumstances:
-1. where there is a violation of Article 104, Article 105, Paragraph 3 of Article 108, Paragraph 2 of Article 110, Article 22 applicable mutatis mutandis under Article 120, Article 23 applicable mutatis mutandis under Article 120, Article 26 applicable mutatis mutandis under Article 120, Article 31 applicable mutatis mutandis under Article 120, Paragraph 4 of Article 34 applicable mutatis mutandis under Article 120, Paragraph 2  of Article 43 applicable mutatis mutandis under Article 120, Paragraph 3 of Article 44 applicable mutatis mutandis under Article 120, Paragraphs 2 to 4 of Article 67 applicable mutatis mutandis under Article 120 of this Act;
+1. where there is a violation of Article 104, Article 105, Paragraph 3 of Article 108, Paragraph 2 of Article 110, Article 22 applicable mutatis mutandis under Article 120, Article 23 applicable mutatis mutandis under Article 120, Article 26 applicable mutatis mutandis under Article 120, Article 31 applicable mutatis mutandis under Article 120, Paragraph 4 and the forepart of Paragraph 6 of Article 34 applicable mutatis mutandis under Article 120, Paragraph 2 of Article 43 applicable mutatis mutandis under Article 120, Paragraph 3 of Article 44 applicable mutatis mutandis under Article 120, Paragraphs 2 to 4 of Article 67 applicable mutatis mutandis under Article 120 of this Act;
 2. where the home country of the patentee does not accept patent applications filed by ROC nationals; or
 3. where there is a violation of Paragraph 1 of Article 12, or where the utility model patentee is not the owner of the right to apply for a utility model patent.
 An invalidation action based on Subparagraph 3 of the preceding paragraph shall only be filed by the interested party.
-With respect to the ground(s) for an invalidation action against a utility model patent, the provisions in effect at the time of the said patent being approved shall govern. However, if an invalidation request is filed based on violation of the ground(s) under Paragraph 3 of Article 108, Paragraph 4 of Article 34 applicable mutatis mutandis under Article 120, Paragraph 2 of Article 43 applicable mutatis mutandis under Article 120, or Paragraph 2 and paragraph 4 of Article 67 applicable mutatis mutandis under Article 120, the provisions in effect at the time of filing the said request shall govern.
+With respect to the ground(s) for an invalidation action against a utility model patent, the provisions in effect at the time of the said patent being approved shall govern. However, if an invalidation request is filed based on violation of the ground(s) under Paragraph 3 of Article 108, Paragraph 4 and the forepart of Paragraph 6 of Article 34 applicable mutatis mutandis under Article 120, Paragraph 2 of Article 43 applicable mutatis mutandis under Article 120, or Paragraph 2 and paragraph 4 of Article 67 applicable mutatis mutandis under Article 120, the provisions in effect at the time of filing the said request shall govern.
 A written decision on an invalidation action shall bear the names of the patent examiners.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 120</條號>
     <條文內容><![CDATA[Provisions applied mutatis mutandis to utility model patent
-Article 22, Article 23, Article 26, Articles 28 to 31, Article 33, Paragraphs 3 and 4 of Article 34, Article 35, Paragraphs 2 and 3 of Article 43, Paragraph 3 of Article 44, Paragraph 2 of Article 46, Paragraph 2 of Article 47, Article 51, Paragraphs 1, 2 and 4 of Article 52, Paragraphs 1, 2, 4 and 5 of Article 58, Article 59, Articles 62 to 65, Article 67, Paragraphs 2 and 3 of Article 68, Article 69, Article 70, Articles 72 to 82, Articles 84 to 98, and Articles 100 to 103 shall apply mutatis mutandis to utility model patent.
+Article 22, Article 23, Article 26, Articles 28 to 31, Article 33, Paragraphs 3 to 7 of Article 34, Article 35, Paragraphs 2 and 3 of Article 43, Paragraph 3 of Article 44, Paragraph 2 of Article 46, Paragraph 2 of Article 47, Article 51, Paragraphs 1, 2 and 4 of Article 52, Paragraphs 1, 2, 4 and 5 of Article 58, Article 59, Articles 62 to 65, Article 67, Paragraphs 2 and 3 of Article 68, Article 69, Article 70, Articles 72 to 82, Articles 84 to 98, and Articles 100 to 103 shall apply mutatis mutandis to utility model patent.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter IV Design Patent</編章節>
@@ -1207,8 +1212,8 @@ When a patent application for design is in violation of any of the provisions se
   </條文>
   <條文>
     <條號>Article 135</條號>
-    <條文內容><![CDATA[Patent term
-The term of a design patent shall expire after a period of twelve (12) years from the filing date of the application. A derivative design patent shall expire simultaneously with the original design patent.
+    <條文內容><![CDATA[Patent term of design patent
+The term of a design patent shall expire after a period of fifteen (15) years from the filing date of the application. A derivative design patent shall expire simultaneously with the original design patent.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1272,9 +1277,13 @@ In the case of a patent application for design, the time period specified in Sub
   <條文>
     <條號>Article 143</條號>
     <條文內容><![CDATA[Preservation of patent files
-Patent files such as application documents, description, claim(s), abstract, drawing(s) shall be kept permanently in the custody of the Specific Patent Agency. Other documents shall be kept for a period of no more than thirty (30) years.
-The patent files referred to in the preceding paragraph may be stored on microfilm, magnetic disc, magnetic tape, optical disc or other storage media. The files thus stored, whose record of storage has been confirmed by the Specific Patent Agency, shall be deemed to be the original files, and the original hard copy of such patent files may be destroyed. A reproduced copy of the stored patent file shall be deemed to be a true copy upon confirmation by the Specific Patent Agency.
-Regulations governing confirmation, administration, and use of the substitutes for stored files referred to in the preceding paragraph shall be prescribed by the competent authority.
+Patent files such as application documents, description, claim(s), abstract, drawing(s) deemed worth preserving by the Specific Patent Agency shall be permanently kept.
+Patent files not referred to in the preceding paragraph shall be kept for the duration specified below
+1. invention patent files shall be  preserved for 20 years except for  the files of approved cases, which shall be preserved for 30 years.
+2. utility model patent files shall be  preserved for 10 years except for  the files of approved cases, which shall be preserved for 15 years.
+3. design patent files shall be  preserved for 15 years except for  the files of approved cases, which shall be preserved for 20 years.
+The duration of preservation referred to in the preceding paragraph shall be calculated on the first day of the year following the decision is rendered on the patent application, the patent application has been withdrawn or deemed to have been withdrawn.
+With respect to patent files which are kept at the time of the implementation of the April 16, 2019, amendment to this Act, the amended Patent Act shall apply.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1374,6 +1383,26 @@ In respect of a patent application for associated design that is still pending a
     <條號>Article 157-1</條號>
     <條文內容><![CDATA[Transitional provisions: grace period
 Article 22, Article 59, Article 122 and Article 142 amended on December 30, 2016 shall be applicable only to patent applications filed after the implementation of the said amendment to this Act.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 157-2</條號>
+    <條文內容><![CDATA[Transitional provisions: pending applications
+Unless otherwise provided for in the Act, for a patent application which is still pending at the time of the implementation of the April 16, 2019, amendment to this Act, the amended Patent Act shall apply.
+With respect to a request for post-grant amendment and invalidation action which is still pending at the time of the implementation of the April 16, 2019, amendment to this Act, the amended Patent Act shall apply.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 157-3</條號>
+    <條文內容><![CDATA[Transitional provisions: Divisional application after rendering a decision of patent application
+With respect to an examination decision on patent application for invention or utility model rendered prior to the implementation of the April 16, 2019, amendment to this Act, if the corresponding time period set forth in Subparagraph 2, Paragraph 2 of Article 34 or Subparagraph 2, Paragraph 2 of Article 107 has not expired, Subparagraph 2, the amended Patent Act shall apply.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 157-4</條號>
+    <條文內容><![CDATA[Transitional provisions: patent term of design patent
+With respect to the term of a design paten, when the term of the patent has not expired prior to the implementation of the April 16, 2019, amendment to this Act, the amended Patent Act shall apply.
+With respect to the term of a design patent, when the patent right has become extinguished pursuant to Subparagraph 3, Paragraph 1 of Article 70 applicable mutatis  mutandis under Paragraph 1 of Article 142 prior to the implementation of the April 16, 2019, amendment to this Act, and then has been reinstated through an application made according to Paragraph 2 of Article 70 applicable mutatis mutandis under Paragraph 1 of Article  142 after the implementation of the April 16, 2019, amendment to this Act, the amended Patent Act shall apply.
 ]]></條文內容>
   </條文>
   <條文>

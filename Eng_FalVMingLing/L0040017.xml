@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations of Inspection of Imported Foods and Related Products</英文法規名稱>
 <中文法規名稱>食品及相關產品輸入查驗辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040017</法規網址>
-<最新英文異動日期>20181018</最新英文異動日期>
+<最新英文異動日期>20190610</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -13,7 +13,8 @@
 4.DOH Food No. 1021300813 Partial amended and promulgated on April 1, 2013
 5.MOHW Food No. 1022051463 Amended and promulgated on January 27, 2014.
 6.MOHW Food No. 1042000518 Partial amended and promulgated on June 24, 2015
-7.MOHW Food No. 1072004519 Partial amended and promulgated on October 18, 2018]]></沿革內容>
+7.MOHW Food No. 1072004519 Partial amended and promulgated on October 18, 2018
+8.MOHW Food No. 1082002676 Partial amended and promulgated on June 10, 2019]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -63,8 +64,9 @@ If the import products were live, fresh or chilled fish, prawn, crab, shellfish,
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[For any Obligatory Inspection Applicant belong to one of the following situations, the competent authority shall dismiss his/her application for inspection:
-1. Applicants fail to apply an inspection application pursuant to Article 4 or the preceding article of this regulation.
-2. Incomplete inspection application form、product information declaration form、 or other related form, and fail to make correction within a limited period.
+1.Applicants fail to apply an inspection application pursuant to Article 4 or the preceding article of this regulation.
+2.Incomplete inspection application form, product information declaration form or other related form, and fail to make correction within a limited period.
+3.Repeated application for inspection for products mentioned in the previous article that have already been selected for batch inspection in accordance with Subparagraph 2, Paragraph 1, Article 8.
 ]]></條文內容>
   </條文>
   <編章節>   Chapter 3 Inspection Procedures</編章節>
@@ -158,7 +160,8 @@ During the verifying and sampling in preceding paragraph, Obligatory Inspection 
   <編章節>   Chapter 6 Prior Release</編章節>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[Due to requiring five or more days for examination, or sampling of such products is difficult in a container yard, or the product is perishable, or the products in bulk and no warehouse in wharf, after the obligatory inspection applicant sign an affidavit of custodial responsibility, the inspection authority may issue a Notice of Prior Release for import for customs clearance. However, for products designated for batch-by-batch inspection shall be retained at border temporarily.
+    <條文內容><![CDATA[Due to requiring five or more days for examination, or sampling of such products is difficult in a container yard, or the product is perishable, or the products in bulk and no warehouse in wharf, after the obligatory inspection applicant sign an affidavit of custodial responsibility, the inspection authority may issue a Notice of Prior Release for import for customs clearance.
+The products designated for batch-by-batch inspection are not subject to the preceding paragraph and shall be retained at the border temporarily with the exception of putrescible products and products mentioned in Paragraph 2 of Article 10.
 ]]></條文內容>
   </條文>
   <條文>
@@ -168,11 +171,12 @@ During the verifying and sampling in preceding paragraph, Obligatory Inspection 
   </條文>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[Products that belong to one of the following situations, and conformed to the preceding two Articles by the inspection authority, the authority may issue a prior release notice after the obligatory inspection applicant paying a guarantee bond：
-1. Products were belonging to Reinforced randomly-selected batch inspection.
-2. Products were belonging to Oversee inspection and the result is not qualified.
-3. The obligatory inspection applicant fails to finish the process of inspection after elapse of ninety days from the inspection authority issued a prior release notice, and applies for prior release notice again.
-The amount of the guarantee bond in the preceding paragraph shall be twice as the products DDP (Delivered Duty Paid) price.
+    <條文內容><![CDATA[Products that falls into one of the following categories, and conformed to the preceding two Articles by the inspection authority, the authority may issue a prior release notice after the obligatory inspection applicant has paid a guarantee bond：
+1.Product subject to Batch-by-batch inspection.
+2.Product subject to Reinforced randomly-selected batch inspection.
+3.Product subject to Oversee inspection that yield non-conforming results during the inspection period.
+4.The obligatory inspection applicant fails to finish the process of inspection after elapse of ninety days from the inspection authority issued a prior release notice and applies for prior release notice again.
+The amount of the guarantee bond shall be four-times of the product Duty-paying value for the products listed in subparagraph 1 of the preceding article, and double for the products listed in subparagraph 2 to 4 of the preceding article.
 ]]></條文內容>
   </條文>
   <條文>
