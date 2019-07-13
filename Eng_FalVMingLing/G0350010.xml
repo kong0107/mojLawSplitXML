@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Management of Import/Export Clearance for Transportation means</英文法規名稱>
 <中文法規名稱>運輸工具進出口通關管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350010</法規網址>
-<最新英文異動日期>20170810</最新英文異動日期>
+<最新英文異動日期>20190604</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -30,7 +30,8 @@
 21. Amended on August 16, 2013
 22. Amended on June 6, 2014
 23. Amended on March 25, 2015
-24. Amended on Aug 10, 2017]]></沿革內容>
+24. Amended on Aug 10, 2017
+25. Amended on June 4,2019]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -200,7 +201,7 @@ If a deduction from guarantee deposit mentioned in the preceding paragraph is ma
     <條文內容><![CDATA[Unless otherwise special condition approved by the Customs, cargos carried by a transportation mean not included in the cargo manifest, or inconsistencies found between the manifest and reality, may be corrected at the Customs with justifiable reason within the deadlines specified below:
 1. Import cargo manifest:
 (1) Online declaration:
-a.By sea:
+a. By sea:
 (a) Within 72 hours after arrival, for declaration made in accordance with Article 37-1.
 (b) Within 48 hours after arrival, for declaration failed to be filed within the time slot set forth in Article 37-1.
 b. By air:
@@ -255,11 +256,11 @@ The said escorted transportation may be exempted provided a bond equivalent to p
   </條文>
   <條文>
     <條號>Article 32</條號>
-    <條文內容><![CDATA[Transshipment Container (cargo) transported on a transportation mean shall be exported within 60 days from the date following the date on which the said container (cargo) has entered the container terminal (or reserved area at the dock) or warehouse. An extension of 30 days may be applied with the Customs for unavailability in schedule of vessel, flight, or other reasons. However, if the said cargo relating to declaration of manifest or transshipment is submitted by a forwarder, Regulations Governing the Customs Management of Freight Forwarders shall prevail.
-The transshipment cargo mentioned in the preceding Paragraph not exported within deadline shall be returned within a given time limit. The Customs may apply mutatis mutandis Article 62 of the Customs Act to sell the said cargo if the cargo is not returned within a given time limit.
-Unless it is escorted by the Customs personnel or is approved to affix an electronic seal, the transshipment container (cargo) that is to be exported via sea shipping contained may not be transported through inland container terminal, warehouse, or other port to export.
-The regulations governing inland transshipment for export of container (cargo) mentioned in the preceding paragraph shall be announced and implemented in different phases and areas by the Customs Administration, Ministry of Finance (hereinafter referred to as Customs Administration).
-Transshipment container (cargo) of weapon, ammunition, and drugs goods can only be transshipped for export through the harbor or airport which the container (cargo) was imported.
+    <條文內容><![CDATA[Transshipment Containers (cargoes) whose declaration of manifest or transshipment is submitted by the forwarder shall be exported within 60 days from the date following the date on which the said container (cargo) has entered the container terminal (or reserved area at the dock) or warehouse. An extension of 30 days may be applied with the Customs for unavailability in schedule of vessel, flight, or other reasons.
+The transshipment cargo mentioned in the preceding Paragraph not exported within deadline shall be returned within a given time limit. The Customs may apply mutatis mutandis to Article 62 and Paragraph 2 of Article 96 of the Customs Act.
+Unless escorted by the Customs personnel or approved to affix an electronic seal, the transshipment containers (cargoes) to be exported via sea shipping shall not be transported through inland container terminal, warehouse, or other ports. 
+The regulations governing inland transshipment for export of containers (cargoes) mentioned in the preceding paragraph shall be announced and implemented in different phases and areas by Customs Administration.
+Transshipment containers (cargoes) of weapon, ammunition, and drugs are required to be transshipped for export through the harbor or airport where the containers (cargoes) were imported.
 ]]></條文內容>
   </條文>
   <條文>
@@ -276,7 +277,7 @@ Transshipment container (cargo) of weapon, ammunition, and drugs goods can only 
   <編章節>      Section 1 Sea Shipping</編章節>
   <條文>
     <條號>Article 35</條號>
-    <條文內容><![CDATA[Navigation Aid Charge will be levied according to import/export vessel tonnage in order to support navigation aid services provided by the Customs, such as maintaining lighthouses.
+    <條文內容><![CDATA[(Annul)
 ]]></條文內容>
   </條文>
   <條文>
@@ -340,14 +341,14 @@ The documents mentioned in the preceding Paragraph 1 to 6 may not submit in writ
 1. Name;
 2. Gender;
 3. Nationality;
-4. Date of birth;and
-5. Entry permit, alien resident certificate or passport number.
+4. Date of birth; and
+5. Entry permit, ID number, alien resident certificate or passport number.
 Inbound onboard service crew manifest shall include the followings:
 1. Name;
 2. Gender;
 3. Nationality;
 4. Date of birth;
-5. Alien resident certificate or passport number; and
+5. ID Number, Alien resident certificate or passport number; and
 6. Job title.
 ]]></條文內容>
   </條文>
@@ -392,8 +393,7 @@ The application for correction will not exempt the applicant from penalty if the
 2. Export container/cargo loading list unless there are no export cargoes;
 3. Outbound and transit passenger manifest unless the manifest is the same as the transit passenger manifest submitted for the vessel’s import;
 4. Departure onboard service crew manifest, unless the manifest is the same as the crew manifest submitted for the vessel’s import;
-5. Quarantine permit;
-6. Receipt of navigation aid charge unless its payment has been verified by Customs;
+5. Quarantine permit.
 The format for customs clearance application and clearance certificate shall be stipulated and announced by the Customs.
 When applying for customs clearance of the vessel through computer connection, the captain or the consigned vessel owner is not required to submit documents mentioned in the Paragraph one.
 The customs clearance of the vessel through computer connection mentioned in the preceding paragraph shall be implemented in accordance with the announcement of Customs Administration.
@@ -414,14 +414,14 @@ The customs clearance of the vessel through computer connection mentioned in the
 1. Name;
 2. Gender;
 3. Nationality;
-4. Date of birth;and
-5. Exit permit, alien resident certificate or passport number.
+4. Date of birth; and
+5. Exit permit, ID Number, alien resident certificate or passport number.
 A departure onboard service crew manifest shall include the following information:
 1. Name;
 2. Gender;
 3. Nationality;
 4. Date of birth;
-5. Alien resident certificate or passport number.
+5. ID Number, Alien resident certificate or passport number.
 6. Job title.
 ]]></條文內容>
   </條文>
@@ -510,7 +510,7 @@ In case that the cargos must be loaded or discharged from the vessel failing to 
 3. Nationality;
 4. Age;
 5. Address;
-6. Entry permit, alien resident certificate or passport number; and
+6. Entry permit, ID Number, alien resident certificate or passport number; and
 7. Quantity of luggage and any self-defense weapon.
 ]]></條文內容>
   </條文>
@@ -604,7 +604,8 @@ Directions relating to the scope, implementation stages, or grace period etc., f
 When transmitting manifest, the captains or the carriers are not required to submit manifest in writing unless receiving written notification from Customs.
 An import cargo manifest which includes consolidated shipment cargo can be filed by air forwarders, while the said consolidated shipment cargo shall be specified a house manifest with identical format to import cargo manifest shall also be declared.
 After an aircraft has arrived at a domestic airport, the captain or the carrier shall produce and sign the following documents and submit to the Customs for declaration:
-1. Arrival and transit passenger manifest; and2. Arrival and onboard service crew manifest.
+1. Arrival and transit passenger manifest; and
+2. Arrival and onboard service crew manifest.
 Online declaration for arrival and transit passenger manifest should be transmitted to the Customs before take-off. The implementation date shall be separately announced by Customs Administration.
 ]]></條文內容>
   </條文>
@@ -615,13 +616,13 @@ Online declaration for arrival and transit passenger manifest should be transmit
 2. Gender;
 3. Nationality;
 4. Date of birth;and
-5. Entry permit, alien resident certificate or passport number.
+5. Entry permit, ID Number, alien resident certificate or passport number.
 The arrival onboard service crew manifest shall clearly state the followings:
 1. Name;
 2. Gender;
 3. Nationality;
 4. Date of birth;
-5. Alien resident certificate or passport number; and
+5. ID Number, Alien resident certificate or passport number; and
 6. Job title.
 ]]></條文內容>
   </條文>
@@ -660,13 +661,13 @@ When transmitting manifest, the captains or the carriers are not required to sub
 2. Gender;
 3. Nationality;
 4. Date of birth;and
-5. Exit permit ,alien resident certificate or passport number.
+5. Exit permit, ID number, alien resident certificate or passport number.
 Departure onboard service crew manifest shall clearly state the followings:
 1. Name;
 2. Gender;
 3. Nationality;
 4. Date of birth;
-5. Alien resident certificate or passport number; and
+5. ID Number, Alien resident certificate or passport number; and
 6. Job title.
 ]]></條文內容>
   </條文>
@@ -761,7 +762,7 @@ Cargo delivered by expedited courier shall be discharged and stored in the expre
   <編章節>   Chapter 5 Supplementary Provisions</編章節>
   <條文>
     <條號>Article 88</條號>
-    <條文內容><![CDATA[These Regulations shall take effect on the date of promulgation.
+    <條文內容><![CDATA[These Regulations shall take effect on the date of promulgation. Nonetheless, the Article 35 and 43, which is to be  amended and promulgated on June 4th, 2019, shall come into effect from June 4th, 2019.
 ]]></條文內容>
   </條文>
 </法規內容>
