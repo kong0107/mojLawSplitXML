@@ -3,7 +3,7 @@
 <英文法規名稱>Securities and Exchange Act</英文法規名稱>
 <中文法規名稱>證券交易法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400001</法規網址>
-<最新英文異動日期>20181205</最新英文異動日期>
+<最新英文異動日期>20190621</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -32,6 +32,7 @@
 23. Articles 171 and 172 amended and promulgated, Article 44-1 added, and Article 174-2 deleted per 31 January 2018 Presidential Order No. Hua-Zong-I-Yi-10700011051
 24. Articles 14-2 and 178 amended and promulgated per 25 April 2018 Presidential Order No. Hua-Zong-I-Yi-10700042151
 25. Article 14 amended and promulgated per 5 December 2018 Presidential Order No. Hua-Zong-I-Jing-10700130991
+26. Articles 14-5, 28-2, 39, 43-1, 65, 66, 165-1, 177-1, 178, and 179 amended and promulgated and Article 178-1 added per 17 April 2019 Presidential Order Hua-Zong-I-Jing-10800037881
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -171,7 +172,7 @@ A resolution of the audit committee shall have the concurrence of one-half or mo
 7.The offering, issuance, or private placement of any equity-type securities.
 8.The hiring or dismissal of an attesting CPA, or the compensation given thereto.
 9.The appointment or discharge of a financial, accounting, or internal auditing officer.
-10.Annual and semi-annual financial reports.
+10.Annual financial reports, and second quarter financial reports that must be audited and attested by a CPA.
 11.Any other material matter so required by the company or the Competent Authority.
 With the exception of subparagraph 10, any matter under a subparagraph of the preceding paragraph that has not been approved with the consent of one-half or more of all audit committee members may be undertaken upon the consent of two-thirds or more of all directors, without regard to the restrictions of the preceding paragraph, and the resolution of the audit committee shall be recorded in the minutes of the directors meeting.
 A company that has established an audit committee is not subject to the provisions of Article 36-1 requiring that its financial reports be recognized by a supervisor.
@@ -207,8 +208,8 @@ Remuneration referred to in the preceding paragraph shall include salary, stock 
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[Approval from the Competent Authority is required for the operation of any securities finance enterprise, securities central depository enterprise, or any other securities-related services.
-Rules governing the conditions for establishment, application and approval procedures, finances, operations, regulation, and other matters for compliance with respect to the securities enterprises referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+    <條文內容><![CDATA[Approval from the Competent Authority is required for the operation of any securities finance enterprise, securities central depository enterprise, or any other securities-related service enterprise.
+Regulations governing the conditions for establishment, application and approval procedures, finances, operations, management, and other matters for compliance with respect to the securities enterprises referred to in the preceding paragraph shall be prescribed by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -285,7 +286,7 @@ The guidelines governing the processing of securities matters by an issuer shall
   </條文>
   <條文>
     <條號>Article 22-2</條號>
-    <條文內容><![CDATA[The transfer of stocks by the directors, supervisors, managerial officers, or shareholders holding more than ten percent of the total shares of an issuer under this Act shall be effected in accordance with any of the following methods:
+    <條文內容><![CDATA[The transfer of stocks by the directors, supervisors, managerial officers, or shareholders holding more than ten percent of the total shares, of an issuer under this Act shall be effected in accordance with any of the following methods:
 1.an offering to the public following approval from or an effective registration with the Competent Authority.
 2.to transfer, at least three days following registration with the Competent Authority, on a centralized exchange market or an over-the-counter market, shares that have satisfied the holding period requirement and within the daily transfer allowance ratio prescribed by the Competent Authority. However, this requirement shall not apply to transfers totaling less than 10,000 shares per exchange day.
 3.to transfer, within three days following registration with the Competent Authority, by means of private placement to designated persons satisfying the qualifications prescribed by the Competent Authority.
@@ -313,13 +314,13 @@ When the shares referred to in the first paragraph hereof are pledged, the pledg
   </條文>
   <條文>
     <條號>Article 25-1</條號>
-    <條文內容><![CDATA[The use of proxies for the attendance of a shareholders meeting of an issuer shall be restricted, enjoined, or regulated; the regulations governing the qualifications of an issuer's proxy solicitors, proxy agents, and those handling proxy solicitation matters on its behalf, the format, acquisition, and methods of solicitation or agenting of proxy forms, the number of shares represented, statistical tallying and verification, the conditions under which votes cast by proxy shall be excluded, documents for reporting and public access, provision of information and other matters for compliance shall be prescribed by the Competent Authority.
+    <條文內容><![CDATA[The use of proxies for the attendance of a shareholders meeting of an issuer shall be restricted, enjoined, or regulated. The regulations governing the qualifications of an issuer's proxy solicitors, proxy agents, and those handling proxy solicitation matters on its behalf, the format, acquisition, and methods of solicitation or agenting of proxy forms, the number of shares represented, statistical tallying and verification, the conditions under which votes cast by proxy shall be excluded, documents for reporting and public access, provision of information and other matters for compliance shall be prescribed by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 26</條號>
     <條文內容><![CDATA[The total shares of nominal stocks held by the entire body of either directors or supervisors of an issuer shall not be less than a specified percentage of its total issued shares.
-The rules regulating the minimum percentage to be held by the directors and supervisors referred to in the preceding paragraph, and the examination of such holding shall be prescribed by an order from the Competent Authority.
+The regulations governing the minimum percentage to be held by the directors and supervisors referred to in the preceding paragraph, and the examination of such holding shall be prescribed by an order from the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -375,11 +376,12 @@ The value of the shares publicly offered in compliance with paragraphs 1 and 2 a
 2.Where the buyback is for equity conversion in coordination with the issuance of corporate bonds with warrants, preferred shares with warrants, convertible corporate bonds, convertible preferred shares, or share subscription warrants; or
 3.Where the buyback is required to maintain the company's credit and shareholders' rights and interests, and the shares so purchased are cancelled.
 The number of shares bought back under the preceding paragraphs may not exceed ten percent of the total number of issued and outstanding shares of the company. The total amount of the shares bought back may not exceed the amount of retained earnings plus premium on capital stock plus realized capital reserve.
-The procedure, price, quantity, method, conversion method, and public announcement to be reported in connection with buyback of shares by a company in accordance with paragraph 1 above shall be prescribed by an order of the Competent Authority
-The shares bought back by a company in accordance with paragraph 1, except for the portion referred to in subparagraph 3 for which amendment registration shall be effected within six months from the date of buyback, shall be transferred within three years from the date of buyback. The shares not transferred within the said time limit shall be deemed as not issued by the company, and amendment registration shall be processed.
+Regulations regarding the procedure, price, quantity, method, conversion method, and public announcement to be reported in connection with buyback of shares by a company in accordance with paragraph 1 above shall be prescribed by the Competent Authority
+The shares bought back by a company in accordance with paragraph 1, except for the portion referred to in subparagraph 3 for which amendment registration shall be effected within six months from the date of buyback, shall be transferred within five years from the date of buyback. The shares not transferred within the said time limit shall be deemed as not issued by the company, and amendment registration shall be processed.
 The shares bought back by a company in accordance with paragraph 1 shall not be pledged. Before transfer, the shareholder's rights shall not be enjoyed.
-In the event that a company buys back shares from the centralized securities exchange market or over-the-counter market, the shares held by its affiliated enterprises defined under Article 369-1 of the Company Act, its directors, supervisors, managerial officers, their spouses, minor children, or shares held in the name of other persons shall not be sold during the buyback period.
+In the event that a company buys back shares from the centralized securities exchange market or over-the-counter market, the shares held by its affiliated enterprises defined under Article 369-1 of the Company Act or its directors, supervisors, managerial officers, or shareholders holding more than 10 percent of the company’s total shares, shall not be sold during the buyback period.
 The resolution referred to in paragraph 1 and the implementation thereof shall be reported in the most recent shareholders meeting. This provision shall also apply if the shares are not bought back for any reason.
+The shares held by persons prohibited from selling their shares as set out in paragraph 6 shall include shares held by their spouses and minor children and those held under the names of other parties.
 ]]></條文內容>
   </條文>
   <條文>
@@ -470,7 +472,7 @@ Except as otherwise provided by the Certified Public Accountant Act or other act
 Depending upon the seriousness of mistake or omission committed by a certified public accountant in the attestation of the financial reports referred to in paragraph 1, the Competent Authority may impose any of the following sanctions:
 1.warning.
 2.suspension from practicing any attestation under this Act for a period of two years.
-3.revocation of his/her attestation permission.
+3.voidance of his/her attestation permission.
 The financial reports referred to in paragraph 1 of Article 36 shall be placed at the company's office and branch units for the inspection or copying by the shareholders and creditors.
 ]]></條文內容>
   </條文>
@@ -488,7 +490,7 @@ When shareholders who have been continuously holding, for a period of 1 year or 
   </條文>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[During its examination of the disclosed financial reports and other reference materials or reports of the issuer, or by its direct investigation of the financial and business conditions of the issuer, the Competent Authority may issue a corrective order, or it may additionally impose penalties pursuant to this Act if it finds that the issuer has failed to comply with an act or regulation.
+    <條文內容><![CDATA[During its examination of the disclosed financial reports and other reference materials or reports of the issuer, or by its direct investigation of the financial and business conditions of the issuer, the Competent Authority may, if it finds that the issuer has failed to comply with an act or regulation, issue a corrective order prescribing a period in which to correct the non-compliance, or it may additionally impose penalties pursuant to this Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -521,14 +523,14 @@ The provisions in the preceding two paragraphs shall apply mutatis mutandis to g
   <編章節>      Section II Purchase of Securities</編章節>
   <條文>
     <條號>Article 43-1</條號>
-    <條文內容><![CDATA[Any person who acquires, either individually or jointly with other persons, more than ten percent of the total issued shares of a public company shall file a statement with the Competent Authority within ten days after such acquisition, stating the purpose and the sources of funds for the purchase of shares and any other matters required to be disclosed by the Competent Authority; such persons shall file timely amendment when there are changes in the matters reported.
+    <條文內容><![CDATA[Any person who acquires, either individually or jointly with other persons, more than ten percent of the total issued shares of a public company shall report such acquisition to the Competent Authority and make a public announcement; the same applies when there is any change in the specifics reported. Regulations governing the reporting of the number of shares acquired, the purpose and the sources of funds for the acquisition of the shares, changes to the specifics reported, public announcement, terms, and any other matters requiring compliance, shall be prescribed by the Competent Authority.
 Any public tender offer to purchase the securities of a public company bypassing the centralized securities exchange market or the over-the-counter market may be conducted only after the offeror has reported to the Competent Authority, providing proof that it has the ability to perform payment of the tender offer consideration, and publicly announced the specific matters, except under the following circumstances:
 1.The number of securities proposed for public tender offer by the offeror plus the total number of securities of the public company already obtained by the offeror and its related parties do not exceed five percent of the total number of voting shares issued by the public company.
 2.The securities purchased by the offeror through the public tender offer are securities of a company of which the offeror holds more than 50 percent of the issued voting shares.
 3.Other circumstances in conformity with the regulations prescribed by the Competent Authority.
 Any person who independently or jointly with another person(s) proposes to acquire a certain percentage of the total issued shares of a public company or of the beneficial securities of a real estate investment trust under the Real Estate Securitization Act shall make the acquisition by means of a public tender offer, unless certain conditions are satisfied.
-The scope, conditions, period, related parties, and particulars for filing and public announcement in connection with purchases of securities pursuant to paragraph 2, and the "certain percentage" and "conditions" in connection with the acquisition of a certain percentage of the total issued shares of a public company under the preceding paragraph shall be prescribed by the Competent Authority.
-Any person who will make a public tender offer to purchase the beneficial securities of a real estate investment trust under the Real Estate Securitization Act may conduct the public tender offer only after filing with the Competent Authority and making a public announcement. The scope, conditions, period, related parties, and particulars for filing and public announcement in connection with purchases of real estate securitization beneficial securities, and the "certain percentage" and "conditions" in connection with the acquisition of beneficial securities of a real estate investment trust under paragraph 3 shall be prescribed by the Competent Authority.
+Regulations governing the scope, conditions, period, related parties, and particulars for filing and public announcement in connection with purchases of securities pursuant to paragraph 2, and the "certain percentage" and "conditions" in connection with the acquisition of a certain percentage of the total issued shares of a public company under the preceding paragraph shall be prescribed by the Competent Authority.
+Any person who will make a public tender offer to purchase the beneficial securities of a real estate investment trust under the Real Estate Securitization Act may conduct the public tender offer only after filing with the Competent Authority and making a public announcement. Regulations governing the scope, conditions, period, related parties, and particulars for filing and public announcement in connection with purchases of real estate securitization beneficial securities, and the "certain percentage" and "conditions" in connection with the acquisition of beneficial securities of a real estate investment trust under paragraph 3 shall be prescribed by the Competent Authority.
 ]]></條文內容>
   </條文>
   <條文>
@@ -608,8 +610,8 @@ The restrictions on transfers of privately placed securities set forth in the pr
     <條文內容><![CDATA[The approval and certificate of license from the Competent Authority are required for the operation of securities business by a securities firm; the operation of securities business by persons other than securities firms shall be prohibited.
 Approval from the Competent Authority shall be required for the establishment of branch units by a securities firm.
 The establishment of branch units by a foreign securities firm within the territory of the Republic of China shall be prohibited without the approval and a certificate of license from the Competent Authority.
-Standards for establishment of securities firms governing matters including the conditions for establishment of securities firms and their branch units, the types of business in which they may engage, application procedures and documents to be attached, and rules governing their finances, operations and other matters for compliance shall be prescribed by the Competent Authority.
-The Competent Authority shall consult with the Central Bank of China when it adopts or amends provisions of the rules referred to in the preceding paragraph regarding foreign exchange business.
+Standards for establishment of securities firms governing matters including the conditions for establishment of securities firms and their branch units, the types of business in which they may engage, application procedures and documents to be attached, and regulations governing their finances, operations and other matters for compliance shall be prescribed by the Competent Authority.
+The Competent Authority shall consult with the Central Bank of China when it adopts or amends provisions of the regulations referred to in the preceding paragraph regarding foreign exchange business.
 ]]></條文內容>
   </條文>
   <條文>
@@ -666,7 +668,7 @@ No persons other than securities firms may use names similar to "securities."
   </條文>
   <條文>
     <條號>Article 53</條號>
-    <條文內容><![CDATA[No person who falls within any of the following categories shall serve as the director, supervisor, or managerial officer of a securities firm; those appointed and currently serving in any of these capacities shall be discharged; the Competent Authority shall also make written request to the Ministry of Economic Affairs to rescind the registration as the director, supervisor, or managerial officer of such persons:
+    <條文內容><![CDATA[No person who falls within any of the following categories shall serve as the director, supervisor, or managerial officer of a securities firm; those appointed and currently serving in any of these capacities shall be discharged; the Competent Authority shall also make written request to the Ministry of Economic Affairs to void the registration of such person as a director, supervisor, or managerial officer:
 1.Any person specified in any subparagraph of Article 30 of the Company Act.
 2.Any person who served as the director, supervisor, managerial officer or other equivalent position in a juristic person at the time when it was adjudged bankrupt, and that three years have not elapsed since the finalization of the bankruptcy, or that the reconciliation has not yet been fulfilled.
 3.Any person with whom in the last three years a financial institution has refused to transact, or who has a bad credit record.
@@ -700,7 +702,7 @@ Creditors whose claims arise from the specially approved business of a securitie
   </條文>
   <條文>
     <條號>Article 57</條號>
-    <條文內容><![CDATA[The approval to operate the securities business, or the approval to establish branch units by a securities firm may be revoked should the said securities firm be found by the Competent Authority to have violated an act or regulation or supplied false information.
+    <條文內容><![CDATA[The approval to operate the securities business, or the approval to establish branch units by a securities firm may be voided should the said securities firm be found by the Competent Authority to have violated an act or regulation or supplied false information.
 ]]></條文內容>
   </條文>
   <條文>
@@ -710,7 +712,7 @@ Creditors whose claims arise from the specially approved business of a securitie
   </條文>
   <條文>
     <條號>Article 59</條號>
-    <條文內容><![CDATA[The approval to operate the securities business or the approval to establish branch unit may be revoked should the Competent Authority finds that the securities firm has failed to commence business within three months following the approval was granted to operate the securities business; or that the operation of securities business has been commenced but was subsequently voluntarily suspended for a period of more than three consecutive months.
+    <條文內容><![CDATA[The approval to operate the securities business or the approval to establish branch unit may be voided should the Competent Authority finds that the securities firm has failed to commence business within three months following the approval was granted to operate the securities business; or that the operation of securities business has been commenced but was subsequently voluntarily suspended for a period of more than three consecutive months.
 Where there are just reasons, the securities firm may apply to the Competent Authority for extending the term referred to in the preceding paragraph.
 ]]></條文內容>
   </條文>
@@ -733,7 +735,7 @@ Regulations governing the qualifications, personnel, operations, and risk manage
   <條文>
     <條號>Article 62</條號>
     <條文內容><![CDATA[Without the approval from the Competent Authority, the trading of securities by securities brokers or dealers in an over-the-counter market, on the account of its customers, or on its own account, shall be prohibited.
-The rules governing the transaction in the over-the-counter market referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+Regulations governing trading in the over-the-counter market referred to in the preceding paragraph shall be prescribed by the Competent Authority.
 The provisions of Article 156 and 157 shall apply mutatis mutandis to the transaction referred to in paragraph 1 hereof.
 ]]></條文內容>
   </條文>
@@ -749,26 +751,27 @@ The provisions of Article 156 and 157 shall apply mutatis mutandis to the transa
   </條文>
   <條文>
     <條號>Article 65</條號>
-    <條文內容><![CDATA[Upon its examination of the business or financial conditions of a securities firm, should the Competent Authority find that there are matters not in conformity with the related regulations, the Competent Authority may at any time order that the non-conformity be corrected.
+    <條文內容><![CDATA[Upon its examination of the business or financial conditions of a securities firm, should the Competent Authority find that there are matters not in compliance with the related regulations, the Competent Authority may at any time issue a corrective order, and require the securities firm to correct the non-compliance within a prescribed period.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 66</條號>
-    <條文內容><![CDATA[Where a securities firm has violated this Act or any order issued thereunder, in addition to being subject to the punishment provided under this Act, the Competent Authority may, depending on the severity of the offense, impose any of the following sanctions:
+    <條文內容><![CDATA[Where a securities firm has violated this Act or any order issued hereunder, in addition to being subject to the punishment provided under this Act, the Competent Authority may, depending on the severity of the offense, impose any of the following sanctions, and furthermore may order the securities firm to correct the violation within a prescribed period:
 1.warning.
 2.ordering the securities firm to remove its directors, supervisors, or managerial officers from their office.
 3.suspending the business, in whole or in part, of the company or its branch for a period of not more than six months.
-4.revoking the business license of the company or its branch.
+4.voiding or revoking the business license of the company or its branch.
+5.other necessary measures.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 67</條號>
-    <條文內容><![CDATA[A securities firm whose license has been revoked, or whose business has been suspended shall settle any transactions in securities or any other matters that have been entrusted to it before the revocation of its license or the suspension of its business.
+    <條文內容><![CDATA[A securities firm whose license has been voided, or whose business has been suspended shall settle any transactions in securities or any other matters that have been entrusted to it before the voidance of its license or the suspension of its business.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 68</條號>
-    <條文內容><![CDATA[A securities firm whose business license has been revoked shall be deemed as a securities firm to the extent and within the scope of winding up and settling the transactions or any other matters entrusted to it in the preceding paragraph; a securities firm ordered to suspend operation shall be deemed to be in operation to the extent and within the scope of winding up and settling the transactions or any other matters entrusted prior to the suspension of securities business.
+    <條文內容><![CDATA[A securities firm whose business license has been voided shall be deemed as a securities firm to the extent and within the scope of winding up and settling the transactions or any other matters entrusted to it in the preceding paragraph; a securities firm ordered to suspend operation shall be deemed to be in operation to the extent and within the scope of winding up and settling the transactions or any other matters entrusted prior to the suspension of securities business.
 ]]></條文內容>
   </條文>
   <條文>
@@ -942,7 +945,7 @@ Each stock exchange shall be limited to operating one centralized securities exc
   </條文>
   <條文>
     <條號>Article 100</條號>
-    <條文內容><![CDATA[The Competent Authority may revoke the special approval or permit of an established stock exchange if the stock exchange had made any false statement in its application or any document attached thereto, or has otherwise violated an act or regulation.
+    <條文內容><![CDATA[The Competent Authority may void the special approval or permit of an established stock exchange if the stock exchange had made any false statement in its application or any document attached thereto, or has otherwise violated an act or regulation.
 ]]></條文內容>
   </條文>
   <條文>
@@ -998,7 +1001,7 @@ The membership of a stock exchange referred to in the preceding paragraph shall 
     <條號>Article 107</條號>
     <條文內容><![CDATA[A member may apply for withdrawal from membership in accordance with the articles of association or for any of the following reasons:
 1.if the member has lost its membership qualifications.
-2.if the corporate member dissolves or its company license is revoked.
+2.if the corporate member dissolves or its company license is voided.
 3.if the member is expelled from the stock exchange.
 ]]></條文內容>
   </條文>
@@ -1023,7 +1026,7 @@ The provisions of the preceding paragraph shall be prescribed in the articles of
   </條文>
   <條文>
     <條號>Article 111</條號>
-    <條文內容><![CDATA[Where a membership stock exchange expels any member pursuant to the preceding Article, such expulsion shall be reported to the Competent Authority for its approval; where the expulsions of the member is approved, the Competent Authority may revoke its special permit for securities businesses.
+    <條文內容><![CDATA[Where a membership stock exchange expels any member pursuant to the preceding Article, such expulsion shall be reported to the Competent Authority for its approval; where the expulsions of the member is approved, the Competent Authority may void its special permit for securities businesses.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1092,7 +1095,7 @@ The persons referred to in the preceding paragraph shall be prohibited from prov
 2.resolution of a meeting of members.
 3.the number of memberships falls to less than seven.
 4.bankruptcy.
-5.revocation of approval for the establishment of the stock exchange.
+5.voidance of approval for the establishment of the stock exchange.
 The resolution referred to in subparagraph 2 of the preceding paragraph shall not become effective without approval by the Competent Authority.
 ]]></條文內容>
   </條文>
@@ -1140,7 +1143,7 @@ The shareholding percentage of each securities firm in the stock exchange shall 
   </條文>
   <條文>
     <條號>Article 130</條號>
-    <條文內容><![CDATA[In addition to grounds for termination specified in the contract referred to in the preceding Article, such contract shall also be terminated upon the dissolution of either party, or the revocation of the approval or the suspension of business operation of a securities broker or dealer which is a party to the contract.
+    <條文內容><![CDATA[In addition to grounds for termination specified in the contract referred to in the preceding Article, such contract shall also be terminated upon the dissolution of either party, or the voidance of the approval or the suspension of business operation of a securities broker or dealer which is a party to the contract.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1317,7 +1320,7 @@ The provisions of paragraph 4 of Article 20 of this Act shall apply mutatis muta
   </條文>
   <條文>
     <條號>Article 157</條號>
-    <條文內容><![CDATA[In the event that any director, supervisor, managerial officer, or shareholder holding more than ten percent of the shares of a company sells the listed securities within six months after its acquisition, or repurchase the securities within six months after its sale, the company shall claim for the disgorgement of any profit realized from the sale and purchase.
+    <條文內容><![CDATA[In the event that any director, supervisor, managerial officer, or shareholder holding more than ten percent of the shares, of a stock issuing company sells listed stock of the company within six months after acquiring it, or repurchases listed stock of the company within six months after selling it, the company shall claim for the disgorgement of any profit realized thereby.
 If the board of directors or the supervisors of the company fail to exercise the right of claim for disgorgement under the preceding paragraph on behalf of the company, its shareholders may request the directors or the supervisors to exercise the right of claim within thirty days; upon the expiration of such period, if no action has been taken, such requesting shareholders shall have the right to claim for disgorgement on behalf of the company.
 The directors and supervisors shall be jointly and severally liable for damages suffered by the company as a result of their failure to exercise the claim provided under paragraph 1 of this Article.
 The right of claim specified in paragraph 1 of this Article shall be extinguished if not exercised within two years after the date on which the profit is realized.
@@ -1361,7 +1364,7 @@ The material aspects of the standard brokerage contract referred to in the prece
   <編章節>      Section 6 Supervision</編章節>
   <條文>
     <條號>Article 161</條號>
-    <條文內容><![CDATA[In order to protect the public interest and the interest of investors, the Competent Authority may order a stock exchange to amend its articles of association/incorporation, business rules, bylaws, rules regarding brokerage contracts, and any other rules; the Competent Authority may also suspend, enjoin, amend, or repeal the resolutions or dispositions issued by the stock exchange.
+    <條文內容><![CDATA[In order to protect the public interest and the interest of investors, the Competent Authority may order a stock exchange to amend its articles of association/incorporation, business rules, bylaws, rules regarding brokerage contracts, and any other rules; the Competent Authority may also suspend, enjoin, amend, or void the resolutions or dispositions issued by the stock exchange.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1392,7 +1395,7 @@ In the event that the Competent Authority is to impose any dispositions specifie
   <編章節>   Chapter V-1 Foreign companies</編章節>
   <條文>
     <條號>Article 165-1</條號>
-    <條文內容><![CDATA[When stock issued by a foreign company has been approved for the first time by the stock exchange or over-the-counter securities exchange for listed trading on the stock exchange or over-the-counter market or for registration as emerging stock, if the issuer’s stock is not traded on a foreign securities exchange, then, unless otherwise provided by the Competent Authority, the provisions of Articles 5 to 8, Articles 13 to 14-1, Article 14-2, paragraphs 1 to 3, and 5, Article 14-3, Article 14-4, paragraphs 1, 2, 5, and 6, Article 14-5, Articles 19 to 21, Articles 22 to 25-1, Article 26-3, Article 27, Article 28-1, paragraphs 2 to 4, Article 28-2, Articles 28-4 to 32, Article 33, paragraphs 1, and 2, Articles 35 to 43-8, Article 61, Article 139, Articles 141 to 145, Article 147, Article 148, Article 150, and Articles 155 to 157-1 shall apply mutatis mutandis to the management and supervision of the public offering, issuance, private placement, and trading of the securities.
+    <條文內容><![CDATA[When stock issued by a foreign company has been approved for the first time by the stock exchange or over-the-counter securities exchange for listed trading on the stock exchange or over-the-counter market or for registration as emerging stock, if the issuer’s stock is not traded on a foreign securities exchange, then, unless otherwise provided by the Competent Authority, the provisions of Articles 5 to 8, Articles 13 to 14-1, Article 14-2, paragraphs 1 to 4, and 6, Article 14-3, Article 14-4, paragraphs 1, 2, 5, and 6, Article 14-5, Article 14-6, Articles 19 to 21, Articles 22 to 25-1, Article 26-3, Article 27, Article 28-1, paragraphs 2 to 4, Article 28-2, Articles 28-4 to 32, Article 33, paragraphs 1, and 2, Articles 35 to 43-8, Article 61, Article 139, Articles 141 to 145, Article 147, Article 148, Article 150, and Articles 155 to 157-1 shall apply mutatis mutandis to the management and supervision of the public offering, issuance, private placement, and trading of the securities.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1411,7 +1414,7 @@ The foreign company shall file the name, domicile or residence, and power of att
   <條文>
     <條號>Article 166</條號>
     <條文內容><![CDATA[Parties to any dispute arising under securities transactions executed pursuant to this Act may, pursuant to their agreement, resolve their disputes by arbitration. Any disputes arising between the stock exchange and securities firms, or between securities firms shall be resolved by arbitration regardless whether there is an agreement to arbitration between the parties.
-Unless otherwise provided under this Act, the arbitration referred to in the proceeding two paragraphs shall be governed by the Arbitration Act.
+Unless otherwise provided under this Act, the arbitration referred to in the preceding two paragraphs shall be governed by the Arbitration Act.
 ]]></條文內容>
   </條文>
   <條文>
@@ -1480,7 +1483,7 @@ A person who commits any of the following offenses shall be punished with impris
 2.failure by a certified public account to faithfully fulfill his or her audit duties and issue a report or opinion with respect to any material falsehood or error in a financial report, document, or information reported or published by a company or foreign company; or failure by a certified public accountant to expressly state a material falsehood or error in a company or foreign company financial report due to failure to audit in accordance with applicable laws and regulations and generally accepted audit principles.
 3.violation of Article 22, paragraphs 1 to 3.
 Where the commission of an offense under the preceding paragraph materially affects the rights or interests of shareholders or harms the stability of the securities market, the punishment may be increased by one-half.
-Where a personnel member or employee of an issuer commits an offense in subparagraph 6 of paragraph 1, and the offense is slight, the punishment may be reduced.
+Where a personnel member or employee of an issuer commits an offense in subparagraph 6 of paragraph 1, and the offense is minor, the punishment may be reduced.
 The Competent Authority shall render a disposition suspending attestation work by a certified public accountant who violates subparagraph 2 of paragraph 2.
 If a foreign company is the issuer, any violation of paragraph 1, subparagraphs 1 to 9 by the foreign company or a director, managerial officer, employee, or accounting officer of the foreign company shall be punished under paragraphs 1 and 4.
 A person who violates Article 22 as applied mutatis mutandis under Article 165-1 or 165-2 shall be punished under paragraphs 2 and 3.
@@ -1498,6 +1501,11 @@ The provisions of the preceding 6 paragraphs shall apply to the directors, super
 ]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 174-2</條號>
+    <條文內容><![CDATA[(Deleted)
+]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 175</條號>
     <條文內容><![CDATA[A person who violates the provisions of paragraph 1 of Article 18, A paragraph 1 of Article 28-2, paragraph 1 of Article 43, paragraph 3 of Article 43-1, paragraphs 2 and 3 of Article 43-5, paragraph 1 of Article 43-6, paragraphs 1 through 3 of Article 44, paragraph 1 of Article 60, paragraph 1 of Article 62, Article 93, Articles 96 through 98, Article 116, Article 120, or Article 160 shall be punished with imprisonment for not more than two years, detention, and/or a fine of not more than NT$1.8 million.
 A person who violates Article 43, paragraph 1, Article 43-1, paragraph 3, Article 43-5, paragraphs 2 and 3, as applied mutatis mutandis under Articles 165-1 or 165-2, or violates Article 28-2, paragraph 1 or Article 43-6, paragraph 1, as applied mutatis mutandis under Article 165-1, shall be punished under the preceding paragraph.
@@ -1511,35 +1519,50 @@ A person who conducts a public tender offer without prior public announcement in
   </條文>
   <條文>
     <條號>Article 177</條號>
-    <條文內容><![CDATA[A person who violates Article 34, Article 40, Article 43-8, paragraph 1, Article 45, Article 46, Article 50, paragraph 2, Article 119, Article 150 or Article 165 shall be punished with imprisonment for not more than one year, detention, and/or a fine of not more than NT$1.2 million.A person who violates Article 40 or 150 as applied mutatis mutandis under Article 165-1 or 165-2, or Article 43-8, paragraph 1 as applied mutatis mutandis under Article 165-1, shall be punished under the preceding paragraph.
+    <條文內容><![CDATA[A person who violates Article 34, Article 40, Article 43-8, paragraph 1, Article 45, Article 46, Article 50, paragraph 2, Article 119, Article 150 or Article 165 shall be punished with imprisonment for not more than one year, detention, and/or a fine of not more than NT$1.2 million. A person who violates Article 40 or 150 as applied mutatis mutandis under Article 165-1 or 165-2, or Article 43-8, paragraph 1 as applied mutatis mutandis under Article 165-1, shall be punished under the preceding paragraph.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 177-1</條號>
-    <條文內容><![CDATA[Any person who violates the provisions of Article 74 or Article 84 shall be fined an amount not greater than the purchase price of the acquired securities. However, the fine imposed shall not be less than NT$120,000.
+    <條文內容><![CDATA[A securities firm that violates the provisions of Article 74 or Article 84 shall be fined an amount not greater than the purchase price of the acquired securities. However, the fine imposed shall not be less than NT$240,000.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 178</條號>
-    <條文內容><![CDATA[A person who commits any of the following offenses shall be punished with an administrative fine of not less than NT$240,000 and not more than NT$2.4 million:
-1.Violation of the provisions of Article 22-2, paragraph 1 or 2, Article 26-1, Article 141, Article 144, Article 145, paragraph 2, Article 147, or Article 152; or Article 141, Article 144, Article 145, paragraph 2, or Article 147 as applied mutatis mutandis under Article 165-1 or 165-2; or Article 22-2, paragraph 1 or 2 as applied mutatis mutandis under Article 165-1.
-2.Violation of the provisions of Article 14, paragraph 3, Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3, or 6, Article 14-3, Article 14-4, paragraph 1 or 2, Article 14-5, paragraph 1 or 2, Article 21-1, paragraph 5, Article 25, paragraph 1, 2, or 4, Article 26-3, paragraph 1 or 7, Article 31, paragraph 1, Article 36, paragraph 5 or 7, Article 41, Article 43-1, paragraph 1, Article 43-4, paragraph 1, Article 43-6, paragraphs 5 to 7, Article 58, Article 61, Article 69, paragraph 1, Article 79, or Article 159; or Article 14, paragraph 3, Article 31, paragraph 1, Article 36, paragraph 5, Article 43-4, paragraph 1, or Article 61, as applied mutatis mutandis under Article 165-1 or 165-2; or Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1 or 5, Article 14-3, Article 14-4, paragraph 1 or 2, Article 14-5, paragraph 1 or 2, Article 25, paragraph 1, 2, or 4, Article 26-3, paragraph 1 or 7, Article 36, paragraph 7, Article 41, Article 43-1, paragraph 1, Article 43-6, paragraphs 5 to 7, as applied mutatis mutandis under Article 165-1.
-3.An issuer or public tender offeror or a related party thereof, a securities firm or a principal thereof, a securities dealers association, a stock exchange, or any other enterprise referred to in paragraph 1 of Article 18 fails to submit account books, forms/statements, documents, or other reference or report materials within the time period specified in this Act or in an order issued by the Competent Authority pursuant to this Act, or any of the above parties refuses, impedes, or evades an examination carried out by the Competent Authority.
-4.If any issuer, public tender offeror, securities firm, securities dealers association, stock exchange, or any other enterprise referred to in Article 18, paragraph 1 fails to comply with relevant rules in the preparation, submission, public announcement, maintenance, or storage of the account books, forms/statements, vouchers, financial reports or other relevant business documents as required by this Act, or as required by orders issued by the Competent Authority pursuant to this Act.
-5.Violation of rules prescribed by the Competent Authority in accordance with Article 25-1 regarding the qualifications of proxy solicitors, proxy agents, or those handling proxy solicitation matters, the methods of solicitation or acquisition of proxy forms, corporate compliance matters in connection with the convening of shareholder meetings, or refusal to comply with a requirement by the Competent Authority for provision of information, or Article 25-1 as applied mutatis mutandis under Article 165-1.
-6.Violation of the shareholding percentage requirements of directors and supervisors of publicly issued companies prescribed by the Competent Authority in accordance with paragraph 2 of Article 26, and provisions regarding notifications and auditing in the enforcement rules for auditing the shareholdings thereto.
-7.Violation of the provisions of Article 26-3, paragraph 8 by failing to formulate rules for the conduct of directors meetings, or violating the regulations prescribed by the Competent Authority pursuant to the same article and paragraph governing the content of deliberations, procedures, matters to be recorded in the meeting minutes, and public announcement, or violation of the rules issued by the Competent Authority pursuant to Article 36-1 regarding the scope, working procedures, required public announcements, and required filings for financial or operational actions of material significance, such as acquisition or disposal of assets, derivatives trading, extension of monetary loans to others, endorsements or guarantees for others, and disclosure of financial forecast information, or violation of Article 26-3, paragraph 8 or Article 36-1 as applied mutatis mutandis under Article 165-1.
-8.Violation of the provisions of Article 28-2, paragraphs 2 or 4 to 7 or the matters prescribed by the Competent Authority in accordance with Article 28-2, paragraph 3 regarding procedures, prices, volumes, methods, methods of transfer, and matters that must be filed and publicly announced in relation to repurchase of shares, or violation of Article 28-2, paragraphs 2 to 7 as applied mutatis mutandis under Article 165-1.
-9.Violation of the provisions of Article 43-2, paragraph 1, Article 43-3, paragraph 1, or Article 43-5, paragraph 1, or regulations prescribed by the Competent Authority in accordance with Article 43-1, paragraphs 4 or 5 regarding the scope, conditions, period, related parties, and particulars for filing and public announcement in connection with purchases of securities, or violation of Article 43-1, paragraph 4, Article 43-2, paragraph 1, Article 43-3, paragraph 1, or Article 43-5, paragraph 1, as applied mutatis mutandis under Article 165-1 or 165-2.
-Where a person who has committed any of the offenses referred to in subparagraphs 2 through 7 of the preceding paragraph, the Competent Authority shall, in addition to imposing an administrative fine, order the person to comply within a prescribed time period; where the person fails to comply within the specified period, the Competent Authority may order a new period for compliance and impose additional administrative fines of not less than NT$480,000 and not more than NT$4.8 million for each successive failure to comply until corrective action has been taken.
-A reward shall be offered for the report of a violation of Article 25-1 that leads to successful discovery of a violation; regulations governing such reward shall be prescribed by the Competent Authority.
-When a foreign company is the issuer, any violation of paragraph 1, subparagraphs 3 or 4 by the foreign company shall be punished under paragraphs 1 and 2.
+    <條文內容><![CDATA[A person who commits any of the following violations shall be punished with an administrative fine of not less than NT$240,000 and not more than NT$4.8 million, and the Competent Authority may order the person to correct the violation within a prescribed period; if the person fails to make the correction within the prescribed period, consecutive fines may be imposed:
+1.Violation of the provisions of Article 22-2, paragraph 1 or 2, Article 26-1, or Article 22-2, paragraph 1 or 2 as applied mutatis mutandis under Article 165-1.
+2.Violation of the provisions of Article 14, paragraph 3, Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3, or 6, Article 14-3, Article 14-5, paragraph 1 or 2, Article 21-1, paragraph 5, Article 25, paragraph 1, 2, or 4, Article 31, paragraph 1, Article 36, paragraph 5 or 7, Article 41, Article 43-1, paragraph 1, Article 43-4, paragraph 1, or Article 43-6, paragraphs 5 to 7; or Article 14, paragraph 3, Article 31, paragraph 1, Article 36, paragraph 5, or Article 43-4, paragraph 1 as applied mutatis mutandis under Article 165-1 or 165-2; or Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3 or 6, Article 14-3, Article 14-5, paragraph 1 or 2, Article 25, paragraph 1, 2, or 4, Article 36, paragraph 7, Article 41, Article 43-1, paragraph 1, Article 43-6, paragraphs 5 to 7, as applied mutatis mutandis under Article 165-1.
+3.An issuer or public tender offeror or a related party thereof or a principal of a securities firm fails to submit account books, forms/statements, documents, or other reference or report materials within the time period specified in this Act or in an order issued by the Competent Authority pursuant to this Act, or any of the above parties evades, impedes, or refuses an examination carried out by the Competent Authority.
+4.If any issuer or public tender offeror fails to comply with relevant regulations in the preparation, submission, public announcement, maintenance, or storage of the account books, forms/statements, vouchers, financial reports or other relevant business documents as required by this Act, or as required by orders issued by the Competent Authority pursuant to this Act.
+5.Violation of Article 14-4, paragraph 1 or 2, or of Article 14-4, paragraph 1 or 2 as applied mutatis mutandis under Article 165-1; or violation of the provisions of the regulations adopted pursuant to Article 14-4 paragraph 5, or adopted pursuant to that paragraph as applied mutatis mutandis under Article 165-1, governing procedures, exercise of powers, or matters to be recorded in the meeting minutes.
+6.Violation of the forepart of Article 14-6, paragraph 1, or of the forepart of that paragraph as applied mutatis mutandis under Article 165-1, by failing to establish a remuneration committee; or violation of the provisions of the regulations adopted pursuant to the latter part of Article 14-6 paragraph 1, or adopted pursuant to the latter part of that paragraph as applied mutatis mutandis under Article 165-1, governing the qualifications for the members of the committee, its composition, procedures, exercise of powers, matters to be recorded in the meeting minutes, or public announcement and filing.
+7.Violation of the provisions of the regulations adopted pursuant to Article 25-1, or adopted pursuant to that article as applied mutatis mutandis under Article 165-1, governing the qualifications of proxy solicitors, proxy agents, or those handling proxy solicitation matters, the methods of solicitation or acquisition of proxy forms, corporate compliance matters in connection with the convening of shareholder meetings, or refusal to comply with a requirement by the Competent Authority for provision of information.
+8.Violation of the shareholding percentage requirements of directors and supervisors of publicly issued companies prescribed by the Competent Authority in accordance with paragraph 2 of Article 26, and provisions regarding notifications and auditing in the enforcement rules for auditing the shareholdings thereto.
+9.Violation of the provisions of Article 26-3, paragraph 1, 7, or the forepart of paragraph 8, or of Article 26-3, paragraph 1, 7, or the forepart of paragraph 8, as applied mutatis mutandis under Article 165-1; or violation of the provisions of the regulations adopted pursuant to the latter part of paragraph 8 of Article 26-3, or adopted pursuant to the latter part of that paragraph as applied mutatis mutandis under Article 165-1, governing the content of deliberations, procedures, matters to be recorded in the meeting minutes, or public announcement.
+10.Violation of the provisions of Article 28-2, paragraphs 2 or 4 to 7, or of Article 28-2, paragraphs 2 or 4 to 7 as applied mutatis mutandis under 165-1; or violation of the provisions of the regulations adopted pursuant to Article 28-2, paragraph 3, or adopted pursuant to that paragraph as applied mutatis mutandis under Article 165-1, governing procedures, prices, volumes, methods, methods of transfer, or matters that must be filed and publicly announced in relation to repurchase of shares.
+11.Violation of the provisions of the regulations adopted pursuant to Article 36-1, or adopted pursuant to that article as applied mutatis mutandis under Article 165-1, governing the scope, working procedures, required public announcements, or required filings for financial or operational actions of material significance, such as the acquisition or disposal of assets, engaging in derivatives trading, extension of monetary loans to others, endorsements or guarantees for others, or disclosure of financial projections.
+12.Violation of the provisions of Article 43-2, paragraph 1, Article 43-3, paragraph 1, or Article 43-5, paragraph 1; or of Article 43-2, paragraph 1, Article 43-3, paragraph 1, or Article 43-5, paragraph 1, as applied mutatis mutandis under Article 165-1 or Article 165-2; or violation of the regulations adopted pursuant to Article 43-1, paragraphs 4 or 5, or adopted pursuant to Article 43-1, paragraph 4 as applied mutatis mutandis under Article 165-1 or Article 165-2, regarding the scope, conditions, period, related parties, or particulars for filing and public announcement in connection with purchases of securities.
+When a foreign company is the issuer, any violation of subparagraphs 3 or 4 of the preceding paragraph by the foreign company shall be punished under the preceding paragraph.
+The penalty for a violation punishable by an administrative fine under the preceding two paragraphs may be remitted, or the violator may be ordered to correct the violation within a prescribed time period and the penalty remitted once the violation has been corrected, if the violation is minor.
+A reward shall be given for a report of a violation of Article 25-1 that leads to discovery of a violation. Regulations governing such reward shall be prescribed by the Competent Authority.
+]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 178-1</條號>
+    <條文內容><![CDATA[If a securities firm, an enterprise as set forth in Article 18, paragraph 1, a securities dealers association, a stock exchange, or an over-the-counter securities market commits any of the following violations, the violating entity or association may be punished with an administrative fine of not less than NT$240,000 and not more than NT$4.8 million, and the Competent Authority may order it to comply within a prescribed time period; if it fails to comply within the specified period, consecutive fines may be imposed:
+1.Violation of Article 14, paragraph 3, Article 14-1, paragraph 1 or 3, Article 21-1, paragraph 5, Article 58, Article 61, Article 69, paragraph 1, Article 79, Article 141, Article 144, Article 145, paragraph 2, Article 147, Article 152, or Article 159; or Article 61, Article 141, Article 144, Article 145, paragraph 2, or Article 147 as applied mutatis mutandis under Article 165-1 or 165-2.
+2.Failure to submit account books, forms/statements, documents, or other reference or report materials within a specified time period as ordered by the Competent Authority, or evasion, impeding, or refusal of an examination duly conducted out by the Competent Authority.
+3.Failure to comply with relevant provisions regarding the preparation, submission, public announcement, maintenance, or preservation of account books, forms/statements, vouchers, financial reports or other relevant business documents as required by this Act or by orders issued by the Competent Authority pursuant to this Act.
+4.A securities firm or an enterprise as set forth in Article 18, paragraph 1 fails to strictly implement its internal control system.
+5.An enterprise as set forth in Article 18, paragraph 1 violates the regulations adopted pursuant to paragraph 2 of the same article, governing finances, operation, or management.
+6.A securities firm violates the provisions of the regulations adopted pursuant to Article 22, paragraph 4 governing the issuance of other securities that have received approval from the Competent Authority, or the provisions of the standards or regulations adopted pursuant to Article 44, paragraph 4, the regulations adopted pursuant to Article 60, paragraph 2, the regulations adopted pursuant to Article 62, paragraph 2, or the regulations adopted pursuant to Article 70, governing finances, operations, or management.
+7.An over-the-counter securities market violates the provisions of regulations adopted pursuant to Article 62, paragraph 2, a securities dealers association violates the provisions of regulations adopted pursuant to Article 90, or a stock exchange violates the provisions of regulations adopted pursuant to Article 93, Article 95 or Article 102, governing finances, operations, or management.
+The penalty for a violation punishable by an administrative fine under the preceding paragraph may be remitted, or the violator may be ordered to correct the violation within a prescribed time period and the penalty remitted once the violation has been corrected, if the violation is minor.
 ]]></條文內容>
   </條文>
   <條文>
     <條號>Article 179</條號>
-    <條文內容><![CDATA[If a juristic person violates the provisions of this Act, the individual person responsible for the act will be punished under the articles of this chapter .
-If a foreign company violates the provisions of this Act, the individual person responsible for the act will be punished under the articles of this chapter.
+    <條文內容><![CDATA[Except as provided in Article 177-1 and in the preceding article, if a juristic person or a foreign company violates the provisions of this Act, the individual person responsible for the act will be punished under the articles of this chapter.
 ]]></條文內容>
   </條文>
   <條文>
