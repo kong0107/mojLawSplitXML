@@ -14,16 +14,14 @@
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This Regulation is enacted according to the paragraph 1 of Article 40 of Business Entity Accounting Act.
-]]></條文內容>
+    <條文內容><![CDATA[This Regulation is enacted according to the paragraph 1 of Article 40 of Business Entity Accounting Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[The following terms are used in this regulation with the meanings specified:
 1.Accounting data: Including accounting documents, account books, account items and financial statements, etc.
 2.Data storage medium: The disks, magnetic tape, CDs, IC chips, computers, automatic machines or devices,or other medium used to store accounting data when processing accounting affairs electronically.
-3.Accounting software: The application programs used for processing accounting data.
-]]></條文內容>
+3.Accounting software: The application programs used for processing accounting data.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -33,50 +31,42 @@ The internal controls mentioned in the previous paragraph shall regulate the fol
 2.Management and supervision of the use rights of accounting software and data files.
 3.Authorization and supervision of the change of accounting software.
 4.Verification of accounting data input, processing and output.
-5.Storage and maintenance of the data backup.
-]]></條文內容>
+5.Storage and maintenance of the data backup.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[The procedures for processing accounting data electronically are as follow:
 1.Get or give the source document.
 2.Input and verify the accounting data.
-3.Prepare the bookkeeping voucher, account books, and financial statements, etc.
-]]></條文內容>
+3.Prepare the bookkeeping voucher, account books, and financial statements, etc.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[The Business Business entities processing accounting data electronically, the authorization for input accounting data shall be in writing or electronic form. The signed or stamped of the responsible person, manager, host and accounting staff in the bookkeeping voucher and account books can be replaced by control program that set by authorization password.
-]]></條文內容>
+    <條文內容><![CDATA[The Business Business entities processing accounting data electronically, the authorization for input accounting data shall be in writing or electronic form. The signed or stamped of the responsible person, manager, host and accounting staff in the bookkeeping voucher and account books can be replaced by control program that set by authorization password.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[When processing accounting data electronically, if errors are found, they should be corrected after review, and make a record.
-]]></條文內容>
+    <條文內容><![CDATA[When processing accounting data electronically, if errors are found, they should be corrected after review, and make a record.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[The accounting documents, account books and financial statements of business entities, can be output electronically or store by data storage medium.
-]]></條文內容>
+    <條文內容><![CDATA[The accounting documents, account books and financial statements of business entities, can be output electronically or store by data storage medium.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[Business entities processing accounting data electronically, their financial statements shall accordance with Regulation on Business Entity Accounting Handling.
-]]></條文內容>
+    <條文內容><![CDATA[Business entities processing accounting data electronically, their financial statements shall accordance with Regulation on Business Entity Accounting Handling.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[All the accounting documents in the data storage medium, except those which should be permanently kept or which are related to unsettled accounting events, must be kept for at least five years after the completion of annual closing procedures.
 All the account books and financial statements in the data storage medium must be kept for at least ten years after the completion of annual closing
-procedures; but those unsettled accounting matters are not limited to this.
-]]></條文內容>
+procedures; but those unsettled accounting matters are not limited to this.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[Business entities processing accounting data electronically, should prepare accounting data processing manual and update with changes in processing operations.
 The accounting data processing manual must keep safely when the relevant manager or handling accountant dismissed or changing their duties, they
-should transfer it.
-]]></條文內容>
+should transfer it.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -86,8 +76,7 @@ should transfer it.
 3.The accounting data control methods, include the accounting data input, processing, output and storage.
 4.The code number and Chinese name comparison table of the account items.
 5.The operation procedure of wrong data.
-6.The procedure of data backup and recovery.
-]]></條文內容>
+6.The procedure of data backup and recovery.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -96,18 +85,15 @@ should transfer it.
 2.Log in the bookkeeping voucher.
 3.Inspect and control the accounting data.
 4.Posting the accounting journal.
-5.Display and print of various accounting books, forms and financial statements.
-]]></條文內容>
+5.Display and print of various accounting books, forms and financial statements.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
-    <條文內容><![CDATA[Business entities processing accounting data electronically should audit its accounting processing system periodically.
-]]></條文內容>
+    <條文內容><![CDATA[Business entities processing accounting data electronically should audit its accounting processing system periodically.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[This Regulation shall become effective from the date of issuance.
-]]></條文內容>
+    <條文內容><![CDATA[This Regulation shall become effective from the date of issuance.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

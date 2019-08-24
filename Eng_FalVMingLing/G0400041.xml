@@ -14,54 +14,45 @@
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Standards are prescribed in accordance with Paragraph 5 of Article 20 of the Law Governing Protection of Personal Data Processed by Computers (the "Law").
-]]></條文內容>
+    <條文內容><![CDATA[These Standards are prescribed in accordance with Paragraph 5 of Article 20 of the Law Governing Protection of Personal Data Processed by Computers (the "Law").]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The securities and futures enterprises shall keep personal data files in accordance with the Law, its enforcement rules, and these Standards.
-]]></條文內容>
+    <條文內容><![CDATA[The securities and futures enterprises shall keep personal data files in accordance with the Law, its enforcement rules, and these Standards.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The securities or futures enterprises which keep personal data files shall appoint full-time personnel to handle safety protection matters in accordance with relevant laws and regulations to prevent personal data from theft, alteration, damage, loss, or disclosure.
-]]></條文內容>
+    <條文內容><![CDATA[The securities or futures enterprises which keep personal data files shall appoint full-time personnel to handle safety protection matters in accordance with relevant laws and regulations to prevent personal data from theft, alteration, damage, loss, or disclosure.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[The securities and futures enterprises shall establish personal data file auditing system and install auditors based on needs to regularly or from time to time examine the management of personal data files.
-To implement auditing, auditors may examine relevant data and request operators to provide explanations.
-]]></條文內容>
+To implement auditing, auditors may examine relevant data and request operators to provide explanations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[The securities and futures enterprises shall designate full-personnel to manage computers and establish daily work report in the place where computers are used.The management personnel shall record the turning on and off of the computer, malfunction, abnormality, and maintenance of the equipment on daily basis and periodically report the same.
-The securities and futures enterprises which have a computer room shall appoint full-time personnel for its management and strengthen the control of entry/exit of the computer room and relevant safety protection measures.
-]]></條文內容>
+The securities and futures enterprises which have a computer room shall appoint full-time personnel for its management and strengthen the control of entry/exit of the computer room and relevant safety protection measures.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[The securities and futures enterprises shall strengthen the protection of the computer equipment for personal data files including host, peripheral equipment, and relevant facilities against natural calamity and other accidents.
-]]></條文內容>
+    <條文內容><![CDATA[The securities and futures enterprises shall strengthen the protection of the computer equipment for personal data files including host, peripheral equipment, and relevant facilities against natural calamity and other accidents.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[The securities and futures enterprises shall establish a storage for the media, including magnetic disks, magnetic tapes, etc., for personal data files and appoint full-time personnel for the management.
-The securities and futures enterprises shall establish a back-up system, use fireproof or protective device for the back-up media which need to be kept on a long-term basis or which contain important files, and store such back up in a different place.
-]]></條文內容>
+The securities and futures enterprises shall establish a back-up system, use fireproof or protective device for the back-up media which need to be kept on a long-term basis or which contain important files, and store such back up in a different place.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[The input/output operation, from source data to file creation, of all the data, and the name and title of the executor shall be recorded in detail and such record shall be managed by full-time personnel.
 After file creation, any change, deletion, and use of the data referred to in the preceding Paragraph shall be recorded.
-Files of material personal data shall be established by the securities or futures enterprise itself.In case of specific situation where such data cannot be processed by the securities or futures enterprise itself , another person may be consigned for the handling after approval, and a supervisor shall be appointed.
-]]></條文內容>
+Files of material personal data shall be established by the securities or futures enterprise itself.In case of specific situation where such data cannot be processed by the securities or futures enterprise itself , another person may be consigned for the handling after approval, and a supervisor shall be appointed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[For the input/output of personal data, the management system of identification code and password shall be established.For important personal data, data access control system shall be installed.
-The identification code and password referred to in the preceding Paragraph shall be upgraded from time to time based on needs.
-]]></條文內容>
+The identification code and password referred to in the preceding Paragraph shall be upgraded from time to time based on needs.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -71,33 +62,28 @@ When a line for linkage operation is installed, the following requirements shall
 2.Transmission journal file shall be inspected regularly, and the records shall be printed out and reported to the chief for examination.
 3.The user shall have error detecting ability and recovery measure.
 4.Communication line back up control shall be established.
-Those who link up through telecommunications institution shall comply with telecommunications laws and regulations.
-]]></條文內容>
+Those who link up through telecommunications institution shall comply with telecommunications laws and regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[The securities and futures enterprises shall strictly control the computer program, its programming, testing, creation, use, and maintenance.
 The content of control referred to in the preceding Paragraph means program instruction, job control language, programming change application, program creation standards, specifications, testing report, change report, etc.
-Examination procedures shall be established for the creation of programs. Upon completion of programming, the person other than the original programmer shall conduct the examination.
-]]></條文內容>
+Examination procedures shall be established for the creation of programs. Upon completion of programming, the person other than the original programmer shall conduct the examination.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[The securities and futures enterprises shall establish personal data file control system and manage the same in different levels.
 The system program files shall be entered and maintained by system programmers.Application program files may be entered and maintained by the system programmer or designated full-time personnel in accordance with relevant regulations.
-The upgrade, correction, or cancellation of the data in personal data file shall be reported for approval, and details of the contents of update, correction and cancellation, operator, and time shall be recorded.
-]]></條文內容>
+The upgrade, correction, or cancellation of the data in personal data file shall be reported for approval, and details of the contents of update, correction and cancellation, operator, and time shall be recorded.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
     <條文內容><![CDATA[When the securities and futures enterprises employ information operators, such operators shall be required to sign an undertaking of confidentiality.When leaving office, their identification code shall be cancelled, and their passes and relevant documents shall be returned.
-The securities and futures enterprises shall regularly or from time to time implement information confidentiality and safety protection training.
-]]></條文內容>
+The securities and futures enterprises shall regularly or from time to time implement information confidentiality and safety protection training.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[These Standards shall come into effect from the date of promulgation.
-]]></條文內容>
+    <條文內容><![CDATA[These Standards shall come into effect from the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

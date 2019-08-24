@@ -19,8 +19,7 @@
   <編章節>   Chapter 1 General</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[The Regulations are stipulated pursuant to the 2 paragraph of Article 42 of the Telecommunications Act.
-]]></條文內容>
+    <條文內容><![CDATA[The Regulations are stipulated pursuant to the 2 paragraph of Article 42 of the Telecommunications Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
@@ -32,13 +31,11 @@
 3. Declaration of Conformity (hereinafter as DoC)：
    It means a procedure that manufacturers, importers or distributors declare the TTE in comply with Article 5 of the Regulations and prepare related documents to RCB for registration.
 4. Product of Family Series：
-   It means the TTE sample submitted for type approval has the same technical specifications, design and characteristics with the certified TTE in respect of network interface, EMC and electrical safety, that is, the so-called product of family series has the same output power, modulation technique, operating frequency, channel numbers, printed circuit board layout without component changes, size, shape and material of enclosure as the certified TTE.
-]]></條文內容>
+   It means the TTE sample submitted for type approval has the same technical specifications, design and characteristics with the certified TTE in respect of network interface, EMC and electrical safety, that is, the so-called product of family series has the same output power, modulation technique, operating frequency, channel numbers, printed circuit board layout without component changes, size, shape and material of enclosure as the certified TTE.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[For the connection of the approved TTE, unless with proper reason, Type I telecommunications enterprises may not impose any discriminatory treatment with respect to the condition and quality of connection.
-]]></條文內容>
+    <條文內容><![CDATA[For the connection of the approved TTE, unless with proper reason, Type I telecommunications enterprises may not impose any discriminatory treatment with respect to the condition and quality of connection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -51,28 +48,24 @@ The aforementioned technical specifications shall not only contain test items an
 4. The connection of TTE shall ensure it is normally interfaced with the telecommunications network facilities of Type I telecommunications enterprises.
 5. Ensure Electro-Magnetic Compatibility (hereinafter as EMC) to harmonize and effective use of the radio spectrum.
 6. Ensure electrical safety to prevent harm to network operator personnel or users.
-The test items relating to EMC and electrical safety of TTE and date of enforcement shall be announced by NCC.
-]]></條文內容>
+The test items relating to EMC and electrical safety of TTE and date of enforcement shall be announced by NCC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[TTE shall comply with the test items and standards as specified in the relevant technical specifications where the test items and standards are not available, testing shall be performed in accordance with the following order:
 1. National standards(CNS).
 2. Standards specified by the international standard organization.
-3. Standards specified by the regional standard organization.
-]]></條文內容>
+3. Standards specified by the regional standard organization.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[TTE connected to the telecommunications network facilities installed by Type I telecommunications enterprises shall be tested subject to the test items and standards specified in the relevant technical specifications stipulated in Article 4 of the Regulations. In addition, if Type I telecommunications enterprises need to add other test items and standards to meet their requirements of connection, the additional test items and standards shall be submitted to NCC for approval in advance.
-]]></條文內容>
+    <條文內容><![CDATA[TTE connected to the telecommunications network facilities installed by Type I telecommunications enterprises shall be tested subject to the test items and standards specified in the relevant technical specifications stipulated in Article 4 of the Regulations. In addition, if Type I telecommunications enterprises need to add other test items and standards to meet their requirements of connection, the additional test items and standards shall be submitted to NCC for approval in advance.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[To apply for compliance approval, TTE may be classified as "sale use" and "private use" on the use basis.
 The application for type approval or DoC approval with regard to "sale use" TTE shall be submitted by its manufacturer, importer or distributor.
-The application for private approval with regard to "private use" TTE shall be submitted by the individual, incorporate or non-incorporate organizations.
-]]></條文內容>
+The application for private approval with regard to "private use" TTE shall be submitted by the individual, incorporate or non-incorporate organizations.]]></條文內容>
   </條文>
   <編章節>   Chapter 2 Administrative Procedure of Compliance Approval</編章節>
   <條文>
@@ -83,13 +76,11 @@ The application for private approval with regard to "private use" TTE shall be s
 3. The certification of origin.
 4. Qualification document: personal ID, incorporate or non-incorporate organization establish registration.
 An approval certificate together with private use label will be issued when the equipment has been granted. Upon completion of the conformity assessment procedure, the equipment samples should be returned to the applicant, while the copies of related identification and technical documents shall be retained by RCB for reference.
-For those equipment submitted for "private use" application with the same brand name and model number as those certified ones, they are not required to submit the information specified in subparagraph 2 of 1 paragraph.
-]]></條文內容>
+For those equipment submitted for "private use" application with the same brand name and model number as those certified ones, they are not required to submit the information specified in subparagraph 2 of 1 paragraph.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[The application for type approval with regard to "sale use" TTE shall be submitted to RCB,a approval certificate printed with the format of type approval label will be issued to the applicant when the equipment has been type-approved.
-]]></條文內容>
+    <條文內容><![CDATA[The application for type approval with regard to "sale use" TTE shall be submitted to RCB,a approval certificate printed with the format of type approval label will be issued to the applicant when the equipment has been type-approved.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -103,8 +94,7 @@ For those equipment submitted for "private use" application with the same brand 
 7. Other documents specified by NCC.
 8. A CD recorded with the documents itemized from 1 to 7.
 The equipment with different brand name or model number shall be submitted separately for type approval application. For type approval with regard to “product of family series”, the applicant should submit a written statement which specify the difference between the equipment sample and certified TTE,the test report and the documentation mentioned in the preceding paragraph to the original RCB.
-When the type approval certificate is issued to the applicant, all documents, except for the CD retained by RCB, should be returned meanwhile.
-]]></條文內容>
+When the type approval certificate is issued to the applicant, all documents, except for the CD retained by RCB, should be returned meanwhile.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -121,8 +111,7 @@ Test report shall include the following items:
 8. Test items and standards as specified in the relevant technical specifications.
 9. Test data and verdict of test results.
 10. Date of acceptance and completion of testing.
-The testing Labs related personnel shall sign the test report. The test report mentioned in the second paragraph could be signed by the related personnel of testing laboratories.
-]]></條文內容>
+The testing Labs related personnel shall sign the test report. The test report mentioned in the second paragraph could be signed by the related personnel of testing laboratories.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -137,19 +126,16 @@ The testing Labs related personnel shall sign the test report. The test report m
 8. A CD recorded with the documents itemized from 1 to 7.
 The test report mentioned in the previous paragraph should be submitted according to Article 11.
 When the DoC approval certificate is issued to the applicant, all documents, except for the CD retained by RCB, should be returned meanwhile.
-The items related to DoC and date of implementation shall be announced by NCC.
-]]></條文內容>
+The items related to DoC and date of implementation shall be announced by NCC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
     <條文內容><![CDATA[After itemizing review, if one of application package is incomplete or missed, RCB shall notify applicant to make it up within one month. Should the application package is still incomplete or not responded by the applicant at the expiration of time frame, the application will be turned down.
-If application fails, the disqualified items shall be listed and notified by RCB. Applicant shall correct the application package and reapplication within two months. Reapplication can be turned down again as long as the reapplication is expired or disqualified as well.
-]]></條文內容>
+If application fails, the disqualified items shall be listed and notified by RCB. Applicant shall correct the application package and reapplication within two months. Reapplication can be turned down again as long as the reapplication is expired or disqualified as well.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[For the purpose of application request for type approval or DoC, the RCBs may set up the electronic filing system. The relevant matters and date of implementation applicable to the electronic filing system shall be announced by NCC.
-]]></條文內容>
+    <條文內容><![CDATA[For the purpose of application request for type approval or DoC, the RCBs may set up the electronic filing system. The relevant matters and date of implementation applicable to the electronic filing system shall be announced by NCC.]]></條文內容>
   </條文>
   <編章節>   Chapter 3 Marking and Market Surveillance</編章節>
   <條文>
@@ -157,22 +143,19 @@ If application fails, the disqualified items shall be listed and notified by RCB
     <條文內容><![CDATA[The type approval label and DoC label are the proprietary of original applicant.
 When the certificate holder agrees others to use the type approval label or the Doc label of TTE with the same brand and model number, the certificate holder is request to submit a list of the authorized type approval label or DoC label to NCC for reference within thirty day after the completion of authorization of the type approval and Doc label.
 The certificate holder, who failed to submit the list of authorized TTE type approval label or Doc label to NCC according to the 2 paragraph stipulation, NCC may notice it to explain the reason, and order it to comply with a prescribed time frame and suspend display or sale.
-The above-mentioned authorize others to use the type approval label or Doc label may be applied through the electronic filing system; the relevant matters and date of implement applicable to the electronic filing system shall be announced by NCC.
-]]></條文內容>
+The above-mentioned authorize others to use the type approval label or Doc label may be applied through the electronic filing system; the relevant matters and date of implement applicable to the electronic filing system shall be announced by NCC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
     <條文內容><![CDATA[The certificate holder shall refer to the label format printed on the certificate to produce type approval labels or DoC labels, and affix or emboss the labels on the certified equipment before it is offered for sale. The authorized company, which is stipulated in the proceeding article, is also requested to meet the requirements.
 For those applicants apply for private approval with regard to " private use " TTE, they are requested to affix the label on the certified equipment before use.
-The suppliers, who fail to comply with the requirements stipulated in the first paragraph, will be requested by RCB to state reason, make improvements in a given time and suspend stop to display or sale.
-]]></條文內容>
+The suppliers, who fail to comply with the requirements stipulated in the first paragraph, will be requested by RCB to state reason, make improvements in a given time and suspend stop to display or sale.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
     <條文內容><![CDATA[Once the approved or registered TTE is modified in respect of brand name, model number, design or function, it should be re-submitted for compliance approval. Nevertheless, after modification in respect of design or function, if it remains in compliance with the relevant technical specifications, the applicant only needs to notify the RCB the part of modification for reference.
 When the aforementioned TTE extends its telecommunications interfaces and does not affect the function of the approved or registered telecommunications interfaces, it is permitted to conduct the compliance approval only upon the part of extension.
-Once the relevant TTE technical specifications are amended, the approved TTE shall be re-submitted for compliance approval according to the effective date and the way of implementation as promulgated in the amended technical specifications.
-]]></條文內容>
+Once the relevant TTE technical specifications are amended, the approved TTE shall be re-submitted for compliance approval according to the effective date and the way of implementation as promulgated in the amended technical specifications.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
@@ -186,13 +169,11 @@ Those apply for reissue or replacement of type approval or Doc certificate accor
 1. The type approval or DoC certificate is lost or damaged : replacement (reissue) application form.
 2. For subparagraph 1 of the previous paragraph: replacement (reissue) application form, approval document of the original RCB.
 3. For subparagraph 2 of the previous paragraph: replacement (reissue) application form, photocopy of equipment production contract and statement that the equipment complies with technical specification.
-4. For subparagraphs 3 and 4 of the previous paragraph: replacement (reissue) application form, company or business registration document.
-]]></條文內容>
+4. For subparagraphs 3 and 4 of the previous paragraph: replacement (reissue) application form, company or business registration document.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[RCB should perform market surveillance activities on the TTE from time to time.
-]]></條文內容>
+    <條文內容><![CDATA[RCB should perform market surveillance activities on the TTE from time to time.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -200,41 +181,34 @@ Those apply for reissue or replacement of type approval or Doc certificate accor
 After granting approval certificates or DoC certificates to the applicant, the RCB may rescind the said certificates under one of the following conditions:
 1. Violate the first paragraph or the third paragraph of Article 17.
 2. Fail to comply with relevant TTE technical specifications after market surveillance.
-3. Loss on a agency or patent lawsuit or violating the related regulations leads to the sale of certified TTEs are forbidden.
-]]></條文內容>
+3. Loss on a agency or patent lawsuit or violating the related regulations leads to the sale of certified TTEs are forbidden.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
     <條文內容><![CDATA[For revoked or rescinded approval certificates or DoC certificates, NCC will announce to the public for the reason of abolishment and termination. Certificate holder will not be allowed to resubmit application with respect to the equipment with same brand name and model number within three months from the date of revocation or abolishment.
-The original certificate holder shall be responsible for the retrieval of all sold TTE if his certificate is revoked or abolished by RCB. Certificate holder shall also make amends to the party for the loss caused.
-]]></條文內容>
+The original certificate holder shall be responsible for the retrieval of all sold TTE if his certificate is revoked or abolished by RCB. Certificate holder shall also make amends to the party for the loss caused.]]></條文內容>
   </條文>
   <編章節>   Chapter 4 Additional Provisions</編章節>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[When the applicants apply for compliance approval pursuant to the Regulations, the approval fees should be charged by the RCB according to the fee schedule stipulated by the Ministry of Transportation and Communications.
-]]></條文內容>
+    <條文內容><![CDATA[When the applicants apply for compliance approval pursuant to the Regulations, the approval fees should be charged by the RCB according to the fee schedule stipulated by the Ministry of Transportation and Communications.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
     <條文內容><![CDATA[The applicant shall pay the compliance approval fees at the time of submitting the application.
-When RCB turn down the application pursuant to the Regulations, the approval fees are non-refundable.
-]]></條文內容>
+When RCB turn down the application pursuant to the Regulations, the approval fees are non-refundable.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[Under bilateral or multilateral mutual recognition agreements or arrangements signed between our country and other countries, regional organizations or international organizations, NCC may accept the test report,compliance certificate or DoC issued under the said agreements or arrangements.
-]]></條文內容>
+    <條文內容><![CDATA[Under bilateral or multilateral mutual recognition agreements or arrangements signed between our country and other countries, regional organizations or international organizations, NCC may accept the test report,compliance certificate or DoC issued under the said agreements or arrangements.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[The application form, conformity assessment procedure and format of approval certificate and DoC certificate pursuant to the Regulations is stipulated and announced by NCC.
-]]></條文內容>
+    <條文內容><![CDATA[The application form, conformity assessment procedure and format of approval certificate and DoC certificate pursuant to the Regulations is stipulated and announced by NCC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 26</條號>
-    <條文內容><![CDATA[The Regulations shall become effective as of the date of promulgation.
-]]></條文內容>
+    <條文內容><![CDATA[The Regulations shall become effective as of the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

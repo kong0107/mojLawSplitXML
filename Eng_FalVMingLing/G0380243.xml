@@ -15,13 +15,11 @@
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are enacted pursuant to Paragraph 2, Article 29 of the Act Governing Electronic Payment Institutions (referred to as the “Act” hereunder) as well as Article 39 and Article 40 of the Act, to which Paragraph 2, Article 29 applies mutatis mutandis.
-]]></條文內容>
+    <條文內容><![CDATA[These Regulations are enacted pursuant to Paragraph 2, Article 29 of the Act Governing Electronic Payment Institutions (referred to as the “Act” hereunder) as well as Article 39 and Article 40 of the Act, to which Paragraph 2, Article 29 applies mutatis mutandis.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[Electronic payment institutions shall comply with these Regulations in carrying out the information system and security management operations of their electronic payment business.
-]]></條文內容>
+    <條文內容><![CDATA[Electronic payment institutions shall comply with these Regulations in carrying out the information system and security management operations of their electronic payment business.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -51,8 +49,7 @@
 12. "Online To Offline" ("O2O") shall mean an electronic payment institution using mobile device or other portable equipment to provide services at physical channels for its electronic payment business.
 13. "Payment via agreed linked deposit account" shall mean the service where in conducting its electronic payment business, an electronic payment institution gives a financial institution at where an user opens his/her account (referred to as "the financial institution holding the account" hereunder) an account payment deduction instruction according to the agreement between the user and the financial institution to transfer funds from the user's deposit account with the financial institution for the electronic payment institution to collect payment from the user and record the payment amount and the fund transfer activity under the user's electronic payment account ("e-payment account"). The mechanisms of the operation are as follows:
 (1) "Direct link mechanism" means the mechanism where an electronic payment institution gives a financial institution holding the account a payment deduction instruction directly to transfer funds from the user's deposit account.
-(2) "Indirect link mechanism" means the mechanism where an electronic payment institution gives a dedicated deposit account bank a payment deduction instruction indirectly through the financial information service enterprise or clearing house to which the bank is connected to transfer funds from the user's deposit account with the bank.
-]]></條文內容>
+(2) "Indirect link mechanism" means the mechanism where an electronic payment institution gives a dedicated deposit account bank a payment deduction instruction indirectly through the financial information service enterprise or clearing house to which the bank is connected to transfer funds from the user's deposit account with the bank.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -63,8 +60,7 @@
 (2) Verifying credit card holder: The institution should check with the credit card issuer or verify the holder's national ID card number.
 3. Verifying the copy of identity document: The institution should obtain a complete and clearly identifiable image of user's identity document by upload or taking a photograph.
 4. In-person identity verification: When the institution accepts in-person user registration, it should understand user's motive, verify user's telephone number and address, check identity document with a photo and keep a copy, retain user's seal or signature specimen, enter an agreement on limits of funds received/paid, and pay attention to the surrounding environment while the user opens an account.
-5. Identity verification via electronic signature: The institution shall accept signature via certificate authority (CA), authenticate the validity of certificate, and confirm that the identity proven by the certificate matches that of the e-payment account user.
-]]></條文內容>
+5. Identity verification via electronic signature: The institution shall accept signature via certificate authority (CA), authenticate the validity of certificate, and confirm that the identity proven by the certificate matches that of the e-payment account user.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -79,8 +75,7 @@ The foregoing account number and the security design of fixed password are as be
 7. Changed password shall not be the same as the previously set password.
 8. If the password has not changed for more than one year, the electronic payment institution should take proper actions.
 9. If the electronic payment institution issues a default password at the time the user registers, the user shall be required to change the default password when he/she logs in the first time.
-In the case where a security design in the first paragraph adopts pattern lock or gesture lock, subsections 6 and 7 of the foregoing paragraph shall apply mutatis mutandis.
-]]></條文內容>
+In the case where a security design in the first paragraph adopts pattern lock or gesture lock, subsections 6 and 7 of the foregoing paragraph shall apply mutatis mutandis.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -92,8 +87,7 @@ In the case where a security design in the first paragraph adopts pattern lock o
 2. When the user makes fund transfer between e-payment accounts, the institution shall adopt the following transaction security designs based on different transaction limits:
 (1) Type C transaction security design shall be adopted when the per transaction amount is below an equivalent of NT$50,000, or the daily transaction amount is below an equivalent of NT$100,000, or the monthly transaction amount is below an equivalent of NT$200,000; and
 (2) Type D transaction security design shall be adopted when the per transaction amount is at or more than an equivalent of NT$50,000, or the daily transaction amount is at or more than an equivalent of NT$100,000, or the monthly transaction amount is at or more than an equivalent of NT$200,000.
-The Type D security design in the preceding paragraph may replace Type C security design, Type C security design may replace Type B security design, and Type B security design may replace Type A security design.
-]]></條文內容>
+The Type D security design in the preceding paragraph may replace Type C security design, Type C security design may replace Type B security design, and Type B security design may replace Type A security design.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -119,15 +113,13 @@ Security design provided in Item (2), Subparagraph 4 of the preceding paragraph 
 5. For certificates used in non-repudiation of the transaction, choose a certificate authority that agrees to be held liable and the certificate application allows the user to generate their own private key;
 6. Any certificate issued by a government agency shall be used only for identity verification at the time of registration;
 7. Each transaction must be signed to confirm the payment content and authenticate the validity of the certificate; and
-8. Private keys for the certificate shall be stored in a hardware security module that complies with Common Criteria EAL 4+ (including at least AVA_VLA.4 or AVA_VAN.5), or FIPS 140-1 Level 2 or above, or other modules having the same security strength to prevent the private keys from being exported or duplicated. If the chip hardware and payment instruction generation use the same equipment, the transaction should be confirmed manually by user before it is completed, or two or more additional security features are added in the transaction process.
-]]></條文內容>
+8. Private keys for the certificate shall be stored in a hardware security module that complies with Common Criteria EAL 4+ (including at least AVA_VLA.4 or AVA_VAN.5), or FIPS 140-1 Level 2 or above, or other modules having the same security strength to prevent the private keys from being exported or duplicated. If the chip hardware and payment instruction generation use the same equipment, the transaction should be confirmed manually by user before it is completed, or two or more additional security features are added in the transaction process.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[Electronic payment institutions shall ensure that e-payment transactions meet the following security requirements for different types of network:
 1. Dedicated network: Message protection measures should have the attributes of integrity, authentication and non-duplication. If transaction security design provided under Item 2, Subparagraph 4, Paragraph 1 of the preceding article is adopted, the protection measures should also meet the non-repudiation requirement.
-2. Internet or mobile network: Message protection measures should have the attributes of confidentiality, integrity, authentication and non-duplication. If transaction security design provided under Item 2, Subparagraph 4, Paragraph 1 of the preceding article is adopted, the protection measures should also meet the non-repudiation requirement.
-]]></條文內容>
+2. Internet or mobile network: Message protection measures should have the attributes of confidentiality, integrity, authentication and non-duplication. If transaction security design provided under Item 2, Subparagraph 4, Paragraph 1 of the preceding article is adopted, the protection measures should also meet the non-repudiation requirement.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
@@ -136,8 +128,7 @@ Security design provided in Item (2), Subparagraph 4 of the preceding paragraph 
 2. Integrity: Adopt algorithm at or above SHA1, 3DES 112bits, AES 128bits, RSA 2048bits, ECC 256bits, or other algorithms with same or greater security strength for message authentication code (MAC) or encryption.
 3. Authentication: Adopt algorithm at or above 3DES 112bits, AES 128bits, RSA 2048bits, ECC 256bits, or other algorithms with same or greater security strength for message authentication code (MAC), encryption or digital signature.
 4. Non-duplication: Adopt serial numbers, one-time random numbers, or timestamps.
-5. Non-repudiation: Adopt algorithm at or above SHA256 or other algorithms with same or greater security strength for message authentication code (MAC), and adopt algorithm at or above RSA 2048bits, ECC 256bits or other algorithms with same or greater security strength for digital signature.
-]]></條文內容>
+5. Non-repudiation: Adopt algorithm at or above SHA256 or other algorithms with same or greater security strength for message authentication code (MAC), and adopt algorithm at or above RSA 2048bits, ECC 256bits or other algorithms with same or greater security strength for digital signature.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -171,8 +162,7 @@ Security design provided in Item (2), Subparagraph 4 of the preceding paragraph 
 5. Design requirements for reconfirmation:
 (1) Upon receiving payment instruction from user where the payment will be made via online credit card charge or user's e-payment account or the agreed linked deposit account, the electronic payment institution should notify the payor for reconfirmation in a manner agreed in advance with the user (e.g. transaction confirmation webpage, mail or short message) and proceed with the transaction following reconfirmation.
 (2) Where payment is made by other means not provided in the preceding item, it can be perceived as reconfirmation by payor.
-6. Unless otherwise provided in the Act and the orders authorized hereunder, the design of the barcode technology shall conform to relevant self-disciplinary regulations specified by the Bankers Association with respect to the security of the application of the barcode.
-]]></條文內容>
+6. Unless otherwise provided in the Act and the orders authorized hereunder, the design of the barcode technology shall conform to relevant self-disciplinary regulations specified by the Bankers Association with respect to the security of the application of the barcode.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10-1</條號>
@@ -200,8 +190,7 @@ b. Make application to the financial institution holding the account through the
 (2) The financial institution holding the account should notify the electronic payment institution when a user directly applies to it for termination of agreed linkage.
 10. Simplified rules for institutions engaging concurrently in electronic payment business:
 (1) A bank concurrently engaged in the electronic payment business or Chunghwa Post Co., Ltd. may verify the user’s identity, and complete the agreed linkage and transaction procedures in accordance with the Regulations, instead of the provisions of subparagraphs 2 to 4, 7, and 8.
-(2) For institutions engaging concurrently in electronic payment business or Chunghwa Post Co., Ltd. that are not the user's bank and adopt indirect link mechanism, the provisions of Item (2) of Subparagraph 2, Item (1).b of Subparagraph 3 and Item (2) of Subparagraph 4 hereof on agreement with the dedicated deposit account bank and authentication of financial certificate do not apply.
-]]></條文內容>
+(2) For institutions engaging concurrently in electronic payment business or Chunghwa Post Co., Ltd. that are not the user's bank and adopt indirect link mechanism, the provisions of Item (2) of Subparagraph 2, Item (1).b of Subparagraph 3 and Item (2) of Subparagraph 4 hereof on agreement with the dedicated deposit account bank and authentication of financial certificate do not apply.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -212,8 +201,7 @@ b. Make application to the financial institution holding the account through the
 4. The information security policy mentioned in Subparagraph 1 hereof and management and operating rules mentioned in the preceding subparagraph shall be reviewed and revised every year, and examined when there are material changes (e.g. newly promulgated law or regulations) to ensure their ongoing suitability, adequacy and effectiveness.
 5. The electronic payment institution should, in accordance with the operating procedure of e-payment platform, identify assets, including personnel, forms, equipment, software and systems, and establish a list of assets, operating procedures, network architecture, organizational chart and responsible persons, and take inventory periodically to maintain their accuracy.
 6. The electronic payment institution should define the roles and responsibilities of personnel and segregate conflicting roles.
-7. The electronic payment institution should, based on operational risk and professional capability, select suitable personnel to serve in their positions and provide them with necessary training regularly.
-]]></條文內容>
+7. The electronic payment institution should, based on operational risk and professional capability, select suitable personnel to serve in their positions and provide them with necessary training regularly.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -226,8 +214,7 @@ b. Make application to the financial institution holding the account through the
 6. When an employee logs in the operating system to make system changes or access the database, related manual operational record should be saved and the password should be changed as soon as possible after use. Where the password cannot be changed for some reason, the electronic payment processing institution should establish monitoring mechanism to avoid unauthorized change and double check the operating record afterwards.
 7. Employee accounts should be managed by one account per person in principle to avoid one account being shared by multiple persons. If it is necessary to establish a common account, other enhanced control measures should be in place with respect to account application and use with operating records saved and the identity of operators distinguished.
 8. Where fixed password is used, the password should be changed periodically in accordance with Paragraph 2 of Article 5 herein; the password for accounts provided for use by personnel shall be changed at least once every three months; the password for accounts provided for system connection shall be changed at least once every three months or controlled by other enhanced methods (e.g. restrict manual login).
-9. Encryption/decryption programs or utility programs with change authority established (e.g. database access program) should be managed with a list established and use restricted. The program should also have access authority set to prevent unauthorized access and have the audit trail retained.
-]]></條文內容>
+9. Encryption/decryption programs or utility programs with change authority established (e.g. database access program) should be managed with a list established and use restricted. The program should also have access authority set to prevent unauthorized access and have the audit trail retained.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
@@ -250,8 +237,7 @@ b. Make application to the financial institution holding the account through the
 8. To continuously improve the maintenance of personal data security, the personal data management unit or personnel of the electronic payment institution should produce related self-evaluation reports regularly and set up the following mechanisms:
 (1) Inspecting and revising relevant personal data protection matters; and
 (2) Planning and carrying out corrective and preventive actions if the self-evaluation report indicates possible regulatory violation.
-9. The self-evaluation report provided in the preceding subparagraph shall be adopted by resolution of the board of directors , the board of managing directors or approved by managerial officer authorized by the board. For branches of foreign banks in Taiwan or electronic payment processing institutions without a board of directors, the self-evaluation report shall be signed off by their responsible officer.
-]]></條文內容>
+9. The self-evaluation report provided in the preceding subparagraph shall be adopted by resolution of the board of directors , the board of managing directors or approved by managerial officer authorized by the board. For branches of foreign banks in Taiwan or electronic payment processing institutions without a board of directors, the self-evaluation report shall be signed off by their responsible officer.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
@@ -263,8 +249,7 @@ b. Make application to the financial institution holding the account through the
 2. Where a fixed password is used for user identity verification, undergo non-invertible algorithm (e.g. hash algorithm) before storing such data. In addition, to prevent password cracking using pre-generated hash value, encrypt users' passwords or add inaccessible data computing. If encryption algorithm is used, the keys should be stored in the hardware security module with export function restricted.
 3. Use hardware security module to protect the keys, which should be separately generated by two or more units other than the system development and maintenance unit (e.g. customer service, accounting, business administration) with the list of clear-text keys under dual control. In addition, the keys under dual control may be encrypted and exported to a secure device (e.g. IC card) or copied to a location under access control for emergency use by the maintenance unit.
 4. Keep the locations of key storage at the minimum and allow only necessary administrators to access the keys to facilitate management and reduce the possibility of key leakage.
-5. Replace the key when the duration of key is about to expire or when there is leakage concern.
-]]></條文內容>
+5. Replace the key when the duration of key is about to expire or when there is leakage concern.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
@@ -280,8 +265,7 @@ The control room mentioned in Subparagraph 7 of the preceding paragraph shall me
 1. The control room should have access control and be equipped with monitoring equipment with connection and usage logs retained and audit carried out regularly.
 2. Only authorized system operations/maintenance personnel should be allowed to enter the control room to use the computer equipment inside; or system operations/maintenance personnel may log in the computer equipment inside the control room using a one-time password through a designated equipment, the intranet and secure configuration for service control (e.g. firewall).
 3. The connection process should be carried out through an intranet, a leased line or a virtual private network.
-4. Where the network equipment and computer equipment in the control room constitute a part of the e-payment operating environment, those equipments shall comply with relevant provisions of these Regulations.
-]]></條文內容>
+4. Where the network equipment and computer equipment in the control room constitute a part of the e-payment operating environment, those equipments shall comply with relevant provisions of these Regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
@@ -290,8 +274,7 @@ The control room mentioned in Subparagraph 7 of the preceding paragraph shall me
 2. Establish a regular backup mechanism and a backup list, and safeguard the backup media or files to ensure data availability and prevent unauthorized access.
 3. Establish a mechanism for the testing of backup media to verify the integrity of backup and the suitability of storage environment.
 4. Ensure to follow the established procedures for collection, protection and management of digital evidences, and relevant records shall be retained for at least 2 years.
-5. Draft system security enhancement standards, and establish and implement security configuration measures for e-payment operating environment.
-]]></條文內容>
+5. Draft system security enhancement standards, and establish and implement security configuration measures for e-payment operating environment.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
@@ -306,8 +289,7 @@ The control room mentioned in Subparagraph 7 of the preceding paragraph shall me
 8. Carry out vulnerability scan every quarter and undertake risk evaluation based on the scan or testing results, draw up proper measures and set completion time for different risks, write up a report on evaluation results and actions taken, adopt proper measures and ensure that all operating systems and software applications are installed with tested security patches that are free of vulnerability concern.
 9. Avoid using system software and application software that have stopped vulnerability patches or update, and if necessary, take necessary safeguard measures.
 10. Carry out program code scan or black box testing before the e-payment platform goes online and for changed programs every half a year, and undertake risk evaluation based on the scan or test results, draw up proper measures and set completion time for different risks, conduct corrective actions, record handling situation and follow up on improvements.
-11. The e-payment platform should have penetration testing conducted every year to enhance information security.
-]]></條文內容>
+11. The e-payment platform should have penetration testing conducted every year to enhance information security.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
@@ -323,8 +305,7 @@ The control room mentioned in Subparagraph 7 of the preceding paragraph shall me
 (2) Establish an authorization mechanism to make necessary authorization based on the application, and examine the authorization mechanism at least once a year.
 (3) Strengthen identity authentication for any change operations and adopt exchange of notes or two factors authentication security design and obtain superior's authorization for each login.
 (4) Define connectable remote equipment and ensure that necessary information security systems have been installed.
-(5) Establish monitoring mechanism and retain operating records for periodic review by the superiors.
-]]></條文內容>
+(5) Establish monitoring mechanism and retain operating records for periodic review by the superiors.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
@@ -334,8 +315,7 @@ The control room mentioned in Subparagraph 7 of the preceding paragraph shall me
 3. Make sure system software and application software have installed the latest security patches.
 4. For sensitive data used in testing, undergo data masking or control protection first.
 5. From development stage to operational stage, handle changes in accordance with the established change control procedure and retained relevant records; changes to the operating environment (e.g. execution, review) shall be carried out by at least 2 persons for internal check.
-6. For modification of system software, first undergo technical review and testing; do not attempt to modify software packages at own discretion and carry out risk evaluation first. Program version change or production of comparison report should not be at the discretion of development personnel; source code management should be established to conform to the principles of segregation of duties and internal check.
-]]></條文內容>
+6. For modification of system software, first undergo technical review and testing; do not attempt to modify software packages at own discretion and carry out risk evaluation first. Program version change or production of comparison report should not be at the discretion of development personnel; source code management should be established to conform to the principles of segregation of duties and internal check.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -346,38 +326,33 @@ The control room mentioned in Subparagraph 7 of the preceding paragraph shall me
 (2) Undertake proper supervision of the outsourced service provider in accordance with the provisions of these Regulations.
 (3) When the security of outsourced operation is breached, the outsourced service provider should take the initiative to promptly inform the client.
 (4) The outsourced service provider shall ensure that the system or program it delivers does not contain malware or backdoor, and any program placed over the Internet shall have passed the program code scan or black box testing.
-3. Conduct information security audit of the outsourced service provider or ask the outsourced service provider to provide information security audit report at least once a year.
-]]></條文內容>
+3. Conduct information security audit of the outsourced service provider or ask the outsourced service provider to provide information security audit report at least once a year.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
     <條文內容><![CDATA[The information security incident management of e-payment operating environment shall meet the following requirements:
 1. Place logs and audit trails of operating systems, network equipment and information security equipment under central management, conduct abnormality analysis, set proper alarm indicators and review the indicators regularly.
 2. Establish mechanisms for reporting and handling of information security incidents, responses and post-incident follow-up and improvement, and retain records on relevant operations.
-3. In case of an information security incident, take proper care of the system transaction logs, system logs, and security incident logs, and heed the effectiveness of log records and retained evidences obtained in the handling process.
-]]></條文內容>
+3. In case of an information security incident, take proper care of the system transaction logs, system logs, and security incident logs, and heed the effectiveness of log records and retained evidences obtained in the handling process.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
     <條文內容><![CDATA[The business continuity management of e-payment operating environment shall meet the following requirements:
 1. Carry out business impact analysis, define maximum tolerable downtime, set system recovery time objective and data recovery point objective, deploy necessary redundancy, and take into consideration that if the time for system recovery is restricted, set up offsite backup system at a safe distance to maintain service availability.
 2. Establish response procedure for major information system incident or natural disaster and confirm corresponding resources to ensure that the impact of a major disaster on important business activities is within reasonable range.
-3. Validate and conduct drill of business continuity control measures to ensure their effectiveness and retain related drill records and hold review meetings therefor.
-]]></條文內容>
+3. Validate and conduct drill of business continuity control measures to ensure their effectiveness and retain related drill records and hold review meetings therefor.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
     <條文內容><![CDATA[An electronic payment institution should take inventory of rules and regulations applicable to information security, incorporate relevant information security requirements into its internal control systems, and undertake self-evaluation of regulatory compliance regularly to ensure compliance with information security regulations.
 An electronic payment institution should conduct periodic check of its information systems and security control items set out in these Regulations through its internal control systems, and shall appoint an accountant to examine and produce an information system and security control operation evaluation report when it applies for approval pursuant to Article 10 of the Act and before the end of April every year thereafter.
 The evaluation report in the preceding paragraph shall contain at least the qualifications of the evaluator, scope of evaluation, deficiencies found in evaluation, severity of deficiency, type of deficiency, description of associated risks, concrete improvement suggestions and social engineering drill results. The evaluation should also be given to the internal audit unit for follow-up of improvement actions taken. The aforementioned report and documents on improvement of deficiencies shall be retained for at least 2 years.
-To ensure the privacy and security of transaction data and to ensure that the accuracy of data transfer, exchange or processing is maintained, the competent authority may, if deemed necessary, require an electronic payment institution to raise the standards for its information system and step up its security management operations.
-]]></條文內容>
+To ensure the privacy and security of transaction data and to ensure that the accuracy of data transfer, exchange or processing is maintained, the competent authority may, if deemed necessary, require an electronic payment institution to raise the standards for its information system and step up its security management operations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 24</條號>
     <條文內容><![CDATA[These Regulations shall be in force on May 3, 2015.
-The amended provisions of these Regulations, except for the amendments published on December 28, 2017, which shall be effective as of January 1, 2018, shall become in force on the date of promulgation.
-]]></條文內容>
+The amended provisions of these Regulations, except for the amendments published on December 28, 2017, which shall be effective as of January 1, 2018, shall become in force on the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

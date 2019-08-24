@@ -26,13 +26,11 @@
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are promulgated pursuant to Paragraph 3, Article 46 of the Telecommunications Act (hereinafter referred to as the “Act”).
-]]></條文內容>
+    <條文內容><![CDATA[These Regulations are promulgated pursuant to Paragraph 3, Article 46 of the Telecommunications Act (hereinafter referred to as the “Act”).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The National Communications Commission (NCC) is the competent authority of the Regulations.
-]]></條文內容>
+    <條文內容><![CDATA[The National Communications Commission (NCC) is the competent authority of the Regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -53,8 +51,7 @@
 14. Effective isotropically radiated power (EIRP): the product of the net RF power of every carrier wave from an emitter transferred to the antenna and the antenna gain.
 15. Co-site: base stations established at the same site by service providers.
 16. Co-construction: an installed base station sharing either the antenna, the baseband unit, the radio unit, or the pole with the provider of the same or different mobile service.
-17. Spatial Iron Tower Base Station: refers to base stations with iron towers or iron pillars over nine meters in height placed on empty space and attached with antenna and radio frequency equipment.
-]]></條文內容>
+17. Spatial Iron Tower Base Station: refers to base stations with iron towers or iron pillars over nine meters in height placed on empty space and attached with antenna and radio frequency equipment.]]></條文內容>
   </條文>
   <編章節>   Chapter 2 Base station establishment</編章節>
   <條文>
@@ -63,8 +60,7 @@
 The winning bidder or the service provider may divert their own approved experimental mobile businesses network base stations, or approved experimental base stations transferred from other experimental mobile network administrators as a part of their own network system. The diverted facilities on the same site may not be demolished.
 Once the winning bidder or the service provider has been approved to divert its own base stations, or those transferred from other mobile business service providers as part of its own network, a copy of the approval letter issued by the NCC, as well as the affidavit for the installation of the base station referred to in Subparagraph 2, Paragraph 1 of Article 5, shall be submitted. The diversion shall accord with the following procedures:
 1. For the diversion of a base station with an installation permit prior to obtaining a radio station license, the installation permit should be submitted to be changed, and the valid period of the installation permit shall be renewed.
-2. For the diversion of a base station with radio station license, the radio station license shall be submitted to be changed; the station shall be exempt from examination, and the valid period of radio station license will be renewed.
-]]></條文內容>
+2. For the diversion of a base station with radio station license, the radio station license shall be submitted to be changed; the station shall be exempt from examination, and the valid period of radio station license will be renewed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -76,14 +72,12 @@ The winning bidder or the service provider applying for a new OBS installation p
 For newly installed base stations with relevant auxiliary telecommunication facilities, bid winners or operators shall submit floor plans, elevation maps, and the original documents of structure and fireproof safety signed and verified by relevant professional technicians to the competent authorities for reference and also notify the local city or county governments of the installation sites.
 If the winning bidder or the service provider failed to follow in the requirements of the affidavit, the NCC can revoke the installation permit. If there is any change or alternation to the affidavit, the winning bidder or the service provider shall submit another affidavit and report to the NCC for reference.
 If the winning bidder or the service provider applies for the base station installation, the NCC shall issue the installation permit after a qualified examination. However, the NCC can survey the sites as needed and the winning bidders and service providers cannot reject the survey.
-When the base stations installation involves structural safety and rights of using the buildings or location of the base stations, the winning bidder or the service provider shall comply with the relevant regulations of construction management and acquire related approval from the competent authorities.
-]]></條文內容>
+When the base stations installation involves structural safety and rights of using the buildings or location of the base stations, the winning bidder or the service provider shall comply with the relevant regulations of construction management and acquire related approval from the competent authorities.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[The valid period of the base station installation permit is one year. If the winning bidders or service operators cannot complete the installation in the time limit, an explanation shall be submitted to the NCC for the application for extension within one month during the last two months before the deadline. The extension cannot exceed six months and can be applied for once only.
-During the installation of the base station, the base station shall not emit radio waves unless the winning bidder or the service provider applies to the NCC for a short-term test or that the NCC undergoes the on-site technical inspection. The duration of the short-term test cannot exceed five days.
-]]></條文內容>
+During the installation of the base station, the base station shall not emit radio waves unless the winning bidder or the service provider applies to the NCC for a short-term test or that the NCC undergoes the on-site technical inspection. The duration of the short-term test cannot exceed five days.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -94,8 +88,7 @@ During the installation of the base station, the base station shall not emit rad
 For each mobile business, the sampling standard for the inspection of base stations shall be separated by their maximum RF output power from the transmitter as follows:
 1. For base stations with more than 7.94 Watts: the sampling rate shall adhere to the attached Table 1.
 2. For micro cell base stations (1.26 ~ 7.94 Watts): the sampling rate shall adhere to attached Table 2.
-When the municipal government, the city or county government, or another competent authority affirms the winning bidder or the service provider cannot install the base station in conformity with a law and inform the NCC by mail, the NCC can revoke the installation permits or rescind the radio station licenses.
-]]></條文內容>
+When the municipal government, the city or county government, or another competent authority affirms the winning bidder or the service provider cannot install the base station in conformity with a law and inform the NCC by mail, the NCC can revoke the installation permits or rescind the radio station licenses.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -104,13 +97,11 @@ When the renewal of the license mentioned in the preceding paragraph is dealt wi
 Except in the case of an amendment to written data, the license of a micro cell base station shall not expire and shall not require renewal.
 Once the substantial (not namely) type of equipment or the wave-radiating location of the micro cell base station aforementioned in the preceding paragraph has changed, the bidder or service provider shall apply to cancel the altered micro cell base station in the list within one month after the day on which the changes occurred.
 Once the listed micro cell base stations aforementioned in the preceding paragraph have been cancelled, the base station license shall cease to be valid.
-To re-install the altered micro cell base stations aforementioned in the fourth paragraph, an installation permit is required prior to applying for the inspection after completing installation. If examination has deemed it qualified, the base station shall be included in the list of a new base station license.
-]]></條文內容>
+To re-install the altered micro cell base stations aforementioned in the fourth paragraph, an installation permit is required prior to applying for the inspection after completing installation. If examination has deemed it qualified, the base station shall be included in the list of a new base station license.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[(deleted)
-]]></條文內容>
+    <條文內容><![CDATA[(deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -119,39 +110,33 @@ To re-install the altered micro cell base stations aforementioned in the fourth 
 2. Changing the base station equipment model without changing the brand.
 3. Changing the number of radio frequency unit.
 A winning bidder or service provider, without changing the address of a base station, shall file a report to the NCC prior to the change of the equipment brands. The NCC shall issue the installation permit after qualified examination according to the provisions of Article 6, and issue the radio station license after qualified inspection according to the provisions of Article 8.
-A winning bidder or service provider shall file the certificate to the NCC prior to the renewal of the radio license while the local governments rearrange house numbers to change the address of a base station or an antenna.
-]]></條文內容>
+A winning bidder or service provider shall file the certificate to the NCC prior to the renewal of the radio license while the local governments rearrange house numbers to change the address of a base station or an antenna.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[(deleted)
-]]></條文內容>
+    <條文內容><![CDATA[(deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[Any lost or damage of installation permit or the radio station license shall be reported to the NCC with an explanation for replacement. In case the stated items have changed, they shall be reported to the NCC for renewal.
 The installation permit or the radio station license renewed pursuant to the requirements stipulated in Paragraph 1, the valid period remains the same with the original one.
-An installation permit or a radio station license may not be leased, lent transferred, or assigned to a third party unless stipulated by law.
-]]></條文內容>
+An installation permit or a radio station license may not be leased, lent transferred, or assigned to a third party unless stipulated by law.]]></條文內容>
   </條文>
   <編章節>   Chapter 3 Engineering Technology standards</編章節>
   <條文>
     <條號>Article 13</條號>
     <條文內容><![CDATA[The antenna of an OBS may not violate the regulations concerning building and obstacle height restriction in the perimeters of airports, airfields, navigation aids and related facilities promulgated by the Ministry of Interior, the Ministry of National Defense, and the Ministry of Transportation and Communications.
-The height of an antenna structure exceeding 60 meters above ground shall be painted with aviation color marks and equipped with marker beacons, and shall maintain a safety clearance from high voltage lines for public safety.
-]]></條文內容>
+The height of an antenna structure exceeding 60 meters above ground shall be painted with aviation color marks and equipped with marker beacons, and shall maintain a safety clearance from high voltage lines for public safety.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[The height and direction of an OBS antenna shall be limited according to the maximum RF output power from its transmitter; it shall be ensured that no legitimate buildings higher than the antenna within the following distances from the front direction of the antenna:
 1. For those base stations transmitting more than 7.94 Watts: 15 meters.
-2. For micro cell base stations (1.26 ~ 7.94 Watts): 8 meters.
-]]></條文內容>
+2. For micro cell base stations (1.26 ~ 7.94 Watts): 8 meters.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[The radio frequency equipment of a base station provided by a winning bidder or service provider shall require a model certificate from the NCC prior to installation application.
-]]></條文內容>
+    <條文內容><![CDATA[The radio frequency equipment of a base station provided by a winning bidder or service provider shall require a model certificate from the NCC prior to installation application.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15-1</條號>
@@ -162,18 +147,15 @@ The height of an antenna structure exceeding 60 meters above ground shall be pai
 The relevant expenditures for the installation of the backup power supply equipment of base stations in the above regulation 3  Can, in accordance with regulations, be aided with subsidies of the competent authorities.
 The iron towers of the spatial iron tower base stations shall resist the scale of wind force factor above 15.
 Bid winners or operators shall retain the credential documents of identification issued by relevant professional technicians for auditing.
-Operators shall submit the records of the annual self-inspection conducted on backup power supply capacity and the resistance against wind force scales to the competent authorities for reference.
-]]></條文內容>
+Operators shall submit the records of the annual self-inspection conducted on backup power supply capacity and the resistance against wind force scales to the competent authorities for reference.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15-2</條號>
-    <條文內容><![CDATA[Should the backup power supply capacity or wind resistance of existing iron towers of base stations not comply with the regulations in Item 1 and Item 3 of Article 15.1, or no credential documents relevant to the identification of structure and fireproof safety issued by relevant professional technicians are received by authorities, unless the base station falls into the category of being exempt from installation permits,operators shall submit improvement plans to the competent authorities for reference within 3 months after this measure was amended on August 17, 2017.
-]]></條文內容>
+    <條文內容><![CDATA[Should the backup power supply capacity or wind resistance of existing iron towers of base stations not comply with the regulations in Item 1 and Item 3 of Article 15.1, or no credential documents relevant to the identification of structure and fireproof safety issued by relevant professional technicians are received by authorities, unless the base station falls into the category of being exempt from installation permits,operators shall submit improvement plans to the competent authorities for reference within 3 months after this measure was amended on August 17, 2017.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
-    <條文內容><![CDATA[The NCC may conduct scheduled or non-scheduled inspection of base station equipment of a winning bidder or service provider.
-]]></條文內容>
+    <條文內容><![CDATA[The NCC may conduct scheduled or non-scheduled inspection of base station equipment of a winning bidder or service provider.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
@@ -196,16 +178,14 @@ The days to start calculating co-antenna ratios in Paragraph 1 are as follows:
 3. The day for the Mobile Broadband Business:
 (1) For licenses issued in 2013: Jan 1st, 2016.
 (2) For licenses issued in 2015: Jan 1st, 2018.
-(3) For licenses issued in 2017: Jan 1st, 2020.
-]]></條文內容>
+(3) For licenses issued in 2017: Jan 1st, 2020.]]></條文內容>
   </條文>
   <編章節>   Chapter 4 Frequency, radio power and other radio wave regulations</編章節>
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[In order to prevent from or improve all types of overlaying and adjacent frequency interferences, the winning bidder or the service provider shall be responsible for making arrangement of base station locations and channels through negotiation among themselves or adopt other effective technologies until such interferences are improved. Unsuccessful negotiation result shall be reported to the NCC.
 If the radio frequency used by the winning bidder or the service provider is interfered by the radio frequency used by other legitimate, existing radio stations of other business, the winning bidder or the service provider is responsible for making arrangement with such radio station through negotiation. Unsuccessful negotiation result shall be reported to the NCC.
-If the base station in construction interferes with the band used by other legitimate, existing radio stations of other business, the winning bidder or the service provider shall adopt effective technologies to avoid the interference; if necessary, the base station shall cease to operate temporarily until improvement is made.
-]]></條文內容>
+If the base station in construction interferes with the band used by other legitimate, existing radio stations of other business, the winning bidder or the service provider shall adopt effective technologies to avoid the interference; if necessary, the base station shall cease to operate temporarily until improvement is made.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
@@ -215,36 +195,30 @@ If the base station in construction interferes with the band used by other legit
 (1) B < 400: 0.2 mW/c㎡;
 (2) 400 ≦ B ≦ 2000: B*0.0005 mW/c㎡;
 (3) B > 2000: 1.0 mW/c㎡.
-Any violation of the preceding paragraph of the Article shall be corrected in a deadline notified by the NCC.
-]]></條文內容>
+Any violation of the preceding paragraph of the Article shall be corrected in a deadline notified by the NCC.]]></條文內容>
   </條文>
   <編章節>   Chapter 5 Annex</編章節>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[A winning bidder or service provider shall follow the order of the NCC and form a mobile communications construction negotiation team to negotiate issues pertaining to co-antenna, co-site, or reserved antenna ports.
-]]></條文內容>
+    <條文內容><![CDATA[A winning bidder or service provider shall follow the order of the NCC and form a mobile communications construction negotiation team to negotiate issues pertaining to co-antenna, co-site, or reserved antenna ports.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
     <條文內容><![CDATA[The Operators shall beware of the arrangement of antennas while using co-site or co-antenna, and harmonize the look of them.
 A lightning rod for antennas should be used in common.
-Protective antenna grille of base stations or other similar protective facilities shall be categorized as auxiliary telecommunication facilities of base stations.
-]]></條文內容>
+Protective antenna grille of base stations or other similar protective facilities shall be categorized as auxiliary telecommunication facilities of base stations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[The Operators shall pay examination fees and license fees for base station establishment according to the application process and the tariff standards set by the NCC.
-]]></條文內容>
+    <條文內容><![CDATA[The Operators shall pay examination fees and license fees for base station establishment according to the application process and the tariff standards set by the NCC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[The NCC shall provide and announce the relevant forms, licenses and the items and format that should be put into, except the Regulations has other provisions.
-]]></條文內容>
+    <條文內容><![CDATA[The NCC shall provide and announce the relevant forms, licenses and the items and format that should be put into, except the Regulations has other provisions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[The Regulations shall come into effect as of the date of promulgation.
-]]></條文內容>
+    <條文內容><![CDATA[The Regulations shall come into effect as of the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

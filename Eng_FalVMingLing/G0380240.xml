@@ -15,8 +15,7 @@
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are adopted pursuant to Paragraph 4 of Article 15, Paragraph 3 of Article 24,Paragraph 3 of Article 25, Article 39 and Article 40 to which Paragraph 4 of Article 40 applies mutatis mutandis, Paragraph 3 of Article 24, and Paragraph 3 of Article 25 of the Act Governing Electronic Payment Institutions (referred to as the “Act” hereunder).
-]]></條文內容>
+    <條文內容><![CDATA[These Regulations are adopted pursuant to Paragraph 4 of Article 15, Paragraph 3 of Article 24,Paragraph 3 of Article 25, Article 39 and Article 40 to which Paragraph 4 of Article 40 applies mutatis mutandis, Paragraph 3 of Article 24, and Paragraph 3 of Article 25 of the Act Governing Electronic Payment Institutions (referred to as the “Act” hereunder).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
@@ -24,15 +23,13 @@
 1. "Users" shall mean persons who register and open an electronic payment account (referred to as "e-payment account" hereunder) with an electronic payment institution and use the services provided by the electronic payment institution to make funds transfer or deposit stored value funds.
 2. "E-payment account" shall mean an online account opened by users with an electronic payment institution to keep track of their funds transfer and funds deposit records
 3. "Individual user" shall mean natural person users, including foreign natural persons and Mainland Area natural persons.
-4. "Non-individual user" shall mean government agencies, legal persons, business entities and other organizations in the ROC as well as foreign legal persons and legal persons in Mainland Area.
-]]></條文內容>
+4. "Non-individual user" shall mean government agencies, legal persons, business entities and other organizations in the ROC as well as foreign legal persons and legal persons in Mainland Area.]]></條文內容>
   </條文>
   <編章節>   Chapter 2 Manner of Establishment, Process for and Management of User Identity Verification Mechanism</編章節>
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[When an electronic payment institution accepts user registration, it shall know the identity of user, save the identity information of user and confirm the veracity of user identity information according to these Regulations; the preceding provision applies when a user changes his/her identity information.
-An electronic payment institution should ask users to provide truthful identity information and shall not accept user registration without a name or using fictitious name.
-]]></條文內容>
+An electronic payment institution should ask users to provide truthful identity information and shall not accept user registration without a name or using fictitious name.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -41,8 +38,7 @@ An electronic payment institution should ask users to provide truthful identity 
 2. Data and information reported by electronic payment institutions pursuant to Subparagraphs 2 and 3, Paragraph 1, Article 21 of the Rules Governing Business Management of Electronic payment institutions.
 3. Notation data where the principal requests enhanced identity verification.
 4. Other data as required by the competent authority.
-Electronic payment institutions shall make prudent use of data obtained in the inquiry made according to the preceding paragraph and decide whether to approve or reject user's registration application based on objectivity and autonomy.
-]]></條文內容>
+Electronic payment institutions shall make prudent use of data obtained in the inquiry made according to the preceding paragraph and decide whether to approve or reject user's registration application based on objectivity and autonomy.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -61,20 +57,17 @@ An electronic payment institution may reject a user's application for registrati
 3. The transaction functions applied for are obviously inconsistent with the applicant's age or background.
 4. Data obtained from inquiry with JCIC according to Paragraph 1 of the preceding article show irregularity.
 5. The same mobile phone number provided for identity verification has been used repeatedly in identity verification without reasonable explanation.
-6. Other situations under which user's application may be rejected as provided by the competent authority.
-]]></條文內容>
+6. Other situations under which user's application may be rejected as provided by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[The types and transaction functions of e-payment accounts opened by users with an electronic payment institution are as follows:
 1. Type 1 e-payment account: An e-payment account for individual users that offers the functions of collecting and paying funds for real transactions and accepting deposit of stored value funds but without the function of accepting payments or fund transfer between e-payment accounts.
-2. Type 2 and 3 e-payment account: An e-payment account for individual users and non-individual users that offers the functions of accepting payments, making payments and accepting deposit of stored value funds.
-]]></條文內容>
+2. Type 2 and 3 e-payment account: An e-payment account for individual users and non-individual users that offers the functions of accepting payments, making payments and accepting deposit of stored value funds.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[When accepting individual user registration, an electronic payment institution shall ask the user to provide basic identity information, including at least name, nationality, type and number of identification document and date of birth.
-]]></條文內容>
+    <條文內容><![CDATA[When accepting individual user registration, an electronic payment institution shall ask the user to provide basic identity information, including at least name, nationality, type and number of identification document and date of birth.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -82,28 +75,24 @@ An electronic payment institution may reject a user's application for registrati
 1. Verifying the mobile phone number provided by user; and
 2. When national ID card is provided, checking the user's ID card issuance record with the Ministry of the Interior or JCIC to verify data veracity; when resident certificate is provided, checking the veracity of data with the Ministry of the Interior.
 For users whose identity cannot be verified according to Subparagraph 2of the preceding paragraph, payment and deposit of stored value funds should be made in a manner where the movement of funds is traceable.
-Payment made in a manner where the movement of funds is traceable mentioned in the preceding paragraph shall be limited to transfer of funds from deposit account, credit card charges or other payment methods approved by the competent authority.
-]]></條文內容>
+Payment made in a manner where the movement of funds is traceable mentioned in the preceding paragraph shall be limited to transfer of funds from deposit account, credit card charges or other payment methods approved by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[When an electronic payment institution accepts individual users to register and open a Type 2 e-payment account, its identity verification process shall comply with the following provisions:
 1. Carrying out the procedure specified in Paragraph 1 of the preceding article; and
 2. Confirming the payment instruments used by user.
-The payment instruments referred to in Subparagraph 2 of the preceding paragraph shall be limited to deposit account, credit card or other payment instruments recognized by the competent authority, excluding deposit accounts not opened over-the-counter or opened after identity verification based on a certificate that complies with the Electronic Signatures Act.
-]]></條文內容>
+The payment instruments referred to in Subparagraph 2 of the preceding paragraph shall be limited to deposit account, credit card or other payment instruments recognized by the competent authority, excluding deposit accounts not opened over-the-counter or opened after identity verification based on a certificate that complies with the Electronic Signatures Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[When an electronic payment institution accepts individual users to register and open a Type 3 e-payment account, its identity verification process shall comply with the following provisions:
 1. Carrying out the procedure specified in the preceding article; and
-2. Verifying the user identity via over-the-counter review or based on a certificate that complies with the Electronic Signature Act.
-]]></條文內容>
+2. Verifying the user identity via over-the-counter review or based on a certificate that complies with the Electronic Signature Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[When accepting non-individual user registration, an electronic payment institution shall ask the user to provide basic identity information, including at least name of entity, country of registration, registration paper, license or type and number of approval document for establishment, contact information, as well as representative's name, nationality, type and number of identification document, mailing address and telephone number.
-]]></條文內容>
+    <條文內容><![CDATA[When accepting non-individual user registration, an electronic payment institution shall ask the user to provide basic identity information, including at least name of entity, country of registration, registration paper, license or type and number of approval document for establishment, contact information, as well as representative's name, nationality, type and number of identification document, mailing address and telephone number.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -111,16 +100,14 @@ The payment instruments referred to in Subparagraph 2 of the preceding paragraph
 1. Confirming the payment instruments used by user; and
 2. Requesting the image file on user's registration paper or license or approval document for establishment, and representative's identification document. A Taiwanese governmental agency, public school, state-owned enterprise, or a business or foundation, of which the representative is appointed by the government according to the law, may be exempted from this requirement.
 Paragraph 2 of Article 9 herein applies mutatis mutandis to payment instruments provided in Subparagraph 1of the preceding paragraph.
-With respect to the image file on registration paper or license or approval document for establishment requested from onshore non-individual users in accordance with Subparagraph 2 of Paragraph 1 hereof, the electronic payment institution shall check the registration data with the Ministry of Economic Affairs, Ministry of Finance or the competent authority in charge of user's line of business.
-]]></條文內容>
+With respect to the image file on registration paper or license or approval document for establishment requested from onshore non-individual users in accordance with Subparagraph 2 of Paragraph 1 hereof, the electronic payment institution shall check the registration data with the Ministry of Economic Affairs, Ministry of Finance or the competent authority in charge of user's line of business.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
     <條文內容><![CDATA[When an electronic payment institution accepts non-individual users to register and open a Type 3 e-payment account, its identity verification process shall comply with the following provisions:
 1. Carrying out the procedure specified in the preceding article; and
 2. Verifying the user identity via over-the-counter review or a certificate presented by user's representative or its authorized agent that complies with the Electronic Signatures Act.
-An electronic payment institution shall verify the actual beneficiary of user in accordance with its directions for anti-money laundering and countering terrorism financing.
-]]></條文內容>
+An electronic payment institution shall verify the actual beneficiary of user in accordance with its directions for anti-money laundering and countering terrorism financing.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
@@ -131,13 +118,11 @@ If an electronic payment institution engages an offshore outsourced service prov
 3. Making sure that it can access relevant data gathered by the offshore outsourced service provider in identity verification process and establishing relevant mechanism for requiring the offshore outsourced service provider to provide such data without delay.
 The term "high risk countries or regions" referred to in Subparagraph 1 of preceding paragraph includes but is not limited to those designated by international organizations on AML/CFT as countries or regions with serious deficiencies in their AML/CFT regime , and other countries or regions that do not or insufficiently comply with the recommendations of international organizations on AML/CFT as forwarded by the competent authority.
 Where an offshore outsourced service provider cannot support the management measures specified in Subparagraphs 2 and 3, Paragraph 2 herein, the electronic payment institution should terminate its service.
-Where an electronic payment institution has engaged an offshore outsourced service provider to conduct identity verification process, the electronic payment institution shall still be responsible for the verification of user identity.
-]]></條文內容>
+Where an electronic payment institution has engaged an offshore outsourced service provider to conduct identity verification process, the electronic payment institution shall still be responsible for the verification of user identity.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[Electronic payment institutions should, based on the results of differentiated identity verification performed according to these Regulations, set up user risk categorization standards and rate the risk grades of users accordingly, and carry out scheduled or unscheduled monitoring, checking and risk control.
-]]></條文內容>
+    <條文內容><![CDATA[Electronic payment institutions should, based on the results of differentiated identity verification performed according to these Regulations, set up user risk categorization standards and rate the risk grades of users accordingly, and carry out scheduled or unscheduled monitoring, checking and risk control.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
@@ -156,8 +141,7 @@ When an electronic payment institution reviews the user identity information acc
 2. Contact the user by phone or in writing.
 3.Pay the user a visit.
 4. Verify the information with relevant agencies.
-For users who fail to cooperate in the re-verification of identity information, an electronic payment institution may suspend their transactions.
-]]></條文內容>
+For users who fail to cooperate in the re-verification of identity information, an electronic payment institution may suspend their transactions.]]></條文內容>
   </條文>
   <編章節>   Chapter 3 Transaction Limits and Management</編章節>
   <條文>
@@ -166,24 +150,20 @@ For users who fail to cooperate in the re-verification of identity information, 
 1. Type 1 e-payment account: Cumulative payment for real transactions shall be limited to an equivalent of NT$30,000 per month; the balance of stored value funds deposited shall be limited to an equivalent of NT$10,000.
 2. Type 2 e-payment account: Cumulative payment received and made shall be respectively limited to an equivalent of NT$300,000 per month.
 3. Type 3 e-payment account: Cumulative payment received and made for real transactions per month shall be agreed between the electronic payment institution and the user; for individual users, the cumulative payment received and paid via transfer between e-payment accounts shall be respectively limited to an equivalent of NT$1,000,000 per month; for non-individual users, the cumulative payment received and paid via transfer between e-payment accounts shall be respectively limited to an equivalent of NT$10,000,000 per month.
-An electronic payment institution may consider its risk tolerance or users’ actual need, and raise the cumulative payment amount for real transactions per month. However, the cumulative payment amount for real transactions per month shall not exceed NT$ 100,000 or its equivalent, and the cumulative payment amount for real transactions per year shall not exceed NT$ 360,000 or its equivalent.
-]]></條文內容>
+An electronic payment institution may consider its risk tolerance or users’ actual need, and raise the cumulative payment amount for real transactions per month. However, the cumulative payment amount for real transactions per month shall not exceed NT$ 100,000 or its equivalent, and the cumulative payment amount for real transactions per year shall not exceed NT$ 360,000 or its equivalent.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[When a user opens more than one e-payment account with an electronic payment institution, the amount of payment received and made per account shall not exceed the limit on that type of account, whereas the total limits on those accounts combined shall not exceed the highest limit set for e-payment accounts registered and opened by the same user.
-]]></條文內容>
+    <條文內容><![CDATA[When a user opens more than one e-payment account with an electronic payment institution, the amount of payment received and made per account shall not exceed the limit on that type of account, whereas the total limits on those accounts combined shall not exceed the highest limit set for e-payment accounts registered and opened by the same user.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[Electronic payment institutions that engage in the businesses of accepting deposits of stored value funds and fund transfer between e-payment accounts shall comply with the provisions on limits set out in Paragraphs 1 and 2, Article 15 of the Act and undertake hierarchical user management within the set limits.
-]]></條文內容>
+    <條文內容><![CDATA[Electronic payment institutions that engage in the businesses of accepting deposits of stored value funds and fund transfer between e-payment accounts shall comply with the provisions on limits set out in Paragraphs 1 and 2, Article 15 of the Act and undertake hierarchical user management within the set limits.]]></條文內容>
   </條文>
   <編章節>   Chapter 4 Retention of Data Obtained in User Identity Verification Process and Necessary Transaction Records</編章節>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[Electronic payment institutions shall retain the data obtained in user identity verification process and relevant records on carrying out the user identity verification; the preceding provision applies when users change their identity information.
-]]></條文內容>
+    <條文內容><![CDATA[Electronic payment institutions shall retain the data obtained in user identity verification process and relevant records on carrying out the user identity verification; the preceding provision applies when users change their identity information.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
@@ -192,8 +172,7 @@ An electronic payment institution may consider its risk tolerance or users’ ac
 2. For the business of accepting deposits of funds as stored value funds: Retain deposit method, e-payment account receiving the deposit, amount, currency and time of deposit, transaction service fee and transaction results; in case of foreign currency deposit, retain the number of foreign-currency deposit account from which the stored value fund is remitted.
 3. For the business of transferring funds between e-payment accounts: Retain the numbers of payor and recipient e-payment accounts, amount, currency and time of transfer, transaction service fees and transaction results.
 4. For withdrawal of funds from e-payment account: Retain the number of e-payment account from which the fund is withdrawn, the number of same-currency bank deposit account of user into which the fund is transferred, amount, currency and time of withdrawal, transaction service fees and transaction results.
-Electronic payment institutions shall retain the log files of necessary transaction records mentioned in the preceding paragraph for at least five (5) years and ensure their veracity and completeness to facilitate account examination and reconciliation.
-]]></條文內容>
+Electronic payment institutions shall retain the log files of necessary transaction records mentioned in the preceding paragraph for at least five (5) years and ensure their veracity and completeness to facilitate account examination and reconciliation.]]></條文內容>
   </條文>
   <編章節>   Chapter 5 Supplemental Provisions</編章節>
   <條文>
@@ -203,14 +182,12 @@ When accepting user registration during the adjustment period specified in the p
 For e-payment accounts that have gone through the identity verification process provided in the preceding paragraph only, the electronic payment institution should lower the percentage of such accounts among all of its e-payment accounts and draw up an adjustment plan to be submitted to the competent authority for record. In addition, the transaction functions of such e-payment account shall be limited to the service of collecting and making payments for real transactions with transaction limits set forth as follows:
 1. Prior to June 30, 2017: The cumulative payment for real transactions shall be limited to an equivalent of NT$10,000 per month.
 2. Between July 1 and September 30, 2017: The cumulative payment for real transactions shall be limited to an equivalent of NT$5,000 per month.
-For users mentioned in Paragraph 2 hereof, an electronic payment institution shall notify them, on a monthly basis and each time service is provided, that they should complete the identity verification process provided in Chapter 2 herein before September 30, 2017, and remind them that should they fail to complete the identity verification process provided in Chapter 2 herein before September 30, 2017, the electronic payment institution will no longer be able to continue to provide services.
-]]></條文內容>
+For users mentioned in Paragraph 2 hereof, an electronic payment institution shall notify them, on a monthly basis and each time service is provided, that they should complete the identity verification process provided in Chapter 2 herein before September 30, 2017, and remind them that should they fail to complete the identity verification process provided in Chapter 2 herein before September 30, 2017, the electronic payment institution will no longer be able to continue to provide services.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
     <條文內容><![CDATA[These Regulations shall be in force on May 3, 2015.
-The amended provisions of these Regulations shall be in force on the date of promulgation.
-]]></條文內容>
+The amended provisions of these Regulations shall be in force on the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

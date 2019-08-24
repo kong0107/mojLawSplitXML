@@ -43,8 +43,7 @@
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Standards are determined pursuant to Article 9, Paragraph 2 of the Noise Control Act.
-]]></條文內容>
+    <條文內容><![CDATA[These Standards are determined pursuant to Article 9, Paragraph 2 of the Noise Control Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
@@ -83,8 +82,7 @@ XII.    Factory plants or sites: Refers to locations that manufacture, process o
 XIII.   Entertainment and business premises: Refers to commercial, leisure, food and drink or consumption locations with business activities.
 XIV.    Construction projects: Refers to the activities performed above or underneath the ground for building, augmenting, altering, repairing, or dismantling structures and their respective auxiliary equipment/facilities, or reforming natural environment.
 XV.     Public address facilities: Refers to devices that receive sound (with functions of attaching external microphone and sound receiver) and equipments or facilities that amplify the noise level.
-XVI.    Overall Noise Level: Refers to the sum of the noise level of the noise source being measured and the background noise level.
-]]></條文內容>
+XVI.    Overall Noise Level: Refers to the sum of the noise level of the noise source being measured and the background noise level.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -133,8 +131,7 @@ B.      Regarding noise generating source at construction projects or other site
 C.      With regard to assessment methods for noise from public address facilities, the maximum noise level (Lmax)  or equivalent noise level (Leq) shall be calculated on the basis of the following noise source emission characteristics, and the results shall not exceed the noise control standard value:
 1.      In the case of mobile public address facilities, the maximum value (Lmax) at the time the facility passes shall determine noise level.
 2.      In the case of stationary or currently stopped public address facilities, the noise level shall be expressed as equivalent noise level (Leq). Continuous measurement sampling time must be at least two minutes, and sampling intervals may not be greater than two seconds.
-D.      With regard to evaluation method for noise from wind power generation units, the results shall be expressed in equivalent noise level (Leq). Continuous measurement sampling time must be at least two minutes, and sampling intervals may not be greater than two seconds.
-]]></條文內容>
+D.      With regard to evaluation method for noise from wind power generation units, the results shall be expressed in equivalent noise level (Leq). Continuous measurement sampling time must be at least two minutes, and sampling intervals may not be greater than two seconds.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -157,8 +154,7 @@ D.      With regard to evaluation method for noise from wind power generation un
 │Class 3               │44      │44      │41        │67      │57      │52        │
 ├───────────┼────┼────┼─────┼────┼────┼─────┤
 │Class 4               │47      │47      │44        │80      │70      │65        │
-└───────────┴────┴────┴─────┴────┴────┴─────┘
-]]></條文內容>
+└───────────┴────┴────┴─────┴────┴────┴─────┘]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -181,8 +177,7 @@ D.      With regard to evaluation method for noise from wind power generation un
 │Class 3               │37      │37      │32        │67      │57      │52        │
 ├───────────┼────┼────┼─────┼────┼────┼─────┤
 │Class 4               │40      │40      │35        │80      │70      │65        │
-└───────────┴────┴────┴─────┴────┴────┴─────┘
-]]></條文內容>
+└───────────┴────┴────┴─────┴────┴────┴─────┘]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -211,8 +206,7 @@ D.      With regard to evaluation method for noise from wind power generation un
 │Noise Level ├────┤            -                 ├────┼────┼─────┤
 │（Lmax）    │Classes │                              │100     │85      │75        │
 │            │3 and 4 │                              │        │        │          │
-└──────┴────┴───────────────┴────┴────┴─────┘
-]]></條文內容>
+└──────┴────┴───────────────┴────┴────┴─────┘]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -231,8 +225,7 @@ D.      With regard to evaluation method for noise from wind power generation un
 │Class 3               │77      │62      │52        │
 ├───────────┼────┼────┼─────┤
 │Class 4               │82      │72      │62        │
-└───────────┴────┴────┴─────┘
-]]></條文內容>
+└───────────┴────┴────┴─────┘]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -282,8 +275,7 @@ B.      The values of noise control standard for 20Hz to 20 kHz are shown as bel
 1.      When the overall noise level exceeds 50dB(A) in day time or evening, or 40dB(A) in night time, it is a must to take the noise rise control mechanism, where the increased noise of the power generator shall not exceed 5dB(A).
 2.      Regarding the wind power generation units that must make improvement within a time limit, if a full-frequency noise is measured during the re-examination while the indoor doors and windows kept shut, and if it does not exceed the noise level when the doors and windows are opened, it can be considered as a completion of the improvement work.
 3.      The improvement methods, including improvement of the noise generating source, barriers of the transmission path and improvement of receivers, shall all be adopted based on actual needs.
-Regarding other projects announced by the competent authority, the values of noise control standards shall be complied with regulations stated in Article 6.
-]]></條文內容>
+Regarding other projects announced by the competent authority, the values of noise control standards shall be complied with regulations stated in Article 6.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
@@ -303,19 +295,16 @@ Regarding other projects announced by the competent authority, the values of noi
 │            5               │            -7              │
 ├──────────────┼──────────────┤
 │          Above 6           │            -8              │
-└──────────────┴──────────────┘
-]]></條文內容>
+└──────────────┴──────────────┘]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[Special municipality, county, and city competent authorities shall announce specific noise control zones on the basis of the noise control zone types in the Noise Control Zone Delineation Operating Standards; the noise control standard values in such noise control zones shall be 5 dB(A) lower than the noise control standard values prescribed Articles 4 through 8.
-When a measurement location has two or more noise control zone boundaries, the noise level may not exceed the noise control standard value for any internal area.
-]]></條文內容>
+When a measurement location has two or more noise control zone boundaries, the noise level may not exceed the noise control standard value for any internal area.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[Apart from Article 4 that takes effect a year after the promulgation, and Article 5 to 8 that take effect 6 months after the promulgation, other standards shall take effect from the date of promulgation.
-]]></條文內容>
+    <條文內容><![CDATA[Apart from Article 4 that takes effect a year after the promulgation, and Article 5 to 8 that take effect 6 months after the promulgation, other standards shall take effect from the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

@@ -21,8 +21,7 @@
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Standards are determined pursuant to Article 20, Paragraph 2, Article 22, Paragraphs 2 and 3, and Article 23, Paragraph 2 of the Air Pollution Control Act.
-]]></條文內容>
+    <條文內容><![CDATA[These Standards are determined pursuant to Article 20, Paragraph 2, Article 22, Paragraphs 2 and 3, and Article 23, Paragraph 2 of the Air Pollution Control Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
@@ -40,25 +39,21 @@ IX.“I-TEF" means the International Toxicity Equivalency Factor used internatio
 X.“TEQ" (Toxicity Equivalency Quantity of 2,3,7,8-tetrachlorinated dibenzo-p-dioxin) means the method for calculating the toxicity weighting of dioxin concentrations.
 XI.“Continuous incineration facility" means a facility that is continuously operating 24 hours per day.
 XII.“Gas retention time" means the time gas is retained in the second combustion chamber (complete combustion).
-XIII.“Variable one-hour average" means the average of continuously fluctuating values during a single hour.
-]]></條文內容>
+XIII.“Variable one-hour average" means the average of continuously fluctuating values during a single hour.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[For matters not provided in these Standards, the regulations of other relevant standards shall apply.
-]]></條文內容>
+    <條文內容><![CDATA[For matters not provided in these Standards, the regulations of other relevant standards shall apply.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[These Standards shall apply to stack emissions from general waste incinerators (herein referred to as incinerators) in continuous operation and with a handling capacity of 10 tons/hour or more, or incinerators designed for a total handling capacity of 300 tons/day or more. The controlled pollutant items are dioxins (dioxins and furans).
-In the foregoing paragraph “handling capacity” means the maximum weight of waste fed into a single incinerator per hour (regardless of whether wet or dry). Total handling capacity means the sum of the handling capacities of all incinerators in a plant.
-]]></條文內容>
+In the foregoing paragraph “handling capacity” means the maximum weight of waste fed into a single incinerator per hour (regardless of whether wet or dry). Total handling capacity means the sum of the handling capacities of all incinerators in a plant.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[The dioxin emission standard value in these Standards is 0.1ng-TEQ/Nm3 .
-The concentrations of the standard values of the foregoing paragraph are expressed as Toxicity Equivalent (TEQ) The measured concentrations of all listed dioxin pollutants Table multiplied by their International Toxicity Equivalency Factor (I-TEF) shall be added up as a total. Sampling and testing shall be performed five or more times and take the arithmetic mean value of the three middle values after the data have been sorted from the largest to the smallest. Each sampling shall be done at intervals of more than one hour.
-]]></條文內容>
+The concentrations of the standard values of the foregoing paragraph are expressed as Toxicity Equivalent (TEQ) The measured concentrations of all listed dioxin pollutants Table multiplied by their International Toxicity Equivalency Factor (I-TEF) shall be added up as a total. Sampling and testing shall be performed five or more times and take the arithmetic mean value of the three middle values after the data have been sorted from the largest to the smallest. Each sampling shall be done at intervals of more than one hour.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -70,8 +65,7 @@ When the oxygen concentration of air introduced into an oxygen-enriched combusti
     E-11
 C＝───．Cs
     E-Os
-If the values in the foregoing two paragraphs (21-Os) or (E-Os) are less than 1 they shall be calculated as 1.
-]]></條文內容>
+If the values in the foregoing two paragraphs (21-Os) or (E-Os) are less than 1 they shall be calculated as 1.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -81,8 +75,7 @@ II.Gas retention time in existing incinerators shall reach more than 1 second; i
 III.Carbon monoxide (CO) at the stack outlet shall not be lower than an hourly average value of 100 ppm. Emission oxygen concentration shall take 10% as reference standard.
 IV.Emission oxygen concentration shall be 6% or higher.
 V.The exhaust gas temperature at the dust collection equipment intake shall be lower than 280 degrees Celsius for existing incinerators, and lower than 200 degrees Celsius for newly established incinerators.
-Incinerators that do not use the operational conditions of the foregoing paragraph, but still achieve a similar treatment result may submit relevant documentary proof to the local competent authority to apply to operate under different conditions.
-]]></條文內容>
+Incinerators that do not use the operational conditions of the foregoing paragraph, but still achieve a similar treatment result may submit relevant documentary proof to the local competent authority to apply to operate under different conditions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -96,23 +89,19 @@ A single incinerator plant that has multiple incinerators of identical model, sc
 The local competent authority may designate the certain quantity (X) of the foregoing paragraph according to following calculation method:
 X = lnN，by rounding decimals to the nearest whole number.
 ln: Natural logarithm
-N: Stationary pollution sources of identical model, scale, operating conditions and pollution control equipment, N≧2.
-]]></條文內容>
+N: Stationary pollution sources of identical model, scale, operating conditions and pollution control equipment, N≧2.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[The sampling and test methods in these Standards are pursuant to methods officially announced by the central competent authority.
-]]></條文內容>
+    <條文內容><![CDATA[The sampling and test methods in these Standards are pursuant to methods officially announced by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[Incinerators already constructed or that are in the process of being constructed, for which project tender procedures have been completed, or if no tenders were invited, for which project contracts were issued and signed before August 8, 1999, and for which dioxin emission standards were not listed in the project tender criteria and have documentary proof for this, shall comply with dioxin emission standard values from August 8, 2001.
-]]></條文內容>
+    <條文內容><![CDATA[Incinerators already constructed or that are in the process of being constructed, for which project tender procedures have been completed, or if no tenders were invited, for which project contracts were issued and signed before August 8, 1999, and for which dioxin emission standards were not listed in the project tender criteria and have documentary proof for this, shall comply with dioxin emission standard values from August 8, 2001.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[These Standards shall take effect on the date of announcement except for articles for which effective dates have been set separately.
-]]></條文內容>
+    <條文內容><![CDATA[These Standards shall take effect on the date of announcement except for articles for which effective dates have been set separately.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

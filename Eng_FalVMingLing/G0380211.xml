@@ -15,13 +15,11 @@
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are enacted pursuant to Paragraph 2, Article 4 of the Act Governing Issuance of Electronic Stored Value Cards.
-]]></條文內容>
+    <條文內容><![CDATA[These Regulations are enacted pursuant to Paragraph 2, Article 4 of the Act Governing Issuance of Electronic Stored Value Cards.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[Issuers shall establish security measures in accordance with the security requirements and design set forth in these Regulations to ensure the security of the electronic stored value cards so as to protect the interests of consumers.
-]]></條文內容>
+    <條文內容><![CDATA[Issuers shall establish security measures in accordance with the security requirements and design set forth in these Regulations to ensure the security of the electronic stored value cards so as to protect the interests of consumers.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -29,8 +27,7 @@
 1.For card transactions, an issuer shall implement the requirements set forth in these Regulations for the confidentiality, integrity, authentication and non-repeatability of transaction information in accordance with the level of card applications.
 2.For card management, an issuer shall take measures to protect its transaction system and the transaction systems of its contracted merchants and recharge institutions from the threat of unauthorized access or intrusion, and attack, and to effectively uphold the integrity and confidentiality of the transaction system, protect its operational security and maintain high level of availability.
 3.For terminal equipment and user environment, an issuer shall implement security control and strengthen the security of terminal equipment to protect it from illegal transaction or tampering.
-4.For the issuance of electronic stored value cards, an issuer shall choose proper type of card based on the level of applications.
-]]></條文內容>
+4.For the issuance of electronic stored value cards, an issuer shall choose proper type of card based on the level of applications.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -59,8 +56,7 @@
 (3)"Hash function" means Secure Hash Algorithm (SHA).
 8.One-time password (OTP) is generated using a one-time password generator, short message or other means. OTP is randomly generated and can be used only once.
 9.IC Card” means the card or the equipment with IC chip functions.
-10.Magnetic stripe card” means the card or the equipment with magnetic stripe functions.
-]]></條文內容>
+10.Magnetic stripe card” means the card or the equipment with magnetic stripe functions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -73,8 +69,7 @@ Transaction amount are classified into two types：
 2.Unlimited-sumtransaction: The electronic stored value card is not limited to paying small-sum transactions.
 The nature of product or service and transaction amount mentioned in the two preceding paragraphs are classified into two application level:
 1.Level 1: For payment of small-sum transactions or the type 1 of products or services transactions.
-2.Level 2: For the type 2of products or services and the payment of unlimited-sum transactions.
-]]></條文內容>
+2.Level 2: For the type 2of products or services and the payment of unlimited-sum transactions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -110,8 +105,7 @@ The nature of product or service and transaction amount mentioned in the two pre
 (2)Integrity: For transactions processed via dedicated network connection, the security design shall meet B1 requirements; for transactions processed via Internet/mobile network connection, the security design shall meet B2 requirements.
 (3)Authentication of message: For transactions processed via Internet/mobile network connection, the security design shall meet C2 requirements.
 (4)Non-repeatability: The security design shall meet F requirements.
-7.Where the transaction information in Subparagraphs 1 ~ 6 above contains personal data as defined in the Personal Data Protection Act, the issuer shall adopt symmetric or asymmetric cryptographic system to encrypt such personal data to ensure their confidentiality and prevent unauthorized access. The level of cryptographic strength of the cryptographic system shall not be lower than that required for confidentiality (A requirements) set out in Subparagraph 1 of Article 7 herein.
-]]></條文內容>
+7.Where the transaction information in Subparagraphs 1 ~ 6 above contains personal data as defined in the Personal Data Protection Act, the issuer shall adopt symmetric or asymmetric cryptographic system to encrypt such personal data to ensure their confidentiality and prevent unauthorized access. The level of cryptographic strength of the cryptographic system shall not be lower than that required for confidentiality (A requirements) set out in Subparagraph 1 of Article 7 herein.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -150,8 +144,7 @@ b. The asymmetric cryptographic system shall adopt an asymmetric cryptographic a
 (7) Protective measures E2:Employ symmetric or asymmetric cryptographic system to verify the legality of terminal equipment or issuer from the electronic stored value card to prevent unauthorized terminal equipment from processing transactions.
 a. The symmetric cryptographic system shall adopt a symmetric cryptographic algorithm specified in Item (1), Subparagraph 1 of this article.
 b. The asymmetric cryptographic system shall adopt an asymmetric cryptographic algorithm specified in Item (2), Subparagraph 1 of this article.
-4. Non-repeatability F requirements: Use the mechanism of sequence number, date and time, time series or cryptographic challenge-response protocol to prevent using the message of an earlier successful transaction to complete another transaction.
-]]></條文內容>
+4. Non-repeatability F requirements: Use the mechanism of sequence number, date and time, time series or cryptographic challenge-response protocol to prevent using the message of an earlier successful transaction to complete another transaction.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -164,8 +157,7 @@ b. The asymmetric cryptographic system shall adopt an asymmetric cryptographic a
 2. Enhancing system security
 (1) Enhance the security and availability of the computer systems.
 (2) Enhance the security and availability of the application systems.
-3. Drafting operations management rules.
-]]></條文內容>
+3. Drafting operations management rules.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
@@ -233,8 +225,7 @@ g. The design of the mobile app shall conform to the relevant self-disciplinary 
 (1) Security policy, standard, procedure or guidelines, including the equipment specifications.
 (2) Descriptions of security mechanisms and security procedures.
 (3) Key management measure or rules.
-(4) Security instructions for cardholders and a complete contract.
-]]></條文內容>
+(4) Security instructions for cardholders and a complete contract.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -247,8 +238,7 @@ g. The design of the mobile app shall conform to the relevant self-disciplinary 
 (5) Terminal equipment for off-line recharge transactions should be equipped with security module.
 (6) Adopt necessary measures to reduce the incidence of fake card transactions if Level 1 electronic stored value card is used for off-line recharge/purchase transactions at a contracted merchant providing Type 2 products or services.
 2. Implement measures to enhance system availability.
-3. Draft operations management rules, which should be implemented in internal environment management as well.
-]]></條文內容>
+3. Draft operations management rules, which should be implemented in internal environment management as well.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -277,8 +267,7 @@ c. Create a checklist, conduct review regularly and follow up.
 6. When an electronic stored value card of application Level 1 is used for transactions at a contracted merchant providing Type 2 products or services, the issuer shall demand that the contracted merchant installs surveillance equipment and keeps recording all the time during the business hours, or takes other necessary measures to minimize fake card transactions if the authentication of the blacklist is not returned to the issuer for real-time authentication.
 7.If the terminal equipment is a personal electronic or communication device held by the cardholder (e.g. an IC card reader, mobile device simulating the function of electronic stored value card reader mode, etc.), then subparagraph 1, item 2 and 3, subparagraph 2, and subparagraph 5 shall not be applied.
 8. System availability should be managed and controlled, e.g. Spare device, network redundancy, redundant circuitry, uninterruptible power supply (UPS)or other methods which can ensure to enhance availability of system.
-9. Draft terminal equipment management rules, including description of equipment specifications and security mechanism, description of security procedures, principles for the security module control operation, blacklist management mechanism, and measures for contract signing with contracted merchants and recharge institutions, and their management.
-]]></條文內容>
+9. Draft terminal equipment management rules, including description of equipment specifications and security mechanism, description of security procedures, principles for the security module control operation, blacklist management mechanism, and measures for contract signing with contracted merchants and recharge institutions, and their management.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -292,8 +281,7 @@ The term "security certified" means that as confirmed by the competent authority
 1. ISO/IEC15408 Common Criteria v2.3 EAL4+ (augmented by AVA_VLA.4 and ADV_IMP.2)
 2. ISO/IEC15408 Common Criteria v3.1 EAL4+ (augmented by AVA_VAN.5).
 3. CNS 15408 EAL4+(augmented by AVA_VLA.4 and ADV_IMP.2).
-4. Other evaluation criteria accepted by the competent authority.
-]]></條文內容>
+4. Other evaluation criteria accepted by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
@@ -302,8 +290,7 @@ The term "security certified" means that as confirmed by the competent authority
 (1) Verify the validity of electronic stored value card.
 (2) Incorporate specific security design if user ID + fixed password are adopted.
 (3) Personal data stored in the electronic stored value cards must be protected.
-2. Drafting operations management rules, which should be Draft the electronic stored value card delivery control process.
-]]></條文內容>
+2. Drafting operations management rules, which should be Draft the electronic stored value card delivery control process.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
@@ -320,28 +307,23 @@ The term "security certified" means that as confirmed by the competent authority
 (8) If the password has not changed for more than one year, the issuer should take proper actions.
 (9) If the issuer issues a default password at the time the cardholder registers, the cardholder shall be required to change the default password when he/she logs in the first time.
 3. Personal data stored in the electronic stored value cards must be protected: If personal data are stored in electronic stored value cards, access control or cardholder verification mechanism shall be implemented to restrict access.
-4.Draft the electronic stored value card delivery control process: The issuer should properly manage the life cycle of electronic stored value cards, should draft electronic stored value card production, issuance, and delivery control processes, implement control of card production outsource operation, and implement physical security control of electronic stored value cards.
-]]></條文內容>
+4.Draft the electronic stored value card delivery control process: The issuer should properly manage the life cycle of electronic stored value cards, should draft electronic stored value card production, issuance, and delivery control processes, implement control of card production outsource operation, and implement physical security control of electronic stored value cards.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[An issuer shall file quarterly reports on the amount of irregular transactions with the Competent Authority, and submit an improvement plan with the Competent Authority if the cumulative amount (of irregular transactions) for the year exceeds one percent (1%) of its paid-in capital.
-]]></條文內容>
+    <條文內容><![CDATA[An issuer shall file quarterly reports on the amount of irregular transactions with the Competent Authority, and submit an improvement plan with the Competent Authority if the cumulative amount (of irregular transactions) for the year exceeds one percent (1%) of its paid-in capital.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
-    <條文內容><![CDATA[An issuing transaction shall file statistical data on card transactions by the nature of products or services and transaction amount as provided in Article 5 herein with the Competent Authority or an institution designated by the Competent Authority every quarter.
-]]></條文內容>
+    <條文內容><![CDATA[An issuing transaction shall file statistical data on card transactions by the nature of products or services and transaction amount as provided in Article 5 herein with the Competent Authority or an institution designated by the Competent Authority every quarter.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[An issuer shall engage an accountant to audit its status of compliance with these Regulations, and submit the audit report to the Competent Authority for reference in two (2) months after the end of each fiscal year.
-]]></條文內容>
+    <條文內容><![CDATA[An issuer shall engage an accountant to audit its status of compliance with these Regulations, and submit the audit report to the Competent Authority for reference in two (2) months after the end of each fiscal year.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[These Regulations are in force from the date of promulgation.
-]]></條文內容>
+    <條文內容><![CDATA[These Regulations are in force from the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
