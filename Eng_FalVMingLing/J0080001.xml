@@ -2,7 +2,7 @@
 <法規性質>法律</法規性質>
 <英文法規名稱>Company Act</英文法規名稱>
 <中文法規名稱>公司法</中文法規名稱>
-<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080001</法規網址>
+<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080001</法規網址>
 <最新英文異動日期>20180801</最新英文異動日期>
 <廢止註記>
 </廢止註記>
@@ -59,7 +59,7 @@ The term "head office" as used in this Act denotes the principal office first es
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[The term "foreign company" as used in this Act denotes a company, for the purpose of profit making, organized and incorporated in accordance with the laws of a foreign country, and authorized by the R.O.C. Government to transact business within the territory of the Republic of China.
+    <條文內容><![CDATA[The term "foreign company" as used in this Act denotes a company, for the purpose of profit making, organized and incorporated in accordance with the laws of a foreign country.
 A foreign company, within the limits prescribed by laws and regulations, is entitled with the same legal capacity as a R.O.C. company.]]></條文內容>
   </條文>
   <條文>
@@ -73,9 +73,9 @@ The central competent authority may authorize its subordinate authority (authori
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[I. The capital amount of a company applying for registration of incorporation shall be audited by an independent certified public accountant; such company shall attach an auditing certificate from an independent certified public accountant when applying for registration of incorporation or within 30 days after the registration of incorporation.
-II. The capital amount of a company applying for alteration of the registered capital amount shall first be audited by an independent certified public accountant.
-III. Regulations governing the process set forth in the two preceding paragraphs shall be prescribed by the central competent authority.]]></條文內容>
+    <條文內容><![CDATA[The capital amount of a company applying for registration of incorporation shall be audited by an independent certified public accountant; such company shall attach an auditing certificate from an independent certified public accountant when applying for registration of incorporation or within 30 days after the registration of incorporation.
+The capital amount of a company applying for alteration of the registered capital amount shall first be audited by an independent certified public accountant.
+Regulations governing the process set forth in the two preceding paragraphs shall be prescribed by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -183,9 +183,9 @@ Under the circumstances of the preceding paragraph, the information platform set
   </條文>
   <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[I. The responsible person of a company shall have the loyalty and shall exercise the due care of a good administrator in conducting the business operation of the company; and if he/she has acted contrary to this provision, shall be liable for the damages to be sustained by the company there-from.
-II. If the responsible person of a company has, in the course of conducting the business operations, violated any provision of the applicable laws and/or regulations and thus caused damage to any other person, he/she shall be liable, jointly and severally, for the damage to such other person.
-III. In case the responsible person of a company does anything for himself/herself or on behalf of another person in violation of the provisions of Paragraph 1, the meeting of shareholders may, by a resolution, consider the earnings in such an act as earnings of the company unless one year has lapsed since the realization of such earnings.]]></條文內容>
+    <條文內容><![CDATA[The responsible person of a company shall have the loyalty and shall exercise the due care of a good administrator in conducting the business operation of the company; and if he/she has acted contrary to this provision, shall be liable for the damages to be sustained by the company there-from.
+If the responsible person of a company has, in the course of conducting the business operations, violated any provision of the applicable laws and/or regulations and thus caused damage to any other person, he/she shall be liable, jointly and severally, for the damage to such other person.
+In case the responsible person of a company does anything for himself/herself or on behalf of another person in violation of the provisions of Paragraph 1, the meeting of shareholders may, by a resolution, consider the earnings in such an act as earnings of the company unless one year has lapsed since the realization of such earnings.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 24</條號>
@@ -209,10 +209,10 @@ III. In case the responsible person of a company does anything for himself/herse
   </條文>
   <條文>
     <條號>Article 27</條號>
-    <條文內容><![CDATA[I. Where a government agency or a juristic person acts as a shareholder of a company, it may be elected as a director or supervisor of the company provided that it shall designate a natural person as its proxy to exercise, in its behalf, the duties of a shareholder.
-II. Where a government agency or a juristic person acts as a shareholder of a company, its authorized representative may also be elected as a director or supervisor of the company. If there is a plural number of such authorized representatives, each of them may be so elected, but such authorized representatives may not concurrently be selected or serve as the director or supervisor of the company.
-III. Any of the authorized representatives of a company referred to in Paragraphs I and II of this Article may, owing to the change of his/her functional duties, be replaced by a person to be authorized by the company so as to fulfill the unexposed term of office of the predecessor.
-IV. Any restriction placed upon the power or authority of the authorized representatives set forth in Paragraph I and Paragraph II of this Article shall not be set up as a defense against any bona fide third party.]]></條文內容>
+    <條文內容><![CDATA[Where a government agency or a juristic person acts as a shareholder of a company, it may be elected as a director or supervisor of the company provided that it shall designate a natural person as its proxy to exercise, in its behalf, the duties of a shareholder.
+Where a government agency or a juristic person acts as a shareholder of a company, its authorized representative may also be elected as a director or supervisor of the company. If there is a plural number of such authorized representatives, each of them may be so elected, but such authorized representatives may not concurrently be selected or serve as the director or supervisor of the company.
+Any of the authorized representatives of a company referred to in Paragraphs I and II of this Article may, owing to the change of his/her functional duties, be replaced by a person to be authorized by the company so as to fulfill the unexposed term of office of the predecessor.
+Any restriction placed upon the power or authority of the authorized representatives set forth in Paragraph I and Paragraph II of this Article shall not be set up as a defense against any bona fide third party.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 28</條號>
@@ -840,7 +840,7 @@ Under the circumstance set forth in Item 2 of the preceding Paragraph, the autho
   </條文>
   <條文>
     <條號>Article 136</條號>
-    <條文內容><![CDATA[In case of annulment of approval in accordance with the preceding articles, the solicitation shall be cancelled if not yet in progress; if solicitation is already in progress, persons so drafted may demand a refund of the original issuing value of shares plus interests thereon to be calculated at the legal rate.]]></條文內容>
+    <條文內容><![CDATA[In case of annulment of approval in accordance with the preceding article, the solicitation shall be cancelled if not yet in progress; if solicitation is already in progress, persons so drafted may demand a refund of the original issuing value of shares plus interests thereon to be calculated at the legal rate.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 137</條號>
@@ -1229,10 +1229,10 @@ In passing a resolution at a shareholders' meeting, shares for which voting righ
   </條文>
   <條文>
     <條號>Article 181</條號>
-    <條文內容><![CDATA[I. When the government or a juristic person is a shareholder, its proxy shall not be limited to one person, provided that the voting right that may be exercised shall be calculated on the basis of the total number of voting shares it holds.
-II. In case the aforesaid proxies are two persons or more, they shall exercise their voting right jointly.
-III. If a shareholder of a company whose shares have been issued in public holds shares for others, such shareholder may exercise his/her/its voting power separately.
-IV. Regulations governing the qualifications, scope, methods of exercise, operating procedures and other matters for compliance with respect to exercising voting power separately in the preceding paragraph shall be prescribed by the competent authority in charge of securities affairs.]]></條文內容>
+    <條文內容><![CDATA[When the government or a juristic person is a shareholder, its proxy shall not be limited to one person, provided that the voting right that may be exercised shall be calculated on the basis of the total number of voting shares it holds.
+In case the aforesaid proxies are two persons or more, they shall exercise their voting right jointly.
+If a shareholder of a company whose shares have been issued in public holds shares for others, such shareholder may exercise his/her/its voting power separately.
+Regulations governing the qualifications, scope, methods of exercise, operating procedures and other matters for compliance with respect to exercising voting power separately in the preceding paragraph shall be prescribed by the competent authority in charge of securities affairs.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 182</條號>
@@ -1349,9 +1349,9 @@ The provision set forth in Article 29, Paragraph 2 hereof shall apply mutatis mu
   </條文>
   <條文>
     <條號>Article 197</條號>
-    <條文內容><![CDATA[I. Each director shall, after having been elected, declare to the competent authority the number and amount of the shares of the company being held by him/her at the time when he/she is elected. In case a director of a company whose shares are issued to the public that has transferred, during the term of office as a director, more than one half of the company's shares being held by him/her at the time he/she is elected, he/she shall, ipso facto, be discharged from the office of director.
-II. If the number of company's shares held by a director is increased or reduced during his/her term of office as a director, he/she shall declare such change to the competent authority and shall place a public notice of such a fact.
-III. If any director of a company whose shares are issued to the public, after having been elected and before his/her inauguration of the office of director, has transferred more than one half of the total number of shares of the company he/she holds at the time of his/her election as such; or had transferred more than one half of the total number of shares he/she held within the share transfer prohibition period fixed prior to the convention of a shareholders' meeting, then his/her election as a director shall become invalid.]]></條文內容>
+    <條文內容><![CDATA[Each director shall, after having been elected, declare to the competent authority the number and amount of the shares of the company being held by him/her at the time when he/she is elected. In case a director of a company whose shares are issued to the public that has transferred, during the term of office as a director, more than one half of the company's shares being held by him/her at the time he/she is elected, he/she shall, ipso facto, be discharged from the office of director.
+If the number of company's shares held by a director is increased or reduced during his/her term of office as a director, he/she shall declare such change to the competent authority and shall place a public notice of such a fact.
+If any director of a company whose shares are issued to the public, after having been elected and before his/her inauguration of the office of director, has transferred more than one half of the total number of shares of the company he/she holds at the time of his/her election as such; or had transferred more than one half of the total number of shares he/she held within the share transfer prohibition period fixed prior to the convention of a shareholders' meeting, then his/her election as a director shall become invalid.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 197-1</條號>
@@ -1360,8 +1360,8 @@ II. In case a director of a company whose shares are issued to the public has cr
   </條文>
   <條文>
     <條號>Article 198</條號>
-    <條文內容><![CDATA[I. In the process of electing directors at a shareholders' meeting, the number of votes exercisable in respect of one share shall be the same as the number of directors to be elected, and the total number of votes per share may be consolidated for election of one candidate or may be split for election of two or more candidates. A candidate to whom the ballots cast represent a prevailing number of votes shall be deemed a director elect.
-II. The provision of Article 178 hereof shall not apply to the voting power referred to in the preceding Paragraph.]]></條文內容>
+    <條文內容><![CDATA[In the process of electing directors at a shareholders' meeting, the number of votes exercisable in respect of one share shall be the same as the number of directors to be elected, and the total number of votes per share may be consolidated for election of one candidate or may be split for election of two or more candidates. A candidate to whom the ballots cast represent a prevailing number of votes shall be deemed a director elect.
+The provision of Article 178 hereof shall not apply to the voting power referred to in the preceding Paragraph.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 199</條號>
@@ -1539,7 +1539,7 @@ Supervisors who violated the preceding Paragraph by making false report shall ea
   </條文>
   <條文>
     <條號>Article 220</條號>
-    <條文內容><![CDATA[Subject to the condition that the board of directors does not or is unable to convene a meeting of shareholders, the supervisors may, for the benefit of the company, call a meeting of shareholders when it is deemed necessary.]]></條文內容>
+    <條文內容><![CDATA[In addition to the condition that the board of directors does not or is unable to convene a meeting of shareholders, the supervisors may, for the benefit of the company, call a meeting of shareholders when it is deemed necessary.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 221</條號>
@@ -1605,9 +1605,9 @@ The director authorized to represent the company who has violated the provisions
   </條文>
   <條文>
     <條號>Article 232</條號>
-    <條文內容><![CDATA[I. A company shall not pay dividends or bonuses, unless its losses shall have been covered and a legal reserve shall have been set aside in accordance with the provisions of this Act.
-II. A company shall not pay dividends or bonuses, if there is no surplus earnings.
-III. The responsible person(s) of a company who violates the provisions of the preceding two Paragraphs by making distribution of dividends and bonuses shall (each) be punished with imprisonment of not more than one year, detention, and a fine in lieu thereof or in addition thereto in an amount of not more than NT$ 60,000.]]></條文內容>
+    <條文內容><![CDATA[A company shall not pay dividends or bonuses, unless its losses shall have been covered and a legal reserve shall have been set aside in accordance with the provisions of this Act.
+A company shall not pay dividends or bonuses, if there is no surplus earnings.
+The responsible person(s) of a company who violates the provisions of the preceding two Paragraphs by making distribution of dividends and bonuses shall (each) be punished with imprisonment of not more than one year, detention, and a fine in lieu thereof or in addition thereto in an amount of not more than NT$ 60,000.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 233</條號>
@@ -1902,7 +1902,7 @@ The provisions of Article 135, Paragraph 2 shall apply, mutatis mutandis, to thi
   </條文>
   <條文>
     <條號>Article 272</條號>
-    <條文內容><![CDATA[When a company publicly issues new shares, the payment on such shares shall be in cash; where such shares are not issued to the public; however, but rather subscribed to by shareholders or by particular persons by agreement, any property necessary to the business of the company may be in lieu thereof]]></條文內容>
+    <條文內容><![CDATA[When a company publicly issues new shares, the payment on such shares shall be in cash; where such shares are not issued to the public; however, but rather subscribed to by shareholders or by particular persons by agreement, any property necessary to the business of the company may be in lieu thereof.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 273</條號>
@@ -2057,7 +2057,7 @@ In case there is a plural number of reorganization supervisors, supervision on t
 The provisions set out in Article 30 hereof shall apply mutatis mutandis to reorganizers.
 In the meeting of interested parties, if the result of the voting conducted in groups under Article 302 shows that two or more groups prefer a change of reorganizers, a list of candidates may be submitted to the court along with an application for such change.
 In case there is a plural number of reorganizers, execution of all matters relating to reorganization shall be effected by a majority vote of them.
-In the execution of duties, the reorganizers shall act under the supervision of the reorganization supervisors. In case a reorganizer Acts in violation of the laws or improperly, the reorganization supervisors may apply to the count for discharging his/her office and selecting a new one
+In the execution of duties, the reorganizers shall act under the supervision of the reorganization supervisors. In case a reorganizer Acts in violation of the laws or improperly, the reorganization supervisors may apply to the count for discharging his/her office and selecting a new one.
 In the execution of duties, the reorganizers shall secure the prior consent of the reorganization supervisor:
 1.Disposal of property of the company outside the scope of its business;
 2.Change of the business of the company or in the ways of operation;
@@ -2511,8 +2511,8 @@ The provisions of Articles 285 shall apply mutatis mutandis to the circumstance 
   <編章節>      Section 13 Close Company</編章節>
   <條文>
     <條號>Article 356-1</條號>
-    <條文內容><![CDATA[I. A close company is a non public offering company whose shares shall be held by not more than 50 persons, and whose Articles of Incorporation shall impose restrictions on transfer of shares of a company .
-II. The central competent authority shall as necessary in view of the socio- economic situation and the actual needs increase the number of shareholders referred to in the preceding Paragraph; the method of calculation and scope of qualification of the shareholders shall be prescribed by the central competent authority.]]></條文內容>
+    <條文內容><![CDATA[A close company is a non public offering company whose shares shall be held by not more than 50 persons, and whose Articles of Incorporation shall impose restrictions on transfer of shares of a company.
+The central competent authority shall as necessary in view of the socio- economic situation and the actual needs increase the number of shareholders referred to in the preceding Paragraph; the method of calculation and scope of qualification of the shareholders shall be prescribed by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 356-2</條號>
@@ -2530,8 +2530,8 @@ The provision of Article 198 shall apply to the election of directors and superv
   </條文>
   <條文>
     <條號>Article 356-4</條號>
-    <條文內容><![CDATA[I. A close company shall make no public offering of any of its securities, provided, however, that this provision shall not apply to the crowd-funding portal operated by securities businesses approved by the competent authority in charge of securities affairs.
-II. The proviso to the preceding Paragraph shall still be subject to the restrictions on the number of shareholders and transfer of shares imposed by the Articles of Incorporation set forth in Article 356-1.]]></條文內容>
+    <條文內容><![CDATA[A close company shall make no public offering of any of its securities, provided, however, that this provision shall not apply to the crowd-funding portal operated by securities businesses approved by the competent authority in charge of securities affairs.
+The proviso to the preceding Paragraph shall still be subject to the restrictions on the number of shareholders and transfer of shares imposed by the Articles of Incorporation set forth in Article 356-1.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 356-5</條號>
@@ -2557,10 +2557,10 @@ Paragraph Two of Article 157 shall not apply to multiple voting rights of specia
   </條文>
   <條文>
     <條號>Article 356-8</條號>
-    <條文內容><![CDATA[I. A close company may explicitly provide in its Articles of Incorporation that its shareholders' meeting can be held by means of visual communication network or other methods promulgated by the central competent authority.
-II. In case a shareholders' meeting is proceeded via visual communication network, then the shareholders taking part in such a visual communication meeting shall be deemed to have attended the meeting in person.
-III. A close company may explicitly provide in its Articles of Incorporation that if it is agreed by all its shareholders, any action to be taken at a shareholders' meeting may be taken, without a meeting, by written consents to exercise their voting power.
-IV. A shareholders' meeting held in accordance with the preceding Paragraph shall be deemed to have been convened; the shareholders who exercise their voting power by written consents shall be deemed to have attend the meeting in person.]]></條文內容>
+    <條文內容><![CDATA[A close company may explicitly provide in its Articles of Incorporation that its shareholders' meeting can be held by means of visual communication network or other methods promulgated by the central competent authority.
+In case a shareholders' meeting is proceeded via visual communication network, then the shareholders taking part in such a visual communication meeting shall be deemed to have attended the meeting in person.
+A close company may explicitly provide in its Articles of Incorporation that if it is agreed by all its shareholders, any action to be taken at a shareholders' meeting may be taken, without a meeting, by written consents to exercise their voting power.
+A shareholders' meeting held in accordance with the preceding Paragraph shall be deemed to have been convened; the shareholders who exercise their voting power by written consents shall be deemed to have attend the meeting in person.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 356-9</條號>
@@ -2581,9 +2581,9 @@ The provisions of Article 246, Article 247, Paragraph 1 and Paragraphs 4 through
   </條文>
   <條文>
     <條號>Article 356-12</條號>
-    <條文內容><![CDATA[I. The issuance of new shares of a close company shall be adopted by a majority of directors at a meeting attended by two-thirds or more of the total number of directors, unless otherwise provided for in its Articles of Incorporation.
-II. Paragraphs 2 through 4 of Article 356-3 shall apply mutatis mutandis to the contribution of equity capital for subscribing new shares. In addition, such contribution can also be made in the form of monetary credit extended to the close company .
-III. Article 267 shall not apply to the issuance of new shares referred to in Paragraph 1 of this Article.]]></條文內容>
+    <條文內容><![CDATA[The issuance of new shares of a close company shall be adopted by a majority of directors at a meeting attended by two-thirds or more of the total number of directors, unless otherwise provided for in its Articles of Incorporation.
+Paragraphs 2 through 4 of Article 356-3 shall apply mutatis mutandis to the contribution of equity capital for subscribing new shares. In addition, such contribution can also be made in the form of monetary credit extended to the close company.
+Article 267 shall not apply to the issuance of new shares referred to in Paragraph 1 of this Article.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 356-13</條號>
@@ -2594,8 +2594,8 @@ If a close company fails to apply for an alteration registration in accordance w
   </條文>
   <條文>
     <條號>Article 356-14</條號>
-    <條文內容><![CDATA[I. A non public offering company may change its status into a close company by the unanimous consent of its shareholders.
-II. After the unanimous consent of its shareholders provided in the preceding Paragraph, the company shall immediately notify each of its creditors and make a public announcement.]]></條文內容>
+    <條文內容><![CDATA[A non public offering company may change its status into a close company by the unanimous consent of its shareholders.
+After the unanimous consent of its shareholders provided in the preceding Paragraph, the company shall immediately notify each of its creditors and make a public announcement.]]></條文內容>
   </條文>
   <編章節>   CHAPTER VI (Deleted)</編章節>
   <條文>
