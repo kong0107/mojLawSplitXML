@@ -2,15 +2,17 @@
 <法規性質>法律</法規性質>
 <英文法規名稱>Medical Radiation Technologists Act</英文法規名稱>
 <中文法規名稱>醫事放射師法</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020089</法規網址>
-<最新英文異動日期>20161130</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020089</法規網址>
+<最新英文異動日期>20190410</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on February 3, 2000
 2.Amended on June 12, 2002
 3.Amended on January 29, 2007
-4.Amended Article 34 promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No.10500147081 on November 30th, 2016]]></沿革內容>
+4.Amended Article 34 promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No.10500147081 on November 30th, 2016
+5.Amended on December 16, 2018
+6.Amended on April 10, 2019]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1  General Provisions</編章節>
@@ -25,11 +27,11 @@ R.O.C. nationals who have passed the medical radiological technologist examinati
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The health competent authorities referred to in this Act are: the Department of Health, Executive Yuan, at the central government level; the municipal governments at the municipal level; the county (or city) governments at the county (or city) level.]]></條文內容>
+    <條文內容><![CDATA[The term "competent authorities" as used in this Act means, at central government level, the Ministry of Health and Welfare; at the special municipality level, the city government; at county (city) level, the county (city) government.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[Application for the issuance of the Medical Radiation Technologist Certificate or Medical Radiological Technician Certificate shall be submitted to the central health competent authority with an application form and the qualification documents.]]></條文內容>
+    <條文內容><![CDATA[Applications for issuance of the medical radiation technologist certificate or medical radiological technician certificate shall be submitted to the central competent authority with an application form and the qualification documents.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -42,23 +44,22 @@ R.O.C. nationals who have passed the medical radiological technologist examinati
   <編章節>   Chapter 2  Practice</編章節>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[To practice as a medical radiation technologist, one shall apply to the health competent authority at the local municipality or county (or city) for practice registration, and shall obtain a practice license before commencing practice.
-Medical radiation technologists shall receive specified hours of continued education every six years to be eligible for renewal of the practice license.
-The qualifications, conditions and documents required for the application for practice registration mentioned in Paragraph 1; the issuance, renewal, replacement and update of the practice license; the course content, credits, method of execution of the continued education mentioned in the preceding paragraph, and the accreditation of the completion of continued education; as well as regulations for other compliance matters shall be laid down by the central health competent authority.
-Medical radiation technologists who have obtained a practice license pursuant to the provision in Paragraph 1 are not required to apply for the training certificate or relevant operation license in relation to ionizing radiation as stipulated by relevant laws and regulations.]]></條文內容>
+    <條文內容><![CDATA[To practice as a medical radiation technologist, one shall apply to the local municipal or county (city) competent authority for practice registration and shall obtain a practice license before commencing practice.
+Medical radiation technologists shall receive certain hours of continued education every six years to be eligible for renewal of the practice license.
+Regulations governing the qualification and conditions for the application of the registration of practice under the first paragraph, the documents to be attached for such application, issuance, change, re-issuance and renewal of a practice license and the contents of the continued education courses of the preceding paragraph, credits obtained from the completion of such courses, methods of operation of these courses, recognition of the qualification received from these courses and other matters to be complied with shall be determined by the central competent authority.
+Medical radiation technologists who have obtained a practice license pursuant to the provision in the first paragraph are not required to apply for the training certificate or relevant operation license in relation to ionizing radiation as stipulated by relevant laws and regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[Practice license shall not be issued and the license already issued shall be revoked or annulled in any one of the following conditions:
-1. The Medical Radiation Technologist Certificate is annulled.
-2. The medical radiation technologist practice license is annulled for less than one year.
-3. The person has suffered from mental disease or in physical or mental disorder, and is confirmed by the health competent authority to be incapable of practicing.
-When the cause of the condition mentioned in Subparagraph 3 of the preceding paragraph no longer exists, the person may still apply for a practice license pursuant to this Act.
-For confirmation of the condition mentioned in Subparagraph 3 of Paragraph 1, the health competent authority shall designate a relevant medical specialist for authentication.]]></條文內容>
+    <條文內容><![CDATA[In any of the following circumstances, the practice license shall not be issued; any license already issued shall be revoked or annulled:
+1. A medical radiation technologist certificate has been revoked or annulled.
+2. A medical radiation technologist practice license was annulled within one year.
+3. The medical radiation technologist has been determined by a team of specialist physicians, medical radiation technologists and scholars/experts invited by the municipal or county (city) competent authority to be unable to practice due to objective facts.
+After the cause listed in subparagraph 3 of the preceding paragraph is eliminated, the medical radiation technologist may still apply for practice license in accordance with this Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[A medical radiation technologist shall practice in one location only, and shall practice in a medical care institution or medical radiological institution approved by and registered with the local health competent authority, or other institutions recognized by the health competent authority. However, inter-institutional support or condition with prior approval is not subject to this restriction.]]></條文內容>
+    <條文內容><![CDATA[A medical radiation technologist shall practice in one location only and shall practice in a medical care institution or medical radiological institution approved by and registered with the local competent authority, or other institutions recognized by the competent authority. However, inter-institutional support or condition with prior approval is not subject to this restriction.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -74,18 +75,18 @@ Associations for medical radiation technologists or associations for medical rad
   </條文>
   <條文>
     <條號>Article 12</條號>
-    <條文內容><![CDATA[Businesses of medical radiation technologists include:
-1. General radiography for diagnostic radiology.
-2. Nuclear medical in-vitro examination.
-3. Special radiography and imaging for diagnostic radiology.
-4. Radiotherapy.
-5. Imaging and in-vivo analysis and examination for nuclear medical diagnosis.
-6. Nuclear medical therapy.
-7. MRI and non-ionizing radiation imaging.
-8. Other tasks identified by the central health competent authority.
-For a medical radiation technologist to carry out businesses as stated in Subparagraphs 1 and 2 of the preceding paragraph, an examination slip issued by a physician is required. However, this does not apply to self-paid examinations at medical care radiological clinics; businesses stated in Subparagraphs 3 to 8 of the preceding paragraph shall be conducted together with a physician.
-Radiography and imaging mentioned in all subparagraphs of Paragraph 1 shall include the acquisition, processing and quality control of the image.
-The proviso stated in Paragraph 2 shall be put on trial run for five years from the date this Act is promulgated and implemented. Review shall be made at the end of the trial run.]]></條文內容>
+    <條文內容><![CDATA[Medical radiation technologies perform the following functions:
+1.General radiography for diagnostic radiology.
+2.Nuclear medical in-vitro examination.
+3.Special radiography and imaging for diagnostic radiology.
+4.Radiotherapy.
+5.Imaging and in-vivo analysis and examination for nuclear medical diagnosis.
+6.Nuclear medical therapy.
+7.MRI and non-ionizing radiation imaging.
+8.Other activities recognized by the central competent authority.
+To carry out activities under subparagraph 1 or 2 of the preceding paragraph, the medical radiation technologist shall follow an examination order issued by a physician, except for self-paid examinations at medical care radiological clinics; activities under subparagraphs 3 to 8 of the preceding paragraph shall be conducted together with a physician.
+Radiography and imaging referred to under each subparagraph of the first paragraph include the acquisition, processing and quality control of the image.
+The provision of the second paragraph shall be put on trial for five years from the date of promulgation and implementation of this Act and shall be reviewed at the end of the trial period.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
@@ -123,15 +124,15 @@ The proviso stated in Paragraph 2 shall be put on trial run for five years from 
   <編章節>   Chapter 3  Medical Care Radiological Clinics</編章節>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[Application for the establishment of a medical care radiological clinic shall be submitted to the local health competent authority for approval and registration, after which an establishment license will be issued and the clinic may be established.
-Standards for the establishment of a medical care radiological clinic shall be laid down by the central health competent authority upon consultation with the Atomic Energy Council, Executive Yuan and other related agencies.]]></條文內容>
+    <條文內容><![CDATA[Application for establishment of a medical care radiological clinic shall be submitted to the local competent authority for approval and registration, after which an opening permit shall be issued before the clinic may be established.
+Standards for establishment of a medical care radiological clinic shall be determined by the central competent authority upon consultation with the Atomic Energy Council, Executive Yuan and other related agencies.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[Applicant with one of the following qualifications may apply for the establishment of a medical care radiological clinic:
-1. Medical radiation technologists who have practiced for at least two years at medical care institutions specified by the central health competent authority.
-2. Medical radiation technologists or medical radiological technicians who have started their practice or institution before December 31, 1990, and their institution’s radiation safety has passed the examination of the Atomic Energy Council, Executive Yuan, and registration is granted.
-For calculation of the experience as mentioned in Subparagraph 1 of the preceding paragraph, only those who have obtained Medical Radiation Technologist Certificate or Medical Radiological Technician Certificate and who have registered their practice with health competent authorities in municipality or county (or city) are applicable. However, for those who have been practicing before the promulgation of this Act, the actual years of experience can be included.]]></條文內容>
+    <條文內容><![CDATA[Any person with one of the following qualifications may apply for the establishment of a medical care radiological clinic:
+1.Medical radiation technologist who has practiced for at least two years in medical care institutions designated by the central competent authority.
+2.Medical radiation technologist or medical radiological technician who has started his/her practice or institution before 31 December 1990 and whose institution’s radiation safety has passed examination by the Atomic Energy Council, Executive Yuan and registration has been granted.
+The calculation of seniority for carrying out the practice of the preceding paragraph is limited to any person who has obtained a medical radiation technologist certificate or medical radiological technician and who has the practice registered with the municipal or county (city) competent authority in accordance with the law. As for any person who has carried out the practices prior to the coming into force of this Act, however, the actual years of experience may be included.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -144,8 +145,8 @@ The acting duration mentioned in the preceding paragraph shall not exceed one ye
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[The use or alteration of the name of a medical care radiological clinic shall be approved by the health competent authority.
-Non-medical care radiological clinic shall not use the name of a medical care radiological clinic or any similar name.]]></條文內容>
+    <條文內容><![CDATA[The use or change of the name of a medical care radiological clinic shall be approved by the competent authority.
+A non- medical care radiological clinic shall not use the name of medical care radiological clinic or similar names.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21-1</條號>
@@ -173,7 +174,7 @@ Provisions concerning the establishment of medical care radiological clinics are
   </條文>
   <條文>
     <條號>Article 26</條號>
-    <條文內容><![CDATA[The fee standards of a medical care radiological clinic shall be verified by the municipal or county (or city) health competent authority.]]></條文內容>
+    <條文內容><![CDATA[The standard of fees collected by a medical care radiological clinic shall be reviewed and prescribed by the municipal or county (city) competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 27</條號>
@@ -182,10 +183,10 @@ Medical care radiological clinics shall not violate the fee standards and overch
   </條文>
   <條文>
     <條號>Article 28</條號>
-    <條文內容><![CDATA[Advertisements of a medical care radiological clinic shall include no more than the following content:
-1. Name, establishment license number, address, telephone number and traffic information of the medical care radiological clinic.
-2. Name and certificate number of its medical radiation technologist or medical radiological technician.
-3. Other items that are allowed to be published or publicized according to the announcements of the central health competent authority.]]></條文內容>
+    <條文內容><![CDATA[The content of a medical care radiological clinic’s advertisement is limited to the following items:
+1.Name, reference number of opening permit, address and telephone number of a medical care radiological clinic and directions to the clinic.
+2.Names of medical radiation technologists or medical radiological technicians and the reference numbers of their certificates.
+3.Other items whose publication and dissemination are approved under the announcement of the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 29</條號>
@@ -197,7 +198,7 @@ Medical care radiological clinics shall not violate the fee standards and overch
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[Medical care radiological clinics shall submit reports in accordance with the laws and regulations or upon notifications of the health competent authority; they shall also accept the health competent authority’s inspection and information collection request on their staff, equipment, sanitation, safety, fees, operation, etc.]]></條文內容>
+    <條文內容><![CDATA[A medical care radiological clinic shall submit reports in accordance with the laws and regulations or the notification of the competent authority, and shall accept the competent authority’s inspections on its staff, facilities, sanitation, safety, fees and operation and the authority’s collection of information.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 32</條號>
@@ -206,7 +207,7 @@ Medical care radiological clinics shall not violate the fee standards and overch
   <編章節>   Chapter 4  Rewards and Penalties</編章節>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[Regulations concerning rewards for medical radiation technologists or medical radiological technicians shall be laid down by the central health competent authority.]]></條文內容>
+    <條文內容><![CDATA[Regulations concerning rewards to medical radiation technologists or medical radiological technicians shall be determined by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 34</條號>
@@ -270,7 +271,7 @@ When a medical care radiological clinic is penalized for practice suspension or 
   </條文>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[Penalties including fines, suspension of practice, revocation or annulment of practice license or establishment license as provided in this Act shall be executed by the municipal or county (or city) health competent authority, unless otherwise stipulated in this Act; annulment of medical radiation technologist’s or medical radiological technician’s certificate shall be executed by the central health competent authority.]]></條文內容>
+    <條文內容><![CDATA[The administrative fine, suspension from practice, rescinding and revoking of practice license or opening permit prescribed in this Act shall be executed by municipal or county (city) competent authorities, unless this Act stipulates otherwise. In addition, revoking of a medical radiation technologist certificate or medical radiological technician certificate shall be executed by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 47</條號>
@@ -279,7 +280,7 @@ When a medical care radiological clinic is penalized for practice suspension or 
   <編章節>   Chapter 5  Associations</編章節>
   <條文>
     <條號>Article 48</條號>
-    <條文內容><![CDATA[The competent authority in charge of associations for medical radiation technologists is the civil association competent authority, but the target business shall be subject to the guidance and supervision of the health competent authority.]]></條文內容>
+    <條文內容><![CDATA[Medical radiation technologist associations shall be administered by the competent authorities of civil associations; their business activities shall be supervised and monitored by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 49</條號>
@@ -287,7 +288,7 @@ When a medical care radiological clinic is penalized for practice suspension or 
   </條文>
   <條文>
     <條號>Article 50</條號>
-    <條文內容><![CDATA[Jurisdictions of the associations for medical radiation technologists shall be in accordance with the existing administrative regions. Within the same region, only one same-level association is allowed.]]></條文內容>
+    <條文內容><![CDATA[Jurisdictions of medical radiation technologist associations shall be in accordance with the existing administrative regions. Within the same region, only one same-level association is allowed, except those already established before the change of administrative regions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 51</條號>
@@ -323,7 +324,7 @@ When the number of members of an association for medical radiation technologists
   </條文>
   <條文>
     <條號>Article 56</條號>
-    <條文內容><![CDATA[An association for medical radiation technologists shall establish the Articles of Association, compile the list of members and the brief curriculum vitae of its appointed staff, which shall be sent to the local civil association competent authority for registration, and also to the central and local health competent authorities for reference.]]></條文內容>
+    <條文內容><![CDATA[A medical radiation technologist association shall formulate articles of association, prepare a list of members and curriculum vitae of its staff and submit them to the competent authority of civil associations for registration in the place where it is located and to the competent authorities at central and local levels respectively for records.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 57</條號>
@@ -342,12 +343,12 @@ When the number of members of an association for medical radiation technologists
   </條文>
   <條文>
     <條號>Article 57-1</條號>
-    <條文內容><![CDATA[In the event that an association for medical radiation technologists violates the laws and regulations or the Articles of Association, the civil association competent authority may impose the following penalties:
-1. Warning.
-2. Revocation of its resolution.
-3. Dismissal of its director or supervisor.
-4. Request rectification by a deadline.
-The penalties mentioned in Subparagraphs 1 and 2 of the preceding paragraph may also be given by the health competent authority.]]></條文內容>
+    <條文內容><![CDATA[For violations of the laws and orders or the articles of association of a medical radiation technologist association, the competent authorities of civil associations may impose the following sanctions:
+1.Warning.
+2.Revocation of the resolution.
+3.Discharge of the directors and supervisors.
+4.Rectification before a deadline.
+The sanctions of subparagraphs 1 and 2 of the preceding paragraph may also be imposed by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 57-2</條號>
@@ -364,17 +365,15 @@ The penalties mentioned in Subparagraphs 1 and 2 of the preceding paragraph may 
   <編章節>   Chapter 6  Supplementary Provisions</編章節>
   <條文>
     <條號>Article 60</條號>
-    <條文內容><![CDATA[When issuing certificates or licenses in accordance with this Act, the central, municipal, or county (or city) health competent authorities may charge a certification fee or licensing fee; the amounts charged shall be laid down by the central health competent authority.]]></條文內容>
+    <條文內容><![CDATA[In issuing certificates or licenses in accordance with this Act, the central, municipal or county (city) competent authorities may collect certificate fees or license fees; the amount of fees shall be decided by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 60-1</條號>
-    <條文內容><![CDATA[Foreigners and overseas Chinese may sit for the medical radiation technologist examination pursuant to the R.O.C. law.
-Foreigners and overseas Chinese who have passed the abovementioned examination and obtained the Medical Radiation Technologist Certificate shall get the central health competent authority’s permission for practicing medical radiology business in R.O.C., and shall observe the R.O.C. laws and regulations relating to medical radiology and medicine as well as the Articles of Association of the association for medical radiation technologists. The permission of their practice and the regulations on their management shall be laid down by the central health competent authority.
-Violation of the provision in the preceding paragraph will result in penalties according to the law, and the central health competent authority may also annul their permit.]]></條文內容>
+    <條文內容><![CDATA[In issuing certificates or licenses in accordance with this Act, the central, municipal or county (city) competent authorities may collect certificate fees or license fees; the amount of fees shall be decided by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 61</條號>
-    <條文內容><![CDATA[Enforcement rules of this Act shall be laid down by the central health competent authority.]]></條文內容>
+    <條文內容><![CDATA[Enforcement rules of this Act shall be determined by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 62</條號>

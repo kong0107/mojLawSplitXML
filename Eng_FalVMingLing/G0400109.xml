@@ -2,8 +2,8 @@
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations Governing Futures Clearing Houses</英文法規名稱>
 <中文法規名稱>期貨結算機構管理規則</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400109</法規網址>
-<最新英文異動日期>20150106</最新英文異動日期>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400109</法規網址>
+<最新英文異動日期>20190624</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -13,6 +13,7 @@
 5. Article 13 amended and issued per 30 December 2011 Order No. Financial-Supervisory-Securities-Futures-1000063626 of the Financial Supervisory Commission, Executive Yuan
 6. Articles 5, 13, 17 and 44 amended and issued per 12 July 2012 Order No. Financial-Supervisory-Securities-Futures-1010030979 of the Financial Supervisory Commission; for implementation from the date of issuance, except for Articles 13 and 17, which shall enter into force from the fiscal year of 2013
 7. Articles 7 and 8 amended and issued per 6 January 2015 Order No. Financial-Supervisory-Securities-Futures-1030050108 of the Financial Supervisory Commission
+8. Articles 2, 4, 6, 9, 15, 24, and 27 amended and issued per 24 June 2019 Order No. Financial-Supervisory-Securities-Futures-1080319526 of the Financial Supervisory Commission
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -23,7 +24,7 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The businesses of a futures clearing house are the clearance and settlement for futures trading in the centralized futures trading market and to provide guarantee for performance of the futures contracts.]]></條文內容>
+    <條文內容><![CDATA[The businesses of a futures clearing house are clearance and settlement for futures trading and to provide guarantee for performance of the futures contracts.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -34,7 +35,7 @@ For the purpose of these Regulations, "Managerial Officer" shall mean the presid
     <條號>Article 4</條號>
     <條文內容><![CDATA[For the purpose of these Regulations, "Associated Persons" shall mean personnel of a futures clearing house who are engaging in the following businesses:
 1. conducting audit on the finance and business of the clearing members or futures commission merchants;
-2. surveillance, clearance, settlement, the administration of the margin and premium, and risk control of the centralized futures trading market;
+2. surveillance, clearance, settlement, the administration of the margin and premium, and risk control of futures trading;
 3. computer system operation of the futures clearance and settlement and information management;
 4. internal audit of the futures clearing house.
 In case where the clearing business is concurrently conducted by a futures exchange or by other institutions, the Associated Persons as referred to in the proceeding Paragraph shall not concurrently perform both duties or concurrently perform the duty of other departments.]]></條文內容>
@@ -46,7 +47,7 @@ The factors to be taken into account in drafting the qualifications as referred 
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[A futures clearing house shall submit the following documents to the FSC and obtain the approval before commencing its business:
+    <條文內容><![CDATA[A futures clearing house shall submit the following documents to the FSC and obtain the approval before commencing any of its business:
 1. a list of its clearing members (including name and type of the members) and the proof of satisfying the qualifications as referred to in the preceding Article;
 2. the operation procedure of and contract between the futures clearing house and the financial and centralized custody institutions related to settlement, clearance, and transfer of monies/certificates;
 3. proof evidencing the futures clearing house has contributed the compensation reserve fund in accordance with Article 15;
@@ -90,8 +91,8 @@ The factors to be taken into account in drafting the qualifications as referred 
 6. Where any of its directors, supervisors, managerial officers, or associated persons falls within the categories specified in Article 28 of the Act;
 7. punishment imposed on the clearing members;
 8. matters which shall be reported to Competent Authority pursuant to Article 55 and Article 41 of the Act;
-9. the surveillance and handling situation of the centralized futures trading market;
-10. any civil litigation, non-litigious matters, administrative measure, administrative litigation, or commercial arbitration or settlement, which have substantial impact on its finance or business;
+9. the surveillance and handling situation of futures trading;
+10. any civil litigation, non-litigious matters, administrative measure, administrative litigation, arbitration, or settlement, that has substantial impact on its finance or business;
 11. admission or withdrawal of clearing members;
 12. the depository institution's name and the account number of the designated account for the clearing bond;
 13. minutes of the Board of Directors' meetings;
@@ -135,9 +136,9 @@ A futures clearing house shall enter into a custody agreement regarding the time
   </條文>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[A futures clearing house shall deposit NT$300,000,000 compensation reserve fund in one lump sum in accordance with Article 53 of the Act and shall continue to deposit twenty percent (20%) of the income from clearing and settlement fee within 15 days after the end of each quarter, provided that this requirement shall not apply when the compensation reserve fund deposit amount equals the authorized capital amount or allocated operating capital amount.
-The compensation reserve fund referred to in the preceding Paragraph shall be deposited in an account in a bank that has been approved by the FSC to engage in custodian business.
-A futures clearing house shall not lend its compensation reserve fund to others or use it for other purposes, and its usage shall be limited to the following purposes:
+    <條文內容><![CDATA[A futures clearing house shall, in accordance with Article 53 of the Act, allocate compensation reserve funds separately for on-exchange and off-exchange futures trading and shall for each such compensation reserve fund initially deposit a lump-sum amount of NT$500,000,000 and subsequently continue to deposit twenty percent (20%) of the income from clearing and settlement fee within 15 days after the end of each quarter, provided that this requirement does not apply once a separate compensation reserve fund's total deposit amount equals 1.5 times the authorized capital amount or allocated operating capital amount of the futures clearing house.
+The separately allocated and deposited compensation reserve funds referred to in the preceding Paragraph shall be deposited in different dedicated accounts at a bank that has been approved by the FSC to engage in custodian business.
+A futures clearing house shall not lend its compensation reserve funds to others or use them for other purposes, and their usage shall be limited to the following purposes:
 1. bank deposit;
 2. purchasing treasury bond and government bond;
 3. other purposes as approved by the FSC.
@@ -199,7 +200,7 @@ The handling procedure and rules regarding the auditing and guidance referred to
   </條文>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[A futures clearing house shall prescribe the percentage of loss to be borne by other clearing members in accordance with Item 5 of Paragraph 1 of Article 49 of the Act and shall draft the related handling procedure and report to the FSC for approval. Any amendments to the above rules shall also be reported to the FSC for approval.]]></條文內容>
+    <條文內容><![CDATA[A futures clearing house shall prescribe the order of application of funds and the proportional amounts to be borne under Paragraph 2 of Article 49 of the Act and shall draft the related handling procedure and report to the FSC for approval. Any amendments to the above rules shall also be reported to the FSC for approval.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 25</條號>
@@ -213,7 +214,7 @@ The organization and responsibility of the committees referred to in the precedi
   <條文>
     <條號>Article 27</條號>
     <條文內容><![CDATA[A futures clearing house shall enter into a futures clearing and settlement contract with its clearing members containing the following particulars:
-1. the matters prescribed in Item 5 of Paragraph 1 of Article 49 and Article 54 of the Act;
+1. the matters prescribed in Paragraph 2 of Article 49 and Article 54 of the Act;
 2. the fee collection standard for futures clearance and settlement;
 3. that any clearing member who violates any provisions of Paragraph 1 of Article 30 of the Act shall be punished with fines for breaching contracts, have its trading suspended or restricted, or have its clearing and settlement contract terminated;
 4. that any futures clearing member who has been designated to wind up or settle the clearing and settlement matters for other members shall have the obligation to perform such agreement.]]></條文內容>

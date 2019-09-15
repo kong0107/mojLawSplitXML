@@ -2,7 +2,7 @@
 <法規性質>法律</法規性質>
 <英文法規名稱>Securities and Exchange Act</英文法規名稱>
 <中文法規名稱>證券交易法</中文法規名稱>
-<法規網址>http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400001</法規網址>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400001</法規網址>
 <最新英文異動日期>20190621</最新英文異動日期>
 <廢止註記>
 </廢止註記>
@@ -33,6 +33,7 @@
 24. Articles 14-2 and 178 amended and promulgated per 25 April 2018 Presidential Order No. Hua-Zong-I-Yi-10700042151
 25. Article 14 amended and promulgated per 5 December 2018 Presidential Order No. Hua-Zong-I-Jing-10700130991
 26. Articles 14-5, 28-2, 39, 43-1, 65, 66, 165-1, 177-1, 178, and 179 amended and promulgated and Article 178-1 added per 17 April 2019 Presidential Order Hua-Zong-I-Jing-10800037881
+27. Articles 14-5 and 36 amended and promulgated per 21 June 2019 Presidential Order Hua-Zong-I-Jing-10800063491
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -98,8 +99,8 @@ Securities delivered by book-entry transfer referred to in the preceding paragra
     <條號>Article 14</條號>
     <條文內容><![CDATA[The term "financial reports" as used in this Act means the financial reports prepared by issuers, securities firms, and stock exchanges that are to be filed periodically with the Competent Authority in compliance with Acts and regulations.
 Regulations governing the preparation of financial reports with respect to the content, scope, procedures, preparation, and other matters to be complied with for the financial reports referred to in the preceding paragraph shall be prescribed by the Competent Authority, and Chapters IV, VI, and VII of the Business Entity Accounting Act shall not apply to those financial reports.
-The financial reports referred to in paragraph 1 shall be signed or stamped with the seal of the chairperson, managerial officers, and accounting officers, who shall also produce a declaration that the report contains no misrepresentations or nondisclosures.
-The accounting officers referred to in the preceding paragraph shall possess certain qualifications and shall receive continuing professional education while holding the position. Regulations governing the qualifications of an accounting officer, the minimum hours of continuing education required, and the qualifications required of the institution offering the continuing education curriculum shall be prescribed by the Competent Authority.
+The financial reports referred to in paragraph 1 shall be signed or stamped with the seal of the chairperson, managerial officer, and accounting officer, who shall also produce a declaration that the report contains no misrepresentations or nondisclosures.
+The accounting officer referred to in the preceding paragraph shall possess certain qualifications and shall receive continuing professional education while holding the position. Regulations governing the qualifications of an accounting officer, the minimum hours of continuing education required, and the qualifications required of the institution offering the continuing education curriculum shall be prescribed by the Competent Authority.
 When a company whose stock is listed for trading on the stock exchange or over-the-counter securities exchange prepares its annual financial report in accordance with paragraph 2, it shall additionally disclose relevant information, including the average salary of all the company's employees and any adjustments thereto, in accordance with the regulations prescribed by the competent authority.]]></條文內容>
   </條文>
   <條文>
@@ -154,7 +155,7 @@ A resolution of the audit committee shall have the concurrence of one-half or mo
 7.The offering, issuance, or private placement of any equity-type securities.
 8.The hiring or dismissal of an attesting CPA, or the compensation given thereto.
 9.The appointment or discharge of a financial, accounting, or internal auditing officer.
-10.Annual financial reports, and second quarter financial reports that must be audited and attested by a CPA.
+10.Annual financial reports and second quarter financial reports that must be audited and attested by a CPA, which are signed or sealed by the chairperson, managerial officer, and accounting officer.
 11.Any other material matter so required by the company or the Competent Authority.
 With the exception of subparagraph 10, any matter under a subparagraph of the preceding paragraph that has not been approved with the consent of one-half or more of all audit committee members may be undertaken upon the consent of two-thirds or more of all directors, without regard to the restrictions of the preceding paragraph, and the resolution of the audit committee shall be recorded in the minutes of the directors meeting.
 A company that has established an audit committee is not subject to the provisions of Article 36-1 requiring that its financial reports be recognized by a supervisor.
@@ -390,8 +391,8 @@ The transfer of stock or bond certificates of payment beyond the period specifie
   <條文>
     <條號>Article 36</條號>
     <條文內容><![CDATA[Unless under special circumstances as otherwise provided by the Competent Authority, an issuer under this Act shall perform public announcement and registration with the Competent Authority as follows:
-1.within three months after the close of each fiscal year, publicly announce and register with the Competent Authority financial reports duly audited and attested by a certified public accountant, approved by the board of directors, and recognized by the supervisors.
-2.within 45 days after the end of the first, second, and third quarters of each fiscal year publicly announce and register with the Competent Authority financial reports duly reviewed by a certified public accountant and reported to the board of directors.
+1.within three months after the close of each fiscal year, publicly announce and register with the Competent Authority financial reports duly signed or sealed by the chairperson, managerial officer, and accounting officer, and audited and attested by a certified public accountant, approved by the board of directors, and recognized by the supervisors.
+2.within 45 days after the end of the first, second, and third quarters of each fiscal year publicly announce and register with the Competent Authority financial reports duly signed or sealed by the chairperson, managerial officer, and accounting officer, and reviewed by a certified public accountant and reported to the board of directors.
 3.within the first ten days of each calendar month publicly announce and register with the Competent Authority the operating status for the preceding month.
 Regulations governing the applicable scope of the special circumstances as referred to in the preceding paragraph, deadlines for public announcement and registration under such special circumstances, and other matters for compliance in connection therewith, shall be prescribed by the Competent Authority.
 Within two days from the date of occurrence of any of the following events, any company referred to in paragraph 1 of this Article shall publicly announce and register with the Competent Authority:
@@ -1265,7 +1266,7 @@ The punishment of the offense specified in the preceding paragraph may be pardon
 3.the violation of paragraph 1 of Article 32 by an issuer, its responsible persons or employees, and the provision of paragraph 2 of the same Article does not apply.
 4.the making of false statements on the account books, forms/statements, documents, or other reference or report materials produced by any issuer or public tender offeror or related party thereof, securities firm or its principals, securities dealers association, stock exchange, or any other enterprises referred to in Article 18 pursuant to an order of the Competent Authority to produce such materials.
 5.the making of false statements on the account books, forms/statements, vouchers, financial reports or any other business documents by any issuer, public tender offeror, securities firm, securities dealers association, stock exchange, or any other enterprises referred to in Article 18, as required to be produced in compliance with acts or regulations, or orders prescribed by the Competent Authority pursuant thereto.
-6.the making of false statements in the content of a financial report under the preceding subparagraph by a managerial officer or accounting officer who signs or chops the financial report; provided, the punishment may be reduced or remitted if the person has submitted a corrective opinion and provided evidence in a report to the Competent Authority before the Competent Authority or a judicial agency has commenced an investigation [ex officio or] upon a complaint filed by another person.
+6.the making of false statements in the content of a financial report under the preceding subparagraph by a managerial officer or accounting officer who signs or seals the financial report; provided, the punishment may be reduced or remitted if the person has submitted a corrective opinion and provided evidence in a report to the Competent Authority before the Competent Authority or a judicial agency has commenced an investigation [ex officio or] upon a complaint filed by another person.
 7.the making of any investment advice relating to an issuer or specific securities transactions which was based on false information and disseminating the said advice on any newspapers and magazines, written materials, broadcasts, films or by other means.
 8.the loaning of company funds to another person, using company assets to provide security or a guarantee for another person, or endorsing of a negotiable instrument by a director, managerial officer, or employee of an issuer in violation of an act or regulation, or the articles of incorporation, or beyond the scope authorized by the board of directors, causing substantial damage to the company.
 9.counterfeiting, altering, destroying, concealing, or obscuring working papers or relevant records or documents with intent to impede inspection by the Competent Authority or investigation by a judicial agency.
@@ -1344,7 +1345,7 @@ The penalty for a violation punishable by an administrative fine under the prece
   </條文>
   <條文>
     <條號>Article 179</條號>
-    <條文內容><![CDATA[Except as provided in Article 177-1 and in the preceding article, if a juristic person or a foreign company violates the provisions of this Act, the individual person responsible for the act will be punished under the articles of this chapter.]]></條文內容>
+    <條文內容><![CDATA[Except as provided in Article 177-1 and in the preceding article, if a juristic person or a foreign company violates the provisions of this Act, the individual person responsible for the act will be punished under the articles of this chapter .]]></條文內容>
   </條文>
   <條文>
     <條號>Article 180</條號>
