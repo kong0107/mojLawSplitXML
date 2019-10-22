@@ -46,9 +46,9 @@
 (3) Heat medium boilers with head pressure above 10m or transmission acreage above 8㎡.
 (4) Throughflow-type boilers that( including multi-pipe thoughflow boilers equipped with a cylinder header having inside diameter above 150 mm or equipped with a square header having sectional area above 177c㎡ ) have a maximum operating pressure above ten (10) km/c㎡ , or that (including those equipped with steam separators whose inside diameter over 300mm or those whose insidecapacity over 0.07m3 ) have the heat transfer area above ten (10) ㎡.
 2. Pressure vessels:
-(1) Category A pressure vessels that have a maximum operating pressure above one (1) km/ c㎡ or internal volume over 0.2 m3.
-(2) Category A pressure vessels that have not only a maximum operating pressure above one ( 1) km/c㎡ but also an inside diameter above 500 mm and alength above 1000 mm.
-(3) Category A pressure vessels that have the product of the maximum pressure ( expressed in km/ c㎡) and the internalvolume (expressed in m3) exceeding 0.2.
+(1) Category Ι pressure vessels that have a maximum operating pressure above one (1) km/ c㎡ or internal volume over 0.2 m3.
+(2) Category Ι pressure vessels that have not only a maximum operating pressure above one ( 1) km/c㎡ but also an inside diameter above 500 mm and alength above 1000 mm.
+(3) Category Ι pressure vessels that have the product of the maximum pressure ( expressed in km/ c㎡) and the internalvolume (expressed in m3) exceeding 0.2.
 3. Special equipment for highpressure gases:
 These special equipment refer to those equipment used for generation and related storage of the high pressure gages, as well as the supporting facilities ( including towers and tanks used for reaction, separation, refining or distillation purpose , where the distance between the highest tangent and lowest tangent of the towers are longer than five (5) m or the capacity of the storage tank is over 300 m3 or 3 tons), that the product of their design pressure ( expressed in km/ c㎡) and internal capacity (expressed in m3) exceeding 0.04. However, the vessels listed below shall be excluded from above category:
 (1) Vessels relating to pumps, compressors, pressure accumulators, etc.
@@ -758,8 +758,8 @@ For subparagraph 3 of the previous paragraph, the applicant shall apply for non-
   <編章節>      Section 2 Pressure vessels</編章節>
   <條文>
     <條號>Article 95</條號>
-    <條文內容><![CDATA[Before manufacturing or revising the Category A pressure vessels, the Manufacturer shall fill the type inspection application (Annex 31) and submit the application along with the documents listed below at local inspecting organizations:
-1. Type, detailed structure drawings and strength calculation sheet for the Category A pressure vessel applying for inspection.
+    <條文內容><![CDATA[Before manufacturing or revising the Category Ι pressure vessels, the Manufacturer shall fill the type inspection application (Annex 31) and submit the application along with the documents listed below at local inspecting organizations:
+1. Type, detailed structure drawings and strength calculation sheet for the Category Ι pressure vessel applying for inspection.
 2. Type, capacity and quantity of the manufacturing and inspection equipment.
 3. Educational background and working experience of the chief designer.
 4. Educational background and working experience of the principal of construction.
@@ -771,8 +771,8 @@ The manufacture or revision shall not be carried out without passing the inspect
   </條文>
   <條文>
     <條號>Article 96</條號>
-    <條文內容><![CDATA[For the manufacturing of Category A pressure vessels, except those made by a whole piece of material, quality control, quality assurance measures shall be taken, and the equipment of personnel shall be in accordance with the stipulations in Article 72.
-The equipment and personnel for the manufacture of Category A pressure vessels made by a whole piece of material shall meet the stipulations shown below except the chief designer, who shall apply to stipulations in Subparagraph 2 of paragraph 1 in Article 72:
+    <條文內容><![CDATA[For the manufacturing of Category Ι pressure vessels, except those made by a whole piece of material, quality control, quality assurance measures shall be taken, and the equipment of personnel shall be in accordance with the stipulations in Article 72.
+The equipment and personnel for the manufacture of Category Ι pressure vessels made by a whole piece of material shall meet the stipulations shown below except the chief designer, who shall apply to stipulations in Subparagraph 2 of paragraph 1 in Article 72:
 1. Manufacturing and inspection equipment shall include: Digging equipment, hydraulic pressure testing instruments.
 2. Principle of the construction shall meet one of the qualifications shown below:
 (1) Graduating form departments relating to mechanics in colleges and or with qualifications of technicians for mechanics, and with over 1 year of experience in design, manufacture or inspection of machinery for type inspections.
@@ -782,7 +782,7 @@ The equipment and personnel for the manufacture of Category A pressure vessels m
   </條文>
   <條文>
     <條號>Article 97</條號>
-    <條文內容><![CDATA[Manufacturers of Category A pressure vessels manufactured by sealing shall apply for sealing inspection at local inspecting organization before the construction. However, this limitation shall not apply to those meeting any of the cases shown below:
+    <條文內容><![CDATA[Manufacturers of Category Ι pressure vessels manufactured by sealing shall apply for sealing inspection at local inspecting organization before the construction. However, this limitation shall not apply to those meeting any of the cases shown below:
 1. Auxiliary equipment or those only sealing stress parts without stress under compression.
 2. Those only sealing the parts shown below:
 (1) Circumferential joints of pipes with inside diameter less than 300mm.
@@ -802,18 +802,18 @@ The sealing inspection items shall include material inspection, surface inspecti
   </條文>
   <條文>
     <條號>Article 99</條號>
-    <條文內容><![CDATA[When carrying out the sealing inspection on Category A pressure vessels, the inspecting organization shall first examine the documents submitted by the Manufacturer, and the site inspection shall then be carried out after the documents are qualified.
+    <條文內容><![CDATA[When carrying out the sealing inspection on Category Ι pressure vessels, the inspecting organization shall first examine the documents submitted by the Manufacturer, and the site inspection shall then be carried out after the documents are qualified.
 When carrying out the site inspection, personnel designated by the Manufacture or the Manufacturer shall be on the scene and prepare the items shown below before the inspection：
 1. Test pieces for mechanical performances.
 2. Radiation inspection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 100</條號>
-    <條文內容><![CDATA[The inspecting organization shall stamp the qualification mark (annex 34) on the specification of Category A pressure vessels for Category A pressure vessels qualified in the completion test, after signed by the Inspector, 1 copy of the specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification.]]></條文內容>
+    <條文內容><![CDATA[The inspecting organization shall stamp the qualification mark (annex 34) on the specification of Category Ι pressure vessels for Category Ι pressure vessels qualified in the completion test, after signed by the Inspector, 1 copy of the specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 101</條號>
-    <條文內容><![CDATA[Upon completion of the body of the Category A pressure vessel, the Manufacturer shall apply for structure inspection at local inspecting organization.However, for Category A pressure vessels separately assembled at the site of installation, the structure inspection shall be applied for at local inspecting organization before the installation.]]></條文內容>
+    <條文內容><![CDATA[Upon completion of the body of the Category Ι pressure vessel, the Manufacturer shall apply for structure inspection at local inspecting organization.However, for Category Ι pressure vessels separately assembled at the site of installation, the structure inspection shall be applied for at local inspecting organization before the installation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 102</條號>
@@ -827,67 +827,67 @@ The coverage of the structure inspection mentioned in the preceding Paragraph 1s
   </條文>
   <條文>
     <條號>Article 103</條號>
-    <條文內容><![CDATA[When the inspecting organization carries out structure inspection on Category A pressure vessels, the Manufacture or personnel designated by the Manufacture shall be on the scene and prepare the items shown below.
+    <條文內容><![CDATA[When the inspecting organization carries out structure inspection on Category Ι pressure vessels, the Manufacture or personnel designated by the Manufacture shall be on the scene and prepare the items shown below.
 1. Place the objects of inspection at locations convenient for inspection.
 2. Prepare for pressure tests like hydraulic pressure test etc.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 104</條號>
-    <條文內容><![CDATA[The inspecting organization shall stamp the qualification mark (annex 34) on the Detailed List of Category A pressure vessels for Category A pressure vessels qualified in the completion test or deemed qualified according to paragraph 3 of Article 13, after signed by the Inspector, 1 copy of the list shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification.]]></條文內容>
+    <條文內容><![CDATA[The inspecting organization shall stamp the qualification mark (annex 34) on the Detailed List of Category Ι pressure vessels for Category Ι pressure vessels qualified in the completion test or deemed qualified according to paragraph 3 of Article 13, after signed by the Inspector, 1 copy of the list shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 105</條號>
-    <條文內容><![CDATA[Upon completion of the installation of Category A pressure vessel , the employer shall apply for completion inspection at the inspecting organization; those not receiving the completion inspection shall not be used.
+    <條文內容><![CDATA[Upon completion of the installation of Category Ι pressure vessel , the employer shall apply for completion inspection at the inspecting organization; those not receiving the completion inspection shall not be used.
 When the inspecting organization carries out structure inspection on pressure vessel s, the Manufacture or personnel designated by the Manufacture shall be on the scene]]></條文內容>
   </條文>
   <條文>
     <條號>Article 106</條號>
-    <條文內容><![CDATA[When applying for completion inspection of pressure vessels, the Manufacturer shall fill the Application for Completion Inspection of Category A Pressure vessels (Annex 37) and submit the documents shown below:
+    <條文內容><![CDATA[When applying for completion inspection of pressure vessels, the Manufacturer shall fill the Application for Completion Inspection of Category Ι pressure vessels (Annex 37) and submit the documents shown below:
 1. Specification of the pressure vessel with seal of qualification mark for the structure inspection or reinspection.
 2. Map for the installation site of the pressure vessel and peripheral situations
 The Completion inspection of pressure vessel s shall include inspections on the quantity and capacity of safety valves, blowoff test, safety equipment quantity and dimensions of the pressure gauge and other necessary inspections.
-The inspecting organization shall issue the Report for Results of Completion inspection of Pressure vessel s (Annex 45) and the Qualification Certificate (Annex 39) to Category A pressure vessel s qualified in the completion inspection, the max period of validity for the aforesaid documents shall be 1 year.]]></條文內容>
+The inspecting organization shall issue the Report for Results of Completion inspection of Pressure vessel s (Annex 45) and the Qualification Certificate (Annex 39) to Category Ι pressure vessel s qualified in the completion inspection, the max period of validity for the aforesaid documents shall be 1 year.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 107</條號>
-    <條文內容><![CDATA[The employer shall fill the Application for Periodic Inspection of Category A Pressure vessel s (Annex 40) 1 month before the expiry of the qualification certificate for the inspection of pressure vessel s and apply for periodic inspection at the inspecting organization.]]></條文內容>
+    <條文內容><![CDATA[The employer shall fill the Application for Periodic Inspection of Category Ι pressure vessel s (Annex 40) 1 month before the expiry of the qualification certificate for the inspection of pressure vessel s and apply for periodic inspection at the inspecting organization.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 108</條號>
     <條文內容><![CDATA[The periodic inspection of the pressure vessel s shall be carried out more than one time per year, the external inspection shall be in accordance with the stipulations shown below:
-1. More than 2 Category A pressure vessels connected with pipelines for continuous production procedure or Category A pressure vessels for generation shall be inspected more that once every 2 years.
-2. Category A pressure vessels other than what stipulated in the previous subparagraph shall be inspected more that once a year.
+1. More than 2 Category Ι pressure vessels connected with pipelines for continuous production procedure or Category Ι pressure vessels for generation shall be inspected more that once every 2 years.
+2. Category Ι pressure vessels other than what stipulated in the previous subparagraph shall be inspected more that once a year.
 For pressure vessel s for generation with generating capacity over 20,000kw, the external inspection as mentioned in the previous paragraph shall be extended and carried out along with the internal inspection. But its period cannot exceed 2 years.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 109</條號>
-    <條文內容><![CDATA[If the internal inspection for the Category A pressure vessels shown below cannot be carried out, the employer shall submit documents including safety and health management status, auto inspection plans and implementation records, photocopy of the qualification specification for the structure inspection of the vessel, detailed structure drawing, production flow chart, emergent treatment plans, auto control system and proposal of substitutes at the inspecting organization for approval of extending the period of the internal inspection or substitution with other means of inspection:
+    <條文內容><![CDATA[If the internal inspection for the Category Ι pressure vessels shown below cannot be carried out, the employer shall submit documents including safety and health management status, auto inspection plans and implementation records, photocopy of the qualification specification for the structure inspection of the vessel, detailed structure drawing, production flow chart, emergent treatment plans, auto control system and proposal of substitutes at the inspecting organization for approval of extending the period of the internal inspection or substitution with other means of inspection:
 1. Those free of manholes or cannot be equipped with manholes, leaning holes or inspection hole due to structural reasons.
 2. Those with accelerant, molecular sieve or other special contents inside.
 3. System equipment that cannot be separated during the continuous production procedure.
 4. Others that have difficulty in internal inspection.
-If the Category A pressure vessels mentioned in the previous paragraph are attached to boilers, the inspection period shall be extended accordingly.]]></條文內容>
+If the Category Ι pressure vessels mentioned in the previous paragraph are attached to boilers, the inspection period shall be extended accordingly.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 110</條號>
-    <條文內容><![CDATA[After accepting the application for internal inspection, the inspecting organization shall notify the employer of the date for the completion inspection for Category A pressure vessels so that they can resume the inside of the Category A pressure vessels to the normal temperature and pressure, discharge the contents and carry out ventilation, air change, cleaning for the Category A pressure vessels s and prepare for other necessary proceedings for the periodic inspection.
-The internal inspection mentioned in the previous paragraph shall include surface inspection of the Category A pressure vessels and nondestructive inspections for thickness, cracks, distortion and defilement of the Category A pressure vessels s, and determine the pressure test and other necessary inspections to be carried out according to the results of the aforesaid inspections.
-Category A pressure vessels without corrosive contents that have difficulty in internal inspection shall receive pressure test with the pressure 1.5 times of the common pressure, the pressure test can also be carried out on the contents with the pressure over 1.1 times of the common pressure, and the air tight test and visual examination with the pressure above the common pressure shall be carried out as substitute.]]></條文內容>
+    <條文內容><![CDATA[After accepting the application for internal inspection, the inspecting organization shall notify the employer of the date for the completion inspection for Category Ι pressure vessels so that they can resume the inside of the Category Ι pressure vessels to the normal temperature and pressure, discharge the contents and carry out ventilation, air change, cleaning for the Category Ι pressure vessels s and prepare for other necessary proceedings for the periodic inspection.
+The internal inspection mentioned in the previous paragraph shall include surface inspection of the Category Ι pressure vessels and nondestructive inspections for thickness, cracks, distortion and defilement of the Category Ι pressure vessels s, and determine the pressure test and other necessary inspections to be carried out according to the results of the aforesaid inspections.
+Category Ι pressure vessels without corrosive contents that have difficulty in internal inspection shall receive pressure test with the pressure 1.5 times of the common pressure, the pressure test can also be carried out on the contents with the pressure over 1.1 times of the common pressure, and the air tight test and visual examination with the pressure above the common pressure shall be carried out as substitute.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 111</條號>
-    <條文內容><![CDATA[The items of external inspection include visual examination, detection of the corrosion, cracks, distortion, defilement and leakage on the surface, if necessary, the non-destructive detection, ultrasonic thickness measurement as fixed points in corrodible areas, accessories and auxiliary devices inspection shall also be carried out. Whenever necessary, proper instruments shall be adopted to detect the inside of the Category A pressure vessels, if something abnormal is found, the internal inspection shall then be carried out.
+    <條文內容><![CDATA[The items of external inspection include visual examination, detection of the corrosion, cracks, distortion, defilement and leakage on the surface, if necessary, the non-destructive detection, ultrasonic thickness measurement as fixed points in corrodible areas, accessories and auxiliary devices inspection shall also be carried out. Whenever necessary, proper instruments shall be adopted to detect the inside of the Category Ι pressure vessels, if something abnormal is found, the internal inspection shall then be carried out.
 The ultrasonic thickness measurement stipulated in the previous paragraph may be exempted if there're problems like high temperature etc. that leads to difficulty in the measurement
-When carrying out the external inspection on Category A pressure vessels, the inspecting organization he shall notify the employer of the date of inspection. During the inspection, the Manufacture or personnel designated by the Manufacture shall be on the scene.]]></條文內容>
+When carrying out the external inspection on Category Ι pressure vessels, the inspecting organization he shall notify the employer of the date of inspection. During the inspection, the Manufacture or personnel designated by the Manufacture shall be on the scene.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 112</條號>
-    <條文內容><![CDATA[The inspecting organization shall sign on the original qualification certificate of Category A pressure vessels qualified in the periodic inspection and indicate the period of service (1 years at the most), but for paragraph 2 of Article 108, the period may be 2 years.
-The Inspector shall fill the Report for the Result of Periodic Inspection for Category A Pressure Vessels (Annex 46) after the completion of the periodic inspection and notify the employer of the results.]]></條文內容>
+    <條文內容><![CDATA[The inspecting organization shall sign on the original qualification certificate of Category Ι pressure vessels qualified in the periodic inspection and indicate the period of service (1 years at the most), but for paragraph 2 of Article 108, the period may be 2 years.
+The Inspector shall fill the Report for the Result of Periodic Inspection for Category Ι pressure vessels (Annex 46) after the completion of the periodic inspection and notify the employer of the results.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 113</條號>
-    <條文內容><![CDATA[If the Category A pressure vessel is deemed unqualified in the periodic inspection, the inspector shall record the disqualification in the record of the qualification certificate of the inspection and notify of the improvement; if the situation is serious and has the possibility of resulting in danger, if shall be reported to the inspection organization for limitation of its max pressure or prohibition of use.]]></條文內容>
+    <條文內容><![CDATA[If the Category Ι pressure vessel is deemed unqualified in the periodic inspection, the inspector shall record the disqualification in the record of the qualification certificate of the inspection and notify of the improvement; if the situation is serious and has the possibility of resulting in danger, if shall be reported to the inspection organization for limitation of its max pressure or prohibition of use.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 114</條號>
@@ -903,8 +903,8 @@ For those imported pressure vessels which are documented by the proper correspon
   </條文>
   <條文>
     <條號>Article 115</條號>
-    <條文內容><![CDATA[When applying for the reinspection of Category A pressure vessels, the owner or the employer shall fill the Application for reinspection of Category A pressure vessels (Annex 42) and submit the documents shown below:
-1. 2 copies of specification of the Category A pressure vessel.
+    <條文內容><![CDATA[When applying for the reinspection of Category Ι pressure vessels, the owner or the employer shall fill the Application for reinspection of Category Ι pressure vessels (Annex 42) and submit the documents shown below:
+1. 2 copies of specification of the Category Ι pressure vessel.
 2. Detailed drawing of structure and calculation sheet, each 2 copies. However, those deemed unnecessary by the inspecting organization may be ignored.
 3. Aforesaid certificates for qualification of inspections or their photocopies.
 Stipulations of Paragraph 3 of Article 102 and Article 103 shall apply to the reinspection.]]></條文內容>
@@ -916,15 +916,15 @@ For those imported category Ι pressure vesse, the qualification mark shall be s
   </條文>
   <條文>
     <條號>Article 117</條號>
-    <條文內容><![CDATA[If the alteration of the Category A pressure vessel results in alteration of the body, header, end plate, tamina tectalis or reinforcement support, the owner or the employer shall apply at the local inspecting organization for the alteration inspection.
-The inspecting organization shall record the date of inspection, altered parts and results of the inspection on the original qualification certificate of the Category A pressure vessel for the Category A pressure vessels qualified in the completion test
-If over 1/3 of the body or header of the Category A pressure vessel is to be altered or the end plate and pipe sheet are to be entirely altered, the alteration shall be carried out according to stipulations of Article 95.]]></條文內容>
+    <條文內容><![CDATA[If the alteration of the Category Ι pressure vessel results in alteration of the body, header, end plate, tamina tectalis or reinforcement support, the owner or the employer shall apply at the local inspecting organization for the alteration inspection.
+The inspecting organization shall record the date of inspection, altered parts and results of the inspection on the original qualification certificate of the Category Ι pressure vessel for the Category Ι pressure vessels qualified in the completion test
+If over 1/3 of the body or header of the Category Ι pressure vessel is to be altered or the end plate and pipe sheet are to be entirely altered, the alteration shall be carried out according to stipulations of Article 95.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 118</條號>
-    <條文內容><![CDATA[When applying for the alteration inspection of Category A pressure vessels, the Manufacturer shall fill the Application for Alteration Inspection of Category A pressure vessels (Annex 43) and submit it the documents as shown below.
+    <條文內容><![CDATA[When applying for the alteration inspection of Category Ι pressure vessels, the Manufacturer shall fill the Application for Alteration Inspection of Category Ι pressure vessels (Annex 43) and submit it the documents as shown below.
 1. Qualification certificate of the type inspection of the manufacturing equipment.
-2. 2 copies of specification of the Category A pressure vessel
+2. 2 copies of specification of the Category Ι pressure vessel
 3. Drawings of the altered parts.
 4. Detailed structure drawing and strength calculation sheet, each 2 copies. However, this may be ignored if the inspecting organization deems it unnecessary.
 5. Aforesaid certificates for qualification of inspections or their photocopies.
@@ -932,7 +932,7 @@ Stipulations of Paragraph 3 of Article 102 and Article 103 shall apply to the in
   </條文>
   <條文>
     <條號>Article 119</條號>
-    <條文內容><![CDATA[When carrying out the structure inspection, completion inspection, periodic inspection, reinspection or alteration inspection, the inspecting organization, if considering necessary, shall notify the owner of the Category A pressure vessels and the employer or his/her agent of the measures shown below:
+    <條文內容><![CDATA[When carrying out the structure inspection, completion inspection, periodic inspection, reinspection or alteration inspection, the inspecting organization, if considering necessary, shall notify the owner of the Category Ι pressure vessels and the employer or his/her agent of the measures shown below:
 1. Remove all or part of the covering on the inspected object.
 2. Pull out the rivet or pipe.
 3. Drill holes on the plate or pipes.
@@ -1139,7 +1139,7 @@ Internal inspection of special equipment for high-pressure gases shall be carrie
 4. System equipment that cannot be separated during the continuous production procedure.
 5. Diaphragm type tanks or non-corrosive equipment.
 6. Others that have difficulty in internal inspection.
-If the special equipment for high-pressure gases mentioned in the previous paragraph are attached to Category A pressure vessels or boilers, the inspection period shall be extended accordingly.]]></條文內容>
+If the special equipment for high-pressure gases mentioned in the previous paragraph are attached to Category Ι pressure vessels or boilers, the inspection period shall be extended accordingly.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 134</條號>
