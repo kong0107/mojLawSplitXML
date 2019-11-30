@@ -3,7 +3,7 @@
 <英文法規名稱>The Rules of Management for Motor Vehicle Accident Compensation Fund</英文法規名稱>
 <中文法規名稱>財團法人汽車交通事故特別補償基金管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040049</法規網址>
-<最新英文異動日期>20141017</最新英文異動日期>
+<最新英文異動日期>20190927</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -13,7 +13,8 @@
 4.Article 7 amended and issued jointly by the Financial Supervisory Commission and the Ministry of Transportation and Communications on 23 November 2006 per Order No. Jin-Guan-Bao-IV-Zi-09502564381 of the Financial Supervisory Commission, Executive Yuan and Order No. Jiao-Lu-Zi-0950085067 of the Ministry of Transportation and Communications
 5.Articles 7、10 and 11 amended and issued jointly by the Financial Supervisory Commission and the Ministry of Transportation and Communications on 21 January 2010 per Order No. Jin-Guan-Bao-Tse-Zi-09902560001 of the Financial Supervisory Commission, Executive Yuan and Order No. Jiao-Lu-Zi-0990085003 of the Ministry of Transportation and Communications 
   The authority of matters as listed on the Article 7 Paragraph 1 Subparagraph 6 issued on 25 June 2012 per Order No. Yuan-Tai-Guei-Zi-1010134960 by Executive Yuan was replaced by “the Financial Supervisory Commission” instead of "the Financial Supervisory Commission, Executive Yuan” and became effective as of July 1, 2012
-6.Articles 7 and 10 amended and issued jointly by the Financial Supervisory Commission and the Ministry of Transportation and Communications on 17 October 2014 per Order No. Jin-Guan-Bao Chan-Zi--10302526661 of the Financial Supervisory Commission and Order No. Jiao-Lu-Zi-10300295741 of the Ministry of Transportation and Communications ]]></沿革內容>
+6.Articles 7 and 10 amended and issued jointly by the Financial Supervisory Commission and the Ministry of Transportation and Communications on 17 October 2014 per Order No. Jin-Guan-Bao Chan-Zi--10302526661 of the Financial Supervisory Commission and Order No. Jiao-Lu-Zi-10300295741 of the Ministry of Transportation and Communications 
+7.Amended and issued jointly by the Financial Supervisory Commission and the Ministry of Transportation and Communications on 27 September 2019 per Order No. Jin-Guan-Bao Chan-Zi--10804523531 of the Financial Supervisory Commission and Order No. Jiao-Lu-Zi-10800266071 of the Ministry of Transportation and Communications]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -22,7 +23,7 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The administration of the Non-Profit Motor Vehicle Accident Compensation Fund (hereinafter referred to as "this Fund") shall be subject to the provisions of these regulations, except for otherwise provided by laws.]]></條文內容>
+    <條文內容><![CDATA[The administration of the Non-Profit Motor Vehicle Accident Compensation Fund (hereinafter referred to as "this Fund") shall be subject to the provisions of these regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -43,14 +44,19 @@
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[Except for the needs in business operation, this Fund may utilize its funds only for the following:
-1. NT Dollar or foreign currency on deposit in domestic banks. The foreign currency deposits limits and requirements shall be approved by the Financial Supervisory Commission (hereinafter referred to as "the FSC").
-2. Government bonds and treasury bills, financial bonds, negotiable certificates of deposit, banker’s acceptances, commercial promissory notes guaranteed by the financial institution.
-3. Publicly issued corporate bonds guaranteed by the financial institution or assessed by credit rating agencies at no lower than a specified rating; the limits and requirements shall be approved by the FSC.
-4. Publicly listed exchange-traded funds, bond funds, and publicly listed corporate stocks; the limits and requirements shall be approved by the FSC.
-5. Purchases of personal property and real estate for business operation.
-6. Any items authorized by the FSC.
-If the government bonds invested subject to subparagraph 2 of the preceding paragraph is a convertible bond, the subject to convert into shall be only in publicly listed corporate stocks. After conversion, the value shall be counted in the limit of subparagraph 4 of the preceding paragraph.
-If the publicly issued corporate bonds invested subject to subparagraph 3 of the preceding paragraph is a convertible bond or an exchangeable bond, the subject to convert or exchange into shall be only in publicly listed corporate stocks. After conversion or exchange, the value shall be counted in the limit of subparagraph 4 of the preceding paragraph.]]></條文內容>
+1.Deposit in financial institutions;
+2.Purchase of government bond, treasury bills, central bank savings notes, financial bond, negotiable certificate of deposit, bankers' acceptances, commercial papers backed by banks or bills finance companies;
+3.Purchase of moveable and real properties necessary for operation;
+4.Purchase of publicly issued secured corporate bonds, fixed income beneficiary certificates issued by domestic securities investment trust companies;
+5.Purchase of shares provided that the total purchase shall not exceed 5 percent of this Fund’s net value and the shareholding in a single company shall not exceed 5 percent of this company’s total capital;
+6.Investing in Equity Fund and Exchange Traded Fund (ETF) with domestic component securities, or unsecured bonds issued by the companies that assessed by credit rating agencies at no lower than a specified rating; the total amount of investment shall not exceed 20% of this Fund’s net value.
+The term “no lower than a specified rating“ of the company in the subparagraph 6 of the preceding paragraph is equivalent to any of the following credit rating or above:
+1.A long-term credit rating of tw AA- or above issued by Taiwan Ratings Corporation.
+2.A long-term credit rating of AA-(twn) or above issued by Fitch Ratings Limited, Taiwan Branch.
+3.A long-term credit rating of AA- or above issued by Standard & Poor’s Corporation.
+4.A long-term credit rating of AA- or above issued by Fitch Ratings Ltd.
+5.A long-term credit rating of Aa3 or above issued by Moody's Investors Service.
+This fund shall stipulate risk control mechanisms and measures, report to the Financial Supervisory Commission (hereinafter referred to as "the FSC") for reference.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -62,8 +68,10 @@ If the publicly issued corporate bonds invested subject to subparagraph 3 of the
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[This Fund shall prepare an annual budget report and business plan within two months after the commencement of each fiscal year; submit a final report and business report of the previous fiscal year within three months after the end of each fiscal year to the FSC for reference.
-The budget report and final report referred to in the preceding paragraph shall include balance sheet, statement of balance in income and expenditure, statement of cash flow, statement of changes in net value and related tables.]]></條文內容>
+    <條文內容><![CDATA[This Fund shall prepare an annual budget report and work plan for the following year annually before July 31; submit a final report and business report of the previous fiscal year before April 15 each year, which shall be passed by the Board of directors, and report to the FSC for reference.
+Due to major changes in the market and the actual needs of the business, this Fund need to increase the expenditure, shall be passed by the Board of directors and approval by the FSC, it may be included in the annual accounts processing.
+The budget report and final report referred to in the paragraph 1 shall include balance sheet, statement of balance in income and expenditure, statement of cash flow, statement of changes in net value and related tables.
+The final report and business report set out in the paragraph 1 shall be submitted to all supervisors, if any, for conducting audit separately after they are passed by the Board of directors, and report to the FSC for reference along with a supervisory report for the preceding year prepared by the supervisors.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -72,6 +80,10 @@ The budget report and final report referred to in the preceding paragraph shall 
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[The FSC may at all times send its staffs along or together with the staffs assigned by the Ministry of Transportation and Communications, or may assign a certified public accountant to audit the operation and financial condition of this Fund.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 12-1</條號>
+    <條文內容><![CDATA[Personnel changes in manager and above of this Fund shall report to the FSC for reference within 15 days after the change.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>

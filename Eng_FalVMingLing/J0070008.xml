@@ -3,7 +3,7 @@
 <英文法規名稱>Enforcement Rules of the Patent Act</英文法規名稱>
 <中文法規名稱>專利法施行細則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0070008</法規網址>
-<最新英文異動日期>20170419</最新英文異動日期>
+<最新英文異動日期>20190927</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -22,7 +22,8 @@
 13. Amended on November 6, 2014; entered into force on November 8, 2014
 14. Amended on March 7, 2016; entered into force on March 9, 2016
 15. Amended on June 29, 2016; entered into force on July 1, 2016
-16. Amended on April 19, 2017; entered into force on May 1, 2017]]></沿革內容>
+16. Amended on April 19, 2017; entered into force on May 1, 2017
+17. Amended on September 27, 2019; entered into force on November 1, 2019]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -173,7 +174,7 @@ The drawing(s) shall be annotated with drawing designation(s) and reference sign
   <條文>
     <條號>Article 24</條號>
     <條文內容><![CDATA[In the event that parts of the description or the drawing(s) are missing from the patent application for invention, the filing date shall be the date on which the missing parts of the description or the drawing(s) are filed. However, the filing date shall be the date on which the application was first filed under any of the following conditions:
-1. where the application claims priority of an earlier application, and the missing parts of the description or the drawing(s) are completely contained in the earlier application; or
+1. where the application claims priority of an earlier application, and the missing parts of the description or the drawing(s) are completely contained in the earlier application ; or
 2. where the applicant withdraws the earlier filed missing parts of the description or the drawing(s) within thirty days after being served with a notification confirming the filing date by the Specific Patent Agency.
 Where the description or drawing(s) referred to in the preceding paragraph is submitted in a foreign language, the above provisions shall apply.]]></條文內容>
   </條文>
@@ -209,8 +210,8 @@ The determination of whether two or more inventions are technically related to o
   <條文>
     <條號>Article 28</條號>
     <條文內容><![CDATA[When requesting for division of a patent application for invention, a request form shall be submitted for each divisional patent application, accompanied by the following documents:
-1. description, claim(s), abstract, and drawing(s); and
-2. where the patent application for invention involves a biological material or utilization of a biological material, the certificate of deposit thereof.
+1.description, claim(s), abstract, and drawing(s); and
+2.where the patent application for invention involves a biological material or utilization of a biological material, the certificate of deposit thereof.
 Under any of the following circumstances, a statement shall be made at the time of filing the request form for each divisional patent application:
 1. where the priority prescribed under Paragraph 1, Article 28 of the Act is claimed; or
 2. where the priority prescribed under Paragraph 1, Article 30 of the Act is claimed.
@@ -218,8 +219,7 @@ The divisional patent application shall not differ from the original patent appl
   </條文>
   <條文>
     <條號>Article 29</條號>
-    <條文內容><![CDATA[Where a request for division is filed pursuant to Subparagraph 2, Paragraph 2, Article 34 of the Act after the original patent application has been approved, the request shall be based on the invention(s) disclosed in the description or the drawing(s), but not those claims that have been approved in the original patent application.
-When filing a request stated in the preceding paragraph, no alteration may be made to the description, claim(s), or drawing(s) of the original patent application that have been approved.]]></條文內容>
+    <條文內容><![CDATA[(delete)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 30</條號>
@@ -266,7 +266,7 @@ The relevant document(s) of proof to be submitted pursuant to Paragraph 2, Artic
   </條文>
   <條文>
     <條號>Article 34</條號>
-    <條文內容><![CDATA[Where the Specific Patent Agency notifies the applicant to appear for an interview, to perform experiment, to supplement model(s) or sample(s), or to amend the description, claim(s), or drawing(s), in case of failure to act within the specified time limit, or to conduct any act pursuant to the contents of the notification, the Specific Patent Agency may continue the examination based on the materials available.]]></條文內容>
+    <條文內容><![CDATA[Where the Specific Patent Agency notifies the applicant to appear for an interview, to perform experiment, to supplement model(s) or sample(s), or to amend the description , claim(s), or drawing(s), in case of failure to act within the specified time limit, or to conduct any act pursuant to the contents of the notification, the Specific Patent Agency may continue the examination based on the materials available.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 35</條號>
@@ -275,24 +275,24 @@ The relevant document(s) of proof to be submitted pursuant to Paragraph 2, Artic
   <條文>
     <條號>Article 36</條號>
     <條文內容><![CDATA[When requesting for amending the description, claim(s), or drawing(s) of a patent application for invention, a request form shall be submitted and accompanied by the following documents:
-1. the amended sheet(s) of the description or claim(s) on which the portions of the amendment are marked; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s). However, deleting claim(s) may be presented by annotation of descriptive text(s).
-2. the replacement sheet(s) of description, claim(s), or drawing(s) after the amendment without marks; in case the page sequence, claim sequence, or drawing sequence of the description, claim(s), or drawing(s) are not continuous due to the amendment, a complete set of description, claim(s), or drawing(s) after the amendment shall be submitted.
+1.the amended sheet(s) of the description or claim(s) on which the portions of the amendment are marked; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s). However, deleting claim(s) may be presented by annotation of descriptive text(s).
+2.the replacement sheet(s) of description, claim(s), or drawing(s) after the amendment without marks; in case the page sequence, claim sequence, or drawing sequence of the description, claim(s), or drawing(s) are not continuous due to the amendment, a complete set of description, claim(s), or drawing(s) after the amendment shall be submitted.
 The request form referred to in the preceding paragraph shall specify the following items:
-1. where an amendment is made to the description, the page number(s), paragraph number(s), and line number(s) thereof and reasons for the amendment;
-2. where an amendment is made to the claim(s), the number(s) thereof and reasons for the amendment;
-3. where an amendment is made to the drawing(s), the designation(s) thereof and reasons for the amendment.
+1.where an amendment is made to the description, the page number(s), paragraph number(s), and line number(s) thereof and reasons for the amendment;
+2.where an amendment is made to the claim(s), the number(s) thereof and reasons for the amendment;
+3.where an amendment is made to the drawing(s), the designation(s) thereof and reasons for the amendment.
 Where an amendment is made to the claim(s), if parts of the claims are deleted, number(s) of the remaining claim(s) should be rearranged with Arabic numeral(s) according to the claim sequence; where an amendment is made to the drawing(s), if parts of the drawings are deleted, the drawing designation(s) of the remaining drawing(s) should be rearranged according to the drawing sequence.
 In the event that the Specific Patent Agency has issued a final notice to the patent application for invention, the amendment reasons set forth in Subparagraph 2, Paragraph 2 of this Rule shall state the respective grounds prescribed under Paragraph 4, Article 43 of the Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 37</條號>
     <條文內容><![CDATA[When requesting for correcting the description, claim(s), or drawing(s) due to translation errors, a request form shall be submitted and accompanied by the following documents:
-1. the corrected sheet(s) of the description or claim(s) on which the portions of the correction are marked; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s); and
-2. the replacement sheet(s) of description, claim(s), or drawing(s) after correction without marks.
+1.the corrected sheet(s) of the description or claim(s) on which the portions of the correction are marked; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s); and
+2.the replacement sheet(s) of description, claim(s), or drawing(s) after correction without marks.
 The request form referred to in the preceding paragraph shall specify the following items:
-1. where a correction is made to the description, the page number(s), paragraph number(s), and line number(s) thereof, reasons for correction, and the page number(s), paragraph number(s), and line number(s) of the corresponding description in the application in foreign language;
-2. where a correction is made to the claim(s), the number(s) thereof, reasons for the correction, and the claim number(s) of the corresponding claim(s) in the application in foreign language;
-3. where a correction is made to the drawing(s), the designation(s) thereof, reasons for the amendment, and the designation(s) of the corresponding drawing(s) in the application in foreign language.]]></條文內容>
+1.where a correction is made to the description, the page number(s), paragraph number(s), and line number(s) thereof, reasons for correction, and the page number(s) , paragraph number(s), and line number(s) of the corresponding description in the application in foreign language;
+2.where a correction is made to the claim(s), the number(s) thereof, reasons for the correction, and the claim number(s) of the corresponding claim(s) in the application in foreign language;
+3.where a correction is made to the drawing(s), the designation(s) thereof, reasons for the amendment, and the designation(s) of the corresponding drawing(s) in the application in foreign language.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38</條號>
@@ -307,8 +307,8 @@ In case a correction of translation error(s) and a post-grant amendment are simu
   <條文>
     <條號>Article 40</條號>
     <條文內容><![CDATA[In the event that parts of the description or drawing(s) are missing from the patent application for utility model, the filing date shall be the date on which the missing parts of the description or the drawing(s) are filed. However, the filing date shall be the date on which the application was first filed under any of the following conditions:
-1. where the applicant claims priority of an earlier application, and the missing parts of the description or the drawing(s) are completely contained in the earlier application; or
-2. where the applicant withdraws the earlier filed missing parts of the description or parts of the drawing(s) within thirty (30) days after being served with a notification confirming the filing date by the Specific Patent Agency.
+1.where the applicant claims priority of an earlier application, and the missing parts of the description or the drawing(s) are completely contained in the earlier application ; or
+2.where the applicant withdraws the earlier filed missing parts of the description or parts of the drawing(s) within thirty (30) days after being served with a notification confirming the filing date by the Specific Patent Agency.
 Where the description or drawing(s) referred to in the preceding paragraph are submitted in a foreign language, the above provisions shall apply.]]></條文內容>
   </條文>
   <條文>
@@ -371,7 +371,7 @@ In the preceding paragraph, the time of filing shall mean the priority date wher
     <條文內容><![CDATA[When filing a patent application for design, the application form shall specify the following items:
 1. title of design;
 2. name and nationality of the designer; and
-3. name, nationality, and domicile/residence or business establishment of the applicant; the name of the representative, if any; and
+3. name, nationality, and domicile/residence or business establishment of the applicant ; the name of the representative, if any; and
 4. name and business establishment of the agent, if an agent is designated;
 Where the priority prescribed under Paragraph 1, Article 28 applicable mutatis mutandis under Paragraph 1, Article 142 of the Act is claimed, a statement thereof shall be made at the time of filing.
 When filing a patent application for derivative design, the application number of the original patent application for design shall be specified in the request form, in addition to the items stated in the preceding two paragraphs.]]></條文內容>
@@ -389,11 +389,11 @@ The description shall be presented in the manner and order specified in each sub
     <條文內容><![CDATA[The title of design shall clearly designate the article to which the design applied; irrelevant wording is not allowed.
 The purpose of article serves to facilitate description of usage, function, and the like of the article to which the design applied.
 The description of design serves to facilitate description of shape, patterns, colors, or any combination thereof. The following circumstances shall be stated, if any:
-1. the disclosed content of the drawing(s) contains parts which do not form part of the claimed design;
-2. for computer icons and graphic user interfaces applied to an article and whose appearance(s) may change, the change sequence; or
-3. the omission of the drawing(s) due to identicalness of drawing(s), symmetry of drawing(s), or any other causes.
+1.the disclosed content of the drawing(s) contains parts which do not form part of the claimed design;
+2.for computer icons and graphic user interfaces applied to an article and whose appearance(s) may change, the change sequence; or
+3.the omission of the drawing(s) due to identicalness of drawing(s), symmetry of drawing(s), or any other causes.
 A concise statement may be made in the description of design when necessary under any of the following circumstances:
-1. where the appearance of design changes because of the characteristics of different materials used, adjustment of function, or change in state of use;
+1.where the appearance of design changes because of the characteristics of different materials used, adjustment of function, or change in state of use;
 2. where there is auxiliary drawing(s) or reference drawing(s); or
 3. in a patent application for design claiming a set of articles, the title of each article constituting the set.]]></條文內容>
   </條文>
@@ -420,8 +420,8 @@ In case of failure to designate a representative drawing or inappropriate design
   <條文>
     <條號>Article 55</條號>
     <條文內容><![CDATA[In the event that parts of the description or parts of the drawing(s) are missing from the patent application for design, the filing date shall be the date on which the missing parts of the description or the drawing(s) are filed. However, the filing date shall be the date on which the application was first filed under any of the following conditions:
-1. where the applicant claims priority of an earlier application, and the missing parts of description or parts of the drawing(s) are completely contained in the earlier application; or
-2. where the applicant withdraws the earlier filed missing parts of the description or parts of the drawing(s) within thirty (30) days after being served with a notification confirming the filing date by the Specific Patent Agency.
+1.where the applicant claims priority of an earlier application, and the missing parts of description or parts of the drawing(s) are completely contained in the earlier application; or
+2.where the applicant withdraws the earlier filed missing parts of the description or parts of the drawing(s) within thirty (30) days after being served with a notification confirming the filing date by the Specific Patent Agency.
 Where the description or drawing(s) referred to in the preceding paragraph are submitted in a foreign language, the above provisions shall apply.]]></條文內容>
   </條文>
   <條文>
@@ -441,20 +441,20 @@ The divisional patent application shall not differ from the original patent appl
   <條文>
     <條號>Article 59</條號>
     <條文內容><![CDATA[When requesting for amending the description or drawing(s) of a patent application for design, a request form shall be submitted and accompanied by the following documents:
-1. the amended sheet(s) of the description on which the portions of the amendment are marked; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s); and
-2. the complete set of replacement description or drawing(s) after the amendment without marks.
+1.the amended sheet(s) of the description on which the portions of the amendment are marked; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s); and
+2.the complete set of replacement description or drawing(s) after the amendment without marks.
 The request form referred to in the preceding paragraph shall specify the following items:
-1. where an amendment is made to the description, the page number(s) and line number(s) thereof and reasons for the amendment;
-2. where an amendment is made to the drawing(s), the title(s) thereof and reasons for the amendment.]]></條文內容>
+1.where an amendment is made to the description, the page number(s) and line number(s) thereof and reasons for the amendment;
+2.where an amendment is made to the drawing(s), the title(s) thereof and reasons for the amendment.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 60</條號>
     <條文內容><![CDATA[When requesting for correcting the description or drawing(s) due to translation errors, a request form shall be submitted and accompanied by the following documents:
-1. the corrected sheet(s) of the description on which the portions of the correction are marked; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s); and
-2. the complete set of replacement description or drawing(s) after correction without marks.
+1.the corrected sheet(s) of the description on which the portions of the correction are marked; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s); and
+2.the complete set of replacement description or drawing(s) after correction without marks.
 The request form referred to in the preceding paragraph shall specify the following items:
-1. where a correction is made to the description, the page number(s) and line number(s) thereof, reasons for correction, and the page number(s) and line number(s) of the corresponding description in foreign language;
-2. where a correction is made to the drawing(s), the title(s) thereof, reasons for the correction, and the title(s) of the corresponding drawing(s) in the application in foreign language.]]></條文內容>
+1.where a correction is made to the description, the page number(s) and line number(s) thereof, reasons for correction, and the page number(s) and line number(s) of the corresponding description in foreign language;
+2.where a correction is made to the drawing(s), the title(s) thereof, reasons for the correction, and the title(s) of the corresponding drawing(s) in the application in foreign language.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 61</條號>
@@ -474,17 +474,17 @@ When requesting for recordation of patent right succession due to amalgamation o
   <條文>
     <條號>Article 64</條號>
     <條文內容><![CDATA[In requesting for recordation of patent right entrustment, a request form shall be submitted by the patentee or the trustee and accompanied by the following documents:
-1. for recordation of trust, the deed of trust or document(s) of proof with respect to such entrustment agreement;
-2. for deletion of trust recordation upon termination of the trust relation and the acquisition of the patent right by the settlor, the deed of trust or document(s) of proof with respect to such termination of the trust relation;
-3. for recordation of attribution of trusted patent right upon termination of the trust relation and the acquisition of patent right by a third party, the deed of trust or document(s) of proof with respect to such trust attribution;
-4. for alteration of other matters in the recordation of trust, document(s) of proof with respect to such alteration.]]></條文內容>
+1.for recordation of trust, the deed of trust or document(s) of proof with respect to such entrustment agreement;
+2.for deletion of trust recordation upon termination of the trust relation and the acquisition of the patent right by the settlor, the deed of trust or document(s) of proof with respect to such termination of the trust relation;
+3.for recordation of attribution of trusted patent right upon termination of the trust relation and the acquisition of patent right by a third party, the deed of trust or document(s) of proof with respect to such trust attribution;
+4.for alteration of other matters in the recordation of trust, document(s) of proof with respect to such alteration.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 65</條號>
     <條文內容><![CDATA[In requesting for recordation of licensing of patent right, a request form shall be submitted by the patentee or the licensee and accompanied by the following documents:
-1. for recordation of licensing, the license agreement or document(s) of proof with respect to such licensing;
-2. for alteration of the recordation of licensing, document(s) of proof with respect to such alteration;
-3. for deletion of licensing recordation, a letter consenting deletion of the licensing recordation issued by the licensee, a judgment of the court along with a certificate stating the judgment is final and binding, or documents which legally have the equivalent effect as a final and binding judgment of the court. However, where the license is terminated due to expiration of the licensed term, the above documents need not be submitted.
+1.for recordation of licensing, the license agreement or document(s) of proof with respect to such licensing;
+2.for alteration of the recordation of licensing, document(s) of proof with respect to such alteration;
+3.for deletion of licensing recordation, a letter consenting deletion of the licensing recordation issued by the licensee, a judgment of the court along with a certificate stating the judgment is final and binding, or documents which legally have the equivalent effect as a final and binding judgment of the court. However, where the license is terminated due to expiration of the licensed term, the above documents need not be submitted.
 The license agreement or document(s) of proof referred to in Subparagraph 1 of the preceding paragraph shall specify the following items:
 1. title or certificate number of the invention, utility model, or design patent; and
 2. type, scope, locality and term of license.
@@ -494,18 +494,18 @@ The expiration date of the licensed term referred to in Subparagraph 2 of Paragr
   <條文>
     <條號>Article 66</條號>
     <條文內容><![CDATA[In requesting for recordation of sub-licensing of patent right, a request shall be submitted by the licensee or the sub-licensee and accompanied by the following documents:
-1. for recordation of sub-licensing, the sub-license contract or document(s) of proof with respect to such sub-licensing;
-2. for alteration of the recordation of sub-licensing, document(s) of proof with respect to such alteration;
-3. for deletion of sub-licensing recordation, a letter consenting deletion of the sub-licensing recordation issued by the sub-licensee, a judgment of the court along with a certificate stating the judgment is final and binding, or documents which legally have the equivalent effect as a final and binding judgment of the court. However, where the sub-license is terminated due to expiration of the licensed term or sub-licensed term, the above documents need not be submitted.
+1.for recordation of sub-licensing, the sub-license contract or document(s) of proof with respect to such sub-licensing;
+2.for alteration of the recordation of sub-licensing, document(s) of proof with respect to such alteration;
+3.for deletion of sub-licensing recordation, a letter consenting deletion of the sub-licensing recordation issued by the sub-licensee, a judgment of the court along with a certificate stating the judgment is final and binding, or documents which legally have the equivalent effect as a final and binding judgment of the court. However, where the sub-license is terminated due to expiration of the licensed term or sub-licensed term, the above documents need not be submitted.
 Paragraph 2 of the preceding Rule shall apply mutatis mutandis to the items to be specified in the sub-license contract or the document(s) of proof thereof referred to in Subparagraph 1 of the preceding paragraph.
 The sub-licensed scope is limited to the original licensed scope.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 67</條號>
     <條文內容><![CDATA[In requesting for recordation of pledge establishment of a patent right, a request form shall be submitted by the patentee or the pledgee and accompanied by the patent certificate and the following documents:
-1. for recordation of pledge establishment, the pledge agreement or document(s) of proof with respect to such establishment;
-2. for alteration of the recordation of pledge establishment, document(s) of proof with respect to such alteration;
-3. for deletion of pledge establishment recordation, document(s) of proof with respect to the full discharge of pledged liabilities, a letter consenting deletion of pledge establishment recordation issued by the pledgee, a judgment of the court along with a certificate stating the judgment is final and binding, or documents which legally have the equivalent effect as a final and binding judgment of the court.
+1.for recordation of pledge establishment, the pledge agreement or document(s) of proof with respect to such establishment;
+2.for alteration of the recordation of pledge establishment, document(s) of proof with respect to such alteration;
+3.for deletion of pledge establishment recordation, document(s) of proof with respect to the full discharge of pledged liabilities, a letter consenting deletion of pledge establishment recordation issued by the pledgee, a judgment of the court along with a certificate stating the judgment is final and binding, or documents which legally have the equivalent effect as a final and binding judgment of the court.
 The agreement or document(s) of proof referred to in Subparagraph 1 of the preceding paragraph shall specify the following items:
 1. title or certificate number of the invention, utility model or design patent; and
 2. amount of credit pledged and the term of the pledge establishment.
@@ -523,13 +523,13 @@ Upon recordation under the first paragraph with the Specific Patent Agency, the 
   <條文>
     <條號>Article 70</條號>
     <條文內容><![CDATA[When requesting for amending the post-grant description, claim(s), or drawing(s) of a patent pursuant to Article 67 of the Act, a request form shall be submitted and accompanied by the following documents:
-1. the replacement sheet(s) of the description and drawing(s) after the post-grant amendment without marks;
-2. where a post-grant amendment is made to the claim(s), a complete set of the claims;
-3. where consent from the licensee, pledgee, or all joint owners is required pursuant to Article 69 of the Act, document(s) of proof with respect to such consent.
+1.the replacement sheet(s) of the description and drawing(s) after the post-grant amendment without marks;
+2.where a post-grant amendment is made to the claim(s), a complete set of the claims;
+3.where consent from the licensee, pledgee, or all joint owners is required pursuant to Article 69 of the Act, document(s) of proof with respect to such consent.
 The request form referred to in the preceding paragraph shall specify the following items:
-1. where a post-grant amendment is made to the description, the page number(s), paragraph number(s), line number(s) thereof, the contents amended, and reasons for the post-grant amendment;
-2. where a post-grant amendment is made to the claim(s), the claim(s) thereof, the contents amended, and reasons for the post-grant amendment;
-3. where a post-grant amendment is made to the drawing(s), the designation(s) thereof and reasons for the post-grant amendment.
+1.where a post-grant amendment is made to the description, the page number(s), paragraph number(s), line number(s) thereof, the contents amended, and reasons for the post-grant amendment;
+2.where a post-grant amendment is made to the claim(s), the claim(s) thereof, the contents amended, and reasons for the post-grant amendment;
+3.where a post-grant amendment is made to the drawing(s), the designation(s) thereof and reasons for the post-grant amendment.
 The contents amended shall specify the contents before and after the post-grant amendment; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s).
 The reasons for post-grant amendment referred to in Paragraph 2 shall specify the applied provision(s) of Paragraph 1, Article 67 of the Act.
 Where a post-grant amendment is made to the claim(s), if parts of the claims are deleted, the claim sequence of the remaining claim(s) shall not be changed; where a post-grant amendment is made to the drawing(s), if parts of the drawing(s) are deleted, the drawing designation(s) of remaining drawing(s) shall not be changed.
@@ -586,8 +586,8 @@ When requesting for repeal of a compulsory license, a request form specifying th
     <條號>Article 81</條號>
     <條文內容><![CDATA[When requesting for a post-grant amendment to the description or drawing(s) pursuant to Article 139 of the Act, a request form shall be submitted and accompanied by a complete set of description or drawing(s) after the post-grant amendment without marks.
 The request form referred to in the preceding paragraph shall specify the following items:
-1. where a post-grant amendment is made to the description, the page number(s), line number(s) thereof, the contents amended and reasons for the post-grant amendment;
-2. where a post-grant amendment is made to the drawing(s), the title(s) thereof and reasons for the post-grant amendment.
+1.where a post-grant amendment is made to the description, the page number(s), line number(s) thereof, the contents amended and reasons for the post-grant amendment;
+2.where a post-grant amendment is made to the drawing(s), the title(s) thereof and reasons for the post-grant amendment.
 The contents amended shall specify the contents before and after the post-grant amendment; the original disclosure to be deleted shall be presented by a strike line crossing out the deleted text(s); the added disclosure shall be presented by underlining the added text(s).
 The reasons for post-grant amendment referred to in Paragraph 2 shall specify the applied provision(s) of Paragraph 1, Article 139 of the Act.
 When requesting for a post-grant amendment during invalidation proceedings, the patentee shall specify the number of invalidation action in the request form.]]></條文內容>
@@ -669,18 +669,28 @@ When requesting for a post-grant amendment during invalidation proceedings, the 
     <條號>Article 88</條號>
     <條文內容><![CDATA[For any application filed pursuant to the Act and these Enforcement Rules, the form, description, claim(s), abstract and drawing(s) thereof shall conform to the designated written format after the implementation of this amended Act.
 Under any of the following circumstances, the description, drawing(s), and description of drawing(s), other than the request form, shall conform to the designated written format prior to the implementation of this amended Act:
-1. a patent application for invention or utility model filed within three (3) months after implementation of this amended Act;
-2. for an application filed in a foreign language prior to implementation of this amended Act, the description, claim(s), drawing(s) or description of drawing(s) submitted within six (6) months after implementation of this amended Act; or
-3. for an application filed prior to implementation of this amended Act or pursuant to Subparagraph 1, when applying for an amendment or a post-grant amendment after implementation of this amended Act, the amended description, claim(s), drawing(s) or description of drawing(s).]]></條文內容>
+1.a patent application for invention or utility model filed within three (3) months after implementation of this amended Act;
+2.for an application filed in a foreign language prior to implementation of this amended Act, the description, claim(s), drawing(s) or description of drawing(s) submitted within six (6) months after implementation of this amended Act; or
+3.for an application filed prior to implementation of this amended Act or pursuant to Subparagraph 1, when applying for an amendment or a post-grant amendment after implementation of this amended Act, the amended description, claim(s), drawing(s) or description of drawing(s).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 89</條號>
     <條文內容><![CDATA[For a patent application for design filed pursuant to Paragraph 2, Article 121 or Paragraph 2, Article 129 of the Act, if the priority date thereof predates the implementation date of the amended Act, the implementation date of the amended Act shall be regarded as the priority date.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 89-1</條號>
+    <條文內容><![CDATA[The patent files such as application documents, description, claim(s), abstract, drawing(s), and illustration(s) deemed worth preserving by the Specific Patent Agency as set forth in Paragraph 1, Article 143 of the Act shall refer to these of the following patent cases：
+1.the invention patent is  requested for  compulsory licensing.
+2.the patents filed by an ROC national who is a Nobel laureate.
+3.the patent has been awarded the National Invention and Creation Award.
+4.the patent is filed for an invalidation action and the decision thereof is filed for administrative remedy actions.
+5.the patent is filed for an opposition and the decision thereof is filed for administrative remedy actions.
+6.the other patents are deemed by Specific Patent Agency to facilitate technological development of historical significance, economic value, or to have been involved in a major patent litigation case.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 90</條號>
     <條文內容><![CDATA[These Enforcement Rules shall enter into force on January 1, 2013.
-The amendment of these Enforcement Rules, except that the April 19, 2017 amendment shall be effective on May 1, 2017, shall enter into force following its promulgation date.]]></條文內容>
+The amendment of these Enforcement Rules, except that the April 19, 2017 amendment shall be effective on May 1, 2017 and the September 27, 2019 amendment shall be effective on November 1, 2019, shall enter into force following its promulgation date.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
