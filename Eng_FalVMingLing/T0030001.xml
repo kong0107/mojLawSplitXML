@@ -3,20 +3,20 @@
 <英文法規名稱>Accounting Act</英文法規名稱>
 <中文法規名稱>會計法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=T0030001</法規網址>
-<最新英文異動日期>20110518</最新英文異動日期>
+<最新英文異動日期>20191120</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.This Act, comprising of One Hundred and Twenty-Seven Articles was enacted and promulgated on August 14, 1935 by Government Orders; and come into force on July 1, 1936.
-2.Article 21 was amended and promulgated on August 20, 1938 by Government Orders.
+2.Article 21 was amended and promulgated on August 20, 1938 by Government Orders .
 3.Articles 16, 22, 37, 90, 119, 123, 124 and 125 were amended and promulgated on May 27, 1948 by President Order.
-4.Article 40 was amended and promulgated on June 10, 1950 by President Order.
-5.The entire 122 Articles were amended and promulgated on April 15, 1972 by President Order.
+4.Article 40 was amended and promulgated on June 10, 1950 by President Order. 5.The entire 122 Articles were amended and promulgated on April 15, 1972 by President Order.
 6.Article 10 was amended and promulgated on May 15, 2002 by President Order.
-7.Addition of Article 99-1 & Promulgated on May 18, 2011 by President Order No.Hua-Zong-Yi-Yi-Tzu-10000097601]]></沿革內容>
+7.Addition of Article 99-1 & Promulgated on May 18, 2011 by President Order No.Hua-Zong-Yi-Yi-Tzu-10000097601
+8.Article 4, 7, 10, 16, 60, 65, 66, 93, 95, 121 were amended and promulgated on November 20, 2019 by President Order No. Hua-Zong-Yi-Yi-Tzu-10800126581;Article 29 was subsequently repealed/deleted.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter 1  General Provisions</編章節>
+  <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[(Scope of this Act)
@@ -43,13 +43,11 @@ Government and its affiliated authorities shall implement accurate and detailed 
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[(Types of Accounting Event)
-The accounting activities of accounting events in the preceding Article shall be classified into the following five categories according to its nature:
+The accounting activities of accounting events in the preceding Article shall be classified into the following four categories according to its nature:
 1. Ordinary Government Activities: General accounting activities of government authorities.
 2. Special Government Activities: Accounting activities of government authorities, dealt with by special government authorities, except for those referred to in the preceding subparagraph of government authorities.
-3. Publicly Owned Enterprise Activities: Accounting activities of publicly owned enterprise authorities.
-4. Publicly Owned Business Activities: Accounting activities of publicly owned business authorities.
-5. Extraordinary Activities: accounting activities of events of extraordinary nature and other material events that do not follow the beginning and end of a fiscal year, which is treated by authorities in charge or provisional entities.
-Any government authorities that specialize in supply of goods, services or other interests for which purpose is to gain profit or obtains equivalent consideration in return shall be Publicly Owned Business Authorities; those government authorities that do not operate for purpose to gain profit shall be Publicly Owned Enterprise Authorities.]]></條文內容>
+3. Government-owned Enterprise Activities: Accounting activities of government-owned enterprise authorities.
+4. Extraordinary Activities: accounting activities of events of extraordinary nature and other material events that do not follow the beginning and end of a fiscal year, which is treated by authorities in charge or provisional entities.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -73,15 +71,12 @@ Special Fund in subparagraph 6 of foregoing Article means all types of funds whi
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[(Publicly Owned Business Activities)
-Publicly Owned Business activities shall be categorized into following four types:
+    <條文內容><![CDATA[(Government-owned Enterprise Activities)
+Government-owned Enterprise activities shall be categorized into following four types:
 1. Accounting activities of annual business budget: The accounting activities relevant to the implementation of business budget, revenues and expenditures from implementation of budget, credits and debts accrued from treatment of revenues and expenditures and calculation of annual surplus or deficit and operating profit or loss.
 2. Accounting activities of business cost: The accounting activities relevant to the calculation of unit cost for goods and services.
 3. Accounting activities of business cashiering activities: The accounting activities relevant to the receipts and payments, custody and transfer of cash, notes and securities.
-4. Accounting activities of business properties: The accounting activities relevant to the loss and gain, custody and transfer of properties used and applied in business.
-The foregoing paragraph shall apply to Publicly Owned Enterprise activities but not for calculation of profit and loss.
-The foregoing two paragraphs shall apply separately in accordance with the nature to operative part of accounting activities in authorities having operating conduct.
-Government authorities that has a partial entity attached to it for the purpose of engaging in business or enterprise conducts, such partial entity shall be Operative Entity, Publicly Owned Business or Public Owned Enterprise Authorities that has a partial entity attached to it for the purpose of engaging in other business or enterprise conducts apart from its main business, that partial entity shall also be considered as Operative Entity.]]></條文內容>
+4. Accounting activities of business properties: The accounting activities relevant to the loss and gain, custody and transfer of properties used and applied in business.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -103,7 +98,7 @@ Accounts of each subparagraph in first paragraph may be dealt with in whole or c
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[(General Accounting)
-Accounting of the central, municipal, county (municipality), township (town, municipality) local governments shall form one general accounting.]]></條文內容>
+Accounting of the central, municipal, county (municipality), township (town, municipality) ,mountain indigenous districts of special municipal local governments shall form one general accounting.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -142,10 +137,10 @@ Periods that do not commence with first day of fiscal year or first day of calen
   <條文>
     <條號>Article 16</條號>
     <條文內容><![CDATA[(Currency of accounting books)
-Government accounts shall use the national currency or currencies determined by the budget as basic monetary unit for book-keeping; those domestic or foreign currencies recorded in books that are inconsistent with basic monetary unit shall be converted into the basic monetary unit and recorded into major books of accounts. During bookkeeping, except for the purpose of arithmetic multiplication and division, the first figure below the decimal point shall be admitted, while the second figure shall be rounded off.
+Government accounts shall use the national currency or currencies determined by the budget as basic monetary unit for book-keeping; those domestic or foreign currencies recorded in books that are inconsistent with basic monetary unit shall be converted into the basic monetary unit and recorded into major books of accounts. During bookkeeping, except for the purpose of arithmetic multiplication and division, the unit of account shall be the dollar and decimals shall be rounded up.
 Where there are special circumstances applicable, regulations may be drafted regarding the provision of foregoing Paragraph and enforced once approved by each government BAS Authority.]]></條文內容>
   </條文>
-  <編章節>   Chapter 2  Accounting Systems</編章節>
+  <編章節>   Chapter 2 Accounting Systems</編章節>
   <條文>
     <條號>Article 17</條號>
     <條文內容><![CDATA[(Principles governing design of accounting system)
@@ -155,9 +150,11 @@ Authorities or funds of the same or similar nature shall have consistent account
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[(Procedures for set-up, approval of Accounting system)
-The design and approval of general accounting system of the central government shall be undertaken by Central BAS Authority. The general accounting systems and uniform accounting provision of local governments shall be designed by local BAS Authority and approved and promulgated by superior BAS Authority in control.
+The design and approval of general accounting system of the central government shall be undertaken by Central BAS Authority.
+The general accounting systems and uniform accounting provision of local governments shall be designed by local BAS Authority and approved and promulgated by superior BAS Authority in control.
 The accounting system of each Authority shall be designed by accounting department. After being reported to and signed by its Chief officer, it shall be approved and promulgated by the BAS Authority of the local governments.
-Design of accounting system in the foregoing paragraph shall be discussed and approved by affiliated authority and controlling Audit office; similarly in the event of amendments, explanatory notes and precedents of accounting systems and uniform provisions dealing with accounting activities shall be approved by the Authority in charge of promulgation.]]></條文內容>
+Design of accounting system in the foregoing paragraph shall be discussed and approved by affiliated authority and controlling Audit office; similarly in the event of amendments.
+Explanatory notes and precedents of accounting systems and uniform provisions dealing with accounting activities shall be approved by the Authority in charge of promulgation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
@@ -247,8 +244,8 @@ General financial report of government shall comprise of consolidated reports fr
   </條文>
   <條文>
     <條號>Article 29</條號>
-    <條文內容><![CDATA[(Properties and Fixed Liability)
-Government properties and fixed liabilities, except for property incorporated into annual revenue and fixed liability to make-up the deficit in budget, shall prepare a separate statement or content catalogue for each and be excluded from balance sheets. However, business fund, enterprise fund and property and fixed liability of other special fund that form part of fund itself shall be incorporated into the balance sheet.]]></條文內容>
+    <條文內容><![CDATA[(deleted)
+deleted]]></條文內容>
   </條文>
   <條文>
     <條號>Article 30</條號>
@@ -447,7 +444,7 @@ If the form of source documents meets the requirements of recording documents, s
     <條文內容><![CDATA[(When Voucher is not required to be prepared)
 For sub-accounting authority that conduct simple accounting activities, its source document may be used as recording document after it has been signed or stamped by Chief Officer of Authority and accounting officer in charge, without need to prepare vouchers.]]></條文內容>
   </條文>
-  <編章節>   Chapter 3  Procedures of Handling Accounting Activities</編章節>
+  <編章節>   Chapter 3 Procedures of Handling Accounting Activities</編章節>
   <條文>
     <條號>Article 58</條號>
     <條文內容><![CDATA[(Principles of accounting procedures)
@@ -460,8 +457,8 @@ Recording document shall be prepared at all times during which the increase and 
   </條文>
   <條文>
     <條號>Article 60</條號>
-    <條文內容><![CDATA[(Calculation of depreciation rate in publicly owned businesses)
-Depreciation of permanent properties and inventory consumption of non-permanent properties of publicly owned businesses shall be calculated with reference to costs; costs which cannot be tracked back in time shall be calculated with reference to initial quotation recorded into the account.]]></條文內容>
+    <條文內容><![CDATA[(Calculation of depreciation rate in government-owned enterprises)
+Depreciation of permanent properties and inventory consumption of non-permanent properties of government-owned enterprises shall be calculated with reference to costs; costs which cannot be tracked back in time shall be calculated with reference to initial quotation recorded into the account.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 61</條號>
@@ -497,15 +494,15 @@ Authorities or fund shall be settled or closed if any of the following circumsta
     <條號>Article 65</條號>
     <條文內容><![CDATA[(Maintenance and recording of accounts)
 All deferred revenue, deferred charge, matured debt payable, matured credit receivable in any accounts of ledger book and other rights and liabilities which have accrued but have not yet been recorded into books, shall be maintained and entered before the settlement of each account.
-Accounting activities of publicly owned business, excluding accounts maintained in preceding paragraph, relating to bad debts, depreciation, consumption, amortization, inventory-check of materials, supplies and products, and offset of internal profit and loss, or other activities which are required to be maintained shall be maintained and recorded.
+Accounting activities of government-owned enterprise, excluding accounts maintained in preceding paragraph, relating to bad debts, depreciation, consumption, amortization, inventory-check of materials, supplies and products, and offset of internal profit and loss, or other activities which are required to be maintained shall be maintained and recorded.
 Each departmental accounting authority or subordinate departmental accounting with affiliated sub-accounting authorities shall maintain and record accounts upon the receipt of closing statements from the sub-accounting authorities. If the closing statements of sub-accounting authorities are delayed due to extraordinary circumstances, each departmental accounting authority or subordinate departmental accounting authority may proceed to settlement in advance with remark added, and supplement records and perform summary upon receipt of sub-accounting report later. .]]></條文內容>
   </條文>
   <條文>
     <條號>Article 66</條號>
     <條文內容><![CDATA[(Treatment of the balance of credit and debit sides)
 Once the accounts have been prepared, the balance of credit and debit sides shall be dealt with pursuant to the following:
-1. All balances of receipt and payment accounts of government accounting activities and publicly owned enterprises shall be summarized into all accounts of annual budget revenue and various accounts of budget allocation for the purpose of calculating the surplus and deficit of annual revenue and budget allocation.
-2. All balances of profit and loss accounts of publicly owned businesses shall be summarized into all accounts of total profit and loss for the purpose of calculating profit and loss.
+1. All balances of receipt and payment accounts of government accounting activities shall be summarized into all accounts of annual budget revenue and various accounts of budget allocation for the purpose of calculating the surplus and deficit of annual revenue and budget allocation.
+2. All balances of profit and loss accounts of government-owned enterprises shall be summarized into all accounts of total profit and loss for the purpose of calculating profit and loss.
 3. All balances of accounts of accounting activities in preceding two subparagraphs relating to asset or liability nature shall be summarized into accounts for next fiscal year or period.]]></條文內容>
   </條文>
   <條文>
@@ -657,7 +654,7 @@ Financial report or information produced from accounting data processed collecti
   <條文>
     <條號>Article 93</條號>
     <條文內容><![CDATA[(Circumstances in which authorities are in charge of more than one type of activities or conduct on behalf of others)
-Government authorities in charge of more than one type of special government activities shall prepare account for more than one type of special government activities; those also handling publicly owned business and other publicly owned enterprise shall prepare account for activities of publicly owned business or publicly owned enterprises.
+Government authorities in charge of more than one type of special government activities shall prepare account for more than one type of special government activities; those also handling government-owned enterprise shall prepare account for activities of government-owned enterprise.
 Non-government affiliated authorities acting as agent in handling government activities shall prepare account for activities handled according to provisions of this Act.]]></條文內容>
   </條文>
   <條文>
@@ -665,11 +662,11 @@ Non-government affiliated authorities acting as agent in handling government act
     <條文內容><![CDATA[(Distinction of accounting activities and non-accounting activities)
 Distinction of accounting activities and non-accounting activities shall be approved by BAS authorities and its affiliated authorities unless otherwise stipulated by law, in which such law shall prevail.]]></條文內容>
   </條文>
-  <編章節>   Chapter 4  Internal Audit</編章節>
+  <編章節>   Chapter 4 Internal Audit</編章節>
   <條文>
     <條號>Article 95</條號>
     <條文內容><![CDATA[(Type of internal audit and executive officer)
-Internal audit implemented by each authority shall be executed by accounting officer.
+Internal audit implemented by each authority shall be executed by accounting officer. However, the activities involving non-accounting professional provisions and substantive or technical matters shall be acted by the unit-in-charge of business.
 Internal audit is categorized into following two types:
 1. Pre-audit: The audit of events prior to entry into accounts with emphasis on control of payment and receipts.
 2. Post-audit: The audit of events after entry into accounts with emphasis on review of document, account books and efficacy of work performance.]]></條文內容>
@@ -736,7 +733,7 @@ Officer stipulated in forgoing Subparagraph 4 shall assume proportionate respons
     <條文內容><![CDATA[(Protected rights of internal audit officer)
 Accounting officer while executing internal audit shall act pursuant to relevant law, unless there is breach against duties or gross negligence, shall not be held jointly and severally liable for damages.]]></條文內容>
   </條文>
-  <編章節>   Chapter 5  Accounting Officer</編章節>
+  <編章節>   Chapter 5 Accounting Officer</編章節>
   <條文>
     <條號>Article 104</條號>
     <條文內容><![CDATA[(Neutrality of BAS authority and Human Resources activities)
@@ -827,11 +824,11 @@ Accounting officer who do not complete the hand over appropriately shall be puni
     <條文內容><![CDATA[(Hand over resulting from authority dissolution or fund suspension)
 Where hand over is due to abolishment of authority or suspension of fund, officer assisting in hand over shall be deemed predecessor, officer accepting the hand over shall be deemed successor; the hand over shall be governed by provision in this chapter.]]></條文內容>
   </條文>
-  <編章節>   Chapter 6  Supplementary Provisions</編章節>
+  <編章節>   Chapter 6 Supplementary Provisions</編章節>
   <條文>
     <條號>Article 121</條號>
     <條文內容><![CDATA[(Circumstances in which this Act is applied mutatis mutandis)
-This Act shall govern the accounting system and procedures for compilation of financial report of state-funded non-governmental organization and joint state-private enterprise; the scope of applicability shall be determined by Central BAS authority.]]></條文內容>
+This Act shall govern the accounting system and procedures for compilation of financial report of government-subsidized private groups and joint government-private enterprises; the scope of applicability shall be determined by Central BAS authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 122</條號>

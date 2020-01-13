@@ -3,18 +3,18 @@
 <英文法規名稱>Sanitation Standard for General Foods</英文法規名稱>
 <中文法規名稱>一般食品衛生標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040074</法規網址>
-<最新英文異動日期>20130820</最新英文異動日期>
+<最新英文異動日期>20190815</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1.21 December 2007, Food No.0960408889
-2.Amended on August 20, 2013
-]]></沿革內容>
+<沿革內容><![CDATA[1.DOH Food No. 0960408889 Announced, 12/21/2007
+2.MOHW Food No. 1021350146 Amended, 08/20/2013
+3.MOHW Food No. 1071303671 Amended, 08/15/2019]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation.]]></條文內容>
+    <條文內容><![CDATA[This Standard is prescribed in accordance with the provisions of Article 17 and the second paragraph of Article 15 of the Act Governing Food Safety and Sanitation (herein referred to as "this Act").]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
@@ -22,14 +22,18 @@
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[Products shall have their original pleasant flavor and color. No putridity, discoloration, off odor or flavor, contamination, moulds, foreign matter or parasite shall be found.]]></條文內容>
+    <條文內容><![CDATA[Foods being sold shall have normal and reasonable acceptable traits, flavor and color. No discoloration, off odor or flavor, abnormal clot or precipitate, contamination, visible moldy, foreign matter, insects or parasite can be permitted, because of bad hygiene, poor quality or improper processing process control.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[The maximum level of microorganism:
+    <條文內容><![CDATA[The maximum levels of metals, mycotoxins, other contaminants  and toxins in foods, except as foods which have their own sanitation standards, shall meet the “Sanitation Standard for Contaminants and Toxins in Food”.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 5</條號>
+    <條文內容><![CDATA[The maximum level of microorganism for general foods:
 ┌─────────────┬────────┬───────┐
-│        ＼    Item        │MPN of Coliform │MPN of E. Coli│
-│Category  ＼              │bacteria per    │per gram      │
+│        ＼                │MPN of Coliform │MPN of E. Coli│
+│Item      ＼              │bacteria per    │per gram      │
 │            ＼            │gram            │              │
 ├─────────────┼────────┼───────┤
 │General foods served      │Not more than   │Negative      │
@@ -46,8 +50,25 @@
 └─────────────┴────────┴───────┘]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 5</條號>
-    <條文內容><![CDATA[This Standard shall be implemented from the date of promulgation.]]></條文內容>
+    <條號>Article 6</條號>
+    <條文內容><![CDATA[Water for food production:
+1. Water used in the production of food grade ice cubes, beverage, bottled and packaged drinking water shall meet the requirement of “Drinking Water Quality Standards” set by the competent environmental authorities.
+2. The maximum levels of bromate in bottled and packaged drinking water shall not be more than 0.01 mg/L.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 7</條號>
+    <條文內容><![CDATA[The caffeine contents of packed beverages:
+1. Caffeine contents of tea and cocoa shall not exceed 500 mg/L.
+2. The beverages other than tea, coffee and cocoa, caffeine contents shall not exceed 320 mg/L.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 8</條號>
+    <條文內容><![CDATA[Infant formula, follow-up infant formula, infant formula for special medical purposes and cereal based foods for infants not more than 12 months of age, residue pesticide shall not be more than 0.01 ppm. This limit will reference to pesticides minimum detectable level, when this level is greater or less than 0.01 ppm.
+That violation of this  Article  shall  be  sanctioned in  accordance  with violation subparagraphs 5 of paragraph1 of Article 15 of this Act.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 9</條號>
+    <條文內容><![CDATA[This Standard shall be implemented at release date.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

@@ -1,14 +1,14 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>The Enforcement Rules for the Ionizing Radiation Protection Act</英文法規名稱>
+<英文法規名稱>Enforcement Rules for the Ionizing Radiation Protection Act</英文法規名稱>
 <中文法規名稱>游離輻射防護法施行細則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160022</法規網址>
 <最新英文異動日期>20080222</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1.Promulgated on December 25, 2002 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu-0910025075
-2.Amendment of Articles 5, 6, 9 and 25 on February 22, 2008 by the Atomic Energy Council per its decree No. Huei-Fu-Tsu-Ti 0970002871. 。]]></沿革內容>
+<沿革內容><![CDATA[1.Promulgated on December 25, 2002 by the Atomic Energy Council Per its decree No. Huei-Fu-Tsu-0910025075.
+2.Amendment of Articles 5, 6, 9 and 25 on February 22, 2008 by the Atomic Energy Council per its decree No. Huei-Fu-Tsu-Ti 0970002871.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -32,14 +32,14 @@
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[Paragraph 3.1
-When carrying out radiation safety evaluation in accordance with Paragraph 9.1 of the IRP Act, the facility operator shall clearly record the following items in written form and submit them to the Competent Authority for approval:
+When carrying out radiation safety evaluation in accordance with Paragraph 9.1 of the IRP Act,the facility operator shall clearly record the following items in written form and submit them to the Competent Authority for approval:
 1. description of practice,
-2. planned release of waste gas or waste water containing radioactive material with its properties, types, quantities, nuclides, and activities, 
-3. description of ambient conditions outside the workplace,2
+2. planned release of waste gas or waste water containing radioactive material with its properties, types, quantities, nuclides, and activities,
+3. description of ambient conditions outside the workplace,
 4. monitoring equipment, handling procedures, and design for the prevention of environmental contamination, and
 5. other items specified by the Competent Authority.
 Paragraph 3.2
-When recording the release of waste gas or waste water containing radioactive material in accordance with Paragraph 9.2 of the IRP Act, the facility operator shall clearly indicate its release date, types, quantities, nuclides, and activities of the radioactive material contained, and monitoring equipment as well as its date of calibration. 
+When recording the release of waste gas or waste water containing radioactive material in accordance with Paragraph 9.2 of the IRP Act, the facility operator shall clearly indicate its release date, types, quantities, nuclides, and activities of the radioactive material contained, and monitoring equipment as well as its date of calibration.
 Paragraph 3.3
 Except where approval has been granted by the Competent Authority, records of the preceding release shall be submitted to the Competent Authority between July 1 and 15 each year and between January 1 and 15 the following year. The records shall be kept for three (3) years, besides ten (10) years for nuclear facilities.]]></條文內容>
   </條文>
@@ -54,8 +54,7 @@ When submitting a report on carrying out the investigation, analysis, and record
 5. review of improvement and preventive measures, and
 6. other items specified by the Competent Authority.
 Paragraph 4.2
-Unless otherwise specified by the Competent Authority, the preceding report shall be submitted to the Competent Authority within thirty (30) days after the accident occurred or was discovered.
-3]]></條文內容>
+Unless otherwise specified by the Competent Authority, the preceding report shall be submitted to the Competent Authority within thirty (30) days after the accident occurred or was discovered.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -208,7 +207,9 @@ Only after completion of the test run specified in the preceding paragraph and a
   <條文>
     <條號>Article 25</條號>
     <條文內容><![CDATA[The Enforcement Rules shall take effect immediately upon implementation of the IRP Act.
-The amendments to the Enforcement Rules shall take effect immediately upon promulgation.]]></條文內容>
+The amendments to the Enforcement Rules shall take effect immediately upon promulgation.
+
+(In case of any discrepancy between the Chinese version and the English translation, the Chinese version shall prevail.)]]></條文內容>
   </條文>
 </法規內容>
 </法規>
