@@ -3,7 +3,7 @@
 <英文法規名稱>The Regulations for Administrating Passenger Ship</英文法規名稱>
 <中文法規名稱>客船管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0070009</法規網址>
-<最新英文異動日期>20170109</最新英文異動日期>
+<最新英文異動日期>20191029</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -16,8 +16,8 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003097</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Attachment 2.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003516</下載網址>
+    <檔案名稱><![CDATA[Attachment 2 Passenger Ship Safety Inspection List of the R.O.C..pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006026</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Attachment 3.pdf]]></檔案名稱>
@@ -49,7 +49,8 @@
 7. Amended on January 14, 2010
 8. Amended on February 11, 2011
 9. Amended on March 02, 2016
-10. Amended on January 09, 2017]]></沿革內容>
+10. Amended on January 09, 2017
+11. Amendment to Articles 37、116、Articles 36 Attachment 2, and deletion of Article 3 was promulgated by order of the Ministry of Transportation and Communications No. jiao-Hang-Zi-10850135211 dated October 29, 2019.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -63,11 +64,7 @@
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The term "passenger" when used herein shall mean every person other than:
-1. the master, pilot and the persons employed by shipowners on board a ship on the business of that ship under the command of the master;
-2. persons in distress whom the masters are obligated to rescue;
-3. persons on board a ship by unlawful means, whom the master or owner of the ship is unable to repel or stop; and
-4. persons who are unable to leave ships after performing their official duties due to some extraordinary circumstances.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -290,13 +287,13 @@ If the ship mentioned above carries or discharges passengers at some other port 
   <條文>
     <條號>Article 36</條號>
     <條文內容><![CDATA[On the date of navigation, the master of a domestic passenger ship shall confirm preparations for navigation and sign the Passenger Ship Pre-Departure Checklist of (Attachment 1) before navigation.
-For the safety of the public, the shipping administration authority may carry out spot inspections of seaworthiness from time to time according to the Passenger Ship Safety Inspection List of the R.O.C. (Attachment 2). For domestic passenger ships, the shipping administration authority shall send the inspector on board to make spot inspection on Items 1 through 7, the first paragraph, Article 34 herein, at least three times every year. Where passenger ships’ hull materials are aluminum, the abovementioned spot inspection shall be carried out six times every year.
+For the safety of the public, the shipping administration authority may carry out spot inspections of seaworthiness from time to time according to the Passenger Ship Safety Inspection List of the R.O.C. (Attachment 2). For domestic passenger ships, the shipping administration authority shall send the inspector on board to make spot inspection on Items 1 through 7, the first paragraph, Article 34 herein, at least three times every year.Where passenger ships's hull materials are aluminum, the abovementioned spot inspection shall be carried out six times every year.
 If if after inspection the shipping administration authority doubts the seaworthiness or finds that the certified number of passengers exceeds what is specified, it shall order them corrected and approved.
 After the shipping administration authority approves the inspection, the responsible inspector and the master of the passenger ship shall execute the report in two counterparts and retain one as a record.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 37</條號>
-    <條文內容><![CDATA[A ferryboat or a passenger ship navigating an inland water route may be exempted from providing a passenger list. However, the master of the ship shall report the number of passengers when the authority checks such number.]]></條文內容>
+    <條文內容><![CDATA[The master of a passenger ship that is exempted from providing a passenger list in accordance with Subparagraph 7, Paragraph 2, Article 11 of the Law of Ships shall report the number of passengers when the shipping administration authority checks such number.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38</條號>
@@ -740,7 +737,7 @@ Any medical room shall in no case be used as a bedroom for any person.]]></條�
   <編章節>   Chapter 8 Concurrent Carriage of Cargoes</編章節>
   <條文>
     <條號>Article 116</條號>
-    <條文內容><![CDATA[When a passenger ship carries cargoes concurrently, the stability of the ship shall be in compliance with the provisions set forth in Chapter 3.]]></條文內容>
+    <條文內容><![CDATA[When a passenger ship carries cargoes concurrently, the stability of the ship shall be in compliance with the provisions set forth in Chapter 3 and the access to escape routes and ship equipment shall not be compromised.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 117</條號>
