@@ -3,13 +3,14 @@
 <英文法規名稱>Human Biobank Management Act</英文法規名稱>
 <中文法規名稱>人體生物資料庫管理條例</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020164</法規網址>
-<最新英文異動日期>20120808</最新英文異動日期>
+<最新英文異動日期>20190612</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.2010.02.03 Hua-Zong-Yi-Yi-Tzu No.09900022481
 2.2011.01.26 Hua-Zong-Yi-Yi-Tzu No.10000015651
-3.2012.08.08 Hua-Zong-Yi-Yi-Tzu No.10100177991]]></沿革內容>
+3.2012.08.08 Hua-Zong-Yi-Yi-Tzu No.10100177991
+4.2019.06.12 Hua-Zong-Yi-Yi-Tzu No.10800059271]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -19,7 +20,7 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The “competent authority” (hereinafter “Competent Authority”) as referred to herein means the Department of Health of the Executive Yuan]]></條文內容>
+    <條文內容><![CDATA[The "competent authority” as referred to herein means the Ministry of Health and Welfare.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -42,12 +43,9 @@ The Competent Authority shall stipulate rules and regulations to govern matters 
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[A Biobank Operator shall establish an ethics committee to review and supervise matters relating to the management of the Biobank.
-There shall be between nine (9) to fifteen (15) commissioners in an ethics committee mentioned in the preceding paragraph, of which more than one half (1/2) shall be legal experts, social workers, and other disinterested community members; and at least two thirds (2/3) of the commissioners shall not be the personnel of the Organization.
-Any matters related to the applications of data and information contained in the Biobank shall be drafted as a plan to be submitted to the ethics committee for approval, after which the plan shall be submitted to the Competent Authority who will further invite legal experts, social workers, and other disinterested community members to conduct a review on the plan. Only upon the final approval should the plan be enforced.
-The number of each type of professionals mentioned in the preceding paragraph shall be no less than one fourth (1/4) of the total seats; and the professionals of the same gender shall not amount to less than one third (1/3) of the total seats.
-The Competent Authority may commission private professional agencies (organizations) or groups to process the reviews set forth in Paragraph 3.
-The reviewers referred to in Paragraphs 2 and 3 shall be recused to avoid conflicts of interest if necessary.]]></條文內容>
+    <條文內容><![CDATA[There shall be between nine (9) to fifteen (15) commissioners in an ethics committee mentioned in the preceding paragraph, of which more than one half (1/2) shall be legal experts, social workers, cyber security management personnel, and other disinterested community members; and at least two thirds (2/3) of the commissioners may not be the personnel of the Organization.
+Any matters related to the applications of data and information contained in the Biobank shall be drafted as a plan to be submitted to the ethics committee for approval, after which the plan shall be submitted to the Competent Authority who will further invite legal experts, social workers, cyber security management personnel, and other disinterested community members to conduct a review on the plan. Only upon the final approval should the plan be enforced.
+The number of each type of professional mentioned in the preceding paragraph shall be no less than one fifth (1/5) of the total seats; and one gender may not amount to less than one third (1/3) of the total seats.]]></條文內容>
   </條文>
   <編章節>   Chapter 3 Biological Specimens Collection and Participant Protection</編章節>
   <條文>

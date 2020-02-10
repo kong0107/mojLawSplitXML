@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Insurance Agents</英文法規名稱>
 <中文法規名稱>保險代理人管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390005</法規網址>
-<最新英文異動日期>20190508</最新英文異動日期>
+<最新英文異動日期>20191118</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -32,7 +32,8 @@
 23. Amendment and full text of 53 articles promulgated per order of Financial Supervisory Commission No. Jin-Guan-Bao- Zong-Zi-10302565241 dated June 24, 2014; except for Articles 24 and 25 which will be in force one year after the promulgation of the amendment, the rest of the articles enter into force on the date of promulgation.
 24. Amendment and full text of 61 articles promulgated per order of Financial Supervisory Commission No. Jin-Guan-Bao- Zong-Zi-10402567071 dated June 18, 2015; except for Articles 31 and 32 which will be in force until June 24, 2015, the rest of the articles enter into force on the date of promulgation. 
 25. Amendment to Article 34 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 10602561991 dated June 27, 2017. 
-26.Amendment to Article 6, 9,12,13, 33 and 57 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 10804561971 dated May 8, 2019.]]></沿革內容>
+26.Amendment to Article 6, 9,12,13, 33 and 57 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 10804561971 dated May 8, 2019.
+27.Amendment to Article 34,35,49 and addition of Articles 33-1 and 34-1 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 10804956691 dated November 18, 2019.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -341,21 +342,35 @@ This article shall take effect on June 24, 2015. Agents who apply for renewal of
 Agent companies and banks that operate insurance agent business shall draw up internal operating rules and implement them vigorously to make sure their operating procedures and operations are in compliance with relevant laws and regulations.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 33-1</條號>
+    <條文內容><![CDATA[A bank shall establish a mechanism to check the source of funds for premiums paid by a customer, whether it is a loan from the bank, a time deposit at the bank that is canceled early without penalty or a policy loan obtained through the bank that took place within three months prior to the purchase of insurance, and to check whether there is consistency between the customer and the financial information the customer provides for dealings and transactions with the bank.
+For customers whose source of funds for premiums paid is a bank loan, a time deposit canceled early without penalty or a policy loan, a bank shall, before referring such cases to the insurer to complete the underwriting process, assign a staff not from the sales department to conduct phone interview of customers of all such application cases, explicitly informing the customers of associated risks and maximum possible loss, except for customers who are purchasing an insurance product that does not require policy value reserve or a mortgage life insurance product that does not pay survival benefit.
+When a bank discovers in the phone interview mentioned in the preceding paragraph that there are situations not complying with the rules or countering the intent of the customer, it should, before the insurer completes the underwriting process, notify the insurer and the customer to rectify the situation or take actions in the interest of the customer.
+A bank should tape record the entire phone interview mentioned in Paragraph 2 hereof with the consent of the interviewee and save the record for future audits. The tape record shall be retained for a period of not less than five (5) years after the insurance contract has expired.
+The provisions of the preceding four paragraphs apply mutatis mutandis to insurance agent companies invested and established by a financial holding company or a bank.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 34</條號>
     <條文內容><![CDATA[Independent agents and agents employed by an agent company or a bank shall understand the needs of the proposer and product or service suitability, and sign on relevant documents, unless otherwise prescribed by the competent authority.
-The “relevant documents” under the preceding paragraph and paragraph 1 of preceding article hereof include, for non-life insurance agents:
+The “relevant documents” under the preceding paragraph and paragraph 1 of article 33 hereof include, for non-life insurance agents:
 1. Insurance application form.
 2. Application for endorsement.
 3. Due diligence report on the needs of the insurance proposer and the insured, and product suitability analysis.
 4. Application for termination of contract.
 5. Other documents designated by the competent authority.
-The “relevant documents” under the first paragraph and paragraph 1 of preceding article hereof include, for personal insurance agents:
+The “relevant documents” under the first paragraph and paragraph 1 of article 33 hereof include, for personal insurance agents:
 1. Insurance application form.
 2. Application for endorsement.
 3. Due diligence report on the needs of the insurance proposer and the insured, and product suitability analysis.
 4. Application for termination of contract.
 5. Other documents designated by the competent authority.
 If an agent is authorized to collect insurance premiums or to handle underwriting, claim settlement, or other insurance business, the agent shall sign the various documents relating to business practice.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 34-1</條號>
+    <條文內容><![CDATA[When an agent employed by an agent company or a bank signs on relevant documents according to Paragraph 1 of the preceding article, the signing operation shall be conducted in a manner where the agent has confirmed prior to the insurer agrees to underwrite a policy that relevant documents have been completely checked according to internal rules with relevant tracks and supporting documents saved.
+For agents who perform signing in accordance with the preceding paragraph, their employing agent company or bank shall establish internal check rules and confirmation procedures for relevant documents.
+The agents association should draw up self-regulatory rules for the operation mentioned in Paragraph 1 hereof and submit the rules to the competent authority for recordation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 35</條號>
@@ -365,7 +380,10 @@ If an agent is authorized to collect insurance premiums or to handle underwritin
 3. Set up or designate a relevant department to handle dispute cases arising out of the insurance agent business;
 4. Clearly disclose to customers the nature and risks of insurance products; and
 5. Other matters of compliance as required by the competent authority.
-Banks shall not use customer deposit information to induce purchase of insurance or recommend insurance products that do not match the customer's risk profile by misleading customer or using improper sales techniques. Nor may banks try to sell insurance products to customers by comparing only the difference in rate of return on time deposit and the insurance product while ignoring the risk characteristics and nature of the product or not disclosing information such as return/risk tradeoff.]]></條文內容>
+Banks shall not commit any of the acts described in the subparagraphs below:
+1. Banks shall not use customer deposit information to induce purchase of insurance or recommend insurance products that do not match the customer's risk profile by misleading customer or using improper sales techniques.
+2. Banks try to sell insurance products to customers by comparing only the difference in rate of return on time deposit and the insurance product while ignoring the risk characteristics and nature of the product or not disclosing information such as return/risk tradeoff.
+3. Authorize bank employees who handle loans and credit or deposits and remittance business to sell investment-linked insurance products or insurance products with surrender value (excluding personal injury insurance and mortgage life insurance with an insurance period of less than 3 years) and receive commissions therefrom; the preceding provision does not apply when the proposer or the insured is the spouse or a direct blood relative of such employee.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 36</條號>
@@ -460,7 +478,7 @@ When an agent company plans to establish a subsidiary, branch office, or represe
   </條文>
   <條文>
     <條號>Article 49</條號>
-    <條文內容><![CDATA[An agent shall not commit any of the following acts:
+    <條文內容><![CDATA[Independent agents, agent companies, banks and agents employed by agent companies or banks shall not commit any of the following acts:
 1. Make a false representation when applying for a practice license.
 2. Operate or practice business operations on behalf of an insurance enterprise that has not been approved and registered.
 3. Act on behalf of an insurance enterprise in operating or practicing insurance business operations that have not been approved by the competent authority.
@@ -488,8 +506,9 @@ When an agent company plans to establish a subsidiary, branch office, or represe
 25. Sell foreign viatical settlement products that have not been approved by the competent authority.
 26. Submit business information and financial statement are untrue or incomplete.
 27. Is currently serving as an employee of an insurance enterprise or related industry association, or having been registered as an insurance solicitor.
-28. Otherwise violate these Regulations or related acts or regulations.
-29. Any other act injurious to the image of insurance business.]]></條文內容>
+28. Urge or induce customers to pay for insurance premiums by taking out a bank loan, canceling a time deposit or taking out a policy loan.
+29. Otherwise violate these Regulations or related acts or regulations.
+30. Any other act injurious to the image of insurance business.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 50</條號>
