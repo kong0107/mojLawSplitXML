@@ -3,30 +3,10 @@
 <英文法規名稱>Hazardous Work Place Review and Inspection Regulations</英文法規名稱>
 <中文法規名稱>危險性工作場所審查及檢查辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0070019</法規網址>
-<最新英文異動日期>20171201</最新英文異動日期>
+<最新英文異動日期>20200717</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <檔案>
-    <檔案名稱><![CDATA[Attachment 1  Basic information on safety and health management.ODT]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003917</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Attachment 2  Process safety evaluation report.ODT]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003918</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Attachment 3  Process change safety plan.ODT]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003919</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Attachment 4  Emergency response plan.ODT]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003920</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Attachment 5  Audit management program.ODT]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003921</下載網址>
-  </檔案>
   <檔案>
     <檔案名稱><![CDATA[Attachment 7  Category B fire and explosion hazard prevention facilities requiring on-site inspection.ODT]]></檔案名稱>
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003922</下載網址>
@@ -72,7 +52,8 @@
 6.Amended and promulgated Articles 2, 23-1 of the Rules by the Executive Yuan Council of Labor Affairs Lau-Zian-Wu-Zi Decree No. 1010150753 on July 13, 2012
 7.Amended and promulgated the Title and Articles 2 through 4, 6, 8, 17, 18 and Attachments 1 through 3 and Attachment 5 of Article 5（the original title：Hazardous Work Place Review and Inspection Rules）of the Rules by the Ministry of Labor Lau-Zer-Sou-Zi Decree No. 10402023602 on August 4, 2015
 8.Amended and promulgated Articles 2, 6, 17, 18, 20 of the Rules by the Ministry of Labor Lau- Zer-Sou-Zi Decree No. 10502026752 on August 11, 2016
-9.Amended and promulgated Article 2 of the Rules by the Ministry of Labor Lau-Zer-Sou-Zi Decree No. 10602052702 on December 1, 2017]]></沿革內容>
+9.Amended and promulgated Article 2 of the Rules by the Ministry of Labor Lau-Zer-Sou-Zi Decree No. 10602052702 on December 1, 2017
+10.Amended and promulgated Articles 2, 3, 5, 6, 7, 8, 9, 13 of the Rules by the Ministry of Labor Lau- Zer-Sou-Zi Decree No. 10902022781 on July 17, 20120]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Part One : General Provisions</編章節>
@@ -105,7 +86,7 @@
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[Definition of terms in this Rule is as follows:
-1. Process Changes: refers to changes in process chemicals, technology, equipment, operating procedures, or scale of capacity, or changes affecting the process facilities such as process safety information, standard operating procedures or updated codes in hazardous work places.
+1. Process Changes: refers to existing safety protection measures insufficient to control new potential hazards associated with changes in: process chemicals, technology, equipment, operating procedures or scale of capacity in hazardous workplaces.
 2. Liquefied Petroleum Gas: refers to hydrocarbon mixtures consisting primarily of tri-carbon and tetra-carbon hydrocarbon compounds.
 3. Pressurized Gases for Refrigeration : refers to pressurized gases used in freezing, cooling, refrigerating, ice making and other chilling processes.
 4. General Pressurized Gases : refers to pressurized gases other than liquefied petroleum gas and gases for refrigeration.
@@ -118,15 +99,13 @@
     <條文內容><![CDATA[30 days before workers are required to work in categories A and D work places, enterprises shall apply for review by labor inspection agency.
 45 days before workers are required to work in categories B and C work places, enterprises shall apply for review and inspection by labor inspection agency.]]></條文內容>
   </條文>
-  <編章節>   Part Two : Category "A" Work Place Review</編章節>
+  <編章節>   Part Two: Category "A" Workplace Review and Inspection</編章節>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[To apply for the review of Category A Work Place by labor inspection agency, enterprises should complete the application form (Form 1) and attach three copies of the following documents:
 1. Basic information on safety and health management (Attachment 1)
-2. Process safety evaluation report (Attachment 2)
-3. Process change safety plan (Attachment 3)
-4. Emergency response plan (Attachment 4)
-5. Audit management program (Attachment 5)]]></條文內容>
+2. Schedule 1 to Schedule 14 stipulated in Article 4 of the Rules for Periodic Implementation of Process Safety Assessment.
+The application in the preceding paragraph shall be registered on the information website designated by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -139,7 +118,7 @@
 If the enterprise does not have process safety evaluation personnel specified in item 2 above, or deems it necessary, may include the following professionals with active certifications who have also completed domestic training for process safety evaluation:
 1. Industrial Safety Professionals and one of the following professionals
 (1) Professional Chemical Engineers
-(2) Professional Industrial and Mining Hygienists
+(2) Professional Industrial and Occupational Hygienists
 (3) Professional Mechanical Engineers
 (4) Professional Electrical Engineers
 2. Industrial Safety Professionals and the professionals in categories (1) to (4) specified above employed by engineering and technical consulting firms
@@ -148,19 +127,22 @@ Review process and results specified in Paragraph 1 shall be documented]]></條�
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[For the review specified in Article 5, labor inspection agency may enter the work place for inspection if deemed necessary.
-Labor inspection agency shall give written notice to enterprises within 30 days after receiving application for review specified in Article 5, unless enterprises are responsible for the cause in delay.]]></條文內容>
+    <條文內容><![CDATA[The labor inspection agency shall review the application in Article 5 based on the documents attached and may conduct inspections on the occupational safety and health facilities and management of the workplace.
+Labor inspection agency shall give written notice to enterprises within 30 days after receiving application for review specified, unless enterprises are responsible for the cause in delay.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[For the work places which have passed the review conducted by the labor inspection agency, enterprises shall re-evaluate the documents required in Article 5 for necessary update when a process change occurs, or at least every five years, and shall be recorded. Related documents shall be submitted to the labor inspection agency for future reference.
-Article 6 is applicable to the re-evaluation specified above.
-Category 1 of the future reference information, covered by the Implementation Regulations for Periodical Process Safety Evaluation, shall follow otherwise stipulated the requirements of the Regulation.]]></條文內容>
+    <條文內容><![CDATA[For the work places which have passed the review conducted by the labor inspection agency, enterprises shall re-evaluate the documents required in Article 5 for necessary update when a process change occurs, or at least every five years, and shall be recorded. Related documents shall be submitted to the labor inspection agency for future reference.]]></條文內容>
   </條文>
   <編章節>   Part Three : Category "B" Work Place Inspection</編章節>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[To apply for the review of Category B Work Place by labor inspection agency, enterprises should complete the application form (Form 2) and attach three copies of the documents specified in Article 5.]]></條文內容>
+    <條文內容><![CDATA[To apply for the review of Category B Workplace by labor inspection agency, enterprises should complete the application form (Form 2) and attach three copies of the following documents：
+1. Basic information on safety and health management (Attachment 1)
+2. Process safety evaluation report (Attachment 2)
+3. Process change safety plan (Attachment 3)
+4. Emergency response plan (Attachment 4)
+5. Audit management program (Attachment 5)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -183,7 +165,7 @@ Article 6 is applicable to the re-evaluation specified above.]]></條文內容>
   <編章節>   Part Four : Category "C" Work Place Review</編章節>
   <條文>
     <條號>Article 13</條號>
-    <條文內容><![CDATA[To apply for the review of Category C Work Place by labor inspection agency, enterprises should complete the application form (Form 3) and attach three copies of the documents specified in Article 5.]]></條文內容>
+    <條文內容><![CDATA[To apply for the review of Category C Workplace by labor inspection agency, enterprises should complete the application form (Form 3) and attach three copies of the documents specified in Article 9.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>

@@ -3,7 +3,7 @@
 <英文法規名稱>Rules of the Air</英文法規名稱>
 <中文法規名稱>飛航規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090014</法規網址>
-<最新英文異動日期>20141231</最新英文異動日期>
+<最新英文異動日期>20210325</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -64,10 +64,11 @@
 14.Amendment “Rules of the Air” to “Flight and ATC Regulations” and Articles 1-6, 18, 27, 35-39 , 41, 48, 52, 53, 55, 56, 62, 63, 69, 70, 72, 73 promulgated No. (91)Chee-Fa-Fa-Zi-0007 of Civil Aeronautics Administration, MOTC on March 8, 2002.
 15.Amendment total 78 Articles promulgated No. Chee-Fa-Fa-Zi-0022 of Civil Aeronautics Administration, MOTC on January 5, 2005.
 16.Amendment to Articles 2, 20, 21, 36, 50, 64 and Appendix 1 and 3 to Articles 36 and 53, and Table Ⅰ to Article 55 promulgated No. Chee-Fa-Fa-Zi-0960000034 of Civil Aeronautics Administration, MOTC on June 29, 2007.
-17.Amendment to Articles1-3, 5, 57, 78, TableΠ, and Appendix 1 to 3 promulgated No. Chee-Fa-Fa-Zi-0960000036 of Civil Aeronautics Administration, MOTC on November 26, 2007.
-18.Amendment to Articles 2, 52, 57, TableΠ, and Appendix 1 and 2 promulgated No. Chee-Fa-Fa-Zi-0990000046 of Civil Aeronautics Administration, MOTC on August 31, 2010.
+17.Amendment to Articles1-3, 5, 57, 78, TableII, and Appendix 1 to 3 promulgated No. Chee-Fa-Fa-Zi-0960000036 of Civil Aeronautics Administration, MOTC on November 26, 2007.
+18.Amendment to Articles 2, 52, 57, TableII, and Appendix 1 and 2 promulgated No. Chee-Fa-Fa-Zi-0990000046 of Civil Aeronautics Administration, MOTC on August 31, 2010.
 19.Amendment to Articles 2, 17, 19 and 56 promulgated No. Chee-Fa-Fa-Zi-0055 of Civil Aeronautics Administration, MOTC on Mar. 19, 2013.
-20.Amendment to Articles 14-1 and Table II promulgated No. Chee-Fa-Fa-Zi-10314015901 of Civil Aeronautics Administration, MOTC on Dec. 31, 2014.]]></沿革內容>
+20.Amendment to Articles 14-1 and Table II promulgated No. Chee-Fa-Fa-Zi-10314015901 of Civil Aeronautics Administration, MOTC on Dec. 31, 2014.
+21.Amendment to Articles 14-1 promulgated No. Chee-Fa-Zi-11014002951 of Civil Aeronautics Administration, MOTC on March 25, 2021.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   CHAPTER I GENERAL PRINCIPLES</編章節>
@@ -91,8 +92,7 @@ A means by which the terms of an ADS-C agreement will be exchanged between the g
 A defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft.
 6. Aerodrome control service
 Air traffic control service for aerodrome traffic.
-7. Aerodrome control tower
-A unit established to provide air traffic control service to aerodrome traffic.
+7. Aerodrome control tower A unit established to provide air traffic control service to aerodrome traffic.
 8. Aerodrome traffic
 All traffic on the manoeuvring area of an aerodrome and all aircraft flying in the vicinity of an aerodrome.
 9. Aerodrome traffic zone
@@ -135,7 +135,7 @@ A unit established to provide air traffic control service to controlled flights 
 A specified route designed for channelling the flow of traffic as necessary for the provision of air traffic services.
 28. Ceiling
 The height above the ground or water of the base of the lowest layer of cloud below 20,000 ft covering more than half the sky.
-29.Changeover point
+29. Changeover point
 The point at which an aircraft navigating on an ATS route segment defined by reference to very high frequency omnidirectional radio ranges is expected to transfer its primary navigational reference from the facility behind the aircraft to the next facility ahead of the aircraft.
 30. Control area
 A controlled airspace extending upwards from a specified limit above the earth.
@@ -167,7 +167,7 @@ A licensed crew member charged with duties essential to the operation of an airc
 A unit established to provide flight information service.
 44. Flight information region (FIR)
 An airspace of defined dimensions within which flight information service and alerting service are provided.
-45.Flight information service
+45. Flight information service
 A service provided for the purpose of giving advice and information useful for the safe and efficient conduct of flights.
 46. Flight level (FL)
 A surface of constant atmospheric pressure which is related to a specific pressure datum, 1 013.2 hectopascals (hPa) (29.92 inches), and is separated from other such surfaces by specific pressure intervals.
@@ -199,9 +199,7 @@ That part of an aerodrome to be used for the take-off, landing and taxiing of ai
 58. Pilot-in-command
 The pilot designated by the operator, or in the case of general aviation, the owner, as being in command and charged with the safe conduct of a flight.
 59. Problematic use of substances
-The use of one or more psychoactive substances by aviation personnel in a way that:
-(1) constitutes a direct hazard to the user or endangers the lives, health or welfare of others.
-(2) causes or worsens an occupational, social, mental or physical problem or disorder.
+The use of one or more psychoactive substances by aviation personnel in a way that: (1) constitutes a direct hazard to the user or endangers the lives, health or welfare of others.  (2) causes or worsens an occupational, social, mental or physical problem or disorder.
 60. Prohibited area
 An airspace of defined dimensions, above the land areas or territorial waters of a State, within which the flight of aircraft is prohibited.
 61. Psychoactive substances
@@ -274,7 +272,7 @@ A pilot may elect to fly in accordance with IFR in VMC or he may be required to 
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[Before beginning a flight, the pilot-in-command of an aircraft shall become familiar with all available information appropriate to the intended operation.
-Pre-flight action for flights away from the vicinity of an aerodrome, and for all IFR flights, shall include a careful study of available current weather reports and forecasts, taking into consideration fuel requirements and an alternative course of action if the flight cannot be completed as planned..]]></條文內容>
+Pre-flight action for flights away from the vicinity of an aerodrome, and for all IFR flights, shall include a careful study of available current weather reports and forecasts, taking into consideration fuel requirements and an alternative course of action if the flight cannot be completed as planned.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -309,11 +307,11 @@ Pre-flight action for flights away from the vicinity of an aerodrome, and for al
   </條文>
   <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[Parachute descents, other than emergency descents, shall not be made except under conditions prescribed by the appropriate authority and as indicated by relevant information, advice and/or clearance from the appropriate air traffic services unit..]]></條文內容>
+    <條文內容><![CDATA[Parachute descents, other than emergency descents, shall not be made except under conditions prescribed by the appropriate authority and as indicated by relevant information, advice and/or clearance from the appropriate air traffic services unit.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14-1</條號>
-    <條文內容><![CDATA[Each proposed application which is in compliance with Article 12, 13 and 14 shall be  charged an application fee of NTD 4,200.]]></條文內容>
+    <條文內容><![CDATA[Each proposed application which is in compliance with Article 12, 13 and 14 shall be  charged an application fee of NTD 4,300.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
@@ -328,8 +326,7 @@ Pre-flight action for flights away from the vicinity of an aerodrome, and for al
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[Free balloon shall not be operated within classes B, C, D airspace and class E surface airspace except under conditions prescribed by the appropriate authority.
-An unmanned free balloon shall be operated in such a manner as to minimize hazards to persons, property or other aircraft and in accordance with the conditions specified in Appendix 1.]]></條文內容>
+    <條文內容><![CDATA[Free balloon shall not be operated within classes B, C, D airspace and class E surface airspace except under conditions prescribed by the appropriate authority. An unmanned free balloon shall be operated in such a manner as to minimize hazards to persons, property or other aircraft and in accordance with the conditions specified in Appendix 1.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
@@ -337,8 +334,7 @@ An unmanned free balloon shall be operated in such a manner as to minimize hazar
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[The operation of an aircraft entering or within the ADIZ shall be in compliance with the ADIZ regulations.
-An aircraft entering or within controlled airspace shall be equipped with a two-way radio and an ATC transponder except under conditions prescribed by the appropriate authority.]]></條文內容>
+    <條文內容><![CDATA[The operation of an aircraft entering or within the ADIZ shall be in compliance with the ADIZ regulations. An aircraft entering or within controlled airspace shall be equipped with a two-way radio and an ATC transponder except under conditions prescribed by the appropriate authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -449,7 +445,7 @@ Unless otherwise required by CAA, a flight plan for a flight to be provided with
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[Whatever the purpose for which it is submitted, a flight plan shall contain information, as applicable, on relevant items up to and including “Alternate aerodrome(s)”. It shall, in addition, contain information as practicable, on all other items when so prescribed by the appropriate ATS authority or when otherwise deemed necessary by the person submitting the flight plan.]]></條文內容>
+    <條文內容><![CDATA[Whatever the purpose for which it is submitted, a flight plan shall contain information, as applicable, on relevant items up to and including “Alternate aerodrome(s)”. It shall, in addition, contain information as practicable, on all other items when so prescribed by the appropriate ATS authority or when otherwise deemed necessary by the person  submitting the flight plan.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 34</條號>
@@ -470,7 +466,7 @@ Arrival reports made by aircraft shall contain the following elements of informa
   </條文>
   <條文>
     <條號>Article 36</條號>
-    <條文內容><![CDATA[Upon observing or receiving any of the signals given in Appendix 2, aircraft shall take such action as may be required by the interpretation of the signal given in that Appendix. .
+    <條文內容><![CDATA[Upon observing or receiving any of the signals given in Appendix 2, aircraft shall take such action as may be required by the interpretation of the signal given in that Appendix.
 The signals of Appendix 2 shall, when used, have the meaning indicated therein. They shall be used only for the purpose indicated and no other signals likely to be confused with them shall be used.
 A signalman shall be responsible for providing standard marshalling signals to aircraft in a clear and precise manner using the signals shown in Appendix 2.
 The signalman shall wear a distinctive fluorescent identification vest to allow the flight crew to identify that he or she is the person responsible for the marshalling operation.]]></條文內容>
@@ -505,8 +501,7 @@ Unless specified by the appropriate ATS authority, voice read-back of CPDLC mess
   </條文>
   <條文>
     <條號>Article 42</條號>
-    <條文內容><![CDATA[Except as provided for in Article 43 ,Article 44 and Article 46, an aircraft shall adhere to the current flight plan or the applicable portion of a current flight plan submitted for a controlled flight unless a request for a change has been made and clearance obtained from the appropriate air traffic control unit, or unless an emergency situation arises which necessitates immediate action by the aircraft, in which event as soon as circumstances permit, after such emergency authority is exercised, the appropriate ATS unit shall be notified of the action taken and that this action has been taken under emergency authority.
-Unless otherwise authorized or directed by the appropriate air traffic control unit, controlled flight shall, in so far as practicable, when on an established ATS route, operate along the defined centre line of that route; or when on any other route, operate directly between the navigation facilities and/or points defining that route.
+    <條文內容><![CDATA[Except as provided for in Article 43 ,Article 44 and Article 46, an aircraft shall adhere to the current flight plan or the applicable portion of a current flight plan submitted for a controlled flight unless a request for a change has been made and clearance obtained from the appropriate air traffic control unit, or unless an emergency situation arises which necessitates immediate action by the aircraft, in which event as soon as circumstances permit, after such emergency authority is exercised, the appropriate ATS unit shall be notified of the action taken and that this action has been taken under emergency authority. Unless otherwise authorized or directed by the appropriate air traffic control unit, controlled flight shall, in so far as practicable, when on an established ATS route, operate along the defined centre line of that route; or when on any other route, operate directly between the navigation facilities and/or points defining that route.
 An aircraft operating along an ATS route segment defined by reference to very high frequency omnidirectional radio ranges shall change over for its primary navigation guidance from the facility behind the aircraft to that ahead of it at, or as close as operationally feasible to, the changeover point where established.]]></條文內容>
   </條文>
   <條文>
@@ -563,10 +558,9 @@ Controlled flights providing position information to the appropriate air traffic
 7. If in instrument meteorological conditions or when weather conditions are such that it does not appear feasible to complete the flight in accordance with Subsection 6. (2), the aircraft shall:
 (1)unless otherwise prescribed on the basis of regional air navigation agreement, in airspace where radar is not used in the provision of air traffic control, maintain the last assigned speed and level, or minimum flight altitude if higher, for a period of 20 minutes following the aircraft’s failure to report its position over a compulsory reporting point and thereafter adjust level and speed in accordance with the filed flight plan;
 (2) in airspace where radar is used in the provision of air traffic control, maintain the last assigned speed and level, or minimum flight altitude if higher, for a period of 7 minutes following：
-(a)the time the last assigned level or minimum flight altitude is reached; or
-(b)the time the transponder is set to Code 7600;or
-(c)the aircraft’s failure to report its position over a compulsory reporting point;
-which is later, and thereafter adjust level and speed in accordance with the field flight plan.
+(a) the time the last assigned level or minimum flight altitude is reached; or
+(b) the time the transponder is set to Code 7600;or
+(c) the aircraft’s failure to report its position over a compulsory reporting point; which is later, and thereafter adjust level and speed in accordance with the field flight plan.
 (3) when being radar vectored or having been directed by ATC to proceed offset using RNAV without a specified limit, rejoin the current flight plan route no later than the next significant point, taking into consideration the applicable minimum flight altitude.
 (4) Proceed according to the current flight plan route to the appropriate designated navigation aid or fix serving the destination aerodrome and, when required to ensure compliance with (5) below, hold over this aid or fix until commencement of descent;
 (5) commence descent from the navigation aid or fix specified in (4) at, or as close as possible to, the expected approach time last received and acknowledged; or, if no expected approach time has been received and acknowledged, at, or as close as possible to, the estimated time of arrival resulting from the current flight plan;
@@ -637,8 +631,7 @@ When operating as a VFR flight during the night, aircraft shall comply with the 
   </條文>
   <條文>
     <條號>Article 63</條號>
-    <條文內容><![CDATA[Outside controlled airspace, if a flight plan was submitted; an aircraft operated in accordance with VFR which intends to change to IFR shall notify the appropriate ATS unit with the necessary changes, if a flight plan was not submitted; an aircraft shall comply with the provision of Article 30, and submit a flight plan to the appropriate ATS unit.
-If operating within controlled airspace, an aircraft shall obtain a clearance from ATC unit prior to proceeding IFR.]]></條文內容>
+    <條文內容><![CDATA[Outside controlled airspace, if a flight plan was submitted; an aircraft operated in accordance with VFR which intends to change to IFR shall notify the appropriate ATS unit with the necessary changes, if a flight plan was not submitted; an aircraft shall comply with the provision of Article 30, and submit a flight plan to the appropriate ATS unit. If operating within controlled airspace, an aircraft shall obtain a clearance from ATC unit prior to proceeding IFR.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 64</條號>

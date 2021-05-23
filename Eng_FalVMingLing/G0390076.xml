@@ -3,14 +3,15 @@
 <英文法規名稱>Regulations Governing Transactions Other Than Loans between Insurance Enterprises and Interested Parties</英文法規名稱>
 <中文法規名稱>保險業與利害關係人從事放款以外之其他交易管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390076</法規網址>
-<最新英文異動日期>20170630</最新英文異動日期>
+<最新英文異動日期>20200428</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on August 29, 2007 per Order Ref. Jin-Kuan-Bao-Yi 09602503691 of the Financial Supervisory Commission, Executive Yuan
 2.Articles 4 and 10 amended on June 29, 2012 per Order Ref. Jin-Kuan-Bao-Tsai 10102509812 of the Financial Supervisory Commission, Executive Yuan
 3.Articles 4 amended on March 10, 2014 per Order Ref. Jin-Kuan-Bao-Tsai 10302500031 of the Financial Supervisory Commission
-4.Articles 3, 4 and 6 amended on June 30, 2017 per Order Ref. Jin-Kuan-Bao-Tsai 10602503031 of the Financial Supervisory Commission ]]></沿革內容>
+4.Articles 3, 4 and 6 amended on June 30, 2017 per Order Ref. Jin-Kuan-Bao-Tsai 10602503031 of the Financial Supervisory Commission 
+5.As amended on April 28, 2020]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -31,19 +32,24 @@ The term “major shareholder” mentioned in Paragraph 1 hereof shall mean a sh
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The scope of “transactions other than loans with an interested party” mentioned in Paragraph 3, Article 146-7 of the Act shall mean any of the following transaction activities:
-1. Investing in or purchasing securities issued by any of the persons mentioned in the preceding article;
-2. Purchasing real estate or other assets from any of the persons mentioned in the preceding article;
-3. Selling securities, real estate or other assets to any of the persons mentioned in the preceding article;
-4. Entering into a contract with any of the persons mentioned in the preceding article regarding payment of money or provision of services;
-5. Acquiring real estate, property or stocks from any of the persons mentioned in the preceding article through the enforcement of mortgage or pledge;
-6. Leasing property or real estate to or from any of the persons mentioned in the preceding article;
-7. Entering into an agreement with any of the persons mentioned in the preceding article on the payment of transaction deposit, royalty or rental deposit;
+    <條文內容><![CDATA[The scope of “transactions other than loans between an insurance enterprise and its interested parties” mentioned in Paragraph 3, Article 146-7 of the Act shall mean any of the following transaction activities:
+1. Investing in or purchasing securities issued by its interested parties;
+2. Purchasing real estate or other assets from its interested parties;
+3. Selling securities, real estate or other assets to its interested parties;
+4. Entering into a contract with its interested parties regarding payment of money or provision of services;
+5. Acquiring real estate, property or stocks from its interested parties through the enforcement of mortgage or pledge;
+6. Leasing property or real estate to or from its interested parties;
+7. Entering into an agreement with its interested parties on the payment of transaction deposit, royalty or rental deposit;
 8. Arrangements involving any of the persons mentioned in the preceding article acting as an agent or broker of an insurance enterprise or its subsidiary(ies) or providing other services which charge commission or fees;
-9. Purchasing financial derivatives or structured products linked to a security issued by any of the persons mentioned in the preceding article from any person other than the security issuer; and
-10. Engaging in transactions with third parties having a relationship with any of the persons mentioned in the preceding article or engaging in transactions with third parties in which any of the persons mentioned in the preceding article are involved.
-The term “third parties having a relationship” mentioned in Subparagraph 10 of the preceding paragraph include the spouse and relatives by blood within second degree of kinship of any of the persons mentioned in the subparagraphs under Paragraph 1 of the preceding article as well as enterprises in which any of those persons or his/her spouse acts as a director, supervisor or president (general manager).
+9. Purchasing financial derivatives or structured products linked to a security issued by its interested parties from any person other than the security issuer; and
+10. Engaging in transactions with third parties having a relationship with its interested parties or engaging in transactions with third parties in which its interested parties are involved.
+The term “third parties having a relationship” mentioned in Subparagraph 10 of the preceding paragraph include the spouse and relatives by blood within second degree of kinship of the interested parties of the insurance enterprises as well as enterprises in which any of the person or his/her spouse acts as a director, supervisor or president (general manager).  The scope of the aforesaid person include the juristic person and the natural person.
 The securities mentioned in Subparagraphs 1 and 3 of Paragraph 1 hereof exclude negotiable certificates of deposits issued by a bank, an insurance enterprise’s investment in special projects as well as investment in public utilities and social welfare enterprises pursuant to Article 146-5 of the Act, and stocks issued by insurance-related businesses held by an insurance enterprise pursuant to Article 146-6 of the Act.
+The scope of "engaging in transactions with third parties in which any interested parties are involved " mentioned in Subparagraph 10 of Paragraph 1 does not include any of the following transactions:
+1. Cases where the insurance enterprise serves as the sales institution of the securities investment trust fund while another subsidiary of its financial holding company serves as the custodian institution of the same securities investment trust fund and the parties and agreed terms of the securities investment trust fund contract and sales contract do not involve other interested parties.
+2. Cases where the insurance enterprise engages in financial derivatives trade with a third party and the custodian institution is an interested party.
+3. Cases where the insurance enterprise engages in the purchase or sales of ordinary corporate bonds issued by a third party in a secondary market and the guarantee institution is an interested party.
+4. Cases where another subsidiary of the same financial holding company serves as a co-underwriter of an international initial public offering project and the interested party purchases securities with equity characteristics in such project from the lead underwriter or other co-underwriters.
 When an insurance enterprise purchases corporate bonds issued by an interested party, such bonds must be guaranteed.]]></條文內容>
   </條文>
   <條文>
@@ -61,9 +67,9 @@ When an insurance enterprise engages in the following transactions other than lo
 (1) Transactions of insurance products whose premium rates have been reported to the competent authority for approval or on a use-and-file basis and prices or premium rates have been reported to the competent authority or industry association for approval, or on a file-and-use or use-and-file basis, or other transactions with established, uniform fee standards.
 (2) Transactions involving reinsurance commissions, reinsurance premiums, other commissions or agency fees and relevant service costs.
 5. A single transaction not exceeding NT$5,000,000.
-6. Acquisition and disposal of beneficial securities of collective trust fund or beneficiary certificates of securities investment trust fund or futures trust fund (including exchange-traded funds and exchange-traded futures trust funds, but excluding closed-end funds) issued by an interested party through investment; and the managing department should compile transaction records and profit/loss status for each transaction and report to the board of directors on a quarterly basis. If other regulations stipulate otherwise, such other regulations shall prevail.
+6. Acquisition and disposal of beneficial securities of collective trust fund or beneficiary certificates of securities investment trust fund, futures trust fund (including exchange-traded funds and exchange-traded futures trust funds, but excluding closed-end funds) or exchange traded notes issued by an interested party through investment; and the managing department should compile transaction records and profit/loss status for each transaction and report to the board of directors on a quarterly basis. If other regulations stipulate otherwise, such other regulations shall prevail.
 7. Transaction of securitized financial asset products or securitized real estate products publicly placed or offered in accordance with the Financial Asset Securitization Act or the Real Estate Securitization Act and traded in the secondary market, but excluding the beneficial securities of real estate investment trust; and the managing department should compile transaction records and profit/loss status for each transaction and report to the board of directors on a quarterly basis. The preceding provision does not apply to beneficial securities and asset-backed securities with an issuance period of one year or less.
-8. Transactions made with trust property or trust fund in accordance with the Regulations Governing the Management of Collective Trust Funds or the Regulations Governing Management and Utilization of Collective Investment Trust Funds when the interested party is a bank engaging concurrently in trust business ;  transactions made with fund assets in accordance with the Regulations Governing Securities Investment Trust Funds or the Regulations Governing Futures Trust Funds when the interested party is a securities investment trust enterprise (SITE); and transactions made with entrusted assets in accordance with the Regulations Governing the Conduct of Discretionary Investment Business by Securities Investment Trust Enterprises and Securities Investment Consulting Enterprises when the interested party is a SITE or securities investment consulting enterprise (SICE).
+8. Transactions made with trust property or trust fund in accordance with the Regulations Governing the Management of Collective Trust Funds or the Regulations Governing Management and Utilization of Collective Investment Trust Funds when the interested party is a bank engaging concurrently in trust business ; transactions made with fund assets in accordance with the Regulations Governing Securities Investment Trust Funds or the Regulations Governing Futures Trust Funds when the interested party is a securities investment trust enterprise (SITE); and transactions made with entrusted assets in accordance with the Regulations Governing the Conduct of Discretionary Investment Business by Securities Investment Trust Enterprises and Securities Investment Consulting Enterprises when the interested party is a SITE, securities investment consulting enterprise (SICE), or a company engaging concurrently in SITE or SICE.
 9. Transactions made through the Emerging Stock Computerized Price Negotiation and Click System in connection with the obligations of the interested party to give quotes and offer to buy and sell emerging stocks when the interested party is a recommending securities firm for emerging stocks.
 10. Transactions relating to the handling of non-performing loans of an insurance enterprise by an appointed impartial third party recognized by the competent authority in accordance with the Regulations Governing The Recognition Of An Impartial Third Party And Its Public Auction Procedure.
 11. Except for transactions involving securities with equity characteristics, single transactions in an amount not exceeding NT$50,000,000 with the parent financial holding company or a wholly directly or indirectly owned subsidiary of the parent financial holding company.

@@ -1,15 +1,17 @@
 <法規>
 <法規性質>命令</法規性質>
 <英文法規名稱>Regulations for Good Clinical Practice</英文法規名稱>
-<中文法規名稱>藥品優良臨床試驗準則</中文法規名稱>
+<中文法規名稱>藥品優良臨床試驗作業準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030056</法規網址>
-<最新英文異動日期>20141023</最新英文異動日期>
+<最新英文異動日期>20200828</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on January 6, 2005 
 2.Amendment to Articles 106 dated July 19, 2010
-3.Amendment to Articles 2 dated October 23, 2014]]></沿革內容>
+3.Amendment to Articles 2 dated October 23, 2014
+4.Amended on Aug 28, 2020. Revised the name of regulation and Article 5.10.20.21.23.30.37.54.55.73
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -51,8 +53,8 @@ The Ethics Committee should safeguard the rights, safety, and well-being of all 
     <條號>Article 5</條號>
     <條文內容><![CDATA[The investigator should obtain the informed consent form freely given by the subjects prior to the beginning of the trial.
 The investigator, or a person designated by the investigator, should fully inform the subject of all pertinent aspects of the trial, including the contents of the informed consent form and the documentations approved by the Ethics Committee. The investigator, or designated person, should ensure the content of inform consent form and other trial-related documentations are well understood, signed and dated by the subject.
-For the consent mentioned in the preceding two paragraphs, where the subject is incompetent, the consent should be performed by his or her legal representative; where the subject is of limited legal capacity, consent should be obtained from his or her legal representative; where the  subject who is neither incompetent nor of limited legal capacity, yet is unable to give consent due to insanity or the absence of discernment, the consent could be given by the person legally acceptable for making decisions on behalf of the subject.
-The person legally acceptable for making decisions on behalf of the subject refers to the subject’s spouse and cohabiting families.]]></條文內容>
+For the consent mentioned in the preceding two paragraphs, where the subject is incompetent, the consent should be performed by his or her legal representative; where the subject is of limited legal capacity, consent should be obtained from his or her legal representative; where the subject who is neither incompetent nor of limited legal capacity, yet is unable to give consent due to insanity or the absence of discernment, the consent could be given by the subject's legally acceptable representative.
+The subject's legally acceptable representative refers to the subject’s spouse and cohabiting families.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -75,8 +77,8 @@ Under the circumstances referred to in the preceding paragraph, the investigator
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[In the aspect of amount and method of payment to subjects, the sponsor should not impose coercion or undue influences on the trial subjects.
-Payments to a subject should be prorated and not wholly contingent on completion of the trial by the subject, except when the payment is a small amount.
-Information regarding payment to subjects, including the methods, amounts, and schedule of payment to trial subjects, should be clearly stated in the written informed consent form and any other written information to be provided to subjects. The way payment will be prorated should be specified.]]></條文內容>
+The payment to a subject should be prorated and subject to the progress of the trial, instead of payment in full only after completion of the trial.
+Information regarding payment to subjects, including the methods, amounts, and schedule of payment to trial subjects, should be clearly stated in the written informed consent form and any other written information to be provided to subjects. The way that the payment will be prorated should be specified.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -122,18 +124,18 @@ Statements in contradiction to the rules specified in the preceding paragraph ar
   </條文>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[Prior to a subject’s participation in the trial, the informed consent form shall be signed and personally dated by the subject or by the subject's legally acceptable representative.
-Before informed consent may be obtained, the investigator, or a person designated by the investigator, should provide the subject or the subject's legally acceptable representative ample time and opportunity to inquire about details of the trial and to decide whether or not to participate in the trial.
-All questions about the trial should be answered to the satisfaction of the subject or the subject's legally acceptable representative.
+    <條文內容><![CDATA[Prior to a subject’s participation in the trial, the informed consent form shall be signed and personally dated by the subject or by the subject's legal representative and the legally acceptable representative.
+Before informed consent may be obtained, the investigator, or a person designated by the investigator, should provide the subject or the subject's legally acceptable representative ample time and opportunity to inquire about details of the trial.
+All questions about the trial should be answered to the satisfaction of the subject or the subject's legal representative and the legally acceptable representative.
 Informed consent forms shall be signed by all parties mentioned in paragraph 2.
-In clinical trials of emergency cases, prior consent of the subject or the subject’s legally representatives could be waived only when the emergency procedures are well described in the protocol. While consent of the subject or the subject's legally acceptable representative is possible, the consent shall be obtained immediately.]]></條文內容>
+In clinical trials of emergency cases, prior consent of the subject or the subject’s legally representatives could be waived only when the emergency procedures are well described in the protocol. When consent of the subject or the subject's legal representative and the legally acceptable representative is possible, the consent shall be obtained immediately.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[If the subject or the subject's legally acceptable representative is unable to read, an impartial witness shall be present during the entire informed consent discussion.
-The impartial witness should read the informed consent form and any other written information to be provided to subjects and attests that the information were accurately explained by the investigator or designated person, and were fully understood by the subject or the subject's legally acceptable representative.
-Under the circumstances referred to in paragraph 1, the subject or the subject’s legally acceptable representative shall still sign and date the informed consent form. Finger print is an acceptable substitute for signature.
-After finishing the work described in paragraph 2, the impartial witness attests that informed consent was freely given by the subject or the subject’s legally acceptable representative by signing and dating the informed consent form.
+    <條文內容><![CDATA[If the subject or the subject's legal representative and legally acceptable representative. is unable to read, an impartial witness shall be present during the entire informed consent discussion.
+The impartial witness should read the informed consent form and any other written information to be provided to subjects and attests that the information were accurately explained by the investigator or designated person, and were fully understood by the subject or by the subject's legal representative and the legally acceptable representative.
+Under the circumstances referred to in paragraph 1, the subject or the subject's legal representative and legally acceptable representative. shall still sign and date the informed consent form. Finger print is an acceptable substitute for signature.
+After finishing the work described in paragraph 2, the impartial witness attests that informed consent was freely given by the subject or the subject's legal representative and legally acceptable representative. by signing and dating the informed consent form.
 Trial staff shall not acts as the impartial witness.]]></條文內容>
   </條文>
   <條文>
@@ -162,8 +164,8 @@ Trial staff shall not acts as the impartial witness.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[Prior to participation in the trial, the subject or the subject's legally acceptable representative shall receive a copy of the signed and dated informed consent form and any other written information provided to the subjects. The clinical trials intended for treating emergency cases when prior consent is not possible are exceptional.
-During a subject’s participation in the trial, the subject or the subject’s legally acceptable representative shall receive a copy of the signed and dated consent form updates and a copy of any amendments to the written information provided to subjects.]]></條文內容>
+    <條文內容><![CDATA[Prior to participation in the trial, the subject or the subject's legal representative and the legally acceptable representative shall receive a copy of the signed and dated informed consent form and any other written information provided to the subjects. The clinical trials intended for treating emergency cases when prior consent is not possible are exceptional.
+During a subject’s participation in the trial, the subject or the subject's legal representative and the legally acceptable representative. shall receive a copy of the signed and dated consent form updates and a copy of any amendments to the written information provided to subjects.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 24</條號>
@@ -204,7 +206,7 @@ The Ethics Committee may be asked by investigators, sponsors or regulatory autho
   <編章節>   Chapter IV Investigator</編章節>
   <條文>
     <條號>Article 30</條號>
-    <條文內容><![CDATA[The investigator(s) shall meet all the qualifications and abilities specified by the Competent Authority, and shall have experiences for the proper conduct of the trial.]]></條文內容>
+    <條文內容><![CDATA[The investigator(s) shall meet all the qualifications and abilities specified by the Competent Authority, and shall have experiences and resources for the proper conduct of the trial.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 31</條號>
@@ -232,7 +234,8 @@ The Ethics Committee may be asked by investigators, sponsors or regulatory autho
   </條文>
   <條文>
     <條號>Article 37</條號>
-    <條文內容><![CDATA[The investigator should have available an adequate number of qualified staff and adequate facilities to conduct the trial properly and safely.]]></條文內容>
+    <條文內容><![CDATA[The investigator should have available an adequate number of qualified staff and adequate facilities to conduct the trial properly and safely.
+The investigator shall supervise the individual and party delegated by him/her to perform duties related to the trial.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38</條號>
@@ -318,18 +321,20 @@ While the investigator or the institution does not adopt the measures referred t
     <條文內容><![CDATA[The sponsor should utilize appropriately qualified individuals to be responsible for the following work:
 1.to supervise the overall conduct of the trial,
 2.to handle the data and to verify the data,
-3.to conduct the statistical analyses, and to prepare the trial reports.]]></條文內容>
+3.to conduct the statistical analyses, and to prepare the trial reports.
+4.to perform operations related to conducting the trial.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 55</條號>
     <條文內容><![CDATA[When using electronic trial data handling or remote electronic trial data systems, the sponsor should:
-1.Ensure and document that the electronic data processing system(s) conforms to the sponsor’s established requirements for completeness, accuracy, reliability, and consistent intended performance (i.e. validation).
+1. Based on the risk assessment, ensure that the electronic data processing system(s) conforms to the sponsor’s established requirements for completeness, accuracy, reliability, and consistent intended performance (i.e. validation).
 2.Follow and maintain SOPs for using these systems.
-3.Ensure that the systems are designed to permit data changes in such a way that the data changes are documented and that there is no deletion of entered data (i.e. maintain an audit trail, data trail, edit trail).
-4.Maintain a security system that prevents unauthorized access to the data.
+3.Ensure that the systems are designed to permit data changes in such a way that the data changes are documented and that there is no deletion of entered data; the system shall maintain an audit trail, data trail, edit trail separately.
+4.Maintain a security system that prevents unauthorized access to the system or data.
 5.Maintain a list of the individuals who are authorized to make data changes.
 6.Maintain adequate backup of the data.
-7.Safeguard the blinding.]]></條文內容>
+7.Safeguard the blinding.
+8.Ensure the data integrity in the case of any change in the computer system.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 56</條號>
@@ -414,7 +419,10 @@ For samples referred to in item 6 and item 7 for extending storage permits, samp
   <編章節>      V. Monitoring</編章節>
   <條文>
     <條號>Article 73</條號>
-    <條文內容><![CDATA[The sponsor should ensure the trial is conducted under appropriate monitoring.]]></條文內容>
+    <條文內容><![CDATA[The sponsor shall take into account the risk over subjects’ protection and data integrity when establishing a monitoring plan, in order to ensure that the trial is conducted under appropriate monitoring.
+The sponsor may choose on-site monitoring, system remote monitoring, or both.
+Where the system remote monitoring referred to in the preceding paragraph is adopted, the same shall be implemented only upon a reasonable assessment to verify the adequacy thereof.
+The contents of the plan referred to in Paragraph 1 cover the monitoring strategies, the monitoring responsibilities, the monitoring methods and reasons for adoption of the plan, as well as key data and processes to be monitored.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 74</條號>

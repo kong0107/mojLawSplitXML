@@ -3,7 +3,7 @@
 <英文法規名稱>Methods and Facilities Standards for the Storage, Clearance and Disposal of Industrial Waste</英文法規名稱>
 <中文法規名稱>事業廢棄物貯存清除處理方法及設施標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050005</法規網址>
-<最新英文異動日期>20061214</最新英文異動日期>
+<最新英文異動日期>20210222</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -19,7 +19,9 @@
 10.Article 37 revised and promulgated by Environmental Protection Administration order on December 31, 2003
 11.Article 17 revised and promulgated by Environmental Protection Administration order on October 20, 2005
 12.Article 17 revised and promulgated by Environmental Protection Administration order on January 3, 2006
-13.Entire 46 Articles revised and promulgated by Environmental Protection Administration order on December 14, 2006]]></沿革內容>
+13.Entire 46 Articles revised and promulgated by Environmental Protection Administration order on December 14, 2006
+14.Article 11 revised and promulgated by Environmental Protection Administration order on February 21, 2020
+15.Article 34, 35 and 39 revised; Article 41-1 to 41-5 added; Article 44 deleted; and promulgated by Environmental Protection Administration order on February 22, 2021]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -61,7 +63,7 @@ B. "Sanitary landfill methods" refer to the burial of general industrial waste i
 C. "Sealed landfilling methods" refer to the burial of hazardous industrial waste in a landfill constructed of pressure-resistant, double-layer water-impermeable materials and equipped with groundwater monitoring devices and measures to block the outward leakage of pollutants.
 XV. "Automatic identification and data capture (AIDC) system" refers to a computer system that automatically identifies objects via reading devices with different input interfaces and stores the captured data to achieve a waste identification system.
 XVI. "Destruction and removal efficiency" (DRE) refers to when principal organic hazardous constituents (POHC are treated with thermal methods the percentage of their gross weight before thermal treatment minus gross weight in stack emissions divided by gross weight before treatment.
-XVII. "Combustion efficiency" (CE) refers to the percentage of carbon dioxide concentration in emissions at the stack outlet to the sum of carbon dioxide and carbon monoxide concentrations. 
+XVII. "Combustion efficiency" (CE) refers to the percentage of carbon dioxide concentration in emissions at the stack outlet to the sum of carbon dioxide and carbon monoxide concentrations.
 XVIII. "Toxic heavy metals" refers to industrial waste containing heavy metals that are listed in Table 1 of the Standards for Defining Hazardous Waste or industrial waste that exceeds standards for toxic heavy metals listed in Table 4 of the Standards for Defining Hazardous Waste following toxic characteristic leaching procedure (TCLP).]]></條文內容>
   </條文>
   <條文>
@@ -92,7 +94,7 @@ The central competent authority shall, according to enterprise types, specific g
 I. Hazardous industrial waste shall be stored separately in accordance with hazardous industrial waste identification methods or hazardous characteristics.
 II. Waste shall be sealed in fixed packaging materials or containers, placed within storage facilities, assigned classification numbers, and marked with labels indicating the name of the waste-producing enterprise, the storage date, quantity, composition, and the characteristics of the hazardous industrial waste type.
 III. Storage containers and facilities shall be compatible with the hazardous industrial waste they contain to lessen corrosion or attrition.
-IV. Storage containers and packing materials shall be kept in good condition, and shall be replaced promptly if there is concern of serious rusting, damage or leakage. 
+IV. Storage containers and packing materials shall be kept in good condition, and shall be replaced promptly if there is concern of serious rusting, damage or leakage.
 Storage shall be limited to one year. Those who require an extension shall apply for extension to the local competent authority where the storage facilities are located two months prior to the deadline.
 Extensions shall be limited to one time and may not exceed one year.
 Enterprises that are unable to dispose of hazardous industrial waste within the deadline, because the enterprise is unable to carry out disposal, there are no domestic disposal organizations that could be commissioned with disposal or due to particular circumstances, may submit a storage plan to the central industry competent authority for preliminary review and approval. The storage deadline may be extended after a second review and approval by the central competent authority.
@@ -102,13 +104,13 @@ Paragraph 2 and the foregoing paragraph do not apply to those that store waste d
     <條號>Article 8</條號>
     <條文內容><![CDATA[Methods for the storage of biomedical waste sharp implements and infectious waste shall comply with the following regulations, unless other central competent authority regulations apply:
 I. "Waste sharp implements" shall be stored separately from other waste, sealed in not readily perforated sturdy containers for storage of a maximum of one year.
-II. "Infectious waste" shall be stored separately from other waste. Those that use thermal treatment methods shall seal the infectious waste in leak-proof, non-destructible red plastic bags or red combustible containers. Those that use sterilization treatment shall seal and store the waste in leakproof, non-destructible yellow plastic bags or yellow containers.Storage conditions shall comply with the following regulations:
+II. "Infectious waste" shall be stored separately from other waste. Those that use thermal treatment methods shall seal the infectious waste in leak-proof, non-destructible red plastic bags or red combustible containers. Those that use sterilization treatment shall seal and store the waste in leakproof, non-destructible yellow plastic bags or yellow containers. Storage conditions shall comply with the following regulations:
 A. Waste producing organizations may store infectious waste for a maximum of one day at a temperature above 5°C; the said organizations may refrigerate infectious waste for a maximum of seven days at a temperature below 5 and above 0, and freeze infectious waste for a maximum of 30 days at a temperature below 0°C.
 B. Clearance organizations may not store infectious waste; but those that require transfer shipments due to particular circumstances may refrigerate or freeze infectious waste at a temperature below 5°C for a maximum of seven days upon approval by the local competent authority.
 C. Disposal organizations may not store infectious waste at a temperature above 5°C; the said organizations may refrigerate infectious waste for a maximum of seven days at a temperature below 5°C and above 0°C, and freeze infectious waste for a maximum of 30 days at a temperature below 0°C.
 The storage containers and plastic bags of the foregoing paragraph shall be marked in a prominent place on the outermost layer with the name of the waste, the name of the waste producing enterprise, the storage deadline, the weight, the name of the clearance and disposal organization, and the characteristics of the hazardous industrial waste. On top of that infectious waste shall also be marked with the storage temperature.
 The storage deadline of the foregoing paragraph does not include the clearance and transportation process, cargo loading and discharging, waiting and batch feeding time.
-When biomedical waste sharp implements and infectious waste cause noxious odors during the storage period, they shall immediately be cleared. 
+When biomedical waste sharp implements and infectious waste cause noxious odors during the storage period, they shall immediately be cleared.
 Enterprises that are unable to comply with Paragraph 1 Subparagraph 2 due to particular circumstances may extend the storage deadline after relevant documents submitted to the local competent authority have been approved.The approval documents must clearly state the waste type for which storage has been extended, the reason for the extension and the approved storage extension deadline. A copy must be sent to the central competent authority.]]></條文內容>
   </條文>
   <條文>
@@ -132,13 +134,13 @@ III. There shall be equipment or measures to collect waste liquids, waste gases 
 IV. There shall be accident prevention equipment and warning signs with white backgrounds, red characters, and black frames posted in prominent locations.
 V. Underground storage containers shall be equipped with fluid level inspection and anti-leak measures and leak detection systems.
 VI. The facilities shall contain necessary warning equipment, fire extinguishers, emergency lighting, or an emergency sprinkler system and safety equipment.
-VII. Facilities that hold flammable industrial waste, reactive industrial waste, or toxic chemical substances which are designated by the Standards for Defining Hazardous Waste shall contain necessary monitoring equipment to detect such waste types. This monitoring equipment shall use the standards for monitoring equipment stipulated in the Toxic Chemical Substances Control Act and the Labor Safety and Health Law.]]></條文內容>
+VII. Facilities that hold flammable industrial waste, reactive industrial waste, or toxic chemical substances which are designated by the Standards for Defining Hazardous Waste shall contain necessary monitoring equipment to detect such waste types. This monitoring equipment shall use the standards for monitoring equipment stipulated in the Toxic and Concerned Chemical Substances Control Act and the Occupational Safety and Health Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[Storage facilities for biomedical waste, apart from genotoxic waste regulated pursuant to the previous Article, shall comply with the following regulations:
 I. The storage facilities shall be marked at the entrance or in prominent places with labels indicating the characteristics of the infectious industrial waste and shall possess emergency response facilities or measures. Such facilities shall be sturdy and segregated from treatment areas, kitchens, and restaurants. However, clinics may establish sealed storage facilities in treatment areas.
-II. Differently colored containers for the storage of industrial waste shall be placed in separate locations. 
+II. Differently colored containers for the storage of industrial waste shall be placed in separate locations.
 III. The storage facilities shall be equipped with excellent water drainage and rinsing equipment.
 IV. The storage facilities shall be equipped with safety equipment or measures to prevent unauthorized access by personnel or animals.
 V. The storage facilities shall be equipped with equipment or measures to prevent the multiplication of flies, mosquitoes or other disease vectors.
@@ -148,7 +150,7 @@ VII. There shall be equipment or measures to collect waste liquids, waste gases 
   <編章節>   Chapter 3 Clearance of Industrial Waste</編章節>
   <條文>
     <條號>Article 13</條號>
-    <條文內容><![CDATA[Vehicles, ships, or other means of transportation used for the clearance of industrial waste shall prevent the occurrence of situations that may pollute the environment or endanger human health, such as the airborne dispersal, spattering, overflow, or explosion of industrial waste or emission of noxious odors. 
+    <條文內容><![CDATA[Vehicles, ships, or other means of transportation used for the clearance of industrial waste shall prevent the occurrence of situations that may pollute the environment or endanger human health, such as the airborne dispersal, spattering, overflow, or explosion of industrial waste or emission of noxious odors.
 Before clearance sludge shall be dewatered or dried until moisture content is below 85%. Sludge that has not been dewatered or dried until moisture content is below 85% shall be transported in tank cars.]]></條文內容>
   </條文>
   <條文>
@@ -164,7 +166,7 @@ The information in the foregoing paragraph shall be preserved for three years fo
     <條號>Article 16</條號>
     <條文內容><![CDATA[Vehicles used for the clearance of hazardous industrial waste shall comply with the following regulations:
 I. Such vehicles shall display labels indicating the organization's name and phone number, and the characteristics of the hazardous industrial waste.
-II. An emergency response method manual and emergency response equipment for the hazardous industrial waste shall be carried on board the vehicle. 
+II. An emergency response method manual and emergency response equipment for the hazardous industrial waste shall be carried on board the vehicle.
 Clearance personnel shall promptly adopt emergency response measures and notify the relevant competent authority if any hazardous industrial waste leaks while being transported. The enterprise producing the hazardous industrial waste and the clearance organization shall bear all responsibility for cleanup and resolution of any resulting problems.]]></條文內容>
   </條文>
   <條文>
@@ -196,7 +198,8 @@ A. Waste transformers shall be first separated into solids and liquids, and thei
 B. The transformer oil or liquid shall be treated with thermal treatment methods.
 C. As for nonmetal solid waste, nonflammable waste shall be finally disposed with the sanitary landfilling method, while flammable waste shall be treated with thermal treatment methods.
 III. Waste pharmaceuticals for use in humans or animals shall be treated with thermal treatment methods.
-IV. Wastewater treatment sludge from the manufacture of ethylene dichloride (EDC) or ethylene chloride shall be treated with thermal methods V. Other treatment methods officially announced by the central competent authority.]]></條文內容>
+IV. Wastewater treatment sludge from the manufacture of ethylene dichloride (EDC) or ethylene chloride shall be treated with thermal methods
+V. Other treatment methods officially announced by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -224,13 +227,12 @@ XVI. Other treatment methods officially announced by the central competent autho
 I. Genotoxic waste: use thermal treatment or chemical treatment.
 II. Waste sharp implements: use thermal treatment or pulverize after sterilization.
 III. Infectious waste: use thermal treatment. However, waste microbial cultures, microbial colonies, and related biological products, surgical or autopsy waste, pathology waste, waste contaminated with blood or body fluids, may be treated by destroying its original form after sterilization. Waste whose original form has not been destroyed shall display in a prominent place on the waste containers the name of the waste producing enterprise, the sterilization method, the name of the sterilization personnel or enterprise, the date of sterilization and the results of sterilization efficacy tests.
-Sterilization treatment standards, standards and procedures for operating rules and sterilization efficacy tests shall be determined on the basis of relevant central competent authority regulations. 
 Sterilization treatment standards, standards and procedures for operating rules and sterilization efficacy tests shall be determined on the basis of relevant central competent authority regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
     <條文內容><![CDATA[A trial operation plan shall be submitted whenever hazardous industrial waste is to be subjected to thermal treatment. Trial operation shall be performed in accordance with the trial operation plan after approval by the special municipality, county or city competent authority.One month before trial operation testing the special municipality, county or city competent authority shall be notified. Trial operation shall be performed in accordance with the trial operation plan under the supervision of the special municipality, county or city competent authority. For the testing required during trial operation, the enterprise shall commission on its own initiative an analysis and testing organization approved by the central competent authority or an academic or consulting organization approved by the central competent authority to perform testing on the basis of the trial operation plan, The enterprise shall submit a trial operation report after the completion of testing, and may proceed with treatment only after approval by the special municipality, county or city competent authority. However, the enterprise shall comply with any requirements governing trial operation among the management regulations designated in Article 28, Paragraphs 2 through 5 and Article 42 of this Act.
-The trial operation period shall be limited to three months, however, an enterprise may apply for an extension when necessary; the extension period may not exceed three months. 
+The trial operation period shall be limited to three months, however, an enterprise may apply for an extension when necessary; the extension period may not exceed three months.
 The central industry competent authority shall be in charge of acceptance, authorization, and approval of the trial operation plans and trial operation reports of the joint waste clearance and disposal organizations and waste clearance and disposal facilities in Article 28, Paragraphs 3 and 4 of this Act.
 The central competent authority shall officially announce the format of the trial operation plan and trial operation report in Paragraph 1.]]></條文內容>
   </條文>
@@ -245,12 +247,12 @@ V. Facilities shall have pollution control equipment and anti-corrosion measures
   </條文>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[Apart from complying with the regulations in the foregoing article, facilities used for the incineration of hazardous industrial waste shall also comply with the following regulations: 
+    <條文內容><![CDATA[Apart from complying with the regulations in the foregoing article, facilities used for the incineration of hazardous industrial waste shall also comply with the following regulations:
 I. The output central temperature of the combustion chamber shall be maintained above 1,000 °C. Combustion gas residence time shall be over one second for biomedical waste sharp implements and infectious waste and over two seconds for other hazardous industrial waste.
 II. Combustion efficiency shall be over 99.9% when incinerating infectious industrial waste.
 III. Apart from the incineration of infectious waste, in the incineration of other hazardous industrial waste the destruction and removal efficiency shall be over 99.99% for chlorinated organic compounds, over 99.999% for polychloriated biphenyls (PCBs) and dioxins and over 99.9% for other toxic chemical substances.
 IV. Facilities shall possess devices for automatic monitoring, automatic monitoring and control of combustion conditions, the recording of the output central temperature of the combustion chamber and emergency response.
-V. Other items officially announced by the central competent authority. 
+V. Other items officially announced by the central competent authority.
 Fluidized bed waste incinerators are not subject to the restrictions of Subparagraphs 1 and 2 of the foregoing paragraph.]]></條文內容>
   </條文>
   <條文>
@@ -302,23 +304,27 @@ VI. Other items officially announced by the central competent authority.]]></條
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[Stabilized landfills whose use has ended shall be covered with a layer of sandy or argillaceous clay at least 50cm in thickness.]]></條文內容>
+    <條文內容><![CDATA[Stabilized landfills whose use has ended shall be covered with a layer of sandy or argillaceous clay at least 50 centimeters in thickness.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 34</條號>
     <條文內容><![CDATA[When general industrial waste requiring no intermediate treatment is disposed of by sanitary landfilling, relevant facilities shall comply with the following regulations in addition to the requirements of Article 32, Subparagraphs 2 through 6:
-I. A sign shall be erected at the entrance, and shall indicate the manager, type of landfilled waste, the geographical location, scope, and depth of the landfill area, and the ultimate landfill height.
+I. A sign shall be erected at the entrance, and shall indicate the manager’s name, type of landfilled waste, the geographical location, scope, and depth of the landfill area, and the ultimate landfill height.
 II. Waste gas treatment facilities shall be established when organic waste is landfilled at a facility.
-III. The bottom layer and periphery of a landfill shall have a water permeability coefficient of less than 10-7 cm/sec., and shall be compatible with the waste and its leachate. This layer shall have a foundation of sandy or argillaceous clay or equivalent material at least 60cm in thickness, and shall have a lining of artificial water-impermeable materials that have a water permeability coefficient of less than 10-10 cm/sec., are compatible with the waste and its leachate, and are of a thickness of at least 0.2cm.
+III. The bottom layer and periphery of a landfill shall have a water permeability coefficient of less than 10-7 centimeters/second, and shall be compatible with the waste and its leachate. This layer shall have a foundation of sandy or argillaceous clay or an equivalent material at least 60 centimeters in thickness, and shall have a lining of artificial water-impermeable materials that have a water permeability coefficient of less than 10-10 centimeters/second. The bottom layer and periphery of a landfill shall be compatible with the waste and its leachate, and are of a thickness of at least 0.2 centimeters.
 IV. There shall be facilities to collect and treat leachate.
 V. At least one monitoring well shall be established respectively upstream and downstream of a landfill relative to the direction of groundwater flow.
 VI. Except when the items landfilled are noncombustible, fire extinguishers or other effective fire fighting equipment shall be established.
 VII. Other items officially announced by the central competent authority.
-General industrial waste subjected to intermediate treatment and hazardous industrial waste subjected to intermediate treatment and designated general industrial waste by the special municipality, county or city competent authority are subject to the regulations of the foregoing paragraph.]]></條文內容>
+General industrial waste subjected to intermediate treatment and hazardous industrial waste subjected to intermediate treatment and designated general industrial waste by the special municipality, county or city competent authority are subject to the regulations of the foregoing paragraph.
+Subparagraph 3 of Paragraph 1 shall not apply to sanitary landfills established after the implementation of the amendment to these Standards on February 22, 2021. The bottom layer and periphery of a landfill shall have a water permeability coefficient of less than 10-7 centimeters/second, and shall be compatible with the waste and its leachate. This layer shall have a foundation of sandy or argillaceous clay or an equivalent material at least 60 centimeters in thickness, and shall have a lining of artificial water-impermeable materials that have a water permeability coefficient of less than 10-10 centimeters/second. The bottom layer and periphery of a landfill shall be compatible with the waste and its leachate, and are of a thickness of at least 0.2 centimeters.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 35</條號>
-    <條文內容><![CDATA[Sanitary landfills shall be covered with at least 15cm in thickness, and shall also be compressed; when the use of a sanitary landfill has ended, it shall be covered with a layer of sandy or argillaceous clay at least 50cm in thickness.]]></條文內容>
+    <條文內容><![CDATA[The earth cover and monitoring of sanitary landfills shall comply with the following requirements:
+I. Sanitary landfills shall be covered with at least 15 centimeters in thickness, and shall also be compressed; when the use of a sanitary landfill has ended, it shall be covered with a layer of sandy or argillaceous clay at least 50 centimeters in thickness.
+II. The water quality in the groundwater monitoring wells at the upper and lower courses shall be examined quarterly, with examination items covering arsenic, cadmium, chromium, copper, lead, mercury, nickel, and zinc.
+When the monitoring results of Subparagraph 2 in the foregoing paragraph are below the groundwater pollution control standards but reach the groundwater pollution monitoring standards, the entity shall propose the countermeasures within one month after receiving the monitoring results and implement such countermeasures after acquiring the approval of the competent authorities of permit issuance or the competent authorities of targeted business.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 36</條號>
@@ -333,23 +339,27 @@ The central competent authority shall respectively determine the Control Standar
     <條號>Article 38</條號>
     <條文內容><![CDATA[When hazardous industrial waste shall be disposed of by sealed landfilling, relevant facilities shall comply with the following regulations in addition to the requirements of Article 32, Subparagraphs 2 to 6 and Article 34, Paragraph 1, Subparagraphs 1, 4, and 5:
 I. Landfills shall have anti-compression and anti-vibration facilities.
-II. Landfills shall establish entrance roads with a width of at least 5m.
+II. Landfills shall establish entrance roads with a width of at least 5 meters.
 III. Landfills shall have facilities to prevent the inflow or infiltration of surface water, rainwater, and groundwater.
-IV. Landfills' peripheral and base facilities shall be constructed of concrete with a uniaxial compressive strength of 245cm or other materials possessing the same grade of sealing ability.
-V. A landfill area exceeding 50cm or other materials possessing the same grade of sealing ability.
+IV. Landfills' peripheral and base facilities shall be constructed of concrete with a uniaxial compressive strength of 245 kilograms per square centimeter or other materials possessing the same grade of sealing ability.
+V. A landfill area exceeding 50 square meters or other materials possessing the same grade of sealing ability.
 VI. Anti-corrosion and anti-leak measures shall be taken on the basis of the hazardous industrial waste type and characteristics and landfill soil characteristics.
-VII. A landfill's bottom layer shall have a water permeability coefficient of less than 10-7 centimeter/second and be compatible with the waste material and leachate thereof, have a foundation comprised of sandy or argillaceous clay or other equivalent material 60 centimeters thick, and impermeable material with a water permeability coefficient of less than 10-10 centimeters/second that is compatible with the waste material and leachate thereof and 0.2 centimenters or more in thickness as a landfill liner.
+VII. A landfill's bottom layer shall have a water permeability coefficient of less than 10-7 centimeters/second and be compatible with the waste material and leachate thereof, have a foundation comprised of sandy or argillaceous clay or other equivalent material 60 centimeters thick, and impermeable material with a water permeability coefficient of less than 10-10 centimeters/second that is compatible with the waste material and leachate thereof and 0.2 centimenters or more in thickness as a landfill liner.
 VIII. There shall be facilities to collect and treat leachate.
-IX. Other items officially announced by the central competent authority. 
-Sealed landfills that establish the following three contiguous layered facilities shall not be subject to the restrictions of Subparagraphs 4, 5, and 7 of the foregoing paragraph: 
-I. A landfill's bottom layer and peripheral facilities shall be comprised of a layer of clay 90 centimeters thick and with a water permeability coefficient of less than 10-7 centimeters/second, which is then covered with a double layer of artificial impermeable material 0.076 centimeters or more in thickness.
+IX. Other items officially announced by the central competent authority.
+Sealed landfills that establish the following three contiguous layered facilities shall not be subject to the restrictions of Subparagraphs 4, 5, and 7 of the foregoing paragraph:
+I. A landfill's bottom layer and peripheral facilities shall be comprised of a layer of clay 90 centimeters thick and with a water permeability coefficient of less than
+10-7 centimeters/second, which is then covered with a double layer of artificial impermeable material 0.076 centimeters or more in thickness.
 II. The middle layer shall be covered with fine sand, crushed stone or other materials of equivalent grade with a water permeability coefficient of 10-2 centimeters/second and thickness of 30 centimeters or more and have installed leachate detection and collection equipment and then covered with a layer of clay with a water permeability coefficient of less than 10-7 centimeters/second and 30 centimeters in thickness.
 III. The upper layer shall be covered with fine sand, gravel, or other materials of equivalent grade with a water permeability coefficient of less than 10-2 centimeters/second and thickness of 30 centimeters or more and have installed leachate detection and collection equipment and then covered with a 30- centimeter layer of sandy or argillaceous clay.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[Sealed landfills whose use has ended shall be first covered with a 15-centimer layer of sandy or argillaceous clay. They shall then be covered with an artificial impermeable material with a water impermeability coefficient of less than 10-10 centimeters/second and 0.2 centimeters or more in thickness and again covered with a layer of sandy or argillaceous clay 60 centimeters or more thick, which is then compressed.
-Landfills in the foregoing paragraph may not be used as construction sites or other working areas.]]></條文內容>
+    <條文內容><![CDATA[The earth cover and monitoring of sealed landfills shall comply with the following requirements:
+I. Landfills whose use has ended shall be first covered with a 15-centimer layer of sandy or argillaceous clay. They shall then be covered with an artificial impermeable material with a water impermeability coefficient of less than 10-10 centimeters/second and 0.2 centimeters or more in thickness and again covered with a layer of sandy or argillaceous clay 60 centimeters or more in thickness, which is then compressed.
+II.The water quality in the groundwater monitoring wells at the upper and lower courses shall be examined quarterly, with examination items covering arsenic, cadmium, chromium, copper, lead, mercury, nickel, and zinc.
+When the monitoring results of Subparagraph 2 in the foregoing paragraph are below the groundwater pollution control standards but reach the groundwater pollution monitoring standards, the entity shall propose the countermeasures within one month after receiving the monitoring results and implement such countermeasures after acquiring the approval of the competent authorities of permit issuance or the competent authorities of targeted business.
+Closed landfills shall not be used as construction sites or other working areas.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 40</條號>
@@ -357,14 +367,57 @@ Landfills in the foregoing paragraph may not be used as construction sites or ot
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[When solidified matter resulting from solidification is disposed of by sanitary landfilling, such matter shall have a uniaxial compressive strength of at least 10cm2.
+    <條文內容><![CDATA[When solidified matter resulting from solidification is disposed of by sanitary landfilling, such matter shall have a uniaxial compressive strength of at least 10 kilograms per square centimeter.
 When hazardous industrial waste is treated by solidification, stabilization or other treatment methods officially announced by the central competent authority, it shall be disposed of by sealed landfilling or sanitary landfilling. Sanitary landfilling shall shall comply with the Toxicity Characteristic Leaching Procedure (TCLP) Leaching Standards in Table 4 of the Standards for Defining Hazardous Industrial Waste in addition to the requirements of Article 37 and shall also be subject to independent landfill management by area.
 An application shall be made pursuant to relevant reuse regulations if the waste in the two foregoing paragraphs is to be reused.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41-1</條號>
+    <條文內容><![CDATA[After closing (shutting down) a landfill, proceed with restoration with respect to the post-closure restoration plan in the approval document.
+The contents of the said post-closure restoration plan shall include:
+I.Basic information:
+A. The name; type; opening and closing dates; the filling area and depth; types and quantity list of filled waste of the landfill.
+B. The ownership deed, cadastral data, and land catalog of the landfill.
+C. The fundamental structure of the landfill, including at least the layout, elevation, sectional drawings, and structural drawings.
+II.Restoration items after landfill closure:
+A. Final cover.
+B. Drainage works.
+C. Vegetation restoration.
+III.Periodic tour inspection and facility maintenance planning.
+IV.Categories, items, methods, and frequencies of environmental monitoring.
+V.Emergency response plan.
+After measuring the landfill's management needs, the competent authorities of permit issuance or the competent authorities of targeted business may adjust the contents of the post-closure restoration plan regardless of the said limitations.
+With respect to Paragraph 1, the competent authorities of permit issuance or the competent authorities of targeted business may request the landfill constructor to review the post-closure restoration plan where necessary. After the transfer of landfill operations, the transferee shall review the plan.
+Within one year after the next day of the completion of the final disposal of the last batch of waste, the landfill shall complete the post-closure restoration according to the approved plan. Where an extension is required, the landfill shall apply for an extension, for one time only, within two months before plan expiration. The maximum length of extension shall be one year.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41-2</條號>
+    <條文內容><![CDATA[The categories of environmental monitoring of a landfill’s closure restoration plan shall cover water quality in the groundwater monitoring wells at the upper and lower courses, with examination items covering arsenic, cadmium, chromium copper, lead, mercury, nickel, and zinc. The examination shall be conducted once every half a year.
+When the monitoring results of the foregoing paragraph are below the groundwater pollution control standards but reach the groundwater pollution monitoring standards, the entity shall propose the countermeasures within one month after receiving the monitoring results and implement such countermeasures after acquiring the approval of the competent authorities of permit issuance or the competent authorities of the targeted business.
+The post-closure environmental monitoring stated in Paragraph 1 shall be implemented for at least 7 years. If the results of the continuous monitoring in the last two years comply with the following requirements, the landfill may terminate environmental monitoring with the approval of the competent authorities of permit issuance or the competent authorities of the targeted business:
+I. The intensity of pollutants diffused from the untreated leachate of the landfill is below the effluent standard, except when no leachate is detected as confirmed by the competent authorities of permit issuance or the competent authorities of the targeted business.
+II. The intensity of arsenic, cadmium, chromium, copper, lead, mercury, nickel, and zinc in the groundwater is below the groundwater pollution monitoring standard.
+III. Other matters specified by the competent authorities of permit issuance or the competent authorities of targeted business.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41-3</條號>
+    <條文內容><![CDATA[When applying for building a landfill for disposing or treatment of industrial waste after the implementation of the amendment to these Standards on February 22, 2021, entities shall also submit a post-closure restoration plan to apply for approval to the competent authorities of permit issuance or the competent authorities of the targeted business.
+Landfills not closed before the implementation of the amendment to these Standards on February 22, 2021 shall submit a post-closure restoration plan within one year after the implementation of the amendment to these Standards on February 22, 2021 to apply for approval to the competent authorities of permit issuance or the competent authorities of the targeted business.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41-4</條號>
+    <條文內容><![CDATA[For landfills already closed before the implementation of the amendment to these Standards on February 22, 2021, when the results of environmental monitoring are below the groundwater pollution control standards but reach the groundwater pollution monitoring standards as confirmed by the competent authorities, the entity shall propose the countermeasures within one month after receiving the monitoring results and implement such countermeasures after acquiring the approval of the competent authorities of permit issuance or the competent authorities of the targeted business.
+After completing improvements as per the countermeasures stated in the preceding paragraph, the entity shall submit related documents of proof to apply for approval to the original competent authorities of permit issuance or the competent authorities of the targeted business.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41-5</條號>
+    <條文內容><![CDATA[Records shall be maintained for the status of monitoring stated in Article 35, Paragraph 1, Subparagraph 2; Article 39, Paragraph 1, Subparagraph 2; and Article 41-2, Paragraph 1, and retained for a term of five years. In addition, entities shall register the environmental monitoring results on the government website by the end of the following month.
+The competent authorities of permit issuance or the competent authorities of the targeted business may disclose the environmental monitoring results in the preceding paragraph.]]></條文內容>
   </條文>
   <編章節>   Chapter 6 Supplementary Provisions</編章節>
   <條文>
     <條號>Article 42</條號>
-    <條文內容><![CDATA[An enterprise that can use disposal methods other than those designated in these Standards to dispose of industrial waste produced by the enterprise or accepted under commission and achieve better detoxification, compaction or volume reduction results shall submit the following documents to the local competent authority of the disposal facility抯 place of business in application to do so; the local competent authority may approve the application and forward it to the central competent authority for approval; when approved, such enterprises shall not be subject to the disposal method restrictions of Article 19 to 21:
+    <條文內容><![CDATA[An enterprise that can use disposal methods other than those designated in these Standards to dispose of industrial waste produced by the enterprise or accepted under commission and achieve better detoxification, compaction or volume reduction results shall submit the following documents to the local competent authority of the disposal facility place of business in application to do so; the local competent authority may approve the application and forward it to the central competent authority for approval; when approved, such enterprises shall not be subject to the disposal method restrictions of Article 19 to 21:
 I. Waste characteristics, composition, and constituent analysis.
 II. Disposal methods, principles, and processes.
 III. Explanation of major equipment and its functions.
@@ -382,8 +435,7 @@ If the commissioned clearance and disposal organizations in the first paragraph 
   </條文>
   <條文>
     <條號>Article 44</條號>
-    <條文內容><![CDATA[An enterprise established prior to the revision and enforcement of these Standards shall complete improvements pursuant to revised regulations of these Standards within one year after the revision, enforcement and promulgation of these Standards.
-Enterprises shall be exempt from penalties during the improvement period in the foregoing paragraph.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 45</條號>

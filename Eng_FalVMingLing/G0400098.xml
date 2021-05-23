@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Centralized Securities Depository Enterprises</英文法規名稱>
 <中文法規名稱>證券集中保管事業管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400098</法規網址>
-<最新英文異動日期>20120814</最新英文異動日期>
+<最新英文異動日期>20200115</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -12,7 +12,7 @@
 4. Articles 9, 10, 17, 19, and 21 amended and issued 14 June 2006 per Order No. Financial-Supervisory-Securities-IV-0950002777 of the Financial Supervisory Commission, Executive Yuan
 5. Article 20 amended and issued per 4 January 2012 Order No. Financial-Supervisory-Securities-SITC-1000064257 of the Financial Supervisory Commission, Executive Yuan
 6. Articles 3, 4, and 18 amended and issued per 14 August 2012 Order No. Financial-Supervisory-Securities-SITC-1010036110 of the Financial Supervisory Commission
-]]></沿革內容>
+7. Articles 2 and 3 amended and issued per 15 January 2020 Order No. Financial-Supervisory-Securities-Firms-1080362060 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -23,14 +23,13 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[The term "centralized securities depository enterprise" (hereinafter, "CSDE") under these Regulations means an enterprise engaged in the business of providing securities custody, book-entry transfer, and registration of book-entry securities.
-The term "participant" under these Regulations means a person opening an account with the CSDE for deposit of securities and book-entry settlement.
-]]></條文內容>
+A securities firm conducting the business of providing transfer and custody of security tokens (virtual currencies that have the nature of securities) with the approval of the Financial Supervisory Commission (FSC) in accordance with the proviso of Article 45, paragraph 1 of the Act shall not be deemed a CSDE under the preceding paragraph.
+The term "participant" under these Regulations means a person opening an account with a CSDE for deposit of securities and book-entry settlement.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The engagement in the business of a CSDE shall be subject to the approval of the Financial Supervisory Commission (FSC).
-Only one CSDE shall be established for each stock exchange.
-]]></條文內容>
+    <條文內容><![CDATA[The engagement in the business of a CSDE shall be subject to the approval of the FSC.
+Only one CSDE shall be established for each stock exchange.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>

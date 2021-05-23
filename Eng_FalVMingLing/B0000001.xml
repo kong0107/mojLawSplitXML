@@ -3,7 +3,7 @@
 <英文法規名稱>Civil Code</英文法規名稱>
 <中文法規名稱>民法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=B0000001</法規網址>
-<最新英文異動日期>20190619</最新英文異動日期>
+<最新英文異動日期>20210120</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -14,6 +14,7 @@ As Amended on January 4, 1982 and effective on January 1, 1983
 Amended on May 23,2008
 Amended on June 10, 2015
 Amended on June 19,2019
+Amended on January 13,2021
 
 PART Ⅱ Obligations
 Promulgated on November 22, 1929
@@ -22,6 +23,7 @@ Amended on April 21, 1999
 As amended on April 26, 2000
 Amended on December 30, 2009
 As amended on May 26, 2010
+Amended on January 20,2021
 
 PART Ⅲ Rights In Rem
 Promulgated on November 30, 1929
@@ -55,6 +57,8 @@ Amended on January 29, 2014
 Amended on January 14, 2015
 Amended on April 24, 2019
 Amended on June 19,2019
+Amended on January 13,2021
+Amended on January 20,2021
 
 PART Ⅴ Succession
 Promulgated on December 26, 1930
@@ -122,21 +126,19 @@ In the absence of proof to the contrary, the time of death specified in the prec
   </條文>
   <條文>
     <條號>Article 12</條號>
-    <條文內容><![CDATA[Majority is attained upon reaching the twentieth year of age.]]></條文內容>
+    <條文內容><![CDATA[Majority is attained upon reaching the eighteenth year of age.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
     <條文內容><![CDATA[The minor, who has not reached their seventh year of age, has no capacity to make juridical acts.
-The minor, who is over seven years of age, has a limited capacity to make juridical acts.
-The married minor has the capacity to make juridical acts.]]></條文內容>
+The minor, who is over seven years of age, has a limited capacity to make juridical acts.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[With respect to any person who is not able to make declaration of intention, receive declaration of intention, or who lacks the ability to discern the outcome of the declaration of intention due to mental disability, the court may order the commencement of guardianship at the request of the person in question, his/her spouse, any relative within the fourth degree of kinship, a prosecutor, a competent authority, an organization of social welfare, an assistant, an agent of adult guardianship by agreement or any other interested person.
 When the cause of guardianship ceases to exist, the court must revoke the order of the commencement of guardianship at the request of the applicant set forth in previous paragraph.
 The court may order the commencement of assistantship, based on paragraph 1 of Article 15-1, if application of commencement of guardianship does not meet the requirement enforced in paragraph 1 of this Article.
-If the cause of guardianship ceases to exist, yet assistantship is necessary, the court, based on paragraph 1 of Article 15, may order the commencement of assistantship to replace the commencement of guardianship.
-Section 3 Adult Guardianship by agreement]]></條文內容>
+If the cause of guardianship ceases to exist, yet assistantship is necessary, the court, based on paragraph 1 of Article 15, may order the commencement of assistantship to replace the commencement of guardianship.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
@@ -1138,7 +1140,7 @@ The right of discharge specified in the preceding paragraph shall not be exclude
   </條文>
   <條文>
     <條號>Article 205</條號>
-    <條文內容><![CDATA[If the agreed rate of interest exceeds twenty percent (20%) per annum, the creditor shall not be entitled to claim any interest over twenty percent (20%).]]></條文內容>
+    <條文內容><![CDATA[If the agreed rate of interest exceeds sixteen percent (16%) per annum, the exceeded part of the agreement is invalid.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 206</條號>
@@ -5519,7 +5521,7 @@ The collateral relative by blood is the nonlineal relative of a person who is de
   </條文>
   <條文>
     <條號>Article 973</條號>
-    <條文內容><![CDATA[A male who has not reached his seventeenth year of age and a female her fifteenth [ma]y not make an agreement to marry.]]></條文內容>
+    <條文內容><![CDATA[A male or female who has not reached his or her seventeenth year of age may not make an agreement to marry.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 974</條號>
@@ -5567,11 +5569,11 @@ The claim in the preceding paragraph shall not be assigned to others or be passe
   <編章節>      Section 2  Conclusion of Marriage</編章節>
   <條文>
     <條號>Article 980</條號>
-    <條文內容><![CDATA[A man who has not completed his eighteenth year of age and a woman her sixteenth may not conclude a marriage.]]></條文內容>
+    <條文內容><![CDATA[A male or female who has not reached his or her eighteenth year of age may not conclude a marriage.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 981</條號>
-    <條文內容><![CDATA[A minor must have the consent of his statutory agent for concluding a marriage.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 982</條號>
@@ -5625,7 +5627,7 @@ The claim provided in the preceding paragraph shall not be assigned to others or
   </條文>
   <條文>
     <條號>Article 990</條號>
-    <條文內容><![CDATA[Where a marriage is concluded contrary to the provision of Article 981, the statutory agent may apply to the court for its annulment; but such application may not be made where six months have elapsed after the discovery of the fact or one year has elapsed after the conclusion of the marriage, or where the woman has become pregnant.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 991</條號>
@@ -5837,11 +5839,13 @@ When the husband or the wife discharges the other's debts with his or her own pr
   </條文>
   <條文>
     <條號>Article 1030-1</條號>
-    <條文內容><![CDATA[Upon dissolution of the statutory marital property regime,  the remainder of the property acquired by the husband or wife in marriage, after deducting the debts incurred during the continuance of the marriage relationship, if any, shall be equally distributed to the husband and the wife, except property listed as follows:
-(1) Property acquired from succession or as a gift
-(2) Solatium
-The court shall adjust or waive the share of distribution provided that equal distribution referred to in the preceding paragraph is obviously unfair.
-The right to claim for distribution or the reminder [of the property] referred to in the first paragraph shall be extinguished if it is not exercised within two years from the time where the claimant has known that there is such a remainder, or if five years have elapsed from the dissolution of the statutory marital property regime.]]></條文內容>
+    <條文內容><![CDATA[Upon dissolution of the statutory marital property regime, the remainder of the property acquired by the husband or wife in marriage, after deducting the debts incurred during the continuance of the marriage relationship, if any, shall be equally distributed to the husband and the wife, except property listed as follows:
+(1) Property acquired from succession or as a gift;
+(2) Solatium.
+The court may adjust or waive the share of distribution provided that equal distribution is unfair when one party of the husband and the wife offers no contribution nor collaboration to the marital life or when other conditions are met.
+When making the decision of the preceding paragraph, the court shall consider synthetically the factors such as household labor, caring and nurturing of the child, the collaboration of contribution to the family, the length of time of living together or separately, the time of receiving the property acquired in marriage or each party’s economic ability.
+The claim in the first paragraph shall not be assigned to others or be passed to heirs, unless it has been acknowledged by a contract or unless a legal action has been commenced.
+The right to claim for distribution of the remainder of the property in the first paragraph shall be extinguished if not exercised within two years from the time where the claimant has known that there is such a remainder; or if five years have elapsed since the dissolution of the statutory marital property regime.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 1030-2</條號>
@@ -5956,7 +5960,7 @@ The provisions in Article 1034, Article 1038 and Article 1040 shall be applicabl
   <編章節>      Section 5 Divorce</編章節>
   <條文>
     <條號>Article 1049</條號>
-    <條文內容><![CDATA[The husband and the wife may effect a divorce by themselves with their mutual consent; but in the case of a minor, the consent of his or her statutory agent must be obtained.]]></條文內容>
+    <條文內容><![CDATA[The husband and the wife may effect a divorce by themselves with their mutual consent.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 1050</條號>
@@ -6004,7 +6008,7 @@ The court may decide the way and period of meeting or communication with the min
   <條文>
     <條號>Article 1055-1</條號>
     <條文內容><![CDATA[When the court makes the jurisdiction in the Article of 1055, it should be decide in accordance with the best interests of the minor child, consider all the conditions and the visiting reports of the social workers, especially check the following contents:
-(1) The age, sex, numbers and healthy condition of the minor child.
+(1) The age, gender, numbers and healthy condition of the minor child.
 (2) The willing of the minor child and the need of personality development.
 (3) The age, occupation, character, health condition, economical ability and the life style of the parents.
 (4) The parent's willing and attitude of protecting and educating the minor child.
@@ -6157,9 +6161,9 @@ The parents of the child to be adopted who have made and accepted the declaratio
   <條文>
     <條號>Article 1077</條號>
     <條文內容><![CDATA[The relationship between an adopted child and his adoptive parents and their relatives is the same as that between a legitimate child with his parents, unless otherwise provided by law.
-The rights and duties between an adopted child and his/her natural parents and their relatives is suspended during the period of adoption, except where one party of the husband and the wife adopts the other party’s child, the other party’s rights and duties to the child is not affected by the adoption.
-After adopting the child, if the adopter marries the adoptee’s natural father or mother, the adoptive child resumes his/her rights and duties to natural parents; except the right obtained by the third party is not affected.
-Where the adoptive child has lineal relatives by blood at the time of adoption, the effect of the adoption is limited to his/her minor and non-married lineal relatives by blood; except where before the adoption, the adult or married lineal relatives by blood consents.
+The rights and duties between an adopted child and his or her natural parents and their relatives is suspended during the period of adoption, except where one party of the husband and the wife adopts the other party’s child, the other party’s rights and duties to the child is not affected by the adoption.
+After adopting the child, if the adopter marries the adoptee’s natural father or mother, the adoptive child resumes his or her rights and duties to natural parents; except the right obtained by the third party is not affected.
+Where the adopted child has lineal relatives by blood at the time of adoption, the effect of the adoption is limited to his or her minor lineal relatives by blood; except where before the adoption, the adult lineal relatives by blood consents.
 Consent provided by the preceding paragraph applies mutatis mutandis to the second and third paragraphs of Article 1076-1.]]></條文內容>
   </條文>
   <條文>
@@ -6290,7 +6294,7 @@ Before the decision of the preceding paragraph, the court shall give the minor c
   <編章節>      Section 1 Guardianship over Minors</編章節>
   <條文>
     <條號>Article 1091</條號>
-    <條文內容><![CDATA[A guardian shall be appointed for a minor when he has no parent or when both the parents can not exercise the rights nor assume the duties in regard to the minor child. But this does not apply where the minor has been married.]]></條文內容>
+    <條文內容><![CDATA[A guardian shall be appointed for a minor when he or she has no parent or when both the parents cannot exercise the rights nor assume the duties in regard to the minor child.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 1092</條號>
@@ -6316,7 +6320,7 @@ In the absence of the guardian provided in the first paragraph, and before the a
   <條文>
     <條號>Article 1094-1</條號>
     <條文內容><![CDATA[When electing or changing guardians, for the best interest of the ward, the court shall take everything into consideration; the following things shall be paid attention to
-(1) the ward’s age, sex, willingness, health, and the need of developing the ward’s personality.
+(1) the ward’s age, gender, willingness, health, and the need of developing the ward’s personality.
 (2) the guardian’s age, employment, personality, willingness, attitude, health, finance, and criminal records.
 (3) relations between the guardian and the ward or relations between the ward and others living in the same household.
 (4) when a juristic person is the guardian, the category and content of its business; and relations between the juristic person and its representative and the ward.]]></條文內容>
@@ -6606,11 +6610,11 @@ Persons who are not relatives but who live in the same household with the object
   </條文>
   <條文>
     <條號>Article 1127</條號>
-    <條文內容><![CDATA[A member of a house who has reached majority, or, though a minor, has been married, may demand to be separated from the house.]]></條文內容>
+    <條文內容><![CDATA[A member of a house who has reached majority may demand to be separated from the house.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 1128</條號>
-    <條文內容><![CDATA[The head of a house may order a member of the house who has reached majority or though a minor, has been married to be separated from the house, provided that he has a good cause for doing so.]]></條文內容>
+    <條文內容><![CDATA[The head of a house may order a member of the house who has reached majority to be separated from the house, provided that he or she has a good cause for doing so.]]></條文內容>
   </條文>
   <編章節>   CHAPTER VII Family Council</編章節>
   <條文>

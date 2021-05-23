@@ -19,8 +19,7 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[These Regulations make use of the following defined terms:
-1.“Assurance” means a basis that the trusted entity has complied with 
-certain security requirements.
+1.“Assurance” means a basis that the trusted entity has complied with certain security requirements.
 2.“Assurance level” means a certain level in a relative assurance tier.
 3.“Certificate policy (CP)” means a named set of rules that indicates the applicability of a certificate to a particular community or class of application with common security requirements.
 4.“Object identifier (OID)” means a unique alphanumeric/numeric identifier registered under the International Standard Organization registration standard, and which could be used to identify the uniquely corresponding CP; where the CP is modified, the OID is not changed accordingly.

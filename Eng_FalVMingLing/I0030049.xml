@@ -3,12 +3,13 @@
 <英文法規名稱>Regulations on Anti-Money Laundering &amp; Countering the Financing of Terrorism Operations Matters Conducted by Attorneys</英文法規名稱>
 <中文法規名稱>律師辦理防制洗錢及打擊資恐作業辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0030049</法規網址>
-<最新英文異動日期>20181109</最新英文異動日期>
+<最新英文異動日期>20200424</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1.Promulgation Date: June 27th, 2017
-2.Amended on November 9, 2018 by the Order No.10704535550 of Ministry of Justice.]]></沿革內容>
+<沿革內容><![CDATA[1. Promulgation Date: June 27th, 2017
+2. Amended on November 9, 2018 by the Order No.10704535550 of Ministry of Justice.
+3. Amended Article 2 on April 24, 2020 by the Order No.10904511840 of Ministry of Justice.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -18,7 +19,7 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[The terms used in these Regulations are defined as follows:
-1. Attorney: refers to the practicing attorney as defined under Article 11 and Article 21 of the Attorney Regulation Act and the foreign attorney as defined under Paragraph 2 of Article 47-1 of the same Act.
+1. Attorney: refers to the practicing attorney as defined under Article 19 of the Attorney Regulation Act and the foreign attorney as defined under Paragraph 2 of Article 114 of the same Act.
 2. High-risk country or territory: refers to a country or territory listed in the Paragraph 2 of Article 11 of the Act.
 3. Beneficial owner: refers to an individual natural person who exercises ultimate effective control over a legal person or agreement, or who directly or indirectly holds more than 25 % of shares of capitals of such legal person.]]></條文內容>
   </條文>
@@ -35,8 +36,7 @@ Anyone who is assessed as high-risk shall obtain the consent of the leading atto
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[When an attorney and the client establish the attorney-client relationship, the
-ranges of CDD are as follows:
+    <條文內容><![CDATA[When an attorney and the client establish the attorney-client relationship, the ranges of CDD are as follows:
 1. If the client is a natural person: name, birth date, gender, ID certificate number, occupation, nationality, address of residence and contact information.
 2. If the client is a legal person:
 (1) Name, registered address, registered country, contact information and business matters. However, if the business matters cannot be obtained according to the local law, it shall not be limited by these Regulation
@@ -57,8 +57,7 @@ If the client has any of the following circumstances, or his/her identity can be
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[The methods which shall be used by attorney to verify the client’s identity are
-as follows:
+    <條文內容><![CDATA[The methods which shall be used by attorney to verify the client’s identity are as follows:
 1. If the client is a natural person, the attorney shall review the ID card, health insurance card, alien resident certificate (ARC), passport or any other original documents that can prove the client’s identity. However, if the original document cannot be verified, the attorney shall verify the identity according to other reasonable facts or methods.
 2. If the client is a legal person, the attorney shall acquire the following information to understand the nature of its business and the structure of control rights
 (1) Proof of establishment or registration, client office, and business place.
@@ -110,12 +109,7 @@ The documentations under the preceding paragraphs refer to information and trans
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[If there is an objective to indicate that the client has any of the circumstances
-under the preceding paragraph, the attorney shall report the following matters
-in writing to the Investigation Bureau of the Ministry of Justice by mail, fax,
-e-mail or other methods in accordance with the format designed by the
-Investigation Bureau of the Ministry of Justice within five working days after
-finding out such fact.
+    <條文內容><![CDATA[If there is an objective to indicate that the client has any of the circumstances under the preceding paragraph, the attorney shall report the following matters in writing to the Investigation Bureau of the Ministry of Justice by mail, fax, e-mail or other methods in accordance with the format designed by the Investigation Bureau of the Ministry of Justice within five working days after finding out such fact.
 1. The following basic information of the client; if the retainer is made by client’s representative, the following basic information of the representative shall be included:
 (1) If the client is a natural person: name, date of birth, gender, identity certificate number, occupation, nationality, address of residence and contact information.
 (2) If the client is a legal person: name, enrolled or registered date and its approval number, contact information and address of responsible person or manager.

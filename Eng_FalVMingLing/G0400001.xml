@@ -3,7 +3,7 @@
 <英文法規名稱>Securities and Exchange Act</英文法規名稱>
 <中文法規名稱>證券交易法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400001</法規網址>
-<最新英文異動日期>20190621</最新英文異動日期>
+<最新英文異動日期>20210127</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -34,7 +34,9 @@
 24. Articles 14-2 and 178 amended and promulgated per 25 April 2018 Presidential Order No. Hua-Zong-I-Yi-10700042151
 25. Article 14 amended and promulgated per 5 December 2018 Presidential Order No. Hua-Zong-I-Jing-10700130991
 26. Articles 14-5, 28-2, 39, 43-1, 65, 66, 165-1, 177-1, 178, and 179 amended and promulgated and Article 178-1 added per 17 April 2019 Presidential Order Hua-Zong-I-Jing-10800037881
-27. Articles 14-5 and 36 amended and promulgated per 21 June 2019 Presidential Order Hua-Zong-I-Jing-10800063491]]></沿革內容>
+27. Articles 14-5 and 36 amended and promulgated per 21 June 2019 Presidential Order Hua-Zong-I-Jing-10800063491
+28. Article 14 amended and promulgated per 19 May 2020 Presidential Order Hua-Zong-I-Jing-10900053581
+29. Article 54 amended and promulgated per 27 January 2021 Presidential Order No. Hua-Zong-I-Jing-11000006091]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -114,7 +116,7 @@ The term "financial reports" as used in this Act means the financial reports pre
 Regulations governing the preparation of financial reports with respect to the content, scope, procedures, preparation, and other matters to be complied with for the financial reports referred to in the preceding paragraph shall be prescribed by the Competent Authority, and Chapters IV, VI, and VII of the Business Entity Accounting Act shall not apply to those financial reports.
 The financial reports referred to in paragraph 1 shall be signed or stamped with the seal of the chairperson, managerial officer, and accounting officer, who shall also produce a declaration that the report contains no misrepresentations or nondisclosures.
 The accounting officer referred to in the preceding paragraph shall possess certain qualifications and shall receive continuing professional education while holding the position. Regulations governing the qualifications of an accounting officer, the minimum hours of continuing education required, and the qualifications required of the institution offering the continuing education curriculum shall be prescribed by the Competent Authority.
-When a company whose stock is listed for trading on the stock exchange or over-the-counter securities exchange prepares its annual financial report in accordance with paragraph 2, it shall additionally disclose relevant information, including the average salary of all the company's employees and any adjustments thereto, in accordance with the regulations prescribed by the competent authority.]]></條文內容>
+When a company whose stock is listed for trading on the stock exchange or over-the-counter securities exchange prepares its annual financial report in accordance with paragraph 2, it shall additionally disclose relevant information, including the company's remuneration policy, the average salary of all the company's employees and any adjustments thereto, and the remuneration of the directors and supervisors, in accordance with the regulations prescribed by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14-1</條號>
@@ -169,7 +171,7 @@ For a company that has issued stock in accordance with this Act and established 
 3. Adoption or amendment, pursuant to Article 36-1, of handling procedures for financial or operational actions of material significance, such as acquisition or disposal of assets, derivatives trading, extension of monetary loans to others, or endorsements or guarantees for others.
 4. A matter bearing on the personal interest of a director.
 5. A material asset or derivatives transaction.
-6 A material monetary loan, endorsement, or provision of guarantee.
+6. A material monetary loan, endorsement, or provision of guarantee.
 7. The offering, issuance, or private placement of any equity-type securities.
 8. The hiring or dismissal of an attesting CPA, or the compensation given thereto.
 9. The appointment or discharge of a financial, accounting, or internal auditing officer.
@@ -257,7 +259,7 @@ The rights to claim damages prescribed in this Act shall be extinguished if not 
   </條文>
   <條文>
     <條號>Article 21-1</條號>
-    <條文內容><![CDATA[(Signing of Treaties or Agreements for International Cooperation)
+    <條文內容><![CDATA[(Signing of Treaties or Agreements for International Cooperation )
 In order to further international cooperation between the competent securities authorities of the ROC government and foreign countries, the ROC government and agencies (or institutions) authorized by it may, based on the principle of reciprocity, enter into a cooperative treaty or agreement with a foreign government or agency (institution), or with an international organization, to facilitate matters such as information exchange, technical cooperation, and investigation assistance.
 Unless such action otherwise conflicts with the interests of the state or the rights or interests of the investing public, the Competent Authority may, in accordance with the treaty or agreement made pursuant to the preceding paragraph, require related authorities or related agencies (institutions), juristic persons, associations, or natural persons to provide necessary information in accordance with the treaty or agreement, and based on the principles of reciprocity and confidentiality, provide such information to the foreign government, agency (institution), or international organization which has executed the given treaty or agreement.
 In order to further international cooperation in securities markets, in cases in which a foreign government has undertaken investigation, prosecution, or judicial procedure in connection with any suspected violation of foreign financial regulatory legislation, when the foreign government requests assistance with investigation in accordance with the treaty or agreement made pursuant to paragraph 1, the Competent Authority may require agencies (institutions), juristic persons, associations, or natural persons related to the securities trading to present relevant account books or documents or to appear at its offices to give explanations. When necessary, the Competent Authority may request the foreign government to send representatives to participate in its investigations.
@@ -470,7 +472,7 @@ Depending upon the seriousness of mistake or omission committed by a certified p
 1. warning.
 2. suspension from practicing any attestation under this Act for a period of two years.
 3. voidance of his/her attestation permission.
-4. The financial reports referred to in paragraph 1 of Article 36 shall be placed at the company's office and branch units for the inspection or copying by the shareholders and creditors.]]></條文內容>
+The financial reports referred to in paragraph 1 of Article 36 shall be placed at the company's office and branch units for the inspection or copying by the shareholders and creditors.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38</條號>
@@ -537,7 +539,7 @@ A public tender offeror shall adopt uniform purchase conditions in the public te
 2. Lower the proposed number of securities to be purchased through the public tender offer.
 3. Shorten the public tender offer period.
 4. Other particulars as prescribed by the Competent Authority.
-A public tender offeror that violates the requirement of uniform purchase conditions set forth in the preceding paragraph shall be liable for damages to the tenderer up to the amount of the difference between the highest price paid under the public tender offer and the price paid to thetenderer, multiplied by the number of shares subscribed.]]></條文內容>
+A public tender offeror that violates the requirement of uniform purchase conditions set forth in the preceding paragraph shall be liable for damages to the tenderer up to the amount of the difference between the highest price paid under the public tender offer and the price paid to the tenderer, multiplied by the number of shares subscribed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 43-3</條號>
@@ -675,13 +677,12 @@ No person who falls within any of the following categories shall serve as the di
   <條文>
     <條號>Article 54</條號>
     <條文內容><![CDATA[(Disqualifications of Associated Persons)
-Associated persons employed by securities firms whose duties relate to the securities business shall be twenty years of age or over and possess the qualifications required by relevant acts and regulations, and shall not fall within one of the following categories:
+Associated persons employed by securities firms whose duties relate to the securities business shall have reached the age of majority and possess the qualifications required by relevant acts and regulations, and shall not fall within one of the following categories:
 1. Having been adjudged bankrupt and not reinstated, or having been declared by a court to be under guardianship or assistance and that declaration has not been voided.
 2. Concurrently holding a position with another securities firm, provided that this restriction shall not apply when there is an investment relationship and the Competent Authority has granted approval allowing concurrent holding of the position of director or supervisor at the invested securities firm.
-3. (Deleted)
-4. Having been sentenced to a criminal penalty of severity equal to or greater than a term of imprisonment for fraud, breach of trust, or violation of laws governing business and industry, and three years have not elapsed since the date of completion of the sentence execution, the expiration of suspension of sentence, or the pardon of such punishment.
-5. Falling under any of the situations specified in either subparagraphs 2 through 4 or subparagraph 6 of the preceding Article.
-6. Having violated orders issued by the competent Authority in accordance with this Act.
+3. Having been sentenced to a criminal penalty of severity equal to or greater than a term of imprisonment for fraud, breach of trust, or violation of laws governing business and industry, and three years have not elapsed since the date of completion of the sentence execution, the expiration of suspension of sentence, or the pardon of such punishment.
+4. Falling under any of the situations specified in either subparagraphs 2 through 4 or subparagraph 6 of the preceding Article.
+5. Having violated orders issued by the competent Authority in accordance with this Act.
 The job title of the associated persons referred to in the preceding paragraph shall be prescribed by the Competent Authority.]]></條文內容>
   </條文>
   <條文>

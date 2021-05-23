@@ -3,19 +3,20 @@
 <英文法規名稱>Regulations Governing the Implementation of Filing Trademark Applications and Services by Electronic Means</英文法規名稱>
 <中文法規名稱>商標電子申請及電子送達實施辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0070038</法規網址>
-<最新英文異動日期>20150713</最新英文異動日期>
+<最新英文異動日期>20200609</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Enacted and Promulgated on May 9, 2008 by the Ministry of Economic Affairs
 2.Amended and Promulgated on June 29, 2012 by the Ministry of Economic Affairs
 3.Amended and Promulgated on December 6, 2013 by the Ministry of Economic Affairs
-4.Amended and Promulgated on July 13, 2015 by the Ministry of Economic Affairs]]></沿革內容>
+4.Amended and Promulgated on July 13, 2015 by the Ministry of Economic Affairs
+5.Amended and Promulgated on June 9, 2020 by the Ministry of Economic Affairs]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are formulated pursuant to Article 13 of the Trademark Act (hereinafter referred to as "the Act").]]></條文內容>
+    <條文內容><![CDATA[These Regulations are formulated pursuant to Article 13 of the Trademark Act (hereinafter referred to as “the Act”).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
@@ -28,10 +29,10 @@
 6. electronic certificate: a valid electronic attestation issued by a certification service provider qualified pursuant to the Electronic Signatures Act.
 7. digital signature: the digital signature as prescribed under the Electronic Signatures Act.
 8. electronic autograph: an image in electronic form, which is made of a signature or seal of the applicant or the agent thereof.
-9. electronic official documents: Various official documents made by the Registrar Office by electronic means during trademark application and other procedures   thereof.
+9. electronic official documents: Various official documents made by the Registrar Office by electronic means during trademark application and other procedures  thereof.
 10. recipient of service of documents: the person filing a trademark application or other procedures by hard copy or electronic means who agrees on electronic service of official documents by the Registrar Office.
 11. electronic service: Electronic official documents transmitted to the electronic official document downloading platform by the Registrar Office and downloaded by the recipient of service of documents.
-12. electronic official document downloading platform: the information system provided by the Registrar Office for the recipient of service of documents to download electronic official documents.]]></條文內容>
+12. electronic official document downloading platform: the information system provided by the Registrar Office for the recipientof service of documents to download electronic official documents.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -50,7 +51,7 @@ The Registrar Office shall publish the types and forms of the qualified trademar
   </條文>
   <條文>
     <條號>Article 5-1</條號>
-    <條文內容><![CDATA[Where there are more than two agents stated in an electronic trademark application document, one of them is allowed to make a transmission by the electronic certificate thereof as a representative. Unless an objection is filed, the others who do not make a transmission are presumed to have been appointed.]]></條文內容>
+    <條文內容><![CDATA[Where there are more than two agents stated in an electronic trademark application document, one of themis allowed to make a transmission by the electronic certificate thereof as a representative. Unless an objection is filed, the others who do not make a transmission are presumed to have been appointed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -104,6 +105,17 @@ Whenever it deems necessary, the Registrar Office may require the user to submit
     <條文內容><![CDATA[The time when the electronic transmission from a user is received at the information system of the Registrar Office shall be the time when such transmission is made to the Registrar Office.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 14-1</條號>
+    <條文內容><![CDATA[Where one of the following circumstances occurs as a user files an electronic trademark application, the alternative methods of electronic transmission announced by the Registrar Office may be used :
+1. The file size of the electronic trademark application documents exceeds the limit specified by the Registrar Office.
+2. The Registrar Office notifies a breakdown of its information system pursuant to the provision of Article 13.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 14-2</條號>
+    <條文內容><![CDATA[Where the alternative methods are used to file an electronic application pursuant to the preceding article, the filing date shall be the date on which the Registrar Office receives the electronic trademark application documents. Where the delivery thereof is made via postal service, the filing date shall be the postmark date of the place of delivery. However, if the postmark date is unclear, the filing date shall be the date of receipt by the Registrar Office, unless otherwise proved by the parties involved.
+Articles 6 through 10 shall apply mutatis mutandis to the alternative methods of electronic transmission.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 15</條號>
     <條文內容><![CDATA[The Registrar Office shall store the original version of the received electronic trademark application documents for verification.
 Regarding the received electronic trademark application documents, the Registrar Office shall store and manage the original version and the copy thereof to ensure the genuineness, completeness and confidentiality.]]></條文內容>
@@ -125,8 +137,9 @@ If the recipient of service of documents fails to download such electronic docum
   <條文>
     <條號>Article 16</條號>
     <條文內容><![CDATA[These Regulations shall enter into force as of the date of promulgation.
-The June 29, 2012 amendment of these Regulations shall enter into force from July 1, 2012.
-The December 6, 2013 amendment of these Regulations shall enter into force from December 1, 2013.]]></條文內容>
+The June29, 2012 amendment to these Regulations shall enter into force from July 1, 2012.
+The December 6, 2013 amendment to these Regulations shall enter into force from December 1, 2013.
+The June 9, 2020 amendment to these Regulations shall enter into force from July 1, 2020.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

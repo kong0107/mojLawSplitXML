@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Management of Import/Export Clearance for Transportation means</英文法規名稱>
 <中文法規名稱>運輸工具進出口通關管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350010</法規網址>
-<最新英文異動日期>20190604</最新英文異動日期>
+<最新英文異動日期>20200221</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -31,7 +31,8 @@
 22. Amended on June 6, 2014
 23. Amended on March 25, 2015
 24. Amended on Aug 10, 2017
-25. Amended on June 4,2019]]></沿革內容>
+25. Amended on June 4,2019
+26. Amended on February 21,2020]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -525,13 +526,17 @@ In case that the cargos must be loaded or discharged from the vessel failing to 
     <條文內容><![CDATA[The captain of an import aircraft or the air carrier shall submit import cargo manifest to the Customs in accordance with the following regulations:
 1. Within 2 hours before the arrival at the domestic airport, in case where the journey after aircraft’s take-off from the last on- and off-loading airport in foreign country is more than 4 hours;
 2. Before the arrival at the domestic airport, in case where the journey after aircraft’s take-off from the last on- and off-loading airport in foreign country is equal to or less than 4 hours.
-The airports ( International Air Transport Association Airport Code) prescribed in the second subparagraph in the preceding paragraph shall be announced by Customs Administration.
+The airports (International Air Transport Association Airport Code) prescribed in the second subparagraph in the preceding paragraph shall be announced by Customs Administration.
 Directions relating to the scope, implementation stages, or grace period etc., for the first paragraph shall be announced by Customs Administration.
 When transmitting manifest, the captains or the carriers are not required to submit manifest in writing unless receiving written notification from Customs.
 An import cargo manifest which includes consolidated shipment cargo can be filed by air forwarders, while the said consolidated shipment cargo shall be specified a house manifest with identical format to import cargo manifest shall also be declared.
 After an aircraft has arrived at a domestic airport, the captain or the carrier shall produce and sign the following documents and submit to the Customs for declaration:
-1. Arrival and transit passenger manifest; and
-2. Arrival and onboard service crew manifest.
+1. Arrival and transit passenger manifest;
+2. Arrival and onboard service crew manifest; and
+3. Unloading list with items’ material number or name and quantity of unsold tax-free merchandises, including tobacco and alcoholic drinks. If the unloaded items are sealed in the airplane trolleys and need no replenishment, the seal numbers could be declared to the customs instead of the list.
+When an aircraft has arrived, the captain or the carrier shall prepare and sign the following documents for customs inspection:
+1. Transit cargo manifest.
+2. List of posts.
 Online declaration for arrival and transit passenger manifest should be transmitted to the Customs before take-off. The implementation date shall be separately announced by Customs Administration.]]></條文內容>
   </條文>
   <條文>
@@ -561,7 +566,7 @@ The arrival onboard service crew manifest shall clearly state the followings:
     <條文內容><![CDATA[An import cargo manifest shall clearly state the followings:
 1. Aircraft nationality and owner company;
 2. Date and flight number of arrival;
-3. The number of bill of lading (including master and house), cargo name of bill of lading, quantity, and weight of the cargo onboard. In case of consolidated package of two or more pieces, state clearly the quantity included in the package;
+3. The number of bill of lading, including master and house, cargo name, quantity, and weight listed in the bill of lading. The quantity of each item should be clearly stated if two or more items are consolidated in one package and also stated in the bill of lading;
 4. Locations of loading and arrival; and
 5. Cargo storage location.]]></條文內容>
   </條文>
@@ -569,11 +574,13 @@ The arrival onboard service crew manifest shall clearly state the followings:
     <條號>Article 74</條號>
     <條文內容><![CDATA[Before an aircraft takes off and departs, the captain or the carrier shall submit and sign the following documents to the Customs for declaration:
 1. Export cargo manifest;
-2. Departure and transit passenger manifest unless the manifest is the same as the arrival and transit passenger manifest submitted upon arrival; and
-3. Departure onboard service crew manifest unless the manifest is the same as the crew manifest submitted upon arrival.
+2. Departure and transit passenger manifest unless the manifest is the same as the arrival and transit passenger manifest submitted upon arrival;
+3. Departure onboard service crew manifest unless the manifest is the same as the crew manifest submitted upon arrival；and
+4. Loading lists with material number or name and quantity of meals, beverages and alcoholic drinks which are frequently used and dedicated for international flights and tax-free merchandises, including tobacco and alcoholic drinks for sale onboard. However, the seal numbers, which were declared in accordance with the proviso in subparagraph 3, paragraph 6 of Article 71 and the seals are intact, could be declared instead.
 Directions relating to the scope, implementation stages, or grace period etc., for submitting export cargo manifest prescribed in the first subparagraph mentioned above shall be announced by Customs Administration.
 An export cargo manifest which includes consolidated shipment cargo can be filed by air forwarders, while the said consolidated shipment cargo shall be specified a house manifest with identical format to export cargo manifest shall also be declared.
-When transmitting manifest, the captains or the carriers are not required to submit manifest in writing. However, they are required to submit that to the Customs within 10 days after receiving written notification.]]></條文內容>
+When transmitting manifest, the captains or the carriers are not required to submit manifest in writing. However, they are required to submit that to the Customs within 10 days after receiving written notification.
+Before aircraft departure, the captain or the carrier shall prepare and sign the list of posts for customs inspection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 74-1</條號>
@@ -596,7 +603,7 @@ Departure onboard service crew manifest shall clearly state the followings:
     <條文內容><![CDATA[An export cargo manifest shall clearly state the followings:
 1. Aircraft nationality and owner company;
 2. Departure date and flight number;
-3. The number of bill of lading (including master and house), cargo name on the bill of lading, quantity, and weight of the cargo onboard. In case of consolidated package of two or more pieces, state clearly the quantity included in the package; and
+3. The number of bill of lading, including master and house, cargo name, quantity, and weight listed in the bill of lading. The quantity of each item should be clearly stated if two or more items are consolidated in one package and also stated in the bill of lading; and
 4. Destination.]]></條文內容>
   </條文>
   <條文>

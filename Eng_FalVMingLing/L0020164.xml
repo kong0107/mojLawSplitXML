@@ -3,14 +3,15 @@
 <英文法規名稱>Human Biobank Management Act</英文法規名稱>
 <中文法規名稱>人體生物資料庫管理條例</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020164</法規網址>
-<最新英文異動日期>20190612</最新英文異動日期>
+<最新英文異動日期>20210120</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.2010.02.03 Hua-Zong-Yi-Yi-Tzu No.09900022481
 2.2011.01.26 Hua-Zong-Yi-Yi-Tzu No.10000015651
 3.2012.08.08 Hua-Zong-Yi-Yi-Tzu No.10100177991
-4.2019.06.12 Hua-Zong-Yi-Yi-Tzu No.10800059271]]></沿革內容>
+4.2019.06.12 Hua-Zong-Yi-Yi-Tzu No.10800059271
+5.2021.01.20 Hua-Zong-Yi-Yi-Tzu No.11000003541]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -43,15 +44,18 @@ The Competent Authority shall stipulate rules and regulations to govern matters 
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[There shall be between nine (9) to fifteen (15) commissioners in an ethics committee mentioned in the preceding paragraph, of which more than one half (1/2) shall be legal experts, social workers, cyber security management personnel, and other disinterested community members; and at least two thirds (2/3) of the commissioners may not be the personnel of the Organization.
-Any matters related to the applications of data and information contained in the Biobank shall be drafted as a plan to be submitted to the ethics committee for approval, after which the plan shall be submitted to the Competent Authority who will further invite legal experts, social workers, cyber security management personnel, and other disinterested community members to conduct a review on the plan. Only upon the final approval should the plan be enforced.
-The number of each type of professional mentioned in the preceding paragraph shall be no less than one fifth (1/5) of the total seats; and one gender may not amount to less than one third (1/3) of the total seats.]]></條文內容>
+    <條文內容><![CDATA[A Biobank Operator shall establish an ethics committee to review and supervise matters relating to the management of the Biobank.
+There shall be between nine (9) to fifteen (15) commissioners in an ethics committee mentioned in the preceding paragraph, of which more than one half (1/2) shall be legal experts, social workers, and other disinterested community members; and at least two thirds (2/3) of the commissioners shall not be the personnel of the Organization.
+Any matters related to the applications of data and information contained in the Biobank shall be drafted as a plan to be submitted to the ethics committee for approval, after which the plan shall be submitted to the Competent Authority who will further invite legal experts, social workers, and other disinterested community members to conduct a review on the plan. Only upon the final approval should the plan be enforced.
+The number of each type of professionals mentioned in the preceding paragraph shall be no less than one fourth (1/4) of the total seats; and the professionals of the same gender shall not amount to less than one third (1/3) of the total seats.
+The Competent Authority may commission private professional agencies (organizations) or groups to process the reviews set forth in Paragraph 3.
+The reviewers referred to in Paragraphs 2 and 3 shall be recused to avoid conflicts of interest if necessary.]]></條文內容>
   </條文>
   <編章節>   Chapter 3 Biological Specimens Collection and Participant Protection</編章節>
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[Collections of biological specimens shall be conducted in compliance with medical and research ethics. Participants shall be informed of related matters in a clearly comprehensible manner. Such matters shall be specified in an agreement of consent. Any collection may only be undertaken after the participant’s written consent is obtained.
-The Participant referred to in the preceding Paragraph must be at least twenty (20) years of age and have the legal capacity. However, a participant of the biobank on specific population groups is not subjected to this rule.
+The Participant referred to in the preceding Paragraph must be an adult who demonstrates legal capacity. However, a participant of the biobank on specific population groups is not subjected to this rule.
 In the event that a participant of the biobank on specific population groups set forth in the proviso in the preceding Paragraph is under seven (7) years of age or is subject to a declaration of guardianship, the Operator shall obtain the consent of the participant’s legal representative. In the event that a minor participant is seven (7) years of age or older or subject to a declaration of assistance, consent shall be obtained from the participant and his/her legal representative.
 The content of the agreement of consent mentioned in Paragraph 1 shall be submitted to the Competent Authority for records after being approved by the ethics committee of the concerned operator.]]></條文內容>
   </條文>

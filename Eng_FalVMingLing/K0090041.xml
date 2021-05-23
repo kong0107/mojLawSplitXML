@@ -3,7 +3,7 @@
 <英文法規名稱>Aircraft Flight Operation Regulations</英文法規名稱>
 <中文法規名稱>航空器飛航作業管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090041</法規網址>
-<最新英文異動日期>20180713</最新英文異動日期>
+<最新英文異動日期>20210312</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -167,7 +167,9 @@
 12.Amendment to Article 84, 202-1, and 233 promulgated on July 30, 2014.
 13.Amendment to Article 2, 16, 17, 49, 50, 77, 78, 148, 172, 209, 225, 274, 289, 319; attachment 2, 28 and 33 promulgated on October 8, 2015.
 14.Amendment to Article 99, 240, 308-1 promulgated on December 23, 2016.
-15.Amendment to Article 7, 17, 109, 111, 112, 113-1, 114, 118, 142, 144-1, 146, 150, 152, 161, 163, 164, 167 to 169, 173, 177, 187, 244, 246, 247, 248-1, 273, 276, 279, 285-24, 285-25, 343, attachment 2, 5, 17, 18-1, 20 and 31,addition of Articles 8-2, 8-3, deletion of Article 145, 184 and attachment 12 promulgated on July 13, 2018.]]></沿革內容>
+15.Amendment to Article 7, 17, 109, 111, 112, 113-1, 114, 118, 142, 144-1, 146, 150, 152, 161, 163, 164, 167 to 169, 173, 177, 187, 244, 246, 247, 248-1, 273, 276, 279, 285-24, 285-25, 343, attachment 2, 5, 17, 18-1, 20 and 31,addition of Articles 8-2, 8-3, deletion of Article 145, 184 and attachment 12 promulgated on July 13, 2018.
+16.Amendment to Article 351-1 promulgated on May 20, 2020.
+17.Amendment to Article 199 and 284 promulgated on March 12, 2021.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 - General</編章節>
@@ -1685,8 +1687,11 @@ CAA may conduct regular or random tests for narcotic drugs and alcohol for opera
 Test standards for narcotic drugs and alcohol are as follows:
 1. For narcotic drugs test: the test result of a Urine specimen shall be negative.
 2. For Alcohol test: In the test result, the concentration of alcohol shall not be more than 0.02% in blood, or exceed 0.1mg per litre in breath.
-Any person who fails either test prescribed in preceding paragraph shall not engage in flight related operations; this restriction also applies to the refusal of test. CAA may delegate the tests of drugs and alcohol as prescribed in paragraph 2 to the airport operator.
-When CAA delegates the tests in accordance with the preceding paragraph, the name of the designee, the commissioned items and regulations shall be promulgated on the government bulletin.]]></條文內容>
+Any person who fails either test prescribed in preceding paragraph shall not engage in flight related operations; this restriction also applies to the refusal of test.
+CAA may delegate the tests of drugs and alcohol as prescribed in paragraph 2 to the airport operator.
+When CAA delegates the tests in accordance with the preceding paragraph, the name of the designee, the commissioned items and regulations shall be promulgated on the government bulletin.
+During the period of the Central Epidemic Command Center was set up, an operator shall establish disease control management measures according to “Operational Principles for R.O.C (Taiwanese) Airlines Air Crewmembers to Implement Health Control Measures for Epidemic Prevention" which was approved by Central Epidemic Command Center and published by CAA.
+An operator and its employees shall comply with preceding paragraph of disease control management measures.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 200</條號>
@@ -2339,7 +2344,9 @@ Test standards for narcotic drugs and alcohol are as follows:
 2. For Alcohol test: In the test result, the concentration of alcohol shall not be more than 0.02% in blood, or exceed 0.1mg per litre in breath.
 Any person who fails either test prescribed in the preceding paragraph or exceed 0mg per litre in breath but not exceed the regulated standard shall not engage in flight related operations; this restriction also applies to the refusal of test.
 CAA may delegate the tests of drugs and alcohol as prescribed in paragraph 2 to the airport operator.
-When CAA delegates the tests in the preceding paragraph, the name of the designee, the commissioned items and regulations shall be promulgated on the government bulletin.]]></條文內容>
+When CAA delegates the tests in the preceding paragraph, the name of the designee, the commissioned items and regulations shall be promulgated on the government bulletin.
+During the period of the Central Epidemic Command Center was set up, an operator that operate business charter shall establish disease control management measures according to “Operational Principles for R.O.C (Taiwanese) Airlines Air Crewmembers to Implement Health Control Measures for Epidemic Prevention" which was approved by Central Epidemic Command Center and published by CAA.
+An operator and its employees shall comply with preceding paragraph of disease control management measures.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 285</條號>
@@ -3125,6 +3132,11 @@ When CAA delegates the tests in accordance with the preceding paragraph, the nam
   <條文>
     <條號>Article 351</條號>
     <條文內容><![CDATA[The terminologies used in this regulation in Chinese and English equivalents are listed in Attachment 33.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 351-1</條號>
+    <條文內容><![CDATA[If the deadline of the qualification requirements of assigned pilot or dispatcher stipulated in Article 162 to 165, Article 167, Article 168, Article 170, Article 173, Article 179, Article 279, Article 285-24, Article 285-25 of this regulation cannot be met due to the epidemic during the period of the Central Epidemic Command Center was set up, the operator shall submit an application and provide relevant supporting documents to CAA . Those who have applied for review and approval by the CAA may be extended for three months.
+Those who have been approved for extension, and still affected by the epidemic during the extension, can apply to the CAA further extension in accordance with the provisions of the preceding paragraph.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 352</條號>
