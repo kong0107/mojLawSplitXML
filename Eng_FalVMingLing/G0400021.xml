@@ -3,27 +3,10 @@
 <英文法規名稱>Standards Governing the Establishment of Securities Firms</英文法規名稱>
 <中文法規名稱>證券商設置標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400021</法規網址>
-<最新英文異動日期>20200115</最新英文異動日期>
+<最新英文異動日期>20210506</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<附件>
-  <檔案>
-    <檔案名稱><![CDATA[Application by Foreign Securities Firm for Permission to Establish Branch Unit.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006101</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Application by Foreign Securities Firm for Permission to Establish Branch Unit.doc]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000252</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Application by Branch Unit of Foreign Securities Firm for Business Permit.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006102</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Application by Branch Unit of Foreign Securities Firm for Business Permit.doc]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000253</下載網址>
-  </檔案>
-</附件>
+<附件 />
 <沿革內容><![CDATA[17. Articles 11, 26, 26-1, and 41-1 and the name of Chapter IV, Section I amended and promulgated and articles 25-1 to 25-3 and 26-2 and the name of Chapter IV, Section I-1 added 31 December 2003 per Order No. Taiwan-Finance-Securities-II-0920005385 of
 the Securities and Futures Commission, Ministry of Finance
 18. Articles 2, 14, 17, and 33 amended and issued and Articles 16-1 and 16-2 added 2 October 2007 per Order No. Financial-Supervisory-Securities-II-0960050708 of the Financial Supervisory Commission, Executive Yuan
@@ -32,7 +15,8 @@ the Securities and Futures Commission, Ministry of Finance
 20. Articles 2, 11, 14, 25-2, 29, 31, and 33 amended and Articles 10-1, 18-2, and 32-1 added per 12 November 2013 Order No. Financial-Supervisory-Securities-Firms-1020042260 of the Financial Supervisory Commission
 21. Articles 14 and 25-2 amended per 22 December 2014 Order No. Financial-Supervisory-Securities-Firms-1030049348 of the Financial Supervisory Commission
 22. Articles 3, 7, 11, and 21 amended and issued per 28 April 2015 Order No. Financial-Supervisory-Securities-Firms-1040014014 of the Financial Supervisory Commission
-23. Articles 3 and 11 amended and issued per 15 January 2020 Order No. Financial-Supervisory-Securities-Firms-1080362060 of the Financial Supervisory Commission]]></沿革內容>
+23. Articles 3 and 11 amended and issued per 15 January 2020 Order No. Financial-Supervisory-Securities-Firms-1080362060 of the Financial Supervisory Commission
+24. Articles 3, 7, and 11 amended and issued and Article 10-2 added per 6 May 2021 Order No. Financial-Supervisory-Securities-Firms-1100361767 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -50,7 +34,9 @@ the Securities and Futures Commission, Ministry of Finance
     <條文內容><![CDATA[A securities firm shall be established as a company limited by shares. The minimum paid-in capital for a securities firm, according to the type of business which it operates, shall be as follows:
 1. A securities underwriter: NT$400 million.
 2. A securities dealer: NT$400 million; if the securities dealer operates only the business of proprietary trading of security tokens (virtual currencies that have the nature of securities), the minimum paid-in capital shall be NT$100 million.
-3. A securities broker: NT$200 million; if the securities broker operates only equity crowdfunding business, the minimum paid-in capital shall be NT$50 million.
+3. A securities broker: NT$200 million. However, if the securities broker operates only the following business, the minimum paid-in capital shall be NT$50 million:
+A. Operates only equity crowdfunding business.
+B. Operates only brokerage business for trading and exchanging beneficial certificates of funds.
 The minimum paid-in capital required in the preceding paragraph shall be fully collected by the promoters at the time of incorporation.]]></條文內容>
   </條文>
   <條文>
@@ -78,9 +64,11 @@ Where the promoter is a juristic person, the provisions of the preceding paragra
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[In filing an application with the FSC for approval, the promoters of a securities firm shall according to the type of business which it operates, deposit the amount prescribed below with the bank designated by the FSC:
-1.A securities underwriter: NT$40 million.
-2.A securities dealer: NT$10 million.
-3.A securities broker: NT$50 million; if the securities broker will operate only equity crowdfunding business, the amount shall be NT$10 million.
+1. A securities underwriter: NT$40 million.
+2. A securities dealer: NT$10 million.
+3. A securities broker: NT$50 million. However, if the securities broker will operate only the following business, the amount shall be NT$10 million:
+A. Operates only equity crowdfunding business.
+B. Operates only brokerage business for trading and exchanging beneficial certificates of funds.
 The deposit prescribed in the preceding paragraph may be substituted by government bonds or financial bonds.
 The fund deposited in compliance with paragraph 1 shall not be removed before the company deposits the operation bond and obtains the incorporation registration; for a company whose application for the permit is rejected or whose permit is revoked, the fund may be removed after the FSC informs the company.]]></條文內容>
   </條文>
@@ -173,13 +161,13 @@ A financial institution which concurrently operates securities business shall al
   <條文>
     <條號>Article 16-1</條號>
     <條文內容><![CDATA[An FCM that applies to concurrently engage in securities business shall meet all of the following requirements:
-1.Its CPA-audited and certified financial report for the most recent period shows no accumulated deficit, is in compliance with Article 17 of the Regulations Governing Futures Commission Merchants, and is free of the circumstances specified in Article 22 of those same Regulations.
-2.It has not been subject to a warning sanction by the FSC in the most recent 3 months.
-3.In the most recent half-year it has not been subject to any FSC sanction under Article 66, subparagraph 2 of the Act ordering the company to dismiss any director, supervisor, or managerial officer from office, nor subject to any FSC sanction under Article 100, paragraph 1, subparagraph 2 of the Futures Trading Act ordering it to dismiss its responsible person or other relevant personnel.
-4.It has not been subject to any FSC sanction suspending business operations in the most recent year.
-5.It has not been subject to any FSC sanction revoking a portion of its business permit in the most recent 2 years.
-6.It has not, in the most recent year, had its trading operations suspended or restricted pursuant to the bylaws of a futures exchange or futures clearing house.
-7.Other requirements as specified by the FSC.
+1. Its CPA-audited and attested financial report for the most recent period shows no accumulated deficit, is in compliance with Article 17 of the Regulations Governing Futures Commission Merchants, and is free of the circumstances specified in Article 22 of those same Regulations.
+2. It has not been subject to a warning sanction by the FSC in the most recent 3 months.
+3. In the most recent half-year it has not been subject to any FSC sanction under Article 66, subparagraph 2 of the Act ordering the company to dismiss any director, supervisor, or managerial officer from office, nor subject to any FSC sanction under Article 100, paragraph 1, subparagraph 2 of the Futures Trading Act ordering it to dismiss its responsible person or other relevant personnel.
+4. It has not been subject to any FSC sanction suspending business operations in the most recent year.
+5. It has not been subject to any FSC sanction revoking a portion of its business permit in the most recent 2 years.
+6. It has not, in the most recent year, had its trading operations suspended or restricted pursuant to the bylaws of a futures exchange or futures clearing house.
+7. Other requirements as specified by the FSC.
 If an FCM is not in compliance with a requirement in subparagraphs 2 to 6 of the preceding paragraph, but the circumstances have shown concrete improvement, it may be exempted from those restrictions with the approval of the FSC.]]></條文內容>
   </條文>
   <條文>
@@ -189,17 +177,17 @@ If an FCM is not in compliance with a requirement in subparagraphs 2 to 6 of the
   <條文>
     <條號>Article 17</條號>
     <條文內容><![CDATA[In filing an application with the FSC for the permit to concurrently operate securities business, a financial institution shall submit all of the following documentation:
-1.The application (Annex 6).
-2.A photocopy of its business license.
-3.Articles of incorporation or equivalent documentation.
-4.A business plan which specifies: the principles of business operation; the division of internal organization; the employment of personnel; the description of facilities; and its financial projection for the next 3 years.
-5.The minutes of the Board of directors.
-6.The list of directors and supervisors.
-7.A statement declaring the inapplicability of Article 53 of the Act in respect of its directors and supervisors (Annex 5).
-8.The certification of the deposit made under Article 7.
-9.The documentation affirming the availability to the computer linkage as required under Article 8.
-10.Other documents that the FSC may so require.
-An FCM that applies to concurrently engage in securities business, in addition to submitting the documentation of the preceding paragraph, shall also submit the most recent CPA-audited and certified financial report, and operating rules regarding risk differentiation and conflict of interest for securities and futures business operations.]]></條文內容>
+1. The application (Annex 6).
+2. A photocopy of its business license.
+3. Articles of incorporation or equivalent documentation.
+4. A business plan which specifies: the principles of business operation; the division of internal organization; the employment of personnel; the description of facilities; and its financial projection for the next 3 years.
+5. The minutes of the Board of directors.
+6. The list of directors and supervisors.
+7. A statement declaring the inapplicability of Article 53 of the Act in respect of its directors and supervisors (Annex 5).
+8. The certification of the deposit made under Article 7.
+9. The documentation affirming the availability to the computer linkage as required under Article 8.
+10. Other documents that the FSC may so require.
+An FCM that applies to concurrently engage in securities business, in addition to submitting the documentation of the preceding paragraph, shall also submit the most recent CPA-audited and attested financial report, and operating rules regarding risk differentiation and conflict of interest for securities and futures business operations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
@@ -236,13 +224,13 @@ If the application documents submitted under this Chapter are incomplete or othe
   <條文>
     <條號>Article 20</條號>
     <條文內容><![CDATA[A securities firm applying for the establishment of branch units shall meet all of the following requirements:
-1.The applicant's most recent CPA audited financial report indicates that the net worth of each share exceeds its par value and its financial condition complies with the standards stipulated under Article 49 of the Act; however, the requirement regarding the net worth of each share exceeds par value shall not apply to a securities firm which increases branch units owing to merger, or acquisition other securities firms.
-2.The applicant has not been issued a warning by this FSC under Article 66, subparagraph 1 of the Act within the most recent 3 months.
-3.The applicant has not been sanctioned by the FSC's order under Article 66, subparagraph 2 of the Act to dismiss its directors, supervisors or managers within the most recent 6 months or ordered under Article 100, paragraph 1, subparagraph 2 of the Futures Trading Act to replace its responsible person or other related personnel.
-4.The applicant's operations have not been suspended by the FSC within the most recent year.
-5.The applicant's business licenses have not been revoked by the FSC within the most recent 2 years.
-6.The applicant has not been restricted or suspended to trade under the by-laws of the TWSE, TPEx, or TAIFEX within the most recent 1 year.
-7.The Capital Sufficiency Ratio of the securities firm is not lower than 150 percent.
+1. The applicant's most recent CPA audited and attested financial report indicates that the net worth per share exceeds its par value and its financial condition complies with the standards stipulated under Article 49 of the Act; however, the requirement regarding the net worth per share exceeds par value shall not apply to a securities firm which increases branch units owing to merger, or acquisition other securities firms.
+2. The applicant has not been issued a warning by this FSC under Article 66, subparagraph 1 of the Act within the most recent 3 months.
+3. The applicant has not been sanctioned by the FSC's order under Article 66, subparagraph 2 of the Act to dismiss its directors, supervisors or managers within the most recent 6 months or ordered under Article 100, paragraph 1, subparagraph 2 of the Futures Trading Act to replace its responsible person or other related personnel.
+4. The applicant's operations have not been suspended by the FSC within the most recent year.
+5. The applicant's business licenses have not been revoked by the FSC within the most recent 2 years.
+6. The applicant has not been restricted or suspended to trade under the by-laws of the TWSE, TPEx, or TAIFEX within the most recent 1 year.
+7. The Capital Sufficiency Ratio of the securities firm is not lower than 150 percent.
 If a securities firm does not meet a requirement set forth in any of subparagraphs 2 to 6 of the preceding paragraph, but has shown concrete improvement in the circumstances, and the FSC has recognized the improvement, the securities firm may be exempted from the relevant requirement.
 For securities firms that increase branch units owing to merger or acquisition of the entire business, assets or facilities of other securities firms under the approval of the FSC, the requirements of subparagraphs 2, 3, and 7 of paragraph 1 shall not apply.]]></條文內容>
   </條文>
@@ -339,13 +327,13 @@ If the business that would be handled, under local securities acts and regulatio
   <條文>
     <條號>Article 28</條號>
     <條文內容><![CDATA[A foreign securities firm which intends to establish branch units within the territory of the Republic of China (ROC), shall meet all of the following qualifications:
-1.The applicant possesses sufficient international securities business experience and financial health in the business type being applied for.
-2.The applicant has not been sanctioned administratively by its home country's securities regulatory authorities within the most recent 2 years.
+1. The applicant possesses sufficient international securities business experience and financial health in the business type being applied for.
+2. The applicant has not been sanctioned administratively by its home country's securities regulatory authorities within the most recent 2 years.
 The sufficient international securities business experience referred to in subparagraph 1 of the preceding paragraph requires more than 3 years in the securities business and one of the following criteria:
-1.Verification of sufficient international securities business experience through the governing institution or other organization of the firm's mother nation, or through any other institution recognized by the FSC.
-2.Obtaining from a country other than the firm's mother nation a membership or trading qualification of the stock exchange.
-3.A place of business operation located outside of the firm's mother nation or business operations in overseas markets, such that it has received income from the same type of operations applied for.
-The financial health referred to in paragraph 1, subparagraph 1 requires the most recent CPA audited financial report to indicate that the net value of per share is not below its par value.]]></條文內容>
+1. Verification of sufficient international securities business experience through the governing institution or other organization of the firm's mother nation, or through any other institution recognized by the FSC.
+2. Obtaining from a country other than the firm's mother nation a membership or trading qualification of the stock exchange.
+3. A place of business operation located outside of the firm's mother nation or business operations in overseas markets, such that it has received income from the same type of operations applied for.
+The financial health referred to in paragraph 1, subparagraph 1 requires the most recent CPA audited and attested financial report to indicate that the net value of per share is not below its par value.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 29</條號>
@@ -359,22 +347,22 @@ A foreign securities firm applying for the establishment of a branch unit shall 
   <條文>
     <條號>Article 31</條號>
     <條文內容><![CDATA[In filing an application with the FSC for the permit to establish branch units, a foreign securities firm shall submit all of the following documentation:
-1.The application for establishment of branch units (Annex 10).
-2.A certified copy of its articles of incorporation or equivalent documentation.
-3.A business plan which specifies: the principles of business operation; the division of internal organization; the employment of personnel; the description of facilities; and its financial projection for the next 3 years.
-4.The internal control system required by Article 11.
-5.The securities business license issued by the securities regulatory agency or an equivalent agency of its home country and the documentation certifying the compliance with the requirements stipulated under Article 28.
-6.A document issued by the competent securities authority of the home country of the foreign securities firm and its parent company approving its establishment of a branch unit within the territory of the ROC.
-7.Documentary proof that the parent company of the foreign securities firm has approved its establishment of a branch unit within the territory of the ROC and has made a commitment of financial responsibility regarding the branch unit.
-8.The list of directors, managers, and shareholders who possess more than five percent of its outstanding shares.
-9.A certified copy of the minutes of the board of directors meeting at which the resolution to establish branch units in the ROC was made.
-10.The names, nationalities and domiciles of directors and other responsible persons.
-11.The names, nationalities and domiciles or residence and the power of attorney of designated agents for litigious and non-litigious matters in the ROC.
-12.Balance sheets and income statements audited by certified public accountants for the most recent 3 years.
-13.The power of attorney designating agents for the purpose of applying to the FSC for establishment of branch units.
-14.The documentation of identification for the agent for litigious and non-litigious matters in the ROC.
-15.The documentation affirming the availability to the computer linkage as required under Article 8.
-16.Other documents that the FSC may so require.
+1. The application for establishment of branch units (Annex 10).
+2. A certified copy of its articles of incorporation or equivalent documentation.
+3. A business plan which specifies: the principles of business operation; the division of internal organization; the employment of personnel; the description of facilities; and its financial projection for the next 3 years.
+4. The internal control system required by Article 11.
+5. The securities business license issued by the securities regulatory agency or an equivalent agency of its home country and the documentation certifying the compliance with the requirements stipulated under Article 28.
+6. A document issued by the competent securities authority of the home country of the foreign securities firm and its parent company approving its establishment of a branch unit within the territory of the ROC.
+7. Documentary proof that the parent company of the foreign securities firm has approved its establishment of a branch unit within the territory of the ROC and has made a commitment of financial responsibility regarding the branch unit.
+8. The list of directors, managers, and shareholders who possess more than five percent of its outstanding shares.
+9. A certified copy of the minutes of the board of directors meeting at which the resolution to establish branch units in the ROC was made.
+10. The names, nationalities and domiciles of directors and other responsible persons.
+11. The names, nationalities and domiciles or residence and the power of attorney of designated agents for litigious and non-litigious matters in the ROC.
+12. Balance sheets and income statements audited and attested by CPAs for the most recent 3 years.
+13. The power of attorney designating agents for the purpose of applying to the FSC for establishment of branch units.
+14. The documentation of identification for the agent for litigious and non-litigious matters in the ROC.
+15. The documentation affirming the availability to the computer linkage as required under Article 8.
+16. Other documents that the FSC may so require.
 All the aforesaid documentation in foreign language shall be accompanied by a Chinese translation.]]></條文內容>
   </條文>
   <條文>
@@ -414,15 +402,15 @@ The sufficient experience in international securities business referred to in su
   <條文>
     <條號>Article 33-2</條號>
     <條文內容><![CDATA[In filing an application with the FSC for the approval to establish a representative office within the territory of the ROC, a foreign securities firm shall submit all of the following documentation:
-1.Application for the establishment of representative offices.
-2.The securities business license issued by the securities regulatory agency or its equivalent agency of the home country and documents certifying compliance with the qualification requirements stipulated under Article 33-1.
-3.A certified copy of its articles of incorporation or equivalent documentation.
-4.A certified copy of the minutes of the board of directors meeting at which the resolution to establish a representative office in the ROC was made.
-5.Balance sheets audited by certified public accountant for the most recent 3 years.
-6.A certified copy of the power of attorney designating the representative.
-7.A resume of the authorized representative.
-8.A certified copy of the power of attorney designating the agent for the purpose of applying to the FSC for establishment of representative office.
-9.Other documents that the FSC may so require.
+1. Application for the establishment of representative offices.
+2. The securities business license issued by the securities regulatory agency or its equivalent agency of the home country and documents certifying compliance with the qualification requirements stipulated under Article 33-1.
+3. A certified copy of its articles of incorporation or equivalent documentation.
+4. A certified copy of the minutes of the board of directors meeting at which the resolution to establish a representative office in the ROC was made.
+5. Balance sheets audited and attested by CPAs for the most recent 3 years.
+6. A certified copy of the power of attorney designating the representative.
+7. A resume of the authorized representative.
+8. A certified copy of the power of attorney designating the agent for the purpose of applying to the FSC for establishment of representative office.
+9. Other documents that the FSC may so require.
 All the aforesaid documentation in foreign language shall be accompanied by a Chinese translation.]]></條文內容>
   </條文>
   <條文>

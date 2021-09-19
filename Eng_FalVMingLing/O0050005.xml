@@ -128,7 +128,7 @@ If industrial waste reuse types produced by an enterprise are identical with tho
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[Apart from biomedical waste sharp implements and infectious waste the storage of hazardous waste shall comply with the following regulations:
-I. The facilities shall contain dedicated storage locations with firm floors and surrounding corrosionresistant, water-impermeable liners or structures.
+I. The facilities shall contain dedicated storage locations with firm floors and surrounding corrosion-resistant, water-impermeable liners or structures.
 II. There shall be equipment or measures to prevent the inflow or infiltration of surface water, rainwater, or groundwater.
 III. There shall be equipment or measures to collect waste liquids, waste gases or noxious odors, etc., produced by the facilities or prevent them from polluting surface water bodies, groundwater bodies, air or soil.
 IV. There shall be accident prevention equipment and warning signs with white backgrounds, red characters, and black frames posted in prominent locations.
@@ -213,7 +213,7 @@ VI. Reactive industrial waste: treat using oxidative decomposition or thermal tr
 VII. Waste acids or alkalis: treat using evaporation, distillation, film separation, or neutralization.
 VIII. Waste containing mercury or its compounds: for such waste containing dry weight concentration greater than or equal to 260 milligrams, ultra-trace mercury shall be recycled, and its residue shall show a dissolved mercury content of less than 0.2 milligrams/liter in toxic characteristic leaching procedure (TCLP) test results; for waste containing dry weight concentration less than to 260 milligrams, other means of intermediate treatment shall be used, and its residue shall show a dissolved mercury content of less then 0.025 milligrams/liter.
 IX. Waste containing toxic heavy metals: treat using solidification, stabilization, electrolysis, film separation, evaporation, melting, chemical treatment methods, or smelting. Waste composed of 30% or more of combustible or volatile solids may be treated with thermal treatment methods.
-X. Steel industry ash and dust: treat using resource recycling, solidification, or stablization.
+X. Steel industry ash and dust: treat using resource recycling, solidification, or stabilization.
 XI. Dioxinous waste: treat using thermal treatment.
 XII. Toxic chemical substances containing toxic heavy metals: treat using chemical treatment methods, solidification, or stabilization.
 XIII. Other toxic chemical substances that do not contain halogenated organic substances or toxic heavy metals: treat using thermal treatment methods, chemical treatment methods, solidification, or stabilization.
@@ -250,7 +250,7 @@ V. Facilities shall have pollution control equipment and anti-corrosion measures
     <條文內容><![CDATA[Apart from complying with the regulations in the foregoing article, facilities used for the incineration of hazardous industrial waste shall also comply with the following regulations:
 I. The output central temperature of the combustion chamber shall be maintained above 1,000 °C. Combustion gas residence time shall be over one second for biomedical waste sharp implements and infectious waste and over two seconds for other hazardous industrial waste.
 II. Combustion efficiency shall be over 99.9% when incinerating infectious industrial waste.
-III. Apart from the incineration of infectious waste, in the incineration of other hazardous industrial waste the destruction and removal efficiency shall be over 99.99% for chlorinated organic compounds, over 99.999% for polychloriated biphenyls (PCBs) and dioxins and over 99.9% for other toxic chemical substances.
+III. Apart from the incineration of infectious waste, in the incineration of other hazardous industrial waste the destruction and removal efficiency shall be over 99.99% for chlorinated organic compounds, over 99.999% for polychlorinated biphenyls (PCBs) and dioxins and over 99.9% for other toxic chemical substances.
 IV. Facilities shall possess devices for automatic monitoring, automatic monitoring and control of combustion conditions, the recording of the output central temperature of the combustion chamber and emergency response.
 V. Other items officially announced by the central competent authority.
 Fluidized bed waste incinerators are not subject to the restrictions of Subparagraphs 1 and 2 of the foregoing paragraph.]]></條文內容>
@@ -344,12 +344,11 @@ III. Landfills shall have facilities to prevent the inflow or infiltration of su
 IV. Landfills' peripheral and base facilities shall be constructed of concrete with a uniaxial compressive strength of 245 kilograms per square centimeter or other materials possessing the same grade of sealing ability.
 V. A landfill area exceeding 50 square meters or other materials possessing the same grade of sealing ability.
 VI. Anti-corrosion and anti-leak measures shall be taken on the basis of the hazardous industrial waste type and characteristics and landfill soil characteristics.
-VII. A landfill's bottom layer shall have a water permeability coefficient of less than 10-7 centimeters/second and be compatible with the waste material and leachate thereof, have a foundation comprised of sandy or argillaceous clay or other equivalent material 60 centimeters thick, and impermeable material with a water permeability coefficient of less than 10-10 centimeters/second that is compatible with the waste material and leachate thereof and 0.2 centimenters or more in thickness as a landfill liner.
+VII. A landfill's bottom layer shall have a water permeability coefficient of less than 10-7 centimeters/second and be compatible with the waste material and leachate thereof, have a foundation comprised of sandy or argillaceous clay or other equivalent material 60 centimeters thick, and impermeable material with a water permeability coefficient of less than 10-10 centimeters/second that is compatible with the waste material and leachate thereof and 0.2 centimeters or more in thickness as a landfill liner.
 VIII. There shall be facilities to collect and treat leachate.
 IX. Other items officially announced by the central competent authority.
 Sealed landfills that establish the following three contiguous layered facilities shall not be subject to the restrictions of Subparagraphs 4, 5, and 7 of the foregoing paragraph:
-I. A landfill's bottom layer and peripheral facilities shall be comprised of a layer of clay 90 centimeters thick and with a water permeability coefficient of less than
-10-7 centimeters/second, which is then covered with a double layer of artificial impermeable material 0.076 centimeters or more in thickness.
+I. A landfill's bottom layer and peripheral facilities shall be comprised of a layer of clay 90 centimeters thick and with a water permeability coefficient of less than 10-7 centimeters/second, which is then covered with a double layer of artificial impermeable material 0.076 centimeters or more in thickness.
 II. The middle layer shall be covered with fine sand, crushed stone or other materials of equivalent grade with a water permeability coefficient of 10-2 centimeters/second and thickness of 30 centimeters or more and have installed leachate detection and collection equipment and then covered with a layer of clay with a water permeability coefficient of less than 10-7 centimeters/second and 30 centimeters in thickness.
 III. The upper layer shall be covered with fine sand, gravel, or other materials of equivalent grade with a water permeability coefficient of less than 10-2 centimeters/second and thickness of 30 centimeters or more and have installed leachate detection and collection equipment and then covered with a 30- centimeter layer of sandy or argillaceous clay.]]></條文內容>
   </條文>
@@ -368,7 +367,7 @@ Closed landfills shall not be used as construction sites or other working areas.
   <條文>
     <條號>Article 41</條號>
     <條文內容><![CDATA[When solidified matter resulting from solidification is disposed of by sanitary landfilling, such matter shall have a uniaxial compressive strength of at least 10 kilograms per square centimeter.
-When hazardous industrial waste is treated by solidification, stabilization or other treatment methods officially announced by the central competent authority, it shall be disposed of by sealed landfilling or sanitary landfilling. Sanitary landfilling shall shall comply with the Toxicity Characteristic Leaching Procedure (TCLP) Leaching Standards in Table 4 of the Standards for Defining Hazardous Industrial Waste in addition to the requirements of Article 37 and shall also be subject to independent landfill management by area.
+When hazardous industrial waste is treated by solidification, stabilization or other treatment methods officially announced by the central competent authority, it shall be disposed of by sealed landfilling or sanitary landfilling. Sanitary landfilling shall comply with the Toxicity Characteristic Leaching Procedure (TCLP) Leaching Standards in Table 4 of the Standards for Defining Hazardous Industrial Waste in addition to the requirements of Article 37 and shall also be subject to independent landfill management by area.
 An application shall be made pursuant to relevant reuse regulations if the waste in the two foregoing paragraphs is to be reused.]]></條文內容>
   </條文>
   <條文>

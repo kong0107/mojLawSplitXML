@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Book-Entry Operations for Centrally Deposited Securities</英文法規名稱>
 <中文法規名稱>有價證券集中保管帳簿劃撥作業辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400099</法規網址>
-<最新英文異動日期>20151007</最新英文異動日期>
+<最新英文異動日期>20210329</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -15,7 +15,8 @@
 6. Articles 6, 10, 31, 32, and 35 amended and promulgated; Articles 30-6 through 30-8 added on 7 July 2003 per Order No. 92 Taiwan-Finance-Securities (IV) No. 0920002796 of the Securities and Futures Commission, Ministry of Finance
 7. Articles 1 and 30 amended and promulgated on 30 October 2004 per Order No. Financial-Supervisory-Securities-IV-0930005142 of the Securities and Futures Commission, Ministry of Finance
 8. Articles 2, 17, 30, and 35 amended and issued per 25 November 2010 Order No. Financial-Supervisory-Securities-SITC-0990065062; for enforcement from the date of issuance, with the exception of Article 17, which shall be enforced from 25 December 2010
-9. Articles 21, 23, 29, and 29-1 amended and issued per 7 October 2015 Order No. Financial-Supervisory-Securities-SITC-1040039214]]></沿革內容>
+9. Articles 21, 23, 29, and 29-1 amended and issued per 7 October 2015 Order No. Financial-Supervisory-Securities-SITC-1040039214
+10. Article 29 amended per 29 March 2021 Order No. Financial-Supervisory-Securities-Corporate-1100335023 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   CHAPTER I GENERAL PROVISIONS</編章節>
@@ -180,7 +181,8 @@ After the CSDE has received the said notification from the participant and the s
     <條文內容><![CDATA[While a participant is conducting the settlement for centralized securities which will be delivered by securities firms and securities finance enterprises to the Taiwan Stock exchange or the TPEx, a CSDE shall, in accordance with the "Calculation Table for Settlement" or the "Calculation Table for Delivery," transfer the said securities from the "sub-account pending settlement" on the relevant participants' account books to the accounts of the TWSE or of the TPEx within the prescribed time period for settlement. Where the balance in the account of a securities firm or securities finance enterprise is insufficient for settlement, the CSDE shall nevertheless transfer the existing balance to the account of the TWSE or of the TPEx, and notify the TWSE or the TPEx to take appropriate action on the matter.
 For the securities to be delivered by the TWSE or the TPEx to securities firms or securities finance enterprises, the CSDE shall, in accordance with the notification of the TWSE or the TPEx, transfer the said securities to the accounts of securities firms or securities finance enterprises.
 When a participant is conducting balance settlement for emerging stock or open-end fund beneficial certificate transactions, for stocks or open-end fund beneficial certificates that shall be delivered by securities firms to a CSDE, the CSDE shall, in accordance with the "Calculation Table for Delivery," transfer the stocks or open-end fund beneficial certificates from the "sub-account pending settlement" on the relevant participants' account books to the account of the CSDE. For stocks or open-end fund beneficial certificates that shall be received by a securities firm from the CSDE, the CSDE shall transfer the stocks or open-end fund beneficial certificates from its account to the account of the securities firm.
-When participants conduct real-time gross settlement of emerging stock or open-end fund beneficial certificate transactions, the CSDE shall, after receiving notice from both participants, transfer the stock or open-end fund beneficial certificates from the selling participant's CSDE account into the buying participant's CSDE account, and shall notify the participants to make the necessary entries into their customer’s account books.]]></條文內容>
+When participants conduct real-time gross settlement of emerging stock or open-end fund beneficial certificate transactions, the CSDE shall, after receiving notice from both participants, transfer the stock or open-end fund beneficial certificates from the selling participant's CSDE account into the buying participant's CSDE account, and shall notify the participants to make the necessary entries into their customer’s account books.
+For a stock that is registered on the Pioneer Stock Board and traded over-the-counter, centralized settlement shall be performed in accordance with paragraphs 1 and 2, and the preceding two paragraphs shall not apply.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 29-1</條號>

@@ -3,7 +3,7 @@
 <英文法規名稱>Criminal Code of the Republic of China</英文法規名稱>
 <中文法規名稱>中華民國刑法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=C0000001</法規網址>
-<最新英文異動日期>20200115</最新英文異動日期>
+<最新英文異動日期>20210616</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -50,7 +50,12 @@
 40.Amendment to Article 108、110、117、118、127、129、132、133、135～137、140、141、144、147、148、149、150、153、154、158～160、163、164、165、171、173～175、177～181、185、185-2、186、186-1、187-2、188、189-1、190、191、192～194、195～199、201～204、206～208、212、214、215、233～235、240、241、243、246、252～255、256～260、262、263、266、268、269、288、290、292、293、298、300、302、304～307、309、310、312、313、315、317～318-1、328、335～337、346、352、354～356、358～360、362 promulgated on December 25, 2019
 41.Amendment to Article 83、85 promulgated on December 31, 2019
 42.Amendment to Article 149、150 promulgated on January 15, 2020
-   Amendment to Article 251、313 promulgated on January 15, 2020]]></沿革內容>
+   Amendment to Article 251、313 promulgated on January 15, 2020
+43.Amendment to Article 135、136 promulgated on January 20, 2021
+   Amendment to Article 240、241 promulgated on January 20, 2021
+44.Amendment to Article 185-4 promulgated on May 28, 2021
+45.Amendment to Article 222 promulgated on June 9, 2021
+46.Deletion of Article 239；amendment to Article 245 promulgated on June 16, 2021]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>Part 1 General Provisions</編章節>
@@ -909,14 +914,17 @@ A person other than a public official who discloses or gives away a document, pl
   <編章節>   Chapter 5 Offenses of Obstructing an Officer In Discharge of Duties</編章節>
   <條文>
     <條號>Article 135</條號>
-    <條文內容><![CDATA[A person who employs threats or violence against a public official who is engaged in the performance of his duties shall be sentenced to imprisonment for not more than three years, short-term imprisonment, or a fine of not more than nine thousand dollars.
-A person who employs threats or violence with purpose to compel a public official to perform an act relating to his public duties, with purpose to obstruct the lawful performance of such public duties, or with purpose to cause such public officials to resign shall be subject to the same punishment.
-If the commission of an offense specified in one of the two preceding paragraphs results in the death of a public official, the offender shall be sentenced to life imprisonment or imprisonment for not less than seven years; if it results in aggravated injury, the offender shall be sentenced to imprisonment for not less than three years but not more than ten years.]]></條文內容>
+    <條文內容><![CDATA[A person who employs threats or violence against a public official engaging in the performance of his duties, shall be sentenced to imprisonment for not more than three years, short-term imprisonment, or a fine of not more than three hundred thousand dollars.
+A person who employs threats or violence with purpose to compel a public official to perform an act relating to his public duties, with purpose to obstruct the lawful performance of such public duties, or with purpose to cause such public officials to resign, shall be subject to the same punishment.
+A person guilty of the offenses specified in the two preceding paragraphs, and where any one of the following scenarios applies, shall be sentenced to imprisonment for more than six months and less than five years:
+1.The offense is committed with the use of a motor vehicle.
+2.The offense is committed while carrying weapons or other dangerous goods, with the intention of using them during the offense.
+If a person commits an offense specified in the three preceding paragraphs, and thus causes the death of a public official, the offender shall be sentenced to life imprisonment, or imprisonment for more than seven years; and if it results in aggravated injury, the offender shall be sentenced to imprisonment for not less than three years but not more than ten years.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 136</條號>
-    <條文內容><![CDATA[A person who participates in an open assembly at which an offense specified in the preceding article is committed shall be sentenced to imprisonment for not more than one year, short-term imprisonment, or a fine of not more than nine thousand dollars; a ringleader and a person who actually employs violence or threats shall be sentenced to imprisonment for not less than one year but not more than seven years.
-If the commission of the offense results in death or aggravated injury to the public official, a ringleader and a person who actually employs violence or threats shall be punished in accordance with the provisions of paragraph 3 of the preceding article.]]></條文內容>
+    <條文內容><![CDATA[Participants of a group of three or more people, gathering at a public place or a place where the public may enter and exit committing the offenses specified in the preceding article, shall be sentenced to imprisonment for less than one year, short-term imprisonment, or a fine of no more than one hundred thousand dollars may be imposed; a ringleader and a person who actually employs violence or threats shall be sentenced to imprisonment for not less than one year but not more than seven years.
+If the commission of the offense results in death or aggravated injury to the public official, a ringleader and a person who actually employs violence or threats shall be punished in accordance with the provisions of paragraph 4 of the preceding article.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 137</條號>
@@ -1199,7 +1207,8 @@ A person who has once committed the offense set forth in this article or in Arti
   </條文>
   <條文>
     <條號>Article 185-4</條號>
-    <條文內容><![CDATA[A person who flees after the motor vehicle he drives has caused an accident resulting in death or injury of another shall be sentenced to imprisonment for not less than one year but less than seven years.]]></條文內容>
+    <條文內容><![CDATA[A person who flees after the motor vehicle he drives has caused an accident resulting in injury of another, shall be sentenced to imprisonment for not less than six months but not more than five years; a person who flees after the motor vehicle he drives has caused an accident resulting in death or aggravated injury of another, shall be sentenced to imprisonment for more than one year but less than seven years.
+If a person commits the offenses specified in the preceding paragraph, and if the driver is not at fault for causing a death or injury in a traffic accident, the punishment may be reduced or remitted.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 186</條號>
@@ -1432,14 +1441,15 @@ An attempt to commit an offense specified in the preceding paragraphs is punisha
   <條文>
     <條號>Article 222</條號>
     <條文內容><![CDATA[A person who commits an offense specified in the preceding article under one of the following circumstances shall be sentenced to imprisonment for not less than seven years:
-1. Offense committed by two or more persons
-2. Offense against a male or a female under the age of fourteen
-3. Offense against a mentally, physically or otherwise handicapped person
-4. Offense with the use of a drug in the offense
-5. Abuse against the victim
-6. Offense committed by taking the opportunity of operating a means of transportation used for the public or unspecified people
-7. Commission of an offense by intruding into a residence or a structure used for residence or a vessel or by hiding inside of it for commission of the offense
-8. Carrying a weapon while the offense is committed
+1. Offense committed by two or more persons;
+2. Offense against a male or a female under the age of fourteen;
+3. Offense against a mentally, physically or otherwise handicapped person;
+4. Offense with the use of a drug in the offense;
+5. Abuse against the victim;
+6. Offense committed by taking the opportunity of operating a means of transportation used for the public or unspecified people;
+7. Commission of an offense by intruding into a residence or a structure used for residence or a vessel or by hiding inside of it for commission of the offense;
+8. Carrying a weapon while the offense is committed;
+9. Taking photos, recording audio or video of the victim, or disseminating, or broadcasting, the said images, sounds, or electromagnetic records.
 An attempt to commit an offense prescribed in the preceding paragraph is punishable.]]></條文內容>
   </條文>
   <條文>
@@ -1548,20 +1558,20 @@ The writing, picture, audio or video object shall be confiscated whether it belo
   </條文>
   <條文>
     <條號>Article 239</條號>
-    <條文內容><![CDATA[A married person who commits adultery with another shall be sentenced to imprisonment for not more than one year; the other party to the adultery shall be subject to the same punishment.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 240</條號>
-    <條文內容><![CDATA[A person who abducts a male or female under the age of twenty to leave his or her family or another who has the custody of the male or female shall be sentenced to imprisonment for not more than three years.
-A person who abducts a married male or female to leave their family shall be subject to the same punishment.
-A person who for purpose of gain or for purpose of causing an abducted person to submit to an obscene act or to sexual intercourse commits the offense specified in one of the two preceding paragraphs shall be sentenced to imprisonment for not less than six months but not more than five years; a fine, in addition thereto, of not more than thirty thousand dollars may be imposed.
+    <條文內容><![CDATA[A person who abducts a minor under the age of twenty to leave his or her family or guardian, shall be sentenced to imprisonment for not more than three years.
+A person who abducts a married person to leave his or her family, shall be subject to the same punishment.
+A person who for purpose of gain or for purpose of causing an abducted person to submit to an obscene act or to sexual intercourse commits the offense specified in one of the two preceding paragraphs shall be sentenced to imprisonment for not less than six months but not more than five years; a fine, in addition thereto, of not more than five hundred thousand dollars may be imposed.
 An attempt to commit an offense specified in the three preceding paragraphs is punishable.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 241</條號>
-    <條文內容><![CDATA[A person who forcibly abducts from his family or from another who has the custody a male or female who is under the age of twenty shall be sentenced to imprisonment for not less than one year but not more than seven years.
-A person who for purpose of gain or for purpose of causing an abducted person to submit to an obscene act or to have sexual intercourse commits an offense specified in the preceding paragraph shall be sentenced to imprisonment for not less than three years but not more than ten years; in addition thereto, a fine of not more than thirty thousand dollars may be imposed.
-Abduction of a male or female person under the age of sixteen shall be considered as forcible abduction.
+    <條文內容><![CDATA[A person who forcibly abducts a minor under the age of twenty to leave his or her family or guardian, shall be sentenced to imprisonment for not less than one year but not more than seven years.
+A person who for purpose of gain or for purpose of causing an abducted person to submit to an obscene act or to have sexual intercourse commits an offense specified in the preceding paragraph shall be sentenced to imprisonment for not less than three years but not more than ten years; in addition thereto, a fine of not more than two million dollars may be imposed.
+Abduction of a minor under the age of sixteen shall be considered as forcible abduction.
 An attempt to commit an offense specified in one of the three preceding paragraphs is punishable.]]></條文內容>
   </條文>
   <條文>
@@ -1580,8 +1590,7 @@ An attempt to commit an offense specified in the preceding paragraph is punishab
   </條文>
   <條文>
     <條號>Article 245</條號>
-    <條文內容><![CDATA[Prosecution for an offense specified in Articles 238 and 239 and paragraph 2 of Article 240 may be instituted only upon complaint.
-A spouse who connives or forgives the offender of Article 239 has no right to complaint.]]></條文內容>
+    <條文內容><![CDATA[Prosecution for an offense specified in Article 238, or Paragraph 2 of Article 240 may be instituted only upon complaint.]]></條文內容>
   </條文>
   <編章節>   Chapter 18 Offenses Against Religion, Graves, and Corpses</編章節>
   <條文>
@@ -2250,7 +2259,7 @@ An attempt to commit an offense specified in paragraph 1 is punishable.]]></條�
   <編章節>   Chapter 36 Offenses Against the Computer Security</編章節>
   <條文>
     <條號>Article 358</條號>
-    <條文內容><![CDATA[A person who without reason by entering another’s account code and password, breaking his computer protection, or taking advantage of the system loophole of such other accesses his computer or relating equipment shall be sentenced to imprisonment for not more than three years or short-term imprisonment; in lieu thereof, or in addition thereto, a fine of not more than one three hundred thousand dollars may be imposed.]]></條文內容>
+    <條文內容><![CDATA[A person who gains access into another person’s computer or related equipment by entering the password of another person's computer account, cracking the protective measures for using the computer or exploiting the loophole of the computer system without any reason, shall be sentenced to imprisonment for not more than three years of imprisonment; in lieu thereof, or in addition thereto, a fine of not more than three hundred thousand dollars may be imposed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 359</條號>
