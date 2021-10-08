@@ -3,7 +3,7 @@
 <英文法規名稱>Standard for Installation of Fire Safety Equipments Based on Use and Occupancy</英文法規名稱>
 <中文法規名稱>各類場所消防安全設備設置標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120029</法規網址>
-<最新英文異動日期>20181017</最新英文異動日期>
+<最新英文異動日期>20210625</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -25,7 +25,7 @@
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Article 183.PDF]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001872</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006874</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Article 191.PDF]]></檔案名稱>
@@ -40,8 +40,8 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001875</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Article 236.PDF]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001876</下載網址>
+    <檔案名稱><![CDATA[Article 236.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006875</下載網址>
   </檔案>
 </附件>
 <沿革內容><![CDATA[1.A total of 111 articles, promulgated under Order Tai(78)-Nei-Ching-Tzu No.715824 on July 31, 1989, effective from September 1.
@@ -54,7 +54,8 @@
 8.Articles 1、3、4、7、8、12、17～19、24、25、31、32、34、35、40、43、46、48、49、51、53、56、57、59、63、116、125、129～131、140、154、157、167、171、175、180、181～183、185、186、188～192、198、210、216、229、231 and 235, as amended; 111-1, as added; 2 as deleted, promulgated under Order Tai-Nei-Hsiao-Tzu No.1010821006 on Jan 10, 2012, effective from Jul 1, 2012.
 9.Articles 6、12、14、17、19、24、111-1、157、160、189、235, as amended; promulgated under Order Tai-Nei-Hsiao-Tzu No.1020821188 on May 1, 2013, effective from the same day.
 10.Articles 46、47、198, as amended; promulgated under Order Tai-Nei-Hsiao-Tzu No.1060822680 on July 5, 2017, effective from the same day.
-11.Articles 9, 12, 14, 16, 17～19, 31, 34, 37, 159, 238, as amended; 22-1, 145-1, as added; promulgated under Order Tai-Nei-Hsiao-Tzu No. 1070822946 on October 17, 2018, effective from the same day; but Article 22-1, effective from January 1,2019.]]></沿革內容>
+11.Articles 9, 12, 14, 16, 17～19, 31, 34, 37, 159, 238, as amended; 22-1, 145-1, as added; promulgated under Order Tai-Nei-Hsiao-Tzu No. 1070822946 on October 17, 2018, effective from the same day; but Article 22-1, effective from January 1,2019.
+12.Articles 4, 11, 30, 31, 113, 117, 125, 127, 130, 139, 144, 156, 159, 183, 185, 188, 192, 193～195, 221, 223, 235, 236, 238, as amended; 30-1, 192-1, as added; promulgated under Order Tai-Nei-Hsiao-Tzu No. 1100821034 on July 1, 2021, effective from the same day.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>Part 1 General Provisions</編章節>
@@ -88,7 +89,7 @@ An effective opening as mentioned in Article 4.2 may be any of the following:
 2.A passage with the opening facing toward the road or with width more than 1m.
 3.There is no barrier on the opening and no construction or stumbling block encumbering refuge inside the passage.
 4.The opening can be opened from outside or easily broken for entering the room. The thickness should be less than 6 millimeter if the opening is window or door made by glass.
-Definitions of terms in architecture technical specifications, public hazardous substances and flammable Pressurized Gases shall apply to the terms as provided in the Standard of Architecture Technology and Regulations and Public Hazardous Substances & Flammable Pressurized Gases Establishment Standards & Safety Control Procedures.]]></條文內容>
+Definitions of terms in architecture technical specifications, public hazardous substances and flammable Pressurized Gases shall apply to the terms as provided in the Standard of Architecture Technology and Regulations and Establishment Standard and Safety Control Regulation for Manufacturing, Storing, Processing Public Hazardous Substances and Flammable Pressurized Gases Places.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -155,11 +156,12 @@ The opening and emmission mechines mentioned in previous 3(3) should be in accor
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[Necessary equipments for fire rescue include the following:
-1.Connecting water-delivery pipe
-2.Fire water pool
+1.Connecting water-delivery pipe.
+2.Fire water pool.
 3.Smoke control equipments (smoke control equipments inside emergency elevator and special safety stairway, and indoor smoke control equipments).
-4.Emergency power socket
-5.Wireless communication auxiliary equipments]]></條文內容>
+4.Emergency power socket.
+5.Wireless communication auxiliary equipments.
+6.Disaster monitoring and controlling system.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -422,7 +424,18 @@ A separate assessment shall be permitted in the event of additions, reconstructi
   </條文>
   <條文>
     <條號>Article 30</條號>
-    <條文內容><![CDATA[Wireless communication auxiliary equipments shall be equipped in undergroud floor of 100m or higher buildings, or underground buildings with a total floor area amounting to 1,000 m2 or more.]]></條文內容>
+    <條文內容><![CDATA[Wireless communication auxiliary equipments shall be equipped in the following places:
+1.Undergroud floor of buildings over 100 meters in height.
+2.Underground buildings with a total floor area amounting to 1,000 m2 or more.
+3.The underground floor of a building with four floors or more, and the underground floor have a total floor area of 3,000 m2 or more.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 30-1</條號>
+    <條文內容><![CDATA[Disaster monitoring and controlling system shall be equipped in the following places:
+1.High-rise buildings.
+2.Buildings with a total floor area amounting to 50,000 m2 or more.
+3.Underground buildings with a total floor area amounting to 1,000 m2 or more.
+4.Other public used occupancies proclaimed by the central regulating authority.]]></條文內容>
   </條文>
   <編章節>Part 3 Fire Safety Equipments</編章節>
   <編章節>   Chapter 1 Fire Extinguishing Equipments</編章節>
@@ -436,7 +449,7 @@ A separate assessment shall be permitted in the event of additions, reconstructi
 (3)In boiler room, kitchen and other places where fire is used in large amounts, there shall be a unit fire extinguishing efficiency for every 25m2 of the floor area (including the last proportion less than 25 m2) on each floor.
 2.There shall be a unit fire extinguishing efficiency for every 100 m2 of the floor area in movie projection room and other places where electric equipments are used.
 3.On a storey where there is a fire extinguisher, the travel distance from any point of the living rooms on the floor to the fire extinguisher shall be not more than 20m.
-4.Fire extinguishing equipments shall be located in obvious places convenient for fetching, and a 24cmX8cm or larger indicating plate marked with “Fire Extinguisher” in white text on red background shall be set up nearby.
+4.Fire extinguishing equipments shall be located in obvious places convenient for fetching, and a 20m2 or larger indicating plate marked with “Fire Extinguisher” in white text on red background shall be set up nearby. However, if the fire hydrant box with other equipment are combined in and the word “Fire Extinguisher” is marked on the surface, the color of the mark is not limited.
 5.For a fire extinguisher hanging on the wall or placed inside a fire extinguisher box, if the weight of the extinguisher is 18kg or more, the distance from the upper end to the floor shall be not more than 1m; if the weight is less than 18kg, the distance shall be not more than 1.5m.]]></條文內容>
   </條文>
   <條文>
@@ -1212,7 +1225,7 @@ The above-mentioned actuating device shall be equipped with automatic & manual s
     <條號>Article 97</條號>
     <條文內容><![CDATA[Specifications of nameplates used by carbon dioxide fire extinguishing equipments will be prescribed otherwhere by the central fire agency.]]></條文內容>
   </條文>
-  <編章節>      Section 7 Dry Chemicals Fire Extinguishing Equipments and Simple Automatic Fire Extinguishing</編章節>
+  <編章節>      Section 7 Dry Chemicals Fire Extinguishing Equipments and Simple Automatic Fire Extinguishing Equipments</編章節>
   <條文>
     <條號>Article 98</條號>
     <條文內容><![CDATA[Articles 82, 85, 86, 90, 91, 92, 93, 95, and 97 shall govern the spraying pattern, venting device, opening of protected area, selector valve, actuating device, voice alarm device, safety device, emergency power source and indication specifications for dry chemicals fire extinguishing equipments.]]></條文內容>
@@ -1421,7 +1434,8 @@ Alarming length prescribed in Item (2) of above 5 meters within connecting point
     <條文內容><![CDATA[In five-storey or higher buildings with a total floor area more than 3000m2, the ringing mode of automatic fire alarm equipments shall meet the following requirements:
 1.When the fire is the on second floor or above, only this storey and the direct upper two storeys and the direct lower storey shall make alarm.
 2.When the fire is on the ground floor, only this storey and the direct upper storey and the underground storeys shall make alarm.
-3.When the fire is underground, only the first storey and the underground storeys shall make alarm.]]></條文內容>
+3.When the fire is underground, only the first storey and the underground storeys shall make alarm.
+4.The whole area should make alarm immediately when the alarm previous mentioned are activated less than ten minutes or the fire alarm signal receiving switchboard receives the fire signal again.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 114</條號>
@@ -1486,16 +1500,15 @@ Alarming length prescribed in Item (2) of above 5 meters within connecting point
 5.Places where lots of discharged waste gas stay.
 6.Places where fume will flow into in large amount.
 7.Places where dew is likely to form.
-8.Other places where the detector can’t work normally.
-Fame type detector may not be installed in the following places:
-1.Places listed in the above clauses 2~4, 6, and 7.
+8.Places where flame of equipments using fire is exposed outside.
+9.Other places where the detector can’t work normally.
+Flame type detector may not be installed in the following places:
+1.Places listed in the above clauses 2~4, or 6~7.
 2.Places where lots of steam stays.
-3.Places where flame of equipments using fire is exposed outside.
-4.Other places where the detector can’t work normally.
-9.There is lots of residual steam.
+3.Other places where the detector can’t work normally.
 Proper detector shall be selected from the table below for the places listed in the above two clauses.
 ┌─────────────┬────┬───┬───┬───┬
-│Place                     │   1    │  2   │  3   │  4   │
+│Place                     │   1    │   2  │   3  │   4  │
 │                          ├────┼───┼───┼───┼
 │                          │Where   │Where │Where │Where │
 │                          │lots    │lots  │corro-│fume  │
@@ -1506,82 +1519,86 @@ Proper detector shall be selected from the table below for the places listed in 
 │                          │        │      │given │      │
 │                          │        │      │off   │      │
 ├───┬────┬────┼────┼───┼───┼───┼
-│Type  │Diffe-  │Type I  │        │      │      │      │
+│Type  │Diffe-  │Type I  │   ○   │      │      │      │
 │of    │rential ├────┼────┼───┼───┼───┼
-│detec-│topical │Type II │        │      │      │      │
+│detec-│topical │Type II │   ○   │      │      │      │
 │tor   ├────┼────┼────┼───┼───┼───┼
-│      │Diffe-  │Type I  │   ○   │      │   ○ │      │
+│      │Diffe-  │Type I  │   ○   │      │  ○  │      │
 │      │rential ├────┼────┼───┼───┼───┼
-│      │distri- │Type II │   ○   │  ○  │   ○ │      │
+│      │distri- │Type II │   ○   │   ○ │  ○  │      │
 │      │buted   │        │        │      │      │      │
 │      ├────┼────┼────┼───┼───┼───┼
-│      │Compen- │Type I  │   ○   │      │   ○ │      │
+│      │Compen- │Type I  │   ○   │      │  ○  │      │
 │      │sated   ├────┼────┼───┼───┼───┼
-│      │topical │Type II │   ○   │  ○  │   ○ │      │
+│      │topical │Type II │   ○   │   ○ │  ○  │      │
 │      ├────┼────┼────┼───┼───┼───┼
-│      │Fixed   │Special │   ○   │  ○  │   ○ │   ○ │
+│      │Fixed   │Special │   ○   │   ○ │  ○  │   ○ │
 │      │tempe-  │Type    │        │      │      │      │
 │      │rature  ├────┼────┼───┼───┼───┼
-│      │        │Type I  │        │  ○  │   ○ │   ○ │
+│      │        │Type I  │   ○   │   ○ │  ○  │   ○ │
 │      ├────┴────┼────┼───┼───┼───┼
 │      │Flame type        │   ○   │      │      │      │
 ├───┴─────────┴────┴───┴───┴───┴
 │Note:
 │1. “○”stands for selectable equipments.
-│2. Fixed temperature or compensated type detectors used in
-│   places 1, 2, 4 and 8 shall be provided with waterproof
-│   functions.
-│3. In places 3, where fixed temperature or compensated type
-│   detectors are used, they shall be acid resistant or anti-
-│   corrosive pursuant to the class of the corrosive gas,
-│   where differential distributed detectors are used, effec-
-│   tive measures shall be taken to protect the air pipes and
-│   detectors from being corroded.
+│2. The differential topical type detector, compensated topical
+│ type detector or differential distributed type detector used
+│ in place 1 should have the structure that dust and powder are
+│ not easily invaded.
+│3. Fixed temperature or compensated type detectors used in
+│ places 1, 2, 4 and 8 shall be provided with waterproof
+│ functions.
+│4. In places 3, where fixed temperature or compensated type
+│ detectors are used, they shall be acid resistant or anti-
+│ corrosive pursuant to the class of the corrosive gas,
+│ where differential distributed detectors are used, effec-
+│ tive measures shall be taken to protect the air pipes and
+│ detectors from being corroded.
 └───────────────────────────────
-────┬───┬───┬───┐
- 5      │ 6    │  7   │8     │
-────┼───┼───┼───┤
-Under   │Where │Where │Where │
-signifi-│lots  │lots  │dew is│
-cantly  │of    │of    │likely│
-high    │dis-  │fume  │to    │
-tempera-│charge│will  │form  │
-ture    │waste │flow  │      │
-        │gas   │into  │      │
-        │stay  │      │      │
-────┼───┼───┼───┤
-        │  ○  │  ○  │      │
-────┼───┼───┼───┤
-        │  ○  │  ○  │      │
-────┼───┼───┼───┤
-        │  ○  │  ○  │  ○  │
-────┼───┼───┼───┤
-        │  ○  │  ○  │  ○  │
-        │      │      │      │
-────┼───┼───┼───┤
-        │  ○  │  ○  │  ○  │
-────┼───┼───┼───┤
-        │  ○  │  ○  │  ○  │
-────┼───┼───┼───┤
-   ○   │      │  ○  │  ○  │
-        │      │      │      │
-────┼───┼───┼───┤
-   ○   │      │  ○  │  ○  │
-────┼───┼───┼───┤
-        │  ○  │      │      │
-────┴───┴───┴───┤
-                                │
-                                │
-                                │
-                                │
-                                │
-                                │
-                                │
-                                │
-                                │
-                                │
-                                │
-────────────────┘]]></條文內容>
+────┬───┬───┬───┬─────┐
+    5   │   6  │   7  │  8   │  9       │
+────┼───┼───┼───┼─────┤
+Under   │Where │Where │Where │Places    │
+signifi-│lots  │lots  │dew is│where     │
+cantly  │of    │of    │likely│flame     │
+high    │dis-  │fume  │to    │of equi-  │
+tempera-│charge│will  │form  │pments    │
+ture    │waste │flow  │      │using fire│
+        │gas   │into  │      │is exposed│
+        │stay  │      │      │outside   │
+────┼───┼───┼───┼─────┤
+        │  ○  │  ○  │      │          │
+────┼───┼───┼───┼─────┤
+        │  ○  │  ○  │      │          │
+────┼───┼───┼───┼─────┤
+        │  ○  │  ○  │  ○  │          │
+────┼───┼───┼───┼─────┤
+        │  ○  │  ○  │  ○  │          │
+        │      │      │      │          │
+────┼───┼───┼───┼─────┤
+        │  ○  │  ○  │  ○  │          │
+────┼───┼───┼───┼─────┤
+        │  ○  │  ○  │  ○  │          │
+────┼───┼───┼───┼─────┤
+   ○   │  ○  │  ○  │  ○  │    ○    │
+        │      │      │      │          │
+────┼───┼───┼───┼─────┤
+   ○   │  ○  │  ○  │  ○  │    ○    │
+────┼───┼───┼───┼─────┤
+        │  ○  │      │      │          │
+────┴───┴───┴───┼─────┤
+                                │          │
+                                │          │
+                                │          │
+                                │          │
+                                │          │
+                                │          │
+                                │          │
+                                │          │
+                                │          │
+                                │          │
+                                │          │
+────────────────┴─────┘]]></條文內容>
   </條文>
   <條文>
     <條號>Article 118</條號>
@@ -1815,7 +1832,10 @@ The above-mentioned optical axis of detector refers to the line from the center 
 4.Where there are two or more fire alarm signal receiving switchboards in a same building, necessary equipments shall be installed for the receiving switchboards to communicate with each other.
 5.Drawings shall be provided nearby the fire alarm signal-receiving switchboard for distinguishing the division where the fire takes place.
 6.In fire alarm divisions equipped with accumulative detector or relay, the signal receiving switchboard may not have two-signal function.
-7.Where an accumulative time is set for the signal receiving switchboard, relay, and smoke-detecting detector, the time shall be not more than 60 seconds; where other detectors are used, the time is not more than 20 seconds.]]></條文內容>
+7.Where an accumulative time is set for the signal receiving switchboard, relay, and smoke-detecting detector, the time shall be not more than 60 seconds; where other detectors are used, the time is not more than 20 seconds.
+8.If it is difficult to hear the fire alarm or identify the emergency broadcast voice due to the volume of the business or the characteristics of the enclosed compartment in a music halls, ballrooms, night clubs, clubs, beauty parlors (tourist parlors and audio-video parlors, etc), massage parlors, video viewing halls (MTV, etc), audio-visual sing-along halls (KTV, etc), bars, pubs, and liquor stores (clubs) or other similar places, the relevant entertainment audio-visual equipment should be stopped in case of fire.
+9.The fire alarm signal receiving switchboard shall have the function of forcing the local alarm sound device to sound within a certain period of time after receiving the fire signal or when receiving the fire signal again.
+Buildings with a total floor area of less than 350 m2 may be equipped with a single loop fire alarm receiver switchboard, the installation of which is not restricted by the first paragraph and the third to fifth paragraphs of the preceding paragraph; the same applies to the floor and premises use classification in accordance with Article 19, paragraph 1, paragraph 4, and the floor area of the floor is less than 350 m2.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 126</條號>
@@ -1827,7 +1847,7 @@ The above-mentioned optical axis of detector refers to the line from the center 
   </條文>
   <條文>
     <條號>Article 127</條號>
-    <條文內容><![CDATA[Wiring of automatic fire alarm equipments shall comply with the following provisions in addition to indoor wiring specifications:
+    <條文內容><![CDATA[Wiring of automatic fire alarm equipments shall comply with the following provisions in addition to Regulations for Installation of User's Electricity Device:
 1.Signal loop of normally opened detectors shall employ serial connection, and terminal resistor shall be attached for the fire signal-receiving switchboard to perform automatic detection of loop disconnection.
 2.Where Type P signal receiving switchboard employs the wiring mode of several divisions sharing a same public line, the number of the divisions shall be not more than 7.
 3.Detector loop resistance of Type P signal receiving switchboard shall be less than 50Ω
@@ -1850,7 +1870,7 @@ Where two storeys share a same fire alarm division, the fire alarms shall be ins
   </條文>
   <條文>
     <條號>Article 130</條號>
-    <條文內容><![CDATA[Indicating lamps shall be installed in places equipped with manual alarm equipments and shall keep alight at other times, and the transparent cover shall be circular arc shaped and extends outside the wall. The lamp shall form an angle of 15°with the mounting surface, and there shall be no mask shielding the lamp within 10m away from the lamp.]]></條文內容>
+    <條文內容><![CDATA[Indicating lamps shall be installed in places equipped with manual alarm equipments and shall keep alight at other times. The lamp shall form an angle of 15°with the mounting surface, and there shall be no mask shielding the lamp within 10m away from the lamp.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 131</條號>
@@ -1944,8 +1964,8 @@ The emergency power of the emergency broadcasting equipments shall comply with A
   </條文>
   <條文>
     <條號>Article 139</條號>
-    <條文內容><![CDATA[Emergency broadcasting equipments shall be wired pursuant to indoor wiring specifications and the following provisions:
-1.A 250V DC insulation ohmmeter shall be used to measure the insulation resistance between the wire and the earth. Where the voltage to earth is not more than 150V, the resistance shall be not less than 0.1MΩ; where the voltage to earth exceeds 150V, the resistance shall be not less than 0.2MΩ.
+    <條文內容><![CDATA[Emergency broadcasting equipments shall be wired pursuant to Regulations for Installation of User's Electricity Device and the following provisions:
+1.A 250V DC insulation ohmmeter shall be used to measure the insulation resistance between the wire and the earth. Where the voltage to earth is not  more than 150V, the resistance shall be not less than 0.1MΩ; where the voltage to earth exceeds 150V, the resistance shall be not less than 0.2MΩ.
 2.The wire conduit may not be shared by other wires, unless the electric wire inside the conduit is used for light current with a voltage less than 60V.
 3.Short or disconnection of the circuit for the speaker in any storey will never affect the broadcasting of other storeys.
 4.Three-wire wiring shall be used where volume adjuster is equipped.]]></條文內容>
@@ -1994,7 +2014,7 @@ The above-mentioned gas refers to the following gas fuels:
   </條文>
   <條文>
     <條號>Article 144</條號>
-    <條文內容><![CDATA[Wiring of automatic fire alarm equipments for gas leakage shall comply with indoor wiring specifications.
+    <條文內容><![CDATA[Wiring of automatic fire alarm equipments for gas leakage shall comply with Regulations for Installation of User's Electricity Device.
 1.500V DC insulation ohmmeter shall be used to measure the insulation resistance between the wires of power circuit as well as between the wire and the earth. Where the voltage to earth is not more than 150V, the resistance shall be not less than 0.1MΩ; where the voltage to earth exceeds 150V, the resistance shall be not less than 0.2MΩ. And 500V DC insulation ohmmeter shall also be used to measure the insulation resistance between the wires of the detector circuit as well as between the wire and the earth, and the resistance shall be not less than 0.1MΩfor every alarm division.
 2.The signal loop of usually opened detector shall employ serial connection, and terminal resistor shall be attached for the gas leakage signal-receiving switchboard to perform automatic detection of disconnection.
 3.The circuit loop of detector may not be shared by equipments other than automatic fire alarm equipments for gas leakage.]]></條文內容>
@@ -2208,7 +2228,7 @@ The major evacuation routes provided in the preceding paragraph are as follows:
   </條文>
   <條文>
     <條號>Article 156</條號>
-    <條文內容><![CDATA[Wiring of exit indicating lamp and direction indicating lamp shall comply with indoor wiring specifications and meet the following requirements:
+    <條文內容><![CDATA[Wiring of exit indicating lamp and direction indicating lamp shall comply with Regulations for Installation of User's Electricity Device and meet the following requirements:
 1.Lamps shall be directly connected to branch wire without socket or switch.
 2.No switch shall be equipped for power supply circuit, unless three-wire wiring is used for frequently charging or battery is integrated in the lamp.]]></條文內容>
   </條文>
@@ -2466,7 +2486,7 @@ above       │above     │
     <條號>Article 159</條號>
     <條文內容><![CDATA[It is allowable that the required refuge appliances are not installed where the storeys meet any of the following requirements:
 1.The main construction is fireproof, and the part of each living room toward outside is equipped with balcony, which is equipped with a ladder leading to the ground or other facilities leading to another building.
-2.The main construction is fireproof, and each living room or tenement is directly connected to the through stairway, which is equipped with a Category A fireproof door fireproof roller shutter door excluded) that is able to be automatically closed, and the number of the accommodated people is less than 30.
+2.The main construction is fireproof, and each living room or tenement is directly connected to the through stairway, which is equipped with a fireproof door which can resist the fire for at least one hour (fireproof roller shutter door excluded) and is able to be automatically closed, and the number of the accommodated people is less than 30.
 3.In storeys used for places listed in Article 12.2(6) and (10) and 12.4, and the following requirements are satisfied:
 (1)The main construction is fireproof.
 (2)Two or more protected stairs are built, and every part of each storey has two or more different refuge and escape ways leading to the protected stairs.
@@ -2474,7 +2494,26 @@ above       │above     │
 5. In storeys, veterans home, long-term care institutions (limited to Institutional services ,Community-based services which building usage classification is not belong to H-2 of day care, group homes and small-size multi-function services), Senior Citizens’ Welfare Institutions (limited to long-term care, nursing, caring for dementia senior citizens of long-term care institutions, Domiciliary care institutions), children and youth welfare institutes(limited to infant nursery centers, early intervention institutions, settlement and education institutions which shelter infants under 2 years of age), nursing home institutions(limited to nursing homes, psychiatric nursing homes and postpartum nursing care institutions), postpartum nursing care centers, welfare institutions for the handicapped (limited to board and lodging, daycare, temporary, and short-term care facilities) used for the purposes listed in 12.1 (6), and the following requirements are satisfied:
 (1)The floor area is separated by fireproof wall and fireproof facilities. The areas is aisle connecting with safety stairway or safety stairway connecting with other safety stairway.
 (2) Decoration Materials is decorated with inflammable or fire-resistant materials of Grade I.
-(3) Automatic fire alarm equipments and water sprinkler automatic station is installed.]]></條文內容>
+(3) Automatic fire alarm equipments and water sprinkler automatic station is installed.
+The Disaster Prevention Center shall have a floor area of at least 40 m2 and shall comply with the following:
+1. The location of the center shall comply with the following subparagraphs:
+(1) The location shall be easily accessible for firefighters.
+(2)The location shall be easily accessible for emergency elevators and special refuge stairways.
+(3) The travel distance between the center exits and any exit that leads outdoors shall be less than 30 meters.
+2. The construction of the center shall comply with the following:
+(1) Shall be equipped dedicatedly with air conditioning, such as cooling, heating, and air exchange systems.
+(2) The disaster monitoring and controlling system and other related equipment shall be fixed firmly into position by anchor bolt or other fixing methods.
+(3) If the Center has sleeping or resting areas, the areas shall be located in fire compartment.
+3. The center shall install monitor and surveillaure controll panel to monitor or operate the following fire safety equipment:
+(1) The receiver of the automatic fire alarm system.
+(2) The receiver of the automatic gas leakage fire alarm system.
+(3) The speakers and operating devices of the emergency broadcasting equipment.
+(4)The pressurized water supply device of the standpipe and hose system, and the communication device at the fire department connection of the system.
+(5) Emergency generator.
+(6) The smoke detectors located on the constantly open fire doors.
+(7)The pressurized water supply devices of the hydrant, sprinkler, foam, water spray, and other fire-suppression equipment.
+(8) The dry power and carbon dioxide fire-suppression equipment.
+(9) The smoke exhaust equipment.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 160</條號>
@@ -2869,7 +2908,7 @@ above       │above     │
 │M16ｘ2          │≧70                    │600~850         │
 └────────┴────────────┴────────┘]]></條文內容>
   </條文>
-  <編章節>      Section 3 Emergency Lighting Equipments</編章節>
+  <編章節>      Section 2 Refuge Appliances</編章節>
   <條文>
     <條號>Article 175</條號>
     <條文內容><![CDATA[It is allowable emergency lighting equipments are not installed in the following places:
@@ -2935,7 +2974,7 @@ Total head = water head loss by fire hose friction + water head loss by matching
 H = h1 + h2 + h3 + 60m
 2.The water output of the relay pump shall be more than 2,400 L/min.
 3.Manual actuating device and red starting indicator lamp shall be equipped nearby the water outlet, unless remote controlled starting can be made by the disaster prevention center and communicator is equipped for communication between the water outlet and the center.
-4.Water outlet, stop valve and pressure regulating valve shall be equipped at the primary side of the relay pump, and inverted valve, stop valve and water inlet or outlet at the secondary side.
+4.Water outlet, stop valve and pressure regulating valve shall be equipped at the primary side of the relay pump, and inverted valve, stop valve and water inlet at the secondary side.
 5.Roof tank shall have a capacity of more than 0.5m3, and relay tank more than 2.5m3.
 6.Bypass pipe equipped with inverted valve shall be installed between inlet side matching pipe and outlet side matching pipe.
 7.When the sum of shutoff head and net positive suction head is more than 170m, additional pump shall be added to make serial connection and running.
@@ -2964,7 +3003,7 @@ H = h1 + h2 + h3 + 60m
 4.The construction shall ensure the water can be effectively pumped after the inlet pipe is thrown in.
 5.Throw-in holes or pumping mouth shall be equipped pursuant to the following requirements:
 (1)Throw-in holes shall be squares with a side length not less than 60cm, or circles with a diameter not less than 60cm, and covered by iron covers. Where the water inside the pool is less than 80m3, at least one hole shall be equipped; where the water is not less than 80m3, at least two holes.
-(2)Pumping mouths shall have a caliber of 75mm, and equipped with female screw thread. Where the water inside the pool is not less than 20m3, at least one mouth shall be equipped; not less than 40m3 but less than 120m3, at least two mouths; 120m3 ore more, at least three mouths. The matching pipe of the mouths shall have a caliber not less than 80mm, and the height above the ground shall be not less than 0.5m and not more than 1m.
+(2)Pumping mouths shall have a caliber of 100mm, and equipped with female screw thread. Where the water inside the pool is not less than 20m3, at least one mouth shall be equipped; not less than 40m3 but less than 120m3, at least two mouths; 120m3 ore more, at least three mouths. The matching pipe of the mouths shall have a caliber not less than 100mm, and the height above the ground shall be not less than 0.5m and not more than 1m.
 The above-mentioned effective quantity of water refers to the amount when the depth of the pool is within 4.5m under the ground except that mechanic method is used to draw water.]]></條文內容>
   </條文>
   <條文>
@@ -2998,16 +3037,17 @@ H = h1 + h2 + 15 m
   <條文>
     <條號>Article 188</條號>
     <條文內容><![CDATA[The smoke exhaust equipment set forth in Article 28, Paragraph 1 Subparagraph 1 to 4 shall be installed pursuant to the following:
-1.A draft-curtained compartment shall be constructed for every 500-m2 section of each floor. This requirement shall not apply to the venues accommodating audiences in theaters, cinemas, music halls,  assembly halls, and factory buildings or similar constructions, where ceiling height is over 5 meters high, and ceiling and interior walls are constructed using Class 1 flame-resistant materials.
+1.A draft-curtained compartment shall be constructed for every 500-m2 section of each floor. This requirement shall not apply to the venues accommodating audiences in theaters, cinemas, music halls, assembly halls, and factory buildings or similar constructions, where ceiling height is over 5 meters high, and ceiling and interior walls are constructed using Class 1 flame-resistant materials.
 2.A draft-curtained compartment shall be constructed for every 300-m2 section of an underground building passageway.
 3.Where the horizontal distance from any position in the compartment specified in the preceding two Subparagraphs (hereafter referred as smoke compartments) to the smoke exhaust vent is less than 30 meters, and the vent is located on the ceiling or within an 80-cm area under the ceiling, except where the vent directly leads outdoors, said vent shall be connected to a smoke exhaust duct. Where the vent is positioned under the ceiling and the depth of the draft curtain is under 80 cm, the vent shall be installed within the depth of the overhanging draft curtain.
 4.The smoke exhaust vents, ducts, and other parts connected to the smoke exhaust equipment exposing to smoke shall be constructed using non-combustible material.
-5.Where the smoke exhaust ducts cut across a fire compartment, a fire damper shall be installed on the intersection.  The construction of the intersection juncture where the duct crosses the fire compartment shall be fire resistance rated as that of the fire compartment. Where duct passes through other floor levels, the vertical duct shall be installed at the fire compartmented shaft. Where the exhaust duct has fire resistance performance, reviewed and approved by the central regulating authority, and the construction of the intersection juncture where the duct crosses the fire compartment is fire resistance rated as that of the fire compartment, the foregoing requirement shall not apply.
+5.Where the smoke exhaust ducts cut across a fire compartment, a fire damper shall be installed on the intersection. The construction of the intersection juncture where the duct crosses the fire compartment shall be fire resistance rated as that of the fire compartment. Where duct passes through other floor levels, the vertical duct shall be installed at the fire compartmented shaft. Where the exhaust duct has fire resistance performance, reviewed and approved by the central regulating authority, and the construction of the intersection juncture where the duct crosses the fire compartment is fire resistance rated as that of the fire compartment, the foregoing requirement shall not apply.
 6.The smoke exhaust vents shall be equipped with manual stations and detector activated automatic operating devices, and be kept closed under normal circumstances, unless being activated through the aforesaid stations and devices, or the remote operating devices. The construction of the vent blades shall allow the vents remain open and unaffected by the surge of smoke current after the vents are opened. The manual station shall be installed on a wall around 80 cm to 150 cm from the floor. Where the station is located on the ceiling, an overhanging chain or a vertical handle shall be attached to the station, and be located at a height of 180 cm from the floor. Easy-to-follow operating instructions shall be posted near the station.
-7.The vents shall have opening area measuring at least 2% of the  area of the smoke compartment, and allow smoke to be naturally and directly exhausted outdoors. Where a lack of such natural and direct exhaust capacity exists, a smoke exhaust fan shall be installed.
+7.The vents shall have opening area measuring at least 2% of the area of the smoke compartment, and allow smoke to be naturally and directly exhausted outdoors. Where a lack of such natural and direct exhaust capacity exists, a smoke exhaust fan shall be installed.
 8.The smoke exhaust fan shall be automatically activated upon the opening of any one of exhaust vents. The fan shall have a capacity of 120 m3/min. Where there is one smoke compartment, the capacity shall be at least 1 m3/min per square meter of the compartment area; where there are two or more smoke compartments, the capacity shall be at least 2 m3/min per square meter, based on the area of the largest compartment. Where the fan is located in an underground passageway of an underground building, total smoke exhaust capacity shall be at least 600 m3/min.
-9.The capacity of the emergency power source shall be capable of  operating the equipment effectively for a period of at least 30 minutes.
+9.The capacity of the emergency power source shall be capable of operating the equipment effectively for a period of at least 30 minutes.
 10.The smoke exhaust vents that directly face outdoors and are kept open at all times, shall not apply to the restrictions set forth in Subparagraphs 6 and 9.
+11.When the smoke vent is actived, the air conditioning and ventilation equipment should be stopped.
 The term “draft curtain” stated in the foregoing Subparagraphs refers to the overhanging wall made of incombustible materials and constructed downward from the ceiling measuring at least 50 cm, or a structure having equivalent or better capacity of restricting the movement of smoke. Where such is located in an underground passageway of an underground building, the draft curtain shall measure at least 80 cm from the ceiling]]></條文內容>
   </條文>
   <條文>
@@ -3064,7 +3104,7 @@ The fireproof door and window and other fireproof facilities mentioned in 1(1) o
 8.Each socket shall be equipped with a 110V 15A (or above) no-fuse breaker.
 9.Emergency power sockets shall be connected to emergency power supply system.]]></條文內容>
   </條文>
-  <編章節>      Section 5 Wireless Communication Auxiliary Equipments</編章節>
+  <編章節>      Section 5 Wireless Communication Auxiliary Equipments and Disaster Monitoring and Controlling System</編章節>
   <條文>
     <條號>Article 192</條號>
     <條文內容><![CDATA[Wireless communication auxiliary equipments shall be installed pursuant to the following provisions:
@@ -3077,14 +3117,29 @@ The fireproof door and window and other fireproof facilities mentioned in 1(1) o
 (1)They shall be located at the positions on the ground convenient for the firefighters to fetch, and in watchrooms or other places populated at other times.
 (2)Where the travel distance from any gateway to another is more than 300m, at least two above-mentioned connectors located on the ground shall be installed.
 (3)They shall be located 0.8~1.5m above the floor or the base ground.
-(4)They shall be installed in protecting boxes equipped with 2m or longer radio frequency cable inside. The boxes shall be provided waterproof and dust proof measures, and the box surface shall be painted red and marked with “Wireless Connectors Dedicated for Fire Service”.]]></條文內容>
+(4)They shall be installed in protecting boxes equipped with 2m or longer radio frequency cable inside. The boxes shall be provided waterproof and dust proof measures, and the box surface shall be painted red and marked with “Wireless Connectors Dedicated for Fire Service”.
+If there are more than two places in a joint building where wireless communication auxiliary equipment is installed, there should be measures to enable the equipment's signal to be connected.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 192-1</條號>
+    <條文內容><![CDATA[The disaster prevention center ,central management room or  duty room shall install disaster monitoring and controlling system to monitor or operate the following fire safety equipment:
+1.The receiver of the automatic fire alarm system.
+2.The receiver of the automatic gas leakage fire alarm system.
+3.The speakers and operating devices of the emergency broadcasting equipment.
+4.The pressurized water supply device of the standpipe and hose system, and the communication device at the fire department connection of the system.
+5.Emergency generator.
+6.The smoke detectors located on the constantly open fire doors.
+7.The pressurized water supply devices of the hydrant, sprinkler, foam, water spray, and other fire-suppression equipment.
+8.The dry power and carbon dioxide fire-suppression equipment.
+9.The smoke exhaust equipment.
+The emergency power supply of the integrated operation device of the disaster monitoring and controlling system shall be in accordance with the provisions of Article 38, and its power supply capacity shall be available for its effective operation for more than two hours.]]></條文內容>
   </條文>
   <編章節>Part 4 Fire Safety Design and Equipments for Public Hazardous Goods, Inflammable High-pressure Gas, Gas Station, Air Supply station, Storage Tank of Natural Gas, and Other Places</編章節>
   <編章節>   Chapter 1 Fire Protection Design</編章節>
   <條文>
     <條號>Article 193</條號>
     <條文內容><![CDATA[The rules specified in this part shall be applied to the following places (referred as places of public hazardous Materials in the following context):
-1. Places prescribed in the Configuration Standard and Safety Management Regulations of Public Hazardous Materials and Inflammable High-pressure Gas.
+1. Places prescribed in the Establishment Standard and Safety Control Regulation for Manufacturing, Storing, Processing Public Hazardous Substances and Flammable Pressurized Gases Places.
 2. Gas station.
 3. LPS station.
 4. Natural gas storage tank and flammable high-pressure air storage tank.
@@ -3096,13 +3151,11 @@ The fireproof door and window and other fireproof facilities mentioned in 1(1) o
 1. A manufacturing place or common processing place of public hazardous
 Materials that shall correspond to any one of the following subparagraphs:
 (1) The total floor area is more than 1,000 square meters.
-(2) The quantity of public hazardous Materials reaches more than 100 times of
-The regulation value. However, this shall not apply to the chlorates, perchlorates, and nitrates in Category I public hazardous Materials, the sulfur, iron powder, metal powder, and magnesium in Category II, and the nitric ethers and nitro compounds in Category V, or the high flash point Materials with an operating temperature of less than 100℃.
+(2) The quantity of public hazardous Materials reaches more than 100 times of the regulation value. However, this shall not apply to the chlorates, perchlorates, and nitrates in Category I public hazardous Materials, the sulfur, iron powder, metal powder, and magnesium in Category II, and the nitric ethers and nitro compounds in Category V, metal azides, or  contains any of the above components and for the use of explosives raw materials, or the high flash point Materials with an operating temperature of less than 100℃, which are not included in the control volume calculation.
 (3) The manufacturing or processing equipment is more than 6m above the ground. However, this shall not apply to the high flash point Materials with an operating temperature of less than 100℃.
 (4) The building may be used for other purposes in addition to processing of public hazardous Materials. However, this shall not apply to the buildings without opening and separated by the walls and floor boards which can resist fire for at least an hour, or the high flash point Materials with an operating temperature of less than 100℃.
 2. An indoor storage place which conforms to any of the following subparagraphs:
-(1) The quantity of the public hazardous Materials stored reaches more than
-150 times of the controlled value. However, this shall not apply to the chlorates, perchlorates, and nitrates in Category I public hazardous Materials, the sulfur, iron powder, metal powder, and magnesium in Category II, and the nitric ethers and nitro compounds in Category V, or the high flash point Materials.
+(1) The quantity of the public hazardous Materials stored reaches more than 150 times of the controlled value. However, this shall not apply to the chlorates, perchlorates, and nitrates in Category I public hazardous Materials, the sulfur, iron powder, metal    powder, and magnesium in Category II, and the nitric ethers and nitro compounds in Category V, metal azides, or  contains any of the above components and for the use of explosives raw materials, or the high flash point Materials, which are not included in the control volume calculation.
 (2) The total floor area of the storage place of Category I, III, V or VI public hazardous Materials is more than 150 m2. However, this shall not apply if there is no opening in every 150 m2 and the place is separated by the walls and floor boards which can resist fire for at least a half hour.
 (3) The total floor area of the storage place of inflammable solid of Category II public hazardous Materials or Category IV public hazardous Materials with a flash point of less than 70℃ is more than 150 m2. However, this shall not apply if there is no opening in every 150 m2 and the place is separated by the walls and floor boards which can resist fire for at least an hour.
 (4) The building of the storage place of Category I, III, V or VI public hazardous Materials may be used for purposes other than indoor storage. However, this shall not apply if the building has no opening and is separated by the walls and floor boards which can resist fire for at least an hour.
@@ -3135,7 +3188,7 @@ Materials which conforms to any of the following subparagraphs:
 3. An outdoor storage place which conforms to any of the following subparagraphs:
 (1) The area of the outdoor storage place of massive solid sulfur is more than 5 m2 and less than 100 m2.
 (2) The quantity of the public hazardous Materials stored is more than 100 times of the controlled value. However, this shall not apply to massive solid sulfur or high flash point Materials.
-4.  An indoor storage tank or outdoor storage tank which does not reach the provision on the place of obvious difficulty in fire-suppression. However, this shall not apply to the storage place of Category VI public hazardous Materials or high flash point Materials.
+4. An indoor storage tank or outdoor storage tank which does not reach the provision on the place of obvious difficulty in fire-suppression. However, this shall not apply to the storage place of Category VI public hazardous Materials or high flash point Materials.
 5.Type II distribution places
 6.An indoor gas station that does not have an obvious difficulty in fire-suppression is included.]]></條文內容>
   </條文>
@@ -3935,7 +3988,7 @@ sprinkling volume may be reduced by a half if the protected object is coated by 
   </條文>
   <條文>
     <條號>Article 235</條號>
-    <條文內容><![CDATA[The wiring of the emergency power supply system shall comply with indoor circuit wiring regulations and meet the following:
+    <條文內容><![CDATA[The wiring of the emergency power supply system shall comply with Regulations for Installation of User's Electricity Device and meet the following:
 1.The electric distribution circuit shall have dedicated circuit loop, isolated from the regular electrical circuit of the facility, and each switch shall be obviously labeled for specified fire safety equipment.
 2.The emergency power supply circuit and operating circuit shall use 600-volt, heat-resistant insulated wires, or wires with equivalent or better heat-resistant capacity.
 3.The flame-retardant protection of the power supply circuit shall meet the following:
@@ -3949,7 +4002,7 @@ sprinkling volume may be reduced by a half if the protected object is coated by 
   </條文>
   <條文>
     <條號>Article 236</條號>
-    <條文內容><![CDATA[The wiring of the fire safety equipment emergency power supply system shall be pursuant to the flame-retardant or heat-resistant protection prescribed in the following table:]]></條文內容>
+    <條文內容><![CDATA[The wiring of the fire safety equipment emergency power supply system shall be pursuant to the flame-retardant or heat-resistant protection prescribed in the following table:(ATTACHMENT)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 237</條號>
@@ -3970,17 +4023,7 @@ sprinkling volume may be reduced by a half if the protected object is coated by 
 2. The construction of the center shall comply with the following:
 (1) Shall be equipped dedicatedly with air conditioning, such as cooling, heating, and air exchange systems.
 (2) The disaster monitoring and controlling system and other related equipment shall be fixed firmly into position by anchor bolt or other fixing methods.
-(3) If the Center has sleeping or resting areas, the areas shall be located in fire compartment.
-3. The center shall install disaster monitoring and controlling system to monitor or operate the following fire safety equipment:
-(1) The receiver of the automatic fire alarm system.
-(2) The receiver of the automatic gas leakage fire alarm system.
-(3) The speakers and operating devices of the emergency broadcasting equipment.
-(4)The pressurized water supply device of the standpipe and hose system, and the communication device at the fire department connection of the system.
-(5) Emergency generator.
-(6) The smoke detectors located on the constantly open fire doors.
-(7)The pressurized water supply devices of the hydrant, sprinkler, foam, water spray, and other fire-suppression equipment.
-(8) The dry power and carbon dioxide fire-suppression equipment.
-(9) The smoke exhaust equipment.]]></條文內容>
+(3) If the Center has sleeping or resting areas, the areas shall be located in fire compartment.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 239</條號>
