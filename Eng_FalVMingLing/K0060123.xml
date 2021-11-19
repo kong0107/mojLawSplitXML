@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Use of Radio Frequencies</英文法規名稱>
 <中文法規名稱>無線電頻率使用管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060123</法規網址>
-<最新英文異動日期>20200702</最新英文異動日期>
+<最新英文異動日期>20210917</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -20,7 +20,8 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006274</下載網址>
   </檔案>
 </附件>
-<沿革內容><![CDATA[1.Promulgated on July 2, 2020]]></沿革內容>
+<沿革內容><![CDATA[1.Promulgated on July 2, 2020
+2.Amended on September 17, 2021]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Rules</編章節>
@@ -116,16 +117,17 @@ Asides from matters specified in Paragraph 1 of the preceding Article, the compe
   <編章節>      Section 1 Frequency Assignments</編章節>
   <條文>
     <條號>Article 12</條號>
-    <條文內容><![CDATA[Unless otherwise specified by laws, telecommunications enterprises shall comply with the following rules with respect to actual usable bandwidth:
-1. The actual usable bandwidth must not exceed one-third of the total bandwidth that is released through public bidding or auction for frequencies used by the entire telecommunications enterprise;
-2. The actual usable bandwidth below 1 GHz（gigahertz）must not exceed one-third of the total bandwidth below 1 GHz that is released through public bidding or auction for frequencies used by the entire telecommunications enterprise;
-3. The actual usable bandwidth below 3 GHz must not exceed one-third of the total bandwidth below 3 GHz that is released through public bidding or auction for frequencies used by the entire telecommunications enterprise;
-4. The actual usable bandwidth below 6 GHz must not exceed one-third of the total bandwidth below 6 GHz that is released through public bidding or auction for frequencies used by the entire telecommunications enterprise;
-5. The actual usable bandwidth between 3300-3570 MHz（megahertz）must not exceed 100 MHz.
-The actual usable bandwidth described in the preceding Paragraph refers to all bandwidths acquired through the relocation of approved frequencies, public bidding, auction, use of other telecommunications enterprise’s frequencies and frequency sharing.
-With respect to the actual usable bandwidth of telecommunications enterprise as described in Paragraph 1, the total thereof shall not be bounded by restrictions specified in Paragraph 1 under the competent authority’s considerations of the following factors:
+    <條文內容><![CDATA[Telecommunications enterprises shall comply with the following rules with respect to actual usable bandwidth:
+1. Below 1 GHz（gigahertz）: no more than one-third of the total bandwidth of frequencies below 1GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;
+2. Below 3 GHz: no more than one-third of the total bandwidth of frequencies below 3GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;
+3. Below 6 GHz: no more than one-third of the total bandwidth of frequencies below 6GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;
+4. The actual usable bandwidth between 3300-3570 MHz（megahertz）must not exceed 100 MHz;
+5. Above 24 GHz: no more than two-fifths of the total bandwidth of frequencies above 24GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise.
+The actual usable bandwidth described in the preceding Paragraph refers to all bandwidths acquired through the relocation of approved frequencies, public bidding or auction, the use of frequencies from another telecommunications enterprise and frequency sharing.
+According to Regulations Governing Application and Assignment of Radio Frequency for Telecommunications Enterprises, authorized by Article 53 and stipulations in Article 54 of the Act, frequency that can be allocated to telecommunications enterprises unless otherwise provided by law, shall not be bound by the restrictions specified in Paragraph 1.
+With respect to the actual usable bandwidth of telecommunications enterprise as described in Paragraph 1, the total thereof shall not be bound by restrictions specified in Paragraph 1 under the competent authority’s considerations of the following factors:
 1. Frequency use efficiency;
-2. Changes in market factors, such as business assignment, transfer or merger;
+2. Changes in market dynamics, such as business assignments, acquisitions or mergers;
 3. Other major public interests.]]></條文內容>
   </條文>
   <條文>
@@ -151,10 +153,11 @@ With respect to the actual usable bandwidth of telecommunications enterprise as 
   <編章節>      Section 2 Provision or Sharing of Radio Frequencies</編章節>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[The telecommunications enterprise may apply for the provision or sharing of radio frequency bands spreading in the following ranges in accordance with the Regulations. Applications for bands outside the ranges as described in the following subparagraphs shall not be approved:
-1. 3500 MHz band: 3300 MHz to 3570 MHz;
-2. 28000 MHz band: 27000 MHz to 29500 MHz;
-3. Other bands announced by the competent authority.]]></條文內容>
+    <條文內容><![CDATA[The telecommunications enterprise that applies for the provision or sharing of radio frequency shall be limited to the following frequency bands:
+1. 2100 MHz band: uplink 1920MHz~1980MHz; downlink:2110MHz~2170MHz – for use in mobile voice services in circuitswitched mode only.
+2. 3500 MHz band: 3300 MHz to 3570 MHz;
+3. 28000 MHz band: 27000 MHz to 29500 MHz;
+4. Other bands announced by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
@@ -202,15 +205,12 @@ The competent authority shall examine the following matters when considering the
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[Telecommunications enterprises that apply for the provision or sharing of radio frequencies shall, upon approval of the competent authority, submit the following documents to the competent authority to apply for the issuance or amendments to the frequency use certificate:
-1. Application form;
-2. An approval letter that certifies the approval of amendments to the network establishment plan and operating plan.]]></條文內容>
+    <條文內容><![CDATA[（Deleted）]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[Providers and recipients that apply for a prior termination of the provision or sharing of radio frequencies shall abide by the following rules:
-1. Apply for an approval for the amendments to network establishment plan and operating plan;
-2. Submit the approval letter that certifies the approval of network establishment plan and operating plan to apply for amendments to the frequency use certificate.]]></條文內容>
+    <條文內容><![CDATA[Providers and recipients that plan to terminate the provision or sharing of radio frequencies in advance, shall submit joint applications for approval to the competent authority within one month from six months prior to the scheduled termination date, submitting amendments to their network establishment plan and operating plan.
+Providers and recipients shall submit joint applications for the amendments to the network establishment plan and operating plan to the competent authority within one month from six months prior to the expiration of the approval period for the provision or sharing of radio frequencies.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
@@ -384,7 +384,8 @@ During the coordination as described in the precedent Paragraph, the competent a
   </條文>
   <條文>
     <條號>Article 51</條號>
-    <條文內容><![CDATA[The Regulations shall become effective on July 1, 2020.]]></條文內容>
+    <條文內容><![CDATA[The Regulations shall become effective on July 1, 2020.
+The amendments to these Regulations shall take effect on the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
