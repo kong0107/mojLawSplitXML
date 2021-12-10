@@ -3,33 +3,37 @@
 <英文法規名稱>Regulations on the Management of the Crew of Fishing Vessels</英文法規名稱>
 <中文法規名稱>漁船船員管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050006</法規網址>
-<最新英文異動日期>20180209</最新英文異動日期>
+<最新英文異動日期>20210823</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
-  <檔案>
-    <檔案名稱><![CDATA[Annex I Fishing Boat Crew Physical Examination Certificate.odt]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004102</下載網址>
-  </檔案>
   <檔案>
     <檔案名稱><![CDATA[Annex I Fishing Boat Crew Physical Examination Certificate.pdf]]></檔案名稱>
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004103</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Annex II The Entry Requirements and Required Documentation for Applying Training Courses of Fishing Vessel Crew Officers.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004104</下載網址>
+    <檔案名稱><![CDATA[Annex I Fishing Boat Crew Physical Examination Certificate.odt]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004102</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Appendix III Applicants who fulfill any one of the requirements may apply to enter the training course described as following.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004105</下載網址>
+    <檔案名稱><![CDATA[Annex II  The Entry Requirements and Required Documentation for Applying Training Courses of Fishing Vessel Crew Officers.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006970</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Annex III  Applicants who fulfill any one of the requirements may apply to enter the training course described as following.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006971</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Appendix III-I  The Verification Guidelines as Equivalent to the Trainings for Fishing Vessel Officer.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006972</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Annex IV Qualification, Procedures and Required Submission for Applying New Practicing Certificate of Officer of Fishing Vessel.pdf]]></檔案名稱>
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004106</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Annex V The Least Personnel Assigned for Various Level of Crew Officer.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004107</下載網址>
+    <檔案名稱><![CDATA[Annex V  The least numbers of crews and officers assigned for fishing vessels over 20 tons.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006973</下載網址>
   </檔案>
 </附件>
 <沿革內容><![CDATA[1.Promulgated on February 4, 1974
@@ -56,7 +60,9 @@
 22. Amendment to Articles 2, 11, 14, 14-1, 14-2, 15, 15-1, 15-2, 17, 24, 31 and Appendix 1 of Article 10 Article, Appendix 3 of Article 15, deleted Article 6, and addition of chapter 4-1, Articles 32-1, 32-2 promulgated on August 10, 2010
 23. Amendment to Appendix 3 of Article 15, promulgated on February 8, 2013
 24. Amendment to Articles 8-1, 17-1 promulgated on September 25, 2014
-25. Amendment to Articles 14, and Appendix 1 of Article 10 promulgated on February 9, 2018]]></沿革內容>
+25. Amendment to Articles 14, and Appendix 1 of Article 10 promulgated on February 9, 2018
+26. Amendment to Articles 2, 3, 14, 14-1, 14-2, 15, 15-1, 15-2, 16, 17, 19, 20, 22 to 24, 31, 32-1, 32-2, chapter 4-1, Appendix 2 of Article 11, and addition of 11-1, 32-3 promulgated on August 23, 2021
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter One General Principles</編章節>
@@ -67,28 +73,34 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[Terms and phrases used in the Regulations are as follows:
-1.Fishing vessels: Any type of vessel registered in the Republic of China for the purposes of fishery operation.
-2.Crew: Any working member on the fishing vessel, including crew officers and regular fishermen.
+1.Fishing vessels: Boats, sampans and fishing rafts on which fisheries are operated, and fishery patrol boats, fishery research boats and fishery training boats.
+2.Crew: Any working crew officers and regular fishermen on the fishing vessel. But not including observers and inspectors.
 3.Crew officer: Any working members on the fishing vessels holding the position as captain, mate, chief engineer, chief engineering supervisor, engineering supervisor, and radio operator.
-4.Ordinary fisherman: Regular fisherman other than crew officer.
-5.Captain: The one who is in charge of all affairs on the fishing vessel.
-6.Mate: A crew officer on deck in charge of navigation.
-7.Chief Engineer: A crew officer who is in charge of the operation of the vessel's main engines, auxiliary engines, and electronic devices.
-8.Chief Engineering Supervisor: A crew officer who is in charge of assisting and supervising operations of the engineering section of the vessel.
-9.Engineering Supervisor: A crew officer who is in charge of work in shifts, operation and maintenance of engineering.
-10.Radio Operator: An operator who is in charge of telecommunications.
-11.Fisheries Observer Onboard: Qualified as a crew member on the vessel, thus assigned by the competent authority of the central government and has been given tasks of collecting data, auditing fishery performances, and biological sampling.
-12.Length of fishing vessel: The length shall be conceived and measured according to Article 2 of the "Regulations for Measurement of Ship".
-13.Limited Water refers to the water area within the exclusive economic zone under the jurisdiction and sovereignty of the Republic of China.
-14.Unlimited Water refers to the water area beyond the Limited Water.
-15.A1 Water: Any water area within the range of high transmission frequency from coastal broadcast stations.
-16.A2 Water: Any water area beyond A1 and within medium transmission frequency from coastal broadcast stations.
-17.A3 Water: Any waters beyond A1 and A2 waters and within the range of telecommunication from a positioned satellite of the International Maritime Satellite Organization (INMARSAT).
-18.A4 Water: Any water area beyond A1, A2, and A3 waters.]]></條文內容>
+4. Ordinary fisherman: Regular fisherman other than crew officer.
+5. Captain: The one who is in charge of all affairs on the fishing vessel.
+6. Mate: A crew officer on deck in charge of navigation.
+7. Chief Engineer: A crew officer who is in charge of the operation of the vessel's main engines, auxiliary engines, and electronic devices.
+8. Chief Engineering Supervisor: A crew officer who is in charge of assisting and supervising operations of the engineering section of the vessel.
+9. Engineering Supervisor: A crew officer who is in charge of work in shifts, operation and maintenance of engineering.
+10. Radio Operator: An operator who is in charge of telecommunications.
+11. Observer: Assigned by the competent authority of the central government and has been given tasks of collecting data, auditing fishery performances, biological sampling, and other assigned mission.
+12. Inspector: Assigned by the competent authority of the central government to the official vessel and has been given tasks of inspecting fishing vessels, propaganda regulations, and other assigned mission.
+13. Length of fishing vessel: The length shall be conceived and measured according to Article 2 of the "Regulations for Measurement of Ship".
+14. Limited Water refers to the water area within the exclusive economic zone under the jurisdiction and sovereignty of the Republic of China.
+15. Unlimited Water refers to the water area beyond the Limited Water.
+16. A1 Water: Any water area within the range of high transmission frequency from coastal broadcast stations.
+17. A2 Water: Any water area beyond A1 and within medium transmission frequency from coastal broadcast stations.
+18. A3 Water: Any waters beyond A1 and A2 waters and within the range of telecommunication from a positioned satellite of the International Maritime Satellite Organization (INMARSAT).
+19. A4 Water: Any water area beyond A1, A2, and A3 waters.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[All Fishermen shall hold a Fishing Vessel Crew Identification; and a Fishing Vessel Officer Certificate shall be held by all crew officers.]]></條文內容>
+    <條文內容><![CDATA[All Fishermen, observers and inspectors shall hold a Fishing Vessel Crew Identification; and a Fishing Vessel Officer Certificate shall be held by all crew officers; Foreign Fisherman Certificate shall be held by all Foreign Fisherman hired by Employment Service Act.
+All Crews, observers and inspectors shall have valid certificates described in the preceding paragraph in held and kept when sail for fishery operation or mission. If the certificates aforesaid are not brought or be back reserved during punishing period, crews shall not be allowed for working on the sea. But the Foreign Fishermen may sail for fishery operation by holding the passport and the permit for recruitment issued by the Central Labor Competent Authority before getting the Foreign Fishermen Certificates.
+The people carried by the fishing vessels shall apply the regulations described in the 2 preceding paragraph. However, this limit is not applicable to any of the following circumstances:
+1.The passengers subjected to the Regulations for Recreational Fishery.
+2.The people who are permitted by the Competent Authority to rent the fishing vessels for the inspections and research of marine resource and environment, and other fishery management affairs.
+3.The people who are permitted by the Competent Authority to take the fishing vessels to execute the religion activities and traditional ceremonies.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -174,6 +186,14 @@ The application aforesaid of surety bond return shall be only viable within an 1
 For the entry requirements and required documentation for applying training courses of fishing vessel crew officers, are referred in Annex II.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 11-1</條號>
+    <條文內容><![CDATA[People to sign up for the aforesaid training shall be recommend by the employer to the Fishermen Associations or Communities. However, this limit is not applicable to any of the following circumstances:
+1.Having the documents assigned by the fishery patrol boats, fishery research boats and fishery training boats Authorities.
+2.The competent authority of central government assign the documents for the Observers, inspectors and people joining the working on the fishing vessel rewarding plan.
+3.Applicant for an internship on the fishing vessel recommended by school.
+Overseas Employment of Foreign Crew Members sign up for the aforesaid training shall be qualified to the Appendix 2 and recommended by the employer to the Fishermen Associations or Communities.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[The crew officers of the navigation unit on a fishing vessel, of which length overall is 12 meters or above but not exceeding 24 meters, and which has been applied to navigate to and operate in an unlimited water, shall hold a Fishing Vessel Officer Certificate for either the First Level Captain or the First Level Mate.
 Any crew officer other than the first grade captain or the first grade first mate, who wants to serve those positions mentioned in the preceding paragraph in the navigation unit on a fishing vessel, shall participate in relevant training on expertise and be qualified for this end.]]></條文內容>
@@ -184,43 +204,42 @@ Any crew officer other than the first grade captain or the first grade first mat
   </條文>
   <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[At the first-time application of the Fishing Vessel Crew Identification, a completed application form and required documents as following shall be submitted to the competent authority at local governments that are authorized and mandated by central government:
+    <條文內容><![CDATA[At the first-time application of the Fishing Vessel Crew Identification, a completed application form and required documents as following shall be submitted to the competent authority at local governments that are authorized and mandated by central government within 5 years after getting the Basic security training certificate stipulated in the Subparagraph 1 of paragraph 1, Article 11:
 1. 4 photos in 2-inch size , taken within the recent one year that should be revealing shoulders and clear facial without wearing hat;
 2. Personal ID or ARC/Alien Registration Certificate and one photocopy of either（Personal ID or ARC will be returned after verification）.
-3. One copy of declaration to describe not to have conditions stipulated in Paragraph 1 of Article 20 about not issuing the Fishing Vessel Crew Identification;
-4. One copy of employment contract, verified by local fisherman associations, except for those without employment relationship described in Paragraph 1 of Article 9, and crews of the public- purpose fishing vessels conducting fishing training, circuit protection, and researches; or fisheries observer who is on mission assigned by the competent authority of central government provided with documents that can offer reference for such a status.
-5. One copy of valid crew physical examination certificate issued by the medical institute stipulated in Paragraph 1 of Article 10;
-6. The original copy and one duplicate of the certificate of completion on basic security training, described in Subparagraph 1 of Paragraph 1, Article 11（the original copy will be returned after verification）;
-7. One copy of the agreement and the Personal ID or ARC of legal representative for minors.
-The certificate listed in Subparagraph 6 shall be valid for application of the Fishing Vessel Crew Identification within 5 months after issuing date. Over 5 years, crews intending to apply for the Identification shall take the basic security training stipulated in Subparagraph 1 of Paragraph 1, Article 11 of the Regulations again and receive the certificate of completion.
-The Fishing Vessel Crew Identification is valid for 5 years, and re-issuing application shall be made within 6 months before the expiration.]]></條文內容>
+3. One copy of employment contract, verified by local fisherman associations, except for those without employment relationship described in Paragraph 1 of Article 9, or Subparagraph 1 or 2 of paragraph 1, Article 11-1.
+4. One copy of valid crew physical examination certificate issued by the medical institute stipulated in Paragraph 1 of Article 10;
+5. One copy of the agreement and the Personal ID or ARC of one of legal representative for minors.
+The Fishing Vessel Crew Identification is valid for 5 years, and re-issuing application shall be made within 1 year before the expiration.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14-1</條號>
     <條文內容><![CDATA[For the renewal application of the Fishing Vessel Crew Identification, a completed application form and required documents as following shall be submitted to the competent authority at local governments that are authorized and mandated by central government：
 1. 4 photos in 2-inch size , taken within the recent one year that should be revealing shoulders and clear facial without wearing hat;
-2. The original Fishing Vessel Crew Identification;
+2. The original Fishing Vessel Crew Identification; clipped and return after re-issuing.
 3. Personal ID or ARC/Alien Registration Certificate with one photocopy of either.
-4. One copy of declaration to describe not to have conditions stipulated in Paragraph 1 of Article 20 about not issuing the Fishing Vessel Crew Identification;
-5. One copy of valid crew physical examination certificate issued by the medical institute stipulated in Paragraph 1 of Article 10;
-6. The last record of employment alternation registration in the original service Identification showing state of unemployed , the applicant shall submit the employment contract verified by local fisherman associations, except for those crews who are currently without employing status described in Paragraph 1 of Article 9; or serving on public-purpose fishing vessels to conduct fishing training, circuit protection, and researches, or with a status as Fisheries Observer.]]></條文內容>
+4. One copy of valid crew physical examination certificate issued by the medical institute stipulated in Paragraph 1 of Article 10;
+5. The last record of employment alternation registration in the original service Identification showing state of unemployed , the applicant shall submit the employment contract verified by local fisherman associations, except for those crews who are currently without employing status described in Paragraph 1 of Article 9 or Subparagraph 1 or 2 of paragraph 1, Article 11-1.
+Crews shall take the basic security training stipulated in Subparagraph 1 of Paragraph 1, Article 11 and apply for issuing the Identification stipulated in paragraph 1 Article 14, if the applicant did not sail for fishing operation in 5 years or the identification expired over 5 years.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14-2</條號>
-    <條文內容><![CDATA[In case of the Fishing Vessel Crew Identification would be expired, and expectably during the period of sailing and operating in deep seas or foreign waters, as the renewal of the identification may be applied through providing relevancies that the authority of central government has permitted for foreign seafaring, and other documents required by Subparagraph 1 ~4, Paragraph 1 of Article 14-1, except for those crews of public-purpose fishing vessels to conduct fishing training, circuit protection, and researches, or with a status as Fisheries Observer.
-In case of the original Identification could not be provided due to seafaring or other forceful/irresistible occurrences, the renewal of the identification may be applied through providing substitutes such as ID card, ARC/Alien Registration Certificate, passport, or driving license. The physical examination may be completed as late within 1 month after landing in Taiwan, or to provide certificates issued by foreign health/medical institutes, with verification and approval from embassies and representative offices of the Ministry of Foreign Affairs, R.O.C.]]></條文內容>
+    <條文內容><![CDATA[In case of the original Identification could not be provided due to seafaring for the crew of distant water fishing vessels, the renewal of the identification may be applied through providing substitutes such as ID card, ARC/Alien Registration Certificate, passport, or driving license; could not be provided the physical examination, the physical examination may be completed as late within 1 month after landing in Taiwan.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
     <條文內容><![CDATA[For applying the Fishing Vessel Officer Certificate, a completed application form and required documents as following shall be submitted to the competent authority at local governments that are authorized and mandated by central government：
 1.2 photos in 2-inch size , taken within the recent one year that should be revealing shoulders and clear facial without wearing hat;
-2.One duplicate of the fishing-vessel crew handbook;
-3.One original and duplicated copy of the certificate of the fishing-vessel crew examination issued by the Examination Yuan, and the certificate of completion of professional training for fishing vessel officers issued by the supervising institute of central government, or other certificates of trainings equal to those trainings for fishing-vessel officers through review verification of the supervising institute of central government（the original copy will be returned after verification）;
+2.One duplicate of the fishing-vessel crew handbook, except the Overseas Employment of Foreign Crew Members complete the Professional training for crew officers stipulated in Subparagraph 2 paragraph 1 Article 11;
+3.One original and duplicated copy of the following certificate（the original copy will be returned after verification）:
+(A) the fishing-vessel crew examination issued by the Examination Yuan;
+(B) the certificate of completion of professional training for fishing vessel officers issued by the supervising institute of central government;
+(C) the other certificates of trainings equivalent to those trainings for fishing vessel officers, refer to the certificate of examination for seafarers issued by Examination Yuan, the diploma of related departments in maritime colleges, or the certificate of competency for crews issued by Ministry of Transportation and Communication, which are reviewed and verified by the supervising institute of central government.
 4.One copy of valid crew physical examination certificate issued by the medical institute stipulated in Paragraph 1 of Article 10;
 5.Other documents for submission or verification, designated by the supervising institute of central government are referred in Annex III.
-Other certificates of trainings equivalent to those trainings for fishing vessel officers, described in Subparagraph 3 refer to the certificate of examination for seafarers issued by Examination  Yuan, the diploma of related departments in maritime colleges, or the certificate of competency for crews issued by Ministry ofTransportation and Communication, which are reviewed and verified to be equivalent as the trainings for crew officers by the supervising institute of central government. The review and verification guidelines shall be adapted by the supervising institute of central government.
-When applying for the Fishing Vessel Officer Certificate, apart from submitting the references and documentation required by 1~3, and have been awarded and holding certificate of examination, diploma, certificates of trainings, or certificate of competency that mentioned in the precedent paragraph for more than 5 years, the applicants shall take the professional training of crew officers stipulated in Subparagraph 2 of Paragraph 1, Article 11 of the Regulations again and acquire the certificate of training, expect for those who have already had 1 year of experience of fishery operation conduct gained from the past 5 years, provided with documents that can offer reference for such a profile.
-The certificate is valid for 5 years, and re-issuing application shall be made within 6 months before the expiration.]]></條文內容>
+The aforesaid verified criteria of equivalent trainings are referred in Annex III-I.
+When applying for the Fishing Vessel Officer Certificate, and have been awarded and holding certificate of examination, diploma, certificates of trainings, or certificate of competency that mentioned in the Subparagraph 3 of paragraph 1 for more than 5 years, the applicants shall take the professional training of crew officers stipulated in Subparagraph 2 of Paragraph 1, Article 11 of the Regulations again and acquire the certificate of training, expect for those who have already had 1 year of experience of fishery operation conduct gained from the past 5 years, provided with documents that can offer reference for such a profile.
+The certificate is valid for 5 years maximum within the valid period of Identification, and re-issuing application shall be made within 1 year before the expiration.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15-1</條號>
@@ -228,35 +247,38 @@ The certificate is valid for 5 years, and re-issuing application shall be made w
 1. 2 photos in 2-inch size , taken within the recent one year that should be revealing shoulders and clear facial without wearing hat;
 2. The duplicate of the fishing-vessel crew handbook;
 3. One copy of valid crew physical examination certificate issued by the medical institute stipulated in Paragraph 1 of Article 10;
-4. The original copy of the certificate;]]></條文內容>
+4. The original copy of the certificate; clipped and return after re-issuing.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15-2</條號>
-    <條文內容><![CDATA[In case of the Fishing Vessel Officer Certificate would be expired, and expectably during the period of sailing and operating in deep seas or foreign water. As the renewal of the certificate may be applied through providing relevancies that the authority of central government has permitted for foreign seafaring, and other documents required by the Article 15-1, except for those crews of public-purpose fishing vessels to conduct fishing training, circuit protection, and researches, or with a status as Fisheries Observer.
-In case of the original certificate could not be provided due to seafaring or other forceful/irresistible occurrences, the renewal of the certificate may be applied through providing substitutes such as ID card, ARC/Alien Registration Certificate, passport, or driving license. The physical examination may be completed as late within 1 month after landing in Taiwan, or to provide certificates issued by foreign health/medical institutes, with verification and approval from embassies and representative offices of the Ministry of Foreign Affairs, R.O.C.]]></條文內容>
+    <條文內容><![CDATA[In case of the original Officer Certificate could not be provided due to seafaring for the crew of distant water fishing vessels, the renewal of the Officer Certificate may be applied through providing substitutes such as ID card, ARC/Alien Registration Certificate, passport, or driving license; could not be provided the physical examination, the physical examination may be completed as late within 1 month after landing in Taiwan.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
-    <條文內容><![CDATA[Any person who applies for a Foreign Fisherman Certificate shall be required for his/her fishery operator to complete then submit an application form as well as required documents as following through the local fishery association to the municipal/county competent authority which is authorized by the central competent authority:
+    <條文內容><![CDATA[Fishery operators who hired Foreign Fisherman by Employment Service Act shall submit an application form as well as required documents as following through the local fishery association to the municipal/county competent authority which is authorized by the central competent authority to apply for a Foreign Fisherman Certificate with in 15 days after getting the employment permit:
 1. 2 photos in 2-inch size, taken within the recent one year that should berevealing shoulders and clear facial without wearing hat;
-2. Passport photocopy;
+2. Passport or entry permit photocopy;
 3. Photocopy of the employment permission issued by the Council of Labor Affairs;
-4. Photocopy of a physical examination report issued by a designated hospital by the Department of Health;
-5. Certificates of relevant trainings for qualified position according to Article 11-1.
-Any fishery operator who hires foreign fishermen shall, within seven days upon obtaining the employment permission issued by the Council of Labor Affairs, present a photocopy of the permission to the municipal/county competent authority for reference. After the foreign fisherman return upon term expiry or dismissal, the relevant fisherman association shall retrieve the Foreign Fisherman Certificate and return it to the original issuing authority.
-Term for the Foreign Fisherman Certificate shall not exceed the term of employment prescribed by the Council of Labor Affairs.]]></條文內容>
+When the aforesaid Foreign Fisherman Certificate are found column insufficient or damaged before expiration, Fishery operators shall submit an application form as well as required documents as following to the municipal/county competent authority which is authorized by the central competent authority to apply of re-issuance:
+1. 2 photos in 2-inch size , taken within the recent one year that should be revealing shoulders and clear facial without wearing hat;
+2. The original Foreign Fisherman Certificate.
+If the aforesaid Foreign Fisherman Certificate has found been lost before expiration, Fishery operators shall submit an application form as well as required documents as following to the municipal/county competent authority which is authorized by the central competent authority to apply of re-issuance:
+1. 2 photos in 2-inch size , taken within the recent one year that should be revealing shoulders and clear facial without wearing hat;
+2. ARC/Alien Registration Certificate, with 1 duplicate (ARC will be returned after verification);
+3. Declaration of lost.
+Term for the Foreign Fisherman Certificate shall not exceed the term of employment prescribed by the Council of Labor Affairs. The expiration of Foreign Fisherman Certificate reissued according to Paragraph 2 and Paragraph 3 will be the same with that of original Foreign Fisherman Certificate.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[All Crews including Fisheries Observers shall have Fishing Vessel Crew Identification in held and kept when sail for fishery operation or observation, and so shall the Fishing Vessel Officer Certificate to be held and kept by officers. If the certificates or identification aforesaid are not brought or be back reserved during punishing period, crews shall not be allowed for working on the sea. When the aforesaid certificates or identification are found missing the sufficient information and details or damaged, a completed application form and required documents as following shall be submitted for application of re-issuance:
+    <條文內容><![CDATA[When the aforesaid certificates or identification are found missing the sufficient information and details or damaged, a completed application form and required documents as following shall be submitted for application of re-issuance:
 1. 2 photos in 2-inch size , taken within the recent one year that should be revealing shoulders and clear facial without wearing hat;
 2. The original Fishing Vessel Crew Identification, or the Fishing Vessel Officer Certificate.
 If the aforesaid certificate or identification has found been lost before expiration, a completed application form and required documents as following shall be submitted for application of re- issuance:
 1. 2 photos in 2-inch size , taken within the recent one year that should be revealing shoulders and clear facial without wearing hat;
 2. Personal ID or ARC/Alien Registration Certificate, with 1 duplicate of either (Personal ID or ARC will be returned after verification);
 3. Declaration of lost.
-When applicants are requesting Identification re-issuance according to Paragraph 2 and Paragraph 3, and are found unemployed without employers, the employment contract verified by local fisherman associations shall be submitted, except for those crews who are currently without employing status described in Paragraph 1 of Article 9, or serving on public-purpose fishing vessels to conduct fishing training, circuit protection, and researches, or with a status as Fisheries Observer.
-The expiration of identification or certificate reissued according to Paragraph 2 and Paragraph 3 will be the same with that of original identification or certificate.]]></條文內容>
+When applicants are requesting Identification re-issuance according to Paragraph 2 and Paragraph 3, and are found unemployed without employers in the origin Identification , the employment contract verified by local fisherman associations shall be submitted, except for those crews who are currently without employing status described in Paragraph 1 of Article 9, or Subparagraph 1 or 2 of paragraph 1, Article 11-1.
+The expiration of identification or certificate reissued according to Paragraph 1 and Paragraph 2 will be the same with that of original identification or certificate.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17-1</條號>
@@ -269,16 +291,15 @@ When a foreign crew recruited within the territory of the Republic of China has 
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[Crew officers who are not allowed to operate as ordinary fishermen on a fishing vessel which measured as 12 meters and above in hull length, if the following conditions have been applying:
+    <條文內容><![CDATA[Crew officers who are not allowed to operate on a fishing vessel which measured as 12 meters and above in hull length, if the following conditions have been applying:
 1.Crew officers whose certificate has currently been withdrawn due to penalties, and has not yet completed the proceeding.
 2.Crew officers who have been under the condition of revocation or cease-apply (discard) of his or her certificate for less than 2 years.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
     <條文內容><![CDATA[The following conditions, if any of them has applied, the crew will be denied from the renewal application and issuance of Fishing Vessel Crew Identification or Fishing Vessel Officer Certificate:
-1.A crew, who is currently having sentences enforcing; sentences unaccomplished; or is wanted by the court/judicial authorities. One may be the exception, if he/she has been granted the permission of seafaring, during the period of probation/reprieve, by the order of court/prosecutor's office.
-2.A crew, whose Fishing Vessel Crew Identification or Fishing Vessel Officer Certificate has been revoked by the laws for less than two years.
-As the competent authority may seek assistance from the justice and police authorities to examine whether a crew's profile and conditions has been applicable to sub-paragraph 1 mentioned above.]]></條文內容>
+1.A crew, whose Fishing Vessel Crew Identification or Fishing Vessel Officer Certificate has been revoked by the Regulations for less than two years.
+2.A crew, whose Fishing Vessel Crew Identification or Fishing Vessel Officer Certificate has been revoked by Act for Distant Water Fisheries for less than 4 years.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
@@ -287,47 +308,43 @@ As the competent authority may seek assistance from the justice and police autho
   <編章節>   CHAPTER 3 Fishermen Assignment, Responsibility, Working Terms</編章節>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[The least personnel assigned for various levels of crew officers is referred to Annex V.]]></條文內容>
+    <條文內容><![CDATA[The least numbers of crews and officers assigned for fishing vessels over 20 tons is referred to Annex V.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[The rank of crew officers described in Article 4 are presented as follows:
+    <條文內容><![CDATA[The rank of crew officers described in Article 4 are presented as follows; who holds a higher ranking position, may take a lower ranking position:
 1.Navigation section: First Level Captain, First Level First Mate, Second Level Captain, Second Level Mate, Third Level Captain, Third Level Mate;
 2.Engineering section: First Level Chief Engineer, First Level Chief Engineering Supervisor, First Level Engineering Supervisor, Second Level Chief Engineer;
 3.Telecommunications section:
 (A) GMDSS Station：Radio Controller, Ordinary Operator on-duty, Restricted Operator on-duty;
 (B) Non-GMDSS Station: First Grade Radio Operator, Second Grade Radio Operator.
-Any personnel mentioned in the preceding paragraph, who holds a higher ranking position, may take a lower ranking position.
-Lower ranking crew officers at Navigation and Engineering sections may perform as a proxy for a higher ranking position, if his/her fishery operator has reported the matter and therefore gained approval from the central or municipal/county competent authorities.
-The period of deputation shall not be exceeding 3 years. An experienced fisherman may apply by the fishery operator to the municipal/county competent authority and receive an approval to act as a proxy Third Level Captain,
-Third Level First Mate, or Second Level Chief Engineer, with a cumulative term not exceeding two years.
-The experienced fishermen mentioned in the preceding paragraph means any fisherman with an age of 20 or above, who does not operate on a raft nor a sampan, and with at least one of the following conditions:
-1.Having served on a fishing vessel with length overall of less than 12 meters for three years;
-2.Having served on a fishing vessel with length overall of more than 12 meters but less than 24 meters for two years;
-3.Having served on a fishing vessel with length overall of more than 24 meters for one year.]]></條文內容>
+Lower ranking crew officers at Navigation and Engineering sections may perform as a proxy for a higher ranking position, if his/her fishery operator has reported the matter and therefore gained approval from the municipal/county competent authorities.But the Second Level Mate may act a proxy First Level Mate; the Third Level Captain may act a proxy Second Level Captain; the First Level Engineering Supervisor may act a proxy First Level Chief Engineer. The period of deputation shall not be exceeding 3 years.
+Fisherman with an age of 18 or above, who operate on a fishing vessel except raft nor a sampan for more than 1 year, may apply by the fishery operator to the municipal/county competent authority and receive an approval to act as a proxy Third Level Captain, or Second Level Chief Engineer, with a cumulative term not exceeding two years.
+The Foreign Fisherman hired by Employment Service Act or the Overseas Employment of Foreign Crew Members in the distant water fishing vessel power of main engine output rate lower than 750,000 watts, may act as a proxy Second Level Chief Engineer with a cumulative term not exceeding two years.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 24</條號>
     <條文內容><![CDATA[The captain is responsible for the safety and management of the whole fishing vessel and is in charge of the following tasks:
-1.To supervise and to direct all fishermen in navigation and fishery operation; in case of more than two fishing vessels operating as a group in the same fishery operation, captains of the subsidiary fishing vessels are under the command of captain of the main fishing vessel;
-2.To select fishing ground, to decide operation location, and to instruct fishing techniques;
-3.To use and maintain fishing gears, navigational and capturing equipments;
-4.To have the full knowledge of the fishing vessel's structure and functions; and at all time to oversee safety checks; upon a leave, the captain shall transfer the knowledge and property of the fishing vessel and relevant records to the successor;
-5.To proceed with immediate rescue when other fishing vessels calling for help, unless one’s fishing vessel itself is in danger;
-6.To keep well all legal proofs and documents pertaining to the fishing vessel;
-7.To keep entry of and examine the logbook at all times;
-8.To supervise and assess interns;
-9.To faithfully record in the logbook the cause, timing, and location of the following circumstances and have it sent to the navigation administration and fishery competent authority at the port at which the fishing vessel arrives first:
+1.To check the crews to have a valid Fishing Vessel Crew Identification, Foreign Fisherman Certificate, or the Fishing Vessel Officer Certificate.
+2.To supervise and to direct all fishermen in navigation and fishery operation; in case of more than two fishing vessels operating as a group in the same fishery operation, captains of the subsidiary fishing vessels are under the command of captain of the main fishing vessel;
+3.To select fishing ground, to decide operation location, and to instruct fishing techniques;
+4.To use and maintain fishing gears, navigational and capturing equipments;
+5.To have the full knowledge of the fishing vessel's structure and functions; and at all time to oversee safety checks; upon a leave, the captain shall transfer the knowledge and property of the fishing vessel and relevant records to the successor;
+6.To proceed with immediate rescue when other fishing vessels calling for help, unless one’s fishing vessel itself is in danger;
+7.To keep well all legal proofs and documents pertaining to the fishing vessel;
+8.To keep entry of and examine the logbook at all times;
+9.To supervise and assess interns;
+10.To faithfully record in the logbook the cause, timing, and location of the following circumstances and have it sent to the navigation administration and fishery competent authority at the port at which the fishing vessel arrives first:
 (A) This fishing vessel encountered maritime distress and danger;
 (B) To discover other fishing vessels in collision or maritime distress;
 (C) To rescue vessels or persons in maritime distress;
 (D) To penalize fishermen due to his faults;
-(E) Any fisherman who is missing, dead, harming others or disseminating contagious disease;
+(E) Any member on board who is missing, dead, harming others or disseminating contagious disease;
 (F) Other important matters.
-10.To make a maritime report according to Article 66 of the Shipmen Act;
-11. To provide Fisheries Observers sufficient and necessary aids to complete their assigned missions.
-12.Anything requests by the competent authority.
-The First Mate of the fishing vessel, if any, is responsible for the tasks mentioned in Subparagraph 3 of the preceding Paragraph.]]></條文內容>
+11.To make a maritime report according to Article 66 of the Shipmen Act;
+12. To provide Observers and inspectors sufficient and necessary aids to complete their assigned missions.
+13.Anything requests by the competent authority.
+The First Mate of the fishing vessel, if any, is responsible for the tasks mentioned in Subparagraph 4 of the preceding Paragraph.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 25</條號>
@@ -388,28 +405,38 @@ Any fishing vessel that does not assign a Radio Operator on board shall have a c
 3.to join a collective slowdown and strike or to intentionally sabotage the fishing vessel or fishing gears;
 4.to be absent from post or delay to return to the vessel upon the expiry of vacation;
 5.to lack cooperation or to demand unreasonable payment that cause other vessel to suffer from disaster or kidnapping;
-6.to poach other country's economic waters during operation, or to fish in a water area specifically prohibited by the Regulations of the competent authority or to intentionally capture marine organisms that are protected by regulations of the competent authority;
-7.to evade, undermine, or refuse mission conducts by Fisheries Observers.
-8.other activities that violate relevant laws or this Regulations.]]></條文內容>
+6. to evade, undermine, or refuse mission conducts by Observers and inspectors.
+7.other activities that violate relevant laws or this Regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 32</條號>
     <條文內容><![CDATA[Crew officer shall faithfully record on fishing areas, fishing results, sea conditions, and relevant fishery surveys on a daily basis according to the Regulations.]]></條文內容>
   </條文>
-  <編章節>   CHAPTER 4-1 Fisheries Observers’ Assignments and Duties</編章節>
+  <編章節>   CHAPTER 4-1 Observers’ and Inspectors’ Assignments and Duties</編章節>
   <條文>
     <條號>Article 32-1</條號>
-    <條文內容><![CDATA[The competent authority of the central government may assign Fisheries Observers to conduct the following tasks on fishing vessels:
+    <條文內容><![CDATA[The competent authority of the central government may assign Observers to conduct the following tasks on fishing vessels:
 1. To audit authenticity of the data and information provided by the Captain commanding the fishing vessel in operation.
 2. To audit whether the fishing vessel in operation is in compliance with laws and regulations or not.
 3. To be instructed by the order to collect data and biological samples.
 4. To report relevant information as being instructed by the order in specific time and means including emergency when occurs.
 5. Other tasks assigned to.
-Fisheries Observers’ tasks and missions described above may be profiled as experiences of Navigation section.]]></條文內容>
+Observers’ tasks and missions described above may be profiled as experiences of Navigation section.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 32-2</條號>
-    <條文內容><![CDATA[All fishers shall provide Fisheries Observers necessary living supports, medical of fishing vessel crews equivalent, as Captains and crews are obligated in aiding and co-operating with Fisheries Observers sustainable to complete their tasks and missions.]]></條文內容>
+    <條文內容><![CDATA[All fishers shall provide Observers necessary living supports, medical of fishing vessel crews equivalent, as Captains and crews are obligated in aiding and co-operating with Observers sustainable to complete their tasks and missions.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 32-3</條號>
+    <條文內容><![CDATA[The competent authority of the central government may assign Inspectors to conduct the following tasks on the vessels:
+1. To inspect the fishing vessels flying the flag of Taiwan complying the national regulation or the conservation and management measures of RFMOs.
+2. To board and inspect the fishing vessels, and to photograph and collect the evidence to make and send the record with the fishery patrol vessel.
+3. To propaganda the operating regulation of each ocean to the fishmen.
+4. To execute the marking plan of international biology or related cooperating conservation plan.
+5. To support updating(install) E-logbook and to train the captain using the VMS reporting catches.
+6. Other tasks assigned to.
+Inspectors’ tasks and missions described above may be profiled as experiences of Navigation section.]]></條文內容>
   </條文>
   <編章節>   CHAPTER 5 Addendum</編章節>
   <條文>
