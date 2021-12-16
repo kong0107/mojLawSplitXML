@@ -1,9 +1,9 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulation on Business Entity Accounting Handling</英文法規名稱>
+<英文法規名稱>Regulations on Business Entity Accounting Handling</英文法規名稱>
 <中文法規名稱>商業會計處理準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080010</法規網址>
-<最新英文異動日期>20181210</最新英文異動日期>
+<最新英文異動日期>20210916</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -11,25 +11,26 @@
 2.Amended and promulgated by Order Ching (62) Shang Tze No. 05694 on March 5, 1973.
 3.The entire 43 articles were amended and promulgated by Order Ching (85) Shang Tze No. 85213206 on August 28, 1996.
 4.Amended and promulgated by Order Ching (90) Shang Tze No. 0902188540 on September 12, 2000.
-5.Amended and promulgated by Order Ching (90) Shang Tze No. 09002269250 on December 26, 2001. 
+5.Amended and promulgated by Order Ching (90) Shang Tze No. 09002269250 on December 26, 2001.
 6.Article 34-1 was added by Order No. 09102054180 on April 17, 2002.
 7.Amended by Order No. 09502431220 on November 30, 2006.
 8.Amended by Order No. 10302430520 on November 19, 2014.
-9.Amended by Order No. 10702425960 on December 10, 2018.]]></沿革內容>
+9.Amended by Order No. 10702425960 on December 10, 2018.
+10.Amended by Order No. 11002426940 on September 16,2021.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provision</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This Regulation is be prescribed in accordance with Article 13 of Business Entity Accounting Act (hereinafter referred to as the “Act”).]]></條文內容>
+    <條文內容><![CDATA[These Regulations is be prescribed in accordance with Article 13 of Business Entity Accounting Act (hereinafter referred to as the “Act”).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The handling of business accounting affairs shall be in accordance with the provisions of the “Act”, this Regulation and all applicable legal directives. Matters not provided herein shall be subject to Generally Accepted Accounting Principles. However, starting the beginning of 2018 fiscal year, a company, except when it has control or significant influence over, or a joint venture interest in, an invested company, in which case it shall value the long-term equity investment using the equity method, may prepare financial statements voluntarily pursuant to provisions in Articles 3, 9 through 14, 16, 18, 24-1 through 26 and 28 of “Regulations Governing the Preparation of Financial Reports by Securities Issuers” promulgated by Financial Supervisory Commission, and shall be exempted from restrictions under this Regulation.]]></條文內容>
+    <條文內容><![CDATA[The handling of business accounting affairs shall be in accordance with the provisions of the “Act”, these Regulations and all applicable legal directives. Matters not provided herein shall be subject to Generally Accepted Accounting Principles. However, starting the beginning of 2018 fiscal year, a company, except when it has control or significant influence over, or a joint venture interest in, an invested company, in which case it shall value the long-term equity investment using the equity method, may prepare financial statements voluntarily pursuant to provisions in Articles 3, 9 through 14, 16, 18, 24-1 through 26 and 28 of “Regulations Governing the Preparation of Financial Reports by Securities Issuers” promulgated by Financial Supervisory Commission, and shall be exempted from restrictions under these Regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[A business entity may set up, as required, accounting documents,  account items, account books and financial statements in addition to thoselisted in this Regulation.
+    <條文內容><![CDATA[A business entity may set up, as required, accounting documents, account items, account books and financial statements in addition to those listed in these Regulations.
 The titles and formats of the bookkeeping voucher, account books and financial statements shall be announced by the Central Competent Authority.]]></條文內容>
   </條文>
   <條文>
@@ -104,14 +105,21 @@ Where a correction of a bookkeeping error does not affect the total, the correct
 Current assets including account items as follows:
 1.Cash and Cash equivalent: cash on hand, demand deposits, and short-term, highly liquid certificate deposits or investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
 2.Short-term investment: defined as investment that is short-term, including account items as follows, provided as a lien, collateral or refundable deposit, etc. shall be disclosed.
-(1)Financial assets at fair value through profit or loss-current: It is classified as held for trading or upon initial recognition it is designated as at fair value through profit or loss.
-(2)Available-for-sale financial assets-current: Non-derivative financial assets are designated as available for sale which shall be measured at fair value.
-(3)Financial assets measured at cost-current: Investments in equity instruments that do not listed and whose fair value cannot be reliably measured and derivatives that are linked to and must be settled by delivery of such unquoted equity instruments.
-(4)Bond investments without active market-current: Bond investments that do not have a quoted price in an active market and with fixed or determinable payments shall be measured at amortized cost.
-(5)Held-to-maturity financial assets-current: Held-to-maturity financial assets held until the date of expiry that expires within one year shall be measured at amortized cost.
-(6)Derivative financial assets for hedging-current: Designated by hedge accounting and be an effective hedging instrument of derivative financial asset shall be measured by fair value.
+(1)Financial assets measured at fair value through profit or loss-current:
+A.Financial assets not measured at amortized cost, measured at fair value through other comprehensive income or financial assets measured at cost.
+B.Financial assets measured at amortized cost or measured at fair value through other comprehensive income which be designated as financial assets measured at fair value through profit and loss at the time of initial recognition.
+(2)Financial assets measured at fair value through other comprehensive income-current:
+A.Debt instrument investments that meets all of the following conditions:
+a.Holds the financial assets within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets.
+b.The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+B.Equity investments not held for trading, for which the entity has irrevocably elected at initial recognition to present changes in fair value in "other comprehensive income".
+(3)Financial assets measured at amortized cost – current, meaning all of the following conditions are met:
+A.The asset is held within a business model whose objective is to hold assets in order to collect  contractual cash flows.
+B.The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+(4)Financial assets measured at cost-current: Investments in equity instruments that do not listed and whose fair value cannot be reliably measured and derivatives that are linked to and must be settled by delivery of such unquoted equity instruments.
+(5)Financial assets for hedging-current: Any financial asset that is a designated and effective hedging instrument under hedge accounting requirements.
 3.Notes Receivable: defined as various notes which are collected by the business entity.
-(1)Notes receivable shall be measured at amortized cost. However, short-term notes receivable with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+(1)Notes receivable should be measured at amortized cost as a principle. However, short-term notes receivable with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
 (2)Notes receivable that were discounted or transferred to others shall be disclosed.
 (3)Notes receivable arising from operations shall be presented separately from those not arising from operations.
 (4)Large-sum notes receivable from related persons shall be presented individually.
@@ -119,13 +127,13 @@ Current assets including account items as follows:
 (6)Notes receivable determined to be uncollectible shall be written off.
 (7)Notes receivable shall be valued at the date of statement of financial position for the unrecoverable amount, and any allowance for the uncollectible amount shall be properly provided and presented as the contra account of the notes receivable.
 4.Accounts receivables: defined as the claim of the business entity resulting from sale of goods or services.
-(1)Accounts receivable shall be measured at amortized cost. However, short-term accounts receivable with no stated interest rate may be measured at the transaction amount if the effect of discounting is immaterial.
+(1)Accounts receivable should be measured at amortized cost as a principle. However, short-term accounts receivable with no stated interest rate may be measured at the transaction amount if the effect of discounting is immaterial.
 (2)Large-sum accounts receivable from related persons shall be presented individually.
 (3)Unrealized interest revenues from installment sales shall be presented as the contra account of the accounts receivable.
 (4)Accounts receivable to be collected over one year, shall be disclosure for the amount of expected collection of each year.
 (5)Accounts Receivable have been collateralized, shall be disclosed.
 (6)Accounts receivable determined as uncollectible shall be written off.
-(7)Accounts receivable shall be valued at the financial position date for the unrecoverable amount,and any allowance for the uncollectible amount shall be properly provided and presented as the contra account of the trade receivables.
+(7)Accounts receivable shall be valued at the financial position date for the unrecoverable amount, and any allowance for the uncollectible amount shall be properly provided and presented as the contra account of the trade receivables.
 5.Other receivables: defined as the receivables that do not belong to the notes receivable and accounts receivable.
 (1)Other receivables shall be valued at the date of statement of financial position for the uncollected amount, and any allowance for doubtful accounts shall be properly provided and presented as the contra account of the other receivables.
 (2)Where the receivables are classified greater detail, the allowance for doubtful accounts shall also be presented accordingly.
@@ -135,16 +143,17 @@ Current assets including account items as follows:
 (2)Inventories shall be measured at the lower of cost and net realizable value. If the cost of inventories is higher than net realizable value, inventories shall be written down below cost to net realizable value, and the amount of the write-down shall be recognized as cost of sales in the period the write-down occurs.
 (3)Inventories that are provided as lien or guarantee, whose usage is supervised by creditors, etc. shall be disclosed.
 8.Prepayments: defined as various costs and expenses prepaid, including prepaid expenses and prepayments to suppliers.
-9.Other current assets: defined as current assets that do not belong to the previous eight categories of current assets.]]></條文內容>
+9.Other current assets: defined as current assets that do not belong to the previous eight categories of current assets.
+Any asset that cannot be attributed to the current assets as paragraph 1 indicated, a business entity should classify it as non-current asset.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
     <條文內容><![CDATA[Long-term investments include the following account items:
 1.Financial assets at fair value through profit or loss-non current.
-2.Available-for-sale financial assets-non current.
-3.Measured at cost financial assets-non current.
-4.Bond investments without active market -non current.
-5.Held-to-maturity financial assets-non current.
+2.Financial assets measured at fair value through other comprehensive income-non current.
+3.Financial assets measured at amortized cost-non current.
+4.Financial assets measured at cost -non current.
+5.Financial assets for hedging-non current.
 6.Investments accounted for using the equity method: defined as holding an investment in equity instruments with major influence or power of control.
 Long-term investments that are provided as lien or subject to restrictions, limitations, etc. shall be disclosed.]]></條文內容>
   </條文>
@@ -189,8 +198,8 @@ Intangible assets shall be carried at its cost less accumulated amortization and
   </條文>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[A business entity should be assess at the date of statement of financial position to available-for-sale financial assets, financial assets measured at cost, bond investments for which no active market exists, held-to-maturity financial assets, investments accounted for using the equity method, property, plant and equipment, investment property and intangible assets project whether there is any indication of impairment; If the carrying amount of the asset is greater than its recoverable amount, an impairment loss should be recognized.
-When there is evidence of goodwill, available-for-sale assets and equity instruments measured at cost investments other than the impairment loss recognized in prior periods out, may no longer exist or decreased when the carrying amount of the asset shall reverse rotation amount will be recognized to the current profit.
+    <條文內容><![CDATA[A business entity should be assess at the date of statement of financial position to financial assets measured at fair value through other comprehensive income, financial assets measured at cost, financial assets measured at amortized cost, investments accounted for using the equity method, property, plant and equipment, investment property and intangible assets project whether there is any indication of impairment; If the carrying amount of the asset is greater than its recoverable amount, an impairment loss should be recognized.
+When there is evidence of goodwill and equity instruments measured at cost investments other than the impairment loss recognized in prior periods out, may no longer exist or decreased when the carrying amount of the asset shall reverse rotation amount will be recognized to the current profit.
 Those have handled the asset revaluation, impairment occurs should first reduce the unrealized revaluation increment, if insufficient, recognized to current period loss. Rotation impairment loss when the loss recognized in the original scope of recognized to the current profit if the balance is recorded as unrealized revaluation increment.]]></條文內容>
   </條文>
   <條文>
@@ -200,9 +209,9 @@ Current liabilities include the following account items:
 1.Short-term borrowings: defined as the sum of money that is borrowed or is an overdraft from a financial institution or another party.
 (1)Shall be specified by type or nature, guarantee situation and interest rate range of the borrowings, and, if collateral is disclosed, the name and carrying amount of the collateral.
 (2)Borrowings from financial institutions, owners, employees, related persons, and other persons or institutions shall be separately disclosed.
-2.Short-term bills payable: defined as the short-term notes and bills issued through a commissioned financial institution for the purpose of obtaining funds from the money market, including commercial paper payable and bank acceptances, etc.Short-term bills payable shall be specified for the guarantee, institution of acceptance, interest rate, and if collateral is disclosed,the name and carrying amount of the collateral.
+2.Short-term bills payable: defined as the short-term notes and bills issued through a commissioned financial institution for the purpose of obtaining funds from the money market, including commercial paper payable and bank acceptances, etc. Short-term bills payable shall be specified for the guarantee, institution of acceptance, interest rate, and if collateral is disclosed, the name and carrying amount of the collateral.
 3.Financial liabilities at fair value through profit or loss-current: defined as when held for trading or is specified initial recognition of financial liabilities measured at fair value through profit or loss.
-4.Derivative financial liabilities for hedging-current: defined by hedge accounting and be an effective hedging instrument of derivative financial liabilities shall be measured by fair value.
+4.Financial liabilities for hedging-current: A financial liability that is a designated and effective hedging instrument under hedge accounting requirements.
 5.Financial liabilities measured at cost-current: defined as with the unlisted equity tools of the link and delivery settled derivatives such equity tools, financial liabilities whose fair value cannot be measured reliably.
 6.Notes payables: defined as the various notes payable by the business entity.
 (1)Notes payables arising from operations shall be separately presented from those not arising from operations.
@@ -218,13 +227,13 @@ Current liabilities include the following account items:
 10.Advance Receipts: defined as various sums of money received in advance. Advance receipts shall be disclosed separately by major category with special contract items specified.
 11.Provisions-current: defined as the uncertain point or amount of current liabilities. A business entity arising from past events has a present obligation, and it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation and provisions liabilities shall be recognized when a reliable estimate can be made of the amount of the obligation.
 12.Other current liabilities: defined as current liabilities that do not belong to the previous eleven categories.
-Short-term borrowings, short-term bills payable, notes payable, accounts payable and other payables should be measured at amortized cost.But they may be measured at the transaction amount if the effect of discounting is immaterial.]]></條文內容>
+Short-term borrowings, short-term bills payable, notes payable, accounts payable and other payables should be measured at amortized cost. But they may be measured at the transaction amount if the effect of discounting is immaterial.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 26</條號>
     <條文內容><![CDATA[Non-current liabilities: defined as the non-current liabilities do not belong to the current liabilities, including account items as follows:
 1.Financial liabilities at fair value through profit or loss-non current.
-2.Derivative financial liabilities for hedging-non current.
+2.Financial liabilities for hedging-non current.
 3.Financial liabilities measured at cost-non current.
 4.Bonds payable: defined as bonds issued by the business entity.
 (1)Premiums and discounts on bonds payable are valuation items of bonds payable. They shall be presented as an addition to or deduction from bonds payable, and shall also be amortized, as an adjustment to interest expenses, using the effective interest method during the period of bond circulation.
@@ -261,9 +270,9 @@ The appropriation of retained earnings (or the offsetting of deficit) shall only
   <條文>
     <條號>Article 30</條號>
     <條文內容><![CDATA[Other equity: defined as the items causing the increase or decrease of equity, including account items as follows:
-1.Unrealized gains or losses from available-for-sale financial assets: the gains and losses produced by financial assets available for sale measured at fair value.
-2.Gains (losses) on effective portion of cash flow hedges: defined as the effective portion of unrealized gains and losses on hedging instruments in a cash flow hedge.
-3.Gains (losses) on the exchange differences resulting from translating the financial statements in foreign operations: defined as the exchange differences resulting from translating the financial statements of a foreign operation and the monetary items of net investment in a foreign operation.
+1.Unrealized valuation gains and loss from financial assets measured at fair value through other comprehensive income: the valuation gains and losses produced by financial assets measured at fair value through other comprehensive income measured at fair value.
+2.Gains and loss on hedging instruments: defined as the effective portion of unrealized gains and loss on hedging instruments.
+3.Gains and loss on the exchange differences resulting from translating the financial statements in foreign operations: defined as the exchange differences resulting from translating the financial statements of a foreign operation and the monetary items of net investment in a foreign operation.
 4.Unrealized revaluation surplus: defined as the unrealized revaluation surplus arising under asset revaluation according to law.]]></條文內容>
   </條文>
   <條文>
@@ -315,7 +324,7 @@ Interest revenues and expenses shall be presented separately. Gains (losses) on 
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[Other comprehensive income: defined as the changes of the equity in the current period, including unrealized gains (losses) on available-for-sale financial assets, gains (losses) on effective portion of cash flow hedges, gains (losses) on exchange differences on translation of foreign financial statements, unrealized revaluation surplus.]]></條文內容>
+    <條文內容><![CDATA[Other comprehensive income: defined as the changes of the equity in the current period, including unrealized valuation gains and loss from financial assets measured at fair value through other comprehensive income, gains and loss on hedging instruments, gains and loss on exchange differences on translation of foreign financial statements, unrealized revaluation surplus.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41</條號>
@@ -358,8 +367,9 @@ Interest revenues and expenses shall be presented separately. Gains (losses) on 
   <編章節>   Chapter X Appendix</編章節>
   <條文>
     <條號>Article 45</條號>
-    <條文內容><![CDATA[This regulation shall be enforced from January 1, 2016. However, a business entity may voluntarily adopt the Regulation starting January 1, 2014.
-Except that Article 2 and Article 17 have been enforced starting January 1, 2018, amendments to the Regulation on December 10, 2018, shall be enforced starting January 1, 2019.]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall be enforced from January 1, 2016. However, a business entity may voluntarily adopt the Regulations starting January 1, 2014.
+Except that Article 2 and Article 17 have been enforced starting January 1, 2018, amendments to the Regulations on December 10, 2018, shall be enforced starting January 1, 2019.
+Amendments to the Regulations on September 16,2021, shall be enforced starting January 1,2023.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
