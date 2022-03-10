@@ -3,7 +3,7 @@
 <英文法規名稱>Administrative Regulations on Manufacturing, Import and Report of the Controlled Telecommunications Radio-Frequency Devices</英文法規名稱>
 <中文法規名稱>電信管制射頻器材製造輸入及申報作業管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060146</法規網址>
-<最新英文異動日期>20200715</最新英文異動日期>
+<最新英文異動日期>20211119</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -12,20 +12,20 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006340</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Table 2 Application form of Class 1 CTRFD Import Approval Certifica.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006341</下載網址>
+    <檔案名稱><![CDATA[Table 2 Application form of Class 1 CTRFD Import Approval Certificate.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007116</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Table 3 Relevant Documents to be Attached to the Application for the Class 1 CTRFD Import Approval Certificate.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006342</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007117</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Table 4 Application form of Class 2 CTRFD Import Approval Certificate.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006343</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007118</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Table 5 Details of Relevant Documents to be Attached to the Application for the Class 2 CTRFD Import Approval Certificate.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006344</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007119</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Table 6 CTRFD Report Information.pdf]]></檔案名稱>
@@ -44,7 +44,8 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006348</下載網址>
   </檔案>
 </附件>
-<沿革內容><![CDATA[1.24 Articles promulgated in full by National Communications Commission (NCC) on July 15, 2020 and since the date of implementation of the Telecommunications Management Law (July 1, 2020) implemented,Ref. Tong-Chuan-Bei No.10950033700]]></沿革內容>
+<沿革內容><![CDATA[1.Formulated and announced in 24 articles by National Communications Commission（NCC）on July 15, 2020. Ref：Tung-Chuan-Bei-Tzu No. 10950033700. 
+2.Several articles revised by National Communications Commission（NCC）on November 19, 2021. Ref：Tung-Chuan-Bei-Tzu No. 11050050761.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1  General Principles</編章節>
@@ -119,6 +120,39 @@ The import quantity in the subparagraph 6, Paragraph 1 can be imported for perso
 3. For the same natural person or judicial person, the number shall be limited to ten within one year. Among them, natural persons must be over 18 years old.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 8-1</條號>
+    <條文內容><![CDATA[Those that have obtained a certificate of special permit number for importing controlled telecommunication radio-frequency devices（hereinafter referred to as the certificate of special permit number）may import Class 2 CTRFDs for research, development and testing purposes.
+The certificate of special permit number shall be valid for two years and shall be divided into five levels according to the allowed number of imports as follows:
+1. Level 1 certificate of special permit number: More than 2,000 imports within the validity of the certificate of special permit number;
+2. Level 2 certificate of special permit number: Between 1,000 and 2,000 imports within the validity of the certificate of special permit number;
+3. Level 3 certificate of special permit number: Between 500 and 1,000 imports within the validity of the certificate of special permit number;
+4. Level 4 certificate of special permit number: Between 250 and 500 imports within the validity of the certificate of special permit number;
+5. Level 5 certificate of special permit number: Less than 250 imports within the validity of the certificate of special permit number.
+With respect to CTRFDs that are imported in accordance with Paragraph 1, the number of imported devices of the same models shall be limited to 750 only and the entity that acquires the certificate of special permit number shall be liable for the safekeeping of devices.
+The competent authority may, on a random basis, dispatch personnel to inspect the use and status of CTRFDs imported in accordance with Paragraph 1.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 8-2</條號>
+    <條文內容><![CDATA[Those that comply with provisions specified in the following subparagraphs may select one of the five levels prescribed in Paragraph 2 of Article 8-1 and apply for a certificate of special permit number to the competent authority:
+1. During the most recent two years, have obtained more than 50 import approval numbers from the competent authority each year on average; or, during the most recent two years, has been recognized by the Ministry of Economic Affairs as an excellent manufacturer and have obtained more than 30 import approval numbers from the competent authority each year on average.
+2. During the most recent two years, have not been subject to punitive measures by the competent authority due to the violation of Paragraph 1 or 2 of Article 18.
+Those that obtained the certificate of special permit number and comply with provisions of the following subparagraphs may, within two months from the three months prior to the expiry of the certificate, apply for reissuing the certificate of special permit number to the competent authority:
+1. Devices imported during the validity of the certificate of special permit number over the last four years have been well-managed internally without any incidents of missing or stolen items.
+2. According to the inspection conducted by the competent authority in accordance with Paragraph 4 of Article 8-1, all devices are within the office or factory location. Nevertheless, this shall not apply to the condition where the devices have been re-exported and the applicant provides a photocopy of customs export certificate or the evidence of re-export.
+Those that apply for a certificate of special permit number shall submit the following documents to the competent authority:
+1. Device management plan
+2. A list of import approval certificates issued by the competent authority during the most recent two years and documents that prove the competent authority agreed to remove the device control; or the management records of devices imported in accordance with Paragraph 1 of Article 8-1 during the validity of certificate of special permit number during the most recent four years（including the item name, quantity, use and direction of flow）.
+3. A list of testing personnel of the applicant, research plan, records or reports of the previous year demonstrating the research and development and testing capacity of the applicant.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 8-3</條號>
+    <條文內容><![CDATA[Where those that obtained a certificate of special permit number in accordance with Article 8-2 fall under any of the following circumstances, the competent authority may abolish the certificate thereof:
+1. The management status of the device differs from the management plan proposed during an inspection conducted by the competent authority in accordance with Paragraph 4 of Article 8-1.
+2. A penalty has been imposed thereon by the competent authority in accordance with Subparagraph 6 of Paragraph1 of Article 80 of the Regulations.
+Manufacturers whose certificate has been abolished by the competent authority in accordance with the preceding paragraph shall, within two years upon the abolishment date, re-export the CTRFD imported with the certificate or apply for destruction to the competent authority.
+Manufacturers whose certificate has been abolished by the competent authority in accordance with Paragraph 1 shall not apply for a certificate of special permit number within three years upon the abolishment date.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[When importing wireless telecommunication terminal equipment, low-power radio frequency equipment or amateur radio stations that have passed the inspection, the import may be processed with the verification certificate.]]></條文內容>
   </條文>
@@ -131,6 +165,11 @@ The import quantity in the subparagraph 6, Paragraph 1 can be imported for perso
     <條文內容><![CDATA[When a ship or aircraft carries imports from overseas, the CTRFD installed in the vessel shall be exempt from applying for an import approval certificate, but should apply for a radio station license in accordance with relevant laws and regulations.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 11-1</條號>
+    <條文內容><![CDATA[Foreign nationals that have obtained visa-free entry or possess a diplomatic visa, courtesy visa or visitor visa shall be eligible to import a mobile satellite earth station for private use without applying for an import approval certificate.
+The foreign national prescribed in the preceding paragraph shall be eligible to import only one mobile satellite earth station for private use.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[When an applicant applies for an import approval certificate, if the validity period specified in the approved network setting approval document, radio station setting approval document or the project approval document differ, they shall be applied for separately.]]></條文內容>
   </條文>
@@ -139,6 +178,10 @@ The import quantity in the subparagraph 6, Paragraph 1 can be imported for perso
     <條文內容><![CDATA[The validity period of the import approval certificate shall be one year, and each certificate shall be limited to one use. If necessary, an extension can be applied for one year prior to the expiration of the period, and the extension shall be limited to once only. However, the validity period of the import approval certificate shall not exceed the validity period of the installation permit or related approval documents.
 Should the import approval certificate be lost of misplaced, the application form shall be submitted to competent authority for re-issuance.
 When the information of import approval certificate is changed, the application form shall be submitted for replacement.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 13-1</條號>
+    <條文內容><![CDATA[The special code for radio-frequency devices as exemption from import approval certificate shall be announced by the competent authority separately.]]></條文內容>
   </條文>
   <編章節>   Chapter 4  Reporting operation</編章節>
   <條文>
@@ -175,16 +218,17 @@ For devices imported with project approval documents in accordance with subparag
 For devices imported in accordance with subparagraph 5 or 6, Paragraph 1, Article 7, the applicant shall re-export the imported CTRFD or apply for destruction under surveillance prior to the expiration of the valid period in the import approval certificate. If necessary, the applicant may apply for an extension with a written statement stating the reasons within 30 days prior to the expiration of the prescribed period. The extension period shall be limited to two years and be granted a maximum of two times.
 When any of the following circumstances occurs in the preceding two Paragraphs, the re-export of  imported CTRFD or application for destruction under surveillance of competent authority shall be exempt:
 1. The Class 1 CTRFD that has obtained the approval document for the network establishment, station establishment or a station license, and has submitted a report to the competent authority for reference.
-2. The CTRFD used as a special purpose, which has been approved by the competent authority.
+2. It has been deemed necessary by the competent authority after reviewing the device use and management plan of the applicant and there are no concerns pertaining to radio wave interference.
 For the device imported in accordance with subparagraph 7, Paragraph 1 of Article 7, the applicant shall not transfer it or use it for other commercial purposes, and shall obtain a mobile amateur radio license within six months from the date of issuance of the import approval certificate. If the applicant fails to obtain a license within six months from the date of issuance of the import approval certificate, the imported CTRFD shall be re-exported or reported to the competent authority for destruction under surveillance. If necessary, the applicant may apply for an extension with a written statement stating the reasons within 30 days before the expiration of the prescribed period. The extension period shall be six months and granted only once.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[For devices imported in accordance with subparagraph 3 to 5, Paragraph 1 of Article 8, the applicant shall re-export the imported CTRFD or apply for destruction under surveillance prior to the expiration of the period in the import approval certificate. If necessary, the applicant may destroy it by themselves and submit a record of the destruction process to the competent authority for reference.
 For devices imported in accordance with subparagraph 7, Paragraph 1, Article 8, the applicant shall re-export the imported CTRFD or apply for destruction under surveillance prior to the expiration of the period in the import approval certificate. If necessary, the applicant may destroy it by themselves and submit a record of the destruction process to the competent authority for reference.
-The applicant may apply for an extension with a written statement stating the reasons within 30 days before the expiration of the period in preceding two Paragraphs. The extension period shall be two years at most and granted a maximum of two times. When any of the following circumstances occurs, the re-export of  imported CTRFD or application for destruction under surveillance of competent authority shall be exempt:
-1. The CTRFD has obtained the certification and has been reported to the competent authority for reference.
-2. The CTRFD is used as a special purpose, which has been approved by the competent authority.
+The applicant may apply for an extension with a written statement stating the reasons within 30 days before the expiration of the period in preceding two Paragraphs. The extension period shall be two years at most and granted a maximum of two times.
+The re-export of imported CTRFD or application for destruction under surveillance of competent authority or self-destruction shall be exempt in any of the following circumstances:
+1. The CTRFD has obtained certification and has been reported to the competent authority for reference.
+2. The competent authority has deemed it unnecessary after reviewing the device use and management plan of the applicant and there are no concerns pertaining to radio wave interference.
 For the imported Class 2 CTRFD approved by the competent authority for the project approval that has not been verified and certificated, its replacement, suspension of use or transfer to a third party shall be approved by the competent authority.]]></條文內容>
   </條文>
   <條文>
@@ -222,7 +266,8 @@ Holders of PLB shall provide the equipment identification code and personal data
   </條文>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[These Regulations shall be effective from July 1, 2020.]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall be effective from July 1, 2020.
+Amendments to the Regulations shall become effective on the promulgation date.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
