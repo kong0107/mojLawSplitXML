@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Internal Audit and Internal Control System of Anti-Money Laundering and Countering Terrorism Financing of Banking Business and Other Financial Institutions Designated by the Financial Supervisory Commission</英文法規名稱>
 <中文法規名稱>銀行業及其他經金融監督管理委員會指定之金融機構防制洗錢及打擊資恐內部控制與稽核制度實施辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380262</法規網址>
-<最新英文異動日期>20181109</最新英文異動日期>
+<最新英文異動日期>20211214</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -12,7 +12,8 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004983</下載網址>
   </檔案>
 </附件>
-<沿革內容><![CDATA[1.Promulgated on November 9, 2018]]></沿革內容>
+<沿革內容><![CDATA[1.Promulgated on November 9, 2018
+2.Amended on December 14, 2021]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -22,21 +23,21 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[The “banking business” referred to in these regulations shall mean banks, credit cooperatives, postal institutions handling postal savings and remittance businesses, bills finance companies, credit card companies and trust enterprises.
-The “other financial institutions designated by the Financial Supervisory Commission(hereinafter referred to as the “FSC”)”referred to in these regulations shall mean electronic payment institutions and electronic stored value card issuers:
+The “other financial institutions designated by the Financial Supervisory Commission (hereinafter referred to as the “FSC”) referred to in these regulations shall mean electronic payment institutions and foreign migrant worker remittance companies (limited to small-amount remittance services for foreign migrant workers):
 1. “Electronic payment institution” shall mean an institution approved to engage in electronic payment business pursuant to the Act Governing Electronic Payment Institutions.
-2. “Electronic stored value card issuer ”shall means an institution approved to issue electronic stored value cards pursuant to the Act Governing Issuance of Electronic Stored Value Cards.]]></條文內容>
+2. “Foreign migrant worker remittance company” shall mean a company approved to engage in small-amount remittance services for foreign migrant workers pursuant to the Regulations Governing Small Amount Remittance Services for Foreign Migrant Workers.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[A banking business shall establish specific policies and procedures for correspondent banking and other similar relationships, including:
-1. Gather sufficient publicly available information to fully understand the nature of the respondent bank’s business and to determine its reputation and quality of management, including whether it has complied with the Anti-Money Laundering and Countering Terrorism Financing (hereinafter referred to as the “AML/CFT”)regulations and whether it has been investigated or received regulatory action in connection with money laundering or terrorist financing (hereinafter referred to as the “ML/TF”);
+    <條文內容><![CDATA[Banking businesses and other financial institutions designated by the FSC shall establish specific policies and procedures for correspondent banking and other similar relationships, including:
+1. Gather sufficient publicly available information to fully understand the nature of the respondent bank’s business and to determine its reputation and quality of management, including whether it has complied with the Anti-Money Laundering and Countering Terrorism Financing (hereinafter referred to as the “AML/CFT”) regulations and whether it has been investigated or received regulatory action in connection with money laundering or terrorist financing (hereinafter referred to as the “ML/TF”);
 2. Assess whether the respondent bank has adequate and effective AML/CFT controls;
 3. Obtain approval from senior management before establishing new correspondent bank relationships;
 4. Document the respective AML/CFT responsibilities of each party;
 5. Where a correspondent relationship involves in “payable–through accounts”, the banking business shall be required to satisfy itself that the respondent bank has performed customer due diligence (hereinafter referred to as the “CDD”) measures on its customers who have direct access to the accounts of the correspondent bank, and is able to provide relevant CDD information upon request to the correspondent bank;
 6. The banking business is prohibited from entering into correspondent relationships with shell banks and shall be required to satisfy itself that respondent financial institutions do not permit their accounts to be used by shell banks;
-7. For a respondent bank that is unable to provide the aforementioned information upon the request of the banking business, the banking business may decline the respondent bank’s application to open an account, suspend transactions with the respondent bank, file a suspicious ML/TF transaction report or terminate business relationship; and
-8.The aforementioned provisions are also applied to the respondent bank that is a foreign branch or subsidiary of the banking business.]]></條文內容>
+7. For a respondent bank that is unable to provide the aforementioned information upon request, the banking business or other financial institutions designated by the FSC may decline the respondent bank’s application to open an account, suspend transactions with the respondent bank, file a suspicious ML/TF transaction report or terminate business relationship; and
+8. The aforementioned provisions are also applied to the respondent bank that is a foreign branch or subsidiary of the banking business or financial institutions designated by the FSC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -44,19 +45,22 @@ The “other financial institutions designated by the Financial Supervisory Comm
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[A banking business shall conduct domestic and cross-border outward and inward wire transfers involving foreign currencies in accordance with the Directions Governing Banking Enterprises for Operating Foreign Exchange Business.
-An ordering financial institution shall conduct domestic wire transfers involving New Taiwan Dollar (hereinafter referred to as the “NTD”)in accordance with the following rules:
+    <條文內容><![CDATA[A banking business and other financial institutions designated by the FSC shall conduct domestic and cross-border outward and inward wire transfers involving foreign currencies in accordance with the following regulations:
+1. Banking business: Conduct wire transfers involving foreign currencies in accordance with the Directions Governing Banking Enterprises for Operating Foreign Exchange Business.
+2. Electronic payment institution: Conduct wire transfers involving foreign currencies in accordance with the Rules Governing the Administration of Electronic Payment Business.
+3. Foreign migrant worker remittance company: Conduct wire transfers involving foreign currencies in accordance with the Regulations Governing Small Amount Remittance Services for Foreign Migrant Workers.
+A banking business and other financial institutions designated by the FSC shall conduct domestic wire transfers involving New Taiwan Dollar (hereinafter referred to as the “NTD”) as ordering financial institutions in accordance with the following rules:
 1. Provide required and accurate originator information and required beneficiary information by any of the means below:
 (1) Include information on the originator and the beneficiary accompanying the wire transfer; or
 (2) Include the account number or a unique transaction reference number which permits the transaction to be traced back to the originator and the beneficiary and make information available within three business days of receiving the request either from the beneficiary financial institution or from appropriate competent authorities. However, Law enforcement authorities should be able to compel immediate production or such information and the banking business shall respond accordingly.
-2.Maintain the following required information on the originator and the beneficiary in accordance with Article 12 of the Regulations Governing Anti-Money Laundering of Financial Institutions:
-(1)The aforementioned originator information shall include: name of the originator, the originator account number where such an account is used to process the transaction (if not available, a unique transaction reference number that permits traceability), and the information by any of the means below:
+2. Maintain the following required information on the originator and the beneficiary in accordance with Article 12 of the Regulations Governing Anti-Money Laundering of Financial Institutions:
+(1) The aforementioned originator information shall include: name of the originator, the originator account number where such an account is used to process the transaction (if not available, a unique transaction reference number that permits traceability), and the information by any of the means below:
 A. National identity number;
 B. The originator’s address; or
 C. Date and place of birth.
-(2)The aforementioned beneficiary information shall include: name of the beneficiary and the beneficiary account number (if not available, a unique transaction reference number that permits traceability).
-A banking business that fails to conduct wire transfers in accordance with the preceding two paragraphs is not allowed to engage in wire transfer business.
-A beneficiary financial institution shall conduct domestic wire transfers involving NTD in accordance with the following rules:
+(2) The aforementioned beneficiary information shall include: name of the beneficiary and the beneficiary account number (if not available, a unique transaction reference number that permits traceability).
+A banking business or other financial institutions designated by the FSC that fail to conduct wire transfers in accordance with the two preceding paragraphs are not allowed to engage in wire transfer business.
+A banking businesses or other financial institutions designated by the FSC serving as beneficiary financial institutions shall conduct domestic wire transfers involving NTD in accordance with the following rules:
 1. Have risk-based policies and procedures for determining when to execute, reject, or suspend a wire transfer lacking the information specified under Subparagraph 2, Paragraph 2 hereof, and the appropriate follow-up action.
 2. Maintain the information on the originator and the beneficiary received in accordance with Article 12 of the Regulations Governing Anti-Money Laundering of Financial Institutions.]]></條文內容>
   </條文>
@@ -124,7 +128,8 @@ The chief AML/CFT compliance officer, the personnel of dedicated AML/CFT unit an
 3. Having received an AML/CFT professional certificate issued by an international or a domestic institution recognized by the FSC.
 The chief AML/CFT compliance officer, AML/CFT personnel and the AML/CFT supervisor of domestic business units of a banking business and other financial institutions designated by the FSC shall annually attend at least 12 hours of training on AML/CFT offered by internal or external training units consented by the chief AML/CFT compliance officer mentioned in Paragraph 1of Article 7herein.The training shall cover at least newly amended laws and regulations, trends and typologies of ML/TF risks. If the person has obtained an AML/CFT professional certificate issued by an international or a domestic institution recognized by the FSC in a year, the certificate may be used to substitute the training hours for the year.
 The AML/CFT supervisor and the AML/CFT compliance officer and personnel of foreign business units of a banking business and other financial institutions designated by the FSC shall possess professional knowledge on AML/CFT, be well informed in relevant local regulations, and annually attend at least 12 hours of training on AML/CFT offered by foreign competent authorities or relevant institutions. If no such training is available, the personnel may attend training courses offered by internal or external training units consented by the chief AML/CFT compliance officer mentioned in Paragraph 1 of Article 7herein.
-A banking business and other financial institutions designated by the FSC shall annually arrange appropriate hours and contents of orientation and on-the-job training on AML/CFT for its directors (council members), supervisors, president, legal compliance personnel, internal auditors, and business personnel in view of the nature of its business, to familiarize them with their AML/CFT duties and equip them with the professional knowhow to perform their duties.]]></條文內容>
+A banking business and other financial institutions designated by the FSC shall annually arrange appropriate hours and contents of orientation and on-the-job training on AML/CFT for its directors (council members), supervisors, president, legal compliance personnel, internal auditors, and business personnel in view of the nature of its business, to familiarize them with their AML/CFT duties and equip them with the professional knowhow to perform their duties.
+Foreign migrant worker remittance companies shall be required to arrange pre-job training and on-the-job training on AML/CFT with suitable contents and appropriate number of hours for related personnel each year based on the characteristics of their business, ML/TF risks, and common deficiencies found in foreign migrant worker remittance transactions. The regulations from Paragraph 2 to the preceding paragraph do not apply.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>

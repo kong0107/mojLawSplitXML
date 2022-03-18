@@ -3,12 +3,13 @@
 <英文法規名稱>Regulations Governing Anti-Money Laundering of Financial Institutions</英文法規名稱>
 <中文法規名稱>金融機構防制洗錢辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380252</法規網址>
-<最新英文異動日期>20181114</最新英文異動日期>
+<最新英文異動日期>20211214</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on June 28, 2017
-2.Amended on November 14, 2018]]></沿革內容>
+2.Amended on November 14, 2018
+3.Amended on December 14, 2021]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -22,18 +23,19 @@
 (1) "Banking business" includes banks, credit cooperatives, postal offices which also handle money transactions of deposit, transfer and withdrawal, bills finance companies, credit card companies and trust enterprises.
 (2) "Securities and futures business" includes securities firms, securities investment and trust enterprises, securities finance enterprises, securities investment consulting enterprises, securities central depository enterprises, and futures commission merchants.
 (3) "Insurance enterprise" includes insurance companies, reinsurance companies, and post offices engaging in simple life insurance business.
-(4) "Other financial institutions designated by the FSC" includes electronic stored value card issuers, electronic payment institutions, leverage transaction merchants, futures trust enterprises, and managed futures enterprises, as well as insurance agent companies, insurance broker companies, and individuals working as insurance agents and insurance brokers (hereinafter referred to as "insurance agents" and "insurance brokers").
+(4) "Other financial institutions designated by the FSC" includes electronic payment institutions, foreign migrant worker remittance companies (limited to small-amount remittance services for foreign migrant workers), leverage transaction merchants, futures trust enterprises, and managed futures enterprises, as well as insurance agent companies, insurance broker companies, and individuals working as insurance agents and insurance brokers (hereinafter referred to as "insurance agents" and "insurance brokers").
 2. “A certain amount” shall mean NT$500,000 (including the foreign currency equivalent thereof).
 3. “A certain quantity” shall mean 50 electronic stored value cards.
 4. “Cash transaction” shall mean cash receipt or payment in a single transaction (including all transactions recorded on cash deposit or withdrawal vouchers for accounting purpose), or the transaction of currency exchange.
-5. "E-payment account" shall mean an online account opened by users with an electronic payment institution to keep track of their funds transfer and funds deposit records. The term "users" mentioned above shall mean persons who register and open an electronic payment account ("e-payment account") with an electronic payment institution and use the services provided by the electronic payment institution to make funds transfer or deposit stored value funds.
-6. “Customer” shall mean the customers of banking businesses, securities and futures businesses and insurance enterprises, the users of e-payment accounts and the cardholders of electronic stored value card issuers.
-7. “Beneficial owner” shall mean the natural person(s) who ultimately owns or controls a customer and/or the natural person on whose behalf a transaction is being conducted, including those persons who exercise ultimate effective control over a legal person or arrangement.
-8. “Risk-based approach” (RBA) shall mean financial institutions should identify, assess and understand the money laundering and terrorist financing (ML/TF) risks to which they are exposed and take appropriate anti-money laundering and countering terrorist financing (AML/CFT) measures commensurate with those risks in order to effectively mitigate them. Based on the RBA, financial institutions should take enhanced measures for higher risk situations, and take relatively simplified measures for lower risk situations to allocate resources efficiently, and use the most appropriate and effective approach to mitigate the identified ML/TF risks.]]></條文內容>
+5. “Customer” shall mean the customers of banking businesses, securities and futures businesses, insurance enterprises, and other financial institutions, and the users of electronic payment account (hereinafter referred to as the “e-payment accounts”) and stored value cards. The aforementioned user refers to an individual or an entity that has signed a contract with an electronic payment institution for using an e-payment account or stored value card to transfer payment funds or store value.
+6. "E-payment account" shall mean a payment instrument that accepts, through a network or electronic payment platform, the registration and account opening by users to keep track of their funds transfer and funds deposit record, and uses electronic equipment to convey the receipt/payment information via connection.
+7. A "stored value card" refers to a physical or non-physical payment instrument in the form of a chip, card, or certificate with data storage or computing functions that uses electronic, magnetic, or optical technology to store monetary value.
+8. “Beneficial owner” shall mean the natural person(s) who ultimately owns or controls a customer and/or the natural person on whose behalf a transaction is being conducted, including those persons who exercise ultimate effective control over a legal person or arrangement.
+9. “Risk-based approach” (RBA) shall mean financial institutions should identify, assess and understand the money laundering and terrorist financing (ML/TF) risks to which they are exposed and take appropriate anti-money laundering and countering terrorist financing (AML/CFT) measures commensurate with those risks in order to effectively mitigate them. Based on the RBA, financial institutions should take enhanced measures for higher risk situations, and take relatively simplified measures for lower risk situations to allocate resources efficiently, and use the most appropriate and effective approach to mitigate the identified ML/TF risks.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[A financial institution shall comply with the following provisions in undertaking customer due diligence (CDD) measures：
+    <條文內容><![CDATA[A financial institution shall comply with the following provisions in undertaking customer due diligence (CDD) measures:
 1. A financial institution shall not accept anonymous accounts or accounts in fictitious names for establishing or maintaining business relationship.
 2. A financial institution shall undertake CDD measures when:
 (1) establishing business relations with any customer;
@@ -42,7 +44,7 @@ A. a single transaction (including domestic remittances) or a certain number (or
 B. a cross-border wire transfer involving NTD 30,000 or more (including the foreign currency equivalent thereof);
 (3) there is a suspicion of money laundering or terrorist financing; or
 (4) the financial institution has doubts about the veracity or adequacy of previously obtained customer identification data.
-3. The time of establishing business relations with any customer mentioned under Item (1) of the preceding subparagraph is when accepting a customer’s registration application in the case of an electronic payment institution, and when accepting a customer’s registration of an electronic stored value card in the case of an electronic stored value card issuer.
+3. The time of establishing business relations with any customer mentioned under Item (1) of the preceding subparagraph is when accepting a customer’s registration application and opening of an e-payment account in the case of an electronic payment institution, and when accepting a customer’s registration application in the case of foreign migrant worker remittance companies that operate foreign small-amount remittances for migrant workers.
 4. The CDD measures to be taken by a financial institution shall be as follows:
 (1) Identifying the customer and verifying that customer’s identity using reliable, independent source documents, data or information. In addition, a financial institution shall retain copies of the customer’s identity documents or record the relevant information thereon.
 (2) Verifying that any person purporting to act on behalf of the customer is so authorized, identifying and verifying the identity of that person using reliable, independent source documents, data or information. In addition, the financial institution shall retain copies of the person’s identity documents or record the relevant information thereon.
@@ -69,7 +71,7 @@ B. an enterprise owned by the R.O.C government;
 C. a foreign government entity;
 D. a public company and its subsidiaries;
 E. an entity listed on a stock exchange outside R.O.C. that is subject to regulatory disclosure requirements of its principal shareholders, and the subsidiaries of such entity;
-F. a financial institution supervised by the R.O.C. government, and an investment vehicles managed by such institution;
+F. a financial institution supervised by the R.O.C. government, and investment vehicles managed by such institution;
 G. a financial institution established outside R.O.C. that is subject to and supervised for compliance with AML/CFT requirements consistent with standards set by the Financial Action Task Force on Money Laundering (FATF), and an investment vehicle managed by such institution;
 H. a fund administered by a R.O.C. government entity; or
 I. an employee stock ownership trust or an employee savings trust.
@@ -90,21 +92,21 @@ I. an employee stock ownership trust or an employee savings trust.
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[If there exists any of the following situations in the CDD process, a financial institution should decline to establish business relationship or carry out any transaction with the customer:
-1. The customer is suspected of opening an anonymous account or using a fake name, a nominee, a shell company or legal persons/organization to open an account, purchase insurance or register an electronic stored value card;
+1. The customer is suspected of opening an anonymous account or using a fake name, a nominee, a shell company or legal persons/organization to open an account, purchase insurance or register a stored value card;
 2. The customer refuses to provide the required documents for identifying and verifying its identity;
-3. Where any person acts on behalf of a customer to open an account, register an electronic stored value card, register an e-payment account, apply for insurance, file an insurance claim, request a change of insurance contract or conduct a transaction, it is difficult to check and verify the fact of authorization and identity-related information;
+3. Where any person acts on behalf of a customer to open an account, register a stored value card, register an e-payment account, apply for insurance, file an insurance claim, request a change of insurance contract or conduct a transaction, it is difficult to check and verify the fact of authorization and identity-related information;
 4. The customer uses forged or altered identification documents;
 5. The customer only provides photocopies of the identification documents; the preceding provision does not apply to businesses where a photocopy or image file of the identification document supplemented with other control measures are acceptable under other laws or regulations;
 6. Documents provided by the customer are suspicious or unclear, the customer refuses to provide other supporting documents or documents provided by the customer can not be verified;
 7. The customer procrastinates in providing identification documents in an unusual manner;
-8. The customer is an individual, a legal person or an organization sanctioned under the Terrorism Financing Prevention Act, or a terrorist or terrorist group identified or investigated by a foreign government or an international organization, except for payments made under Subparagraphs 2 ~ 4, Paragraph 1, Article 6 of the Terrorism Financing Prevention Act; or
+8. The customer is an individual, a legal person or an organization sanctioned under the Terrorism Financing Prevention Act, or a terrorist or terrorist group identified or investigated by a foreign government or an international organization, except for payments made under Subparagraphs 1 to 3, Paragraph 1, Article 6 of the Terrorism Financing Prevention Act; or
 9. Other unusual circumstances exist in the process of establishing business relationship or conducting transaction and the customer fails to provide reasonable explanations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[The CDD measures of a financial institution shall include ongoing customer due diligence and comply with the following provisions:
 1. A financial institution shall apply CDD requirements to existing customers on the basis of materiality and risk, and conduct due diligence on such existing relationships at appropriate times, taking into account whether and when CDD measures have previously been undertaken and the adequacy of data obtained. The aforementioned appropriate times shall include at least:
-(1) When the customer opens another new account, registers another new electronic stored value card, registers another new e-payment account, increases the amount insured irregularly or enters new business relationships with the financial institution;
+(1) When the customer opens another new account, registers another new stored value card, registers another new e-payment account, increases the amount insured irregularly or enters new business relationships with the financial institution;
 (2) When it is time for periodic review of the customer scheduled on the basis of materiality and risk; and
 (3) When it becomes known that there is a material change to customer’s identity and background information.
 2. A financial institution shall conduct ongoing due diligence on the business relationship to scrutinize transactions undertaken throughout the course of that relationship to ensure that the transactions being conducted are consistent with the institution’s knowledge of the customer, its business and risk profile, including, where necessary, the source of funds.
@@ -122,7 +124,7 @@ I. an employee stock ownership trust or an employee savings trust.
 3. For lower risk circumstances, a financial institution may apply simplified CDD measures, which shall be commensurate with the lower risk factors. However simplified CDD measures are not allowed in any of the following circumstances:
 (1) Where the customers are from or in countries and jurisdictions known to have inadequate AML/CFT regimes, including but not limited to those which designated by international organizations on AML/CFT as countries or regions with serious deficiencies in their AML/CFT regime , and other countries or regions that do not or insufficiently comply with the recommendations of international organizations on AML/CFT as forwarded by the FSC; or
 (2) Where there is a suspicion of ML/TF in relation to the customer or the transaction.
-The provisions of Items (1) and (2) of Subparagraph 1 of the preceding paragraph do not apply to electronic stored value card registration operation.
+The provisions of Items (1) and (2) of Subparagraph 1 of the preceding paragraph do not apply to stored value card registration operation.
 An insurance enterprise should include the beneficiary of a life insurance policy as a relevant risk factor in determining whether to apply enhanced CDD measures. If the insurance enterprise determines that a beneficiary who is a legal person or a trustee presents a higher risk, it should take enhanced CDD measures which should include reasonable measures to identify and verify the identity of the beneficial owner of the beneficiary at the time of payout.]]></條文內容>
   </條文>
   <條文>
