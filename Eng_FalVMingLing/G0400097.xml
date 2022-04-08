@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Responsible Persons and Associated Persons of Securities Investment Trust Enterprises</英文法規名稱>
 <中文法規名稱>證券投資信託事業負責人與業務人員管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400097</法規網址>
-<最新英文異動日期>20201026</最新英文異動日期>
+<最新英文異動日期>20211230</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -12,7 +12,8 @@
 3. Articles 2, 3, 4, 4-1, 5, 6, 8, 13, 14, and 21-1 amended and issued, and Articles 6-2 and 6-3 added, per 10 March 2008 Order No. Financial-Supervisory-Securities-IV-0970008420 of the Financial Supervisory Commission, Executive Yuan
 4. Articles 2-1, 3, and 17 amended and issued per 11 October 2010 Order No. Financial-Supervisory-Securities-Firms-0990051567 of the Financial Supervisory Commission, Executive Yuan
 5. Articles 2-1, 8, and 21-1 amended and issued per 1 August 2012 Order No. Financial-Supervisory-Securities-SITC-1010032368 of the Financial Supervisory Commission
-6. Articles 4 and 4-1 amended and issued per 26 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364936 of the Financial Supervisory Commission]]></沿革內容>
+6. Articles 4 and 4-1 amended and issued per 26 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364936 of the Financial Supervisory Commission
+7. Articles 2, 3 to 4-1, 6, 6-1, 7 to 9, and 13 amended, Article 6-4 added, and Article 6-2 deleted per 30 December 2021 Order No. Financial-Supervisory-Securities-SITC-1100365664 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -30,7 +31,9 @@ The term "associated persons" in these Regulations means personnel who conduct a
 5. Research and analysis, investment decision-making, or trade execution for discretionary investment related business.
 6. Internal auditing.
 7. Legal compliance.
-8. Acting as in-charge accountant.]]></條文內容>
+8. Risk management.
+9. Acting as in-charge accountant.
+10. Conducting other approved business.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2-1</條號>
@@ -52,8 +55,7 @@ The general manager of a SITE shall be of upstanding character, possess leadersh
 2. Is a graduate of a domestic or foreign school at the level of junior college or higher recognized by the Ministry of Education or has an equivalent level of education, and also has five or more years of relevant work experience at a qualified institutional investor(s), having served there in the position of assistant general manager or in an equivalent position for one year or more, or in the position of manager or in an equivalent position for three years or more, with a good performance record.
 3. Has other academic or work qualifications sufficient to demonstrate possession of professional knowledge of securities and finance, operational experience, and leadership ability.
 To hire a general manager, a SITE shall submit documents verifying that the person it plans to hire meets the required qualifications to the FSC for review; the person may not assume the position until found qualified.
-The general manager of a SITE may not concurrently serve in the position of chairperson, branch unit manager, securities investment trust fund manager, futures trust fund manager, discretionary investment manager, or trade decision maker in the discretionary futures trading business, of the SITE.
-Before the 11 October 2010 amendment to these Regulations enters into force, if a SITE is not in compliance with any requirement of paragraph 1 of the preceding article, it shall make adjustments within 6 months starting from the date the amendment enters into force.]]></條文內容>
+The general manager of a SITE may not concurrently serve in the position of chairperson, branch unit manager, securities investment trust fund manager, futures trust fund manager, discretionary investment manager, or trade decision maker in the discretionary futures trading business, of the SITE.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -63,7 +65,7 @@ A. One year or more of relevant work experience at a qualified institutional inv
 B. Two years or more of work experience, with a good performance record, in a professional field such as information, technology, law, e-commerce, or digital economy.
 2. Is a graduate of a domestic or foreign school at the level of junior college or higher recognized by the Ministry of Education or has an equivalent level of education, and also has three or more years of relevant work experience at a qualified institutional investor(s), with a good performance record.
 3. Has other academic or work qualifications sufficient to demonstrate possession of professional knowledge of securities and finance, operational experience, and leadership ability.
-The term "business department" in the preceding paragraph means a department conducting any of the types of business under Article 2, paragraph 2, subparagraphs 1 to 7.
+The term "business department" in the preceding paragraph means a department conducting any of the types of business under Article 2, paragraph 2, subparagraphs 1 to 8 or 10.
 A director of a SITE or any of its personnel referred to in paragraph 1 who serves or otherwise directly engages in a capacity set out in Article 2, paragraph 2, shall obtain or possess one of the qualifications set out in Article 5, 6, and 6-1 to 6-3.
 A person who, before the adoption and issuance of these Regulations, was already serving in a position referred to in paragraph 1 may continue to serve in the original position or for the duration of the original term, without being subject to the restrictions of paragraph 1.
 A person who is promoted or assigned to one of the positions referred to in the preceding paragraph after the adoption and issuance of these Regulations, shall possess or meet the qualifications set out in these Regulations; those who do not meet those qualifications may not serve in that position, and the Securities Investment Trust and Consulting Association of the R.O.C. (SITCA) shall void the registration of that person.
@@ -71,7 +73,7 @@ The provisions of paragraph 1 shall apply mutatis mutandis with respect to a per
   </條文>
   <條文>
     <條號>Article 4-1</條號>
-    <條文內容><![CDATA[A department supervisor or branch unit manager of a SITE shall possess leadership ability and the ability to effectively assist in the operation of a SITE, and shall possess one of the following qualifications:
+    <條文內容><![CDATA[A department supervisor of a business department, or a branch unit manager, of a SITE shall possess leadership ability and the ability to effectively assist in the operation of a SITE, and shall possess one of the following qualifications:
 1. Is qualified as a securities investment analyst in accordance with the Regulations Governing Responsible Persons and Associated Persons of Securities Investment Consulting Enterprises, and also has work experience meeting one of the following criteria:
 A. One year or more of relevant work experience at a qualified institutional investor(s).
 B. Two years or more of work experience, with a good performance record, in a professional field such as information, technology, law, e-commerce, or digital economy.
@@ -84,7 +86,8 @@ B. Six years or more of work experience, with a good performance record, in a pr
 4. Has two years or more of work experience serving as a manager of domestic or foreign funds.
 5. Is a graduate of a domestic or foreign school at the level of university or higher recognized by the Ministry of Education or has an equivalent level of education, and has served for four years or more as an associated person of one or more securities or futures institutions or trust enterprises.
 6. Has other academic or work qualifications sufficient to demonstrate possession of professional knowledge of securities and finance, operational experience, and leadership ability.
-A person who, before the issuance of this amendment to these Regulations, was already serving in a position referred to in the preceding paragraph may continue to serve in the original position or for the duration of the original term, without being subject to the restrictions of the preceding paragraph.
+The term "business department" in the preceding paragraph means a department conducting any of the types of business under Article 2, paragraph 2, subparagraphs 1 to 8 or 10.
+A person who, before the issuance of this amendment to these Regulations, was already serving in a position referred to in paragraph 1 may continue to serve in the original position or for the duration of the original term, without being subject to the restrictions of  paragraph 1.
 A person who is promoted or assigned to one of the positions referred to in paragraph 1 after the issuance of these Regulations as amended, shall possess or meet the qualifications set out in these Regulations; those who do not meet those qualifications may not serve in that position, and the SITCA shall void the registration of that person.
 Where a trust enterprise concurrently conducts securities investment trust business, the supervisor of the department conducting such business may not concurrently serve as a fund manager or discretionary investment manager of that company.]]></條文內容>
   </條文>
@@ -100,7 +103,7 @@ The number, fund amount, and other qualifications of the funds that a fund manag
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[A person who performs the internal audit or legal compliance function of a SITE shall possess one of the following qualifications:
+    <條文內容><![CDATA[A person who performs the internal audit, legal compliance, or risk management function of a SITE shall possess one of the following qualifications:
 1. Is qualified as a securities investment analyst in accordance with the Regulations Governing Responsible Persons and Associated Persons of Securities Investment Consulting Enterprises.
 2. Has passed an examination for associated persons of securities investment trust and consulting enterprises administered by an institution engaged by the SITCA, and has one year or more of securities, futures, or trust-related work experience at a qualified institutional investor(s).
 3. Has passed a senior securities specialist examination held by an institution engaged by a securities dealers association or has obtained certification of passage of such an examination issued by the former competent authority for securities, and also has two years or more of securities, futures, or trust-related work experience at a qualified institutional investor(s).
@@ -112,27 +115,33 @@ The definition of "qualified institutional investor" as referred to in Article 2
   </條文>
   <條文>
     <條號>Article 6-1</條號>
-    <條文內容><![CDATA[Associated persons of a SITE engaged in business activities set out in Article 2, paragraph 2, subparagraphs 1 to 5 shall, except for a fund manager, who shall meet the qualifications set out in Article 5, possess one of the following qualifications:
+    <條文內容><![CDATA[Associated persons of a SITE engaged in business activities set out in Article 2, paragraph 2, subparagraphs 2 to 5 or 10 shall, except for a fund manager or a discretionary investment manager, who shall meet the qualifications set out in Article 5, possess one of the following qualifications:
 1. Is qualified as a securities investment analyst in accordance with the Regulations Governing Responsible Persons and Associated Persons of Securities Investment Consulting Enterprises.
 2. Has passed an examination for associated persons of securities investment trust and consulting enterprises administered by an institution engaged by the SITCA.
 3. Has passed a senior securities specialist examination held by an institution engaged by a securities dealers association or has obtained certification of passage of such an examination issued by the former competent authority for securities.
 4. Has one year or more of work experience serving as a manager of domestic or foreign funds.
-5. Has passed a professional examination on trust business held by a trust association or a professional financial training institute recognized by a trust association, and has also passed an examination, held by an institution engaged by the SITCA, on acts and regulations (legal compliance) pertaining to securities investment trust and consulting.
+5. Has passed a professional examination on trust business held by a trust association or a professional financial training institute recognized by a trust association and has also passed an examination held by an institution engaged by the SITCA on laws and regulations (legal compliance) pertaining to securities investment trust and consulting.
 6. Is a graduate of a domestic or foreign school at the level of college or higher recognized by the Ministry of Education or has an equivalent level of education, and has served for three years or more as an associated person of one or more securities or futures institutions or trust enterprises.
-A person who, in the position of associated person, was assisting in carrying on the business activities set out in Article 2, paragraph 2, subparagraphs 1 to 5 before the issuance of these Regulations as amended, shall obtain one of the qualifications set out hereunder within two years following the amendment and issuance date, or, failing which, the person may not serve in that position, and the SITCA shall void the registration of that person.]]></條文內容>
+Associated persons of a SITE engaged in business activities set out in Article 2, paragraph 2, subparagraph 1 shall possess one of the following qualifications:
+1. Satisfies the qualification requirement under the preceding paragraph.
+2. Has passed a professional examination held by the Taiwan Insurance Institute for insurance solicitors of investment-linked insurance products and has also passed an examination held by an institution engaged by the SITCA on laws and regulations (legal compliance) pertaining to securities investment trust and consulting.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6-2</條號>
-    <條文內容><![CDATA[A chief compliance officer shall possess the qualifications specified in Article 4-1, paragraph 1 and be assigned a position at a level at least equivalent to department supervisor.
-A chief compliance officer or associated person who does not meet the specified qualification requirements shall correct the failure by 30 June 2008, failing which, such a person may not serve in that position and the SITCA shall void the registration of that person.]]></條文內容>
+    <條文內容><![CDATA[(deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6-3</條號>
     <條文內容><![CDATA[If a SITE concurrently engages in futures trust business and, without having issued a futures trust fund, uses assets of a securities investment trust fund to trade in securities-related products above the percentage set by the FSC at which an application for approval is required to be made, the supervisor of its investment research department, the manager of the fund, and at lease one of its internal auditors shall possess the qualifications required by Article 5 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 6-4</條號>
+    <條文內容><![CDATA[A SITE, by 31 December 2022, shall allocate a sufficient number of competent risk management personnel based on its business size and business conditions.
+A risk management officer or associated person who fails to meet the qualification requirements set out in Article 4, Article 4-1 or Article 6 or to comply with the restrictions on concurrent holding of positions set out in Article 8 paragraph 1, shall correct the failure by 31 December 2022, failing which, such a person may not serve in that position and the SITCA shall void the registration of that person.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[Unless otherwise provided by an act or regulation, the general manager of a SITE and all assistant general managers, deputy assistant general managers, and managers thereof, as well as managers, department supervisors, and associated persons of a SITE's branch unit, shall serve as full-time employees. Before such personnel begin performing their duties, they shall be registered with the SITCA by the employing SITE, and no such person may engage in business unless they have been registered.
+    <條文內容><![CDATA[Unless otherwise provided by an act or regulation, the general manager of a SITE and all assistant general managers, deputy assistant general managers, and managers thereof, as well as managers, department supervisors of business departments, and associated persons of a SITE's branch unit, shall serve as full-time employees. Before such personnel begin performing their duties, they shall be registered with the SITCA by the employing SITE, and no such person may engage in business unless they have been registered.
 Registration under the preceding paragraph shall be prohibited under any of the following circumstances; if registration has already been made, it shall be voided:
 1. Any circumstance set out in Article 68 of the SITC Act.
 2. Failure to meet the qualification requirements set out hereunder.
@@ -141,8 +150,8 @@ A SITE shall register any change in personnel specified in paragraph 1 with the 
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[An internal auditor of a SITE may not engage in any business outside of the scope of his/her registered work activities. Notwithstanding the foregoing, the position of internal auditor for securities investment trust business that is concurrently conducted by an other-industry enterprise may be concurrently held by a registered internal auditor of such other-industry enterprise.
-The legal compliance function of the SITE may not be concurrently performed by any person carrying on any of the business activities under Article 2, paragraph 2, subparagraphs 1 to 6.
+    <條文內容><![CDATA[An internal auditor and risk management personnel of a SITE may not engage in any business outside of the scope of his/her registered work activities. Notwithstanding the foregoing, in the case of an other-industry enterprise that concurrently operates securities investment trust business, the other-industry enterprise’s registered internal auditors and risk management personnel may concurrently perform duties of the same nature for the securities investment trust business.
+The legal compliance function of the SITE may not be concurrently performed by any person carrying on any of the business activities under Article 2, paragraph 2, subparagraphs 1 to 6, subparagraph 8, or subparagraph 10.
 SITE personnel may not concurrently serve as associated persons engaged in research and analysis or investment or trading decision-making while serving as associated persons engaged in trading execution, and vice-versa.
 SITE personnel may not concurrently serve as associated persons engaged in investment or trading decision-making with respect to the offering of a securities investment trust fund while serving as personnel engaged in investment or trading decision-making with respect to the private offering of a securities investment trust fund or futures trust fund, or to discretionary investment or discretionary futures trading business, and vice versa. However, if the requirements of paragraph 6 are met, such personnel may concurrently serve as associated persons engaged in investment or trading decision-making with respect to discretionary investment business and vice versa.
 If the SITE currently operates securities investment consulting business, none of its associated persons may concurrently engage in investment or trading decision-making for its securities investment trust fund while serving as a securities investment analyst for the concurrently operated securities investment consulting business, and vice versa. However, if the circumstance of paragraph 6 are met, an associated person engaged in investment or trading decision-making with respect to the offering of a securities investment trust fund may concurrently serve as a securities investment analyst for the concurrently operated securities investment consulting business, and vice versa.
@@ -153,7 +162,7 @@ When a SITE meets the following requirements, the associated persons engaged in 
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[The particulars to be registered with respect to the responsible persons, department supervisors, branch unit managers, and associated persons of SITEs shall be prescribed by the SITCA and implemented after ratification by the FSC; the same also applies to any amendments thereto.]]></條文內容>
+    <條文內容><![CDATA[The particulars to be registered with respect to the responsible persons, department supervisors of business departments, branch unit managers, and associated persons of SITEs shall be prescribed by the SITCA and implemented after ratification by the FSC; the same also applies to any amendments thereto.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -181,7 +190,7 @@ Unless otherwise provided by an act or regulation, a person referred to in the p
 8. When utilizing a securities investment trust fund to trade in securities or securities-related products, changing an executed trading order from the account of the fund to their own or another person's account or a discretionary trading account, or from their own or other person's account or a discretionary trading account to the account of the fund.
 9. Recommending trading in a particular stock or making judgments or forecasts about the future price of a particular stock in a public venue or in the [mass] media.
 10. Using non-full-time personnel to solicit customers or providing unreasonable commissions.
-11. Investing in securities or trading in securities-related products in the capacity of an agent of a client.
+11. Investing in securities or trading in securities-related products in the capacity of an agent of another person.
 12. Any other conduct that would adversely affect rights or interests of beneficial owners or customers or the operation of the SITE.
 Unless otherwise required by law or by the FSC, personnel referred to in paragraph 1 shall maintain the confidentiality of beneficial owner and customer information, their trading histories, and other related information.]]></條文內容>
   </條文>

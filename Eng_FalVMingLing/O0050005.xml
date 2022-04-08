@@ -3,7 +3,7 @@
 <英文法規名稱>Methods and Facilities Standards for the Storage, Clearance and Disposal of Industrial Waste</英文法規名稱>
 <中文法規名稱>事業廢棄物貯存清除處理方法及設施標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050005</法規網址>
-<最新英文異動日期>20210222</最新英文異動日期>
+<最新英文異動日期>20220216</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -21,7 +21,8 @@
 12.Article 17 revised and promulgated by Environmental Protection Administration order on January 3, 2006
 13.Entire 46 Articles revised and promulgated by Environmental Protection Administration order on December 14, 2006
 14.Article 11 revised and promulgated by Environmental Protection Administration order on February 21, 2020
-15.Article 34, 35 and 39 revised; Article 41-1 to 41-5 added; Article 44 deleted; and promulgated by Environmental Protection Administration order on February 22, 2021]]></沿革內容>
+15.Article 34, 35 and 39 revised; Article 41-1 to 41-5 added; Article 44 deleted; and promulgated by Environmental Protection Administration order on February 22, 2021
+16.Article 17 revised and promulgated by Environmental Protection Administration order on February 16, 2022]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -128,7 +129,7 @@ If industrial waste reuse types produced by an enterprise are identical with tho
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[Apart from biomedical waste sharp implements and infectious waste the storage of hazardous waste shall comply with the following regulations:
-I. The facilities shall contain dedicated storage locations with firm floors and surrounding corrosion-resistant, water-impermeable liners or structures.
+I. The facilities shall contain dedicated storage locations with firm floors and surrounding corrosionresistant, water-impermeable liners or structures.
 II. There shall be equipment or measures to prevent the inflow or infiltration of surface water, rainwater, or groundwater.
 III. There shall be equipment or measures to collect waste liquids, waste gases or noxious odors, etc., produced by the facilities or prevent them from polluting surface water bodies, groundwater bodies, air or soil.
 IV. There shall be accident prevention equipment and warning signs with white backgrounds, red characters, and black frames posted in prominent locations.
@@ -171,14 +172,15 @@ Clearance personnel shall promptly adopt emergency response measures and notify 
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[An enterprise that clears, or commissions the clearance of, industrial waste that it has produced to external storage or treatment locations shall fill out a delivery manifest in sextuplicate.However, those enterprises that shall report the production, storage, clearance and disposal, reuse, export, import, or cross-boundary transport or transshipment of waste via online transmission pursuant to Article 31, Paragraph 1 of this Act, and those enterprises that apply on their own initiative to the competent authority to change to online reporting, shall not be subject to this restriction.
-After the delivery manifest in the foregoing paragraph has been signed and accepted by the clearance organization, the first leaf shall be submitted to the competent authority of the place of waste production for checking purposes within seven days. The sixth leaf shall be kept by the enterprise for its own records, and the second through fifth leaves shall be submitted by the clearance organization to the disposal organization within two days for signing and acceptance by the latter, and the clearance organization shall preserve the fifth leaf. Within seven days after completing disposal the disposal organization shall send the third leaf back to the producing enterprise, send the fourth leaf to the competent authority of the enterprise's place of business for checking purposes, and preserve the second leaf itself. Disposal organizations employing solidification, stabilization, or other disposal methods for hazardous industrial waste officially announced by the central competent authority shall attach proof of entry into the final disposal site at the same time.
-Disposal organizations employing solidification, stabilization, or other disposal methods officially announced by the central competent authority shall also attach proof of entry into the final disposal site at the same time.
-When hazardous industrial waste is sent to a disposal organization, the disposal organization shall immediately check whether the composition, characteristics or quantity of the hazardous industrial waste is consistent with the delivery manifest and the contract. If the statements are not consistent with the delivery manifest and the contract, the disposal organization shall within two days of the day after discovering the discrepancy request the clearance organization or enterprise to make corrections, and shall inform the local competent authority of its intended actions.
-If an enterprise has not received the third leaf within 35 days after hazardous industrial waste has been transported away, that enterprise shall actively track the flow direction of the hazardous industrial waste cleared on the enterprise's behalf, and shall inform the local competent authority of its intended actions.
-If an enterprise has cleared and disposed of hazardous industrial waste on its own, the enterprise and the clearance and disposal organization shall sign the delivery manifest made out in sextuplicate by the enterprise and shall then proceed pursuant to the procedures designated in Paragraph 1 through to the foregoing paragraph.
-The delivery manifest mentioned in Paragraph 1 and the foregoing paragraph shall be preserved for three years to facilitate checking.
-Should the date of submission of the said delivery manifest fall on a holiday, it may be extended to the first following workday.]]></條文內容>
+    <條文內容><![CDATA[An enterprise that clears, or commissions the clearance of, industrial waste that it has produced to external storage or treatment locations shall fill out a delivery manifest in sextuplicate (hereinafter referred to as “hard copy manifest”), or fill out the delivery manifest in electronic format transmitted online (hereinafter referred to as “soft copy manifest”). However, those enterprises that shall report the production, storage, clearance and disposal, reuse, export, import, or cross-boundary transport or transshipment of waste via online transmission pursuant to Article 31, paragraph 1 of this act, shall not be subject to this restriction.
+After the hard copy manifest in the foregoing paragraph has been signed and accepted by the clearance organization, the first leaf shall be submitted within seven days to the competent authority of the place of waste production for checking purposes. The sixth leaf shall be kept by the enterprise for its own records, and the second through fifth leaves shall be submitted by the clearance organization to the disposal organization within two days for signing and acceptance by the latter, and the clearance organization shall retain the fifth leaf. Within seven days after completing disposal the disposal organization shall send the third leaf back to the producing enterprise, send the fourth leaf to the competent authority of the enterprise’s place of business for checking purposes, and retain the second leaf itself. Disposal organizations employing solidification, stabilization, or other disposal methods officially announced by the central competent authority shall also attach proof of entry into the final disposal site at the same time.
+The soft copy manifest as referred to in paragraph 1 shall be delivered to the Disposal organizations by the clearance organization within 2 days to sign for receipt. The Disposal organization shall declare with the competent authority through the designated network within 1 day after the completion of the disposal.
+For the temporary storage of hazardous industrial waste that is to be treated offshore, treatment regulated under the hard copy manifest on the second and the third leaf of the manifest could be skipped. The clearance organization shall fill in the fourth leaf of the manifest after delivering the wastes to the storage site and sign to confirm. If the soft copy manifest is adopted, the clearance organization shall deliver the manifest to the hazardous industrial waste storage site before export within 2 days for signed confirmation.
+When hazardous industrial waste is sent to a disposal organization, the disposal organization shall immediately check whether the composition, characteristics or quantity of the hazardous industrial waste is consistent with the manifest in hard copy or soft copy and the contract. If the statements are not consistent with the delivery manifest and the contract, the disposal organization shall, within two days after the day of discovering the discrepancy, request the clearance organization or enterprise to make corrections, and shall inform the local competent authority of its intended actions.
+The enterprise shall voluntarily keep track of the status of the commissioned clearance and removal of the hazardous industrial wastes within 35 days after clearing, and shall report to the local competent authority on any hazardous industrial wastes not being fully cleared or disposed of.
+If an enterprise has cleared and disposed of hazardous industrial waste on its own, the enterprise and the clearance and disposal organization shall sign the delivery manifest in hard copy and soft copy by the enterprise and shall then proceed pursuant to the procedures designated in paragraph 1 through to the foregoing paragraph.
+The manifest in hard copy and soft copy mentioned in paragraph 1 and the foregoing paragraph shall be retained for three years to facilitate checking.
+Should the date of submission of the manifest in hard copy or soft copy, or for declaration, fall on a holiday, it may be extended to the first following workday.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
@@ -213,7 +215,7 @@ VI. Reactive industrial waste: treat using oxidative decomposition or thermal tr
 VII. Waste acids or alkalis: treat using evaporation, distillation, film separation, or neutralization.
 VIII. Waste containing mercury or its compounds: for such waste containing dry weight concentration greater than or equal to 260 milligrams, ultra-trace mercury shall be recycled, and its residue shall show a dissolved mercury content of less than 0.2 milligrams/liter in toxic characteristic leaching procedure (TCLP) test results; for waste containing dry weight concentration less than to 260 milligrams, other means of intermediate treatment shall be used, and its residue shall show a dissolved mercury content of less then 0.025 milligrams/liter.
 IX. Waste containing toxic heavy metals: treat using solidification, stabilization, electrolysis, film separation, evaporation, melting, chemical treatment methods, or smelting. Waste composed of 30% or more of combustible or volatile solids may be treated with thermal treatment methods.
-X. Steel industry ash and dust: treat using resource recycling, solidification, or stabilization.
+X. Steel industry ash and dust: treat using resource recycling, solidification, or stablization.
 XI. Dioxinous waste: treat using thermal treatment.
 XII. Toxic chemical substances containing toxic heavy metals: treat using chemical treatment methods, solidification, or stabilization.
 XIII. Other toxic chemical substances that do not contain halogenated organic substances or toxic heavy metals: treat using thermal treatment methods, chemical treatment methods, solidification, or stabilization.
@@ -250,7 +252,7 @@ V. Facilities shall have pollution control equipment and anti-corrosion measures
     <條文內容><![CDATA[Apart from complying with the regulations in the foregoing article, facilities used for the incineration of hazardous industrial waste shall also comply with the following regulations:
 I. The output central temperature of the combustion chamber shall be maintained above 1,000 °C. Combustion gas residence time shall be over one second for biomedical waste sharp implements and infectious waste and over two seconds for other hazardous industrial waste.
 II. Combustion efficiency shall be over 99.9% when incinerating infectious industrial waste.
-III. Apart from the incineration of infectious waste, in the incineration of other hazardous industrial waste the destruction and removal efficiency shall be over 99.99% for chlorinated organic compounds, over 99.999% for polychlorinated biphenyls (PCBs) and dioxins and over 99.9% for other toxic chemical substances.
+III. Apart from the incineration of infectious waste, in the incineration of other hazardous industrial waste the destruction and removal efficiency shall be over 99.99% for chlorinated organic compounds, over 99.999% for polychloriated biphenyls (PCBs) and dioxins and over 99.9% for other toxic chemical substances.
 IV. Facilities shall possess devices for automatic monitoring, automatic monitoring and control of combustion conditions, the recording of the output central temperature of the combustion chamber and emergency response.
 V. Other items officially announced by the central competent authority.
 Fluidized bed waste incinerators are not subject to the restrictions of Subparagraphs 1 and 2 of the foregoing paragraph.]]></條文內容>
@@ -344,7 +346,7 @@ III. Landfills shall have facilities to prevent the inflow or infiltration of su
 IV. Landfills' peripheral and base facilities shall be constructed of concrete with a uniaxial compressive strength of 245 kilograms per square centimeter or other materials possessing the same grade of sealing ability.
 V. A landfill area exceeding 50 square meters or other materials possessing the same grade of sealing ability.
 VI. Anti-corrosion and anti-leak measures shall be taken on the basis of the hazardous industrial waste type and characteristics and landfill soil characteristics.
-VII. A landfill's bottom layer shall have a water permeability coefficient of less than 10-7 centimeters/second and be compatible with the waste material and leachate thereof, have a foundation comprised of sandy or argillaceous clay or other equivalent material 60 centimeters thick, and impermeable material with a water permeability coefficient of less than 10-10 centimeters/second that is compatible with the waste material and leachate thereof and 0.2 centimeters or more in thickness as a landfill liner.
+VII. A landfill's bottom layer shall have a water permeability coefficient of less than 10-7 centimeters/second and be compatible with the waste material and leachate thereof, have a foundation comprised of sandy or argillaceous clay or other equivalent material 60 centimeters thick, and impermeable material with a water permeability coefficient of less than 10-10 centimeters/second that is compatible with the waste material and leachate thereof and 0.2 centimenters or more in thickness as a landfill liner.
 VIII. There shall be facilities to collect and treat leachate.
 IX. Other items officially announced by the central competent authority.
 Sealed landfills that establish the following three contiguous layered facilities shall not be subject to the restrictions of Subparagraphs 4, 5, and 7 of the foregoing paragraph:
@@ -367,24 +369,24 @@ Closed landfills shall not be used as construction sites or other working areas.
   <條文>
     <條號>Article 41</條號>
     <條文內容><![CDATA[When solidified matter resulting from solidification is disposed of by sanitary landfilling, such matter shall have a uniaxial compressive strength of at least 10 kilograms per square centimeter.
-When hazardous industrial waste is treated by solidification, stabilization or other treatment methods officially announced by the central competent authority, it shall be disposed of by sealed landfilling or sanitary landfilling. Sanitary landfilling shall comply with the Toxicity Characteristic Leaching Procedure (TCLP) Leaching Standards in Table 4 of the Standards for Defining Hazardous Industrial Waste in addition to the requirements of Article 37 and shall also be subject to independent landfill management by area.
+When hazardous industrial waste is treated by solidification, stabilization or other treatment methods officially announced by the central competent authority, it shall be disposed of by sealed landfilling or sanitary landfilling. Sanitary landfilling shall shall comply with the Toxicity Characteristic Leaching Procedure (TCLP) Leaching Standards in Table 4 of the Standards for Defining Hazardous Industrial Waste in addition to the requirements of Article 37 and shall also be subject to independent landfill management by area.
 An application shall be made pursuant to relevant reuse regulations if the waste in the two foregoing paragraphs is to be reused.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41-1</條號>
     <條文內容><![CDATA[After closing (shutting down) a landfill, proceed with restoration with respect to the post-closure restoration plan in the approval document.
 The contents of the said post-closure restoration plan shall include:
-I.Basic information:
+1.Basic information:
 A. The name; type; opening and closing dates; the filling area and depth; types and quantity list of filled waste of the landfill.
 B. The ownership deed, cadastral data, and land catalog of the landfill.
 C. The fundamental structure of the landfill, including at least the layout, elevation, sectional drawings, and structural drawings.
-II.Restoration items after landfill closure:
+2.Restoration items after landfill closure:
 A. Final cover.
 B. Drainage works.
 C. Vegetation restoration.
-III.Periodic tour inspection and facility maintenance planning.
-IV.Categories, items, methods, and frequencies of environmental monitoring.
-V.Emergency response plan.
+3.Periodic tour inspection and facility maintenance planning.
+4.Categories, items, methods, and frequencies of environmental monitoring.
+5.Emergency response plan.
 After measuring the landfill's management needs, the competent authorities of permit issuance or the competent authorities of targeted business may adjust the contents of the post-closure restoration plan regardless of the said limitations.
 With respect to Paragraph 1, the competent authorities of permit issuance or the competent authorities of targeted business may request the landfill constructor to review the post-closure restoration plan where necessary. After the transfer of landfill operations, the transferee shall review the plan.
 Within one year after the next day of the completion of the final disposal of the last batch of waste, the landfill shall complete the post-closure restoration according to the approved plan. Where an extension is required, the landfill shall apply for an extension, for one time only, within two months before plan expiration. The maximum length of extension shall be one year.]]></條文內容>

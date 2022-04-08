@@ -3,7 +3,7 @@
 <英文法規名稱>Vehicle License Tax Act</英文法規名稱>
 <中文法規名稱>使用牌照稅法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340095</法規網址>
-<最新英文異動日期>20171206</最新英文異動日期>
+<最新英文異動日期>20211230</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -57,10 +57,11 @@
 19.Amendment to Article 5 and Tables 4 and 5 of Article 6 promulgated on 4 January 2012 by Presidential Decree No.10000300181.
 20.Amendment to Article 4,7,28 and 38 promulgated on 18 June 2014 by Presidential Decree No. 10300092701.
 21.Amendment to Article 5 promulgated on 4 February 2015 by Presidential Decree No. 10400012511.
-22.Amendments to Article 5 to 7, 9, 11, and 38 promulgated on 6 December 2017 by Presidential Decree No. 10600145141.]]></沿革內容>
+22.Amendments to Article 5 to 7, 9, 11, and 38 promulgated on 6 December 2017 by Presidential Decree No. 10600145141.
+23.Amendments to Article 5 and 25 promulgated on 30 December 2021 by Presidential Decree No. 11000117711.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter  1  General</編章節>
+  <編章節>   Chapter 1 General</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[The collection of vehicle license tax by municipal and county (city) governments shall be governed by this Law.]]></條文內容>
@@ -86,13 +87,10 @@ The vehicle license tax shall be collected by the tax collection authority under
     <條號>Article 4</條號>
     <條文內容><![CDATA[The municipal and county (city) government may, in view of the actual situation, exempt vessels from the vehicle license tax and report its decision to the Ministry of Finance for future reference.]]></條文內容>
   </條文>
-  <編章節>   Chapter  2  Tax Scope and Tax Rates</編章節>
+  <編章節>   Chapter 2 Tax Scope and Tax Rates</編章節>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[Vehicle license tax shall be levied based on the type of transportation equipment. Except for motor vehicles which are taxed by their category and grade classified by total cylinder displacement volume or other power-operated vehicles and vessels which are taxed by their tonnage in accordance with Article 6 herein, the tax rates for other transportation equipment shall be set forth by the municipal or county (city) government, approved by the municipal or county (city) council, and reported to the Ministry of Finance for record.
-The municipal or county (city) government is authorized to exempt completely electric-operated vehicles from the vehicle license tax for the following periods of time, and report them to the Ministry of Finance for record.
-(1) Completely electric-operated vehicles: from January 6, 2012 to December 31, 2021.
-(2) Completely electric-operated motorcycles: from January 1, 2018 to December 31, 2021.]]></條文內容>
+    <條文內容><![CDATA[Vehicle license tax shall be levied based on the type of transportation equipment. Except for motor vehicles which are taxed by their category and grade classified by total cylinder displacement volume or other power-operated vehicles and vessels which are taxed by their tonnage in accordance with Article 6 herein, the tax rates for other transportation equipment shall be set forth by the municipal or county (city) government, approved by the municipal or county (city) council, and reported to the Ministry of Finance for record. The municipal or county (city) government is authorized to exempt completely electric-operated vehicles from the vehicle license tax for the following periods of time, and report them to the Ministry of Finance for record. (1) Completely electric-operated vehicles: from January 6, 2012 to December 31, 2025. (2) Completely electric-operated motorcycles: from January 1, 2018 to December 31, 2025.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -100,7 +98,7 @@ The municipal or county (city) government is authorized to exempt completely ele
 (1)Motor vehicles: Motor vehicles are classified into four categories – small passenger vehicles, large passenger vehicles, trucks, and motorcycles, and taxed according to the vehicle license tax rate charts for motor vehicles set forth herein (see attached tables).
 (2)Vessels: The license tax for vessels over 5 tons will be NT$16,380 a year for commercial vessels, and NT$40,320 a year for non-commercial vessels; the license tax for vessels less than 5 tons will be NT$9,900 a year for commercial vessels, and NT$17,550 a year for non-commercial vessels.]]></條文內容>
   </條文>
-  <編章節>   Chapter  3  Exemptions</編章節>
+  <編章節>   Chapter 3 Exemptions</編章節>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[The following types of transportation equipment are exempted from vehicle license tax: 
@@ -121,7 +119,7 @@ The tax-exempt transportation equipment specified in the preceding paragraph sha
     <條號>Article 8</條號>
     <條文內容><![CDATA[(deleted).]]></條文內容>
   </條文>
-  <編章節>   Chapter  4  Collection Procedure</編章節>
+  <編章節>   Chapter 4 Collection Procedure</編章節>
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[Vehicle license tax shall be collected in the following manners:
@@ -176,7 +174,7 @@ When the ownership of a licensed vehicle is transferred, the new owner is not re
     <條號>Article 19</條號>
     <條文內容><![CDATA[(deleted).]]></條文內容>
   </條文>
-  <編章節>   Chapter  5  Inspection</編章節>
+  <編章節>   Chapter 5 Inspection</編章節>
   <條文>
     <條號>Article 20</條號>
     <條文內容><![CDATA[Vehicle license shall not be sold, removed for use on another vehicle, or used when expired.]]></條文內容>
@@ -197,10 +195,10 @@ When the ownership of a licensed vehicle is transferred, the new owner is not re
     <條號>Article 24</條號>
     <條文內容><![CDATA[If the owner or user of a vehicle that is found to violate this Law has abandoned the vehicle, the tax collection agency will post bulletin announcing the vehicle found. If nobody comes forward to claim the vehicle in three months, the tax collection authority may put said vehicle on public auction, use the proceeds obtained thereof to pay for the vehicle license tax owed, and turn in the remainder to the national treasury.]]></條文內容>
   </條文>
-  <編章節>   Chapter  6  Penalty</編章節>
+  <編章節>   Chapter 6 Penalty</編章節>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[If the owner or user of a licensed vehicle fails to pay off vehicle license tax before the deadline prescribed in the payment notice, a surcharge of one percent of the amount of tax owed for every two days of default will be imposed. Vehicles with tax payment thirty (30) days or more in arrears will be referred to the court for compulsory enforcement.]]></條文內容>
+    <條文內容><![CDATA[A delay penalty shall be imposed on the owner or user of a vehicle who fails to pay their vehicle license tax before the deadline as stated in the payment notice.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 26</條號>
@@ -247,11 +245,11 @@ Where it is discovered that a vehicle that has been registered as non-operationa
     <條號>Article 36</條號>
     <條文內容><![CDATA[(deleted).]]></條文內容>
   </條文>
+  <編章節>   Chapter 7 Supplemental Provisions</編章節>
   <條文>
     <條號>Article 37</條號>
     <條文內容><![CDATA[The enforcement rules for the collection of vehicle license tax shall be prescribed by the municipal and county (city) governments according to this Law, and put on record with the Ministry of Finance.]]></條文內容>
   </條文>
-  <編章節>   Chapter  7  Supplemental Provisions</編章節>
   <條文>
     <條號>Article 38</條號>
     <條文內容><![CDATA[This law shall be in force from the date of promulgation. However, Article 7, amended on May 30, 2014 and attached table 5 of Article 6 amended on November 14, 2017 shall take effect on January 1 of the year following the publication date on which the amendment came into effect.]]></條文內容>
