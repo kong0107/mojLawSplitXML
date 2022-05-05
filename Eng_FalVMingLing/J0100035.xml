@@ -3,14 +3,15 @@
 <英文法規名稱>Regulations Governing Recognition of Designated Testing Laboratory for Commodity Inspection</英文法規名稱>
 <中文法規名稱>商品檢驗指定試驗室認可管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100035</法規網址>
-<最新英文異動日期>20200427</最新英文異動日期>
+<最新英文異動日期>20220210</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Adopted and promulgated by Ministerial Order on 1 February 2002.
 2.Amended in full by Ministerial Order on 21 April 2004.
 3.Articles 2, 4, 11 and 18 amended and promulgated by Ministerial Order on 11 January 2008.
-4.Articles 4, 5, 15 and 21 amended and promulgated by Ministerial Order on 27 April 2020.]]></沿革內容>
+4.Articles 4, 5, 15 and 21 amended and promulgated by Ministerial Order on 27 April 2020.
+5.Articles 4, 5, 17, 18 and 20 amended; Articles 17-1 and 17-2 added, and promulgated by Ministerial Order on 10 February 2022.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -37,13 +38,18 @@
 1. Complying with the following criteria:
 (1) Common criteria: CNS 17025 or ISO/IEC 17025; and
 (2) Particular criteria: Any other particular criteria of technical and quality management requirements other than the preceding common ones for a particular testing category.
-2. Possessing necessary testing equipment, facility, personnel, and management system; possessing ample information and a full understanding of inspection standards as well as applicable laws and regulations for the commodity to be tested;
+2. Possessing necessary testing equipment, facility, personnel, and management system; possessing ample information and a full understanding of inspection standards as well as applicable laws and regulations for the commodity to be tested; the testing and related activities facility shall not violate Regional Plan Act, Urban Planning Law, Spatial Planning Act, Building Act or other relevant laws and regulations;
 3. The personnel responsible for ensuring technical effectiveness and quality management shall possess the following qualifications:
 (1) The personnel responsible for ensuring technical effectiveness shall possess a college or university degree or higher in related field, testing-related professional training, and an on-hand experience of related product testing for three years or higher; or possess testing-related professional training, and an on-hand experience of related product testing for five years or higher;
 (2) The personnel responsible for quality management shall possess a college or university degree or higher, quality management-related professional training, and an on-hand experience of quality management in related product testing for three years or higher; or possess quality management-related professional training, and an on-hand experience of quality management in related product testing for five years or higher.
-4. The report signatory shall be designated. The report signatory shall not act as both the personnel responsible for ensuring technical effectiveness and quality management.
-Depending upon different geographic areas, testing categories, testing items or commodity categories, the BSMI may designate and announce that the testing laboratory applying for recognition shall be granted an accreditation that also demonstrates compliance with the requirements set out in the preceding paragraph by the Taiwan Accreditation Foundation (hereinafter referred to as the “TAF”).
-Depending upon testing categories, the particular criteria in subparagraph 1 and the necessitated testing equipment in subparagraph 2 of the first Paragraph of this Article shall be prescribed by the BSMI.]]></條文內容>
+4. The report signatory shall be designated, possess the qualifications in item one of preceding subparagraph and possess the following conditions:
+(1) The report signatory shall not act as both the personnel responsible for ensuring technical effectiveness and quality management.
+(2) The report signatory shall not serve in the designated testing laboratories of other institutions, schools or juristic persons.
+(3) The report signatory shall not be replaced according to article 17-1 within three years.
+5. The personnel responsible for testing shall not serve in the designated testing laboratories of other institutions, schools or juristic persons.
+Depending upon different geographic areas, testing categories, testing items or commodity categories, the BSMI may designate and announce that the testing laboratory applying for recognition shall be granted an accreditation that also demonstrates compliance with the requirements set out in the preceding paragraph by a domestic accreditation body who is the signatory of the International Laboratory Accreditation Cooperation Mutual Recognition Arrangement (ILAC MRA) (hereinafter referred to as "the domestic accreditation body").
+Depending upon testing categories, the particular criteria in subparagraph 1 and the necessitated testing equipment in subparagraph 2 of the first Paragraph of this Article shall be prescribed by the BSMI.
+The testing laboratory applying for recognition before the amendments of these Regulations take effect upon the date, 10 February 2022, shall fulfill the amended conditions if a recognition certificate for designated testing laboratory has not be issued after the date.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -54,8 +60,9 @@ Depending upon testing categories, the particular criteria in subparagraph 1 and
 4. The brief chart for the system of calibration traceability of testing equipment and overview list for the testing equipment;
 5. Organization chart and brief layout of the testing laboratory;
 6. Brief map for location of the testing laboratory;
-7. The relevant certificates and documents of testing laboratory personnel responsible for ensuring technical effectiveness and quality management who comply with the qualifications set forth under Subparagraph 3, Paragraph One of the preceding Article; and
-8. Other documents designated by the BSMI.
+7. The relevant certificates and documents of testing laboratory personnel responsible for ensuring technical effectiveness, quality management, and the report signatory who comply with the qualifications set forth under Subparagraph 3 and Subparagraph 4, Paragraph One of the preceding Article;
+8. The proofs of domestic testing facility of land and buildings in accordance with Regional Plan Act, Urban Planning Law, Spatial Planning Act, Building Act or other relevant laws and regulations; and
+9. Other documents designated by the BSMI.
 If the preceding applicant is physically located in foreign countries, the applicant should commission an agent who has domestic residence or business place to apply for recognition.]]></條文內容>
   </條文>
   <條文>
@@ -118,27 +125,49 @@ The BSMI may request the designated testing laboratory to provide the test repor
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[If the testing laboratory applying for recognition has been granted an accreditation by the TAF that also demonstrates compliance with the requirements set out in Paragraph One of Article 4, the application for recognition and management procedures may be simplified as follows:
+    <條文內容><![CDATA[If the testing laboratory applying for recognition has been granted an accreditation by the domestic accreditation body that also demonstrates compliance with the requirements set out in Paragraph One of Article 4, the application for recognition and management procedures may be simplified as follows:
 1. Exemption from submitting the paperwork and document required by Paragraph One of Article 5;
 2. Exemption from on-site assessment set out in Article 6;
-3. Exemption from application for extension in accordance with Article 9; and
+3. Exemption from the re-assessment for extension in accordance with Paragraph 2 of Article 9; and
 4. Exemption from surveillance in accordance with Article 10.
-Where the recognition is granted in accordance with the preceding Paragraph, the recognition shall remain valid during the term of validity of the accreditation mentioned in the chapeau of this Paragraph.
-The simplified procedures set out in subparagraphs 3 and 4 of the first Paragraph shall be applicable to designated testing laboratories that obtain accreditation by the TAF demonstrating compliance with requirements set out in Paragraph One of Article 4 after they have been granted recognition. The term of validity set out in the preceding Paragraph shall also be applicable.]]></條文內容>
+Where the recognition is granted in accordance with the preceding Paragraph, the term of validity of recognition is the same as the term of validity of the accreditation mentioned in the chapeau of the preceding Paragraph. The term of validity of recognition certificate witch be issued for applying extension in accordance with Article 9 is also the same.
+The simplified procedures set out in subparagraphs 3 and 4 of the first Paragraph shall be applicable to designated testing laboratories that obtain accreditation by the domestic accreditation body demonstrating compliance with requirements set out in Paragraph One of Article 4 after they have been granted recognition. The term of validity set out in the preceding Paragraph shall also be applicable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 17-1</條號>
+    <條文內容><![CDATA[If a designated testing laboratory has any of the following circumstances, the BSMI may notice the designated testing laboratory to replace the report signatory within the given time limit. The designated testing laboratory shall submit the said within 7 days after replacing to the BSMI for reference.
+1. Unable to provide the testing record;
+2. Where the contents of the testing record dose not match the test report;
+3. Where the testing methods does not comply with inspection standards or technical regulations;
+4. Where the testing records or relevant technical documents have been found to contain false or incorrect statement; or
+5. The report signatory has other circumstances that have not fulfilled the responsibility of review, which is determined affecting the correctness or authenticity of the test report by the BSMI.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 17-2</條號>
+    <條文內容><![CDATA[The testing laboratory witch be granted recognition before the amendments of these Regulations take effect upon the date, 10 February 2022, shall provide the proofs of mentioned in Subparagraph 8 of Article 5 within 3 months. Where the designated testing laboratory has failed to submit the proofs within the given time limit, the BSMI shall notice the designated testing laboratory to provide corrective action plan within the given time limit.
+For the designated testing laboratory witch has failed to submit the proofs mentioned in the preceding paragraph, unless otherwise specified, the date of recognition expiry of the scope of testing involved in the testing facility shall be determined according to the following circumstances:
+1. If the original date of recognition expiry exceeds 31 December 2023, the date of recognition expiry will end on 31 December 2023; or
+2. If the original date of recognition expiry not exceeds 31 December 2023, the date of expiry of recognition certificate witch be issued for applying extension in accordance with Article 9 is 31 December 2023. The testing laboratory applying for extension in accordance with Article 9 before the amendments of these Regulations take effect upon the date, 10 February 2022, the date of expiry of recognition certificate is also 31 December 2023 if a recognition certificate has not be issued after 10 February 2022.
+If the designated testing laboratory submit the proofs of mentioned in Subparagraph 8 of Article 5 before 31 December 2023, or apply for changes testing facility eliminating the scope of land and buildings not in accordance with relevant laws and regulations, and be approved by the BSMI, the regulations in the preceding Paragraph may be exempted.
+If the designated testing laboratory has failed to submit the proofs of mentioned in Subparagraph 8 of Article 5 before 31 December 2023, shall not be permitted to apply for extension in accordance with Article 9. If the circumstances can not be done due to causes not attributable to the designated testing laboratory, or other special circumstances approved by the BSMI, the designated testing laboratory shall be permitted to apply for extension 2 times.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[If a designated testing laboratory has any of the following circumstances, the BSMI may temporarily suspend the right of the designated testing laboratory to issue the test report in whole or a part of relevant testing categories in the name of a designated testing laboratory within a certain period of time. The BSMI shall resume the right after the designated testing laboratory has completed the corrective action and be examined and approved by the BSMI:
-1. Where major defects have been found by two consecutive surveillance in accordance with Article 10;
-2. Where the result of the second surveillance set forth in Paragraph 2 of Article 11 is not satisfied, or the corrective action plan is not submitted within the prescribed timeframe as required under Paragraph 3 of the same Article or the submitted corrective action plan cannot effectively correct the defects;
-3. Where the designated testing laboratory has been found to be not in conformity with the requirements in two consecutive proficiency testing program;
-4. Where the designated testing laboratory has failed to submit documents within the given time limit after receiving a notice to submit by a given time limit unless good cause is shown;
-5. Having violated the provision of Article 16 by evading, impeding or rejecting the review, examination or verification;
-6. Having failed to participate in the proficiency testing program designated by the BSMI;
-7. Having failed to take appropriate actions and cooperate with the BSMI in handling surveillance, appeals, complaints and disputes and have further not cooperated with the BSMI after receiving a notice to cooperate;
-8. Where the accreditation of the designated testing laboratory has been temporarily suspended by the TAF and the recognition of which is granted in accordance with Article 17;
-9. Having rejected the application for product testing within the scope recognized by the BSMI, unless good cause is shown; or
-10. Other circumstances that are deemed by the BSMI as having unfavorable impact on the good practice for commodity inspection or quality of testing operation.]]></條文內容>
+    <條文內容><![CDATA[If a designated testing laboratory has any of the following circumstances, the BSMI may temporarily suspend the right of the designated testing laboratory to issue the test report and to perform relevant testing activities in whole or a part of relevant testing categories in the name of a designated testing laboratory within a certain period of time. The BSMI shall resume the right after the designated testing laboratory has completed the corrective action and be examined and approved by the BSMI:
+1. In accordance with subparagraph 2, Paragraph One of Article 4, the testing and related activities facility has violate Regional Plan Act, Urban Planning Law, Spatial Planning Act, Building Act or other relevant laws and regulations within the given time limit after receiving a notice to correct by a given time limit. Having circumstances in Article 17-2 shall fulfill the regulations of Article 17-2 not be applicable to this subparagraph;
+2. Having violated the provision of subparagraph 4 or 5, Paragraph One of Article 4 within the given time limit after receiving a notice to correct by a given time limit;
+3. Where major defects have been found by two consecutive surveillance in accordance with Article 10;
+4. Where the result of the second surveillance set forth in Paragraph 2 of Article 11 is not satisfied, or the corrective action plan is not submitted within the prescribed timeframe as required under Paragraph 3 of the same Article or the submitted corrective action plan cannot effectively correct the defects;
+5. Having failed to participate in the proficiency testing program designated by the BSMI;
+6. Where the designated testing laboratory has been found to be not in conformity with the requirements in two consecutive proficiency testing program;
+7. Where the designated testing laboratory has failed to submit documents within the given time limit after receiving a notice to submit by a given time limit unless good cause is shown;
+8. Having violated the provision of Article 16 by evading, impeding or rejecting the review, examination or verification;
+9. Where the accreditation of the designated testing laboratory has been temporarily suspended by the domestic accreditation body and the recognition of which is granted in accordance with Article 17;
+10. Having failed to replace the report signatory within the given time limit after receiving a notice to correct by a given time limit or failed to submit the said within 7 days after replacing to the BSMI for reference, in accordance with Article 17-1;
+11. Having failed to submit corrective action plan within the given time limit after receiving a notice to submit by a given time limit, in accordance with Paragraph One of Article 17-2;
+12. Having failed to take appropriate actions and cooperate with the BSMI in handling surveillance, appeals, complaints and disputes and have further not cooperated with the BSMI after receiving a notice to cooperate;
+13. Having rejected the application for product testing within the scope recognized by the BSMI, unless good cause is shown; or
+14. Other circumstances that are deemed by the BSMI as having unfavorable impact on the good practice for commodity inspection or quality of testing operation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
@@ -150,14 +179,15 @@ Within 3 years after the recognition of a designated testing laboratory is revok
     <條文內容><![CDATA[The BSMI shall rescind the recognition if a designated testing laboratory has any of the following circumstances:
 1. Where an application to cancel the recognition has been initiated by the testing laboratory;
 2. Where a major defect has been found by the BSMI’s second assessment required by Paragraph Two of Article 11;
-3. Where the accreditation for the designated testing laboratory has been rescinded by the TAF and the recognition of which is granted in accordance with Article 17;
+3. Where the accreditation for the designated testing laboratory has been rescinded by the domestic accreditation body and the recognition of which is granted in accordance with Article 17;
 4. Where the testing records or relevant technical documents have been found to contain false or incorrect statement;
 5. Where the testing laboratory losses the ability to perform business functions or is unable to conduct the testing activities impartially and effectively;
 6. Where the testing laboratory issues a test report in the name of a designated testing laboratory in a testing category beyond the scope of recognition or has been suspended related rights in accordance with Article 18;
 7. Where the testing laboratory has failed to complete the corrective action within a given time limit set out in Article 18 and be examined and approved by the BSMI;
 8. Where the procedural fees due were not paid, and have further been not paid within the given time limit; or
 9. Other violation of these Regulations that are deemed as substantial and material events by the BSMI.
-Within 3 years after the recognition of a designated testing laboratory is rescinded, it shall not be permitted to apply for the recognition on the testing category with the same or similar testing laboratory, except for Subparagraph 1 of the preceding Paragraph or a special circumstance that has been approved by the BSMI.]]></條文內容>
+When the designated testing laboratory apply for cancel of the recognition in accordance with subparagraph 1 of the preceding Paragraph and the designated testing laboratory has a circumstance of subparagraph 2 to 9 or the likely occurrence of such circumstances, the BSMI shall reject the application.
+Within 3 years after the recognition of a designated testing laboratory is rescinded, it shall not be permitted to apply for the recognition on the testing category with the same or similar testing laboratory, except for Subparagraph 1 of the first Paragraph or a special circumstance that has been approved by the BSMI.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
