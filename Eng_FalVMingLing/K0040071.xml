@@ -1,13 +1,19 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations relating to Customer Personal Information Protection and Management of Parking Facility Operation</英文法規名稱>
+<英文法規名稱>Regulations for the Security Protection Plans for and Processing of Personal Information Files in Parking Facility Operation</英文法規名稱>
 <中文法規名稱>停車場經營業個人資料檔案安全維護計畫及處理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040071</法規網址>
-<最新英文異動日期>20150924</最新英文異動日期>
+<最新英文異動日期>20220323</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<附件 />
-<沿革內容><![CDATA[1.Promulgated on Sep 24, 2015.]]></沿革內容>
+<附件>
+  <檔案>
+    <檔案名稱><![CDATA[Regulations for the Security Protection Plans for and Processing of Personal Information Files in Parking Facility Operation.odt]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007364</下載網址>
+  </檔案>
+</附件>
+<沿革內容><![CDATA[1.Promulgated on Sep 24, 2015.
+2.Amended on March 23, 2022.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -41,9 +47,10 @@ If one of the following situations is found in the examination referred to in th
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[If personal information kept by a parking operation business is stolen, altered, damaged, destroyed or disclosed, it shall take the following measures:
-1. Take appropriate contingency measures to control the damage caused by the incident to the party and report the incident to the local authority in charge.
+1. Take appropriate contingency measures to control the damage caused by the incident to the party.
 2. Investigate the incident and notify the party of the incident and contingency measures taken in an appropriate way prescribed in Article 12 of the Act.
-3. Review defects and develop preventive measures to prevent similar incidents from happening again.]]></條文內容>
+3. Review defects and develop preventive measures to prevent similar incidents from happening again.
+When the incidents under the preceding paragraph occur, the parking operation businesses shall report the local authority in charge and notify the central competent authority (MOTC) within 72 hours after the incidents; if the notification is not made within the time limit, the reason for the delay should be indicated (notification form as attached). After the local authority in charge received the notifications, with the power granted in Article 22 to Article 25 of this regulation, the mentioned authority is entitled to take appropriate supervisory and management measures.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -91,6 +98,18 @@ In cases where parking operation businesses shall be negligent in correcting or 
 2. If personal information kept by parking operation businesses needs to be encrypted, it shall be encrypted appropriately when collected, processed, or used.
 3. If personal information needs backup during operation, it shall be protected as the original in accordance with the Act.
 4. When papers, drives, tapes, discs, micro-disks, and integrated circuit chips where personal information is stored are scrapped or used for other purposes, appropriate preventive measures shall be taken to avoid the leaks of personal information. If parking operation businesses commission others to do so, Article 11 shall apply.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 14-1</條號>
+    <條文內容><![CDATA[Parking operation businesses which provide e-commerce service system should adopt the following information security measures:
+1. User identity confirmation and protection mechanism.
+2. Data masking mechanism for personal information display.
+3. Security encryption mechanism for Internet data transmission.
+4. Access control and protection monitoring measures for personal data files and databases.
+5. Prevention mechanism for external network intrusion.
+6. The monitoring and responding countermeasures of illegal or abnormal use of the system.
+The term “e-commerce” of the preceding paragraph refers to the advertising, marketing, supply, ordering, delivery or other commercial transactions of goods or services via the Internet.
+The countermeasures and mechanism specified in Subparagraph 5 and 6 of Paragraph 1 should be regularly rehearsed and reviewed for improvement.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
