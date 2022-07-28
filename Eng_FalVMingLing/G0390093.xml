@@ -3,12 +3,14 @@
 <英文法規名稱>Regulations Governing Online Insurance Business and Online Insurance Services of Insurance Agent Companies and Insurance Broker Companies</英文法規名稱>
 <中文法規名稱>保險代理人公司保險經紀人公司辦理網路投保業務及網路保險服務管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390093</法規網址>
-<最新英文異動日期>20201026</最新英文異動日期>
+<最新英文異動日期>20220517</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on 24 October 2018 per Order No. Jin-Guan-Bao-Zong-Zi 10704566251 of the Financial Supervisory Commission
 2.Amended on 26 October 2020 per Order No. Jin-Guan-Bao-Zong-Zi 10904939561 of the Financial Supervisory Commission.
+3.Amended on 17 May 2022 per Order No. Jin-Guan-Bao-Zong-Zi 11104917151 of the Financial Supervisory Commission.
+
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -21,7 +23,8 @@
     <條文內容><![CDATA[The terms used in these Regulations are defined as follows:
 1.“Insurance agent/broker company” means a company operating insurance agent or broker business in the capacity of a corporate organization or a bank engaging concurrently in insurance agent or broker business with approval from the competent authority.
 2.“Online insurance business” means the business entailing a natural person applicant enters or negotiates an insurance contract with an insurance company via the Internet through an insurance agent/broker company after completing the first-time registration and identity verification process.
-3.“Online insurance services” means insurance services of an insurance company other than purchasing insurance online received by existing customers of an insurance agent/broker company via the Internet through the agent/broker company which is linked up with the system of the insurance company after the customer has completed the registration and identity verification process.]]></條文內容>
+3.“Online insurance services” means insurance services of an insurance company other than purchasing insurance online received by existing customers of an insurance agent/broker company via the Internet through the agent/broker company which is linked up with the system of the insurance company after the customer has completed the registration and identity verification process.
+4. “Major sanctions and penalties” means major sanctions and penalties specified in  Article 2 of the Regulations Governing Public Disclosure by the Financial Supervisory Commission of Material Enforcement Actions for Violations of Financial Legislation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -36,11 +39,10 @@ When an insurance agent/broker company cooperates with a business in a different
     <條號>Article 5</條號>
     <條文內容><![CDATA[An insurance agent/broker company that applies for approval to conduct online insurance business shall meet the following qualification requirements:
 1.The company has established and implemented internal control and audit system as well as solicitation system and procedures in accordance with the Regulations Governing the Implementation of Internal Control and Audit System and Business Solicitation System of Insurance Agent Companies and Insurance Broker Companies.
-2.The company has not been subject to material sanctions and penalties or cumulative fines of more than NT$1 million imposed by the competent authority in the most recent year, or if it has, concrete improvement actions have been taken to remedy the violation and recognized by the competent authority.
+2.The company has not been subject to major sanctions and penalties imposed by the competent authority in the most recent year, or if it has, concrete improvement actions have been taken to remedy the violation and recognized by the competent authority.
 3.The company can present its annual financial statements that have been audited and certified by a certified public accountant. The preceding provision does not apply to recently established internet-only banks that are unable to present annual financial statements.
 4.The company is ISO 27001 (information security standards) certified and has established a traffic cleaning mechanism against distributed denial-of-service attack (DDoS).
-“Material sanctions and penalties” mentioned in Subparagraph 2 of the preceding paragraph means any of the actions specified in Subparagraph 1 to Subparagraph 12, Article 2 the Regulations Governing Public Disclosure by the Financial Supervisory Commission of Material Enforcement Actions for Violation of Financial Legislation, or a fine of at least three times the minimum statutory amount set for a single unlawful activity specified in Subparagraph 13, Article 2 of the same regulations.
-When an internet-only bank applies for approval to conduct online insurance business, if the time elapsed from the date it starts business to the date of application is shorter than the time period specified in Subparagraph 2 of Paragraph 1 hereof, the duration during which the bank has been in business shall apply.]]></條文內容>
+When an internet-only bank applies for approval to conduct online insurance business, if the time elapsed from the date it starts business to the date of application is shorter than the time period specified in Subparagraph 2  of the preceding paragraph, the duration during which the bank has been in business shall apply.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -127,10 +129,10 @@ For the phone interview under Paragraph 1 hereof, the insurance agent/broker com
     <條號>Article 14</條號>
     <條文內容><![CDATA[Rewards and disciplines for insurance agent/broker companies that meet the following key indicators for differentiated management are as follows:
 1. An insurance agent/broker company that meets all positive indicators below may increase the insured amount of its online insurance business by 25% and decrease the phone interview sampling set out in Subparagraph 1, Paragraph 1 of the preceding article by one half:
-(1) The company has not, in the past one year, violated any online insurance related regulations and has not been subject to major disciplinary action or cumulative fines of more than NT$1 million imposed by the competent authority in connection with its insurance broker or agent business, or if it has, concrete improvement actions have been taken to remedy the violation and recognized by the competent authority.
+(1) The company has not, in the past one year, violated any online insurance related regulations and has not been subject to major  sanctions and penalties imposed by the competent authority in connection with its insurance broker or agent business, or if it has, concrete improvement actions have been taken to remedy the violation and recognized by the competent authority.
 (2) The company’s online insurance information security management system has been validated by a relevant impartial organization.
 (3) The company’s personal data management system for online insurance has been implemented by a relevant impartial organization.
-2. An insurance agent/broker company that has, in the past one year, violated any online insurance related regulations or has been subject to major disciplinary action or cumulative fines of more than NT$1 million imposed by the competent authority in connection with its insurance broker or agent business shall decrease the insured amount of its online insurance business by 25% and increase the phone interview sampling set out in Subparagraph 1, Paragraph 1 of the preceding article by one half:
+2. An insurance agent/broker company that has, in the past one year, violated any online insurance related regulations or has been subject to major sanctions and penalties imposed by the competent authority in connection with its insurance broker or agent business shall decrease the insured amount of its online insurance business by 25% and increase the phone interview sampling set out in Subparagraph 1, Paragraph 1 of the preceding article by one half:
 The insured amount of online insurance business after the increase under the preceding paragraph may not exceed the insured amount of the insurance company’s online insurance business.]]></條文內容>
   </條文>
   <條文>
