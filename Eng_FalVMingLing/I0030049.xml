@@ -3,13 +3,14 @@
 <英文法規名稱>Regulations on Anti-Money Laundering &amp; Countering the Financing of Terrorism Operations Matters Conducted by Attorneys</英文法規名稱>
 <中文法規名稱>律師辦理防制洗錢及打擊資恐作業辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0030049</法規網址>
-<最新英文異動日期>20200424</最新英文異動日期>
+<最新英文異動日期>20211015</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1. Promulgation Date: June 27th, 2017
 2. Amended on November 9, 2018 by the Order No.10704535550 of Ministry of Justice.
-3. Amended Article 2 on April 24, 2020 by the Order No.10904511840 of Ministry of Justice.]]></沿革內容>
+3. Amended Article 2 on April 24, 2020 by the Order No.10904511840 of Ministry of Justice.
+4. Amended Article 18 , 4-1、6-1、13-1 promulgated on October 15, 2021 by the Order No. 11004528200 of Ministry of Justice.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -33,6 +34,16 @@ The act of “prepare” specified in the preceding paragraph refers to the prel
     <條文內容><![CDATA[While an attorney and the client establish the attorney-client relationship, the attorney shall apply a risk-based approach to verify the identity of the client.
 The “risk-based” specified in the preceding paragraph shall set the background of the client, types of transaction, transaction amount and direct source or destination of funds as the assessment matters; the direct source or destination of funds or the client which comes from high-risk countries or territories shall be assessed as high-risk.
 Anyone who is assessed as high-risk shall obtain the consent of the leading attorney or the attorney in charge of operation/management of a law firm or a dedicated person designated by him/her while establishing the attorney-client relationship, and it shall pay constant attention to any situation that should be reported according to the provision of Article 10.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 4-1</條號>
+    <條文內容><![CDATA[If a client has any of the following situations in the customer due diligence process, the attorney shall consider declining to establish the attorney-client relationship or terminating the attorney-client relationship:
+1. The client is suspected of using an anonymous name, a fake name, or the name of a shell firm, or a shell corporation or entity.
+2. The client uses forged or altered identification documents.
+3. The client refuses to provide identification documents.
+4. The client procrastinates in providing identification documents in an unusual manner.
+5. Documents provided by the client are suspicious or unclear, or the client refuses to provide other supporting documents, or the documents provided cannot be authenticated without reasonable explanations.
+6. The client is an individual, a legal person or an organization sanctioned under the Counter-Terrorism Financing Act, or a terrorist or terrorist group identified or investigated by a foreign government or an international anti-money laundering organization. However, this does not apply to payments made under paragraph 1, Article 6 of the Counter-Terrorism Financing Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -70,6 +81,14 @@ If the client has any of the following circumstances, or his/her identity can be
 (3) The identification documents of the client, trustee, beneficiary of trust and the director, supervisor, trustee, beneficiary or manager of such legal agreement.
 (4) The documents or statements which can prove the owner or the beneficial owner.
 If any of the preceding documents is a copy, the attorney shall verify that the copy is in line with the original according to reasonable facts or methods]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 6-1</條號>
+    <條文內容><![CDATA[If an attorney retains a third party to conduct the customer due diligence process on the client, agent, and beneficial owner or the attorney-client relationship, the attorney shall still bear the responsibility for the customer due diligence process, and shall comply with the following provisions:
+1. The necessary customer due diligence information shall be obtainable.
+2. Appropriate measures shall be taken to assure that the retained third party will provide copies of identification data and other relevant documentation relating to customer due diligence as instructed by the attorney.
+3. It shall be confirmed that the third party has appropriate measures in place for compliance with relevant requirements for customer due diligence and record retention.
+4. It shall be confirmed that the jurisdiction where the third party is located has anti-money laundering and countering financing of terrorism regulations in place that are consistent with the standards set out by the Financial Action Task Force (FATF).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -140,6 +159,11 @@ The internal control system of AML/CFT under the preceding paragraph shall inclu
 5. Formulate the on-job training program for AML/CFT and provide the personnel of the firm with updated regulatory requirements of AML/CFT.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 13-1</條號>
+    <條文內容><![CDATA[Before conducting new business, an attorney shall assess money laundering and terrorism financing risks, and shall establish corresponding risk management measures to mitigate the risks identified.
+New business under the preceding paragraph includes new payment mechanism and the use of new technology for new or existing business.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[The leading attorney or the managing attorney shall prepare AML/CFT risk assessment report of his/her firm, and shall update such risk assessment report on annual basis.
 The preparation and update of the risk assessment report under the preceding paragraph shall take into consideration the client’s identity, the type of case retained by the client, the type of transaction, geographic risk, payment method, business practice and other matters related to the risk.
@@ -159,7 +183,8 @@ The leading attorney or the managing attorney shall provide the risk assessment 
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[The leading attorney or the managing attorney shall explain the status of establishment and implementation of internal control and audit system of the firm in respect of AML/CFT matters in response to the regular site or non-site audit relating to AML/CFT conducted by the Ministry of Justice.]]></條文內容>
+    <條文內容><![CDATA[The Ministry of Justice shall conduct the risk-based supervision, and shall conduct by itself or entrust the bar association to conduct the site or off-site audits every two years.
+The leading attorney or the managing attorney shall cooperate in the audits under the preceding paragraph, shall explain the status of establishment and implementation of internal control and audit system of the firm in respect of anti-money laundering and countering financing of terrorism matters, and shall provide information relating to internal control and audit system without evasion, hindrance or refusal thereof.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
