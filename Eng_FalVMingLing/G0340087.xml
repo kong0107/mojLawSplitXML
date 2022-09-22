@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Taxation Registration</英文法規名稱>
 <中文法規名稱>稅籍登記規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340087</法規網址>
-<最新英文異動日期>20211022</最新英文異動日期>
+<最新英文異動日期>20220808</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -15,7 +15,8 @@
 6.Amendment on 29 March 2017 by the Ministry of Finance under Decree No. 10604544510.
 7.Amendments to Articles 13 and 20 by the Ministry of Finance on 29 June 2018 under Decree No. 10704603600.
 8.Amendments to Articles 3, 6, 7, 14, and 20 were promulgated by the Ministry of Finance on 22 October 2021 under Decree No. 11004647341, which shall come into force on the day of promulgation, with the exception of Article 3 which shall become effective on
- 1 January 2022.]]></沿革內容>
+ 1 January 2022.
+9.Amendments to Articles 3, 4, 4-1, 8, 11, and 20 were promulgated by the Ministry of Finance on 8 August 2022 under Decree No.11104610670, which shall come into force on 1 January 2023.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter1 General Provisions</編章節>
@@ -39,7 +40,7 @@ The taxation registration for a business entity as prescribed in Subparagraph 4,
 3. The business entity has been established by means of assignment.
 4. The business entity has been established due to re-organization.
 5. The business entity establishes a branch unit.
-Taxation registrations for entities organized as companies, sole proprietorships, partnerships or limited partnerships will be processed by the competent tax authority based on the basic registration data provided by the competent authority for company, commercial, or limited partnership registration. The competent authority's processing of the registration will be deemed as completion of the application for taxation registration required by Article 28 of the Act.
+Taxation registrations for entities organized as companies, sole proprietorships, partnerships or limited partnerships will be processed by the competent tax authority based on the basic registration data provided by the competent authority for company, commercial, or limited partnership registration. The competent authority's processing of the registration will be deemed as completion of the application for taxation registration required by Article 28 of the Act. The entity that sells goods and services solely or concurrently via online platform, applications on mobile devices, or other electronic tools shall, within 15 days from the approval of taxation registration, apply to the competent tax authority to fulfill the requirements in Subparagraph 9, Paragraph 1 of Article 4.
 If a business entity's administrative unit, place of business, factory, maintenance plant, workplace, engine room, warehouse, mining sites, construction site, display/sale area, contact office, business office, service station, operations office, branch store, retail store, auction venue, or other similar fixed place of business is engaged in external business, the business entity shall apply with the competent tax authority prior to the commencement of that business, in accordance with these Regulations, for a taxation registration for each respectively.
 If a business entity sells goods or services via automatic vending machines, the business entity shall apply for taxation registration with the competent tax authority of the place where the business entity is located and report the serial numbers of the vending machines, the business locations where the machines are located, and the total number of machines. A business entity is not required to apply for taxation registration for each respective business location of the vending machines; however, this is not applicable to a business entity where its vending machines are placed in specific management sites or it charges parking fee by vending machines.
 A foreign enterprise, institution, group, or organization shall apply for taxation registration for its fixed place of business within the territory of the R.O.C. with the competent tax authority of the place where the fixed place of business is located.
@@ -47,7 +48,7 @@ The competent tax authority, after handling a taxation registration, shall notif
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[A business entity applying for taxation registration is required to register items as follows:
+    <條文內容><![CDATA[A business entity completing a taxation registration form is required to register the following items :
 1. Name and address.
 2. Name, birth date, national ID number, and household registration address of the business entity’s responsible person.
 3. Type of organization: company, sole proprietorship, partnership, limited partnership, or other type of organization.
@@ -56,7 +57,12 @@ The competent tax authority, after handling a taxation registration, shall notif
 6. When organized as a partnership, the name, birth date, national ID number, and the type and amounts of the capital contributions of the partners.
 7. When organized as a limited partnership, the partner's name, national ID number or juristic person’s uniform serial number, domicile, residence, amounts and type of capital contributions and liability type of each partner.
 8. In case of a fixed place of business with a head office, the head office's name, address, and profit-seeking enterprise uniform serial number; however, the uniform serial number is not required for a head office located outside the territory of the R.O.C.
+9. When selling goods and services solely or concurrently via online platform, applications on mobile devices, or other electronic tools, the domain name and the IP address; in case of applying to internet services provider or other intermediary that provides virtual hosting for the membership to sell goods and services, including the member account.
 When a branch unit applies for taxation registration not made in accordance with Paragraph 2 of the preceding Article, the name which is required to register in accordance with Subparagraph 1, Paragraph 1of this Article, must clearly indicate that it is a branch unit in addition to stating the name of the head office. For the name of a foreign company's branch unit, an indication of the company's nationality shall be placed in front of the regional name or the distinctive part of the company name.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 4-1</條號>
+    <條文內容><![CDATA[A business entity that sells goods and services solely or concurrently via online platform, applications on mobile devices, or other electronic tools shall reveal its profit-seeking enterprise uniform serial number and the name regulated in Subparagraph 1 , Paragraph 1 of the preceding Article clearly on the online sales page and relevant application.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -97,8 +103,9 @@ All the documents listed in Paragraph 1 which are written in a foreign language 
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[Where there has been a change to any particulars in the taxation registration, the business entity shall apply to the competent tax authority to modify the registration within 15 days from the occurrence of the change by filling out an application for modification registration attached with relevant supporting documents; in the case of a change of address, the business entity shall apply for modification registration with the competent tax authority for the new address.
-A business entity that is a company, sole proprietorship, partnership or limited partnership shall apply for modification of registration, with respect to any particulars originally registered, within 15 days after completing modification of company, commercial or limited partnership registration.
-In the case of a business entity which sells goods or services via automatic vending machines, if there is any increase or decrease in the number of the machines or change in the place of the location of the machines, the business entity shall report to the competent tax authority within 15 days after such occurrence.]]></條文內容>
+A business entity that is a company, sole proprietorship, partnership or limited partnership shall apply for modification of registration, with respect to any particulars originally registered, within 15 days after completing modification of company, commercial, or limited partnership registration; however, if any particulars regulated in Subparagraph 9, Paragraph 1 of Article 4 is the only item needs to be modified, the business entity shall apply for modification registration in accordance with the preceding Paragraph.
+In the case of a business entity which sells goods or services via automatic vending machines, if there is any increase or decrease in the number of the machines or change in the place of the location of the machines, the business entity shall report to the competent tax authority within 15 days after such occurrence.
+A business entity which had sold goods and services solely or concurrently via online platform, applications on mobile devices, or other electronic tools before January 1, 2023 and completed the taxation registration before December 31, 2022 shall, before January 15, 2023, apply to the competent tax authority to modify the registration in accordance with Subparagraph 9, Paragraph 1 of Article 4.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
@@ -114,7 +121,7 @@ If a company, sole proprietorship, partnership or limited partnership has comple
     <條號>Article 11</條號>
     <條文內容><![CDATA[If any forgery or falsification has been found with respect to the establishment of the business entity or any other particulars in the registration for which a final and unappealable conviction is issued, the competent tax authority may revoke the taxation registration based on notification by the prosecution agency.
 Given the occurrence of any of the following circumstances with respect to a business entity’s registration, the competent tax authority may nullify the taxation registration ex officio or based on the application by a stakeholder:
-1. The business entity has yet to commence business operations when six full months have elapsed after the registration, or after commencing business operations, has of its own accord suspended business operations for six months or longer, except with legitimate reason and when approval has been granted for an extension.
+1. The business entity has yet to commence business operations when six full months have elapsed after the registration, or after commencing business operations, has of its own accord suspended business operations for six months, except with legitimate reason and when approval has been granted for an extension.
 2. The business entity has been relocated from the original address, and after six months modification registration has yet to be carried out, even after the business entity has been notified by the tax authority.
 3. After registration, the relevant authority finds no sign of business activities, and the real estate owner has provided proof that no lease relationship exists.
 If the circumstance of any of the preceding two Paragraphs occurs with respect to a business entity that carries out taxation registration pursuant to Paragraph 2, Article 3 requiring that the registration be revoked or nullified, the competent tax authority shall file a report with the competent authority for the registration, and may only revoke or nullify the registration after the revocation or nullification by the registration authority, except those which have been notified of dissolution or termination by the competent authority for the registration.]]></條文內容>
@@ -180,7 +187,7 @@ The aforesaid period of business suspension or extension of suspension filed for
   <條文>
     <條號>Article 20</條號>
     <條文內容><![CDATA[These Regulations shall come into force from May 1, 2017.
-The amended Articles of the Regulations shall come into force on the day of promulgation, with the exception of Article 3 amended and promulgated on October 22, 2021, which shall come into force on January 1, 2022.]]></條文內容>
+The amended Articles of the Regulations shall come into force on the day of promulgation, with the exception of Article 3 amended and promulgated on October 22, 2021, which shall come into force on January 1, 2022, and Articles amended and promulgated on August 8, 2022, which shall come into force on January 1, 2023.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
