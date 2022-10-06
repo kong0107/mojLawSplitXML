@@ -3,7 +3,7 @@
 <英文法規名稱>Physicians Act</英文法規名稱>
 <中文法規名稱>醫師法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020001</法規網址>
-<最新英文異動日期>20200115</最新英文異動日期>
+<最新英文異動日期>20220622</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -21,7 +21,9 @@
 12.Amended on December 19, 2012
 13.Amended Article 28 promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No.10500147111 on November 30th, 2016
 14.Amended Article 7-3 and 8-1 promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No.10700137591 on December 19th, 2018
-15.Amended Article 8 and 41-3 promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No.10900003711 on January 15th, 2020]]></沿革內容>
+15.Amended Article 8 and 41-3 promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No.10900003711 on January 15th, 2020
+16.Provisions of Articles 4-1, 8-2, 10, 27, and 28 are amended; Articles 41-6 and 41-7 are added; and Articles 30 and 41-2 are removed. These changes are promulgated as per the Presidential Order of Hua-Zong-Yi-Yi-Zi No. 11100050741 dated June 22, 2022.
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General provisions</編章節>
@@ -53,7 +55,11 @@ Physicians holding a Doctor of Chinese Medicine Diploma with the Chinese charact
   </條文>
   <條文>
     <條號>Article 4-1</條號>
-    <條文內容><![CDATA[According to the regulations in Articles 2 to 4, anyone with an international educational record participating in the examination from countries or areas outside of the USA, Japan, Europe, Canada, South Africa, Australia, New Zeeland, Singapore or Hong Kong must have their educational records approved by the Ministry of Education before they may participate in the examination.]]></條文內容>
+    <條文內容><![CDATA[According to the provisions in Articles 2 to the preceding article, anyone with an international academic certificate participating in the examination must have their academic certificate approved by the Ministry of Education before they can participate in the examination. However, for people completing all the courses and graduating from medical colleges or medical universities in countries or areas such as the USA, Japan, Europe, Canada, South Africa, Australia, New Zealand, Singapore, or Hong Kong and who meet one of the following conditions, the academic certificate approval process may be waived:
+1. Those who qualified as a legally registered physician in the aforementioned countries or areas and who have been practicing clinical medicine for 5 years or longer.
+2. Those who enrolled in medical colleges or medical universities in the aforementioned countries or areas prior to December 31, 2022.
+People who participate in the physician examination with an international academic certificate in accordance with the previous paragraph must present a certificate as proof that they have completed and passed clinical practice adaptation training held by the competent central authority at a designated teaching hospital.
+Regarding the clinical practice adaptation training mentioned in the preceding subparagraph, the competent central authority determines the departments, durations, number of applicants accepted, designated teaching hospitals, training capacities, application procedures for selection and appointment, documents and principles for the priority order of appointment, standards for passing grades, approval of the clinical practice mentioned in paragraph 1, subparagraph 1, documents and certificates required, and other matters with which compliance is essential.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4-2</條號>
@@ -110,7 +116,12 @@ After the cause listed in subparagraph 3 of the preceding paragraph is eliminate
   </條文>
   <條文>
     <條號>Article 8-2</條號>
-    <條文內容><![CDATA[Physicians shall practice in a medical organization approved by and registered with the local competent authority.This restriction does not include consultation, support and response to requests to see patients between emergency and medical organizations, or previously approved physicians.]]></條文內容>
+    <條文內容><![CDATA[Physicians shall practice in a medical organization, long-term care service organization, or a psychiatric rehabilitation organization approved by and registered with the local competent authority or approved by the competent central authority. However, people acting under one of the following conditions are exempt:
+1. Performing first aid.
+2. Consulting with or supporting other medical institutions.
+3. Being called out to visit patients by request.
+4. Providing emergency or public health medical services assigned by competent authorities of all levels.
+5. Being involved in other matters that have been reported to and approved by local competent authorities.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
@@ -119,9 +130,11 @@ Medical Associations may not refuse anyone with sufficient qualifications to joi
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[Physicians discontinuing or suspending operations shall submit a report to the authority issuing the practice license for its reference within 30 days of the day of discontinuing or suspending operations. 
-The regulations concerning practice shall apply to physicians changing practice location or reestablishing operations. 
-When a physician dies, his or her practice license shall be cancelled by the issuing institution.]]></條文內容>
+    <條文內容><![CDATA[Physicians discontinuing or suspending operations shall submit a report to the authority issuing the practice license for its reference within 30 days of the day of discontinuing or suspending operations.
+The duration for the suspension mentioned in the previous paragraph is limited to 1 year. Physicians who suspend operations for over a year shall register their discontinuation of their operations within 30 days from the first day of the second year.
+When physicians do not register their discontinuation of their operations according to the regulations detailed in the second half of the previous paragraph, their practice license will become ineffective, and the authority issuing the practice license shall cancel the practice license.
+Regulations in Article 8, paragraph 1 relating to practice shall apply to physicians changing practice location or reestablishing operations.
+When a physician dies, their practice license shall be canceled by the issuing institution.]]></條文內容>
   </條文>
   <編章節>   Chapter 3 Obligations</編章節>
   <條文>
@@ -238,15 +251,18 @@ The Committee on the Discipline of Physicians shall be established by the compet
   </條文>
   <條文>
     <條號>Article 27</條號>
-    <條文內容><![CDATA[Anyone in violation of Article 8, Items 1 and 2, Articles 8-2 and 9, or Article 10, Item 1 or Item 2, will be fined an amount of no less than NT$20,000 and no more than NT$100,000, and ordered to improve within a specified time. The same penalty will be repeated for anyone not improving within the specified period of time.]]></條文內容>
+    <條文內容><![CDATA[Physicians violating paragraph 2 of Article 8, Article 9, or paragraph 1 of Article 10 shall be fined no less than NT$20,000 and no more than NT$100,000, and they shall be ordered to make improvements within a limited time period. Those who do not make improvements within this timeframe shall be liable to fines.
+Regulations in paragraph 1 of Article 8 relating to practice shall apply to physicians violating paragraph 1 of Article 8, Article 8-2, or paragraph 4 of Article 10 and shall be fined no less than NT$20,000 and no more than NT$100,000.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 28</條號>
-    <條文內容><![CDATA[Anyone practicing as physician without having obtained a physician license shall be sentenced to prison for a period not shorter than six months and not longer than five years.A fine of not less than NT$300,000 and not more than NT$1,500,000 may also be levied. Anyone meeting the following conditions, however, shall not be punished:
-1. students or graduates of medical colleges or universities serving an internship in a medical organization approved by the competent central authority under the supervision of a physician
-2. nursing, obstetrics or other medical personnel in a medical organization under the supervision of a physician
-3. meeting the conditions of the proviso in Article 11, Item 1
-4. giving emergency assistance]]></條文內容>
+    <條文內容><![CDATA[Anyone practicing as a physician without having obtained a physician license shall be sentenced to prison for a period of no less than 6 months and no more than 5 years. A fine of not less than NT$300,000 and not more than NT$1,500,000 may also be levied. Anyone meeting the following conditions, however, is exempt from punishment:
+1. Students or graduates of medical colleges or universities serving an internship in a medical organization approved by the competent central authority under the supervision of a physician.
+2. Nursing, obstetrics, or other medical personnel in a medical organization under the supervision of a physician.
+3. Those meeting the conditions of the proviso in paragraph 1 of Article 11.
+4. Those providing emergency assistance.
+5. Those with a valid short-term practice license issued by competent central authorities and meeting the regulations listed in paragraph 2 of Article 41-6 regarding practice registration, location, and regulations which must be complied with while practicing medicine.
+6. Foreign medical personnel receiving clinical medicine training in teaching hospitals or conducting short-term clinical medicine teaching and who meet the regulations listed in paragraph 4 of Article 41-7 regarding location and duration where the practice is permitted and regulations which must be complied with while practicing medicine.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 28-1</條號>
@@ -283,7 +299,7 @@ The Committee on the Discipline of Physicians shall be established by the compet
   </條文>
   <條文>
     <條號>Article 30</條號>
-    <條文內容><![CDATA[Penalties levied based on This Law that remain unpaid at the end of the stipulated payment period will, in accordance with the law, be submitted to a court of law for enforcement.]]></條文內容>
+    <條文內容><![CDATA[(Removed)]]></條文內容>
   </條文>
   <編章節>   Chapter 5 Associations</編章節>
   <條文>
@@ -365,7 +381,7 @@ The penalties in clauses 1 and 2 in the previous item may also be issued by the 
   </條文>
   <條文>
     <條號>Article 41-2</條號>
-    <條文內容><![CDATA[The National Medical Associations already registered prior to the amendment and implementation of This Law shall complete reorganization to comply with the regulations in This Law within four years of the day the amendments to This Law is implemented. The already registered Provincial Medical Association shall dissolve itself.]]></條文內容>
+    <條文內容><![CDATA[(Removed)]]></條文內容>
   </條文>
   <編章節>   Chapter 6 By-laws</編章節>
   <條文>
@@ -382,6 +398,18 @@ In case of breach of the preceding paragraph, in addition to sanctions in accord
     <條號>Article 41-5</條號>
     <條文內容><![CDATA[Anyone holding a Second Degree Taiwan Province Physician Certificate issued according to the Regulations for the Practice of Second Degree Taiwan Province Physicians prior to the amendment and implementation of This Law may continue his or her medical practice, and the regulations in Article 28 will not apply. 
 The management of "Second Degree Taiwan Province Physicians" mentioned on the previous item shall follow the regulations regarding physicians practice in This Law.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41-6</條號>
+    <條文內容><![CDATA[Under special circumstances or emergency status as announced by the competent central authority, physicians with physician licenses or permits to practice medicine from countries or areas such as the USA, Japan, Europe, Canada, South Africa, Australia, New Zealand, Singapore, or Hong Kong and who have practiced clinical medicine for at least 10 years may apply to competent central authorities for a short-term practice certificate with a validity lasting no more than 1 year. Upon expiration of the certificate, if necessary, certificate holders may apply to competent central authorities for an extension.
+Regarding the short-term practice certificate mentioned in the previous paragraph, the competent central authority regulates the application qualifications, procedures, documents and data required in application, certificate issuing, period of validity, invalidation, extension, alteration, practice registration, location, limitation to the number of applicants, regulations for practicing medicine, and other matters with which compliance is essential.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41-7</條號>
+    <條文內容><![CDATA[Teaching hospitals that accept foreign medical personnel for participation in clinical medical training shall assign medical training personnel to provide onsite coaching and obtain patients’ consent.
+When teaching hospitals invite foreign medical personnel to participate in short-term clinical medical teaching and when their clinical teaching process involves medical practices, they shall obtain the patients’ consent beforehand and ensure the onsite presence of Taiwanese physicians.
+Prior to the implementation of the situations outlined in the two preceding paragraphs, teaching hospitals shall apply to the competent central authority for approval.
+Regarding the teaching hospitals and foreign medical personnel mentioned in the three preceding paragraphs, the competent central authority regulates their qualifications, the documents required from them upon application, the procedure, the location and duration where the practice is permitted, invalidation, regulations on practicing medicine, and other matters with which compliance is essential.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 42</條號>

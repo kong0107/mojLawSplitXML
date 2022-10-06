@@ -22,11 +22,11 @@
 │        ＼  Heavymetal  │Methyl mercury│Cadmium │Lead    │
 │Category  ＼            │              │        │        │
 ├────────────┼───────┼────┼────┤
-│whale, shark, swordfish,│2ppm       │0.3ppm │0.3 ppm │
+│whale, shark, swordfish,│2	ppm       │0.3	ppm │0.3 ppm │
 │tuna, oilfish.          │              │        │        │
-├────────────┼───────┤        │      │
-│grenadier, plain bonito,│1ppm       │        │      │
-│pandora, atlantic       │              │        │      │
+├────────────┼───────┤        │	      │
+│grenadier, plain bonito,│1	ppm       │        │	      │
+│pandora, atlantic       │              │        │	      │
 │catfish, anglerfish, red│              │        │        │
 │seabream, megrim,       │              │        │        │
 │mullet, rays, scabbard  │              │        │        │
@@ -36,14 +36,14 @@
 │spotted butter fish,    │              │        │        │
 │eel, pike.              │              │        │        │
 ├────────────┼───────┤        │        │
-│other fish              │0.5ppm       │        │        │
+│other fish              │0.5	ppm       │        │        │
 ├────────────┼───────┼────┼────┤
-│shellfish               │0.5ppm       │2ppm │2ppm   │
+│shellfish               │0.5	ppm       │2	ppm │2	ppm   │
 ├────────────┼───────┼────┼────┤
-│Cephalopod (except      │0.5ppm       │2ppm │1ppm   │
+│Cephalopod (except      │0.5	ppm       │2	ppm │1	ppm   │
 │organ)                  │              │        │        │
 ├────────────┼───────┼────┼────┤
-│Crustaceans             │0.5ppm       │0.5ppm │0.5 ppm │
+│Crustaceans             │0.5	ppm       │0.5	ppm │0.5 ppm │
 └────────────┴───────┴────┴────┘]]></條文內容>
   </條文>
   <條文>

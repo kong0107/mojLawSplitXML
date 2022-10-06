@@ -24,7 +24,7 @@
 │Food Category ＼      │          │                        │
 ├───────────┼─────┼────────────┤
 │                      │          │The maximum tolerance   │
-│Leafy vegetables      │0.3ppm │also applies to Brassica│
+│Leafy vegetables      │0.3	ppm │also applies to Brassica│
 │                      │          │leafy vegetables.       │
 ├───────────┼─────┼────────────┤
 │                      │          │Head cabbages and       │
@@ -89,7 +89,7 @@
 │                      │          │kohlrabi, Cauliflower   │
 │                      │          │and broccoli, Brussels  │
 │                      │          │sprouts ("buttons" only)│
-│Brassica vegetables   │0.05 ppm │.                       │
+│Brassica vegetables   │0.05 	ppm │.                       │
 │                      │          │The maximum tolerance   │
 │                      │          │does not apply to       │
 │                      │          │Brassica leafy          │
