@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Implementation of Internal Control and Auditing System of Insurance Enterprises</英文法規名稱>
 <中文法規名稱>保險業內部控制及稽核制度實施辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390052</法規網址>
-<最新英文異動日期>20210901</最新英文異動日期>
+<最新英文異動日期>20220927</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -19,6 +19,7 @@
 10.Amended on 5 August 2019 per Order Ref. Jin-Kuan-Bao-Tsai 10804944651 of the Financial Supervisory Commission.
 11.Amended on 20 August 2020 per Order Ref. Jin-Kuan-Bao-Tsai 10904930471 of the Financial Supervisory Commission.
 12.Amended on September 1, 2021 per Order Ref. Jin-Kuan-Bao-Tsai 11004933251 of the Financial Supervisory Commission.
+13.Amended on September 27, 2022 per Order Ref. Jin-Kuan-Bao-Tsai 11104805211 of the Financial Supervisory Commission.
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -120,12 +121,7 @@ The execution procedures for the three defense lines for the internal control sy
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[An insurance enterprise shall formulate adequate risk management policies and procedures. Those policies and procedures shall be passed by the board of directors and regularly reviewed and revised.
-An insurance enterprise shall establish an independent risk management task force and regularly furnish risk management reports to the board of directors;
-The risk management mechanisms of an insurance enterprise shall include the following:
-1. Identifying and assessing acceptable risk range based on its business scale, product features and overall economic situation.
-2. Risks to be taken into consideration include underwriting risk, risks associated with reserve assessment, market risk (including interest rate risk), operational risk, compliance risk and other relevant risks.
-3. The management should regularly review the risk control mechanism and adopt suitable strategies based on the actual economic circumstances.]]></條文內容>
+    <條文內容><![CDATA[(deleted)]]></條文內容>
   </條文>
   <編章節>   Chapter 3 The Inspection of Internal Control System</編章節>
   <編章節>      Section 1 Internal Audit</編章節>
@@ -208,6 +204,16 @@ The person who acts for the first time as the department head/office chief of an
     <條號>Article 18</條號>
     <條文內容><![CDATA[The internal audit unit of an insurance enterprise shall conduct at least a routine audit every year on its business, finance, information and other management units, and conduct special audits as needed. The audit of its overseas branches (including liaison office) may be replaced with a reporting audit or have site audit frequency adjusted flexibly.
 The internal audit unit shall include the implementation status of regulatory compliance system into the routine audit or special audit of the business and management units.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 18-1</條號>
+    <條文內容><![CDATA[An insurance company may apply to the competent authority for approval to adopt a risk-based internal auditing system. A subsidiary that was evaluated and exempted from adopting the system for implementation in accordance with Paragraph 3, Article 38 shall provide evaluation documents. The competent authority may ask an insurance company to apply for approval to adopt a risk-based internal auditing system in view of the insurance company's asset size, business risks, and other necessary conditions.
+An insurance company that applies for approval to adopt a risk-based internal auditing system must meet the following criteria:
+1.The insurance company's capital adequacy ratio and net worth ratio in the most recent filing to the competent authority complies with regulations regarding the capital adequacy ratio in Subparagraph 1, Paragraph 1, Article 5 of the Regulations Governing Capital Adequacy of Insurance Companies.
+2. The amounts in preparatory funds based on the most recent actuarial opinions meet requirements in related regulations and adequacy requirements.
+3. The insurance company has established an effective internal control system.
+The provisions on auditing frequency in Paragraph 1 of the preceding article do not apply to insurance companies that have been approved to adopt a risk-based internal auditing system.
+The provisions in this article do not apply to branch companies of foreign insurance companies in Taiwan, reinsurance companies, and insurance cooperatives.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
@@ -397,6 +403,27 @@ Where an insurance enterprise has a foreign branch, the regulatory compliance un
     <條號>Article 34</條號>
     <條文內容><![CDATA[An insurance enterprise should, based on its regulatory compliance plan, design the working papers for self-evaluation of regulatory compliance and perform self-evaluation at least semiannually. The self-evaluation results should be sent to the regulatory compliance unit for future reference. The head of a unit should designate a specific staff to carry out the unit's self-evaluation.
 The working papers and information on the self-evaluation work under the preceding paragraph shall be retained for at least 5 years.]]></條文內容>
+  </條文>
+  <編章節>      Section 5 risk management mechanism</編章節>
+  <條文>
+    <條號>Article 34-1</條號>
+    <條文內容><![CDATA[An insurance company shall establish suitable risk management policies and procedures, which shall be passed by the board of directors and be regularly reviewed.
+An insurance company shall establish an independent risk management task force and regularly report to the board of directors; upon identifying a significant risk exposure that might adversely affect its financial or business status or compliance with applicable acts and regulations, it shall take immediate and adequate countermeasures and submit a report to the board of directors.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 34-2</條號>
+    <條文內容><![CDATA[The risk management mechanisms of an insurance company shall include the following principles:
+1. Identifying and evaluating the acceptable scope of risks based   on the business scale, product characteristics, and overall economic conditions.
+2. Risks that must be considered include market risks (including interest rate risks), credit risks, liquidity risks, operational risks, insurance risks, asset liability matching risks, and other risks. Related risk management mechanisms shall also be established.
+3. The management must regularly review the risk management mechanism and the own risk and solvency assessment (ORSA) mechanisms in accordance with relevant laws and regulations, self-regulatory guidelines, and actual economic conditions, and adopt appropriate strategies
+An insurance company shall consider the nature, scale, and complexity of its business risks based on its risk management framework and develop ORSA operation processes that are suitable for its organizational structure and risk management system.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 34-3</條號>
+    <條文內容><![CDATA[The risk management mechanisms established by an insurance company shall include at least the following matters:
+1. The risk management framework shall include risk governance, risk management organizational framework and duties, risk identification, risk measurement, risk response, risk monitoring and information, communication, and documentation.
+2.The risk management mechanisms shall incorporate the business management and corporate culture of the insurance company, which adopts qualitative and quantitative technologies in accordance with the risk management policies it established to manage relevant risks that can be reasonably anticipated by the insurance company.
+3. The insurance company shall set its risk appetite and specify the risk level it is willing to accept to attain strategic objectives and business plans. It must also set main risk limits for regular monitoring and management.]]></條文內容>
   </條文>
   <編章節>   Chapter 4 Supplementary Principles</編章節>
   <條文>
