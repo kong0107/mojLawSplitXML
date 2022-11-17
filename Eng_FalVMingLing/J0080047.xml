@@ -3,18 +3,19 @@
 <英文法規名稱>Regulations Governing the Application of Business Registration</英文法規名稱>
 <中文法規名稱>商業登記申請辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080047</法規網址>
-<最新英文異動日期>20191015</最新英文異動日期>
+<最新英文異動日期>20220826</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1.Promulgated on March 23 , 2009 
-2.Amended on August 05 , 2009 
-3.Amended on November 12, 2010 
-4.Amended on September 22, 2011 
-5.Amended on February 13, 2014 
-6.Amended on September 06, 2016 
+<沿革內容><![CDATA[1.Promulgated on March 23 , 2009
+2.Amended on August 05 , 2009
+3.Amended on November 12, 2010
+4.Amended on September 22, 2011
+5.Amended on February 13, 2014
+6.Amended on September 06, 2016
 7.Amended on February 26, 2019
-8.Amended on October 15, 2019]]></沿革內容>
+8.Amended on October 15, 2019
+9.Amended on August 26, 2022]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -24,6 +25,13 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[The applicant preparing the application documents for business registration in the form of electronic documents shall prefix with electronic signature recognized by the central competent authority or the competent authority having jurisdiction over the district where the business is located , and transmit the electronic documents via the software, format, type and manner designated by the central competent authority or the competent authority having jurisdiction over the district where the business is located .]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 2-1</條號>
+    <條文內容><![CDATA[The Relevant Authority at the place where the business is located (hereinafter referred to as “the local competent authority”) shall serve the business or its agent the official documents, which may be electronically prepared and transmitted to the electronic official document downloading platform established by the central competent authority. If the electronic official documents are downloaded by the business or its agent, they have the same validity as the hard copy official documents.
+The local competent authority shall obtain the consent of the business or its agent before serving the official documents in accordance with the preceding paragraph.
+When the local competent authority serving the electronic official documents to the business or its agent shall be deemed as the time recorded by the information system of the central competent authority when the business or its agent downloads such official documents. The statutory period therefor shall begin to run from the date following the day on which such electronic documents are downloaded.
+If the business or its agent fails to download such electronic documents within five working days after the electronic documents have been transmitted to the electronic official document downloading platform by the local competent authority, the local competent authority shall take down such electronic documents and serve the official documents in hard copy.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
