@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Offering and Issuance of Securities by Securities Issuers</英文法規名稱>
 <中文法規名稱>發行人募集與發行有價證券處理準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400023</法規網址>
-<最新英文異動日期>20220126</最新英文異動日期>
+<最新英文異動日期>20220815</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -43,7 +43,8 @@
 32. Articles 8, 11, 13, 60-9 and 73, and Attachment 33 of Article 72 amended and issued per 6 August 2015 Order No. Financial-Supervisory-Securities-Corporate-1040029334 of the Financial Supervisory Commission
 33. Articles 3, 6, 8, 9, 11, 11-1, 13, 20 to 23, 25, 26, 28, 40, 66, 68, and 72 amended, and Article 51 deleted, per 12 November 2015 Order No. Financial-Supervisory-Securities-Corporate-1040044352 of the Financial Supervisory Commission
 34. Articles 3, 6, 8, 10, 11-1, 13, 14, 17, 60-1, 66, 67 and 75 and Attachments 6 and 11 of Article 12 and Attachment 24 of Article 66 amended, and Article 75-1 deleted, per 29 March 2021 Order No. Financial-Supervisory-Securities-Corporate-1100335023 of the Financial Supervisory Commission
-35. Articles 11, 22 to 24, and 75 and Attachment 16 of Article 23 amended, and Articles 19-1 to 19-3 added, per 26 January 2022 Order No. Financial-Supervisory-Securities-Corporate-1110380256 of the Financial Supervisory Commission]]></沿革內容>
+35. Articles 11, 22 to 24, and 75 and Attachment 16 of Article 23 amended, and Articles 19-1 to 19-3 added, per 26 January 2022 Order No. Financial-Supervisory-Securities-Corporate-1110380256 of the Financial Supervisory Commission
+36. Articles 56 and 60-4 amended and issued per 15 August 2022 Order No. Financial-Supervisory-Securities-Corporate-1110383426 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -592,20 +593,21 @@ The aforesaid report shall become effective 7 business days after its receipt by
   </條文>
   <條文>
     <條號>Article 56</條號>
-    <條文內容><![CDATA[An issuer reporting issuance of employee stock warrants shall obtain approval by the majority votes in a meeting of Board of Directors which two-thirds or more directors are present. The following matters shall be provided in the terms and conditions regarding the issue and exercise of stock option:
+    <條文內容><![CDATA[An issuer reporting issuance of employee stock option warrants shall obtain approval by the majority votes in a meeting of the board of directors at which two-thirds or more directors are present. The following matters shall be provided in the terms and conditions regarding the issue and exercise of stock option warrants:
 1. Issue period.
-2. Qualifications and conditions for eligible employee for stock option.
-3. Number of total issued units of the employee stock warrants, number of shares each unit represents, total number of new shares to be issued in connection with exercise of stock options, or the number of shares for shares buy-back as required per Article 28-2 of the Act.
-4. Criteria for setting the terms and conditions for exercising stock option (including exercise price, exercise period, class of shares with which to exercise stock option, measures to be taken in the event of inheritance/employee resignation, etc.).
+2. Qualifications and conditions for eligible employees for stock option warrants and distribution review and approval procedures.
+3. Number of total issued units of the employee stock option warrants, number of shares each unit represents, total number of new shares to be issued in connection with exercise of stock option warrants, or the number of shares for shares buy-back as required per Article 28-2 of the Act.
+4. Criteria for setting the terms and conditions for exercising stock option warrants (including exercise price, exercise period, class of shares with which to exercise stock option warrants, measures to be taken in the event of inheritance/employee resignation, etc.).
 5. Performance of contract: by either issuance of new shares or delivery of already issued shares by an exchange-listed or OTC-listed company. However, for emerging stocks or stocks that are neither listed on an exchange nor traded in the business places of securities firms, performance of contract shall be by issuance of new shares.
 6. Adjustment of exercise price.
-7. Upon capitalization of retained earnings or capitalization of capital reserves, additional employee stock warrants may be issued or the number of shares subscribable may be adjusted; however, this shall apply only where the articles of incorporation at the time of subscription expressly provide that there is a sufficient number of shares to be made available for subscription.
-8. Procedure for exercising stock option.
-9. Rights and obligations after exercising stock option.
+7. Upon capitalization of retained earnings or capitalization of capital reserves, additional employee stock option warrants may be issued or the number of shares subscribable may be adjusted; however, this shall apply only where the articles of incorporation at the time of subscription expressly provide that there is a sufficient number of shares to be made available for subscription.
+8. Procedure for exercising stock option warrants.
+9. Rights and obligations after exercising stock option warrants.
 10. Other important stipulations.
-The issue period as referred to in subparagraph 1 of the preceding paragraph shall be not more than 1 year starting from the date of receipt of the notice of effective registration. In case where there are remaining units to be issued after the issue period expires, the issuer shall submit a new registration filing.
-Any change in any subparagraph of paragraph 1 shall be made only after being approved by the majority votes in a meeting of Board of Directors at which two-thirds or more directors are present.
-In case of any change in any subparagraph under paragraph 1, the issuer shall submit as supplementary documents the minutes of the meeting of the Board of Directors as well as relevant materials after the amendment, and paragraph 2 of Article 12 shall apply mutatis mutandis.]]></條文內容>
+The issue period as referred to in subparagraph 1 of the preceding paragraph shall be not more than 2 year starting from the date of receipt of the notice of effective registration. In case where there are remaining units to be issued after the issue period expires, the issuer shall submit a new registration filing.
+The qualifications and conditions for eligible employees under paragraph 1, subparagraph 2 shall include at least such matters as individual performance and results; the distribution review and approval procedures shall include at least submission to and approval by the remuneration committee or audit committee, followed by submission to and approval by the board of directors.
+Any change in any subparagraph of paragraph 1 shall be made only after being approved by the majority votes in a meeting of the board of directors at which two-thirds or more of the directors are present.
+In case of any change in any subparagraph under paragraph 1, the issuer shall submit as supplementary documents the minutes of the meeting of the board of directors as well as relevant materials after the amendment, and paragraph 2 of Article 12 shall apply mutatis mutandis.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 56-1</條號>
@@ -670,10 +672,11 @@ A registration filed in accordance with the preceding paragraph shall become eff
     <條文內容><![CDATA[An issuer registering the issuance of new restricted employee shares shall specify the following particulars in the issuance rules:
 1. The terms and conditions of issuance (including the issue price, vesting conditions, class of issued shares, and measures to be taken when employees fail to meet the vesting conditions or in the event of inheritance).
 2. Total amount of the issue.
-3. Qualifications and conditions for employees.
+3. Qualifications and conditions for employees and distribution review and approval procedures.
 4. Following distribution or subscription, the rights that are subject to restriction until vesting conditions are met.
 5. Other important stipulations (including custodial trust of the shares).
-With respect to registration for the issuance of new restricted employee shares under the preceding paragraph, if 1 year has passed from the date of receipt of the notice of effective registration and it remains necessary to issue remaining shares not yet issued, a new registration filing shall be submitted.]]></條文內容>
+The qualifications and conditions for employees under subparagraph 3 of the preceding paragraph shall include at least such matters as individual performance and results; the distribution review and approval procedures shall include at least submission to and approval by the remuneration committee or audit committee, followed by submission to and approval by the board of directors.
+With respect to registration for the issuance of new restricted employee shares under paragraph 1, if 2 years have passed from the date of receipt of the notice of effective registration and it remains necessary to issue remaining shares not yet issued, a new registration filing shall be submitted.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 60-5</條號>
