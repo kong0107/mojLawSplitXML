@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Securities Firms</英文法規名稱>
 <中文法規名稱>證券商管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400072</法規網址>
-<最新英文異動日期>20210506</最新英文異動日期>
+<最新英文異動日期>20220901</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -46,7 +46,8 @@
 57. Article 45-1 amended and issued 15 January 2020 Order No. Financial-Supervisory-Securities-Firms-1080362060 of the Financial Supervisory Commission
 58. Articles 19 and 31-3 amended and issued per 3 February 2020 Order No. Financial-Supervisory-Securities-Firms-1090360209 of the Financial Supervisory Commission
 59. Articles 21 and 32-1 amended and Articles 14-6, 35-2, and 68-1 added per 29 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364783 of the Financial Supervisory Commission
-60. Articles 9, 32-1, and 45-1 amended and issued and Article 38-1 added per 6 May 2021 Order No. Financial-Supervisory-Securities-Firms-1100361767 of the Financial Supervisory Commission]]></沿革內容>
+60. Articles 9, 32-1, and 45-1 amended and issued and Article 38-1 added per 6 May 2021 Order No. Financial-Supervisory-Securities-Firms-1100361767 of the Financial Supervisory Commission
+61. Articles 21, 38, and 69 amended and issued per 1 September 2022 Order No. Financial-Supervisory-Securities-Firms-1110383646 of the Financial Supervisory Commission, for enforcement from the date of issuance, with the exception of Article 21, which shall be enforced from fiscal year 2022]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -291,7 +292,7 @@ Except where otherwise provided by law or regulation, a securities firm exercisi
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[Within 2 months after the close of each half fiscal year and 3 months after the close of each fiscal year, respectively, a securities firm shall publicly announce and report to the FSC the semi-annual financial reports and the annual financial reports signed or sealed by the chairperson, managerial officer, and accounting officer, audited and attested by certified public accountants, approved by the board of directors, and recognized by the supervisors. Where the stocks of such securities firm have been listed on the TWSE or the TPEx, the provisions of Article 36 of the Act shall be complied with.
+    <條文內容><![CDATA[Within 2 months after the close of each half fiscal year and 3 months after the close of each fiscal year, respectively, a securities firm shall publicly announce and report to the FSC the semi-annual financial reports and the annual financial reports signed or sealed by the chairperson, managerial officer, and accounting officer, audited and attested by certified public accountants, approved by the board of directors, and recognized by the supervisors. Where the stocks of such securities firm have been listed on the TWSE or the TPEx, the provisions of Article 36 of the Act shall be complied with. However, a securities firm that has publicly issued stock or is a securities subsidiary of a financial holding company shall publicly announce and report its annual financial report no later than 75 days after the close of the fiscal year.
 Auditing and attestation of the financial reports referred to in the preceding paragraph shall be performed jointly by two or more practicing certified public accountants of a joint accounting firm approved by the FSC in accordance with the Regulations Governing Approval of Certified Public Accountants to Audit and Attest to the Financial Reports of Public Companies.
 A securities firm shall submit to the FSC its monthly accounting summary for the preceding month by the 10th day of each month.
 Where a securities firm has entered into a contract for using the centralized securities market with the TWSE, submission of matters referred to in paragraph 1 and the preceding paragraph shall be made to the FSC through the TWSE. Where a securities firm only entered into a contract for trading securities on the TPEx, the said submission shall be made to the FSC through the TPEx. Where no has been entered into, the submission shall be made to the FSC through a securities dealers' association.]]></條文內容>
@@ -502,7 +503,7 @@ The types and scope of the securities under the preceding paragraph shall be sep
   <條文>
     <條號>Article 38</條號>
     <條文內容><![CDATA[A securities firm accepting orders to trade securities shall establish a separate deposit account with a bank for paying and receiving settlement funds of the customer. The funds in the said account shall not be used for other purposes.
-A securities firm may, with the consent of the customer, retain the customer's settlement funds in the securities firm's settlement account. The securities firm shall set up a separate account ledger for each customer in the settlement account, and record therein on a daily basis the itemized receipts and payments of funds, and shall retain the record. The securities firm may not utilize such funds except for making payments of funds payable on behalf of the customer.]]></條文內容>
+A securities firm may, with the consent of the customer, retain the customer's settlement funds in the securities firm's settlement account. The securities firm shall set up a separate account ledger for each customer in the settlement account, and record therein on a daily basis the itemized receipts and payments of funds, and shall retain the record. The securities firm may not utilize such funds except for making payments of funds payable on behalf of the customer or as otherwise provided by the FSC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38-1</條號>
@@ -821,7 +822,7 @@ In addition to disclosing capital adequacy information of the securities firm pu
   </條文>
   <條文>
     <條號>Article 69</條號>
-    <條文內容><![CDATA[These Regulations shall enter into force from the date of issuance, with the exception of Articles 16 and 47 as amended and issued on 11 October 2012, which shall enter into force from the fiscal year of 2013, and of Articles 37 and 37-1 as amended and issued on 30 December 2013, which shall enter into force from 6 January 2014, and of Article 37-1 as amended and issued on 27 June 2014, which shall enter into force from 30 June 2014.]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall enter into force from the date of issuance, with the exception of Articles 16 and 47 as amended and issued on 11 October 2012, which shall enter into force from the fiscal year of 2013, and of Articles 37 and 37-1 as amended and issued on 30 December 2013, which shall enter into force from 6 January 2014, and of Article 37-1 as amended and issued on 27 June 2014, which shall enter into force from 30 June 2014, and of Article 21 as amended and issued on 1 September 2022, which shall enter into force from fiscal year 2022.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
