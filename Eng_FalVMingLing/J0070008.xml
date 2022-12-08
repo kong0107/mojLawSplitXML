@@ -3,7 +3,7 @@
 <英文法規名稱>Enforcement Rules of the Patent Act</英文法規名稱>
 <中文法規名稱>專利法施行細則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0070008</法規網址>
-<最新英文異動日期>20200624</最新英文異動日期>
+<最新英文異動日期>20221020</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -24,7 +24,9 @@
 15. Amended on June 29, 2016; entered into force on July 1, 2016
 16. Amended on April 19, 2017; entered into force on May 1, 2017
 17. Amended on September 27, 2019; entered into force on November 1, 2019
-18. Amended on June 24, 2020; entered into force on June 26, 2020]]></沿革內容>
+18. Amended on June 24, 2020; entered into force on June 26, 2020
+19. Amended on Octorber 20, 2022; entered into force on Octorber 22, 2022
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -503,15 +505,14 @@ The sub-licensed scope is limited to the original licensed scope.]]></條文內�
   </條文>
   <條文>
     <條號>Article 67</條號>
-    <條文內容><![CDATA[In requesting for recordation of pledge establishment of a patent right, a request form shall be submitted by the patentee or the pledgee and accompanied by the patent certificate and the following documents:
+    <條文內容><![CDATA[In requesting for recordation of pledge establishment of a patent right, a request form shall be submitted by the patentee or the pledgee and accompanied by the following documents:
 1.for recordation of pledge establishment, the pledge agreement or document(s) of proof with respect to such establishment;
 2.for alteration of the recordation of pledge establishment, document(s) of proof with respect to such alteration;
-3.for deletion of pledge establishment recordation, document(s) of proof with respect to the full discharge of pledged liabilities, a letter consenting deletion of pledge establishment recordation issued by the pledgee, a judgment of the court along with a certificate stating the judgment is final and binding, or documents which legally have the equivalent effect as a final and binding judgment of the court.
+3.for cancelation of pledge establishment recordation, document(s) of proof with respect to the full discharge of pledged liabilities, document(s) to prove that the pledgee consented to cancel the recordation of the establishment of a pledge, a judgment of the court along with a certificate stating the judgment is final and binding, or documents which legally have the equivalent effect as a final and binding judgment of the court.
 The agreement or document(s) of proof referred to in Subparagraph 1 of the preceding paragraph shall specify the following items:
-1. title or certificate number of the invention, utility model or design patent; and
-2. amount of credit pledged and the term of the pledge establishment.
-The expiration date of the term of the pledge establishment referred in Subparagraph 2 of the preceding paragraph shall not be later than the expiration date of the patent term.
-Upon recordation under the first paragraph with the Specific Patent Agency, the relevant items shall be annotated to the patent certificate and the Patent Registry.]]></條文內容>
+1.title or certificate number of the invention, utility model, or design patent; and
+2.amount of claim and the term of the pledge establishment.
+The expiration date of the term of the pledge establishment referred to in Subparagraph 2 of the preceding paragraph shall not be later than the expiration date of the patent term.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 68</條號>
@@ -581,7 +582,11 @@ When requesting for repeal of a compulsory license, a request form specifying th
   </條文>
   <條文>
     <條號>Article 80</條號>
-    <條文內容><![CDATA[Where a patent certificate is destroyed, lost or damaged to the extent that it is no longer usable, the patentee shall apply for issuance of a replacement or a substitution, stating the reasons in writing.]]></條文內容>
+    <條文內容><![CDATA[The patentee may file an application form for the replacement or re-issuance of a patent certificate containing a written statement clarifying the reason(s) that exists under any of the following circumstances:
+1.the patent certificate is destroyed or lost;
+2.the patent certificate is outmoded or damaged;
+3.changes to the particulars entered therein are to be updated.
+Where a patent certificate is replaced or re-issued pursuant to the preceding paragraph, the nullification of the original patent certificate shall be published in the Patent Gazette.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 81</條號>
@@ -681,7 +686,7 @@ Under any of the following circumstances, the description, drawing(s), and descr
   <條文>
     <條號>Article 89-1</條號>
     <條文內容><![CDATA[The patent files such as application documents, description, claim(s), abstract, drawing(s), and illustration(s) deemed worth preserving by the Specific Patent Agency as set forth in Paragraph 1, Article 143 of the Act shall refer to these of the following patent cases：
-1.the invention patent is  requested for  compulsory licensing.
+1.the invention patent is requested for compulsory licensing.
 2.the patents filed by an ROC national who is a Nobel laureate.
 3.the patent has been awarded the National Invention and Creation Award.
 4.the patent is filed for an invalidation action and the decision thereof is filed for administrative remedy actions.
