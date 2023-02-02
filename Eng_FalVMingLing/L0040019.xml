@@ -3,17 +3,21 @@
 <英文法規名稱>Sanitation Standard for Food Utensils, Containers and Packages</英文法規名稱>
 <中文法規名稱>食品器具容器包裝衛生標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040019</法規網址>
-<最新英文異動日期>20130820</最新英文異動日期>
+<最新英文異動日期>20230111</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
   <檔案>
-    <檔案名稱><![CDATA[Article 6.PDF]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004606</下載網址>
+    <檔案名稱><![CDATA[Appendix table 1. General requirements.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007733</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Article 6.doc]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002075</下載網址>
+    <檔案名稱><![CDATA[Appendix table 2. Requirements for plastic materials.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007734</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Appendix table 3. Materials requirements for dairy products.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007735</下載網址>
   </檔案>
 </附件>
 <沿革內容><![CDATA[1.DOH Food No.0920402784, 11/26/2003
@@ -23,16 +27,18 @@
 5.DOH Food No.1001303928, 1/18/2012
 6.DOH Food No.1011302926, 9/21/2012
 7.DOH Food No.1021300776, 4/9/2013
-8.DOH Food No.1021350146, 8/20/2013]]></沿革內容>
+8.DOH Food No.1021350146, 8/20/2013
+9.MOHW Food No. 1111303439 Amended, 1/11/2023
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation.]]></條文內容>
+    <條文內容><![CDATA[This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Safety and Sanitation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[Plastic food containers and packages shall not be recycled for re-use.]]></條文內容>
+    <條文內容><![CDATA[Plastic food containers and packages shall not be recycled to repackage food then sell.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -40,7 +46,7 @@
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[The food utensils and containers which use for children under the age of three,shall not add di-(2-ethylhexyl) phthalate(DEHP), Di-n-octhl phthalate(DNOP), di-n-butyl phthalate (DBP) and Butylbenzyl phthalate(BBP).]]></條文內容>
+    <條文內容><![CDATA[The food utensils and containers which use for children under the age of three, shall not add di-(2-ethylhexyl) phthalate (DEHP), Di-n-octyl phthalate (DNOP), dibutyl phthalate (DBP) and Benzyl butyl phthalate (BBP).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -48,12 +54,14 @@
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[Food utensils, containers and packages shall meet the requirements according to the following standard tests：]]></條文內容>
+    <條文內容><![CDATA[Food utensils, containers and packages shall meet the requirements according to the following standard tests：
+1. General requirements as Appendix table 1.
+2. The plastic materials listed in the Appendix table 2, shall also comply with the Appendix table 1.
+3. The containers and packages for dairy products shall comply with the Appendix table 3.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[This Standard shall be implemented from the date of promulgation.
-The amended articles shall be implemented from September 1, 2013 for manufacturing and importing the plastic infant feeding bottles (since the MIT product's manufacture date or import product's estimated time of departure), and from March 1, 2014 for selling the plastic infant feeding bottles.]]></條文內容>
+    <條文內容><![CDATA[This Standard shall be implemented from the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
