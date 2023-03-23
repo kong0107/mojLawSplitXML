@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Responsible Persons and Associated Persons of Securities Investment Consulting Enterprises</英文法規名稱>
 <中文法規名稱>證券投資顧問事業負責人與業務人員管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400081</法規網址>
-<最新英文異動日期>20201026</最新英文異動日期>
+<最新英文異動日期>20221222</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -13,7 +13,8 @@
 4. Article 3 amended and issued per 11 October 2010 Order No. Financial-Supervisory-Securities-Firms-0990051567 of the Financial Supervisory Commission, Executive Yuan
 5. Articles 5-1, 15, and 16 amended and Article 5-3 added per 20 December 2010 Order No. Financial-Supervisory-Securities-SITC-0990069311 of the Financial Supervisory Commission, Executive Yuan
 6. Articles 2, 5, 7 and 20 amended and issued per 1 August 2012 Order Financial-Supervisory-Securities-SITC-1010032368 of the Financial Supervisory Commission
-7. Articles 3-1 and 4 amended and issued per 26 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364936 of the Financial Supervisory Commission]]></沿革內容>
+7. Articles 3-1 and 4 amended and issued per 26 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364936 of the Financial Supervisory Commission
+8. Articles 15 and 21 amended and Articles 2-1 and 7-1 added per 22 December 2022 Order No. Financial-Supervisory-Securities-SITC-1110385547 of the Financial Supervisory Commission; for enforcement from the date of issuance, except for Article 7-1, which will be enforced from 1 January 2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -33,6 +34,11 @@ The term "associated person" as used in these Regulations means a person perform
 7. Carrying out legal compliance practices.
 8. Acting as in-charge accountant.
 9. Conducting such other business operations as may be approved.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 2-1</條號>
+    <條文內容><![CDATA[A SICE's board of directors is responsible for the appointment of managerial officers and shall scrupulously review to ensure that the managerial officers meet the qualification requirements. The board of directors is also responsible for overseeing the maintenance of qualifications by managerial officers and the suitability of managerial officers in their positions.
+The board of directors shall scrupulously oversee the company's implementation of the accountability of managerial officers, establish related systems, and include them in the assessment of the suitability of managerial officers.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -126,6 +132,25 @@ If the SICE currently operates securities investment trust business, none of its
 Unless otherwise provided by a law or regulation, a director, supervisor, or managerial officer of a SICE may not invest in another SICE, or concurrently serve as a director, supervisor, or managerial officer of another SICE, or of a securities investment trust enterprise (SITE) or securities firm.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 7-1</條號>
+    <條文內容><![CDATA[A SICE director, supervisor, or related party thereof, who acts concurrently as a director or supervisor of another SICE or a SITE or a securities firm will be presumed to have a conflict of interest unless the SICE and that other SICE or SITE or securities firm have a controlling and subordinate relation as defined in the Company Act or such concurrent appointment is pursuant to laws and regulations.
+The term "director" or "supervisor" as used in the preceding paragraph means those within the following scope:
+1. A juristic person or a natural person appointed by that juristic person to exercise the duties.
+2. A juristic person or an elected natural person representative who represents a juristic person.
+3. An elected natural person who is neither appointed by nor a representative of the government or a juristic person.
+The term "related party" of a director or supervisor as used in paragraph 1 means parties related to the same natural person or the same juristic person, within the following scope:
+1. Parties related to the same natural person:
+A. The spouse and lineal relatives of that natural person.
+B. Any enterprise in which that natural person and natural persons referred to in the preceding item hold in aggregate more than one-third of the outstanding voting shares or capital, or any enterprise or foundation in which that natural person and natural persons referred to in the preceding item serve as the chairman or general manager or in a majority of the director positions.
+2. Parties related to the same juristic person:
+A. The chairman of that juristic person and his or her spouse and lineal relatives.
+B. Any enterprise in which that juristic person and natural persons referred to in the preceding item hold more than one-third of the outstanding voting shares or capital, or any enterprise or foundations in which that juristic person and natural persons referred to in the preceding subparagraph serve as the chairman or general manager or in a majority of the director positions.
+C. Affiliates of that juristic person. The term "affiliate" shall be as defined under Articles 369-1 to 369-3, Article 369-9, and Article 369-11 of the Company Act.
+The preceding three paragraphs shall not apply to the government or to a SICE in which the government directly and/or indirectly holds 100 percent of the shares. However, the natural person appointee(s) or representative(s) of the government or SICE designated to serve in the director or supervisor capacity shall not concurrently serve in any position in another SICE or a SITE or a securities firm unless with the approval of the FSC.
+If a SICE director, supervisor, or related person thereof, has a conflict of interest set out in paragraph 1 or the preceding paragraph, the FSC may order the SICE to make adjustments within a prescribed period of time; the person shall be dismissed if the SICE fails to adjust within the time period and without justifiable reason.
+Those who were already serving as a director or supervisor of a SICE prior to the 1 January 2023 enforcement of the amendment to this article may continue to serve for the duration of their original term, without being subject to the restrictions in the preceding five paragraphs.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[A SICE director or manager who serves as a department supervisor, or who directly performs the functions of an associated person, shall obtain or possess one of the qualifications set out in these Regulations concerning department supervisors or associated persons.]]></條文內容>
   </條文>
@@ -156,10 +181,10 @@ With respect to deputations referred to in the preceding paragraph, the SICE sha
   </條文>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[A responsible person, department supervisor, branch unit manager, associated person, or any other employee of a SICE shall exercise the care and fiduciary duty of a good-faith administrator, and abide by principles of good faith and integrity, in performing his or her duties.
+    <條文內容><![CDATA[A responsible person, department head, branch unit managerial officer, associated person, or any other employee of a SICE shall exercise the care and fiduciary duty of a good-faith administrator, and abide by principles of good faith and integrity, in performing his or her duties.
 Unless otherwise provided by a law or regulation, a person referred to in the preceding paragraph may not engage in any of the following conduct:
 1. Using fraud, coercion, or other improper means in connection with the signing of mandate contracts.
-2. Acting as another  person's agent in activities involving investment in securities or trading in securities-related products.
+2. Acting as another person's agent in activities involving investment in securities or trading in securities-related products. However, this restriction does not apply to one who is the statutory agent of the principal.
 3. Stipulating that gains or losses from securities investments will be shared with a customer.
 4. Trading in the same securities as those recommended by the SICE to an investor, except in the case of a securities investment trust fund or an offshore fund.
 5. Engaging in false or deceptive conduct, rude invective, or other conduct obviously contrary to facts or sufficient to cause mistaken belief by another.
@@ -230,7 +255,7 @@ Unless otherwise provided by another law, where an enterprise in another line of
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[These Regulations shall enter into force from the date of issuance.]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall enter into force from the date of issuance, with the exception of Article 7-1 issued in the 22 December 2022 amendment, which shall enter into force from 1 January 2023.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
