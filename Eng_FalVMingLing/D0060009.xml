@@ -3,7 +3,7 @@
 <英文法規名稱>The Equalization of Land Rights Act</英文法規名稱>
 <中文法規名稱>平均地權條例</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0060009</法規網址>
-<最新英文異動日期>20210127</最新英文異動日期>
+<最新英文異動日期>20230208</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -30,7 +30,8 @@
 21.Amended and Promulgated by letter Hua-Zong-1-Yi No.10600056451 of President on May 10, 2017; revising Article 14 and 17
 22.Amended and Promulgated by letter Hua-Zong-1-Yi No.10700131021 of President on December 5, 2018; revising Article 51
 23.Amended and Promulgated by letter Hua-Zong-1-Yi No.10800075461 of President on July 31, 2019; revising Article 47, 81-2 and 87
-24.Amended and Promulgated by letter Hua-Zong-1-Yi No.11000006071 of President on January 27, 2021; revising Article 47, 81-2 and 87; adding Article 47-3]]></沿革內容>
+24.Amended and Promulgated by letter Hua-Zong-1-Yi No.11000006071 of President on January 27, 2021; revising Article 47, 81-2 and 87; adding Article 47-3
+25.Amended and Promulgated by letter Hua-Zong-1-Yi No.11200009161 of President on February 8, 2023; revising Article 4,47-3,81-2 and 87; adding Article 47-4,47-5,79-1,81-3 and 81-4]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -58,7 +59,8 @@
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[The term “land evaluation committee” referred to in this Act shall denote the committee organized by the Special Municipal Government or the County / City Government and composed of representatives of local people and other persons of justice. The organization of the land evaluation committee shall be prescribed by the Ministry of the Interior.]]></條文內容>
+    <條文內容><![CDATA[The term “land evaluation committee” referred to in this Act shall denote the committee organized by the Special Municipal Government or the County / City Government, and composed of representatives of local people and other persons of justice. The organization and operational regulations of the land evaluation committee shall be prescribed by the central competent authority.
+The committee members in the preceding paragraph shall be composed of representatives of relevant authorities and experts and scholars in the fields of land administration, real estate appraisal, law, engineering and urban planning, or, representatives from relevant civil groups, of which no less than one-half of the total number of committee members shall be experts and scholars and representatives from relevant civil groups. Representatives of each sex shall account for at least one-third of seats.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -366,7 +368,7 @@ The obligee and the obligor shall declare of real estate transaction information
 Government may utilize the registered transaction information of the preceding paragraph and provide public for inquiry without revealing personal data.
 The registered real estate transaction price information shall become a basis for taxation only until complementary laws are enacted.
 Rules of the registered types and contents in the second paragraphs and the provision of information contents, ways, fees and other matters to follow in the third paragraph shall be formulated by the central competent authority.
-The competent authority of the municipality or county (city) may request the obligee, obligor, land administration agent, or real estate broking  to access, obtain relevant documents or provide explanations in order to check the registered information.  The central competent authority may inquire about and obtain documents related to price information from relevant agencies or financial institutions in order to check suspected price declaring information. The inspected person shall not evade, hinder or refuse the inspection.
+The competent authority of the municipality or county (city) may request the obligee, obligor, land administration agent, or real estate broking to access, obtain relevant documents or provide explanations in order to check the registered information. The central competent authority may inquire about and obtain documents related to price information from relevant agencies or financial institutions in order to check suspected price declaring information. The inspected person shall not evade, hinder or refuse the inspection.
 The inspection in the preceding paragraph shall not exceed the necessary scope for the purpose of ensuring the correctness of the declared real estate transaction information.
 Accepting the declaring real transaction information in the preceding second paragraph and the inspection in the preceding fourth paragraph, the competent authority of the municipality or county (city) may authorize its subordinate authority to handle the matter.
 The district basis real estate transaction information provided prior to the enforcement of articles of this Act that were amended on 30th December 2020 shall be re-provided for inquiry in accordance with the preceding third paragraph.]]></條文內容>
@@ -392,12 +394,28 @@ If the current transaction value reported by the reporter, according to Subparag
   </條文>
   <條文>
     <條號>Article 47-3</條號>
-    <條文內容><![CDATA[Those who are responsible for the sale of pre-sale houses shall declare the building location, name of the project, sales location, sales period, numbers of households and formalized contract of pre-sale house in written form before the sale.
-Those responsible for the sale of pre-sale houses should declare the real estate transaction information to the municipal, county (city) competent authority within 30 days from the date of signing the contract of pre-sale housing, unless the pre-sale case has been entrusted to real estate brokerage.
-For reference in the first paragraph, the provisions of paragraph 3, 6 to 8 of Article 47 and the regulation in accordance with paragraph 5 of Article 47 shall apply mutatis mutandis, the content and the method to declare shall be prescribed by the central competent authority.
-For reference in the second paragraph, the provisions of paragraph 3, 4, 6 to 8 of Article 47 and the regulation in accordance with paragraph 5 of Article 47 shall apply mutatis mutandis.
-Those who are responsible for the sale of pre-sale houses or entrust the real estate broking to receive deposits or similar items from the buyer shall confirm the subject and the price of the transaction in a written agreement, and shall not make reservations for sale, reservation rights for signing contracts or other matters that are not conducive to the buyer.
-The written agreement mentioned in the preceding paragraph shall not be resold to a third party.]]></條文內容>
+    <條文內容><![CDATA[Those who are responsible for the sale of pre-sale houses shall declare the building location, name of the project, sales location, sales period, numbers of households, and formalized contract of pre-sale houses in written form before the sale.
+Those responsible for the sale of pre-sale houses should declare the real estate transaction information to the competent authority of the municipality or county (city) within 30 days from the date of signing or rescinding the contract of pre-sale houses. However, if the pre-sale case has been entrusted to a real estate brokerage, the real estate brokerage will handle the declared real estate transaction information for the signing of the sales contract.
+For reference in the first paragraph, shall apply mutatis mutandis the provisions of paragraph 3, 6 to 8 of Article 47, and the regulation in accordance with paragraph 5 of Article 47. The content and the method to declare shall be prescribed by the central competent authority.
+For reference in the second paragraph, shall apply mutatis mutandis the provisions of paragraph 3, 4, 6 to 8 of Article 47, and the regulation in accordance with paragraph 5 of Article 47.
+Those who are responsible for the sale of pre-sale houses, or readily available houses  that have received a usage permit but have not yet completed the initial registration of building ownership (hereinafter referred to as newly available houses) who receive deposits or similar items from the buyer, shall confirm the subject and the price of the transaction in a written agreement, and shall not make reservations for sale, reservation rights for signing contracts, or other matters that are not conducive to the buyer. The same shall apply if the sale case has been entrusted to a real estate brokerage.
+The buyer shall not resell the written agreement mentioned in the preceding paragraph to a third party. Those who are responsible for the sale of pre-sale houses or newly available houses, shall not agree to or assist the buyer to transfer the written agreement by reselling to a third party.
+The competent authority of the municipality or county (city) may request the persons referred to in the previous two paragraphs, that is, the buyer, the person(s) who are responsible for the sale of pre-sale houses or newly available houses, or relevant third parties to access, obtain relevant documents, or provide explanations. The inspected person(s) shall not evade, hinder, or refuse the inspection.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 47-4</條號>
+    <條文內容><![CDATA[The buyer in the sales contract of pre-sale houses or newly available houses, shall neither assign nor transfer the contract by reselling to a third party after signing the contract, nor shall the buyer post an advertisement for the assignment or transfer to resell by himself/herself or on commission. Unless the assignment or transfer by reselling is made between spouses, lineal relatives by blood, or collateral relatives within the second degree of kinship, or in other cases where the central competent authority has announced that the assignment or resale may be made with the approval of the competent authority of the municipality or county (city).
+In accordance with the latter part of the proviso from the preceding paragraph, the number of households (buildings) that can be assigned or transferred by reselling by the buyer shall be limited to one every two years nationwide. The method of application for approval, documents to be attached, examination procedures, and other related matters shall be prescribed by the central competent authority.
+Those who are responsible for the sale of pre-sale houses or newly available houses shall neither agree or assist the buyer to transfer by reselling the sale contract to a third party, nor accept any commission to advertise the assignment or transfer by reselling, except as provided in the proviso of the first paragraph.
+The competent authority of the municipality or county (city) may request the persons referred to in the first and preceding paragraphs, that is, the buyer, the person(s) who are responsible for the sale of pre-sale houses or newly available houses, or relevant third parties, to access, obtain relevant documents, or provide explanations. The inspected person shall not evade, hinder, or refuse the inspection.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 47-5</條號>
+    <條文內容><![CDATA[Any person shall not conduct any action under the following subparagraphs:
+1.Using electronic communications, the Internet, illustration meetings, or other means of dissemination of disinformation to influence the price of real estate transactions.
+2.Conspiring with other parties in a scheme, or making fictitious transactions to create the impression of brisk trading on real estate transactions.
+3. On their own, or in the name of others, or, to gather a majority of people in violation of the sale, continuous purchase, or resale of real estate at an increased price, and obviously affect the market order or monopoly resale for profit.
+The competent authority of the municipality or county (city) may request the actor in the previous paragraph, or relevant third parties, to access, obtain relevant documents, or provide explanations. The inspected person shall not evade, hinder or refuse the inspection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 48</條號>
@@ -619,7 +637,15 @@ The Special Municipal Government or the County / City Government may bring this 
     <條號>Article 79</條號>
     <條文內容><![CDATA[The Special Municipal Government or the County / City Government shall deduct from the payable compensation the unpaid land tax and the fine for delinquency due for land tax relating to the relinquished or purchased land, and shall pay the remainder of the compensation to the landowner.]]></條文內容>
   </條文>
-  <編章節>   Chapter VII Penal Provisions</編章節>
+  <條文>
+    <條號>Article 79-1</條號>
+    <條文內容><![CDATA[Private legal person who purchases a house for residential use shall submit use plans and receive permission from the central competent authority, unless the private legal person is exempted from the permission requirement by the announcement of the central competent authority.
+The validity date of the documents in the preceding paragraph is one year.
+Private legal person may not transfer, assign, or give public advance caution of registration for five years after the registration of the housing acquired in Paragraph 1, unless the transfer or assignment is due to enforcement, expropriation, court judgment, or other provisions of law.
+The central competent authority shall recruit (assign) experts and scholars, representatives of civil groups and relevant agencies to review and determine the permit cases in the Paragraph 1 in a collegial manner.
+Regulations on the scope of application, conditions of permission, usage, contents of use plans, documents to be prepared, examination procedures, exemptions from permission, and other obeyed rules of Paragraph 1 shall be made by the central competent authority.]]></條文內容>
+  </條文>
+  <編章節>   Chapter V II Penal Provisions</編章節>
   <條文>
     <條號>Article 80</條號>
     <條文內容><![CDATA[Cancelled.]]></條文內容>
@@ -637,20 +663,37 @@ The Special Municipal Government or the County / City Government may bring this 
   </條文>
   <條文>
     <條號>Article 81-2</條號>
-    <條文內容><![CDATA[Those who violate Paragraph 2 of Article 47 and did not declare the real estate transaction information, shall be rectified within the time limit given by the competent authority of the municipality or county (city). Those who have been completed the sale cases for the ownership transaction registration shall be fined from thirty thousand to one hundred and fifty thousand NT dollars. When they fail to do so, a fine should be imposed each time the violation occurs. Those who fail to make corrections after being punished twice shall be fined from three hundred thousand to one million NT dollars. Those declaration containing buildings will be punished according to the number of households or buildings.
-In any of the following circumstances, a fine will be imposed by the  competent authority of municipal or county (city) between thirty thousand to one hundred and fifty thousand NT dollars and order it to make corrections within a time limit. Those who fail to make corrections within the expiration date will be fined each time. Those who fail to make corrections after being punished twice shall be fined from three hundred thousand to one million NT dollars. Those declaration containing buildings will be punished according to the number of households or buildings:
+    <條文內容><![CDATA[Those who violate Paragraph 2 of Article 47 and did not declare the real estate transaction information, shall be rectified within the time limit given by the competent authority of the municipality or county (city). Those who have completed the sale cases for the ownership transaction registration shall be fined from thirty thousand to one hundred and fifty thousand NT dollars. When they fail to do so, a fine should be imposed each time the violation occurs. Those who fail to make corrections after being punished twice shall be fined from three hundred thousand to one million NT dollars. Those declarations containing buildings will be punished according to the number of households or buildings.
+In any of the following circumstances, a fine will be imposed by the competent authority of municipality or county (city) between thirty thousand to one hundred and fifty thousand NT dollars, and order it to make corrections within a time limit. Those who fail to make corrections within the expiration date will be fined each time. Those who fail to make corrections after being punished twice shall be fined from three hundred thousand to one million NT dollars. Those declarations containing buildings will be punished according to the number of households or buildings:
 1.Those who violate Paragraph 2 of Article 47 and did not declare the correct price information.
-2.Those who violate  Paragraph 2 of Article 47-3 by failing to declare real estate transaction information  in accordance with the limits or declaring the incorrect price or area information.
-In any of the following circumstances, a fine will be imposed by the competent authority of municipal or county (city) between thirty thousand to one hundred and fifty thousand NT dollars and order to make corrections within a time limit. Those who fail to make corrections within the expiration date will be fined each time:
-1.Financial institutions, obligees, obligors, land administration agents, or real estate broking violate  Paragraph 6 of Article 47,  Paragraph 3, 4 of Article 47-3 or Paragraph 6 of Article 47 to evade, hinder or refuse the inspection.
-2.Those who violate Paragraph 1 of Article 47-3 fail to declare the building location, name of the project, sales location, sales period, number of households and standard contract of pre-sale housing in written form before the sale.
-In any of the following circumstances, the municipal and county (city) competent authorities shall order to make corrections within a time limit.  Those who fail to make corrections within the deadline will be fined between six thousand to thirty thousand NT dollars, and ordered to make corrections within a time limit. Those who still fail to make corrections should be fined each time the violation occurs:
-1.Those who violate Paragraph 2 of Article 47 and did not declare the correct information except price information.
-2.Those who violate Paragraph 2 of Article 47-3 and did not declare the correct information except price and area information.
-For those responsible for the sale of pre-sale housing, if the contract used does not in accordance with Mandatory and Prohibitory Provisions of Standard Contracts for Pre-sale Housing announced by the central competent authority will be fined from sixty thousand to three hundred thousand NT dollars.
-In any of the following circumstances, a fine will be imposed by the competent authority of municipal or county (city) between fifteen thousand to one million NT dollars:
-1.Those who are responsible for selling pre-sale houses including selling on their own or on commission violate Paragraph 5 of Article 47-3.
-2.Those who buy the pre-sale houses violate Paragraph 6 of Article 47-3.]]></條文內容>
+2.Those who violate Paragraph 2 of Article 47-3 by failing to declare real estate transaction information in accordance with the limits, or declaring the incorrect information of price, area, or rescission of the sale contract.
+In any of the following circumstances, a fine will be imposed by the competent authority of municipality or county (city) between thirty thousand to one hundred and fifty thousand NT dollars, and ordered to make corrections within a time limit. Those who fail to make corrections within the expiration date will be fined each time:
+1.Financial institutions, obligees, obligors, land administration agents, or real estate brokers who violate Paragraph 6 of Article 47 or Paragraph 3, 4 of Article 47-3 shall apply mutatis mutandis the provisions of Paragraph 6 of Article 47 to evade, hinder, or refuse the inspection.
+2.Those who violate Paragraph 1 of Article 47-3, fail to declare the building location, name of the project, sales location, sales period, number of households, and standard contract of pre-sale housing in written form before the sale.
+In any of the following circumstances, the competent authorities of the municipality or  county (city) shall order to make corrections within a time limit. Those who fail to make corrections within the deadline will be fined between six thousand to thirty thousand NT dollars, and ordered to make corrections within a time limit. Those who still fail to make corrections will be fined each time the violation occurs:
+1.Those who violate Paragraph 2 of Article 47 and did not declare the correct information, except price information.
+2.Those who violate Paragraph 2 of Article 47-3 and did not declare the correct information, except the information of price and area or rescission of the sale contract.
+For those responsible for the sale of pre-sale housing, if the contract used is not in accordance with Mandatory and Prohibitory Provisions of Standard Contracts for Pre-sale Housing announced by the central competent authority, they will be fined from sixty thousand to three hundred thousand NT dollars per household or building by the competent authority of municipality or county (city).
+In any of the following circumstances, a fine will be imposed by the competent  authority of municipality or county (city) between fifteen thousand to one million NT dollars per household or building:
+1.Those who are responsible for selling pre-sale houses or newly available houses, including selling on their own or on commission, violate Paragraph 5 of Article 47-3.
+2.Those who buy the pre-sale houses or newly available houses violate Paragraph 6 of Article 47-3.
+3.Those who are responsible for selling pre-sale houses or newly available houses violate Paragraph 6 of Article 47-3 by agreeing or assisting the buyer to transfer by reselling the written agreement to a third party.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 81-3</條號>
+    <條文內容><![CDATA[Those who meet any of the following conditions shall be fined from five hundred thousand to three million NT dollars by the competent authority of the municipality or county (city); those who publish advertisements shall be ordered to make corrections or make necessary disposal within a time limit; those who fail to do so within the time limit shall be fined each time the violation occurs; those who have building real estate transactions shall be fined according to the number of households or buildings:
+1.The buyer violates the Paragraph 1 of Article 47-4 by assigning or reselling the sales contract, or by publishing an advertisement for the assignment or resale.
+2.Those who are responsible for selling pre-sale houses or newly available houses, and violates Paragraph 3 of Article 47-4 by agreeing to or assisting the buyer to assign or transfer by reselling the sales contract to a third party, or by being entrusted to advertise the assignment or resale.
+Those who violate any of the subparagraphs of Paragraph 1 of Article 47-5 shall be fined by the competent authority of the municipality or county (city) from one million to fifty million NT dollars and ordered to make corrections within the time limit; those who fail to do so within the time limit shall be fined each time the violation occurs; those who have building real estate transactions shall be fined according to the number of households or buildings.
+Where the representative of a legal person or the agent, employee, or other staff member of a legal or natural person engages in that capacity in business operations which violate the provisions of preceding paragraph, not only the offender himself shall be punished in accordance with the provisions of preceding paragraph, but the legal or natural person concerned shall therefore  also be levied the fines as referred to in the same paragraph.
+Those who violate Paragraph 7 of Article 47-3, Paragraph 4 of Article 47-4, or Paragraph 2 of Article 47-5 by evading, hindering, or refusing the inspection shall be fined from sixty thousand to three hundred thousand NT dollars, and ordered to make corrections  within the time limit. If they fail to do so, a fine shall be imposed each time the violation occurs.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 81-4</條號>
+    <條文內容><![CDATA[The public who know any violation of the provisions of the law in the sale, transaction, or the declared real estate transaction information may address detailed facts and submit proof to report to the competent authority of municipality and county (city).
+For the reporting action in the foregoing paragraph, if the competent authority of municipality and county (city) verifies that it is true, and impose fines, they may allot a specific percentage of the actual collected fines as a reward for the reporters.
+The competent authority of municipality and county (city) shall allocate a certain percentage of the actual collected fines, which are received from the violation of the provisions of the law in the sale, transaction, or the declared real estate transaction information, to meet the relevant expenses required by them or the appointed authority for inspection.
+The applicable scope, the regulation of the object, the basis, the procedure, the condition, the revocation, and the confidentiality of the identity of the reporting person rewarded in Paragraph 2, as well as the applicable scope of the allocated fines in the preceding paragraph, the percentage, the application, and other related matters shall be prescribed by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 82</條號>
@@ -682,11 +725,12 @@ In any of the following circumstances, a fine will be imposed by the competent a
   <條文>
     <條號>Article 87</條號>
     <條文內容><![CDATA[This Act shall come into force on the day of its promulgation.
-The enforcement date for Articles 19-1, 35-3, 37-1 and 38-1, amended on May 29, 2001, of this Act shall be enacted by the Executive Yuan.
-The enforcement date for Article 46 amended on May 14, 2002, of this Act is enacted by the Executive Yuan.
-The enforcement date for Article 47 and 81-2 amended on December 13, 2011, of this Act is enacted by Executive Yuan.
-The enforcement date for amended Article 47, 81-2 and 87 announced on July 31, 2019, of this Act is enacted by Executive Yuan.
-The enforcement date for Article 47, 47-3 and 81-2 amended on December 31, 2020, of this Act is enacted by Executive Yuan.]]></條文內容>
+The enforcement date for Articles 19-1, 35-3, 37-1 and 38-1, announced on June 20, 2001, of this Act shall be enacted by the Executive Yuan.
+The enforcement date for Article 46 announced on May  29, 2002, of this Act is enacted by the Executive Yuan.
+The enforcement date for Article 47 and 81-2 announced on December 30, 2011, of this Act is enacted by Executive Yuan.
+The enforcement date for Articles  announced on July 31, 2019, of this Act is enacted by Executive Yuan.
+The enforcement date for Articles announced on January 27, 2021, of this Act is enacted by Executive Yuan.
+The enforcement date for Article 4, 47-3, 47-4, 79-1, 81-2, Paragraph 1 of Article 81-3, and Article 81-4 amended on January 10, 2023, of this Act is enacted by Executive Yuan.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
