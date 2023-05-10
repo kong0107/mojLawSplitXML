@@ -9,8 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "chinese-parseint": "*",
-    "unzipper": "^0.10.11",
+    "unzipper": "^0.10.14",
     "xml2jsobj": "*"
   }
 }
-
