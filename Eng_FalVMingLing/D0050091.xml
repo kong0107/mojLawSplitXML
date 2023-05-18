@@ -3,7 +3,7 @@
 <英文法規名稱>Civil Associations Act</英文法規名稱>
 <中文法規名稱>人民團體法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050091</法規網址>
-<最新英文異動日期>20210127</最新英文異動日期>
+<最新英文異動日期>20230208</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -16,7 +16,8 @@
 7. Articles 8 and 67 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 09800134331 on May 27, 2009, and take effect on November 23, 2009
 8. Articles 2,36,40 and 53 deleted, Articles 5,37 and 56 amended by President Order (100) Hua-Tsung (1)-Yi-Tzu No 10000122941 on June 15, 2011
 9. Article 8 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11000006121 on January 27, 2021
-   Article 10 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11000006131 on January 27, 2021]]></沿革內容>
+   Article 10 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11000006131 on January 27, 2021
+10. Article 7, 25, 29, 66 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11200009211 on February 8, 2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1  General Provisions</編章節>
@@ -50,7 +51,10 @@ Establishment of a subordinate organization as referred to in the above paragrap
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[Two or more civil associations of the same level and the same category may be organized within the same organization area unless otherwise limited by law. However, their names shall be different from one another.]]></條文內容>
+    <條文內容><![CDATA[Two or more civil associations of the same level and the same category may be organized within the same organization area unless otherwise limited by law. However, the name of an association shall not conform to any of the following:
+1. Be the same as an approved established association.
+2. Be prone to providing the public with misleading impressions as being related to a government agency (organization), an Incorporated Foundations that receive donations from the government, or a for-profit association.
+3. Involves discriminatory or hateful words.]]></條文內容>
   </條文>
   <編章節>   Chapter 2  Establishment</編章節>
   <條文>
@@ -162,7 +166,10 @@ A person other than the directors and supervisors of a civil association may be 
   <編章節>   Chapter 5  Meeting</編章節>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[The members’ (member representatives’) congress of a civil association is divided into two types: periodical meetings and temporary meetings, and both shall be convened by the chairperson of the board of directors.]]></條文內容>
+    <條文內容><![CDATA[The members’ (member representatives’) congress of a civil association is divided into two types: periodical meetings and temporary meetings, and both shall be convened by the chairperson of the board of directors.
+The regular meeting shall be convened on an annual basis. A temporary meeting shall be convened when the board of directors deems it necessary, or upon the requests of more than one-fifth of the members (member representatives), or upon request of the board of supervisors.
+Unless otherwise stipulated by laws and regulations, the constitution of a civil association may specify that a members’ (member representatives’) congress shall be convened through video conferencing or other means as promulgated by the central competent authority.
+Under the circumstances of calamities, incidents, or force majeure, the central competent authority may promulgate a ruling that authorizes a civil association to, without provision in its constitution, hold its members’ congress through video conferencing or other means as promulgated by the central competent authority within a certain period of time.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 26</條號>
@@ -186,7 +193,9 @@ The meeting referred to in the above paragraph shall be reported to the regulati
   <條文>
     <條號>Article 29</條號>
     <條文內容><![CDATA[The board of directors and the board of supervisors of a civil association shall hold a meeting every three (3) months, and may notify the alternate directors and alternate supervisors to attend the meeting as non-voting delegates.
-A resolution of the meeting referred to in the above paragraph needs the attendance of more than one half of the directors or the supervisors and the consent of more than one half of the attendees.]]></條文內容>
+A resolution of the meeting referred to in the above paragraph needs the attendance of more than one half of the directors or the supervisors and the consent of more than one half of the attendees.
+Unless otherwise stipulated by laws and regulations, the constitution of a civil association may specify that a meeting of the board of directors and supervisors shall be convened through video conferencing or other means as promulgated by the central competent authority.
+Under the circumstances of calamities, incidents, or force majeure, the central competent authority may promulgate a ruling that authorizes a civil association to, without provision in its constitution, hold its meeting of the board of directors and supervisors through video conferencing or other means as promulgated by the central competent authority within a certain period of time.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 30</條號>
@@ -384,7 +393,7 @@ The donation accepted by a person who commits the crime prescribed in the above 
   </條文>
   <條文>
     <條號>Article 66</條號>
-    <條文內容><![CDATA[Regulations on election and recall of elected personnel, personnel management, and disposal of financial affairs of civil associations shall be prescribed by the central regulating authority.]]></條文內容>
+    <條文內容><![CDATA[Regulations on election and recall of elected personnel, personnel management, guidance on civil association affairs, and disposal of the financial affairs of civil associations shall be prescribed by the central regulating authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 67</條號>
