@@ -3,7 +3,7 @@
 <英文法規名稱>Road Traffic Management and Penalty Act</英文法規名稱>
 <中文法規名稱>道路交通管理處罰條例</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040012</法規網址>
-<最新英文異動日期>20220128</最新英文異動日期>
+<最新英文異動日期>20220504</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -49,7 +49,8 @@
 40. Amendment to Articles 10,29 promulgated on June 9, 2021.
 41. Amendment to Articles 18-1,31 promulgated on August 1, 2022.
 42. Amendment to Articles 7-1,7-2,85-1 promulgated on April 30, 2022.
-43. Amendment to Articles 35,35-1 promulgated on January 28, 2022.]]></沿革內容>
+43. Amendment to Articles 35,35-1 promulgated on January 28, 2022.
+44. Amended to Articles 32-1、69、69-1、71、72、72-1、73、74、78、85-3、92 and addition of Articles 69-2、71-1、71-2、72-2、77-1 promulgated on May 4, 2022]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -432,7 +433,7 @@ Should the machine detailed in Paragraph 1 be operated on roads, violating the r
   </條文>
   <條文>
     <條號>Article 32-1</條號>
-    <條文內容><![CDATA[Should a moving device, a moving sports and leisure equipment, or a similar moving equipment that is classified as neither a vehicle nor a motor-powered machine be operated or used on roads, the operators or users shall be fined from NT$1,200 to NT$3,600; and said device or equipment shall be prohibited from using.]]></條文內容>
+    <條文內容><![CDATA[Should a moving device, a moving sports and leisure equipment, or a similar moving equipment that is not within the scope of a vehicle, a motor-powered machine and personal mobility device be operated or used on roads, the operators or users shall be fined from NT$1,200 to NT$3,600; and said device or equipment shall be prohibited from using.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 33</條號>
@@ -806,17 +807,27 @@ With the exception of tractor-trailers, buses, and trucks; should a driver opera
 1. Bicycle:
 (1) Pedal-powered bicycle
 (2) Electric power-auxiliary bicycle: a type approved two-wheeled vehicle that is powered mainly by human exercise and with electric assistance with a maximum speed of 25 km/hr or less and weighs 40 kg or less.
-(3) Electric bicycle: a two-wheeled vehicle that is powered mainly by electricity, with a maximum speed of 25 km/hr or less, and weighs 40 kg without a battery or 60kg including a battery.
-2. Other Slow-moving vehicles:
+(3) Mini electric two-wheel vehicle: a two-wheeled vehicle that is powered mainly by electricity, with a maximum speed of 25 km/hr or less, and weighs 40 kg without a battery or 60kg including a battery.
+2.Other Slow-moving vehicles:
 (1) Human-driven vehicles: a vehicle carrying passengers or goods that is pulled or pushed by a human. Including other slow-moving vehicles that are powered by human exercise and with electric assistance has a maximum speed of 25 km/hr or less, and can be operated on designated road sections.
 (2) Animal-driven vehicle: a vehicle pulled by cattle, horses, etc.
-Other slow-moving vehicle drive on roads without applying for a registration with the municipal, county, or city government, the driver shall be fined NT$300 and prohibited from driving.
-Regulations regarding the registration, issuing of licenses, designs, designated road sections ,driving time and management for said slow-moving vehicles in the preceding paragraph shall be determined by the municipal, county, or city governments.]]></條文內容>
+(3) Personal mobility device: a self-balancing device or one without a seating position designed to carry one person that is powered mainly by electricity, with a maximum speed at 25 km/hr.
+Other slow-moving vehicle in Items 1 to 2 of Subparagraph 2 of the preceding paragraph drive on roads without applying for a registration with the municipal, county, or city government, the driver shall be fined NT$300 and prohibited from driving.
+Regulations regarding the registration, issuing of licenses, designs, designated road sections, driving time and management for said slow- moving vehicles in Items 1 to 2 of Subparagraph 2 of the Paragraph 1 shall be determined by the municipal, county, or city governments.
+Personal mobility device in Item 3 of Subparagraph 2 of the Paragraph 1 shall follow the regulations regarding designs, designated road sections, driving time, speed limit, and safety attention and management stipulated by municipal, county, or city government before being operated on roads.
+Personal mobility device in Items 3 of Subparagraph 2 of the Paragraph 1 violate the rules in the preceding paragraph and this chapter, the operators or users shall be fined NT$1,200 to NT$3,600; and said device shall be prohibited from using.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 69-1</條號>
-    <條文內容><![CDATA[All electric power-auxiliary bicycles and electric bicycles shall be inspected, apply for safety type approval and labeled with a certificate of approval before being operated on roads.
-Regulations regarding matters such as testing criteria, testing methods, type approval procedure, conformity of production, qualifications for application, period of validity for approval certificates, auditing, supervision and administration for the inspection detailed in the previous paragraph shall be determined by the MOTC. The MOTC may authorize professional vehicle technology research institutes to deal with such manners.]]></條文內容>
+    <條文內容><![CDATA[All electric power-auxiliary bicycles shall be inspected, apply for safety type approval and labeled with a certificate of approval before being operated on roads.
+All mini electric two-wheel vehicles shall be inspected, users shall apply for safety type approval. License plates shall be registered, used, and displayed before the said vehicle is operated on roads.
+Regulations regarding matters such as testing criteria, testing methods, type approval procedure, conformity of production, qualifications for application, period of validity for approval certificates, auditing, supervision and administration for the inspection detailed in the above two paragraphs shall be determined by the MOTC. The MOTC may authorize professional vehicle technology research institutes to deal with such manners.
+The owner of mini electric two-wheel vehicle shall be insured with compulsory automobile liability insurance, in accordance with the Compulsory Automobile Liability Insurance Act. For those who have not been insured as required, the roadway supervisory authority will not accept an application for registration, or replacement or issuance of license plates.
+Should a mini electric two-wheel vehicle with registered license plates be operated on roads without having insurance contracts, the competent authority shall notify the owner in writing to renew the insurance within a specified period. Should the vehicle continue to operate without establishing insurance contracts within the designated period, the license plates shall be revoked.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 69-2</條號>
+    <條文內容><![CDATA[Owners of mini electric two-wheel vehicles must pay all fines for violations detailed in Chapters II and III of the Act before they may transfer vehicle ownership, revoke plate, and replace license plate with the roadway supervisory authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 70</條號>
@@ -824,42 +835,68 @@ Regulations regarding matters such as testing criteria, testing methods, type ap
   </條文>
   <條文>
     <條號>Article 71</條號>
-    <條文內容><![CDATA[Should a driver of a slow-moving vehicle operate it without carrying a license with him/her, the vehicle owner shall be fined NT$180.]]></條文內容>
+    <條文內容><![CDATA[Should an electric power-auxiliary bicycles have been inspected with safety type approval that operated on road without labeling with a certificate of approval, the driver shall be fined NT$600 to NT$1,200, and shall be prohibited from riding.
+Should an electric power-auxiliary bicycle operating on road without having been inspected for safety type approval, the electric power- auxiliary bicycles shall be confiscated.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 71-1</條號>
+    <條文內容><![CDATA[In the event of any of the followings, the owners of mini electric two- wheel vehicle shall be fined from NT$1,200 to NT$3,600 and shall be prohibited from riding:
+1. Operating a mini electric two-wheel vehicle without license plates.
+2. Operating a mini electric two-wheel vehicle with forged or altered license plates.
+3. Lending license plates to riders of other mini electric two-wheel vehicles, or using license plates from other mini electric two-wheel vehicles.
+4. Failing to display license plates or failing to affix license plates in designated locations.
+5. Mini electric two-wheel vehicle that has had its license plate for revoked and ridden without license plates.
+6. Failing to apply renewing license plates for lost with the competent roadway authorities and continuing to operate a vehicle after receiving a citation for said failure.
+The mini electric two-wheel vehicle in the previous paragraph that have applied for safety type approval shall be confiscated. Should the said vehicle have not been inspected for safety type approval, it shall be confiscated. The license plates shall be withheld, in accordance with Subparagraphs 2 and 3.
+The owner of mini electric two-wheel vehicle shall be fined, according to above two paragraphs, and the mini electric two-wheel vehicle shall be confiscated and detained by the authorities when it is discovered parking without effective license plates.
+Should the mini electric two-wheel vehicle have been inspected for safety type approval and labeled with a certificate of approval before this Act was amended on April 19, 2022, the license plates shall be registered, used, and displayed in accordance with regulations within two years after the Act was amended. Those who fail to use within the expiration date shall be punished according to Subparagraph 1 of Paragraph 1.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 71-2</條號>
+    <條文內容><![CDATA[For license plates of mini electric two-wheel vehicle damaged, altered, or rendered unrecognizable as a result of installing other devices, owners shall be fined from NT$900 to NT$1,800, and required to apply for new license plates or make corrections.
+In the event of any of the following, mini electric two-wheel vehicle owners shall be fined from NT$150 to NT$300 and shall be required to make corrections, apply for renewing of license plates, or stop riding:
+1. License plates lost or broken and failing to be reported to the competent roadway authorities for applying new or replacing ones.
+2. Failing to keep license plates clean or cover the license plates by things to block observation, unless it is caused by not avoidable roadway situations such as rain, snow, or other nature disasters.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 72</條號>
-    <條文內容><![CDATA[Should a slow-moving vehicle be altered without permission, or its safety equipments such as brakes, bells, lights, or reflective devices are not kept intact and in good condition, the vehicle’s owner shall be fined NT$180 and be required to install such equipment or make corrections.
-Should a electric bicycle driven or used on the road that has the added, removed , altered the electronic control device or the original designs without authorization, the owner of electric bicycle shall be fined NT$1800 to NT$5400.]]></條文內容>
+    <條文內容><![CDATA[Should a slow-moving vehicle be altered without permission, or its safety equipments such as brakes, bells, lights, or reflective devices are not kept intact and in good condition, the vehicle’s owner shall be fined NT$300 to NT $1,200 and be required to install such equipment or make corrections.
+Should electric power-auxiliary bicycles and mini electric two-wheel vehicle be ridden or used on the road that has the added, removed, altered the electronic control device or the original designs without authorization, the owner of electric bicycle shall be fined NT$1800 to NT$5400.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 72-1</條號>
-    <條文內容><![CDATA[Should a electric bicycle driven or used on the road exceeding the allowed driving speed by 25km/hr, the driver shall be fined NT$900 to NT$1800.]]></條文內容>
+    <條文內容><![CDATA[Should a mini electric two-wheel vehicle be ridden or used on the road exceeding the allowed driving speed by 25km/hr, the driver shall be fined NT$900 to NT$1800.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 72-2</條號>
+    <條文內容><![CDATA[Should a person with the age of 14 or younger ride mini electric two- wheel vehicle or personal mobility device, the person’s legal representatives or guardians shall be fined NT$600 to NT$1200, and prohibited from riding. The mini electric two-wheel vehicle shall be confiscated.
+Rental operators of mini electric two-wheel vehicle or personal mobility devices who fail to teach drivers how to operate the vehicles and road driving regulations before renting mini electric two-wheel vehicle or personal mobility devices to drivers shall be fined NT$600 to NT$1,200.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 73</條號>
-    <條文內容><![CDATA[In the event of any of the followings, the driver of a slow-moving vehicle shall be fined from NT$300 to NT$600:
-1. Operating without legitimate reason outside the designated slow-moving vehicle lanes or failing to keep right on roadways without designated slow-moving vehicle lanes.
-2. Operating not on the designated route or not at the designated time period.
-3. Failing to follow regulations when turning, overtaking, parking, or crossing an intersection.
-4. Competing on the right of way, racing on roadways, or operating the vehicle in any other dangerous manners.
-5. Failing to turn on light when driving at night.
-6. While driving a vehicle, using a mobile phone, a computer or other devices with similar features to dial, to receive calls, to exchange mobile data , or any behavior that impairs driving safety.
-The driver of a slow-moving vehicle, with an alcohol level exceeding the maximum tolerate standard, shall be fined NT$600 to NT$1200.
-The driver of slow-moving vehicles refusing tests outlined in previous Paragraph shall be fined NT$1,200.
-The driver of electric bicycle failing to wear helmets as required by law.]]></條文內容>
+    <條文內容><![CDATA[In the event of any of the followings, the driver of a slow-moving vehicle shall be fined from NT$300 to NT$1,200:
+1.Operating without legitimate reason outside the designated slow- moving vehicle lanes or failing to keep right on roadways without designated slow-moving vehicle lanes.
+2.Operating not on the designated route or not at the designated time period.
+3.Failing to follow regulations when turning, overtaking, parking, or crossing an intersection.
+4.Competing on the right of way, racing on roadways, or operating the vehicle in any other dangerous manners.
+5.Failing to turn on light when driving at night.
+6.While driving a vehicle, using a mobile phone, a computer or other devices with similar features to dial, to receive calls, to exchange mobile data , or any behavior that impairs driving safety.
+The driver of a slow-moving vehicle, with an alcohol level exceeding the maximum tolerate standard, shall be fined NT$1,200 to NT$2,400, and prohibited from riding. The mini electric two-wheel vehicle shall be confiscated.
+The driver of slow-moving vehicles refusing tests outlined in previous Paragraph shall be fined NT$4,800, and prohibited from riding. The mini electric two-wheel vehicle shall be confiscated.
+The driver of mini electric two-wheel vehicles failing to wear helmets as required by law.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 74</條號>
-    <條文內容><![CDATA[In the event of any of the followings, the driver of a slow-moving vehicle shall be fined from NT$300 to NT$600:
-1. Failing to obey the directions made by traffic police officers; or failing to follow the instructions indicated by signs, markings, or signals.
-2. Failing to follow the traffic direction on a slow-moving vehicle lane.
-3. Failing to follow the regulations to cross over fast-moving vehicle lanes.
-4. Parking in violation of regulations.
-5. Riding on sidewalks or fast-moving vehicle lanes.
-6. Failing to pull over upon hearing the sirens of fire trucks, police cars, ambulances, rescue vehicles, or emergency response vehicles for a toxi chemical substance disaster or accident.
-7. Failing to yield to pedestrians when crossing a pedestrian crosswalk or turning at an intersection.
-8. Failing to yield to pedestrians on walkways indicated by signs or markings to allow slow-moving vehicles to drive.
-9. Failing to pull over or closely following upon hearing or seeing mass rapid transit system vehicles closing as their alarms sound or warning lights flash.
+    <條文內容><![CDATA[In the event of any of the followings, the driver of a slow-moving vehicle shall be fined from NT$300 to NT$1,200:
+1.Failing to obey the directions made by traffic police officers; or failing to follow the instructions indicated by signs, markings, or signals.
+2.Failing to follow the traffic direction on a slow-moving vehicle lane.
+3.Failing to follow the regulations to cross over fast-moving vehicle lanes.
+4.Parking in violation of regulations.
+5.Riding on sidewalks or fast-moving vehicle lanes.
+6.Failing to pull over upon hearing the sirens of fire trucks, police cars, ambulances, rescue vehicles, or emergency response vehicles for a toxi chemical substance disaster or accident.
+7.Failing to yield to pedestrians when crossing a pedestrian crosswalk or turning at an intersection.
+8.Failing to yield to pedestrians on walkways indicated by signs or markings to allow slow-moving vehicles to drive.
+9.Failing to pull over or closely following upon hearing or seeing mass rapid transit system vehicles closing as their alarms sound or warning lights flash.
 The driver of slow-moving vehicle who fails to yield visually impaired pedestrians with white cane or guide dog on a pedestrian crosswalk shall be fined from NT$2,400 to NT$7,200.
 The driver of slow-moving vehicle subparagraph 5 or 8 of paragraph 1, who causes a visually impaired person to be injured or death, shall be fined NT$1,200 to 2,400.]]></條文內容>
   </條文>
@@ -888,14 +925,18 @@ The implementation of laws regarding bicycle, electric assisted bicycles, and th
     <條號>Article 77</條號>
     <條文內容><![CDATA[(annulled)]]></條文內容>
   </條文>
+  <條文>
+    <條號>Article 77-1</條號>
+    <條文內容><![CDATA[Riders of mini electric two-wheel vehicle found in violation of Chapter 2 or this Chapter may receive a citation in accordance with Article 7-2.]]></條文內容>
+  </條文>
   <編章節>   Chapter IV Pedestrians</編章節>
   <條文>
     <條號>Article 78</條號>
-    <條文內容><![CDATA[In the event of any of the followings, the pedestrians shall be fined NT$300:
-1. Failing to follow the instructions of signs, markings, signals, or those given by police.
-2. Failing to walk within a designated sidewalk or failing to walk on the side of a road that has no designated sidewalk without good cause.
-3. Passing through vehicle lanes in violation of regulations.
-4. Running, chasing around, playing, sitting, lying, squatting, or standing on roadways with heavy traffic or at railroad crossings in a manner that impedes traffic.
+    <條文內容><![CDATA[In the event of any of the followings, the pedestrians shall be fined NT$500:
+1.Failing to follow the instructions of signs, markings, signals, or those given by police.
+2.Failing to walk within a designated sidewalk or failing to walk on the side of a road that has no designated sidewalk without good cause.
+3.Passing through vehicle lanes in violation of regulations.
+4.Running, chasing around, playing, sitting, lying, squatting, or standing on roadways with heavy traffic or at railroad crossings in a manner that impedes traffic.
 Should a pedestrian with physical disability who relies on mobility aids violate the regulations set forth in Subparagraph 2 of the preceding paragraph because there are obstacles on sidewalks, the pedestrian shall be exempt from punishment.]]></條文內容>
   </條文>
   <條文>
@@ -973,11 +1014,12 @@ If the vehicle that has been relocated and kept in accordance with Article 35 be
   </條文>
   <條文>
     <條號>Article 85-3</條號>
-    <條文內容><![CDATA[The moving or detention of vehicles as provided in Paragraph 3 and 4 of Article 12, Article 35, Paragraph 4 of Article 56, Paragraph 2 of Article 57, Paragraph 6 of Article 62, and Paragraph 1 of the previous Article can be handled directly by traffic police officers or personnel conducting traffic inspections pursuant to laws and regulations. Said moving or detention may be conducted by traffic assistants as detailed in Paragraph 4 of Article 56, and may be handled by private tow trucks by contract.
-The car owners shall be required to reimburse the fees for said moving or detention in the preceding paragraph; should a car owner fail to pay the fees, the authorities shall pursue the payment.
+    <條文內容><![CDATA[The moving or detention of vehicles as provided in Paragraph 3 and 4 of Article 12, Article 35, Paragraph 4 of Article 56, Paragraph 2 of Article 57, Paragraph 6 of Article 62, Paragraph 2 and 3 of Article 71-1, Paragraph 1 of Article 72-2, Paragraph 2 and 3 of Article 73, and Paragraph 1 of the previous Article can be handled directly by traffic police officers or personnel conducting traffic inspections pursuant to laws and regulations. Said moving or detention may be conducted by traffic assistants as detailed in Paragraph 4 of Article 56, and may be handled by private tow trucks by contract.
+The car owners shall be required to reimburse the fees for said moving or detention in the preceding paragraph; should a car owner fail to pay the fee, the authorities shall pursue the payment.
 Concerning the vehicles moving and detention in the situation described in Paragraph 1, when a vehicle is not claimed by its owner within the designated time period after notification, or when the owner cannot be identified, said vehicle shall be auctioned off by the authority in charge of moving and detention if the vehicle remains unclaimed after 3 months following public announcement. The revenues from the auction shall be saved pursuant to laws and regulations after the deduction of fines, fees for vehicle moving and detention, and other necessary expenses.
-Vehicles not claimed after the aforementioned public announcement shall be cleared away pursuant to the Waste Disposal Act and other relevant laws and regulations if they should match the definition of abandoned vehicles. Vehicles confiscated under this Act or other objects confiscated according to rulings or judgments shall be seen as waste and cleaned away following the Waste Disposal Act and other relevant laws and regulations.
-Regulations regarding matter such as vehicle moving and detention, charging fees, public auctions, and vehicle handling as described in the preceding four paragraphs shall be determined by the MOTC and the MOI as the central government, and by the municipal, county, or city governments, in accordance with their right and responsibility.]]></條文內容>
+Vehicles not claimed after the aforementioned public announcement shall be cleared away pursuant to the Waste Disposal Act and other relevant laws and regulations if they should match the definition of abandoned vehicles.
+Vehicles confiscated under this Act or other objects confiscated according to rulings or judgments may be auctioned, destroyed, or disposed of following the Waste Disposal Act and other relevant laws and regulations.
+Regulations regarding matter such as vehicle moving and detention, charging fees, public auctions, and vehicle handling as described in the preceding five paragraphs shall be determined by the MOTC and the MOI as the central government, and by the municipal, county, or city governments, in accordance with their right and responsibility.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 85-4</條號>
@@ -1031,20 +1073,21 @@ Competent roadway authorities, competent municipal road authorities, or police a
   </條文>
   <條文>
     <條號>Article 92</條號>
-    <條文內容><![CDATA[Regulations regarding the classification of vehicles, application for car license plates changing registration, management regulations, tonnage of car loading, approval of seating and standing capacity, items and criteria for car inspection, inspection frequency, driver license tests, renewal and issuance of driver license, period of validity for driver license and registration, loading, driving, changes to car equipment, scope of powered machinery, driver’s qualifications and driving, traffic lanes designate, pedestrian crossings, roadway obstructions, and other matters of road traffic safety shall be determined by the MOTC in conjuction with the MOI.
+    <條文內容><![CDATA[Regulations regarding the classification of vehicles, application for car license plates changing registration, management regulations, tonnage of car loading, approval of seating and standing capacity, items and criteria for car inspection, inspection frequency, driver license tests, renewal and issuance of driver license, period of validity for driver license and registration, loading, driving, changes to car equipment, scope of powered machinery, driver’s qualifications and driving, traffic lanes designate, application for mini electric two-wheel vehicle license plates changing registration, management regulations, pedestrian crossings, roadway obstructions, and other matters of road traffic safety shall be determined by the MOTC in conjuction with the MOI.
 Motorcycles are prohibited from driving on freeways, with the exception of large heavy motorcycles with a engine displacement of 550cc or more, which may operate on some sections of freeways and at designated times by the MOTC. The driver of said large heavy motorcycle must have a driver license for motorcycles of 550cc or more for a valid period of 1 year or more and driver license for a class of small car or higher.
-Regulations regarding road traffic safety courses, such as teaching method, content, time, length, and responsible authorities of said courses shall be determined by the MOTC in conjuction with the MOI.
-Regulations regarding the fines detailed in this Act, the norm, citation, or warnings for minor violations, payment, process of stating an opinion or the process of ruling, requirements for applying to pay in installments and number of installments, consequences for failing to pay on time, regulations covering payment in installments, and payment collection agency shall be determined by the MOTC in conjuction with the MOI.
-Regulations regarding the necessary actions for the responsible persons involved in a traffic accident, first-aid for the injuries at the scene, traffic relief control, detention, removal and return of perpetrating vehicle, and handling of investigations shall be determined by the MOI in conjuction with the MOTC and the Department of Health, Executive Yuan.
-Where there are no regulations in this Act expressly governing large heavy motorcycles, the regulations and punishments for small cars shall apply. The regulations governing application for a driver license and operating a large heavy motorcycle shall be determined by the MOTC in conjuction with the MOI.
+Regulations regarding road traffic safety courses may charge fee, such as teaching method, content, time, length, responsible authorities, the standards of charges and other related matters of said courses shall be determined by the MOTC in conjuction with the MOI.
+Regulations regarding the fines detailed in this Act, the norm, citation, or warnings for minor violations, payment, process of stating an opinion or the process of ruling, requirements for applying to pay in installments and number of installments, consequences for failing to pay on time, regulations covering payment in installments, and payment collection agency shall be determined by the MOTC in conjunction with the MOI.
+Regulations regarding the necessary actions for the responsible persons involved in a traffic accident, first-aid for the injuries at the scene, traffic relief control, detention, removal and return of perpetrating vehicle, and handling of investigations shall be determined by the MOI in conjunction with the MOTC and MOHW.
+Where there are no regulations in this Act expressly governing large heavy motorcycles, the regulations and punishments for small cars shall apply. The regulations governing application for a driver license and operating a large heavy motorcycle shall be determined by the MOTC in conjunction with the MOI.
 In the event of any of the followings while operating a large heavy motorcycle with a engine displacement of 550cc or more, the driver shall be fined from NT$3,000 to NT$6,000, and a traffic violation point shall be charged:
-1. Operating on sections of roadways not expressly permitted.
-2. Operating at time periods not expressly permitted.
-3. Having a driver license that does not conform to the requirements of Paragraph 2.
-4. Driving side-by-side, overtaking within the same lane, or using the road shoulder in a manner that violates regulations.
-5. Carrying people or goods in a manner that violates regulations.
-6. Failing to wear a helmet.
-Should the driver of a large heavy motorcycle with a engine displacement of 550cc or more violate Subparagraph 4 of the preceding paragraph, or should the car driver of a car violate the regulation detailed in the first half of the Subparagraph 4 while driving on freeways, the driver shall be fined NT$6,000.]]></條文內容>
+1.Operating on sections of roadways not expressly permitted.
+2.Operating at time periods not expressly permitted.
+3.Having a driver license that does not conform to the requirements of Paragraph 2.
+4.Driving side-by-side, overtaking within the same lane, or using the road shoulder in a manner that violates regulations.
+5.Carrying people or goods in a manner that violates regulations.
+6.Failing to wear a helmet.
+Should the driver of a large heavy motorcycle with a engine displacement of 550cc or more violate Subparagraph 4 of the preceding paragraph, or should the car driver of a car violate the regulation detailed in the first half of the Subparagraph 4 while driving on freeways, the driver shall be fined NT$6,000.
+Regulations regarding road traffic safety courses may be entrusted to public institutions or non-governmental organizations, such as qualifications, application, equipment, personnel, charging methods, form of certificate, necessary items stated in authorization contracts, check and supervision shall be determined by the MOTC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 92-1</條號>

@@ -3,14 +3,15 @@
 <英文法規名稱>Environmental Impact Assessment Act</英文法規名稱>
 <中文法規名稱>環境影響評估法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0090001</法規網址>
-<最新英文異動日期>20030108</最新英文異動日期>
+<最新英文異動日期>20230503</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Original 32 articles promulgated by presidential order on December 30, 1994
 2.Revisions to Articles 2 and 3 promulgated by presidential order on December 22, 1999
 3.Revisions to Articles 14 and 23 and additions of Articles 13-1, 16-1 and 23-1 promulgated by presidential order on June 12, 2002
-4.Revisions to Articles 12 through 14 and 23 promulgated by presidential order on January 8, 2003]]></沿革內容>
+4.Revisions to Articles 12 through 14 and 23 promulgated by presidential order on January 8, 2003
+5.Additions of Articles 16-2 promulgated by presidential order on May 3, 2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -33,23 +34,23 @@ County or city competent authorities shall draft the organizational rules of the
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[Terms used in this Act are defined as follows.
-1."Development activity" means activity designated in Article 5. The scope of development activity includes its planning, implementation and post-completion use.
-2."Environmental impact assessment" means an environmental management plan based on scientific, objective and comprehensive surveys, forecasting, analyses and evaluations conducted prior to project implementation in order to determine the degree and scope of the potential impact of development activity or government policy on the environment (including the living environment, natural environment and social environment), economy, culture and ecology, and the public explanation and review of such a plan. Environmental impact assessment work includes such procedures as phase Ⅰ and phase Ⅱ environmental impact assessments, reviews and follow-up evaluations.]]></條文內容>
+1. "Development activity" means activity designated in Article 5. The scope of development activity includes its planning, implementation and post-completion use.
+2. "Environmental impact assessment" means an environmental management plan based on scientific, objective and comprehensive surveys, forecasting, analyses and evaluations conducted prior to project implementation in order to determine the degree and scope of the potential impact of development activity or government policy on the environment (including the living environment, natural environment and social environment), economy, culture and ecology, and the public explanation and review of such a plan. Environmental impact assessment work includes such procedures as phase Ⅰ and phase Ⅰ environmental impact assessments, reviews and follow-up evaluations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[Environmental impact assessments shall be conducted for the following development activities for which there is concern of adverse impact on the environment.
-1.The establishment of a factory or the development of an industrial park
-2.The development of a road, railway, mass rapid transit system, harbor or airport
-3.The extraction of soil and rock or the exploration and extraction of minerals
-4.The development of water storage, water supply, flood control or drainage projects
-5.The development or use of land for agriculture, forestry, fisheries or livestock
-6.The development of recreational areas, scenic areas, golf courses or sports fields
-7.The development of cultural, educational or medical facilities
-8.The construction of new municipal districts, construction of tall buildings or renovation of old municipal districts
-9.The construction of environmental protection projects
-10.The development of nuclear energy or other energies or the construction of radioactive waste storage or treatment facilities
-11.Those other activities officially announced by the central competent authority
+1. The establishment of a factory or the development of an industrial park
+2. The development of a road, railway, mass rapid transit system, harbor or airport
+3. The extraction of soil and rock or the exploration and extraction of minerals
+4. The development of water storage, water supply, flood control or drainage projects
+5. The development or use of land for agriculture, forestry, fisheries or livestock
+6. The development of recreational areas, scenic areas, golf courses or sports fields
+7. The development of cultural, educational or medical facilities
+8. The construction of new municipal districts, construction of tall buildings or renovation of old municipal districts
+9. The construction of environmental protection projects
+10. The development of nuclear energy or other energies or the construction of radioactive waste storage or treatment facilities
+11. Those other activities officially announced by the central competent authority
 The central competent authority in consultation with the relevant agencies shall, within one year after the promulgation and implementation of this Act, determine and submit to the Legislative Yuan to be filed for future reference determination standards, specific items and environmental impact assessment working standards for those development activities for which environmental impact assessments are required to be conducted in the foregoing paragraph.]]></條文內容>
   </條文>
   <編章節>   Chapter 2 Assessment, Review and Supervision</編章節>
@@ -57,29 +58,29 @@ The central competent authority in consultation with the relevant agencies shall
     <條號>Article 6</條號>
     <條文內容><![CDATA[For those development activities for which environmental impact assessments are required pursuant to the foregoing article to be conducted, the developer, when planning, shall, in accordance with environmental impact assessment working standards, conduct a phase Ⅰ environmental impact assessment and prepare an environmental impact statement.
 The following items shall be recorded in the environmental impact statement in the foregoing paragraph.
-1.The name and business address or office address of the developer
-2.The name, domicile, residence and identification number of the statutory responsible person
-3.The signatures of those who conducted comprehensive assessments of the environmental impact statement and those who wrote impact items for the environmental impact statement
-4.The name of the development activity and the development site
-5.The purpose and content of the development activity
-6.All related plans and current environmental conditions within the area that could possibly be impacted by the development activity
-7.A forecast of the environmental impacts that could possibly be caused by the development activity
-8.Environmental protection strategies and alternate plans
-9.The budget required for the implementation of environmental protection work
-10.A summary chart of strategies for the prevention and mitigation of the adverse impact of the development activity on the environment]]></條文內容>
+1. The name and business address or office address of the developer
+2. The name, domicile, residence and identification number of the statutory responsible person
+3. The signatures of those who conducted comprehensive assessments of the environmental impact statement and those who wrote impact items for the environmental impact statement
+4. The name of the development activity and the development site
+5. The purpose and content of the development activity
+6. All related plans and current environmental conditions within the area that could possibly be impacted by the development activity
+7. A forecast of the environmental impacts that could possibly be caused by the development activity
+8. Environmental protection strategies and alternate plans
+9. The budget required for the implementation of environmental protection work
+10. A summary chart of strategies for the prevention and mitigation of the adverse impact of the development activity on the environment]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[When applying for permission for a development project, the developer shall submit an environmental impact statement to the industry competent authority, which shall then transfer the environmental impact statement to the competent authority for review.
 The competent authority shall, within fifty days of the receipt of the environmental impact statement in the foregoing paragraph, complete a review conclusion and issue an official announcement, and shall notify the industry competent authority and developer. However, for those special circumstances, the review deadline may be extended for a maximum of fifty days.
-For those circumstances in which the competent authority deems in the review conclusion in the foregoing paragraph that it is not required that a phase Ⅱ environmental impact assessment be conducted and for which permission is received, the developer shall hold a public explanation meeting.]]></條文內容>
+For those circumstances in which the competent authority deems in the review conclusion in the foregoing paragraph that it is not required that a phase Ⅰ environmental impact assessment be conducted and for which permission is received, the developer shall hold a public explanation meeting.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[For those circumstances in which it is deemed in the review conclusion in the foregoing article that a phase Ⅱ environmental impact assessment is required to be conducted due to concern of a significant impact on the environment, the developer shall perform the following matters.
-1.Distribute the environmental impact statement to relevant agencies
-2.Display or post the environmental impact statement at an appropriate location near the development site; this time period may not be less than thirty days
-3.Publish in newspapers the name of the developer, the development site and the location where the review conclusion and the environmental impact statement are displayed or posted
+    <條文內容><![CDATA[For those circumstances in which it is deemed in the review conclusion in the foregoing article that a phase Ⅰ environmental impact assessment is required to be conducted due to concern of a significant impact on the environment, the developer shall perform the following matters.
+1. Distribute the environmental impact statement to relevant agencies
+2. Display or post the environmental impact statement at an appropriate location near the development site; this time period may not be less than thirty days
+3. Publish in newspapers the name of the developer, the development site and the location where the review conclusion and the environmental impact statement are displayed or posted
 The developer shall hold a public explanation meeting after the expiration of the time period for displaying or posting in the foregoing paragraph.]]></條文內容>
   </條文>
   <條文>
@@ -90,30 +91,30 @@ The developer shall hold a public explanation meeting after the expiration of th
     <條號>Article 10</條號>
     <條文內容><![CDATA[The competent authority shall, after the public explanation meeting, invite together the industry competent authority, relevant agencies, groups, scholars, experts and representatives of local residents in order to define the scope of assessment.
 Matters for the definition of the scope in the foregoing paragraph are as follows.
-1.The confirmation of a feasible alternate plan
-2.The confirmation of items for which environmental impact assessments are required to be conducted; determination of survey, forecasting, analysis and evaluation methods
-3.Other matters related to the implementation of the environmental impact assessment]]></條文內容>
+1. The confirmation of a feasible alternate plan
+2. The confirmation of items for which environmental impact assessments are required to be conducted; determination of survey, forecasting, analysis and evaluation methods
+3. Other matters related to the implementation of the environmental impact assessment]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[The developer shall prepare a draft environmental impact assessment report based on a deliberation of the opinions of the competent authority, the industry competent authority, relevant agencies, scholars, experts, groups and local residents, and present the draft environmental impact assessment report to the industry competent authority.
 The draft environmental impact assessment report in the foregoing paragraph shall record the following.
-1.The name and business address or office address of the developer
-2.The name, residence or domicile, and identification number of the statutory responsible person
-3.The signatures of those who conducted comprehensive assessments of the environmental impact assessment report and those who wrote impact items for the environmental impact assessment report
-4.The name and site of the development activity
-5.The purpose and content of the development activity
-6.Current environmental conditions, primary and secondary areas that could possibly be impacted by the development activity and all related plans
-7.Forecasting, analysis and evaluation of environmental impacts
-8.Strategies for the mitigation or prevention of adverse environmental impacts
-9.Alternate plan
-10.Comprehensive environmental management plan
-11.Handing of the opinions of relevant agencies
-12.Handing of the opinions of local residents
-13.Conclusions and recommendations
-14.The budget required for the implementation of environmental protection work
-15.Summary chart of strategies for the prevention and mitigation of the adverse impact of development activity on the environment
-16.Reference bibliography]]></條文內容>
+1. The name and business address or office address of the developer
+2. The name, residence or domicile, and identification number of the statutory responsible person
+3. The signatures of those who conducted comprehensive assessments of the environmental impact assessment report and those who wrote impact items for the environmental impact assessment report
+4. The name and site of the development activity
+5. The purpose and content of the development activity
+6. Current environmental conditions, primary and secondary areas that could possibly be impacted by the development activity and all related plans
+7. Forecasting, analysis and evaluation of environmental impacts
+8. Strategies for the mitigation or prevention of adverse environmental impacts
+9. Alternate plan
+10. Comprehensive environmental management plan
+11. Handing of the opinions of relevant agencies
+12. Handing of the opinions of local residents
+13. Conclusions and recommendations
+14. The budget required for the implementation of environmental protection work
+15. Summary chart of strategies for the prevention and mitigation of the adverse impact of development activity on the environment
+16. Reference bibliography]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -150,6 +151,11 @@ Determination standards for whether an environmental impact assessment shall be 
     <條文內容><![CDATA[When a developer starts development activity more than three years after the approval of its environmental impact statement or environmental impact assessment report and the acquisition of development activity permission granted by the industry competent authority, the developer shall submit an analysis of the difference between current environmental conditions and environmental conditions at the time its development activity permission was granted and a strategy evaluation report to the competent authority for review. Development activity may not start prior to the completion of the review by the competent authority.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 16-2</條號>
+    <條文內容><![CDATA[In the event that the competent authority of the target project rescinds the development license document after the release of the conclusion of the environmental impact statement, the assessment statement or the report on difference analysis of the current environmental situation and review countermeasures, the review conclusion shall lose its validity.
+Provisions in the preceding paragraph shall apply to the environmental impact statement, assessment statement or report on difference analysis of the current environmental situation and review countermeasures that were released before the revision of the Act.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 17</條號>
     <條文內容><![CDATA[The developer shall implement development activity strictly in accordance with the environmental impact statement, the content of the environmental impact assessment report and the review conclusion.]]></條文內容>
   </條文>
@@ -179,15 +185,15 @@ When the competent authority discovers a development activity has adversely impa
   <條文>
     <條號>Article 23</條號>
     <條文內容><![CDATA[For one of the following circumstances, violators shall be fined NT$300,000 to NT$1.5 million and ordered to make improvements within a limited time period; those that have still failed to make improvements by the deadline shall be issued consecutive daily fines.
-1.The violation of Article 7, Paragraph 3, Article 16-1 or Article 17
-2.The violation of Article 18, Paragraph 1 through a failure to submit an environmental impact survey report or the violation of Article 18, Paragraph 3 through a failure to submit response strategies or a failure to carry out strict implementation in accordance with response strategies
-3.The violation of Article 28 through a failure to submit response strategies or a failure to carry out strict implementation in accordance with response strategies
+1. The violation of Article 7, Paragraph 3, Article 16-1 or Article 17
+2. The violation of Article 18, Paragraph 1 through a failure to submit an environmental impact survey report or the violation of Article 18, Paragraph 3 through a failure to submit response strategies or a failure to carry out strict implementation in accordance with response strategies
+3. The violation of Article 28 through a failure to submit response strategies or a failure to carry out strict implementation in accordance with response strategies
 For those severe circumstances in the foregoing paragraph, the competent authority may notify the industry competent authority to order the suspension of the implementation of the development activity. When necessary, the competent authority may directly order the suspension of the implementation of the development activity; for those that fail to comply with an order, the statutory responsible person shall be punished by a maximum of three years imprisonment or detention, and may be fined a maximum of NT$300,000.
 Those developers that are unable to complete improvements by the improvement deadline in Paragraph 1 due to natural disaster or other force majeure shall continue to make improvements after the reason ends and shall, within 30 days, apply to the competent authority for the approval of a starting date for the remaining time period by submitting a written explanation of cause and relevant verification documents.
 The severe circumstances referred to in Paragraph 2 means one of the following.
-1.Those circumstances in which the developer causes extensive public nuisance or serious destruction of natural resources
-2.Those circumstances in which the developer does not implement development activities in accordance with the review conclusion of the competent authority or the commitments of the environmental impact statement or environmental impact assessment report, thereby endangering human health or agricultural, forestry, fisheries or livestock resources
-3.Those circumstances in which the developer still fails to complete improvements after 30 days of consecutive daily fines issued by the competent authority
+1. Those circumstances in which the developer causes extensive public nuisance or serious destruction of natural resources
+2. Those circumstances in which the developer does not implement development activities in accordance with the review conclusion of the competent authority or the commitments of the environmental impact statement or environmental impact assessment report, thereby endangering human health or agricultural, forestry, fisheries or livestock resources
+3. Those circumstances in which the developer still fails to complete improvements after 30 days of consecutive daily fines issued by the competent authority
 Those developers that have been ordered to suspend the implementation of a development activity by the competent authority pursuant to Paragraph 2 shall submit the implementation results of their improvement plan to the competent authority for checking prior to the resumption of the implementation of the development activity; this also applies to those developers that have been ordered to make improvements within a limited time period by the competent authority and that report the suspension of the implementation of the development activity of their own volition. Those developers for whom checking reveals a failure to comply with standards may not resume the implementation of the development activity.
 In order to prevent the expansion of the degree or scope of environmental impact during the time period for the suspension of the implementation of a development activity in the foregoing paragraph, the competent authority shall, in conjunction with the relevant agencies, require that the developer carry out restoration and improvements and emergency response measures in accordance with relevant laws and regulations. The competent authority may request the industry competent authority in writing to cancel the permission of those that fail to comply with this requirement.
 The central competent authority shall determine the starting date, temporary suspension dates, termination date, improvement completion verification checks and other binding matters for the daily consecutive fines referred to in Paragraph 1 and Paragraph 4.
