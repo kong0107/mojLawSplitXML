@@ -3,12 +3,11 @@
 <英文法規名稱>Trademark Act</英文法規名稱>
 <中文法規名稱>商標法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0070001</法規網址>
-<最新英文異動日期>20220504</最新英文異動日期>
+<最新英文異動日期>20230524</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1.Enacted and Promulgated on May 6, 1930 by the Government
-  Enforced on Jan. 1, 1931
+<沿革內容><![CDATA[1.Enacted and Promulgated on May 6, 1930 by the Government, Enforced on Jan. 1, 1931
 2.Amended and Promulgated on Nov. 23, 1935 by the Government
 3.Promulgated on Oct. 19, 1940 by the Government
 4.Amended and Promulgated on Oct. 24, 1958 by the Presidential Order
@@ -23,7 +22,8 @@
 13.Article 4 and 94 Amended and Promulgated on August 25, 2010 by Presidential Order, and Enforced on September 12, 2010
 14.Passed on May 31, 2011 by the Legislative Yuan, and Amended and Promulgated on June 29, 2011 by President Order, and Enforced on July 1, 2012
 15.Article 98 Amended and Promulgated on Nov. 30, 2016 by Presidential Order, and Enforced on Dec. 15, 2016
-16.Article 68, 70, 95, 96 and 97 Amended and Promulgated on May 4, 2022 by Presidential Order]]></沿革內容>
+16.Article 68, 70, 95, 96 and 97 Amended and Promulgated on May 4, 2022 by Presidential Order
+17.Articles 6, 12, 13, 19, 30, 36, 75, 94, 99, 104, 106 and 107 Amended, Articles 98-1 and 109-1 Added and Promulgated on May 24, 2023 by Presidential Order]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I       General Provisions</編章節>
@@ -52,17 +52,21 @@ An application for trademark registration, filed by a national of a country othe
     <條號>Article 5</條號>
     <條文內容><![CDATA[Use of trademark
 “Use of a trademark” means any of the following act, in the course of trade, where such trademark is capable of being recognized by relevant consumers as a trademark:
-(1) to apply a trademark to goods or packaging or containers thereof;
-(2) to possess, display, sell, export, or import the goods referred to in the preceding subparagraph;
-(3) to apply a trademark to articles relating to the provision of services; or
-(4) to apply a trademark to commercial documents or advertisements relating to goods or services.
+(1)To apply a trademark to goods or packaging or containers thereof;
+(2)To possess, display, sell, export, or import the goods referred to in the preceding subparagraph;
+(3)To apply a trademark to articles relating to the provision of services; or
+(4)To apply a trademark to commercial documents or advertisements relating to goods or services.
 The preceding paragraph shall also apply to acts performed by digital audio-visual means, through electronic media, on the Internet, or through other media.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
     <條文內容><![CDATA[Appointment of trademark agent
-An applicant, holder or other interested person may appoint a trademark agent to apply for trademark registration and related affairs. Those who have no domicile or business establishment in the territory of the ROC shall appoint a trademark agent to apply for trademark registration and related affairs.
-A trademark agent shall have a domicile in the ROC.]]></條文內容>
+An applicant, holder or other interested person may appoint an agent to apply for trademark registration and other procedures. Those who have no domicile or business establishment in the territory of the ROC shall appoint an agent to apply for trademark registration and other procedures.
+Only person who has a domicile in the ROC and possesses any of the following qualifications can be an agent referred to in the preceding paragraph:
+(1)A professional who may legally handle trademark related matters; or
+(2)A trademark agent.
+A trademark agent as prescribed in Subparagraph 2 of the preceding paragraph shall have successfully passed the Trademark Professional Capability Certification Examination held by the Registrar Office or have been a trademark examiner within a specific period, apply for registration and complete annual on-the-job training so as to handle trademark related matters.
+The regulations governing the holding of the Trademark Professional Capability Certification Examination, specific period of being a trademark examiner, qualification and required documents for trademark agent registration, on-the-job training methods and course hours, management measures on handling trademark related matters, applications for suspension of executing trademark agent responsibilities, revocation of registration and other matters to be followed referred to in the preceding paragraph shall be prescribed by the Competent Authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -73,7 +77,7 @@ In the absence of electing a representative referred to in the preceding paragra
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[Inadmissibility of application; restoration to status quo ante
-Unless otherwise prescribed in this Act, an application or other proceedings of trademark shall be inadmissible if an applicant, holder or other interested person thereof has failed to comply within the statutory period, to conform to legal formality that cannot be amended, or to conform to legal formality which is not amended within the period specified in a notice. However, if the failure to conform to legal formality which is not amended within the specified period has been amended before the disposition is rendered, such application or proceeding shall still be admissible.
+Unless otherwise prescribed in this Act, an application or other proceedings of trademark shall be inadmissible if an applicant, holder or other interested person thereof has failed to comply within the statutory period, to conform to legal formality that cannot be amended, or to conform to legal formality which is not amended within the period specified in a notice. However, if the failure to conform to legal formality which is not amended within the specified period has been amended before the disposition is rendered; such application or proceeding shall still be admissible.
 Where an applicant, holder or other interested person has failed to comply within the statutory period by reason of an act of God or any event not attributable to such applicant, holder or interested person, he/she may apply for restoration to the status quo ante, within thirty days from the day following the date on which the cause vanishes, by submitting a written statement to the Registrar Office clarifying the reason. No application for restoration to the status quo ante may be made upon the failure to comply within the statutory period for more than one year.
 When applying for restoration to the status quo ante, the omitted act that should have been done within the statutory period shall be completed together with the application for restoration.
 The preceding two paragraphs shall not apply to the failure to comply within the period prescribed in Paragraph 3 of Article 32.]]></條文內容>
@@ -98,13 +102,14 @@ The Trademark Gazette referred to in the preceding paragraph may be published an
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[Trademark Register
-The Registrar Office shall maintain the Trademark Register, in which the trademark registrations, changes to trademark rights and all other particulars prescribed by acts or regulations shall be entered and made available to the public.
-The Trademark Register referred to in the preceding paragraph may be produced by electronic means.]]></條文內容>
+The Registrar Office shall maintain the Trademark Register and Trademark Agent Register, in which the trademark registrations, changes to trademark rights and all other particulars prescribed by acts or regulations, as well as the trademark agent registrations, changes and related matters, shall be entered respectively and made available to the public.
+The Trademark Register and Trademark Agent Register referred to in the preceding paragraph may be produced by electronic means.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
     <條文內容><![CDATA[E-filing
-Application and other proceedings of trademark may be transmitted by electronic means; the implementing regulations thereof shall be prescribed by the Competent Authority.]]></條文內容>
+Application and other proceedings of trademark may be transmitted by electronic means. Such means shall also apply to service of documents of Registrar Office.
+The regulations governing the scope, effect, procedure and other matters to be followed of electronic means referred to in the preceding paragraph shall be prescribed by the Competent Authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
@@ -141,10 +146,12 @@ The term “distinctiveness” used in the preceding paragraph refers to the cha
     <條文內容><![CDATA[Application for trademark registration; date of filing
 An application for trademark registration shall be made to the Registrar Office by submitting an application containing (the name and address of) the applicant, a reproduction of the trademark, and the list of designated goods or services.
 The date of filing of an application for trademark registration is the date on which an application referred to in the preceding paragraph is furnished to the Registrar Office.
-A reproduction of the trademark shall be represented in a manner that is clear, precise, self-contained, objective, durable, and easily  intelligible.
+The applicant referred to in Paragraph 1 is a natural person, juridical person, partnership, legally established group without juridical personality or business registered in accordance with the Business Registration Act intending to engage in business with regard to designated goods or services.
+A reproduction of the trademark shall be represented in a manner that is clear, precise, self-contained, objective, durable, and easily intelligible.
 An application for trademark registration shall relate to a single trademark, and may designate goods or services classified in two or more classes.
 Classification of goods or services referred to in the preceding paragraph shall be prescribed by the Enforcement Rules of this Act.
-The classification of goods or services referred to in the preceding paragraph shall not constrain the determination of similarity of goods or services.]]></條文內容>
+The classification of goods or services referred to in the preceding paragraph shall not constrain the determination of similarity of goods or services.
+A trademark applicant seeking rights approval promptly may submit facts and reasons, along with the accelerated examination fee, to the Registrar Office to initiate the accelerated examination process. Such examination shall not apply to an application to which a notice of amendment or stating grounds for refusal has been issued by the Registrar Office.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -152,9 +159,9 @@ The classification of goods or services referred to in the preceding paragraph s
 An applicant who has duly filed an application for trademark registration in a country which has reciprocal recognition of priority rights with the ROC, or filed such application with a member of the World Trade Organization (WTO), may claim a right of priority, for the purposes of registering the same trademark in the ROC for some or all the same goods or services, within six months from the day following the date of filing of the first such application.
 An applicant of a foreign country which is not a member of the WTO nor a country having reciprocal recognition of priority rights with the ROC, may claim a right of priority pursuant to the preceding paragraph if he/she is domiciled or has a business establishment in the territory of a country which has reciprocal recognition of priority rights with the ROC or in the territory of a member of the WTO.
 An applicant who claims priority pursuant to paragraph 1 shall submit a written statement to that effect simultaneously with the application which shall set forth the following:
-(1) the date of filing of the first application;
-(2) the country or the member of the WTO in which the first application was made; and
-(3) the application number of the first application.
+(1)The date of filing of the first application;
+(2)The country or the member of the WTO in which the first application was made; and
+(3)The application number of the first application.
 The applicant shall submit, within three months from the day following the date of filing of the application, a copy of the application certified as admitted by the country or the member of the WTO referred to in the preceding paragraph.
 If an application is not filed pursuant to Subparagraph 1 or Subparagraph 2 of Paragraph 3 or the preceding paragraph, the priority claim thereof shall be deemed not having been made.
 If an application is filed with a claim of priority, the date of priority shall count as the date of filing.
@@ -185,9 +192,9 @@ Changes to the name or address of the applicant, the trademark agent, or any oth
     <條號>Article 25</條號>
     <條文內容><![CDATA[Correction of application
 The following errors in the particulars of an application for registration of a trademark may be corrected upon request or ex officio:
-(1) errors in the name or address of the applicant;
-(2) errors of wording or of copying; or
-(3) any other obvious mistakes.
+(1)Errors in the name or address of the applicant;
+(2)Errors of wording or of copying; or
+(3)Any other obvious mistakes.
 The correction referred to in the preceding paragraph shall not affect the identity of the trademark or broaden the scope of the designated goods or services.]]></條文內容>
   </條文>
   <條文>
@@ -214,9 +221,9 @@ Any restriction or division of the designated goods or services of an applicatio
     <條號>Article 29</條號>
     <條文內容><![CDATA[Grounds for refusal of registration: devoid of distinctiveness; disclaimer
 A trademark shall not be registered if it is devoid of distinctiveness in any of the following:
-(1) consisting exclusively of a description of the quality, intended purpose, material, place of origin, or relevant characteristics of the designated goods or services;
-(2) consisting exclusively of the generic mark or term for the designated goods or services; or
-(3) consisting exclusively of other signs which are devoid of any distinctiveness.
+(1)Consisting exclusively of a description of the quality, intended purpose, material, place of origin, or relevant characteristics of the designated goods or services;
+(2)Consisting exclusively of the generic mark or term for the designated goods or services; or
+(3)Consisting exclusively of other signs which are devoid of any distinctiveness.
 Subparagraph 1 or 3 of the preceding paragraph shall not apply if the trademark has been used by the applicant and has become, in trade, a sign capable of distinguishing the goods or services of the applicant.
 Where the reproduction of a trademark contains an element which is not distinctive, and where the inclusion of that element in the trademark could give rise to doubts as to the scope of the trademark rights, the applicant shall state that he/she disclaims any exclusive right to such element. Such trademark without disclaimer shall not be registered.]]></條文內容>
   </條文>
@@ -224,24 +231,24 @@ Where the reproduction of a trademark contains an element which is not distincti
     <條號>Article 30</條號>
     <條文內容><![CDATA[Other grounds for refusal of registration
 A trademark shall not be registered in any of the following:
-(1) being exclusively necessary for the goods or services to be functional;
-(2) being identical with or similar to the national flag, national emblem, national seal, military flags, military insignia, official seals, or medals of the ROC, or the state flags of foreign countries, or the armorial bearings, national seals or other state emblems of foreign countries communicated by any member of the WTO under Paragraph 3 of Article 6ter of the Paris Convention;
-(3) being identical with the portrait or name of Dr. Sun Yat-Sen or of the head of the state;
-(4) being identical with or similar to the mark of a government agency of the ROC or an official exhibition held thereby, or the medal or certificate awarded thereby;
-(5) being identical with or similar to the armorial bearings, flags, other emblems, abbreviations, and names, of international intergovernmental organizations or well-known domestic or foreign institutions undertaking businesses for public interests, and hence being likely to mislead the public;
-(6) being identical with or similar to official signs and hallmarks indicating control and warranty adopted by the domestic or foreign countries, and being designated to the identical or similar goods or services;
-(7) being contrary to public policy or to accepted principles of morality;
-(8) being likely to mislead the public as to the nature, quality, or place of origin of the goods or services;
-(9) being identical with or similar to a geographical indication for wines or spirits in the ROC or a foreign country, and being designated to goods that are identical with or similar to wines or spirits, where that foreign country concludes with the ROC an agreement, or accedes to an international treaty, to which the ROC also accedes, or has reciprocal recognition with the ROC of protection of geographical indications for wines or spirits;
-(10) being identical with or similar to another person’s registered trademark or earlier filed trademark and to be applied for goods or services identical with or similar to those for which the registered trademark is protected or the earlier filed trademark is designated, and hence there exists a likelihood of confusion on relevant consumers, unless the consent of the proprietor of the said registered trademark or earlier filed trademark to the application has been given and is not obviously improper;
-(11) being identical with or similar to another person’s well-known trademark or mark, and hence there exists a likelihood of confusion on the relevant public or a likelihood of dilution of the distinctiveness or reputation of the said well-known trademark or mark, unless the proprietor of the said well-known trademark or mark consents to the application;
-(12) being identical with or similar to another person’s earlier used trademark and to be applied for goods or services identical with or similar to those for which the earlier used trademark is applied, where the applicant with the intent to imitate the earlier used trademark, being aware of the existence of the earlier used trademark due to contractual, regional, or business connections, or any other relationship with the proprietor of the earlier used trademark, files the application for registration, unless the proprietor of the said earlier used trademark consents to the application;
-(13) containing another person’s portrait or well-known name, stage name, pseudonym, or alternative name, unless the said person consents to the application;
-(14) containing the name of a well-known juridical person, business or any group, and hence there exists a likelihood of confusion on the relevant public, unless the said juridical person, business or group consents to the application; or
-(15) being an infringement of another person’s copyright, patent right, or any other right, where a final judgment of the court has been rendered, unless the said person consents to the application.
+(1)Being exclusively necessary for the goods or services to be functional;
+(2)Being identical with or similar to the national flag, national emblem, national seal, military flags, military insignia, official seals, or medals of the ROC, or the state flags of foreign countries, or the armorial bearings, national seals or other state emblems of foreign countries communicated by any member of the WTO under Paragraph 3 of Article 6ter of the Paris Convention;
+(3)Being identical with the portrait or name of Dr. Sun Yat-Sen or of the head of the state;
+(4)Being identical with or similar to the mark of a government agency of the ROC or an official exhibition held thereby, or the medal or certificate awarded thereby;
+(5)Being identical with or similar to the armorial bearings, flags, other emblems, abbreviations, and names, of international intergovernmental organizations or well-known domestic or foreign institutions undertaking businesses for public interests, and hence being likely to mislead the public;
+(6)Being identical with or similar to official signs and hallmarks indicating control and warranty adopted by the domestic or foreign countries, and being designated to the identical or similar goods or services;
+(7)Being contrary to public policy or to accepted principles of morality;
+(8)Being likely to mislead the public as to the nature, quality, or place of origin of the goods or services;
+(9)Being identical with or similar to a geographical indication for wines or spirits in the ROC or a foreign country, and being designated to goods that are identical with or similar to wines or spirits, where that foreign country concludes with the ROC an agreement, or accedes to an international treaty, to which the ROC also accedes, or has reciprocal recognition with the ROC of protection of geographical indications for wines or spirits;
+(10)Being identical with or similar to another person’s registered trademark or earlier filed trademark and to be applied for goods or services identical with or similar to those for which the registered trademark is protected or the earlier filed trademark is designated, and hence there exists a likelihood of confusion on relevant consumers, unless the consent of the proprietor of the said registered trademark or earlier filed trademark to the application has been given and is not obviously improper;
+(11)Being identical with or similar to another person’s well-known trademark or mark, and hence there exists a likelihood of confusion on the relevant public or a likelihood of dilution of the distinctiveness or reputation of the said well-known trademark or mark, unless the proprietor of the said well-known trademark or mark consents to the application;
+(12)Being identical with or similar to another person’s earlier used trademark and to be applied for goods or services identical with or similar to those for which the earlier used trademark is applied, where the applicant with the intent to imitate the earlier used trademark, being aware of the existence of the earlier used trademark due to contractual, regional, or business connections, or any other relationship with the proprietor of the earlier used trademark, files the application for registration, unless the proprietor of the said earlier used trademark consents to the application;
+(13)Containing another person’s portrait or well-known name, stage name, pseudonym, or alternative name, unless the said person consents to the application;
+(14)Being identical with or similar to the name of a well-known juridical person, business or any group, and hence there exists a likelihood of confusion on the relevant public, unless the said juridical person, business or group consents to the application; or
+(15)Being an infringement of another person’s copyright, patent right, or any other right, where a final judgment of the court has been rendered, unless the said person consents to the application.
 The determination of a geographical indication, well-known trademark/mark, and earlier used trademark as prescribed in Subparagraph 9 and Subparagraphs 11 to 14, respectively, of the preceding paragraph shall be based on the facts at the time of filing.
-Subparagraphs 4, 5 and 9 of Paragraph 1 of this Article shall not apply if the applicant is a government agency or related institution.
-Paragraph 3 of the preceding article shall apply mutatis mutandis to the ground for refusal prescribed in Subparagraph 1 of Paragraph 1.]]></條文內容>
+Subparagraphs 2, 4, 5 and 9 of Paragraph 1 of this Article shall not apply if the government agency or related institution is the applicant or consents to the application.
+Where the reproduction of a trademark contains an element that is functional as prescribed in Subparagraph 1 of Paragraph 1, such trademark shall not be registered without using broken lines to represent such element. Where such element cannot be represented by using broken lines, it shall not be registered if the applicant does not state that such element is not a part of the trademark.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 31</條號>
@@ -275,19 +282,20 @@ Renewal referred to in the preceding paragraph shall take effect from the day fo
     <條文內容><![CDATA[Right in registered trademark
 The proprietor of a registered trademark has the exclusive right in the trademark in relation to the designated goods or services.
 Unless otherwise prescribed in Article 36 of this Act, consent of the proprietor of a registered trademark shall be required in any of the following:
-(1) using a trademark which is identical with the registered trademark in relation to goods or services which are identical with those for which it is registered;
-(2) using a trademark which is identical with the registered trademark and used in relation to goods or services similar to those for which the registered one is designated, and hence there exists a likelihood of confusion on relevant consumers; or
-(3) using a trademark which is similar to the registered trademark and used in relation to goods or services identical with or similar to those for which the registered one is designated, and hence there exists a likelihood of confusion on relevant consumers.
+(1)Using a trademark which is identical with the registered trademark in relation to goods or services which are identical with those for which it is registered;
+(2)Using a trademark which is identical with the registered trademark and used in relation to goods or services similar to those for which the registered one is designated, and hence there exists a likelihood of confusion on relevant consumers; or
+(3)Using a trademark which is similar to the registered trademark and used in relation to goods or services identical with or similar to those for which the registered one is designated, and hence there exists a likelihood of confusion on relevant consumers.
 A trademark may, if registered, be displayed with the words “registered trademark” or the internationally used symbol for registration (the letter R enclosed within a circle).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 36</條號>
     <條文內容><![CDATA[Limits on effect of registered trademark
 A registered trademark shall not entitle the proprietor to prohibit a third party from:
-(1) indicating his/her own name, or the term, shape, quality, nature, characteristic, intended purpose, place of origin, or any other description in relation to his/her own goods or services, in accordance with honest practices in industrial or commercial matters and not using it as a trademark;
-(2) using where it is necessary for the goods or services to be functional; or
-(3) using bona fide, prior to the filing date of the registered trademark, an identical or similar trademark on goods or services identical with or similar to those for which the registered trademark is protected, provided that the use is only on the original goods or services; the proprietor of the registered trademark is entitled to request the party who use the trademark to add an appropriate and distinguishing indication.
-Where goods have been put on the domestic or foreign market under a registered trademark by the proprietor or with his consent, the proprietor is not entitled to claim trademark rights on such goods, unless such claim is to prevent the condition of the goods been changed or impaired after they have been put on the market or there exist other legitimate reasons.]]></條文內容>
+(1)Indicating his/her own name, or the term, shape, quality, nature, characteristic, intended purpose, place of origin, or any other description in relation to his/her own goods or services, in accordance with honest practices in industrial or commercial matters and not using it as a trademark;
+(2)Indicating the purpose of use of goods or services in accordance with honest practices in industrial or commercial matters, where it is necessary to use the registered trademark to indicate goods or services of the proprietor. It shall not apply if there exists a likelihood of confusion among relevant consumers as a result of such use;
+(3)Using where it is necessary for the goods or services to be functional; or
+(4)Using bona fide, prior to the filing date of the registered trademark, an identical or similar trademark on goods or services identical with or similar to those for which the registered trademark is protected, provided that the use is only to the original extent; the proprietor of the registered trademark is entitled to request the party who use the trademark to add an appropriate and distinguishing indication.
+Where goods have been put on the domestic or foreign market under a registered trademark by the proprietor or with his/her consent, the proprietor is not entitled to claim trademark rights on such goods, unless such claim is to prevent the condition of the goods been changed, impaired, reprocessed or reformed by a third party after such goods have been put on the market or there exist other legitimate reasons.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 37</條號>
@@ -322,10 +330,10 @@ A sub-license shall have no locus standi against any third party unless it is en
     <條號>Article 41</條號>
     <條文內容><![CDATA[Removal of license from the Register
 Before the expiry of the period of a license, a concerned or an interested party may, by submitting relevant evidence, request the Registrar Office to remove the license from the Register under any of the following:
-(1) both the proprietor of the registered trademark and the licensee agree to terminate the license; such request shall also apply to the sub-license;
-(2) where the licensing contract expressly prescribes that either the proprietor or the licensee may terminate the license at any time, the concerned party declares the termination;
-(3) due to the licensee’s breaching the licensing contract, the proprietor gives such licensee a notice of rescinding or terminating the licensing contract, and the licensee shows no objection thereto; or
-(4) there is other relevant evidence capable of establishing that the license no longer exists.]]></條文內容>
+(1)Both the proprietor of the registered trademark and the licensee agree to terminate the license; such request shall also apply to the sub-license;
+(2)Where the licensing contract expressly prescribes that either the proprietor or the licensee may terminate the license at any time, the concerned party declares the termination;
+(3)Due to the licensee’s breaching the licensing contract, the proprietor gives such licensee a notice of rescinding or terminating the licensing contract, and the licensee shows no objection thereto; or
+(4)There is other relevant evidence capable of establishing that the license no longer exists.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 42</條號>
@@ -362,9 +370,9 @@ Paragraph 5 of Article 28 shall apply mutatis mutandis to a restriction or divis
     <條號>Article 47</條號>
     <條文內容><![CDATA[Extinguishment of registration
 Right of a registered trademark shall become extinguished under any of the following:
-(1) where the right is not renewed pursuant to Article 34, such right shall become extinguished from the day following the date of expiry of the period of such right.
-(2) where the proprietor of such trademark dies with no successor, such right shall become extinguished from the day following the date of death of such proprietor; or
-(3) where the right is abandoned pursuant to Article 45, such right shall become extinguished from the date of receipt of a written statement on the abandonment at the Registrar Office.]]></條文內容>
+(1)Where the right is not renewed pursuant to Article 34, such right shall become extinguished from the day following the date of expiry of the period of such right.
+(2)Where the proprietor of such trademark dies with no successor, such right shall become extinguished from the day following the date of death of such proprietor; or
+(3)Where the right is abandoned pursuant to Article 45, such right shall become extinguished from the date of receipt of a written statement on the abandonment at the Registrar Office.]]></條文內容>
   </條文>
   <編章節>      Section IV       Opposition</編章節>
   <條文>
@@ -422,7 +430,7 @@ Where a disposition of the opposition to a registered trademark became final, no
   <條文>
     <條號>Article 57</條號>
     <條文內容><![CDATA[Grounds for invalidation; proof of use of earlier trademark
-An interested party may file an invalidation with the Registrar Office, or a trademark examiner may submit a proposal to the Registrar Office for an invalidation, against a trademark registration on the grounds that such registration falls under Paragraph 1 of Article 29, Paragraph 1 of Article 30, or Paragraph 3 of Article 65.
+An interested party may file invalidation with the Registrar Office, or a trademark examiner may submit a proposal to the Registrar Office for invalidation, against a trademark registration on the grounds that such registration falls under Paragraph 1 of Article 29, Paragraph 1 of Article 30, or Paragraph 3 of Article 65.
 An applicant who file an invalidation with the Registrar Office against a trademark registration on the grounds that such registration falls under Subparagraph 10 of Paragraph 1 of Article 30 shall furnish proof that, during the period of three years preceding the date of the application for invalidation, the earlier trademark has been used in connection with the goods or services in respect of which it is registered and which he/she cites as justification for his/her application, or that there are proper reasons for non-use, provided the earlier trademark has at that date been registered for not less than three years.
 The proof of use furnished pursuant to the preceding paragraph shall be capable of establishing the genuine use of the trademark in accordance with general commercial practices.]]></條文內容>
   </條文>
@@ -440,12 +448,12 @@ An examination on an application for invalidation shall be conducted by an inval
   <條文>
     <條號>Article 60</條號>
     <條文內容><![CDATA[Effect of sustained invalidation
-Where an invalidation against a registered trademark is sustained, such registration shall be cancelled. However, if the circumstance on which the trademark is not registrable no longer exists, a disposition to overrule such invalidation may be rendered upon considering the need for proportionality between the interests of the public and the interests of the concerned parties.]]></條文內容>
+Where invalidation against a registered trademark is sustained, such registration shall be cancelled. However, if the circumstance on which the trademark is not registrable no longer exists, a disposition to overrule such invalidation may be rendered upon considering the need for proportionality between the interests of the public and the interests of the concerned parties.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 61</條號>
     <條文內容><![CDATA[Ne bis in idem
-Where a disposition of an invalidation against a registered trademark was rendered, no one shall file another invalidation against such trademark based on the same facts, evidence and grounds as those in the earlier invalidation.]]></條文內容>
+Where a disposition of invalidation against a registered trademark was rendered, no one shall file another invalidation against such trademark based on the same facts, evidence and grounds as those in the earlier invalidation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 62</條號>
@@ -457,11 +465,11 @@ Paragraphs 2 and 3 of Article 48, Articles 49 through 53, and Article 55 shall a
     <條號>Article 63</條號>
     <條文內容><![CDATA[Grounds for revocation; revocation of some goods or services
 The Registrar Office shall, ex officio or upon an application, revoke the registration of a trademark if such trademark is in any of the following:
-(1) where the trademark is altered by the proprietor in different forms in which it was registered or supplemented with additional notes whereby the trademark is identical with or similar to another person’s registered trademark in relation to goods or services which are identical with or similar to those for which another person’s registered trademark is designated, and hence there exists a likelihood of confusion on relevant consumers;
-(2) where the trademark has not yet been put to use or such use has been suspended for a continuous period of not less than three years without proper reasons for non-use, unless the trademark has been put to use by a licensee;
-(3) where no appropriate and distinguishing indication is added pursuant to Article 43, unless the indication has been added and hence there does not exist any likelihood of confusion before the disposition of revocation rendered by the Registrar Office;
-(4) where the trademark has become the generic mark or term, or common shape for the designated goods or services; or
-(5) where, in consequence of the actual use of the trademark, such trademark is likely to mislead the public as to the nature, quality, or place of origin of the goods or services.
+(1)Where the trademark is altered by the proprietor in different forms in which it was registered or supplemented with additional notes whereby the trademark is identical with or similar to another person’s registered trademark in relation to goods or services which are identical with or similar to those for which another person’s registered trademark is designated, and hence there exists a likelihood of confusion on relevant consumers;
+(2)Where the trademark has not yet been put to use or such use has been suspended for a continuous period of not less than three years without proper reasons for non-use, unless the trademark has been put to use by a licensee;
+(3)Where no appropriate and distinguishing indication is added pursuant to Article 43, unless the indication has been added and hence there does not exist any likelihood of confusion before the disposition of revocation rendered by the Registrar Office;
+(4)Where the trademark has become the generic mark or term, or common shape for the designated goods or services; or
+(5)Where, in consequence of the actual use of the trademark, such trademark is likely to mislead the public as to the nature, quality, or place of origin of the goods or services.
 The revocation shall also apply in the case where the proprietor of the registered trademark who, knowingly or with reasonable grounds to know, shows no objection to the conduct as prescribed in Subparagraph 1 of preceding paragraph by a licensee.
 The trademark registration shall not be revoked on the ground prescribed in Subparagraph 2 of Paragraph 1 if such use as in referred to in that subparagraph is commenced or resumed before the application for revocation is filed, unless any such commencement or resumption of use within the period of three months before the filing of the application is because the proprietor became aware that the application might be filed.
 Where grounds for revocation exist in respect of some of the designated goods or services of the registered trademark, the registration may be revoked in respect of those goods or services.]]></條文內容>
@@ -495,9 +503,9 @@ Paragraph 3 of Article 57 shall apply mutatis mutandis to the circumstance that 
     <條號>Article 68</條號>
     <條文內容><![CDATA[Infringement of registered trademark
 Any of the following acts, without consent of the proprietor of a registered trademark, constitutes infringement of the right of such trademark:
-(1) using a trademark which is identical with the registered trademark in relation to goods or services which are identical with those for which it is registered;
-(2) using a trademark which is identical with the registered trademark and used in relation to goods or services similar to those for which the registered one is designated, and hence there exists a likelihood of confusion on relevant consumers; or
-(3) using a trademark which is similar to the registered trademark and used in relation to goods or services identical with or similar to those for which the registered one is designated, and hence there exists a likelihood of confusion on relevant consumers.
+(1)Using a trademark which is identical with the registered trademark in relation to goods or services which are identical with those for which it is registered;
+(2)Using a trademark which is identical with the registered trademark and used in relation to goods or services similar to those for which the registered one is designated, and hence there exists a likelihood of confusion on relevant consumers; or
+(3)Using a trademark which is similar to the registered trademark and used in relation to goods or services identical with or similar to those for which the registered one is designated, and hence there exists a likelihood of confusion on relevant consumers.
 Any person who, without the consent of the proprietor of a registered trademark, manufactures, sells, possesses, displays, exports, or imports labels, tags, packaging, containers, or service-related articles that bear trademarks the same or similar to said registered trademark of the identical or similar goods or services in the course of trade for their own use or for others, shall also be deemed an infringer of the right of such trademark.]]></條文內容>
   </條文>
   <條文>
@@ -512,17 +520,17 @@ The rights to demand referred to in the preceding paragraph shall become extingu
     <條號>Article 70</條號>
     <條文內容><![CDATA[Acts deemed infringement
 Any of the following acts, without consent of the proprietor of a registered trademark, shall be deemed infringement of the right of such trademark:
-(1) knowingly using a trademark which is identical with or similar to another person’s well-known registered trademark, and hence there exists a likelihood of dilution of the distinctiveness or reputation of the said well-known trademark; or
-(2) knowingly using words contained in another person’s well-known registered trademark as the name of a company, business, group or domain or any other name that identifies a business entity, and hence there exists a likelihood of confusion on relevant consumers or a likelihood of dilution of the distinctiveness or reputation of the said well-known trademark.]]></條文內容>
+(1)Knowingly using a trademark which is identical with or similar to another person’s well-known registered trademark, and hence there exists a likelihood of dilution of the distinctiveness or reputation of the said well-known trademark; or
+(2)Knowingly using words contained in another person’s well-known registered trademark as the name of a company, business, group or domain or any other name that identifies a business entity, and hence there exists a likelihood of confusion on relevant consumers or a likelihood of dilution of the distinctiveness or reputation of the said well-known trademark.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 71</條號>
     <條文內容><![CDATA[Calculation of damages
 Damages demanded by the proprietor of a registered trademark may be calculated according to any of the following:
-(1) the method provided in Article 216 of the Civil Code; the proprietor is entitled to demand damages based on the amount of the balance derived by subtracting the profit earned through using the trademark after infringement from the profit normally expected through using the same trademark, if no method of proof can be furnished to prove the damage suffered;
-(2) the profit earned by the infringer as a result of trademark infringement; if no proof on costs or necessary expenses can be furnished by the infringer, the total amount of income from selling the infringing goods shall be presumed to be the amount of profit;
-(3) the amount not more than 1,500 times of the unit retail price of the infringing goods; if over 1,500 pieces of infringing goods were found, the amount of damages shall be a lump sum of the market value of the infringing goods; or
-(4) the equivalent amount of royalty that may be collected from using the trademark under licensing.
+(1)The method provided in Article 216 of the Civil Code; the proprietor is entitled to demand damages based on the amount of the balance derived by subtracting the profit earned through using the trademark after infringement from the profit normally expected through using the same trademark, if no method of proof can be furnished to prove the damage suffered;
+(2)The profit earned by the infringer as a result of trademark infringement; if no proof on costs or necessary expenses can be furnished by the infringer, the total amount of income from selling the infringing goods shall be presumed to be the amount of profit;
+(3)The amount not more than 1,500 times of the unit retail price of the infringing goods; if over 1,500 pieces of infringing goods were found, the amount of damages shall be a lump sum of the market value of the infringing goods; or
+(4)The equivalent amount of royalty that may be collected from using the trademark under licensing.
 A court may, at its discretion, reduce the amount of damages referred to in the preceding paragraph if such amount is apparently unequal.]]></條文內容>
   </條文>
   <條文>
@@ -538,11 +546,11 @@ Where the applicant is awarded a final judgment of the court stating that the de
     <條號>Article 73</條號>
     <條文內容><![CDATA[Revocation of detention
 Customs shall revoke the detention if any of the following exists:
-(1) within a period of twelve days after the applicant has been served notice of admission of the application, Customs has not been informed that proceedings claiming that the detained articles are infringing articles pursuant to Article 69 have been initiated by the applicant;
-(2) a final ruling of the court which dismisses the litigation initiated by the applicant claiming that the detained articles are infringing article;
-(3) a final judgment of the court which holds that the detained articles do not infringe trademark rights;
-(4) the applicant requests for revocation of the detention; or
-(5) the circumstance in accordance with Paragraph 4 of the preceding article.
+(1)Within a period of twelve days after the applicant has been served notice of admission of the application, Customs has not been informed that proceedings claiming that the detained articles are infringing articles pursuant to Article 69 have been initiated by the applicant;
+(2)A final ruling of the court which dismisses the litigation initiated by the applicant claiming that the detained articles are infringing article;
+(3)A final judgment of the court which holds that the detained articles do not infringe trademark rights;
+(4)The applicant requests for revocation of the detention; or
+(5)The circumstance in accordance with Paragraph 4 of the preceding article.
 The period as prescribed in Subparagraph 1 of the preceding paragraph may be extended by another twelve days by Customs in appropriate cases.
 If the detention is revoked pursuant to Paragraph 1, Customs shall follow the procedures in accordance with applicable Customs Regulations on import and export articles clearance.
 Where the detention is revoked pursuant to Subparagraphs 1 to 4 of Paragraph 1, the applicant shall be liable for all relevant expenses incurred as a result of the delay of containers, warehousing, loading, and unloading of the detained articles.]]></條文內容>
@@ -553,19 +561,19 @@ Where the detention is revoked pursuant to Subparagraphs 1 to 4 of Paragraph 1, 
 If a final judgment of the court holds that the detained articles do not infringe trademark rights, the applicant shall compensate the owner of detained articles for injury caused to them through wrongful detention of articles or provision of a security as prescribed in Paragraph 4 of Article 72.
 The applicant shall enjoy the same right as a pledgee in relation to the security as prescribed in Paragraph 4 of Article 72. The owner of detained articles shall enjoy the same right as a pledgee in relation to the security as prescribed in Paragraph 2 of Article 72. However, all relevant expenses incurred as a result of the delay of containers, warehousing, loading, and unloading of the detained articles as prescribed in Paragraph 4 of the preceding article and Paragraph 5 of Article 72 shall be paid prior to compensate the applicant or the owner of detained articles for injury.
 Customs shall release the security as prescribed in Paragraph 2 of Article 72 upon request by the applicant in any of the following:
-(1) where the security is no longer required as the applicant has either obtained a final judgment in his/her favor or reached a settlement with the owner of detained articles;
-(2) where the applicant proves that the owner of detained articles has been notified but failed to exercise his/her rights within twenty days or more after the detention is revoked on the grounds prescribed in Subparagraphs 1 through 4 of Paragraph 1 of the preceding article and hence there is injury caused to them through wrongful detention, or after such owner obtained a final judgment in his/her favor; or
-(3) where the owner of detained articles agrees to release the security.
+(1)Where the security is no longer required as the applicant has either obtained a final judgment in his/her favor or reached a settlement with the owner of detained articles;
+(2)Where the applicant proves that the owner of detained articles has been notified but failed to exercise his/her rights within twenty days or more after the detention is revoked on the grounds prescribed in Subparagraphs 1 through 4 of Paragraph 1 of the preceding article and hence there is injury caused to them through wrongful detention, or after such owner obtained a final judgment in his/her favor; or
+(3)Where the owner of detained articles agrees to release the security.
 Customs shall release the security as prescribed in Paragraph 4 of Article 72 upon request by the owner of detained articles in any of the following:
-(1) where the security is no longer required as either after the detention is revoked on the grounds prescribed in Subparagraphs 1 through 4 of Paragraph 1 of the preceding article or such owner has reached a settlement with the applicant;
-(2) where such owner proves that the applicant has been notified but failed to exercise his/her rights within twenty days or more after the applicant has obtained a final judgment in his/her favor; or
-(3) where the applicant agrees to release the security.]]></條文內容>
+(1)Where the security is no longer required as either after the detention is revoked on the grounds prescribed in Subparagraphs 1 through 4 of Paragraph 1 of the preceding article or such owner has reached a settlement with the applicant;
+(2)Where such owner proves that the applicant has been notified but failed to exercise his/her rights within twenty days or more after the applicant has obtained a final judgment in his/her favor; or
+(3)Where the applicant agrees to release the security.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 75</條號>
     <條文內容><![CDATA[Suspension of release upon Customs’ own initiative
 Where Customs acts upon its own initiative and finds that imported or exported articles in respect of which it has acquired prima facie evidence that a trademark right is likely to be infringed, Customs shall give a notice to the proprietor of the trademark and the importer/exporter.
-In giving the notice referred to in the preceding paragraph, Customs shall specify a period for the proprietor of the trademark to come to the customs to identify the infringement and furnish proof of infringement, and Customs shall also specify a period for the importer/exporter to furnish proof of non-infringement. However, the period may be extended once only at the request of the proprietor of the trademark or the importer/exporter to Customs in writing, stating legitimate reasons for failure to furnish proof.
+In giving the notice referred to in the preceding paragraph, Customs shall specify a period for the proprietor of the trademark to identify the infringement and furnish proof of infringement, and Customs shall also specify a period for the importer/exporter to furnish proof of non-infringement. However, the period may be extended once only at the request of the proprietor of the trademark or the importer/exporter to Customs in writing, stating legitimate reasons for failure to furnish proof.
 If proof of infringement has been furnished by the proprietor of the trademark and proof of non-infringement has not been furnished by the importer/exporter pursuant to the preceding paragraph, Customs may suspend the release of such articles.
 If proof of infringement has been furnished by the proprietor of the trademark and proof of non-infringement has been furnished by the importer/exporter pursuant to Paragraph 2, Customs shall give a notice to the proprietor that he/she may, within three working days after the notice is given, file an application for detention pursuant to Paragraph 1 of Article 72.
 If the proprietor did not file within the period prescribed in the preceding paragraph an application for detention pursuant to Paragraph 1 of Article 72, Customs may release the articles after retaining a representative sample.]]></條文內容>
@@ -618,10 +626,10 @@ An applicant of an application for registration of a certification mark shall fi
 If there is any doubt about the representativeness of the applicant of an application for registration of a geographical certification mark, the Registrar Office may consult and seek advice from the central government authorities in charge of business related to such goods or services.
 A foreign juridical person, group or government agency, who files an application for registration of a geographical certification mark, shall file documents of proof of such geographical certification mark being protected in the name and country of origin of such applicant.
 The regulations governing the use of the certification mark referred to in Paragraph 1 shall specify the following:
-(1) the characteristics to be certified by the certification mark;
-(2) the conditions on the use of the certification mark;
-(3) the methods of managing and supervising the use of the certification mark; and
-(4) the procedures for applying to use the certification mark and resolving disputes thereof.
+(1)The characteristics to be certified by the certification mark;
+(2)The conditions on the use of the certification mark;
+(3)The methods of managing and supervising the use of the certification mark; and
+(4)The procedures for applying to use the certification mark and resolving disputes thereof.
 The Registrar Office shall publish the registration of the certification mark along with regulations governing the use of such mark; any amendment of such regulations after registration is not effective unless the amended regulations are accepted and published by the Registrar Office.]]></條文內容>
   </條文>
   <條文>
@@ -645,10 +653,10 @@ A collective mark is a sign that serves to identify the membership of members in
     <條文內容><![CDATA[Requirements of application for registration of collective mark
 An application for registration of a collective mark shall be made to the Registrar Office by submitting an application containing relevant matters and filing the regulations governing the use of the collective mark.
 The regulations governing the use of the collective mark referred to in Paragraph 1 shall specify the following:
-(1) the qualifications of the members,
-(2) the conditions on the use of the collective mark;
-(3) the methods of managing and supervising the use of the collective mark; and
-(4) the provisions against any violation of the regulations.]]></條文內容>
+(1)The qualifications of the members,
+(2)The conditions on the use of the collective mark;
+(3)The methods of managing and supervising the use of the collective mark; and
+(4)The provisions against any violation of the regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 87</條號>
@@ -666,10 +674,10 @@ Where the collective trademark referred to in the preceding paragraph serves to 
     <條文內容><![CDATA[Requirements of application for registration of collective trademark
 An application for registration of a collective trademark shall be made to the Registrar Office by submitting an application designating goods or services and filing the regulations governing the use of the collective trademark.
 The regulations governing the use of the collective trademark referred to in Paragraph 1 shall specify the following:
-(1) the qualifications of the members,
-(2) the conditions on the use of the collective trademark;
-(3) the methods of managing and supervising the use of the collective trademark; and
-(4) the provisions against any violation of the regulations.
+(1)The qualifications of the members,
+(2)The conditions on the use of the collective trademark;
+(3)The methods of managing and supervising the use of the collective trademark; and
+(4)The provisions against any violation of the regulations.
 In addition to the matters which shall be specified referred to in the preceding paragraph, the regulations governing the use of the geographical collective trademark shall also specify that any person from the corresponding geographical region whose goods or services and qualifications comply with the conditions contained in such regulations may be allowed to become a member of the group by the proprietor of the geographical collective trademark.
 The Registrar Office shall publish the registration of the collective trademark along with regulations governing the use of such mark; any amendment of such regulations after registration is not effective unless the amended regulations are accepted and published by the Registrar Office.]]></條文內容>
   </條文>
@@ -692,28 +700,28 @@ The right of a certification mark, collective mark or collective trademark shall
     <條號>Article 93</條號>
     <條文內容><![CDATA[Special provisions for grounds for revocation
 The Registrar Office may, upon an application by any person or ex officio, revoke the registration of a certification mark, collective mark or collective trademark if:
-(1) the certification mark is used by the proprietor of such mark as a trademark;
-(2) the proprietor of the certification mark carries on a business of goods or services of the kind certified;
-(3) the proprietor of the certification mark is no longer competent to certify another person’s goods or services to which the registration certification mark is designated;
-(4) the proprietor of the certification mark discriminates against those who apply for certification;
-(5) the proprietor of such trademark or mark transfers, licenses, or creates a pledge which falls under the preceding article;
-(6) the proprietor of such trademark or mark does not manage or supervise the use pursuant to the regulations governing the use; or
-(7) the proprietor of such trademark or mark uses such trademark or mark improperly that is likely to cause damage to others or the public.
+(1)The certification mark is used by the proprietor of such mark as a trademark;
+(2)The proprietor of the certification mark carries on a business of goods or services of the kind certified;
+(3)The proprietor of the certification mark is no longer competent to certify another person’s goods or services to which the registration certification mark is designated;
+(4)The proprietor of the certification mark discriminates against those who apply for certification;
+(5)The proprietor of such trademark or mark transfers, licenses, or creates a pledge which falls under the preceding article;
+(6)The proprietor of such trademark or mark does not manage or supervise the use pursuant to the regulations governing the use; or
+(7)The proprietor of such trademark or mark uses such trademark or mark improperly that is likely to cause damage to others or the public.
 The revocation shall also apply in the case where the proprietor of the registered certification mark, collective mark or collective trademark who, knowingly or with reasonable grounds to know, shows no objection to the conduct as prescribed in the preceding paragraph by a licensee.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 94</條號>
     <條文內容><![CDATA[Provisions applied mutatis mutandis to certification mark, collective mark and collective trademark
-Unless otherwise prescribed in this Chapter, the provisions of this Act in relation to a trademark shall apply mutatis mutandis to a certification mark, collective mark or collective trademark.]]></條文內容>
+Unless otherwise prescribed in this Chapter, the provisions of this Act in relation to a trademark, except Paragraph 8 of Article 19, shall apply mutatis mutandis to a certification mark, collective mark or collective trademark.]]></條文內容>
   </條文>
   <編章節>   Chapter IV       Penal Provisions</編章節>
   <條文>
     <條號>Article 95</條號>
     <條文內容><![CDATA[Penalty for trademark or collective trademark infringement
 Any person who commits any of the following acts, without the consent of the proprietor of a registered trademark or collective trademark, shall be liable to imprisonment for a period not exceeding three years and/or a fine not exceeding NT$200,000:
-(1) using a trademark which is identical with the registered trademark or collective trademark in relation to goods or services which are identical with those for which it is registered;
-(2) using a trademark which is identical with the registered trademark or collective trademark and used in relation to goods or services similar to those for which the registered trademark or collective trademark is designated, and hence there exists a likelihood of confusion on relevant consumers; or
-(3) using a trademark which is similar to the registered trademark or collective trademark and used in relation to goods or services identical with or similar to those for which the registered trademark or collective trademark is designated, and hence there exists a likelihood of confusion on relevant consumers.
+(1)Using a trademark which is identical with the registered trademark or collective trademark in relation to goods or services which are identical with those for which it is registered;
+(2)Using a trademark which is identical with the registered trademark or collective trademark and used in relation to goods or services similar to those for which the registered trademark or collective trademark is designated, and hence there exists a likelihood of confusion on relevant consumers; or
+(3)Using a trademark which is similar to the registered trademark or collective trademark and used in relation to goods or services identical with or similar to those for which the registered trademark or collective trademark is designated, and hence there exists a likelihood of confusion on relevant consumers.
 Any person who, without the consent of the proprietor of a registered trademark or collective trademark, manufactures, sells, possesses, displays, exports, or imports labels, packaging, containers, or other services-related articles that bear a sign identical with or similar to another person’s registered trademark or collective trademark in the course of trade for their own use or for others, shall be liable to imprisonment for a period not exceeding one year and/or a fine not exceeding NT$50,000.
 Penalties referred to in the preceding paragraph shall also apply to acts performed through electronic media or on the Internet.]]></條文內容>
   </條文>
@@ -735,9 +743,15 @@ Penalties referred to in the preceding paragraph shall also apply to acts perfor
     <條文內容><![CDATA[All articles or documents that constitute infringement of rights in trademark, certification mark, or collective trademark shall be confiscated, regardless of whether such articles or documents belong to the offender.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 98-1</條號>
+    <條文內容><![CDATA[Any person who practices as a trademark agent without registration in accordance with this Act or solicits businesses under the title of trademark agent shall be imposed a fine of no less than thirty thousand NTD but no more than one hundred and fifty thousand NTD and ordered to cease the conduct within a specified time period by the Registrar Office. One who fails to obey within the prescribed period is subject to repeated orders to sanctions each time until he/she obeys.
+The preceding paragraph shall apply as well to where a trademark agent is suspended from practicing, or cancellation or revocation of the trademark agent registration is published.
+A trademark agent who violates the regulations governing the on-the-job training methods, course hours, or management measures on handling trademark related matters prescribed in Paragraph 4 of Article 6 shall be subject to actions in the form of a warning, a reprimand, suspension from practicing, or cancellation or revocation of the trademark agent registration and published in the Trademark Agent Register.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 99</條號>
     <條文內容><![CDATA[Right to sue of group other than juridical person
-An unrecognized foreign juridical person or group may file a complaint, initiate a private prosecution, or institute a civil suit in respect of matters governed by this Act. Same rights shall also be entitled by a domestic group which is not a juridical person and has acquired rights to a certification mark.]]></條文內容>
+An unrecognized foreign juridical person or group may file a complaint, initiate a private prosecution, or institute a civil suit in respect of matters governed by this Act. The same rights shall also be entitled by a domestic group that is not a juridical person and has acquired rights to a trademark or certification mark.]]></條文內容>
   </條文>
   <編章節>   Chapter V       Supplementary Provisions</編章節>
   <條文>
@@ -763,7 +777,7 @@ With respect to the trademark or mark which has been changed into an independent
   <條文>
     <條號>Article 104</條號>
     <條文內容><![CDATA[Trademark fees
-Any person who files an application for registration, renewal, entry of change, opposition, invalidation, revocation and any other proceedings under this Act shall pay the required fees of filing, registration, renewal, entry of change, opposition, invalidation and revocation.
+Any person who files an application for registration, renewal, accelerated examination, entry of change, opposition, invalidation, revocation and any other proceedings under this Act shall pay the required fees of filing, registration, accelerated examination, renewal, entry of change, opposition, invalidation and revocation.
 Standards of Trademark Fees referred to in the preceding paragraph shall be prescribed by the Competent Authority.]]></條文內容>
   </條文>
   <條文>
@@ -774,15 +788,13 @@ For those who chose to pay registration fees by two installments and already pai
   <條文>
     <條號>Article 106</條號>
     <條文內容><![CDATA[Transitional provisions for opposition and invalidation
-Registration of a trademark, against which an application for opposition or invalidation had been admitted but the disposition thereof had not been rendered prior to the enforcement of the articles of this Act amended on May 31, 2011, shall be cancelled only if such registration falls under the provisions of cancellation in effect both at the time of registration and after the enforcement of the amendment to this Act; the proceedings thereof shall follow the provisions in effect after the said enforcement. However, proceedings which had legally commenced prior to the said enforcement shall not be affected.
-Paragraph 2 and 3 of Article 57 shall not apply to an application for invalidation which had been admitted but the disposition thereof had not been rendered prior to the enforcement of the articles of this Act amended on May 31, 2011.
-A trademark, certification mark, or collective mark, which was registered prior to the enforcement of the articles of this Act amended on May 31, 2011 and against which an application for opposition or invalidation was filed or submitted in a proposal after the said enforcement, shall be cancelled only if such trademark or mark falls under provisions of cancellation in effect both at the time of registration and after the said enforcement.]]></條文內容>
+Registration of a trademark, against which an application for opposition or invalidation had been admitted but the disposition thereof had not been rendered prior to the enforcement of the articles of this Act amended on May 9, 2023, shall be cancelled only if such registration falls under the provisions of cancellation in effect both at the time of registration and after the enforcement of the amendment; the proceedings thereof shall follow the provisions in effect after the said enforcement. However, proceedings which had legally commenced prior to the said enforcement shall not be affected.
+A trademark, certification mark, or collective mark, which was registered prior to the enforcement of the articles of this Act amended on May 9, 2023 and against which an application for opposition or invalidation was filed or submitted in a proposal after the said enforcement, shall be cancelled only if such trademark or mark falls under provisions of cancellation in effect both at the time of registration and after the said enforcement.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 107</條號>
     <條文內容><![CDATA[Transitional provisions for revocation
-An application for revocation, of which the disposition had not been rendered prior to the enforcement of the articles of this Act amended on May 31, 2011, shall be processed pursuant to the provisions in effect after the said enforcement. However, proceedings that had legally commenced prior to the sais enforcement shall not be affected.
-Paragraph 2 of Article 57 applicable mutatis mutandis to Paragraph 2 of Article 67 shall not apply to an application for revocation which had been admitted but the disposition thereof had not been rendered prior to the enforcement of the articles of this Act amended on May 31, 2011.]]></條文內容>
+An application for revocation, of which the disposition had not been rendered prior to the enforcement of the articles of this Act amended on May 31, 2011, shall be processed pursuant to the provisions in effect after the said enforcement. However, proceedings that had legally commenced prior to the sais enforcement shall not be affected.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 108</條號>
@@ -794,6 +806,11 @@ In an application filed prior to the enforcement of the articles of this Act ame
     <條文內容><![CDATA[Special provisions for date of priority
 In an application filed to register a motion, hologram, or any combination thereof as a trademark with a priority claim, if the date of filing of the first such application in a country which has reciprocal recognition of priority rights with the ROC or with a member of the WTO was prior to the enforcement of the articles of this Act amended on May 31, 2011, the date of the said enforcement shall be deemed the priority date of such application.
 In an application filed with a claim of exhibition priority, if the date of the first display of goods or services under the trademark applied for, at an international exhibition which was held or officially recognized by the Government of the ROC, was prior to the enforcement of the articles of this Act amended on May 31, 2011, the date of the said enforcement shall be deemed the date of exhibition priority of such application.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 109-1</條號>
+    <條文內容><![CDATA[Any person who continuously handles not less than ten cases of trademark registration and other procedures annually during the period of three years preceding the date of the enforcement of the articles of this Act amended on May 9, 2023, may apply for registration as a trademark agent within a period of one year from the day following the date of the said enforcement.
+Any person who does not apply for registration as a trademark agent and does not have any qualification prescribed in Paragraph 2 of Article 6 shall not continuously handle trademark related matters, unless the represented cases have been admitted by the Registrar Office preceding the date of the enforcement of the articles of this Act amended on May 9, 2023, and the dispositions of such cases have not been rendered.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 110</條號>

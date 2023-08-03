@@ -1,16 +1,17 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulation of Bioavailability and Bioequivalence Studies</英文法規名稱>
+<英文法規名稱>Regulations of Bioavailability and Bioequivalence Studies</英文法規名稱>
 <中文法規名稱>藥品生體可用率及生體相等性試驗作業準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030065</法規網址>
-<最新英文異動日期>20200611</最新英文異動日期>
+<最新英文異動日期>20230427</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on April 02, 2009
 2.Amended on January 31, 2013
 3.Amended on March 6, 2014. Revised articles include Article 9, 11-14, 17, 18, 26. This amendment takes effect on January 1, 2016.
-4.Amended on June 11, 2020. Revised the name of regulation and Article 21.]]></沿革內容>
+4.Amended on June 11, 2020. Revised the name of regulation and Article 21.
+5.Promulgared by Ministry of Health and Welfare Order Bu-Shou-Shi Zi No. 1121401768, on April 27,2023.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -46,22 +47,19 @@ Applicants should provide a written statement that test drugs are indeed the reg
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[Bioavailability and bioequivalence studies should be performed for non-intravenous administrated drug products that cause systemic action under any of the following circumstance:
-1.Studies should be performed if requested by new drug application or the Regulation for Registration of Medicinal Products. However, studies can be waived with the approval of central competent health authority if the applicants have submitted relevant information for assessment.
-2.Studies should be performed for drugs not under pharmacovigilance that requested by the central competent health authority.
-All generic drugs with active ingredients under pharmacovigilance (include those pharmacovigilance period has expired) should submit bioequivalence study reports when applying for registration. However, submission of the study results could be waived with the approval of central competent health authority.]]></條文內容>
+    <條文內容><![CDATA[(Delete)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[Bioequivalent study can be waived if the drug product meet any of the following circumstance:
-1.Intravenous administrated injection product.
-2.Oral administrated generic drug with excipients that do not affect absorption of the active ingredient.
-3.Extravascular administrated injection product, i.e. the injectable solution of generic drug that have same pH value as compendia or brand products. Except for the preservatives and buffers, its formulation should be the same as the brand drugs.
-4.Drug products as inhaled gases or vapors.
-5.Generic drugs with topical uses that are not subcutaneously or intradermally absorbed.
-6.Ophthalmic and otic generic drugs.
-7.For same oral solid drug products with different strength applying for registration, or drug products with approved bioequivalence reports submitting for post-approval changes, the bioequivalence study can be replaced by dissolution profile comparisons if approved by the central competent health authority.
-8.Others that are approved by the central competent health authority according to information provided by the applicants.]]></條文內容>
+    <條文內容><![CDATA[Bioequivalence study may be waived if the drug product meets any of the following circumstances:
+1. For injection product that is administered as solution where has same pH value as that of reference product or the specifications set forth in the pharmacopoeia, and contain qualitative the same excipients, except preservatives, buffers and antioxidants, and the quantity of the excipients should be within 5% of the amount in the reference product.
+2. For orally administered product that is delivered in solution form, as well as the reference product, does not contain any excipient which may affect absorption of active ingredient(s).
+3. For orally administered product that is delivered in solution form contain excipient(s) that may affect absorption of active ingredient, these excipient(s) are qualitative the same and quantitative similar as reference product.
+4. Drug products as inhaled gases or vapors.
+5. Topical solution product for application to the skin where the composition of excipients are qualitative the same as the reference product, the quantity of these excipients should be within 5% of the amount in the reference product, and the quality attributes are similar to the reference product.
+6. Ophthalmic and otic generic drugs.
+7. For same oral solid drug products with different strength applying for registration, or drug products with approved bioequivalence reports submitting for post-approval changes, the bioequivalence study may be replaced by dissolution profile comparisons if approved by the central competent health authority.
+8. Others that are approved by the central competent health authority according to information provided by the applicants.]]></條文內容>
   </條文>
   <編章節>   Chapter II Bioavailability and bioequivalence studies</編章節>
   <條文>
@@ -111,7 +109,7 @@ Using assays measuring individual enantiomers of the drug is acceptable in bioav
 Healthy subjects should abstain from any medicines for at least two weeks before the study.
 Subjects should fast for at least 10 hours prior to administration of the drug except for a food-effect bioavailability or bioequivalence study. If Food Effect study is conducted, subjects should fast at least 10 hours before food intake.
 A standard meal should be provided no less than 4 hours after drug administration.
-In addition to the preceding Subparagraph 1, for immediate-release products, a single dose-fasting study should be conducted. In the case of the administration with food is recommended according to package insert of the reference/innovator products, a single dose-fed study should be conducted instead.
+In addition to the preceding Subparagraph 1, for immediate-release products, a single dose-fasting study should be conducted. In the case of the administration with food is recommended according to package insert of the reference/innovator products, a single dose-fed study should be conducted instead, unless otherwise justified.
 In addition to paragraph 1 in this article, for modified-release products, both single dose-fasting and single dose-fed studies should be conducted, unless otherwise justified.]]></條文內容>
   </條文>
   <條文>
