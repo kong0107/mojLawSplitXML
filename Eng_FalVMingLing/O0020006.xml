@@ -3,21 +3,17 @@
 <英文法規名稱>Standards for Air Pollutant Emission from Stationary Pollution Sources</英文法規名稱>
 <中文法規名稱>固定污染源空氣污染物排放標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020006</法規網址>
-<最新英文異動日期>20210629</最新英文異動日期>
+<最新英文異動日期>20230614</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
   <檔案>
-    <檔案名稱><![CDATA[Table 1.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006876</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Table 2.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006877</下載網址>
+    <檔案名稱><![CDATA[Table.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008038</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Article 3.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006878</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008006</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Article 7.PDF]]></檔案名稱>
@@ -40,15 +36,16 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001865</下載網址>
   </檔案>
 </附件>
-<沿革內容><![CDATA[1.Full text including 14 articles published by Environmental Protection Administration of Executive Yuan by order Huan Shu Kong-Zi No. 013459 dated April 10, 1992.
-2.Full text including 14 articles amended by Environmental Protection Administration of Executive Yuan by order Huan Shu Kong Zi No. 16668 dated April 20 1994.
-3.Article 1 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order (1999) Huan Shu Kong Zi No. 0039205 dated June 30 1999.
-4.Table under Article 2 and Article 12 amended and published by Environmental Protection Administration of Executive Yuan by order (2001) Huan Shu Kong Zi No. 0074780 dated December 19 2001.
-5.Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan Shu Kong Zi No. 0910038996 dated July 3 2002.
-6.Table under Article 2 amended and published by Environmental Protection Administration of Execu tive Yuan by order Huan Shu Kong Zi No. 0960068131 dated September 11 2007.
-7.Articles 2, 8, 9 and 14 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan Shu Kong Zi No. 0990119639 dated January 5 2011.
-8.Articles 2 Table 1 amended and published by Environmental Protection Administration of Executive Yuan by order Huan Shu Kong Zi No. 1020032301 dated April 25, 2012.
-9.Articles 3, 5, 8 and Table under Article 2 amended and published by Environ mental Protection Administration of Executive Yuan by order Huan Shu Kong Zi No. 1101079351 dated Jun 29, 2021.]]></沿革內容>
+<沿革內容><![CDATA[1.Full text including 14 articles published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 013459 dated April 10, 1992
+2.Full text including 14 articles amended by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 16668 dated April 20, 1994
+3.Article 1 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order (1999) Huan-Shu-Kong-Zi No. 0039205 dated June 30, 1999
+4.Table under Article 2 and Article 12 amended and published by Environmental Protection Administration of Executive Yuan by order (2001) Huan-Shu-Kong-Zi No. 0074780 dated December 19, 2001
+5.Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0910038996 dated July 3, 2002
+6.Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0960068131 dated September 11, 2007.
+7.Articles 2, 8, 9 and 14 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0990119639 dated January 5, 2011
+8.Articles 2 Table 1 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 1020032301 dated April 25, 2012
+9.Articles 3, 5, 8 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 1101079351 dated Jun 29, 2021
+10.Articles 2, 3 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 1121064054D dated Jun 14, 2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -57,38 +54,38 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[These Standards shall apply to newly established, modified, or existing stationary pollution sources (herein referred to as new pollution sources and existing pollution sources). The standards are listed in Table 1 and Table 2. However, separately established emissions standards for specially designated industry categories, areas, or facilities shall take priority over these Standards.]]></條文內容>
+    <條文內容><![CDATA[These Standards shall apply to new, modified, and existing stationary pollution sources (herein referred to as new pollution sources and existing pollution sources). The standards are listed in the Table. However, separately established emission standards for specially designated industry categories, areas, or facilities shall take priority over these Standards.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[Terms and Symbols used in these Standards are defined as follows:
-I.      “Peripheral boundary” means the boundary line marking the use or management of public or private premises.
-II.     “mg” means milligram, equivalent to 0.001 grams.
-III.    “μg” means microgram, equivalent to 0.001 milligrams.
-IV.     “K” means Kelvin absolute temperature scale, where K=273+°C.
-V.      “Nm3” means 273 degrees Kelvin (273 K) and a volume of one atmosphere per cubic meter.
-VI.     “ppm” means parts per million.
-VII.    “q” means the “highest permissible emissions quantity per unit time” of each pollutant from each emissions pipe unit in a single pollution source, measured in grams per second (g/s).
-VIII.   “a1” and “a2” mean the conversion constants for each pollutant.
-IX.     “k” means the diffusion coefficient for pollutant emissions, measured in grams per second per square meter (g/s‧m2).
-X.      “h” means the actual height of the outlet of the emissions pipe, measured in meters (m).
-XI.     “△h” means the height of smoke plume from the outlet of the emissions pipe, measured in meters (m).
-XII.    “he” means the effective height of outlet of emissions pipe he=h+△h, measured in meters (m).
-XIII.   “Qh” means the heat emissions rate from a emissions pipe exhaust, measured in calories per second (cal/s).
-XIV.    “Vs:” means emissions pipe outlet exhaust speed, measured in meters per second (m/s).
-XV.     “ds” means the internal diameter of the emissions pipe outlet, measured in meters per second (m).
-XVI.    “ρ” means exhaust density, measured in grams per liter (g/l).
-XVII.   “Cp” means specific heat at constant pressure from exhaust, measured in calories per gram degree Kelvin (cal/g‧K).
-XVIII.  “Ts” means exhaust temperature at the exhaust pipe outlet, measured in Kelvin (K).
-XIX.    “T” means ambient temperature surrounding the emissions pipe outlet, measured in degrees Kelvin (K).
-XX.     “U” means annual average wind speed at the height of the emissions pipe outlet, measured in meters per second (m/s)U   =U0  (h/10)0.2
-XXI.    “U” means average wind speeds at 10 meters high from the ground surface, measured in meters per second (m/s). These standards are based on an average wind speed of 3.5 meters per second (m/s) as the calculation reference standard.
-XXII.   “Q” means displacement that has either undergone calibration or does not need calibration, measured in cubic meters per minute (Nm3/min).
-XXIII.  “Qs” means the measured displacement derived from testing methods, measured in cubic meters per minute (Nm3/min).
-XXIV.   “C” means concentration of pollutant emissions that has either undergone calibration or does not need calibration, measured in ppm or mg /Nm3.
-XXV.    “Cs” means pollution emissions concentration based on testing methods, measured in ppm or mg /Nm3.
-XXVI.   “On” means standard percentage value of oxygen that is contained in exhaust, measured in %.
-XXVII.  “Os” means the actual testing value percentages of oxygen content in exhaust. If value exceeds 20%, then value shall be calculated as 20%.]]></條文內容>
+I. “Peripheral boundary” means the boundary line marking the use or management of public or private premises. II. “mg” means milligram, equivalent to 0.001 grams.
+III. “μg” means microgram, equivalent to 0.001 milligrams.
+IV. “K” means Kelvin absolute temperature scale, where K=273+°C.
+V. “Nm3” means a cubic meter of air at a temperature of 273 degrees Kelvin (273 K) and an atmospheric pressure of 1 bar ; “m3” means a cubic meter of air.
+VI. “ppm” means parts per million.
+VII. “q” means the “highest permissible emissions per unit time” of each pollutant from each stack unit in a single pollution source, measured in grams per second (g/s).
+VIII. “a1” and “a2” mean the conversion constants for each pollutant.
+IX. “k” means the diffusion coefficient for pollutant emissions, measured in grams per second per square meter (g/s‧m2).
+X. “h” means the actual height of the outlet of the stack, measured in meters (m).
+XI. “△h” means the height of smoke plume from the outlet of the stack, measured in meters (m).
+XII. “he” means the effective height of outlet of stack he=h+△h, measured in meters (m).
+XIII. “Qh” means the heat rate of exhaust from the stack, measured in calories per second (cal/s).
+XIV. “Vs” means the outlet exhaust speed of the stack, measured in meters per second (m/s).
+XV. “ds” means the internal diameter at the stackoutlet, measured in meters per second (m).
+XVI. “ρ” means exhaust density, measured in grams per liter (g/l).
+XVII. “Cp” means specific heat at constant pressure from exhaust, measured in calories per gram degree Kelvin (cal/g‧K).
+XVIII. “Ts” means exhaust temperature at the stack outlet, measured in Kelvin (K).
+XIX. “T” means ambient temperature surrounding the stack outlet, measured in degrees Kelvin (K).
+XX. “?” means annual average wind speed at the height of the stack outlet, measured in meters per second (m/s).? = ?0(h/10)0.2
+XXI. “?0” means average wind speeds at 10 meters high from the ground surface, measured in meters per second (m/s). These standards are based on an average wind speed of 3.5 meters per second (m/s) as the reference base of calculation.
+XXII. “Q” means exhaust volume that has been calibrated or does not need to be calibrated, measured in cubic meters per minute (Nm3/min).
+XXIII. “Qs” means the measured exhaust volume base on test method, measured in cubic meters per minute (Nm3/min).
+XXIV. “C” means pollutant concentration that has been calibrated or does not need to be calibrated, measured in ppm or mg/Nm3.
+XXV. “Cs” means the measured pollutant concentration based on test method, measured in ppm or mg/Nm3.
+XXVI. “On” means standard oxygen content in exhaust, measured in %.
+XXVII. “Os” means the actual measured oxygen content in exhaust. If value exceeds 20%, then value shall be calculated as 20%.
+XXVIII. “Determination the opacity of the plume by digital image“ means that the inspector determinate the opacity of exhaust from the stack outlet of stationary pollution sources by using digital image recording equipment and identification software in accordance with methods designated by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>

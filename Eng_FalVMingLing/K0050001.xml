@@ -3,7 +3,7 @@
 <英文法規名稱>Postal Act</英文法規名稱>
 <中文法規名稱>郵政法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0050001</法規網址>
-<最新英文異動日期>20181205</最新英文異動日期>
+<最新英文異動日期>20230628</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -29,7 +29,8 @@
 20. Amendment to Article 5 promulgated on May 16, 2001.
 21. Amendment to 49 articles in all  per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-09100138680 dated July 10, 2002.Implemented on January 1,2003 per Executive Yuan Decree No.Yuan-Tai-Jiiao-Zi-0910060323 dated December 5, 2002.
 22. Amendment to Article 10, 49 and deletion of Article 20 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-10000079381 dated April 27, 2011;and implemented from announcement date.
-23. Amendment to Article 4, 6, 14, 19, 29, 31, 40, deletion of Article 30, 46, and addtion of Article 5-1, 6-1 per Presidential Decree No.Hua-Zong-Yi-Jing-Zi-10700130971 dated December 5, 2018; and implemented from announcement date.]]></沿革內容>
+23. Amendment to Article 4, 6, 14, 19, 29, 31, 40, deletion of Article 30, 46, and addtion of Article 5-1, 6-1 per Presidential Decree No.Hua-Zong-Yi-Jing-Zi-10700130971 dated December 5, 2018; and implemented from announcement date.
+24. Amendment to Article 4 and addition of Article 35-1 and 35-2 per Presidential Decree No. Hua-Zong-Yi- Yi -Zi-11200054121 dated June 28, 2023; the date of implementation shall be stipulated by an order of the Executive Yuan.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter One General Principles</編章節>
@@ -56,7 +57,7 @@
 6. Document for the blind: This refers to a document printed with marks or protruding texts for blind people, which is delivered with the text “document for the blind” printed on its front cover. Audiotapes, sound recordings, recording lines and special papers for the blind should be regarded as documents for the blind if sent from or delivered to a registered school for the blind.
 7. Small packet: This refers to small article with a weight not exceeding 1kg, which is delivered to an addressee or designated address.
 8. Parcel: This refers to articles other than small packets, which are delivered to addressees or designated addresses.
-9. Mail items: This refers to documents or materials handed over to Chunghwa Post Co., Ltd for delivery, including correspondence mai , parcels or those items that are processed electronically or by other methods.
+9. Mail items: This refers to documents or materials handed over to Chunghwa Post Co., Ltd for delivery, including correspondence mail, parcels or those items that are processed electronically or by other methods.
 10. Basic postage: This refers the postage set by the competent authority, which is charged to correspondent mails delivered with the distance and weight at the first level.
 11. Delivery: This refers to the sending and receiving, sealing and dispatching, shipping, and delivering of documents or materials.
 12.Post office branches: Postal outlets of Chunghwa Post in locations around Taiwan that handle postal businesses.
@@ -66,7 +67,8 @@
 16. Postage stamps: Vouchers issued by Chunghwa Post that certify postage has been paid.
 17. Postal identity cards: Cards issued and sold by Chunghwa Post to verify the identification of the holder.
 18. International reply coupon: A coupon of monetary value that is sold and exchangeable for postage at post offices in member countries of the Universal Postal Union.
-19. All other postage paid symbols: Imprints of postage stamps on postcards, aerogrammes and letter sheets, or postage impressions made by postage meters or printers or in any other manner approved by postal regulations.]]></條文內容>
+19. All other postage paid symbols: Imprints of postage stamps on postcards, aerogrammes and letter sheets, or postage impressions made by postage meters or printers or in any other manner approved by postal regulations.
+20. Core Postal Information and Communication System: The information and communication system for deposit and remittance services that is necessary for the continuous operation of the deposit and remittance services of Chunghwa Post Co., Ltd. or that requires a high level of protection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
@@ -251,6 +253,24 @@ Where the sender or the addressee has inquired with regard to said mail item wit
     <條文內容><![CDATA[Once the amount of compensation is settled, notice must be given to the recipient of the claim. If not exercised, the recipient’s right of indemnity shall be extinguished five years from the date the notice is served.]]></條文內容>
   </條文>
   <編章節>   Chapter Five Penal Provisions</編章節>
+  <條文>
+    <條號>Article 35-1</條號>
+    <條文內容><![CDATA[Any person who endangers the normal operation of the Core Postal Information and Communication System by means of theft, destruction, or other illegal methods shall be sentenced to imprisonment for a term of not less than one year and not more than seven years, and may also be fined a maximum of NT$10 million.
+Any person who commits the aforesaid crime with the intent to endanger national security or social stability shall be sentenced to a term of imprisonment of not less than three years and not more than ten years, and may also be fined a maximum of NT$50 million.
+In the event that the circumstances described in the preceding two paragraphs cause damage to the stability of the financial market, the penalty shall be increased by up to one-half.
+Any attempt to commit an offense as specified in the first and second paragraphs shall be punishable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 35-2</條號>
+    <條文內容><![CDATA[Any person who endangers the normal operation of the Core Postal Information and Communication System by any of the following means shall be sentenced to imprisonment for a term not less than one year and not more than seven years, and may also be fined a maximum of NT$10 million:
+1. Invading the computer or related equipment by entering the password of the account, breaking the protection measures of the computer, or exploiting the loopholes of the computer system for no reason.
+2. Interfering with the computer or related equipment by computer programs or other electromagnetic means for no reason.
+3. Obtain, delete, or alter the electromagnetic records of the computer or related equipment for no reason.
+The same applies to those who create computer programs specifically for the perpetration of the aforesaid crimes for their own use or for the use of others.
+Any person who commits any crime specified in the preceding two paragraphs with the intent to endanger national security or social stability shall be sentenced to imprisonment for a term of not less than three years and not more than ten years, and may also be fined a maximum of NT$50 million.
+In the event that the circumstances described in the preceding three paragraphs cause damage to the stability of the financial market, the penalty shall be increased by up to one-half.
+Any attempt to commit an offense as specified in the first to the third paragraph shall be punishable.]]></條文內容>
+  </條文>
   <條文>
     <條號>Article 36</條號>
     <條文內容><![CDATA[Those who counterfeit or alter postal identity cards, international reply coupons or other marks showing payment of postage with the intention of using them shall be subject to a prison term of six months to five years, or in addition thereto a maximum fine of NT$30,000.
