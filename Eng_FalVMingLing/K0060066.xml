@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Telecommunications Numbers</英文法規名稱>
 <中文法規名稱>電信號碼管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060066</法規網址>
-<最新英文異動日期>20170216</最新英文異動日期>
+<最新英文異動日期>20230801</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -22,7 +22,8 @@
 4.The addition of the new Article3.1 are hereby promulgated on Jun 6, 2013, Tong Chuan Zi Ji No. 10243018550
 5.The amendments of Article 3-1 and the addition of the new Article3-2 are hereby promulgated on Jun 4, 2014, Tong Chuan Zi Ji No. 10343020750
 6.The amendments of Article 2 and the addition of the new Article 4-1 are hereby promulgated on Mar 5, 2015, Tong Chuan Zi Yuan No. 10443003810
-7.The amendments of 24 Articles in full are hereby promulgated on Feb 16, 2017, Tong Chuan Zi Yuan No. 10643003170]]></沿革內容>
+7.The amendments of 24 Articles in full are hereby promulgated on Feb 16, 2017, Tong Chuan Zi Yuan No. 10643003170
+8.Amended on August 1 ,2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -31,14 +32,14 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The Competent Authority, as referred to in these Regulations, is the National Communications Commission.]]></條文內容>
+    <條文內容><![CDATA[The Competent Authority, as referred to in these Regulations, is the Ministry of Digital Affairs.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[The terms used in these Regulations are defined as follows:
-1. Operator: refers to carriers that have been granted concessions or permissions and licenses of Type I telecommunications carriers or Type II telecommunications carriers by the Competent Authority.
-2. Planner: refers to those that have obtained Establishment Approvals for Type I telecommunications enterprises issued by the Competent Authority but have not obtained concessions licenses.
-3. Telecommunications number: refers to the ID codes, subscriber numbers and numbering code required to sustain normal operations of the public telecommunications network, including communications, identification, exchange and control.
+1. Operator: refers to carriers that have been granted concessions or permissions and licenses of Type I telecommunications carriers or Type II telecommunications carriers by the National Communications Commission.
+2. Planner: refers to those that have obtained Establishment Approvals for Type I telecommunications enterprises issued by the National Communications Commission but have not obtained concessions licenses.
+3. Telecommunications number: refers to the ID codes, subscriber numbers and numbering code required to sustain normal operations of the public telecommunications network, including communications, identification, exchange and control. 
 4. ID code: refers to the telecommunications number used in the public telecommunications network for identifying the network, routing or services.
 5. Subscriber number: refers to the telecommunications number used to provider subscribers with telecommunications services.
 6. Numbering code: refers to the number used to control the public telecommunications network routing and exchange information.
