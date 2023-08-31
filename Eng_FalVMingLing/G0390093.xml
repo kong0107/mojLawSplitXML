@@ -3,14 +3,14 @@
 <英文法規名稱>Regulations Governing Online Insurance Business and Online Insurance Services of Insurance Agent Companies and Insurance Broker Companies</英文法規名稱>
 <中文法規名稱>保險代理人公司保險經紀人公司辦理網路投保業務及網路保險服務管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390093</法規網址>
-<最新英文異動日期>20220517</最新英文異動日期>
+<最新英文異動日期>20230629</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on 24 October 2018 per Order No. Jin-Guan-Bao-Zong-Zi 10704566251 of the Financial Supervisory Commission
 2.Amended on 26 October 2020 per Order No. Jin-Guan-Bao-Zong-Zi 10904939561 of the Financial Supervisory Commission.
 3.Amended on 17 May 2022 per Order No. Jin-Guan-Bao-Zong-Zi 11104917151 of the Financial Supervisory Commission.
-
+4.Amended on 29 June 2023 per Order No. Jin-Guan-Bao-Zong-Zi 11204921382 of the Financial Supervisory Commission.
 ]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
@@ -58,15 +58,14 @@ The types and scope of insurance products that an insurance agent/broker company
     <條文內容><![CDATA[An insurance agent/broker company that conducts online insurance business or online insurance services shall provide one of the means below for customers with legal capacity to carry out registration and identity verification, and may not allow a customer to purchase insurance online or receive online insurance services until the customer has completed the registration and identity verification process:
 1.Online:
 (1)The legally required information that should be posted on the website section, webpage or mobile insurance app built by an insurance agent/broker company or its cross-industry partner includes but is not limited to declaration of consent to online insurance purchase or online insurance services and disclosure obligation pursuant to the Personal Information Protection Act (referred to as the “Personal Information Act”) for perusal by the customers, and may not proceed with the registration and identity verification until the customer has indicated that he/she has read the disclosure and consented to online insurance purchase or online insurance services.
-(2)When a customer undergoes registration and identity verification, the customer should be required to fill out basic information that is sufficient to verify his/her identity and given an account number through the identity verification process. However, with customer consent, an agent/broker company may carry out customer registration and identity verification by one of the means below:
-A.Through the online banking account (only if the account is opened by customer at the bank counter in person) or digital deposit account (only if the account is a type 1 account that applies to high-risk electronic transfer of funds and transaction instruction) of the same customer at a banking subsidiary of the same financial holding company that the insurance agent/broker company belongs to.
-B. Through the member account of the cross-industry partner.
-(3)After a customer has completed the registration and identity verification process, the insurance agent/broker company should send the customer a one-time password (OTP) to the customer’s mobile phone or email address and ask the customer to enter the OTP to complete identity confirmation.
-2.In person:
+(2)When a customer undergoes registration and identity verification, the customer should be required to fill out basic information that is sufficient to verify his/her identity and given an account number through the identity verification process. However, with customer consent, an agent/broker company may carry out customer registration and identity verification through the customer’s online banking account (only if the account is opened by customer at the bank counter in person) or digital deposit account (only if the account is a type 1 account that applies to high-risk electronic transfer of funds and transaction instruction).
+(3)After a customer has completed the registration and identity verification process, the insurance agent/broker company should verify the customer’s identity by means of one-time password (OTP), mobile ID or Fido (Fast Identity Online) and guide the customer to complete identity confirmation.
+2. In person:
 (1)A customer may visit the business place of an insurance agent/broker company or its branches in person to apply for online insurance or service.
 (2)The insurance agent/broker company should provide the customer with legally required information in writing or in another verifiable manner, including but not limited to declaration of consent to online insurance purchase or online insurance services and disclosure obligation pursuant to the Personal Information Act for perusal and signing by the customers to complete the registration and identity verification process.
 (3)The customer should provide basic personal data that is sufficient to verify his/her identity.
-For a customer who has completed the identity verification process under the preceding paragraph and obtained the account password but has not negotiated any insurance contract with or requested insurance service from an insurance company through the insurance agent/broker company in five (5) years after completing the application, the customer may not use the account password to purchase insurance online or request online insurance service until he/she completes the identity verification process under the preceding paragraph again.]]></條文內容>
+For a customer who has completed the identity verification process under the preceding paragraph and obtained the account password but has not negotiated any insurance contract with or requested insurance service from an insurance company through the insurance agent/broker company in five (5) years after completing the application, the customer may not use the account password to purchase insurance online or request online insurance service until he/she completes the identity verification process under the preceding paragraph again.
+An insurance agent/broker company that conducts online insurance business and carries out registration and identity verification using methods described in Subparagraph 1 of Paragraph 1 hereof may, with customer consent, also use the member account of the cross-industry partner.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
@@ -82,7 +81,7 @@ After adopting an automated signatory system, an insurance agent/broker company 
     <條文內容><![CDATA[An insurance agent/broker company that conducts online insurance business shall comply with the following:
 (1)The insurance agent/broker company should provide on its website section, webpage or mobile insurance app or those built by its cross-industry partner a description of all insurance products that may be purchased online and the policy clauses for browsing by consumers at any time.
 (2)After a consumer has entered application data and selected the insurance product to be purchased, the insurance agent/broker company should prompt on its website section, webpage or mobile insurance app or those built by its cross-industry partner the full text of insurance policy and important content of the insurance product selected for perusal and agreement by the consumer.
-(3)Purchase and identity verification operation: Before the applicant sends the purchase confirmation, the insurance agent/broker company should send an OTP to the applicant’s mobile phone or email address and ask the customer to enter the OTP to complete identity confirmation before completing the whole purchase operation.
+(3)Purchase and identity verification operation: Before the applicant sends the purchase confirmation, the insurance agent/broker company should verify the applicant’s identity by means of one-time password (OTP), mobile ID or Fido (Fast Identity Online) and guide the applicant to complete identity confirmation before completing the whole purchase operation.
 (4)When an insurance agent/broker company handles the online purchase of a personal insurance product where the applicant and the insured are not the same person and the applicant registers with his/her Citizen Digital Certificate, the insured shall declare his/her intent (consent) using the Citizen Digital Certificate only. The insurance agent/broker company shall also post on its website section, webpage or mobile insurance app or those built by its cross-industry partner in a conspicuous manner a reminder that the relationship between the applicant and the insured must comply with Article 16 of the Insurance Act.
 For personal insurance products that are investment-linked annuities, an insurance agent/broker company shall implement the following controls and support operations on its website section, webpage or mobile insurance app:
 1.Prompt and inform product features and associated risks; in addition, when a consumer applies to purchase such a product, confirm consumer’s understanding of associated risks and consumer’s intent to purchase the product.

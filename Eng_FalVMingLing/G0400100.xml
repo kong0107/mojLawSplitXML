@@ -3,7 +3,7 @@
 <英文法規名稱>Futures Trading Act</英文法規名稱>
 <中文法規名稱>期貨交易法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400100</法規網址>
-<最新英文異動日期>20190116</最新英文異動日期>
+<最新英文異動日期>20230628</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -16,7 +16,7 @@
 6. Article 113 amended and promulgated per 14 June 2017 Presidential Order No. ROC-President-I-Yi-10600073291
 7. Article 5-1 added and promulgated per 31 January 2018 Presidential Order No. ROC-President-I-Yi-10700009751
 8. Articles 3, 28, 35, 37, 49, 84, 97-1, 100, 109, 111, 116, and 119 amended and promulgated per 16 January 2019 Presidential Order No. ROC-President-I-Jing-10800002771
-]]></沿革內容>
+9. Articles 112-1 and 112-2 added and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200053961]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -819,21 +819,39 @@ A person shall be punished with imprisonment for a period not exceeding seven ye
 6. the violation of the provision of Paragraph 1 of Article 84 by any futures trust enterprise in raising a futures trust fund; or]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 112-1</條號>
+    <條文內容><![CDATA[A person who endangers, through the employment of theft, damage, or other illegal means, the normal operation of equipment functions of a core information and communication system of a futures exchange or a futures clearing house shall be sentenced to imprisonment for not less than one year and not more than seven years; in addition thereto, a criminal fine of not more than NT$10 million may be imposed.
+A person who intends to endanger national security or social stability and commits an offense under the preceding paragraph shall be sentenced to imprisonment for not less than three years and not more than ten years; in addition thereto, a criminal fine of not more than NT$50 million may be imposed.
+If an offense under either of the preceding two paragraphs seriously affects the futures market order, the punishment shall be increased by one-half.
+An attempt to commit an offense specified in paragraph 1 or paragraph 2 is punishable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 112-2</條號>
+    <條文內容><![CDATA[A person who endangers the normal operation of equipment functions of a core information and communication system of a futures exchange or a futures clearing house by any of the following means shall be sentenced to imprisonment for not less than one year and not more than seven years; in addition thereto, a criminal fine of not more than NT$10 million may be imposed:
+1. Without cause, gains access to its computer or related equipment by entering its account password, cracking the protective measures for using the computer, or exploiting any vulnerability of the computer system.
+2. Without cause, interferes, through the use of computer programs or other electromagnetic methods, with its computer or related equipment.
+3. Without cause, obtains, deletes, or alters any magnetic record of its computer or related equipment.
+A person who makes computer programs specifically for himself or another to commit any offense specified in the preceding paragraph is also subject to the penalty provisions thereof.
+A person who intends to endanger national security or social stability and commits any offense under the preceding two paragraphs shall be sentenced to imprisonment for not less than three years and not more than ten years; in addition thereto, a criminal fine of not more than NT$50 million may be imposed.
+If an offense under any of the preceding three paragraphs seriously affects the futures market order, the punishment shall be increased by one-half.
+An attempt to commit an offense specified in paragraph 1 to paragraph 3 is punishable.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 113</條號>
     <條文內容><![CDATA[(Penal Provisions)
-Any director, supervisor, manager, mandatary, or employee of a futures exchange, futures clearing house, or futures trust enterprise who demands, agrees to accept, or receives any illegitimate profit in connection with the performance of his duty shall be punished with imprisonment for a period not exceeding five years, detention, or in addition thereto a criminal fine of not more than NT$2.4 million
-Any person referred to in the preceding Paragraph who demands, agrees to accept, or receives any illegitimate profits for actions in contravention of his duty, shall be punished with imprisonment for a period not exceeding seven years, detention, and/or a criminal fine of not more than NT$3 million]]></條文內容>
+Any director, supervisor, manager, mandatary, or employee of a futures exchange, futures clearing house, or futures trust enterprise who demands, agrees to accept, or receives any illegitimate profit in connection with the performance of his duty shall be punished with imprisonment for a period not exceeding five years, short-term imprisonment, or in addition thereto a criminal fine of not more than NT$2.4 million.
+Any person referred to in the preceding Paragraph who demands, agrees to accept, or receives any illegitimate profits for actions in contravention of his duty, shall be punished with imprisonment for a period not exceeding seven years, short-term imprisonment, and/or a criminal fine of not more than NT$3 million.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 114</條號>
     <條文內容><![CDATA[(Penal Provisions)
-Any person who offers, promises, or delivers illegitimate profit to any person who acts in contradiction to his duty as specified in the preceding Article shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine not exceeding NT$2 million.
+Any person who offers, promises, or delivers illegitimate profit to any person who acts in contradiction to his duty as specified in the preceding Article shall be punished with imprisonment for a period not exceeding three years, short-term imprisonment, and/or a criminal fine not exceeding NT$2 million.
 The punishment of the offense specified in the preceding Paragraph may be pardoned if the offender voluntarily surrenders himself to the law enforcement authorities.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 115</條號>
     <條文內容><![CDATA[(Penal Provisions)
-A person shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine of not more than NT$2.4 million for any of the following offenses:
+A person shall be punished with imprisonment for a period not exceeding three years, short-term imprisonment, and/or a criminal fine of not more than NT$2.4 million for any of the following offenses:
 1. making false representation or omission in the contents of the application materials required under Paragraph 1 of Article 8, Paragraph 1 of Article 45, Paragraphs 2 to 4 of Article 56, Paragraphs 2 and 3 of Article 80, Paragraphs 1 and 2 of Article 82, and Paragraph 1 of Article 84;
 2. the violation of the provisions of Article 71;
 3. the violation of Article 81 mutatis mutandis applying Article 71 thereunder by a leverage transaction merchant;
@@ -843,7 +861,7 @@ A person shall be punished with imprisonment for a period not exceeding three ye
   <條文>
     <條號>Article 116</條號>
     <條文內容><![CDATA[(Penal Provisions)
-A person shall be punished with imprisonment for a period not exceeding three years, detention, and/or a criminal fine of not more than NT$2.4 million for any of the following offenses:
+A person shall be punished with imprisonment for a period not exceeding three years, short-term imprisonment, and/or a criminal fine of not more than NT$2.4 million for any of the following offenses:
 1. the violation of Paragraph 2 of Article 13, except where the provider does not know that it is an illegal futures exchange or is engaging in illegal futures exchange business;
 2. the violation of Article 63;
 3. the violation of Article 81 mutatis mutandis applying Article 63 thereunder by the responsible person, associated person, or any other employees of a leverage transaction merchant; or
@@ -852,7 +870,7 @@ A person shall be punished with imprisonment for a period not exceeding three ye
   <條文>
     <條號>Article 117</條號>
     <條文內容><![CDATA[(Penal Provisions)
-A person shall be punished with imprisonment for a period not exceeding one year, detention, and/or a criminal fine of not more than NT$1.8 million for any of the following offenses:
+A person shall be punished with imprisonment for a period not exceeding one year, short-term imprisonment, and/or a criminal fine of not more than NT$1.8 million for any of the following offenses:
 1. the violation of the provisions of Article 12, Article 19, or Article 29; or
 2. the violation of Article 55 mutatis mutandis applying Article 19 or Article 29 thereunder by a futures clearing house.]]></條文內容>
   </條文>
