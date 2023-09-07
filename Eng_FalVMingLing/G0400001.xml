@@ -3,7 +3,7 @@
 <英文法規名稱>Securities and Exchange Act</英文法規名稱>
 <中文法規名稱>證券交易法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400001</法規網址>
-<最新英文異動日期>20230510</最新英文異動日期>
+<最新英文異動日期>20230628</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -38,7 +38,9 @@
 28. Article 14 amended and promulgated per 19 May 2020 Presidential Order Hua-Zong-I-Jing-10900053581
 29. Article 54 amended and promulgated per 27 January 2021 Presidential Order No. Hua-Zong-I-Jing-11000006091
 30. Article 22-1 amended and promulgated per 30 November 2022 Presidential Order No. Hua-Zong-I-Jing-11100101161
-31. Articles 43-1, 178-1, and 183 amended and promulgated per 10 May 2023 Presidential Order No. Hua-Zong-I-Jing-11200038321; for enforcement from the date of promulgation, with the exception of Article 43-1, which will be enforced from 1 year after promulgation]]></沿革內容>
+31. Articles 43-1, 178-1, and 183 amended and promulgated per 10 May 2023 Presidential Order No. Hua-Zong-I-Jing-11200038321; for enforcement from the date of promulgation, with the exception of Article 43-1, which will be enforced from 1 year after promulgation
+32. Articles 174-3 and 174-4 added and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200054041
+    Articles 14-4, 14-5, 178, and 181-2 amended and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200054051]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -157,11 +159,11 @@ When a company has selected independent directors as set forth in paragraph 1 of
   <條文>
     <條號>Article 14-4</條號>
     <條文內容><![CDATA[(Appointment of Audit Committee or Supervisors)
-A company that has issued stock in accordance with this Act shall establish either an audit committee or a supervisor. The Competent Authority may, however, in view of the company's scale, type of operations, or other essential considerations, order it to establish an audit committee in lieu of a supervisor; the relevant regulations shall be prescribed by the Competent Authority.
+A company that has issued stock in accordance with this Act shall establish either an audit committee or a supervisor. However, a company that falls within the conditions set by the Competent Authority based on company scale, type of operations, or other essential considerations shall establish an audit committee in lieu of a supervisor.
 The audit committee shall be composed of the entire number of independent directors. It shall not be fewer than three persons in number, one of whom shall be convener, and at least one of whom shall have accounting or financial expertise.
 For a company that has established an audit committee, the provisions regarding supervisors in this Act, the Company Act, and other laws and regulations shall apply mutatis mutandis to the audit committee.
-The following provisions of the Company Act shall apply mutatis mutandis with regard to independent directors who are members of the audit committee: Article 200; Articles 213 - 215; Article 216, paragraphs 1, 3, and 4; Article 218, paragraphs 1 and 2; Article 218-1; Article 218-2, paragraph 2; Article 220; Articles 223 - 226; the proviso of Article 227; and Article 245, paragraph 2.
-Regulations governing exercise by the audit committee and its independent director members of the powers set out in the preceding two paragraphs, and matters related thereto, shall be prescribed by the Competent Authority.
+The following provisions of the Company Act shall apply mutatis mutandis with regard to independent directors who are members of the audit committee: Article 200; Article 216, paragraphs 1, 3, and 4; Article 218, paragraphs 1 and 2; Article 218-1; Article 218-2, paragraph 2; Articles 224 - 226; and Article 245, paragraph 2. The provisions of Article 214, Article 215, and the proviso of Article 227 of the Company Act shall apply mutatis mutandis with regard to litigation brought against independent directors.
+Regulations governing the exercise by the audit committee and its independent director members of the powers set out in the preceding two paragraphs, and the operation procedures, matters to be recorded in the meeting minutes, and other matters related thereto, shall be prescribed by the Competent Authority.
 A resolution of the audit committee shall have the concurrence of one-half or more of all members.]]></條文內容>
   </條文>
   <條文>
@@ -180,8 +182,9 @@ For a company that has issued stock in accordance with this Act and established 
 10. Annual financial reports and second quarter financial reports that must be audited and attested by a CPA, which are signed or sealed by the chairperson, managerial officer, and accounting officer.
 11. Any other material matter so required by the company or the Competent Authority.
 With the exception of subparagraph 10, any matter under a subparagraph of the preceding paragraph that has not been approved with the consent of one-half or more of all audit committee members may be undertaken upon the consent of two-thirds or more of all directors, without regard to the restrictions of the preceding paragraph, and the resolution of the audit committee shall be recorded in the minutes of the directors meeting.
+If for good cause it is impossible to hold a meeting of the audit committee, the matters in the subparagraphs of paragraph 1 shall be adopted with the consent of two-thirds or more of all directors. However, the matters in paragraph 1, subparagraph 10 shall still require the opinion of the independent directors indicating their consent.
 A company that has established an audit committee is not subject to the provisions of Article 36-1 requiring that its financial reports be recognized by a supervisor.
-"All audit committee members" as used in paragraph 1 and the preceding article's paragraph 6, and "all directors" as used in paragraph 2, shall mean the actual number of persons currently holding those positions.]]></條文內容>
+"All audit committee members" and "all directors" as used in paragraph 1 to paragraph 3 and the preceding article shall mean the actual number of persons currently holding those positions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14-6</條號>
@@ -1494,6 +1497,24 @@ The provisions of the preceding 6 paragraphs shall apply to the directors, super
     <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 174-3</條號>
+    <條文內容><![CDATA[A person who endangers, through the employment of theft, damage, or other illegal means, the normal operation of equipment functions of a core information and communication system of a stock exchange, an over-the-counter securities exchange, or a securities central depository enterprise shall be sentenced to imprisonment for not less than one year and not more than seven years; in addition thereto, a criminal fine of not more than NT$10 million may be imposed.
+A person who intends to endanger national security or social stability and commits an offense under the preceding paragraph shall be sentenced to imprisonment for not less than three years and not more than ten years; in addition thereto, a criminal fine of not more than NT$50 million may be imposed.
+If an offense under either of the preceding two paragraphs harms the stability of the securities market, the punishment shall be increased by one-half.
+An attempt to commit an offense specified in paragraph 1 or paragraph 2 is punishable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 174-4</條號>
+    <條文內容><![CDATA[A person who endangers the normal operation of equipment functions of a core information and communication system of a stock exchange, an over-the-counter securities exchange, or a securities central depository enterprise by any of the following means shall be sentenced to imprisonment for not less than one year and not more than seven years; in addition thereto, a criminal fine of not more than NT$10 million may be imposed:
+1. Without cause, gains access to its computer or related equipment by entering its account password, cracking the protective measures for using the computer, or exploiting any vulnerability of the computer system.
+2. Without cause, interferes, through the use of computer programs or other electromagnetic methods, with its computer or related equipment.
+3. Without cause, obtains, deletes, or alters any magnetic record of its computer or related equipment.
+A person who makes computer programs specifically for himself or another to commit any offense specified in the preceding paragraph is also subject to the penalty provisions thereof.
+A person who intends to endanger national security or social stability and commits any offense under the preceding two paragraphs shall be sentenced to imprisonment for not less than three years and not more than ten years; in addition thereto, a criminal fine of not more than NT$50 million may be imposed.
+If an offense under any of the preceding three paragraphs harms the stability of the securities market, the punishment shall be increased by one-half.
+An attempt to commit an offense specified in paragraph 1 to paragraph 3 is punishable.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 175</條號>
     <條文內容><![CDATA[(Penal Provisions)
 A person who violates the provisions of paragraph 1 of Article 18, A paragraph 1 of Article 28-2, paragraph 1 of Article 43, paragraph 3 of Article 43-1, paragraphs 2 and 3 of Article 43-5, paragraph 1 of Article 43-6, paragraphs 1 through 3 of Article 44, paragraph 1 of Article 60, paragraph 1 of Article 62, Article 93, Articles 96 through 98, Article 116, Article 120, or Article 160 shall be punished with imprisonment for not more than two years, detention, and/or a fine of not more than NT$1.8 million.
@@ -1519,7 +1540,7 @@ A securities firm that violates the provisions of Article 74 or Article 84 shall
     <條文內容><![CDATA[(Penal Provisions)
 A person who commits any of the following violations shall be punished with an administrative fine of not less than NT$240,000 and not more than NT$4.8 million, and the Competent Authority may order the person to correct the violation within a prescribed period; if the person fails to make the correction within the prescribed period, consecutive fines may be imposed:
 1. Violation of the provisions of Article 22-2, paragraph 1 or 2, Article 26-1, or Article 22-2, paragraph 1 or 2 as applied mutatis mutandis under Article 165-1.
-2. Violation of the provisions of Article 14, paragraph 3, Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3, or 6, Article 14-3, Article 14-5, paragraph 1 or 2, Article 21-1, paragraph 5, Article 25, paragraph 1, 2, or 4, Article 31, paragraph 1, Article 36, paragraph 5 or 7, Article 41, Article 43-1, paragraph 1, Article 43-4, paragraph 1, or Article 43-6, paragraphs 5 to 7; or Article 14, paragraph 3, Article 31, paragraph 1, Article 36, paragraph 5, or Article 43-4, paragraph 1 as applied mutatis mutandis under Article 165-1 or 165-2; or Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3 or 6, Article 14-3, Article 14-5, paragraph 1 or 2, Article 25, paragraph 1, 2, or 4, Article 36, paragraph 7, Article 41, Article 43-1, paragraph 1, Article 43-6, paragraphs 5 to 7, as applied mutatis mutandis under Article 165-1.
+2. Violation of the provisions of Article 14, paragraph 3, Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3, or 6, Article 14-3, Article 14-5, paragraphs 1 to 3, Article 21-1, paragraph 5, Article 25, paragraph 1, 2, or 4, Article 31, paragraph 1, Article 36, paragraph 5 or 7, Article 41, Article 43-1, paragraph 1, Article 43-4, paragraph 1, or Article 43-6, paragraphs 5 to 7; or Article 14, paragraph 3, Article 31, paragraph 1, Article 36, paragraph 5, or Article 43-4, paragraph 1 as applied mutatis mutandis under Article 165-1 or 165-2; or Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3 or 6, Article 14-3, Article 14-5, paragraphs 1 to 3, Article 25, paragraph 1, 2, or 4, Article 36, paragraph 7, Article 41, Article 43-1, paragraph 1, Article 43-6, paragraphs 5 to 7, as applied mutatis mutandis under Article 165-1.
 3. An issuer or public tender offeror or a related party thereof or a principal of a securities firm fails to submit account books, forms/statements, documents, or other reference or report materials within the time period specified in this Act or in an order issued by the Competent Authority pursuant to this Act, or any of the above parties evades, impedes, or refuses an examination carried out by the Competent Authority.
 4. If any issuer or public tender offeror fails to comply with relevant regulations in the preparation, submission, public announcement, maintenance, or storage of the account books, forms/statements, vouchers, financial reports or other relevant business documents as required by this Act, or as required by orders issued by the Competent Authority pursuant to this Act.
 5. Violation of Article 14-4, paragraph 1 or 2, or of Article 14-4, paragraph 1 or 2 as applied mutatis mutandis under Article 165-1; or violation of the provisions of the regulations adopted pursuant to Article 14-4 paragraph 5, or adopted pursuant to that paragraph as applied mutatis mutandis under Article 165-1, governing procedures, exercise of powers, or matters to be recorded in the meeting minutes.
@@ -1575,7 +1596,7 @@ A court may establish a specialized division or designate a specific person(s) t
   <條文>
     <條號>Article 181-2</條號>
     <條文內容><![CDATA[(Time of Application)
-A requirement by the Competent Authority for the establishment of independent directors pursuant to the proviso of Article 14-2, paragraph 1, or its ordering of the establishment of an audit committee pursuant to the proviso of Article 14-4, paragraph 1, or the ipso facto dismissal of a director or supervisor pursuant to Article 26-3, paragraph 6 during the enforcement of Article 26-3 may be applied from the time of expiration of the term currently being served by the directors or supervisors.]]></條文內容>
+A requirement by the Competent Authority for the establishment of independent directors pursuant to the proviso of Article 14-2, paragraph 1, the establishment of an audit committee pursuant to the proviso of Article 14-4, paragraph 1, or the ipso facto dismissal of a director or supervisor pursuant to Article 26-3, paragraph 6 during the enforcement of Article 26-3 may be applied from the time of expiration of the term currently being served by the directors or supervisors.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 182</條號>

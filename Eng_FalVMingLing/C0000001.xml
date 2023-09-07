@@ -3,7 +3,7 @@
 <英文法規名稱>Criminal Code of the Republic of China</英文法規名稱>
 <中文法規名稱>中華民國刑法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=C0000001</法規網址>
-<最新英文異動日期>20220218</最新英文異動日期>
+<最新英文異動日期>20230531</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -58,7 +58,9 @@
 46.Deletion of Article 239；amendment to Article 245 promulgated on June 16, 2021
 47.Amendment to Article 78、79、140、141、266 promulgated on January 12, 2022
 48.Amendment to Article 185-3 promulgated on January 28, 2022
-49.Amendment to Article 87、98 promulgated on February 18, 2022]]></沿革內容>
+49.Amendment to Article 87、98 promulgated on February 18, 2022
+50.Amendment to Articles 10,91-1 ; addition of Articles 319-1,319-2, 319-3,319-4,319-5,319-6 and Chapter 28-1 promulgated on February 8,2023
+51.Amendment to Articles 303,339-4 ; addition of Articles 302-1 promulgated on May 31, 2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>Part 1 General Provisions</編章節>
@@ -124,17 +126,22 @@ The term “public official” means the following persons:
 2. Those who, entrusted by an organ of the state or a local autonomous body, are engaged in the public affairs within the authority of the entrusting organization.
 The term “official document” means a document made by a public official in the course of his duty.
 The term “serious physical injury” means one of the following listed injuries:
-1. Destruction of or seriously damage to the sight of one eye or both eyes.
-2. Destruction of or serious damage to the hearing of one eye or both ears.
-3. Destruction of or serious damage to the function of speech, taste, or smell.
-4. Destruction of or serious damage to the function of one limb or more limbs.
-5. Destruction of or serious damage to the function of reproduction.
-6. Other serious injury to body or to health that is either impossible or difficult to cure (is either not or unlikely curable).
+1.Destruction of or seriously damage to the sight of one eye or both eyes.
+2.Destruction of or serious damage to the hearing of one eye or both ears.
+3.Destruction of or serious damage to the function of speech, taste, or smell.
+4.Destruction of or serious damage to the function of one limb or more limbs.
+5.Destruction of or serious damage to the function of reproduction.
+6.Other serious injury to body or to health that is either impossible or difficult to cure (is either not or unlikely curable).
 The term “sexual intercourse” means the following listed sexual acts that are not based on rightful purposes:
-1. Insertion of a reproductive organ into the reproductive organ, anus or mouth of another person or an act of making them connected.
-2. Insertion of a body part or an object other than a reproductive organ into the reproductive organ or anus of another person or an act of making them connected.
+1.Insertion of a reproductive organ into the reproductive organ, anus or mouth of another person or an act of making them connected.
+2.Insertion of a body part or an object other than a reproductive organ into the reproductive organ or anus of another person or an act of making them connected.
 The term “electromagnetic recording” means records for computer processing made through the use of electronic, magnetic, optical or other similar means.
-The term “abuse” means any act of abuse or maltreatment of another person in a violent, coercive or inhumane way.]]></條文內容>
+The term “abuse” means any act of abuse or maltreatment of another person in a violent, coercive or inhumane way.
+The term “sexual image” means any image or electromagnetic record that has the contents prescribed in any of the following Subparagraphs:
+1.Acts prescribed in Subparagraphs 1 or 2 of Paragraph 5.
+2.Genitals or private parts of the body that are able to objectively arouse sexual desire or shame.
+3.Acts that are able to objectively arouse sexual desire or shame by touching the part prescribed in the preceding paragraph with the body or utensils.
+4.Other sex-related acts that are able to objectively arouse sexual desire or shame.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -691,9 +698,12 @@ The court may allow an extension of compulsory labor before the period of execut
   <條文>
     <條號>Article 91-1</條號>
     <條文內容><![CDATA[Any person committing an offense specified in Articles 221 to 227, 228, 229 , 230, 234, item 2 of paragraph 2 of Article 332, item 2 of Article 334, and item 1of paragraph 2 of Article 348 and its special laws and has one of the following conditions may be ordered to a suitable establishment for compulsory treatment:
-1. To be found through appraisal and evaluation during the period of receiving counseling or cure and before the expiration of the execution as having the danger of committing the offense again.
-2. To be found through appraisal and evaluation while receiving physical and mental cure or counseling education under the provisions of other separate law as having the danger of committing the offense again.
-During the period of the execution specified in the preceding paragraph, appraisal and evaluation shall be performed annually until the danger of recommitting the offense has been remarkably reduced to see whether it is necessary to stop the cure.]]></條文內容>
+1.To be found through appraisal and evaluation during the period of receiving counseling or cure and before the expiration of the execution as having the danger of committing the offense again.
+2.To be found through appraisal and evaluation while receiving physical and mental cure or counseling education under the provisions of other separate law as having the danger of committing the offense again.
+The period of execution prescribed in the preceding paragraph shall be five years utmost; and before the expiration of the execution period, the prosecutor, if deeming it necessary to extend, may apply to the court for permission to extend such period. The first extension period shall be three years utmost, and the second and subsequent extension periods shall be one year utmost, respectively. However, if it is deemed unnecessary to continue the execution period, the court may suspend the execution of the treatment.
+If one of the circumstances prescribed in paragraph 1 occurs after the execution of the treatment is suspended, the court may issue the order of attending any suitable premise to continue the compulsory treatment.
+The period of compulsory treatment prescribed in the preceding paragraph shall be calculated altogether with the period already executed before the suspension of treatment.
+During the execution or extension period prescribed in the three paragraphs above, it shall be assessed and evaluated annually to determine whether it is necessary to continue the treatment.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 92</條號>
@@ -1909,8 +1919,19 @@ If death results from the commission of the offense, the offender shall be sente
 An attempt to commit an offense specified in paragraph 1 is punishable.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 302-1</條號>
+    <條文內容><![CDATA[A person who commits the offense prescribed in paragraph 1 of the preceding Article under any of the following circumstances shall be sentenced to an imprisonment for not less one year but not more than seven years, and may also be fined not more than one million dollars:
+1.Offense committed by three or more persons.
+2.Offense committed by carrying weapons.
+3.Offense against a mentally, physically or otherwise handicapped person.
+4.Abuse against the victim.
+5.Depriving the victim of freedom of movement for seven days or more.
+A person who causes death shall be sentenced to life imprisonment or an imprisonment of not less than ten years; anyone who causes severe injuries shall be sentenced to an imprisonment for not less five years but not more than twelve years.
+An attempt to commit an offense specified in subparagraphs 1 to 4 of paragraph 1 is punishable.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 303</條號>
-    <條文內容><![CDATA[A person who commits an offense specified in paragraph 1 or 2 of the preceding article against his lineal blood ascendant shall be subject to the punishment prescribed for such an offense by increasing it up to one half.]]></條文內容>
+    <條文內容><![CDATA[A person who commits an offense specified in paragraph 1 or 2 of the preceding two Articles against his lineal blood ascendant shall be subject to the punishment prescribed for such an offense by increasing it up to one half.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 304</條號>
@@ -2014,6 +2035,43 @@ An attempt to commit an offense specified in the three preceding paragraphs is p
   <條文>
     <條號>Article 319</條號>
     <條文內容><![CDATA[Prosecution for an offense specified in Articles 315, 315-1, and 316 through 318-2 may be instituted only upon complaint.]]></條文內容>
+  </條文>
+  <編章節>   Chapter 28-1 Offense against Sexual Privacy and Synthetic Sexual Videos</編章節>
+  <條文>
+    <條號>Article 319-1</條號>
+    <條文內容><![CDATA[A person who takes photos, videos, electromagnetic records, or use other technological means to record sexual images of the victims without consent shall be sentenced to an imprisonment of not more than three years.
+A person who intends to make profits by providing premises, tools or equipment to facilitate others to perform the acts prescribed in the preceding paragraph shall be sentenced to an imprisonment of not more than five years and may also be fined not more than five hundred thousand dollars.
+A person that commits the offense prescribed in paragraph 1 with the intention of making profits, distributing, broadcasting, displaying publicly, or using other means for viewing by others shall be punished according to the provisions of the preceding paragraph.
+An attempt to commit an offense specified in one of the preceding three paragraphs is punishable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 319-2</條號>
+    <條文內容><![CDATA[A person who records sexual images by means of violence, coercion, intimidation or other means against the will of the victims by taking photos, videos, electromagnetic records or other technological methods or make the victims record such images by themselves shall be sentenced to an imprisonment of not more than five years and may also be fined not more than five hundred thousand dollars.
+A person who intends to make profits by providing premises, tools, or equipment to facilitate others to perform the acts prescribed in the preceding paragraph shall be sentenced to an imprisonment for not less than six months but not more than five years, and may also be fined not more than five hundred thousand dollars.
+A person that commits the offense prescribed in paragraph 1 with the intention of making profits, distributing, broadcasting, displaying publicly, or using other means for viewing by others shall be punished according to the provisions of the preceding paragraph.
+An attempt to commit an offense specified in one of the preceding three paragraphs is punishable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 319-3</條號>
+    <條文內容><![CDATA[A person who reproduces, distributes, broadcasts, delivers, displays publicly, or uses other means to allow others to view sexual images without the consent of victims shall be sentenced to an imprisonment of not more than five years, and may also be fined not more than five hundred thousand dollars.
+A person who commits the offense of the preceding paragraph and the sexual images concerned contained the contents prescribed in paragraphs 1 to 3 of Article 319-1 shall be sentenced to an imprisonment for not less than six months but not more than five years, and may also be fined not more than five hundred thousand dollars.
+A person who commits the offense prescribed in paragraph 1 and the sexual images concerned contained the contents prescribed in paragraphs 1 to 3 of the preceding Article shall be sentenced to an imprisonment for not less than one year but not more than seven years, and may also be fined not more than seven hundred thousand dollars.
+A person who commits the offense of the preceding three paragraphs with the intention of making profit shall be subject to the punishment prescribed for such an offense by increasing it up to one half. The same applies to those who sell sexual images prescribed in the preceding three paragraphs.
+An attempt to commit an offense specified in one of the preceding four paragraphs is punishable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 319-4</條號>
+    <條文內容><![CDATA[A person who intends to distribute, broadcast, deliver, display publicly, or use other means to allow others to view the victims’ synthetic sexual images generated using computer synthesis or other technological methods, which is able to cause harm to such victims, shall be sentenced to an imprisonment of not more than five years, detention, or fined not more than five hundred thousand dollars.
+The same applies to distribution, broadcast, delivery, public display, or using other methods to allow others to view the aforementioned sexual images, which is able to cause harm to victims.
+A person who commits the crimes mentioned in the preceding two paragraphs with the intention of gaining profit shall be sentenced to the imprisonment of not more than seven years, and may also be fined not more than seven hundred thousand dollars. The same applies to those who sell sexual images in the preceding two paragraphs.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 319-5</條號>
+    <條文內容><![CDATA[The attachments to the sexual images and objects prescribed in Articles 319-1 to the preceding Article, regardless of whether they belong to the perpetrator or not, shall be confiscated.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 319-6</條號>
+    <條文內容><![CDATA[The prosecution for offenses prescribed in paragraph 1 of Article 319-1 and its attempt, and paragraph 1 of Article 319-3 and its attempt may be instituted only upon complaint.]]></條文內容>
   </條文>
   <編章節>   Chapter 29 Offense of Larceny</編章節>
   <條文>
@@ -2159,9 +2217,10 @@ An attempt to commit an offense specified in one of the two preceding paragraphs
   <條文>
     <條號>Article 339-4</條號>
     <條文內容><![CDATA[A person who commits the offense of fraud under Article 339 and who has any of the following events shall be sentenced to imprisonment for no less than one year and no more than seven years; in addition thereto, a fine of no more than one million yuan may be imposed:
-1. Offense in the name of a government agency or public official without authorization.
-2. Offense by three or more persons.
-3. Offense by dissemination of false information to the general public through broadcasting TV, electronic communication, Internet or other media.
+1.Offense in the name of a government agency or public official without authorization.
+2.Offense by three or more persons.
+3.Offense by dissemination of false information to the general public through broadcasting TV, electronic communication, Internet or other media.
+4.The offense by using computer synthesis or other technological methods to produce synthetic images, sounds, or electromagnetic records about others is punishable.
 An attempt to commit an offense specified in the preceding paragraph is punishable.]]></條文內容>
   </條文>
   <條文>
