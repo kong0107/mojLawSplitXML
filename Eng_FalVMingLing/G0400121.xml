@@ -3,7 +3,7 @@
 <英文法規名稱>Securities Investment Trust and Consulting Act</英文法規名稱>
 <中文法規名稱>證券投資信託及顧問法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400121</法規網址>
-<最新英文異動日期>20180131</最新英文異動日期>
+<最新英文異動日期>20230628</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -12,7 +12,8 @@
 2. Articles 68 and 124 amended and promulgated per 13 January 2010 Presidential Order No. ROC-President-I-Yi-09900005601; for enforcement from the date of announcement
 3. Article 2 amended and promulgated per 9 June 2010 Presidential Order No. ROC-President-I-Yi-09900140721
 4. Article 2 amended and promulgated per 4 February 2015 Presidential Order No. ROC-President-I-Yi-10400012481
-5. Articles 11, 17, 30, 62, 105, 108, and 111 amended and promulgated, and Articles 6-1, 16-1, and 105-1 added per 31 January 2018 Presidential Order No. ROC-President-I-Yi-10700012041]]></沿革內容>
+5. Articles 11, 17, 30, 62, 105, 108, and 111 amended and promulgated, and Articles 6-1, 16-1, and 105-1 added per 31 January 2018 Presidential Order No. ROC-President-I-Yi-10700012041
+6. Articles 70-1, 113-1 added and promulgated per 28 June 2023 Presidential Order No. ROC-President-I-Jing-11200053941]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I  General Provisions</編章節>
@@ -600,6 +601,22 @@ The Competent Authority shall prescribe regulations governing personnel requirem
 The Competent Authority shall prescribe regulations governing restrictions, bans, prohibitions, or other compliance matters in the conduct of advertising, public informational meetings, and other business activities by securities investment trust enterprises and securities investment consulting enterprises.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 70-1</條號>
+    <條文內容><![CDATA[A person or entity that is not a securities investment trust enterprise or securities investment consulting enterprise may not do any of the following in advertising in connection with securities investment or business solicitation:
+1. Mislead people to believe that it has been approved by the Competent Authority to operate securities investment trust, securities investment consulting, or discretionary investment business.
+2. Concurrently with engaging in investment analysis, do any customer solicitation or investment inducement for the purpose of providing securities investment advice.
+3. Make any representation of guaranteeing of profits or bearing of losses for securities investment.
+4. Cite testimonials, letters of appreciation, past performance, or other similar words or representations that could readily lead others to have mistaken faith in the profitability of securities investment.
+5. Falsely use the name of any well-known person or company from the political, financial, monetary, video or film, or other domain to recommend, solicit or induce investment in securities.
+6. Any other inappropriate recommendation/promotional conduct related to the preceding five subparagraphs.
+An internet platform provider, internet application service provider, internet access service provider, or other network communication media enterprise, when publishing or broadcasting any advertisement that is of a person or entity that is not a securities investment trust enterprise or securities investment consulting enterprise and that involves securities investment or business solicitation, shall in the advertisement disclose or specify the commissioning publisher or sponser and other related information.
+An internet platform provider, internet application service provider, internet access service provider, or other network communication media enterprise may not publish or broadcast any advertisement that violates either of the preceding two preceding paragraphs. If it subsequently becomes aware of such a violation after publishing or broadcasting an advertisement, it shall, at its own initiative or within a deadline as notified by a judicial police authority, remove the advertisement, restrict browsing of it, cease broadcasting it, or take other necessary measures.
+When an internet platform provider, internet application service provider, internet access service provider, or other network communication media enterprise publishes or broadcasts an advertisement that violates paragraph 1 or paragraph 2, it shall be jointly and severally liable with the commissioning publisher and sponsor of the advertisement for damages to anyone who suffers damage because of mistaken belief in the advertisement content or because of being defrauded. However, this shall not apply if it has already taken necessary measures under the latter part of the preceding paragraph.
+An enterprise's joint and several liability for damages under the preceding paragraph may be reduced or remitted under any of the following circumstances:
+1. It does not receive any property/financial benefit from the publishing or broadcasting of the advertisement.
+2. The publishing or broadcasting of the advertisement was not done out of intent or gross negligence.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 71</條號>
     <條文內容><![CDATA[(Exercise of Duties by Personnel)
 Responsible persons, associated persons, and other employees of securities investment trust enterprises and securities investment consulting enterprises are also prohibited from doing, in the course of exercising their duties, any act that an enterprise is prohibited from doing as provided in Article 19, paragraph 1, Article 59, or in an act, regulation, or contract.
@@ -910,6 +927,10 @@ A securities investment trust enterprise, securities investment consulting enter
 10. acts causing conflicts of interests with or injury to rights and interests of beneficiaries or customers in violation of Article 94.
 11. refusing designation by the Competent Authority as a successor without legitimate reason in violation of Article 96, paragraph 2.
 12. failing to produce financial or business reports or other related materials within the time limit, or evading, impeding, or refusing inspection, in violation of Article 101, paragraph 1.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 113-1</條號>
+    <條文內容><![CDATA[If an person or entity that violates Article 70-1, paragraph 3 is notified to remove an advertisement, restrict browsing of it, cease broadcasting it, or take other necessary measures and fails to do so by the deadline under the notification, the judicial police authority that gave the notification shall impose an administrative fine of not less than NT$120,000 and not more than NT$600,000 and order it to make corrections within a specified period; if it fails to make corrections within such period, consecutive administrative fines of two to five times that amount may be imposed for each instance of failure until such time as corrections have been made.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 114</條號>
