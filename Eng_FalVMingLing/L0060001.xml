@@ -3,7 +3,7 @@
 <英文法規名稱>National Health Insurance Act</英文法規名稱>
 <中文法規名稱>全民健康保險法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0060001</法規網址>
-<最新英文異動日期>20210120</最新英文異動日期>
+<最新英文異動日期>20230628</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -23,7 +23,7 @@
 11.Amendment and Promulgation of Articles 6, 9, 95 and 104 by the President’s Order of Hua Chung (1) Yi Tze No. 10600142271 on November 29,2017.
 12.Amendment and Promulgation of Articles 4,and 7 by the President's Order of Hua Chung (1) Yi Tze No. 10900003901 on January 15,2020.
 13.Amendment and Promulgation of Articles 2 by the President's Order of Hua Chung (1) Yi Tze No. 11000003521 on January 20,2021.
-]]></沿革內容>
+14.Amendment to and promulgation of Article 80-1 and Article 80-2 by the Presidential Order Hua Chung (1) Yi Tze No. 11200054031 dated June 28, 2023.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -560,6 +560,23 @@ The information obtained by the Insurer in accordance with the preceding paragra
 The Competent Authority shall determine the scope, accessing procedure and rules for interviewing and inquiry pertaining to the relevant information in the preceding paragraph.]]></條文內容>
   </條文>
   <編章節>   Chapter 10 Penal Provisions</編章節>
+  <條文>
+    <條號>Article 80-1</條號>
+    <條文內容><![CDATA[A person who compromises the normal operation of any equipment or any computer room of the core information and communication system used in connection with the underwriting of this Insurance by the Insurer or the medical services provided by the Insurer under this Insurance (the “CICS”) by means of theft, destruction, or any other unlawful means shall be subject to imprisonment for not less than one year but not more than seven years and may also be fined not more than NT$ 10,000,000.
+A person who intends to endanger national security or the stability of the society and commits an offense prescribed in the preceding paragraph shall be subject to imprisonment for not less than three years but not more than ten years and may also be fined not more than NT$ 50,000,000.
+A person who causes a catastrophe as a result of his commission of any of the offenses prescribed in any of the preceding two paragraphs shall be subject to one and a half of the sentence prescribed for such offense; a person who causes the death of another person as a result of his commission of any of the offenses prescribed in any of the preceding two paragraphs shall be subject to life imprisonment or imprisonment for not less than seven years and may also be fined not more than NT$100,000,000; a person who causes serious physical injury to another person as a result of his commission of any of the offenses prescribed in any of the preceding two paragraphs shall be subject to imprisonment for not less than five years but not more than twelve years and may also be fined not more than NT$80,000,000.
+An attempt to commit any of the offenses prescribed in paragraph 1 or paragraph 2 is punishable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 80-2</條號>
+    <條文內容><![CDATA[A person who compromises the normal operation of the CICS by any of the following means shall be subject to imprisonment for not less than one year but not more than seven years and may also be fined not more than NT$ 10,000,000:
+1.unauthorized access to any computer of or any equipment related to the CICS by entering the account code and password of the CICS, cracking any protective measure(s) preventing unauthorized access to a computer, or exploiting any loophole in a computer system;
+2.unauthorized interference with any computer of or any equipment related to the CICS by any computer program or any other electromagnetic interferences; or
+3.unauthorized acquisition, deletion, or alteration of any magnetic records of, in, or on any computer of or any equipment related to the CICS.
+A person who makes any computer program solely for the commission of any offense prescribed in the preceding paragraph and makes such computer program available to himself or another person to commit such offense shall be subject to the same punishment prescribed in the preceding paragraph.
+A person who intends to endanger national security or the stability of the society and commits any of the offenses prescribed in the preceding two paragraphs shall be subject to imprisonment for not less than three years but not more than ten years and may also be fined not more than NT$ 50,000,000.
+An attempt to commit any of the offenses prescribed in any of the preceding three paragraphs is punishable.]]></條文內容>
+  </條文>
   <條文>
     <條號>Article 81</條號>
     <條文內容><![CDATA[The person who apply for reimbursements or claims medical expenses through improper conduct, or makes false certification, report, misrepresentation, shall be fined equivalent to two to twenty times the benefits or medical expenses received. If criminal offense is involved, he/she shall also be referred to the court. Any medical expenses so received by contracted medical care institutions may be deductible from the expenses claimed or receivable by it.

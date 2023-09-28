@@ -3,7 +3,7 @@
 <英文法規名稱>The Banking Act of The Republic of China</英文法規名稱>
 <中文法規名稱>銀行法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380001</法規網址>
-<最新英文異動日期>20190417</最新英文異動日期>
+<最新英文異動日期>20230628</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -34,7 +34,8 @@
 25. Article 11, 45.1, 47.1, 64.1, 72.1, 72.2, 74, 75 amended , and articles 42.1 deleted per 4 February, 2015 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10400014271.
 26. Article 34.1 added and 131 amended per 24 June, 2015 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10400073891.
 27. Article 125, 125-2 ~ 125-4, 136-1 amended, and article 22-1 added per 31 January, 2018 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10700011021.
-28. Articles 13, 35-2, 47-3, 61-1, 116, 117, 125, 127-1, 128~133, 134~136 amended, articles 51-2, 133-1, 136-3 added, and articles 125-6, 127-3 deleted per 17 April, 2019 Order No. Presidential Decree Hua-Zong-Yi-Jing-Zi 10800037891.]]></沿革內容>
+28. Articles 13, 35-2, 47-3, 61-1, 116, 117, 125, 127-1, 128~133, 134~136 amended, articles 51-2, 133-1, 136-3 added, and articles 125-6, 127-3 deleted per 17 April, 2019 Order No. Presidential Decree Hua-Zong-Yi-Jing-Zi 10800037891.
+29. Articles 125-7, 125-8 added per 28 June, 2023 Order No. Presidential Decree Hua-Zong-Yi-Jing-Zi 11200053951.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -1082,6 +1083,24 @@ The preceding six paragraphs shall apply to the responsible person or staff memb
   <條文>
     <條號>Article 125-6</條號>
     <條文內容><![CDATA[Deleted.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 125-7</條號>
+    <條文內容><![CDATA[A person who steals, damages, or use other illegal means to damage the normal functions of the core information and communications system of a financial information service enterprise engaging in inter-financial institution funds transfer and settlement shall be sentenced to imprisonment for not less than one year and not more than seven years,and in addition thereto, a criminal fine of not more than Ten Million New Taiwan Dollars(NT$10,000,000) may be imposed.
+Any person who intends to endanger national security or social stability and commitsan offense under the preceding paragraph shall be sentenced to imprisonment for not less than three years and not more than ten years, and in addition thereto, a criminal fine of not more than Fifty Million New Taiwan Dollars (NT$50,000,000) may be imposed.
+Should such criminal acts specified in the two preceding paragraphs have jeopardized the stability of the financial market, the punishment shall be increased by one-half.
+An attempt to commit an offense specified in paragraph 1 or paragraph 2 is punishable.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 125-8</條號>
+    <條文內容><![CDATA[A person who damages the normal functions of the core information and communications system of a financial information service enterprise engaging in interfinancial institution funds transfer and settlement through one of the following means shall be sentenced to imprisonment for not less than one year and not more than seven years, and in addition thereto, a criminal fine of not more than Ten Million New Taiwan Dollars (NT$10,000,000) may be imposed:
+1. Without cause, gains access to its computer or related equipment by entering the password of its computer account, cracking the protective measures for using the computer, or exploiting the loophole of the computer system.
+2. Without cause, interferes, through the use of computer programs or other electromagnetic methods, with its computer or relating equipment.
+3. Without cause, obtains, deletes, or alters the magnetic record of its computer or related equipment.
+A person who makes computer programs specifically for himself or another to commit any offense specified in the preceding paragraph is also subject to the penalty provisions thereof.
+Any person who intends to endanger national security or social stability and commits the offenses in the two preceding paragraphs shall be sentenced to imprisonment for a term of not less than three years and not more than ten years, and in addition thereto, a criminal fine of not more than Fifty Million New Taiwan Dollars (NT$50,000,000) may be imposed.
+Should such criminal acts specified in in the three preceding paragraphs have jeopardized the stability of the financial market, the punishment shall be increased by onehalf.
+Attempts to commit the acts described in paragraph 1 to paragraph 3 shall be punishable.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 126</條號>
