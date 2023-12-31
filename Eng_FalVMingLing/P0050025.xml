@@ -3,7 +3,7 @@
 <英文法規名稱>Public Television Act</英文法規名稱>
 <中文法規名稱>公共電視法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=P0050025</法規網址>
-<最新英文異動日期>20091230</最新英文異動日期>
+<最新英文異動日期>20230621</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -11,22 +11,25 @@
 2.Revised Articles 2 and 24 promulgated by Presidential Order Hua Tsung (1) I No. 9000203930 on October 17,2001
 3.Revised Articles 4 promulgated by Presidential Order Hua Tsung (1) I No. 09300117601 on June 23,2004
 4.Revised Articles 13 promulgated by Presidential Order Hua Tsung (1) I No. 09800166551 on July 8,2009
-5.Revised Articles 18、26 and 49 promulgated by Presidential Order Hua Tsung (1) I No. 09800323241 on December 30,2009, and take effect on November 23, 2009]]></沿革內容>
+5.Revised Articles 18、26 and 49 promulgated by Presidential Order Hua Tsung (1) I No. 09800323241 on December 30,2009, and take effect on November 23, 2009
+6.In accordance with Presidential Proclamation No. Huazong Yi Yi 1200051201 on June 21,2023, Articles 1 to 3, 7, 10, 13, 14, 16, 18 to 21, 26, 28, 32, and 40 are hereby amended; Article 12-1 is added; Articles 6 and 8 are repealed.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I  General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This Law is enacted to promote the effective development of public television, establish a public service mass media system, compensate for the inadequacy of commercial television, and safeguard the citizens' freedom of expression and right to know, raise cultural and educational standards, advance the development of democratic society, and enhance social wellbeing through diversified planning.]]></條文內容>
+    <條文內容><![CDATA[This Law is enacted to promote the effective development of public television, ensure that broadcast content conforms to the needs of a multicultural society, best utilize digital technology, and safeguard the citizens' freedom of expression and right to know, provide news and information services,  advance the development of broadcast industry and democratic society, and enhance social wellbeing through diversified planning.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[In order to realize the objectives of this Law, the Public Television Service Foundation (referred to hereinafter as the "PTS Foundation") shall be established to operate the Public Television Service (referred to hereinafter as "PTS"). In addition to the provisions of this Law, the provisions of the Civil Code relating to corporations are applicable to the establishment, organization, and operation of the PTS Foundation.
-Government contributions to the PTS Foundation in accordance with this Law, shall be annually reduced by 10 percent of the initial allocation until the third fiscal year.]]></條文內容>
+    <條文內容><![CDATA[In order to realize the objectives of this Law, the Public Television Service Foundation (referred to hereinafter as the "PTS Foundation") shall be established to operate the Public Television Service (referred to hereinafter as "PTS").
+In addition to the provisions of this Law, the provisions of the Foundations Act, the Civil Code, and regulations concerning communications and related matters are applicable to the establishment, organization, and operation of the PTS Foundation.
+A budget for the PTS Foundation shall be made by the government as a budgetary donation in accordance with this Act.
+In addition to the aforementioned donation, the government should discuss adjusting its budget every year in line with the PTS Foundation’s operational needs, annual work plans, and medium and long-term plans.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The regulatory agency of the PTS Foundation shall be the Government Information Office (GIO).]]></條文內容>
+    <條文內容><![CDATA[The competent authority for the PTS  Foundation shall be the Ministry of Culture.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -39,16 +42,16 @@ National property required for conducting the affairs of the PTS Preparatory Com
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[Examination and approval of PTS's principal facilities and engineering techniques; the qualification standards of technical personnel; the supervision and management of electromagnetic waves, such as the broadcast frequencies, the call sign, and electric power; and the issuance and renewal of the station license shall follow related regulations published by the Ministry of Transportation and Communications (MOTC).]]></條文內容>
+    <條文內容><![CDATA[(Repealed)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[The required electromagnetic wave frequencies for PTS shall be planned and designated by the GIO in coordination with the MOTC. The aforesaid frequencies shall not be leased, loaned, or transferred.]]></條文內容>
+    <條文內容><![CDATA[The required electromagnetic wave frequencies for PTS shall be planned and designated by the Ministry of Culture in coordination with the competent authority for over-the-air frequencies.
+The aforesaid frequencies shall not be leased, loaned, or transferred.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[The PTS Foundation shall file an application for station installations with the GIO, which shall refer it to the MOTC for the issuance of the installation permit, before the PTS Foundation sets up the installations. The completed installations shall be inspected by the MOTC, which shall issue a station license after the requirements are met. The GIO shall then issue a television license before PTS begins broadcasting.
-The provisions of the preceding paragraph shall apply to the establishment of any PTS branch station, transmitting station, repeater station, or relay station.]]></條文內容>
+    <條文內容><![CDATA[(Repealed)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
@@ -57,12 +60,16 @@ The provisions of the preceding paragraph shall apply to the establishment of an
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[The PTS Foundation operations shall include the following:
-1. Establishing and operating PTS
-2. Broadcasting TV programs
-3. Producing and distributing TV and video programs and issuing relevant publications
-4. Training staff
-5. Researching and promoting television theories, techniques, and programs
-6. Other operations that contribute to the objectives in Article 1.]]></條文內容>
+1.     Plan and operate television channels
+2.     Produce and distribute broadcast content
+3.     Provide broadcast services that meet the needs of varied groups and locales
+4.     Offer international broadcast services and conduct international exchanges
+5.     Produce, distribute, and promote audiovisual products and publications related to broadcast content
+6.     Train broadcast professionals
+7.     Research, innovate, and promote broadcast technology and content production
+8.     Other operations that contribute to the objectives in Article 1.
+The PTS Foundation shall establish dedicated channels via which to perform the operations listed in Items 3 and 4 and shall ensure that its budget and special funds are earmarked.
+The PTS Foundation shall establish dedicated channels to perform the operations listed in Item 3 of Paragraph 1 and ensure that their operation remains independent and safeguards the subjectivity of different groups.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -77,25 +84,35 @@ The provisions of the preceding paragraph shall apply to the establishment of an
     <條號>Article 12</條號>
     <條文內容><![CDATA[If techniques and budget permit, the PTS Foundation shall offer complete TV reception of the same quality to viewers nationwide.]]></條文內容>
   </條文>
+  <條文>
+    <條號>Article 12-1</條號>
+    <條文內容><![CDATA[Operators of cable television systems that provide multimedia content streaming services shall provide channel location free of charge and broadcast content from the PTS Foundation’s over-the-air channels, community-specific channels, and international broadcast channels. Operators may not change the format, content, or channel. Cable television system operators shall offer these as basic channels.
+No costs shall ascribe to cable television system operators offering multimedia streaming services that provide the broadcasting services mentioned in the preceding Paragraph and their provision of said services does not connote copyright infringement.]]></條文內容>
+  </條文>
   <編章節>   Chapter II  Organization</編章節>
   <條文>
     <條號>Article 13</條號>
-    <條文內容><![CDATA[The PTS Foundation shall set up a board of directors, consisting of 17 to 21 people. The procedures for selection are as follows:
-1. The Legislative Yuan shall recommend 11 to 15 just and fair people from society to form the PTS Directors and Supervisors Review Committee.
-2. Candidates for PTS directors and supervisors shall be nominated by the Executive Yuan and then submitted to the premier for appointment with the consent of more than three-fourths of the members of the Review Committee.
-The selection of PTS directors shall consider gender and ethnic representation and a balanced representation from education, arts, literature, academics, communications, and other professional fields.
-Not more than a quarter of PTS directors shall be of the same political party affiliation. Directors may not participate in political activities during their tenures.]]></條文內容>
+    <條文內容><![CDATA[The PTS Foundation shall set up a board of directors, consisting of 11 to 15 people. One director shall be an employee representative. The PTS Foundation shall also have a Board of Supervisors of between three and five people.
+Directors and supervisors shall be selected as follows:
+1.     The Legislative Yuan shall recommend 11 to 15 just and fair people from society to form the PTS Directors and Supervisors Review Committee.
+2.     Candidates for PTS directors and supervisors (not including the employee representative) shall be nominated by the Executive Yuan and then submitted to the premier for appointment with the consent of more than two-thirds of the members of the Review Committee.
+3.     A candidate for the director representing appointees shall be nominated by the PTS enterprise union and provided to the competent authority for submission to the premier for appointment.
+When the Executive Yuan nominates candidates for director or supervisor in line with Item 2, it shall ensure that each gender accounts for at least one-third of nominees for each position.
+The selection of PTS directors shall consider  ethnic representation and a balanced representation from education, arts, literature, academics, communications, and other professional fields.
+Not more than a quarter of PTS directors shall be of the same political party affiliation; no more than one-third of supervisors may be members of the same political party. Directors and supervisors may not participate in political activities during their tenures.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
-    <條文內容><![CDATA[The following persons shall not serve as PTS directors:
-1. Public officials, exclusive of educators and researchers at all levels of public schools and academic institutions
-2. Political party workers
-3. Responsible persons and executives of over-the-air and cable radio and television enterprises
-4. Manufacturers, importers, and dealers of transmitting equipment and facilities
-5. Persons whose total investments in the enterprises of the preceding two items exceed 5 percent of the capitalization of the enterprises
-6. Members of the Review Committee
-7. Non-ROC citizens.]]></條文內容>
+    <條文內容><![CDATA[The following persons shall not serve as PTS directors or supervisors:
+1.     Public officials, exclusive of educators and researchers at all levels of public schools and academic institutions
+2.     Political party workers
+3.     Responsible persons and executives of over-the-air and cable radio and television enterprises
+4.     Manufacturers, importers, and dealers of transmitting equipment and facilities
+5.     Persons whose total investments in the enterprises of the preceding two items exceed 5 percent of the capitalization of the enterprises
+6.     Members of the Review Committee
+7.     Non-ROC citizens
+8.     Those who have received a bankruptcy declaration or who are in the process of clearing debt under the Consumer Debt Clearance Statute and have not resumed their rights
+9.     Those not yet released from guardianship or assistance where such has been announced.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
@@ -114,7 +131,8 @@ Not more than a quarter of PTS directors shall be of the same political party af
   </條文>
   <條文>
     <條號>Article 16</條號>
-    <條文內容><![CDATA[A director shall serve a term of three years and is eligible for re-appointment when the term of service expires.]]></條文內容>
+    <條文內容><![CDATA[A director shall serve a term of three years and is eligible for re-appointment when the term of service expires.
+In accordance with Article 13, a new director shall be hired six months prior to the expiration of a sitting director’s term. Where no new director has been chosen by the expiration of the term, the term may be extended until a new director has taken up the position.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
@@ -125,28 +143,32 @@ In the event that the chairperson cannot exercise his powers for more than three
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[The board of directors shall ask the premier to remove a director from office, when any of the following situations are applicable to that particular director:
-1. Any situation as stipulated in Article 14
-2. The director is declared to be under guardianship, requiring assistance or bankrupt
-3. The director is sentenced to imprisonment for a definite period of time or a more severe punishment and the decision has become final, unless the punishment is suspended or commuted to a fine
-4. The director is diagnosed by a public hospital to be mentally or physically impaired to the extent that he is incapable of exercising his powers
-5. The director's conduct is determined through a board resolution to have violated the duties of a director or acted in such a way that is improper for a director.]]></條文內容>
+    <條文內容><![CDATA[The PTS Foundation shall request that the premier remove a director from office when any of the following situations are applicable to that particular director:
+1.     Any situation as stipulated in Items 1 through 7 of Article 14
+2.     Where a director has resigned
+3.     Where a director has been sentenced to imprisonment with possibility of parole (save where a sentence is suspended or in cases of negligence).
+4.     Where regulations or the organization’s charter have been violated during the execution of the director’s duty such that the public interest or the rights and interests of the PTS Foundation have suffered
+5.     Where the director representing employees has lost the standing of a member of the PTS enterprise union
+6.     The director's conduct is determined through a board resolution to have violated the duties of a director or acted in such a way that is improper for a director.
+Where the PTS Foundation fails to request a dismissal in accordance with the above, the competent authority shall require that it act within a prescribed time. Where the PTS Foundation fails to do so within the prescribed time, the competent authority shall request the premier to order a dismissal.
+Where the circumstances of Items 8 or 9 of Article 14 apply, this shall result in automatic dismissal.
+Where a director is dismissed or leaves office, the central competent authority shall inform the local district court to register the fact.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[In the event that one-third of the directors have vacated their offices, new directors shall immediately be selected pursuant to Article 13 to fill the vacancies. The new directors shall serve until the original term expires.
+    <條文內容><![CDATA[In the event that one-third of the directors or the seat for the director representing employees have vacated their offices, new directors shall immediately be selected pursuant to Article 13 to fill the vacancies. The new directors shall serve until the original term expires.
 When the chairperson has vacated office, one of the directors shall be elected by the directors to exercise the chairperson's powers until the original term expires.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[The chairperson shall be a full-time paid position, but directors shall receive no compensation other than fees for attending board meetings.
+    <條文內容><![CDATA[The chairperson shall be a full-time paid position. Individuals serving as chair are not to be receiving other salary, monthly pension, monthly severance pay, or other like remuneration. Directors shall receive no compensation other than fees for attending board meetings.
 The board of directors shall meet at least once per month. Special meetings shall be called at such times as deemed necessary by the chairperson or upon request by at least one-third of the directors.
 Except as otherwise provided herein, the board shall adopt no resolution unless the meeting is attended by two-thirds of the directors and a majority of the votes are cast in favor of the resolution.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[The PTS Foundation shall establish a board of three to five supervisors, who shall elect a standing supervisor from among themselves.
-Supervisors shall have relevant knowledge and experience in mass media, law, or accounting. Related provisions regarding the directors in this Law shall apply to the term and termination of service of the supervisors.
+    <條文內容><![CDATA[Supervisors shall elect from among themselves one individual to serve as standing supervisor at meetings.
+Supervisors shall have relevant knowledge and experience in mass media, law, or accounting. Related provisions regarding the directors in this Law shall apply to the hiring, dismissal, replacement, term extension, and automatic dismissal of the supervisors.
 The board of supervisors shall audit the use of funds by the PTS Foundation and determine whether there has been a violation of the PTS Foundation's Financial Auditing Procedures and other laws.
 The board of directors shall prescribe the PTS Foundation's Financial Auditing Procedures mentioned in the preceding paragraph.]]></條文內容>
   </條文>
@@ -176,10 +198,10 @@ The board of directors shall report the actions under Items 1 and 2 of Paragraph
   <條文>
     <條號>Article 26</條號>
     <條文內容><![CDATA[The president or vice president shall be dismissed by the board of directors, if he:
-1. has violated any item in Paragraph 1 of Article 24;
-2. The person has been declared commencement of guardianship, assistantship or bankrupt;
-3. has been diagnosed by a public hospital to be mentally or physically impaired to the extent that he is incapable of exercising his powers; or
-4. has been determined by a board resolution to have violated his duties or acted in such a way that is improper for his position.]]></條文內容>
+1.     has violated any item in Paragraph 1 of Article 24;
+2.     in receipt of a bankruptcy declaration or in the process of clearing debt under the Consumer Debt Clearance Statute and rights have not been resumed;
+3.     not yet released from guardianship or assistance where such has been announced; or
+4.     has been determined by a board resolution to have violated his duties or acted in such a way that is improper for his position.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 27</條號>
@@ -189,12 +211,13 @@ The board of directors shall report the actions under Items 1 and 2 of Paragraph
   <條文>
     <條號>Article 28</條號>
     <條文內容><![CDATA[The funds for the PTS Foundation shall come from:
-1. government contributions allocated from the annual national budget;
-2. interest from operating the funds;
-3. contributions from the public and private institutions, organizations, or individuals at home and abroad;
-4. income from public television cultural businesses and activities;
-5. income from producing programs on commission; and
-6. other sources of income.]]></條文內容>
+1.     The Cultural Development Fund;
+2.     donations and grants out of the government’s general budget;
+3.     interest from operating the PTS Foundation’s funds;
+4.     operating income;
+5.     income from investment in other businesses;
+6.     contributions from the public and private institutions, organizations, or individuals at home and abroad;
+7.     other sources of income.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 29</條號>
@@ -212,7 +235,7 @@ To apply for government contributions as a part of its annual funds, the PTS Fou
   </條文>
   <條文>
     <條號>Article 32</條號>
-    <條文內容><![CDATA[At the end of the business year, the PTS Foundation shall prepare an annual business report detailing its performance and final revenue and expenditure accounts for review by the board of supervisors and approval by the board of directors, whereupon it shall be sent to the regulatory agency for the required final accounting procedure.]]></條文內容>
+    <條文內容><![CDATA[At the end of the business year, the PTS Foundation shall prepare an annual business report detailing its performance and final revenue and expenditure accounts for review and approval by the board of directors, individual review by each supervisors, whereupon it shall be sent to the regulatory agency for the required final accounting procedure.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 33</條號>
@@ -260,7 +283,8 @@ An appropriate amount of news programming shall be broadcast in the foreign lang
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[Public television may not broadcast programs that are unsuitable for viewing by children and juveniles at any time. At least half an hour each of programming for children and juveniles shall be scheduled between 17:00 and 20:00 hours daily from Monday through Friday. At least one hour each of programming for children and juveniles shall be broadcast on weekends and holidays, in time slots determined by PTS according to the daily routine of the children and juveniles.]]></條文內容>
+    <條文內容><![CDATA[The PTS Foundation shall assign ratings to programming broadcast on its television channels in accordance with related laws and regulations, or it shall take other related measures.
+At least half an hour each of programming for children and juveniles shall be scheduled between 17:00 and 20:00 hours daily from Monday through Friday. At least one hour each of programming for children and juveniles shall be broadcast on weekends and holidays, in time slots determined by PTS according to the daily routine of the children and juveniles.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41</條號>

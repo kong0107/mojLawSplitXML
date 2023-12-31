@@ -3,10 +3,15 @@
 <英文法規名稱>Methods and Facilities Standards for the Storage, Clearance and Disposal of Industrial Waste</英文法規名稱>
 <中文法規名稱>事業廢棄物貯存清除處理方法及設施標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050005</法規網址>
-<最新英文異動日期>20220216</最新英文異動日期>
+<最新英文異動日期>20231101</最新英文異動日期>
 <廢止註記>
 </廢止註記>
-<附件 />
+<附件>
+  <檔案>
+    <檔案名稱><![CDATA[Annex：Management Methods for Storage, Clearance, and Disposal of Asbestos Tiles Waste from Building Demolition.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008230</下載網址>
+  </檔案>
+</附件>
 <沿革內容><![CDATA[1.Original 39 articles promulgated by Environmental Protection Administration order on May 8, 1989
 2.Revised and 54 articles promulgated by Environmental Protection Administration order on July 19, 1995
 3.Revisions promulgated by Environmental Protection Administration order on August 6, 1997
@@ -22,7 +27,9 @@
 13.Entire 46 Articles revised and promulgated by Environmental Protection Administration order on December 14, 2006
 14.Article 11 revised and promulgated by Environmental Protection Administration order on February 21, 2020
 15.Article 34, 35 and 39 revised; Article 41-1 to 41-5 added; Article 44 deleted; and promulgated by Environmental Protection Administration order on February 22, 2021
-16.Article 17 revised and promulgated by Environmental Protection Administration order on February 16, 2022]]></沿革內容>
+16.Article 17 revised and promulgated by Environmental Protection Administration order on February 16, 2022
+   Article 4, Paragraph 2 of Article 6, Paragraph 3 of Article 7, Paragraph 1 Preamble and Paragraph 5 of Article 8, Paragraph 2 of Article 9, Paragraph 1 Preamble of Article 10, Paragraphs 2 and 3 of Article 17, Article 18 Preamble, Subparagraph 5 of Article 19 Preamble, Subparagraph 16 of Article 20 Preamble, Paragraph 1 Preamble and Paragraph 2 of Article 21, Paragraphs 1 and 4 of Article 22, Article 23 Preamble, Paragraph 1 Subparagraph 5 of Article 24, Paragraph 2 of Article 29, Paragraph 2 of Article 30, Article 31, Subparagraph 6 of Article 32 Preamble, Paragraph 1 Subparagraph 7 of Article 34, Paragraph 2 of Article 37, Paragraph 1 Subparagraph 9 of Article 38, Paragraph 2 of Article 41, Paragraph 1 Preamble Subparagraph 6 and Paragraph 2 of Article 42, Paragraphs 3 and 4 of Article 43, and Article 45 of in the order promulgated by the Executive Yuan were subject to the authorities of the Environmental Protection Administration, Executive Yuan, but effective from August 22, 2023, they have been under the jurisdiction of the Ministry of Environment, and this order has been proclaimed on August 18, 2023.
+17.Article 29 revised; Article 4-1 added; and promulgated by Ministry of Environment order on November 1, 2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -75,6 +82,10 @@ XVIII. "Toxic heavy metals" refers to industrial waste containing heavy metals t
     <條號>Article 4</條號>
     <條文內容><![CDATA[The central competent authority shall officially announce their classification codes in accordance with the characteristics of major industrial waste components or hazardous industrial waste identification methods.]]></條文內容>
   </條文>
+  <條文>
+    <條號>Article 4-1</條號>
+    <條文內容><![CDATA[The storage, clearance and disposal of asbestos tiles waste from building demolition shall proceed pursuant to the management methods as annexed.]]></條文內容>
+  </條文>
   <編章節>   Chapter 2 Storage of Industrial Waste</編章節>
   <條文>
     <條號>Article 5</條號>
@@ -96,8 +107,7 @@ I. Hazardous industrial waste shall be stored separately in accordance with haza
 II. Waste shall be sealed in fixed packaging materials or containers, placed within storage facilities, assigned classification numbers, and marked with labels indicating the name of the waste-producing enterprise, the storage date, quantity, composition, and the characteristics of the hazardous industrial waste type.
 III. Storage containers and facilities shall be compatible with the hazardous industrial waste they contain to lessen corrosion or attrition.
 IV. Storage containers and packing materials shall be kept in good condition, and shall be replaced promptly if there is concern of serious rusting, damage or leakage.
-Storage shall be limited to one year. Those who require an extension shall apply for extension to the local competent authority where the storage facilities are located two months prior to the deadline.
-Extensions shall be limited to one time and may not exceed one year.
+Storage shall be limited to one year. Those who require an extension shall apply for extension to the local competent authority where the storage facilities are located two months prior to the deadline.Extensions shall be limited to one time and may not exceed one year.
 Enterprises that are unable to dispose of hazardous industrial waste within the deadline, because the enterprise is unable to carry out disposal, there are no domestic disposal organizations that could be commissioned with disposal or due to particular circumstances, may submit a storage plan to the central industry competent authority for preliminary review and approval. The storage deadline may be extended after a second review and approval by the central competent authority.
 Paragraph 2 and the foregoing paragraph do not apply to those that store waste during a clearance, import or export process.]]></條文內容>
   </條文>
@@ -276,9 +286,9 @@ Disposal facilities employing incineration disposal shall be subject to general 
   </條文>
   <條文>
     <條號>Article 29</條號>
-    <條文內容><![CDATA[Industrial waste disposal, clearance or reuse organizations shall complete waste disposal or waste reuse operations within 30 days after receiving the waste.
-When due to particular circumstances an industrial waste disposal, clearance, or reuse organization is not able to complete disposal or reuse within 30 days after accepting the waste, the said disposal, clearance, or reuse organization shall apply for approval by the competent authority that issued the original permit documents or the reuse industry competent authority. At the same time the competent authority that issued the said original permit documents or the reuse industry competent authority shall send copies of the approval documents to the central competent authority. The restrictions of the foregoing paragraph shall not apply.
-Industrial waste disposal, clearance, or reuse organizations that have already clearly stated their disposal or reuse schedule when the permit documents are issued are not subject to the restrictions of the foregoing paragraph.]]></條文內容>
+    <條文內容><![CDATA[Industrial waste disposal or reuse organizations shall complete waste disposal or reuse operations within 30 days after receiving the waste.
+When due to particular circumstances an industrial waste disposal or reuse organization is not able to complete disposal or reuse within 30 days after accepting the waste, the said disposal or reuse organization shall apply for approval by the competent authority that issued the original permit documents or the reuse industry competent authority. At the same time the competent authority that issued the said original permit documents or the reuse industry competent authority shall send copies of the approval documents to the central competent authority. The restrictions of the foregoing paragraph shall not apply.
+Industrial waste disposal, or reuse organizations that have already clearly stated their disposal or reuse schedule when the permit documents are issued are not subject to the restrictions of the first paragraph.]]></條文內容>
   </條文>
   <編章節>   Chapter 5 Final Disposal of Industrial Waste</編章節>
   <條文>
@@ -358,7 +368,7 @@ III. The upper layer shall be covered with fine sand, gravel, or other materials
     <條號>Article 39</條號>
     <條文內容><![CDATA[The earth cover and monitoring of sealed landfills shall comply with the following requirements:
 I. Landfills whose use has ended shall be first covered with a 15-centimer layer of sandy or argillaceous clay. They shall then be covered with an artificial impermeable material with a water impermeability coefficient of less than 10-10 centimeters/second and 0.2 centimeters or more in thickness and again covered with a layer of sandy or argillaceous clay 60 centimeters or more in thickness, which is then compressed.
-II.The water quality in the groundwater monitoring wells at the upper and lower courses shall be examined quarterly, with examination items covering arsenic, cadmium, chromium, copper, lead, mercury, nickel, and zinc.
+II. The water quality in the groundwater monitoring wells at the upper and lower courses shall be examined quarterly, with examination items covering arsenic, cadmium, chromium, copper, lead, mercury, nickel, and zinc.
 When the monitoring results of Subparagraph 2 in the foregoing paragraph are below the groundwater pollution control standards but reach the groundwater pollution monitoring standards, the entity shall propose the countermeasures within one month after receiving the monitoring results and implement such countermeasures after acquiring the approval of the competent authorities of permit issuance or the competent authorities of targeted business.
 Closed landfills shall not be used as construction sites or other working areas.]]></條文內容>
   </條文>
@@ -376,17 +386,17 @@ An application shall be made pursuant to relevant reuse regulations if the waste
     <條號>Article 41-1</條號>
     <條文內容><![CDATA[After closing (shutting down) a landfill, proceed with restoration with respect to the post-closure restoration plan in the approval document.
 The contents of the said post-closure restoration plan shall include:
-1.Basic information:
+I. Basic information:
 A. The name; type; opening and closing dates; the filling area and depth; types and quantity list of filled waste of the landfill.
 B. The ownership deed, cadastral data, and land catalog of the landfill.
 C. The fundamental structure of the landfill, including at least the layout, elevation, sectional drawings, and structural drawings.
-2.Restoration items after landfill closure:
+II. Restoration items after landfill closure:
 A. Final cover.
 B. Drainage works.
 C. Vegetation restoration.
-3.Periodic tour inspection and facility maintenance planning.
-4.Categories, items, methods, and frequencies of environmental monitoring.
-5.Emergency response plan.
+III. Periodic tour inspection and facility maintenance planning.
+IV. Categories, items, methods, and frequencies of environmental monitoring.
+V. Emergency response plan.
 After measuring the landfill's management needs, the competent authorities of permit issuance or the competent authorities of targeted business may adjust the contents of the post-closure restoration plan regardless of the said limitations.
 With respect to Paragraph 1, the competent authorities of permit issuance or the competent authorities of targeted business may request the landfill constructor to review the post-closure restoration plan where necessary. After the transfer of landfill operations, the transferee shall review the plan.
 Within one year after the next day of the completion of the final disposal of the last batch of waste, the landfill shall complete the post-closure restoration according to the approved plan. Where an extension is required, the landfill shall apply for an extension, for one time only, within two months before plan expiration. The maximum length of extension shall be one year.]]></條文內容>

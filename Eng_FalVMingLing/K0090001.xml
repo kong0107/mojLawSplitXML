@@ -3,7 +3,7 @@
 <英文法規名稱>Civil Aviation Act</英文法規名稱>
 <中文法規名稱>民用航空法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090001</法規網址>
-<最新英文異動日期>20180425</最新英文異動日期>
+<最新英文異動日期>20230628</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -25,8 +25,9 @@
 16.Amendment to Article 55 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-09800018531 dated January 23, 2009
 17.Amendment to Article 33, 78, 81, 83, 107, 112-4 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-10000299641 dated January 4, 2012
 18.Amendment to Article 37 per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-10300013711 dated January 29, 2014.
-19.Amendment to Article 2, 9,14,23-2,26,27,37,38,41-1,43-2,71,99-1,99-3,99-5 ,111,112,112-5,114,119-1,119-2 and addition of Article 9-1,27-1,112-8 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-10400014231 dated February 4,2015.
-20.Amendment to Article 2, 34, 40, 41-1, 44, 48, 58-1, 63-1, 65, 73, 76, 77, 99-8, 101, 110, 112, 119-2, 123 and addition of Article 43-3, 49-1, chapter 9-1, 99-9~99-19, 110-3, 118-1~118-3, 121-1 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-10700043981 dated April 25,2018.]]></沿革內容>
+19.Amendment to Article 2, 9,14,23-2,26,27,37,38,41-1,43-2,71,99-1,99-3,99-5,111,112,112-5,114,119-1,119-2 and addition of Article 9-1,27-1,112-8 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-10400014231 dated February 4,2015.
+20.Amendment to Article 2, 34, 40, 41-1, 44, 48, 58-1, 63-1, 65, 73, 76, 77, 99-8, 101, 110, 112, 119-2, 123 and addition of Article 43-3, 49-1, chapter 9-1, 99-9~99-19, 110-3, 118-1~118-3, 121-1 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-10700043981 dated April 25,2018.
+21.Amendment to Articles 119-3 and addition of Article 101-1,101-2 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-11200054081 dated June 28,2023.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General</編章節>
@@ -41,7 +42,7 @@
 2) “Airport Terminal” means an area of land that is used for the landing and takeoff of aircraft, including its buildings and facilities to load/unload passengers/goods.
 3) “Flight” means takeoff, navigation in the air, landing of aircraft and its taxiing on the ground of an airport or of an airfield before takeoff and after landing.
 4) “Airman” means aircraft pilot, flight engineer, aircraft maintenance engineer, air traffic controller, repairman, and aircraft dispatcher.
-5) “Airfield” means any land or water that is used for takeoff, landing and surface movement of aircraft.
+5)  “Airfield” means any land or water that is used for takeoff, landing and surface movement of aircraft.
 6) “Navigation Aids” means facilities designed for the support of aviation communications, meteorology, radio and visual aids as well as other installations providing safety guidance to aircraft in flight.
 7) “Airway” means a control area or portion thereof established by CAA in the form of a corridor.
 8) “Special Flight” means any approved single flight such as an aircraft test flight, acrobatic flight, flight beyond prescribed limits or repair as well as maintenance, and ferry flight.
@@ -76,7 +77,8 @@
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[The Ministry of Transportation and Communications (hereinafter referred to as MOTC) shall establish the Civil Aeronautics Administration (hereinafter referred to as CAA) to administer affairs relating to civil aviation. Regulations governing the organization of CAA shall be enacted separately.]]></條文內容>
+    <條文內容><![CDATA[The Ministry of Transportation and Communications (hereinafter referred to as MOTC) shall establish the Civil Aviation Administration (hereinafter referred to as CAA) to administer affairs relating to civil aviation.
+Regulations governing the organization of CAA shall be enacted separately.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -99,11 +101,11 @@ Foreigners, aside from complying with the provisions set forth in Chapter 7, sha
   </條文>
   <條文>
     <條號>Article 7-1</條號>
-    <條文內容><![CDATA[Any entity intending to engage in private aircraft activities shall request MOTC through CAA for its permission for making preparations and, in addition thereto, shall purchase aircraft while making preparations and possess the capabilities of engaging in safe aviation. Such entity may not engage in the aforesaid activities unless and until permit is obtained from the CAA upon its satisfactory completion of the review of the safe aviation capabilities of such entity, who, subsequent to the completion of said review, has applied to MOTC through CAA for its approval. The entity engaging in private aircraft activities intending to terminate its private aircraft activities shall first report to MOTC for reference through CAA.
+    <條文內容><![CDATA[Any entity intending to engage in private aircraft activities shall request MOTC through CAA for its permission for making preparations and, in addition thereto, shall purchase aircraft while making preparations and possess the capabilities of engaging in safe aviation.  Such entity may not engage in the aforesaid activities unless and until permit is obtained from the CAA upon its satisfactory completion of the review of the safe aviation capabilities of such entity, who, subsequent to the completion of said review, has applied to MOTC through CAA for its approval. The entity engaging in private aircraft activities intending to terminate its private aircraft activities shall first report to MOTC for reference through CAA.
 The entity engaging in private aircraft activities is referred to in the preceding paragraph shall be a citizen, juridical association, foundation or corporate organization of ROC.
 The aircraft of any entity engaged in private aircraft activities shall not be used for the purposes of commercial aviation, nor be leased or loaned to another engaged in aviation activities.
 Rules governing the application for permission of making preparations, approval procedure and restrictions, application for purchase of aircraft and its restrictions, limitations of aircraft age, application for aviation and other matters to be observed in respect of the engagement in private aircraft activities, shall be enacted by the MOTC.
-CAA may send its personnel to inspect various personnel, equipment, aviation operations and activities of an entity engaged in private aircraft activities, and such entity shall not refuse, avoid or impede such inspection. In case of any deficiency, CAA shall so inform such entity and set a time limit for the latter to cure such deficiency.]]></條文內容>
+CAA may send its personnel to inspect various personnel, equipment, aviation operations and activities of an entity engaged in private aircraft activities, and such entity shall not refuse, avoid or impede such inspection.  In case of any deficiency, CAA shall so inform such entity and set a time limit for the latter to cure such deficiency.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -200,16 +202,16 @@ The provisions of the Chattel Secured Transactions Act with regard to movable pr
   </條文>
   <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[Airworthiness standards for the aviation products, appliances and parts with regard to their design, manufacture, performance, operation limitations, flight and maintenance documentation shall be stipulated by CAA. Nevertheless, the airworthiness standards, which are generally used in international aviation practices and are deemed suitable for domestic use, can be adopted after CAA approval.
-CAA may delegate a qualified agency, body or individual to perform the certification of aviation products, appliances and parts. Measures concerning qualifications, terms, obligations and supervision of those so delegated shall be enacted by MOTC.
-CAA shall inspect/oversee the manufacturers of aviation products, appliances and parts with regard to their employees, facilities and operations. Those being inspected shall not refuse, avoid or obstruct such inspections. The inspected shall be notified of any deficiency found and given a time limit in which to effect improvement. CAA may suspend partial or entire operations of those who have any of the following violations:
+    <條文內容><![CDATA[Airworthiness standards for the aviation products, appliances and parts with regard to their design, manufacture, performance, operation limitations, flight and maintenance documentation shall be stipulated by CAA.  Nevertheless, the airworthiness standards, which are generally used in international aviation practices and are deemed suitable for domestic use, can be adopted after CAA approval.
+CAA may delegate a qualified agency, body or individual to perform the certification of aviation products, appliances and parts.  Measures concerning qualifications, terms, obligations and supervision of those so delegated shall be enacted by MOTC.
+CAA shall inspect/oversee the manufacturers of aviation products, appliances and parts with regard to their employees, facilities and operations.  Those being inspected shall not refuse, avoid or obstruct such inspections.  The inspected shall be notified of any deficiency found and given a time limit in which to effect improvement. CAA may suspend partial or entire operations of those who have any of the following violations:
 1) Conduct manufacturing not in accordance with CAA approved documents.
 2) Change quality systems without notifying CAA.
 3) Mark unapproved aviation products and their appliances and parts as CAA approved.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23-1</條號>
-    <條文內容><![CDATA[Upon completion of manufacture of an aircraft, the aircraft manufacturer shall apply to CAA for a provisional registration. An aircraft with provisional registration may only be used in test flight or ferry flight.
+    <條文內容><![CDATA[Upon completion of manufacture of an aircraft, the aircraft manufacturer shall apply to CAA for a provisional registration.  An aircraft with provisional registration may only be used in test flight or ferry flight.
 Aircraft provisionally registered as per above shall not be subject to the constraints of the terms of owners set forth in Article 10, paragraph 1, subparagraph 3 and shall be exempt from charges for provisional registration.]]></條文內容>
   </條文>
   <條文>
@@ -225,9 +227,9 @@ CAA shall inspect the repair station with regard to personnel, facilities and op
   </條文>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[Airmen rated qualified after passing written and practical tests shall be issued a certificate by CAA. Only those in possession of such a certificate can be allowed to work on their respective jobs. The certificate should be carried with the person while performing his or her duties.
+    <條文內容><![CDATA[Airmen rated qualified after passing written and practical tests shall be issued a certificate by CAA.  Only those in possession of such a certificate can be allowed to work on their respective jobs.  The certificate should be carried with the person while performing his or her duties.
 The rules governing classification of ratings for the above-mentioned airmen, eligibility for applying for a certificate/rating, items for tests of written and practical, reexamination, periodic rechecks, additional ratings, expired ratings, eligibility and procedure for a foreign citizen to apply for ratings, collection of license fees and general privileges of the certificate etc, shall be enacted by MOTC.
-The testing of airman may be administered by a CAA delegated agency, body or individual. CAA shall prescribe measures related to qualifications, conditions, obligations and supervision of the agency, body or individual so delegated.]]></條文內容>
+The testing of airman may be administered by a CAA delegated agency, body or individual.  CAA shall prescribe measures related to qualifications, conditions, obligations and supervision of the agency, body or individual so delegated.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 26</條號>
@@ -240,7 +242,7 @@ Airmen’s physical examination stated in paragraph one may be handled by a CAA 
     <條文內容><![CDATA[With a view to cultivating civil aviation personnel, MOTC may consult with the Ministry of Education (MOE) to establish a civil aviation school, or ask MOE to increase or adjust related departments in existing academic institutions.
 Any private civil aviation training institution shall apply to MOTC for approval prior to getting accredited.
 MOCT shall establish rules governing the above said airmen’s training institutions with regard to classification of training, organization, application for setting up such a school, application for a permit, its cancellation and renewal, procedure for student enrolment, qualification of trainees, curriculum of training, facility and equipment for training, qualification of the faculty, as well as collection of license fees and management of training.
-CAA may inspect a civil aviation training institution; to monitor its operations including employees, training, and equipment; and to monitor its business. The civil aviation training institution shall not refuse, avoid or impede such inspections, and will be notified of deficiencies if any, and shall improve within a certain period of time when so advised by the CAA.
+CAA may inspect a civil aviation training institution; to monitor its operations including employees, training, and equipment; and to monitor its business.  The civil aviation training institution shall not refuse, avoid or impede such inspections, and will be notified of deficiencies if any, and shall improve within a certain period of time when so advised by the CAA.
 Before a civil aviation training institution terminates operation, advance notice must be served to MOTC through CAA. Within 30 days from termination, it shall surrender the certificate for cancellation. If the certificate has not been surrendered within the 30-day period, CAA will issue a public notice advising that the certificate has been revoked.]]></條文內容>
   </條文>
   <條文>
@@ -259,9 +261,9 @@ MOTC shall prescribe rules governing such matters as the preparation, constructi
   <條文>
     <條號>Article 28-1</條號>
     <條文內容><![CDATA[After the construction of an "airport terminal" mentioned in the preceding Article 28th , the airport operator shall apply to CAA for certification including its facilities and operations for the aircraft taking off, landing and movement in the activity area.
-The "airport terminal" which has operated before the effective date of the amendment, the 15th June, 2007. The CAA shall inform the airport operator to apply the certification including its facilities and operations for the aircraft taking off, landing and movement in the activity area within a time limit.
+The "airport terminal" which has operated before the effective date of the amendment, the 15th June, 2007.  The CAA shall inform the airport operator to apply the certification including its facilities and operations for the aircraft taking off, landing and movement in the activity area within a time limit.
 About the items, certification, exemption procedure, issuance, suspension, and cancellation of the facilities and operations mentioned in the preceding two paragraphs, and other necessary procedures shall be formulated by MOTC.
-CAA shall assign inspectors to inspect the facilities and operations for the aircraft taking off, landing and movement in the activity area in the "airport terminal" and shall supervise and direct its business. The airport operator cannot avoid, obstruct or refuse such inspection. Any deficiency is discovered, CAA shall inform the airport operator to make improvement in a time limit.]]></條文內容>
+CAA shall assign inspectors to inspect the facilities and operations for the aircraft taking off, landing and movement in the activity area in the "airport terminal" and shall supervise and direct its business.  The airport operator cannot avoid, obstruct or refuse such inspection.  Any deficiency is discovered, CAA shall inform the airport operator to make improvement in a time limit.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 29</條號>
@@ -289,27 +291,27 @@ The MOTC in conjunction with MOIA and the Ministry of National Defense (MND) sha
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[To deal with violators of prohibition or restriction rulings referred to in the preceding Article, CAA in conjunction with concerned agencies should notify the owner of the obstructive structure to make improvement within a time limit or to relocate. However, in the case of a specially approved structure as referred to in the preceding Article, the owner should be obliged to install obstacle lights and markings. If such obstructive structures were already in place at the time the prohibition or restriction rulings were promulgated, operator of the airport or the airfield shall pay compensation for the relocation or for installing obstruction lights and marking.
-Not according to demolition or relocation in paragraph one, the airport and the
-Aviation Police Office, Nation Police Agency, Ministry of the Interior (hereinafter referred to as Aviation Police Office) in conjunction with the relevant agencies shall be subject to perform coercive demolishing.]]></條文內容>
+    <條文內容><![CDATA[To deal with violators of prohibition or restriction rulings referred to in the preceding Article, CAA in conjunction with concerned agencies should notify the owner of the obstructive structure to make improvement within a time limit or to relocate. However, in the case of a specially approved structure as referred to in the preceding Article, the owner should be obliged to install obstacle lights and markings.
+If such obstructive structures were already in place at the time the prohibition or restriction rulings were promulgated, operator of the airport or the airfield shall pay compensation for the relocation or for installing obstruction lights and marking.
+Not according to demolition or relocation in paragraph one, the airport and the Aviation Police Office, Nation Police Agency, Ministry of the Interior (hereinafter referred to as Aviation Police Office) in conjunction with the relevant agencies shall be subject to perform coercive demolishing.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 33-1</條號>
-    <條文內容><![CDATA[Owners of buildings or other facilities exceeding a certain height shall have obstacle lights and marks installed, and shall keep such lights and marking in normal working condition. The same shall apply to buildings or facilities not exceeding such height but nonetheless believed to have an impact on aviation safety upon evaluation.
-Standards for the certain height 、 installing obstacle lights and marking mentioned in paragraph one shall be prescribed by MOTC in conjunction with the MOI.]]></條文內容>
+    <條文內容><![CDATA[Owners of buildings or other facilities exceeding a certain height shall have obstacle lights and marks installed, and shall keep such lights and marking in normal working condition.  The same shall apply to buildings or facilities not exceeding such height but nonetheless believed to have an impact on aviation safety upon evaluation.
+Standards for the certain height、installing obstacle lights and marking mentioned in paragraph one shall be prescribed by MOTC in conjunction with the MOI.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 34</條號>
-    <條文內容><![CDATA[Any person in possession of animals, pigeons and other birds shall prevent the same from entering an airport, airfield or area of navigation aids. The operator of an airport, airfield or navigation aids may catch and kill those animals, pigeons and other birds that have entered any of these areas which may pose a clear danger to aviation safety. Where there is any potential threat of such entry, appropriate measures may be implemented at a certain distance from the outer boundary of an airport to prevent such entry.
+    <條文內容><![CDATA[Any person in possession of animals, pigeons and other birds shall prevent the same from entering an airport, airfield or area of navigation aids.  The operator of an airport, airfield or navigation aids may catch and kill those animals, pigeons and other birds that have entered any of these areas which may pose a clear danger to aviation safety.  Where there is any potential threat of such entry, appropriate measures may be implemented at a certain distance from the outer boundary of an airport to prevent such entry.
 Except as otherwise approved by CAA, the raising of pigeons or releasing of any objects that may be considered hazardous to flight safety is prohibited within a certain distance from the outer boundary of an airport or airfield.
-The MOTC, in conjunction with agencies concerned, shall determine and announce the exact distance referred to in the preceding paragraph. The operator of an airport or airfield shall make compensation for any pigeon house already in existence within such certain distance prior to the said announcement if such house is dismantled and moved within the announced time limit. Any pigeon house not dismantled and moved within the time limit or re-built without proper authorization shall be subject to compulsory dismantling by the operator of an airport and the Aviation Police Bureau in conjunction with the local police authorities without any compensation.
+The MOTC, in conjunction with agencies concerned, shall determine and announce the exact distance referred to in the preceding paragraph. The operator of an airport or airfield shall make compensation for any pigeon house already in existence within such certain distance prior to the said announcement if such house is dismantled and moved within the announced time limit.  Any pigeon house not dismantled and moved within the time limit or re-built without proper authorization shall be subject to compulsory dismantling by the operator of an airport and the Aviation Police Bureau in conjunction with the local police authorities without any compensation.
 The MOTC shall prescribe the rules governing such matters as the application for the aforesaid compensation, on-site inspection, appraisal and grant of compensation.
 The operator of an airport and the Aviation Police Bureau, in conjunction with the local police authorities, shall clamp down on the releasing of any object that may be considered hazardous to flight safety without any compensate.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 35</條號>
     <條文內容><![CDATA[In an effort to control the noise problem at a civil airport, the CAA shall collaborate with the Environmental Protection Administration Executive Yuan in the determination of a noise abatement program.
-Amongst airports referred to in the preceding paragraph, the noise abatement task of a state-operated airport shall be conducted by the CAA. The CAA may entrust the municipality or local county (city) government to conduct the task. For a non state-operated airport, the noise abatement task shall be conducted by its operator.]]></條文內容>
+Amongst airports referred to in the preceding paragraph, the noise abatement task of a state-operated airport shall be conducted by the CAA.  The CAA may entrust the municipality or local county (city) government to conduct the task. For a non state-operated airport, the noise abatement task shall be conducted by its operator.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 36</條號>
@@ -344,21 +346,21 @@ If the documents described in the preceding paragraph 1 or 2 are not in order or
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[The owner or operator of an aircraft with an airworthiness certificate shall maintain the aircraft in accordance to regulations to insure the aircraft remains airworthy and conduct a preflight inspection before flight. If the aircraft is found not to be airworthy determined by an inspector or the pilot-in-command, the aircraft shall not be allowed to take off.
-CAA shall send personnel or delegate another agency or body to inspect the maintenance activities of the owner or operator of the aforesaid aircraft. The owner or operator of an aircraft may not refuse, evade or impede such inspection. If the maintenance status does not meet airworthiness and safety requirements, the aircraft shall be grounded and its airworthiness certificate be revoked.
+    <條文內容><![CDATA[The owner or operator of an aircraft with an airworthiness certificate shall maintain the aircraft in accordance to regulations to insure the aircraft remains airworthy and conduct a preflight inspection before flight.  If the aircraft is found not to be airworthy determined by an inspector or the pilot-in-command, the aircraft shall not be allowed to take off.
+CAA shall send personnel or delegate another agency or body to inspect the maintenance activities of the owner or operator of the aforesaid aircraft.  The owner or operator of an aircraft may not refuse, evade or impede such inspection.  If the maintenance status does not meet airworthiness and safety requirements, the aircraft shall be grounded and its airworthiness certificate be revoked.
 Civil Air Transport Enterprise shall submit aircraft ages, flight hours, the latest records of heavy maintenance and allocation of pilots’ flight hours to CAA for publication and as a reference to passenger when choosing carriers.
 The qualifications, duties and supervision for those delegations as per paragraph two, as well as the procedures to delegate aircraft inspections, shall be formulated by MOTC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[In the interest of flight safety, aircraft in flight shall submit to the appropriate requirements of general flight rules, visual flight rules and instrument flight rules. Aircraft shall also follow all instructions issued by the air traffic control unit.
+    <條文內容><![CDATA[In the interest of flight safety, aircraft in flight shall submit to the appropriate requirements of general flight rules, visual flight rules and instrument flight rules.  Aircraft shall also follow all instructions issued by the air traffic control unit.
 Specific air traffic control procedures described above for general flight rules, visual flight rules, instrument flight rules and other related flight rules shall be prescribed by CAA.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41-1</條號>
     <條文內容><![CDATA[The owner or operator of an aircraft shall be responsible for flight safety of the aircraft and shall conduct safe flight operations pursuant to this Act or any regulation issued under this Act.
 Rules governing flight operations, preparation for flight, flight hour limitation specification, aircraft performance and operational limitations, aircraft instruments, equipment and documents, aircraft telecommunication, navigation equipment, aircraft maintenance, flight crew operation, qualification of pilots, dispatchers, handbooks, forms/records, cabin crew and security shall be enacted by MOTC. Nevertheless, the flight operations standards, which are generally used in international aviation practice and are deemed suitable for domestic use, can be adopted after CAA approves.
-CAA shall send personnel to inspect the operations activity of the owner or operator of the aircraft. The owner or operator of an aircraft may not refuse, evade or impede such inspection and will be notified of deficiencies if any. All deficiencies shall be corrected within a time limit when so advised by the CAA. CAA shall terminate the flight operation for any of the following conditions:
+CAA shall send personnel to inspect the operations activity of the owner or operator of the aircraft.  The owner or operator of an aircraft may not refuse, evade or impede such inspection and will be notified of deficiencies if any. All deficiencies shall be corrected within a time limit when so advised by the CAA. CAA shall terminate the flight operation for any of the following conditions:
 1)An airman who does not possess a valid certificate
 2)An aircraft pilot whose physical and psychological status is not suitable for flight.
 3)The flight test operation would cause imminent danger to persons or property on the ground.]]></條文內容>
@@ -377,7 +379,7 @@ Aircraft flying over restricted or dangerous areas must comply with the applicab
     <條文內容><![CDATA[Any dangerous goods shall not be carried or consigned on board an aircraft, except complying with the provisions of paragraph four or the dangerous goods standards used in international practices regulations about the classification, identification, limitation, packing, marking, labeling, declaration and shipper’s responsibility approved by CAA.
 The civil air transport enterprise, general aviation, air freight forwarder, airport ground handling service, catering service and air cargo entrepot shall not consign, store, load or transport any dangerous goods, except complying with the provisions of paragraph four or the dangerous goods standards used in international practices about the classification, identification, limitation, packing, marking, labeling, declaration, shipper’s responsibility, responsibility of the owner or operator of an aircraft, information providing, handling, training program, application procedure and compliance affair, accident or incident report, and other provisions of dangerous goods approved by CAA.
 CAA shall publish the name of dangerous goods referred to in the preceding two paragraphs.
-The regulations of classification, identification, limitation, packing, marking, labeling, declaration, shipper’s responsibility, the responsibility of the owner of operator of an aircraft, information providing, handling, training program, application procedure, compliance affair, accident or incident report, and other provisions shall be enacted by MOTC. The dangerous goods regulations used in international practices, which are adoptable for domestic use can be referred to after CAA approves.]]></條文內容>
+The regulations of classification, identification, limitation, packing, marking, labeling, declaration, shipper’s responsibility, the responsibility of the owner of operator of an aircraft, information providing, handling, training program, application procedure, compliance affair, accident or incident report, and other provisions shall be enacted by MOTC.  The dangerous goods regulations used in international practices, which are adoptable for domestic use can be referred to after CAA approves.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 43-1</條號>
@@ -423,7 +425,7 @@ Each publicly and privately owned institution with operations at an airport shal
 The foreign civil air transport enterprise shall formulate its own aviation security program and submit it to CAA for acceptance prior to its implementation.
 The air cargo entrepot, airport ground handling service, catering service and publicly and privately owned institution with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non- security restricted area, shall formulate its own aviation security program of the airport where it is operating and submit it to Aviation Police Office for approval prior to its implementation.
 The air freight forwarder should formulate an aviation security program and submit it to Aviation Police Office for approval to apply for the regulated agent.
-Aviation Police Office may dispatch security inspectors to audit, inspect and test the security measures and practices of each publicly and privately owned institution operating at an airport and of the regulated agent. The unit subjected to such security audit, inspection and test shall not avoid, impede, or refuse, and will be notified of deficiencies, if any, and shall redress such deficiencies within a specified time limit.
+Aviation Police Office may dispatch security inspectors to audit, inspect and test the security measures and practices of each publicly and privately owned institution operating at an airport and of the regulated agent.  The unit subjected to such security audit, inspection and test shall not avoid, impede, or refuse, and will be notified of deficiencies, if any, and shall redress such deficiencies within a specified time limit.
 While dispatching security inspectors to implement the security audit, inspection and test referred to in the preceding paragraph, Aviation Police Office may request the operator of an airport to jointly conduct.]]></條文內容>
   </條文>
   <條文>
@@ -530,9 +532,9 @@ Whenever deemed necessary, CAA may inspect the business and financial conditions
   </條文>
   <條文>
     <條號>Article 58-1</條號>
-    <條文內容><![CDATA[Civil air transport enterprises shall report to CAA with a performance plan of alliance and submit related documentation to apply for approval and to file an application for MOTC approval for their alliance before starting the alliance operation. The MOTC is able to approve such alliance with conditions, period, limitations or burdens.
+    <條文內容><![CDATA[Civil air transport enterprises shall report to CAA with a performance plan of alliance and submit related documentation to apply for approval and to file an application for MOTC approval for their alliance before starting the alliance operation.  The MOTC is able to approve such alliance with conditions, period, limitations or burdens.
 In the event that the civil air transport enterprises fail to operate an alliance in accordance with the performance plan, or the approved reasons for the alliance to cease to exist, or the alliance cause violation of public interest or civil aviation development, the CAA is entitled to withdraw its approval, revise the contents of approval, order to stop the alliance or amend the alliance actions.
-The alliance shall be subject to the Fair Trade Commission’s approval if the alliance mentioned in the first paragraph meets the scope of alliance actions under Article 14 of the Fair Trade Law. The Reviewing Rules for Approving the Alliance shall be promulgated by MOTC together with the Fair Trade Commission.]]></條文內容>
+The alliance shall be subject to the Fair Trade Commission’s approval if the alliance mentioned in the first paragraph meets the scope of alliance actions under Article 14 of the Fair Trade Law.  The Reviewing Rules for Approving the Alliance shall be promulgated by MOTC together with the Fair Trade Commission.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 59</條號>
@@ -577,9 +579,9 @@ Rules governing the business items of general aviation enterprise, application f
   <編章節>      Section 3 Air Freight Forwarder</編章節>
   <條文>
     <條號>Article 66</條號>
-    <條文內容><![CDATA[Any person aspiring to work as air freight forwarder shall apply to MOTC via
-CAA for permission to set up business. Within a specified preparatory period the applicant shall, according to law, complete registration with appropriate authorities and submit to MOTC via CAA for approval. The forwarder-to-be may start operation only after receiving a license from CAA. If the air freight forwarder fails to start up for over six months from the date license was issued, or has suspended operation for over six months after start-up, CAA shall advise MOTC to have its license revoked and notify concerned authorities to cancel its registration, unless an extension with justifiable reasons is applied for and approved.
-To close down business, the air freight forwarder shall report via CAA to MOTC for record and, within thirty days after closure, return the air freight forwarder license. If the license is not return in time, CAA will make known cancellation of the license in a public announcement.
+    <條文內容><![CDATA[Any person aspiring to work as air freight forwarder shall apply to MOTC via CAA for permission to set up business. Within a specified preparatory period the applicant shall, according to law, complete registration with appropriate authorities and submit to MOTC via CAA for approval. The forwarder-to-be may start operation only after receiving a license from CAA.
+If the air freight forwarder fails to start up for over six months from the date license was issued, or has suspended operation for over six months after start-up, CAA shall advise MOTC to have its license revoked and notify concerned authorities to cancel its registration, unless an extension with justifiable reasons is applied for and approved.
+To close down business, the air freight forwarder shall report via CAA to MOTC for record and, within thirty days after closure, return the air freight forwarder license.  If the license is not return in time, CAA will make known cancellation of the license in a public announcement.
 The extension referred to in paragraph two may not exceed six months, and will be granted once only.]]></條文內容>
   </條文>
   <條文>
@@ -615,9 +617,9 @@ The 2 previous articles shall apply mutatis mutandis to a foreign airfreight for
   <編章節>      Section 4 Air Cargo entrepot</編章節>
   <條文>
     <條號>Article 71</條號>
-    <條文內容><![CDATA[The applicant intending to set up an air cargo entrepot shall enclose relevant documents to CAA for permission from MOTC. Within a specified preparatory period, the applicant should complete registration with concerned authorities according to relevant laws, prepare necessary field, equipments and facilities, register with the customs office, for a certificate and submit to MOTC via CAA for approval. Only after a license issued by CAA can the air cargo entrepot begin operations.
+    <條文內容><![CDATA[The applicant intending to set up an air cargo entrepot shall enclose relevant documents to CAA for permission from MOTC.  Within a specified preparatory period, the applicant should complete registration with concerned authorities according to relevant laws, prepare necessary field, equipments and facilities, register with the customs office, for a certificate and submit to MOTC via CAA for approval.  Only after a license issued by CAA can the air cargo entrepot begin operations.
 Airport operator shall provide a designated hand-over area to off-airport entrepots which get approval to run their entrepot business within 25 kilometers radius from an international airport, to handle the freight into and out of the airport.
-In the event the air cargo entrepot fails to start operation for more than six months after the license was issued, or has suspended business for over six months after starting up, the CAA shall advise MOTC to have its permission withdrawn, then revoke the license of the air cargo entrepot and notify concerned authorities to abolish its registration. However, an extension may be applied for on the basis of justifiable reasons.
+In the event the air cargo entrepot fails to start operation for more than six months after the license was issued, or has suspended business for over six months after starting up, the CAA shall advise MOTC to have its permission withdrawn, then revoke the license of the air cargo entrepot and notify concerned authorities to abolish its registration.  However, an extension may be applied for on the basis of justifiable reasons.
 The aforesaid extension, if approved, shall not exceed a period of six months, and it can be granted just once only.]]></條文內容>
   </條文>
   <條文>
@@ -695,11 +697,11 @@ Rules governing the procedures and the required documents of application for per
     <條號>Article 81</條號>
     <條文內容><![CDATA[No foreign aircraft or foreign civil air transport enterprises may carry passengers, cargo and mail between two points in the ROC with or without remuneration, or operate as a general aviation enterprise in the ROC, unless it complies with any of the following:
 1) Foreign private aircraft in accordance with paragraph one of article 78 allowed to engage in flights of non-profit activities in the territory of the Republic of China .
-2) Otherwise provided under a treaty or agreement.]]></條文內容>
+2)Otherwise provided under a treaty or agreement.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 82</條號>
-    <條文內容><![CDATA[A foreign civil air transport enterprise seeking to establish a business partnership in the ROC shall provide all relevant documents in its application to the CAA. The CAA will forward the application to the MOTC for processing and approval in accordance with the laws. If the business partner is a branch office, the registration shall be made in accordance with the law, and the application submitted to the CAA for approval by the MOTC. A branch office may begin operations only after receiving a license for that specific branch office of the parent foreign civil air transport enterprise by the CAA, and supporting documents are obtained upon registering with the Custom Office.
+    <條文內容><![CDATA[A foreign civil air transport enterprise seeking to establish a business partnership in the ROC shall provide all relevant documents in its application to the CAA. The CAA will forward the application to the MOTC for processing and approval in accordance with the laws.  If the business partner is a branch office, the registration shall be made in accordance with the law, and the application submitted to the CAA for approval by the MOTC.  A branch office may begin operations only after receiving a license for that specific branch office of the parent foreign civil air transport enterprise by the CAA, and supporting documents are obtained upon registering with the Custom Office.
 A foreign civil air transport enterprise that has not set up a branch office according to the previous paragraph shall not solicit any passenger and/or cargo transport business in the ROC unless it has entrusted a general sales agent in the ROC to carry out or handle such business on its behalf.
 A foreign civil air transport enterprise intending to close up the business of its branch office shall report to MOTC for reference through CAA in advance, and shall return its branch office license of a foreign civil air transport enterprise within 30 days after its business closure; failure to return such license within the time limit shall entitle CAA to revoke the license directly and notify the public.]]></條文內容>
   </條文>
@@ -747,8 +749,8 @@ A foreign civil air transport enterprise intending to close up the business of i
   </條文>
   <條文>
     <條號>Article 91</條號>
-    <條文內容><![CDATA[The aircraft operator shall be liable for accidental death or injury of passengers in the aircraft or while embarking or disembarking the aircraft. But if such death or injury is attributed to the passenger’s fault, such liability may be exonerated or reduced.
-The aircraft operator shall be liable for causing damage to passengers because of flight delay, provided that the aircraft operator can prove the delay is caused by force majeure. The liability shall be limited to the necessary extra expense incurred to the passengers through the flight delay.]]></條文內容>
+    <條文內容><![CDATA[The aircraft operator shall be liable for accidental death or injury of passengers in the aircraft or while embarking or disembarking the aircraft.  But if such death or injury is attributed to the passenger’s fault, such liability may be exonerated or reduced.
+The aircraft operator shall be liable for causing damage to passengers because of flight delay, provided that the aircraft operator can prove the delay is caused by force majeure.  The liability shall be limited to the necessary extra expense incurred to the passengers through the flight delay.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 92</條號>
@@ -756,14 +758,14 @@ The aircraft operator shall be liable for causing damage to passengers because o
   </條文>
   <條文>
     <條號>Article 93</條號>
-    <條文內容><![CDATA[Where there is a special contract providing for the amount of compensation for damage to passengers or duty personnel aboard an aircraft, the special contract shall prevail. If the special contract contains discriminating clauses unfavorable to ROC citizens, the most favorable clauses shall apply. Where there is no special contract, the MOTC shall, according to related regulations or rules in this Law, and making reference to international standards for liability, prescribe rules for compensation and submit to the Executive Yuan for approval and promulgation.
+    <條文內容><![CDATA[Where there is a special contract providing for the amount of compensation for damage to passengers or duty personnel aboard an aircraft, the special contract shall prevail.  If the special contract contains discriminating clauses unfavorable to ROC citizens, the most favorable clauses shall apply.  Where there is no special contract, the MOTC shall, according to related regulations or rules in this Law, and making reference to international standards for liability, prescribe rules for compensation and submit to the Executive Yuan for approval and promulgation.
 The special contract referred to above shall be in writing.
 The standards of liability set forth in the first paragraph shall not affect the right of the victim to bring claim in a lawsuit.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 93-1</條號>
     <條文內容><![CDATA[The liability of aircraft users or carriers for loss of cargo, or checked-in baggage shall be limited to NT$1,000 per kilogram, unless the nature and value of the cargo or baggage which have been declared to air carriers and specified in the airway bill or passenger tickets.
-Passengers’ carry-on baggage shall be compensated for actual damages. Each passenger shall not claim compensation for more than NT$20,000.
+Passengers’ carry-on baggage shall be compensated for actual damages.  Each passenger shall not claim compensation for more than NT$20,000.
 Aircraft users or carriers shall not claim for limited liability if the damage mentioned in preceding 2 paragraphs was caused by their intention or by their gross negligence.
 The preceding 3 paragraphs shall also be applied to air freight forwarders, airport ground handling services and air cargo entrepots when being claimed for compensations.]]></條文內容>
   </條文>
@@ -778,7 +780,7 @@ The amount of liability referred to in the preceding paragraph shall be prescrib
   </條文>
   <條文>
     <條號>Article 96</條號>
-    <條文內容><![CDATA[CAA may detain any foreign aircraft that fails to produce proof of liability insurance, or makes an emergency landing or crashed without a special permit to operate in the ROC territory. If there is any damage to persons or property, compensation shall be made in accordance with the ROC laws.
+    <條文內容><![CDATA[CAA may detain any foreign aircraft that fails to produce proof of liability insurance, or makes an emergency landing or crashed without a special permit to operate in the ROC territory.  If there is any damage to persons or property, compensation shall be made in accordance with the ROC laws.
 In the events of the circumstance described in the preceding paragraph, except where other violations of law are found, the aircraft shall be released if its owner, lessee, borrower or pilot-in-command produces proof of liability endorsed by CAA.]]></條文內容>
   </條文>
   <條文>
@@ -809,7 +811,7 @@ The ultra-light vehicle design and manufacturing standard will be prescribed by 
   </條文>
   <條文>
     <條號>Article 99-2</條號>
-    <條文內容><![CDATA[Owners and operators of ultra-light vehicle shall join an activity association as members and comply with the guideline provided by the activity association before starting activities. Manufacturers and their operators of ultra-light vehicles may be excluded from the guideline made by the association stated above.
+    <條文內容><![CDATA[Owners and operators of ultra-light vehicle shall join an activity association as members and comply with the guideline provided by the activity association before starting activities.  Manufacturers and their operators of ultra-light vehicles may be excluded from the guideline made by the association stated above.
 Owners and operators of ultra-light vehicles shall be responsible for flight safety, keep the ultra-light vehicle in serviceable condition, and perform a safe flight operation in accordance with CAR and related regulations.]]></條文內容>
   </條文>
   <條文>
@@ -821,7 +823,7 @@ The regulations governing ultra-light vehicle registration, certification and op
   <條文>
     <條號>Article 99-4</條號>
     <條文內容><![CDATA[The airspace for ultra-light vehicle shall be defined by MOTC together with the Ministry of National Defense; and can be revoked if and when necessary.
-The above-mentioned airspace shall not include the airspace of national parks and planned urban development region. Nevertheless, it shall include agriculture and scenery areas or areas approved by the Executive Yuan.
+The above-mentioned airspace shall not include the airspace of national parks and planned urban development region.  Nevertheless, it shall include agriculture and scenery areas or areas approved by the Executive Yuan.
 The period for use, or any other prohibitions or limitations for use of airspace mentioned in the first paragraph can be preside over by CAA for national defense, for safeguarding aviation safety, or for public interest, must be published.
 The activity association shall inform its members of the publication mentioned in the preceding paragraph.]]></條文內容>
   </條文>
@@ -837,14 +839,14 @@ CAA may seek assistance from other government officials when enforcing ultra-lig
   </條文>
   <條文>
     <條號>Article 99-6</條號>
-    <條文內容><![CDATA[Where casualty, bodily injury or damage to property occurs as a result of operating an ultra-light vehicle, the owner of the vehicle shall be liable for compensation regardless of whether such accident is due to willful action or negligence. Owner of the ultra-light vehicle shall also be liable for damage caused by force majeure. The same also applies to damage caused by falling or dropping objects from the vehicle.
+    <條文內容><![CDATA[Where casualty, bodily injury or damage to property occurs as a result of operating an ultra-light vehicle, the owner of the vehicle shall be liable for compensation regardless of whether such accident is due to willful action or negligence.  Owner of the ultra-light vehicle shall also be liable for damage caused by force majeure.  The same also applies to damage caused by falling or dropping objects from the vehicle.
 The owner and operator of ultra-light vehicle shall be jointly liable for damages mentioned in the preceding paragraph if the owner of ultra-light vehicle allowed a third party to operate the ultra-light vehicle.
-The compensation amount for death and bodily injury in the preceding 2 paragraphs shall also be applied to the standards as mentioned in the rules of paragraph 1 of Article 93, The standards of liability set forth shall not affect the right of the victim to bring claim in a lawsuit.
+The compensation amount for death and bodily injury in the preceding 2 paragraphs shall also be applied to the standards as mentioned in the rules of paragraph 1 of Article 93,  The standards of liability set forth shall not affect the right of the victim to bring claim in a lawsuit.
 The owner of ultra-light vehicle shall purchase liability insurance for the compensation amount mentioned in the preceding paragraph.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 99-7</條號>
-    <條文內容><![CDATA[CAA may provide personnel to inspect an activity club and its members for various equipments, business and ultra-light vehicle. The activity club shall not refuse, avoid or impede such inspections, and will be notified of deficiencies if any; and shall improve within a certain period of time when so advised by CAA.]]></條文內容>
+    <條文內容><![CDATA[CAA may provide personnel to inspect an activity club and its members for various equipments, business and ultra-light vehicle.  The activity club shall not refuse, avoid or impede such inspections, and will be notified of deficiencies if any; and shall improve within a certain period of time when so advised by CAA.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 99-8</條號>
@@ -859,7 +861,7 @@ Upon the occurrence of the flight safety related event involving drone, the owne
   </條文>
   <條文>
     <條號>Article 99-10</條號>
-    <條文內容><![CDATA[Registration of drone shall be required for the drone with maximum takeoff weight exceeding 250g owned by the natural person, and for the drone owned by the government agencies (institutions), schools or legal persons. The registration number shall be displayed on a conspicuous part of the drone, and the drone above of a certain weight shall be equipped with radio frequency identification functions during the flight.
+    <條文內容><![CDATA[Registration of drone shall be required for the drone with maximum takeoff weight exceeding 250g owned by the natural person, and for the drone owned by the government agencies (institutions), schools or legal persons.  The registration number shall be displayed on a conspicuous part of the drone, and the drone above of a certain weight shall be equipped with radio frequency identification functions during the flight.
 The operator of the drones shall only operate the drone after passing the examination and being issued the operator certificate by the CAA provided:
 1)Drones owned by government agencies (institutions), schools or legal persons;
 2)Drones with maximum takeoff weight exceeding certain weight; and
@@ -880,9 +882,9 @@ CAA shall prescribe measure relating to the preceding inspection on the drone. T
 For the area outside of the preceding paragraph prohibited or restricted areas and the altitude not exceeding 400 feet above the ground level, municipal and county (city) governments may, in considering public interest and safety needs, announce the permitted area, time and other administrative items for drone activities. However, where the central government agency deems it necessary to prohibit or restrict drone flight activities, it may direct the municipal and county (city) governments of the relevant area to make public announcement thereof, and the relevant municipal and county (city) governments shall follow such direction accordingly.
 Government agencies (institutions), schools or legal persons who engage in the drone flight activities to perform duties within the area set forth in paragraph 1 shall apply to CAA, which shall consult relevant supervisory authority, for approval.
 Government agencies (institutions), schools or legal persons who engage in the drone flight activities to perform duties outside of the area, time and other administrative items set forth in paragraph 2 shall apply to the relevant municipal and county (city) government, which shall consult relevant supervisory authority at central government level, for approval.
-Any drone that enters into the prohibited or restricted area set forth in paragraph 1 without permission shall be terminated or excluded by the administrator of the prohibited or restricted area with appropriate measures. Where necessary, CAA may be notified to enforce punitive procedures in conjunction with the police agency.
+Any drone that enters into the prohibited or restricted area set forth in paragraph 1 without permission shall be terminated or excluded by the administrator of the prohibited or restricted area with appropriate measures.  Where necessary, CAA may be notified to enforce punitive procedures in conjunction with the police agency.
 Any drone that enters into certain distance from the boundary of an airport or airfield set forth in paragraph 1 without permission shall be imposed enforcement measures by the operator or administrator of the airport or airfield in conjunction with the Aviation Police Bureau. Where necessary, relevant authorities may be notified to assist in the enforcement.
-Any drone that enters into the area not in compliance with the permitted area, time and other administrative items set forth in paragraph 2 without permission shall be imposed enforcement measures by the relevant municipal and county (city) government. Where necessary, police agency may be notified to assist in the enforcement. However, where any drone enters into the municipal or county (city) government area without permission, the relevant municipal or county (city) government may take appropriate measures to terminate or exclude such drone.]]></條文內容>
+Any drone that enters into the area not in compliance with the permitted area, time and other administrative items set forth in paragraph 2 without permission shall be imposed enforcement measures by the relevant municipal and county (city) government.  Where necessary, police agency may be notified to assist in the enforcement.  However, where any drone enters into the municipal or county (city) government area without permission, the relevant municipal or county (city) government may take appropriate measures to terminate or exclude such drone.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 99-14</條號>
@@ -902,7 +904,7 @@ The government agencies (institutions), schools or legal persons in the precedin
   </條文>
   <條文>
     <條號>Article 99-15</條號>
-    <條文內容><![CDATA[Where casualty, bodily injury or damage to property occurs as a result of operating an drone, its owner shall be liable for compensation regardless of whether such accident is due to willful action or negligence. Owner of the drone shall also be liable for damages caused by force majeure. The same also applies to damages caused by falling or dropping of objects from the drone.
+    <條文內容><![CDATA[Where casualty, bodily injury or damage to property occurs as a result of operating an drone, its owner shall be liable for compensation regardless of whether such accident is due to willful action or negligence. Owner of the drone shall also be liable for damages caused by force majeure.  The same also applies to damages caused by falling or dropping of objects from the drone.
 The owner and operator of the drone shall be jointly liable for damages mentioned in the preceding paragraph if the owner of the drone has allowed a third party to operate such drone.
 Government agencies (institutions), schools or legal persons shall purchase liability insurance for the compensation amount mentioned in Article 93, paragraph 1 before engaging in the activities set forth in paragraph 3 of the preceding article.]]></條文內容>
   </條文>
@@ -939,9 +941,27 @@ Such person who causes death to another is subject to the penalty of death, impr
 Any person attempting to commit the crime described in paragraph 1 shall be punished.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 101-1</條號>
+    <條文內容><![CDATA[Any person who jeopardizes the normal operation of an airport terminal or navigation aids by theft, destruction or other illegal manners shall be sentenced to imprisonment from 1 to 7 years; in addition thereto, a fine of up to NT$10,000,000 may be imposed.
+Any person who commits the crime mentioned in the preceding paragraph with the intention of jeopardizing national security or social stability shall be sentenced to imprisonment from 3 to 10 years ; in addition thereto, a fine of up to NT$50,000,000 may be imposed.
+Such person who commits the crime stated in the preceding two paragraphs and consequently causes catastrophe shall be subject to the sentences prescribed by increasing it up to one half. If the crime results in death of others, the person shall be subject to life imprisonment or imprisonment not less than 7 years ; in addition thereto, a fine of up to NT$100,000,000 may be imposed. If the crime results in severe injuries, the person shall be subject to imprisonment from 5 to 12 years ; in addition thereto, a fine of up to NT$80,000,000 may be imposed.
+Any person attempting to commit a crime described in Paragraphs 1 and 2 shall be punished.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 101-2</條號>
+    <條文內容><![CDATA[Any person who jeopardizes the normal operation of the core information and communication system of an airport terminal or navigation aids in any of the following manners shall be sentenced to imprisonment from 1 to 7 years ; in addition thereto, a fine of up to NT$10,000,000 may be imposed:
+1)Gaining access into the computer or related equipment by entering the password of the computer account, cracking the protective measures for using the computer or exploiting the loophole of the computer system without due cause.
+2)Interfering with the computer or related equipment through the use of computer programs or other electromagnetic means without due cause.
+3)Obtaining, deleting or changing the electromagnetic records of the computer or related equipment without reason.
+Any person who makes computer programs specifically for him/herself or another to commit a crime specified in the preceding paragraph shall be subject to the same punishment.
+Any person who commits the crime mentioned in the preceding two paragraphs with the intention of jeopardizing national security or social stability shall be sentenced to an imprisonment from 3 to 10 years; in addition thereto, a fine of up to NT$50,000,000 may be imposed.
+Such person who commits the crime stated in the preceding three paragraphs and consequently causes catastrophe shall be subject to the sentences prescribed by increasing it up to one half. If the crime results in death of others, the person shall be subject to life imprisonment or imprisonment not less than 7 years ; in addition thereto, a fine of up to NT$100,000,000 may be imposed.  If the crime results in severe injuries, the person shall be subject to imprisonment from 5 to 12 years ; in addition thereto, a fine of up to NT$80,000,000 may be imposed.
+Any person attempting to commit a crime described in Paragraphs 1 to 3 shall be punished.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 102</條號>
     <條文內容><![CDATA[Any person who violates the provisions specified in Article 43-2, paragraph 1 shall be subject to imprisonment not exceeding five years, detention or a fine of up to NT$ 150,000.
-Any person committing the crime stated in the preceding paragraph and consequently causes death to another shall be subject to imprisonment for life or not less than 7 years; subject to imprisonment from 3 to 10 years for causing serious injury to another.]]></條文內容>
+Any person committing the crime stated in the preceding paragraph and consequently causes death to another shall be subject to imprisonment for life or not less than 7 years;   subject to imprisonment from 3 to 10 years for causing serious injury to another.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 103</條號>
@@ -976,7 +996,7 @@ The license and certificates referred to above shall be revoked by CAA.]]></條�
   </條文>
   <條文>
     <條號>Article 110</條號>
-    <條文內容><![CDATA[The responsible person of a manufacturer or repair station, their employee or other hired person who undertakes the manufacture or maintenance with unapproved aviation products, appliances and parts, shall be subject to imprisonment not more than 3 years, detention, or in lieu of or addition to, a fine of up to NT$1,000,000.
+    <條文內容><![CDATA[The responsible person of  a manufacturer or repair station, their employee or other hired person who undertakes the manufacture or maintenance with unapproved aviation products, appliances and parts, shall be subject to imprisonment not more than 3 years, detention, or in lieu of or addition to, a fine of up to NT$1,000,000.
 Any person who commits the crime stated in the preceding paragraph to the extent of causing danger to flight safety shall be subject to imprisonment from 3 to 10 years; subject to the death sentence, imprisonment for life or up to 10 years for causing death to another; subject to imprisonment from 5 to 12 years for causing serious injury to another.
 Any person who, due to negligence of duty, commits the crime stated in paragraph 1 to the extent of causing danger to flight safety shall be subject to imprisonment not exceeding 3 years, detention plus a fine of up to NT$1,000,000; subject to imprisonment up to 7 years or detention plus a fine of up to NT$3,000,000 for causing death to another; subject to imprisonment up to 5 years or detention plus a fine of up to NT$2,000,000 for causing serious injury to another.]]></條文內容>
   </條文>
@@ -1035,7 +1055,7 @@ An aircraft owner or operator, civil air transport enterprise, general aviation 
 6)Violation of provisions of Article 41-2 pertaining to reporting of flight safety related events.
 7)Non-compliance with noise control regulations.
 8)Violation of provisions of Article 48, paragraph 3 for failure to execute the business suspension or termination plan as approved.
-9)Violation of the provisions of Article 55, paragraph 1 for failure to report for permission or record when setting or changing passenger and cargo tariffs.
+7)Violation of the provisions of Article 55, paragraph 1 for failure to report for permission or record when setting or changing passenger and cargo tariffs.
 10)Violation of the provisions of Article 56, paragraph 1 for failure to submit periodical reports on business, finance, flight operation, maintenance or name list of shareholders in possession of over three percent (3%) of stocks.
 11)Violation of the provisions of Article 58, for failure to report an increase or decrease of capital, issuance of company bonds, contracts of lease for connecting carriage and franchise, change or relocation of major facilities for flight operations and maintenance.
 12)Violation of provisions in Article 63-1 with respect to air routes suspension or termination.
@@ -1124,17 +1144,17 @@ CAA may impose lesser penalty or grant exoneration judging by the seriousness of
   <條文>
     <條號>Article 114</條號>
     <條文內容><![CDATA[Any repair station, in the execution of its operations, shall be issued a warning or be liable to a fine from NT$60,000 up to NT$300,000 for any one of the following; and in serious cases, the penalty shall be partial or complete suspension of its business or revocation of his or her certificate:
-1)For major repair or alteration, not comply with the technical documents approved by CAA or by the civil aviation authority of the manufacture.
-2)Performing maintenance or alteration of items not rated in operation specification or lacking the necessary special equipment, facility, tools, or technical documents when working on any items been rated.
-3)Failure to keep its maintenance capacity, inclusive of staff, facilities, equipment, tools and instruments up to the standards, and failure to conduct periodical inspections.
-4)The material, method and procedures used in maintenance or alterations do not conform to the technical documents issued by the original manufacturer or accepted by CAA.
-5)The use of special tools or test equipment not in compliance with the recommendations of the original manufacturer, or alternate methods accepted by CAA.
-6)Not using the maintenance program of the operator or owner.
-7)The repair or alternation of aviation products, appliances and parts has neither been inspected in according with pertinent manual or been signed and released in appropriated form or tag by qualified personnel.
-8)Failure to have a complete set of records of the maintenance and alteration, or failure to properly keep such records on file.
-9)Failure to execute operations in accordance with the technical documents accepted by CAA. For erasing, altering, falsifying records, or for non-reporting of quality assurance system deficiency, major malfunction or failure or deficiencies of products.
-10)Violation of the provisions of Article 23-2, paragraph 2 regarding the manual, maintenance records, facilities, equipment, material, qualifications of personnel, maintenance and quality assurance systems or the management of maintenance.
-11)Others such as evading, impeding or refusing inspections that have to be conducted in accordance with this Act or failure to make corrections within time limit.
+For major repair or alteration, not comply with the technical documents approved by CAA or by the civil aviation authority of the manufacture.
+1)Performing maintenance or alteration of items not rated in operation specification or lacking the necessary special equipment, facility, tools, or technical documents when working on any items been rated.
+2)Failure to keep its maintenance capacity, inclusive of staff, facilities, equipment, tools and instruments up to the standards, and failure to conduct periodical inspections.
+3)The material, method and procedures used in maintenance or alterations do not conform to the technical documents issued by the original manufacturer or accepted by CAA.
+4)The use of special tools or test equipment not in compliance with the recommendations of the original manufacturer, or alternate methods accepted by CAA.
+5)Not using the maintenance program of the operator or owner.
+6)The repair or alternation of aviation products, appliances and parts has neither been inspected in according with pertinent manual or been signed and released in appropriated form or tag by qualified personnel.
+7)Failure to have a complete set of records of the maintenance and alteration, or failure to properly keep such records on file.
+8)Failure to execute operations in accordance with the technical documents accepted by CAA. For erasing, altering, falsifying records, or for non-reporting of quality assurance system deficiency, major malfunction or failure or deficiencies of products.
+9)Violation of the provisions of Article 23-2, paragraph 2 regarding the manual, maintenance records, facilities, equipment, material, qualifications of personnel, maintenance and quality assurance systems or the management of maintenance.
+10)Others such as evading, impeding or refusing inspections that have to be conducted in accordance with this Act or failure to make corrections within time limit.
 CAA may impose lesser penalty or grant exoneration judging by the seriousness of the case for self-disclosed violations.]]></條文內容>
   </條文>
   <條文>
@@ -1226,8 +1246,8 @@ Aviation Police Bureau shall enforce the penalties referred to in the two preced
 5) Loitering or lingering in an airport, thus interfering with the passage of or use by passengers, or affecting peace and order.
 6) Posting or distributing any flyers, hanging any flags, displaying any objects, or holding any activities without permission; or soiling or contaminating any facilities in an improper manner.
 7) Parking a vehicle arbitrarily on a public passageway, thus impeding passage.
-8) Violation of the provisions of Article 47-4, paragraph 2 for refusing to be screened or entering and leaving the security restricted area without authorization.
-Aviation Police Office shall enforce the penalties referred to in the Subparagraph 8 of preceding paragraph.]]></條文內容>
+Any person who violates the provisions of Article 47-4, paragraph 2 for refusing to be screened or entering and leaving the security restricted area without authorization , which shall be subject to a fine from NT 5,000 to NT 500,000, in addition thereto, the operator of an airport may, in conjunction with Aviation Police Office, compel his or her absence from the airport .
+Aviation Police Office shall enforce the penalties referred to in the preceding paragraph.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 119-4</條號>

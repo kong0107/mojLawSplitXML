@@ -3,29 +3,33 @@
 <英文法規名稱>Regulations Governing Issuance of Medical Device License, Listing and Annual Declaration</英文法規名稱>
 <中文法規名稱>醫療器材許可證核發與登錄及年度申報準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030128</法規網址>
-<最新英文異動日期>20210429</最新英文異動日期>
+<最新英文異動日期>20231127</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
   <檔案>
     <檔案名稱><![CDATA[Appendix 1： Documents and information that shall be submitted for an application of registration and market approval to manufacture or import Class 1 medical devices.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006705</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008248</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Appendix 2： Documents and information that shall be submitted for an application of registration and market approval to manufacture or import Class 2 or Class 3 medical devices.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006706</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008249</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Appendix 3： Applicable Product Items for Class 2 Medical Device Product Comparison and Preclinical Test Data Conformity Statement.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006707</下載網址>
+    <檔案名稱><![CDATA[Appendix 3：“Applicable Product Items for Class 2 Medical Device Product Comparison and Preclinical Test Data Conformity Statement”mentioned in Section 7 of the Instructions in Appendix 2.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008250</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Appendix 4： Documents and information that shall be submitted for an application of change, re-issuance, or replacement of medical device license.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006708</下載網址>
+    <檔案名稱><![CDATA[Appendix 4：Documents and information that shall be submitted for an application of change, re-issuance, or replacement of medical device license.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008251</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Appendix 5：Documents and information that shall be uploaded for an application for a listing to manufacture or import Class 1 medical devices.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008252</下載網址>
   </檔案>
 </附件>
 <沿革內容><![CDATA[1.Full text including 26 articles adopted and promulgated by the Ministry of Health and Welfare per Order Bu-Shou-Shi-Zi No. 1101603144 on April 29, 2021. These Regulations shall enter into force take effect on May 1, 2021.
-]]></沿革內容>
+2.Article 3, 7, 13, 14, 20, 21, 26, Appendix 1 of Article 5, Appendices 2 and 3 of Article 6 amended, and Article 13-1 added by the Ministry of Health and Welfare per Order Bu-Shou-Shi-Zi No. 1121610033 on November 27, 2023.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -47,7 +51,7 @@
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[Applicants who apply for a license issued by the registration and market approval to manufacture or import medical devices shall submit documents and information in accordance with the provisions of Articles 5 and 6 and pay the fee to the central competent authority for submission.
-Applicants whose application of registration and market approval, as referred to in the preceding paragraph and needed to conduct testing in accordance with the provisions of the Regulations, shall follow the testing notice issued by the central competent authority, pay the testing fee by the designated deadline, and submit sufficient samples necessary for testing to conduct testing procedures. However, this does not apply to those exclusively for export.
+To apply for the registration and market approval referred to in the preceding paragraph for items announced by the central competent authority, applicants shall follow the testing notice issued by the central competent authority, pay the testing fee by the designated deadline, and submit sufficient samples necessary for testing to conduct testing procedures. However, this does not apply to those exclusively for export.
 Registration particulars for the license referred to in Paragraph 1 are as follows:
 1. Chinese and English product names.
 2. Name of the medical device firm.
@@ -55,7 +59,8 @@ Registration particulars for the license referred to in Paragraph 1 are as follo
 4. Effectiveness, intended use, or indication.
 5. Ingredients, materials, structures, specifications, or model number of the medical device.
 6. Labels, instructions, or packaging.
-7. Other registration particulars that have been designated by the central competent authority.]]></條文內容>
+7. Manufacturing license number.
+8. Other registration particulars that have been designated by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -80,7 +85,7 @@ For the application set forth in the preceding paragraph, the central competent 
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[After receiving an application of registration and market approval, the central competent authority shall conduct a formality review of application documents and information.
-If the formality review set forth in the preceding paragraph finds application documents and information are not ready such that corrections can be made, the central competent authority shall notify the applicant to make corrections within four months. Failure to make corrections by the designated deadline shall subject the application to rejection.]]></條文內容>
+If the formality review set forth in the preceding paragraph finds application documents and information are not ready such that corrections can be made, the central competent authority shall notify the applicant to make corrections within one month. Failure to make corrections by the designated deadline shall subject the application to rejection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -129,10 +134,15 @@ If the applicant fails to conduct safety surveillance or post-approval study in 
 7. Address of the manufacturer or country of manufacture.
 8. License holder.
 9. Name of the license holder.
+10. Manufacturing license number.
 When the approved document of license or labels, instructions, or packaging is lost or damaged, documents and information in Appendix 4 shall be submitted and fee shall be paid to apply for replacement or re-issuance.
 If the central competent authority finds that documents and information referred to in the preceding two paragraphs are not ready such that corrections can be made, it shall notify the applicant to make corrections within three months. Failure to make corrections by the designated deadline shall subject the application to rejection.
 For applications of re-issuance or replacement of license as referred to in Paragraph 2, the applicant shall, within three months after the arrival date of the notice, pay the license fee and obtain the license from the central competent authority. Failure to obtain the license by the deadline may subject its license to cancellation by the central competent authority.
 For applications referred to in Paragraphs 1 and 2, the central competent authority shall annotate the original license with the changed registration particulars and date, and return it after stamping.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 13-1</條號>
+    <條文內容><![CDATA[For items announced by the central competent authority to apply for the change referred to in Subparagraph 4 or 7 of Paragraph 1 of the preceding article, the provisions of Paragraph 2 of Article 3 shall apply mutatis mutandis.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
@@ -142,11 +152,13 @@ For applications referred to in Paragraphs 1 and 2, the central competent author
 (2) Due to different packaging quantities, resizing the approved graphic design or text to fit a different size of packaging, or repositioning the approved graphic design or text.
 (3) Changing the fonts of the approved text, and its font size of English text not being larger than that of Chinese text for the product name.
 (4) Adding printings on outer boxes or using new outer boxes to replace the affixed labels, and their design of text and graphs being identical to those in the originally approved labels.
-2. Changes of the following text content that do not relate to the quality and safety of medical devices:
-(1) Adding or changing barcode, recycling mark, "GMP" characters of a medical device GMP manufacturer, CE mark, suggested retail price, customer service telephone line, manufacturer's telephone number, fax number, contact office, copyright registration number or company trademark approved by Taiwan Intellectual Property Office, CNS mark or trademark registration number.
-(2) Adding or changing distributor's name or address, and the font size of distributor's name not larger than that of medical device manufacturer's (license holder's) name.
+2. Changes of the following text content:
+(1) Adding or changing barcode, recycling mark, “QMS/GMP” characters of a medical device QMS/GMP manufacturer, CE mark, suggested retail price, customer service telephone line, manufacturer’s telephone number, fax number, contact office, copyright registration number or company trademark approved by Taiwan Intellectual Property Office, CNS mark or trademark registration number, information of representative in other countries or areas.
+(2) Adding or changing distributor’s name or address, and the font size of distributor’s name not larger than that of medical device manufacturer’s (license holder’s) name.
 (3) Adding or changing the name of medical device firm, or the name or address of manufacturer that has been approved for change by the central competent authority.
-(4) Adding, deleting, or changing the name of medical device firm that has been approved for change by the central competent authority and that constitutes part of the Chinese and English product names.]]></條文內容>
+(4) Adding, deleting, or changing the name of medical device firm that has been approved for change by the central competent authority and that constitutes part of the Chinese and English product names.
+(5) Adding, deleting or changing international symbols representing approval and registration particulars on the license.
+3. Adding, deleting or changing the content according to the announcements made in accordance with Subparagraph 10, Paragraph 1, Article 33 of the Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15</條號>
@@ -189,7 +201,7 @@ After approval of the application set forth in Paragraph 1, the license is issue
   <編章節>   Chapter 5 Listing and Annual Declaration</編章節>
   <條文>
     <條號>Article 20</條號>
-    <條文內容><![CDATA[Applicants who apply for a listing to manufacture or import medical devices shall list the following documents and information in the medical device listing system (hereinafter referred to as "the Listing System") established by the central competent authority and pay the fee to obtain a listing number:
+    <條文內容><![CDATA[Applicants who apply for a listing to manufacture or import medical devices shall list the following documents and information in the medical device listing system (hereinafter referred to as “the Listing System”) established by the central competent authority, upload relevant documents and information as stipulated in Appendix 5 and pay the fee to obtain a listing number:
 1. Chinese and English product names.
 2. Name of the medical device firm.
 3. Name and address of the manufacturer.
@@ -202,6 +214,7 @@ The provisions of Article 4 shall apply mutatis mutandis to the product names of
   <條文>
     <條號>Article 21</條號>
     <條文內容><![CDATA[With the exception of Subparagraph 4, those that change the listing particulars of any subparagraph referred to in Paragraph 1 of the preceding article shall apply for the change in the Listing System and pay the fee.
+For the aforementioned application of change, the previous Article shall apply mutatis mutandis for applicants to upload the documents and information.
 Changes to name of the medical device firm referred to in Subparagraph 2 of Paragraph 1 of the preceding article shall be limited to those that do not involve transfer of rights.
 Changes to item name and number of the medical device classification referred to in Subparagraph 4 of Paragraph 1 of the preceding article shall not apply for a listing change.]]></條文內容>
   </條文>
@@ -231,7 +244,8 @@ Changes to item name and number of the medical device classification referred to
   </條文>
   <條文>
     <條號>Article 26</條號>
-    <條文內容><![CDATA[The Regulations shall be implemented on May 1, 2021.]]></條文內容>
+    <條文內容><![CDATA[The Regulations shall be implemented on May 1, 2021.
+Amendments to the Regulations shall be implemented on the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

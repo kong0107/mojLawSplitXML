@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Capital Adequacy of Insurance Companies</英文法規名稱>
 <中文法規名稱>保險業資本適足性管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390051</法規網址>
-<最新英文異動日期>20210930</最新英文異動日期>
+<最新英文異動日期>20230804</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -13,7 +13,7 @@
 4.Amended on 18 May 2015 per Order Ref. Jin-Kuan-Bao-Tsai 10402503001 of the Financial Supervisory Commission 
 5.Amendment to Article 5, 6, 9 and 10 promulgated per Order No. Jin-Guan-Bao-Cai-Zi 10804960001 dated Dec 4, 2019; Enforce from April 1, 2020.
 6.Amended on 30 September 2021 per Order No. Jin-Guan-Bao-Cai-Zi 11004937871 of the Financial Supervisory Commission.
-]]></沿革內容>
+7.Article 2, 4, and 10 are amended, and 2-1 is added by the Financial Supervision Commission order Jin-Guan-Bao-Cai-Zi 11204924051 on August 4, 2023; The regulations shall become effective on the date of promulgation except for Article 2, 2-1, and 4 which shall become effective from December 31, 2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -22,9 +22,26 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The term "adjusted net capital" as used in the Act means the total capital of an insurance company as recognized by the competent authority in accordance with these Regulations, and includes:
-1.Owners' equity recognized; and
-2.Other adjustment items prescribed by the competent authority.]]></條文內容>
+    <條文內容><![CDATA[The term "adjusted net capital" as used in the Act is classified into Tier 1 unlimited capital, Tier 1 limited capital and Tier 2 capital.
+Tier 1 unlimited capital covers common share, capital surplus, retained earnings and other comprehensive income that comprise authorized capital recognized by the competent authority and adjustment items set out in the relevant reports and fill-in manuals using the scope and calculation methods for adjusted net capital and risk-based capital of insurance companies (referred to as the “fill-in manuals” hereunder) as stipulated in these Regulations.
+Tier 1 limited capital covers the sum of the following items and adjustment items set out in the fill-in manuals:
+1.Non-cumulated preferred shares liability that do not contain interest rate step-up condition or other incentives to redeem.
+2.Non-cumulative subordinated bonds that do not contain interest rate step-up condition or other incentives to redeem.
+Tier 2 capital covers the sum of the following items and adjustment items set out in the fill-in manuals:
+1.Cumulative Preferred shares liability that may contain interest rate step-up conditions or other incentives to redeem.
+2.Cumulative subordinated bonds that may contain interest rate step-up conditions or other incentives to redeem.
+3.Subordinated bonds that have an initial maturity of at least ten years.
+4.Convertible subordinated bonds with an initial maturity of at least five years but less than ten years.
+5.When first adopting the International Financial Reporting Standards for real estate, special reserve funds and special reserves set aside for real estate property using fair value or re-estimated value as the deemed cost.
+6.Fair value adjustments of investment real estate.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 2-1</條號>
+    <條文內容><![CDATA[The common shares, preferred shares and subordinated bonds issued by an insurance company in 2024 and thereafter shall be deemed not issuing such capital instruments when calculating the adjusted net capital if the following circumstances occur:
+1.Upon or after issuance, the insurance company provides relevant financing to the holders of such capital instruments, which impairs the actual effect of such capital instruments.
+2.The insurance company has significant influence to whom hold such capital instruments.
+3.Subsidiaries of the insurance company or its parent financial holding company hold such capital instruments.
+If a capital instrument issued by an insurance company in 2024 and thereafter is invested by its parent financial holding company with external sources of finance, the insurance company should determine the tier of the capital instrument based on the classification of capital instruments issued by it and by its parent company, whichever is lower, unless it is otherwise approved by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -46,7 +63,7 @@
     <條文內容><![CDATA[The term "An insurance company's ratio of total adjusted net capital to risk-based capital (hereinafter referred to as the "capital adequacy ratio") and the net worth ratio shall not be less than a certain ratio" as used in the Article 143-4 of the Act means shall not be less than the grade of adequate capital as used in the Article 5.
 An insurance company's capital adequacy ratio shall be calculated according to the following formula:
 Capital adequacy ratio = (adjusted net capital / risk-based capital) X 100%
-Adjusted net capital of Article 2 and the risk-based capital of Article 3 must be calculated in accordance with the relevant reports and filled-in manuals using the scope and calculation method for the adjusted net capital and risk-based capital of insurance companies as stipulated by the competent authorities.
+Adjusted net capital of Article 2 and the risk-based capital of Article 3 must be calculated in accordance with the fill-in manual.
 The term “the net worth ratio” as used in the Paragraph 1 means that the owner's equity divided by total assets excluding separate accounts for investment-linked insurance specified in the financial report audited by a certified public accountant, except as otherwise provided by the competent authority.]]></條文內容>
   </條文>
   <條文>
@@ -87,7 +104,7 @@ The self-discipline codes regarding "improper comparison, propaganda or competit
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[These Regulations shall enter into force from the date of issuance.]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall enter into force on the date of promulgation, except for Article 2, Article 2-1, and Article 4 that are amended and promulgated on August 4, 2023 will enter into force on December 31, 2023.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

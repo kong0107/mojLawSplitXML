@@ -3,7 +3,7 @@
 <英文法規名稱>Fire Services Act</英文法規名稱>
 <中文法規名稱>消防法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120001</法規網址>
-<最新英文異動日期>20220511</最新英文異動日期>
+<最新英文異動日期>20230621</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -19,15 +19,14 @@
 10.Amended on January 18, 2017
 11.Article 5, 30, 32, 36 and 40 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No. 10800002091, Jan 7, 2019.
 12.Addition of Articles 15-3, 15-4,20-1, 21-1, 27-1, 42-2, and 43-1 , Articles 15,19, 27 and Chapter Four amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.10800123541, Nov.13, 2019.
-13.Article 9 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.11100039311, May 11, 2022.]]></沿革內容>
+13.Article 9 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.11100039311, May 11, 2022.
+14.Amended and promulgated article 1,3,7,11,13,15-2,18,36～40,42,42-2,43,46 ;Addition of Articles 11-1,13-1,15-5,15-6,19-1,26-1,35-1,35-2,42-3,42-4 ; deleting Article 45 ;by Presidential Order Hua-Tsung-I-Yi-Tzu No. 11200052791 June.21, 2023.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter One: General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[(Purpose and Application)
-Fire Services Act (the Act) has been incorporated for preventing fire disaster and providing rescue operation and first aid to maintain public safety, and protect life and property of the people.
-Other applicable laws shall govern any things and matters not specifically provided in the Act.]]></條文內容>
+    <條文內容><![CDATA[This law is enacted to prevent fires, rescue from disasters, and emergency medical treatment, in order to maintain public safety and ensure the protection of people's lives and property.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
@@ -36,8 +35,7 @@ For the purpose of the Act, an “administrator” whenever appears in the Act, 
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[(Regulating Authorities)
-The Ministry of the Interior at the central level; the municipal government at the municipal level and the county/city government at the county/city level shall be the fire regulating authorities.]]></條文內容>
+    <條文內容><![CDATA[The competent authorities referred to in this law are: the Ministry of Interior at the central government level, the city government for municipalities directly under the central government, and the county (city) government for counties (cities).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -62,11 +60,7 @@ Administrators of the place that not involved the ones require automatic fire al
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[(Fire Safety Equipment)
-Fire protection equipment engineer shall design and supervise construction of the fire safety equipment to be provided under the standards of fire safety equipment for each type of places; installation and service of the fire safety equipment shall be provided by fire protection equipment engineer or technician.
-Before the number of fire protection equipment engineer or technician reaches that as specified, any and all design, construction supervision, installation and service of fire safety equipment referred in the first paragraph herein may be provided by those professionals, technical engineers or technicians in the related fields for a term to be specified by the central regulating authorities.
-Regulations governing qualification and control of fire protection equipment engineer shall be separately enacted.
-Before the enactment of those regulations in the previous paragraph, the central regulating authorities may set forth bylaws for the control of fire protection equipment engineers and fire protection equipment technicians.]]></條文內容>
+    <條文內容><![CDATA[Fire safety equipment installed according to the standards for various types of places should be designed and supervised by certified fire safety professionals. Testing and maintenance should be conducted by fire safety professionals or certified fire equipment technicians. The above tasks related to fire safety equipment may be temporarily performed by existing specialized professions and technical personnel or technicians, with a period until five years from the day the amendments to this law are implemented on May 30, 112th year of the Republic of China. Architectural and electrical engineers can design, supervise, or test and repair non-systematic fire safety equipment such as fire extinguishers, signs, and emergency lighting, without being restricted by the first paragraph. The qualification and management of fire safety professionals are determined by other laws. Before the enactment of the aforementioned law, the central competent authority may formulate the management measures for fire safety professionals and fire equipment technicians.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -94,10 +88,11 @@ In the event that a building not provided for public use is changing to one for 
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[(Use of Flameproof Products)
-The administrator of any building of eleven floors or taller, underground building, or any place specified by the central regulating authorities shall use only the carpet, curtain, drape, billboard, and other flameproof products attached with a flame-proof label as required.
-Any flameproof product specified in the preceding paragraph herein or its materials should not be offered for sales and/or display unless attached with a flameproof label.
-The flameproof performance of any product or its materials as referred in those two preceding paragraphs herein shall be verified by the central regulating authorities.]]></條文內容>
+    <條文內容><![CDATA[For buildings with above-ground floors reaching eleven stories or more, underground buildings, and places designated by the central competent authority, the manager should use flame-retardant marked carpets, curtains, drapes, display advertising boards, and other specified flame-retardant items. Flame-retardant items or their materials without flame-retardant markings shall not be sold or displayed.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 11-1</條號>
+    <條文內容><![CDATA[Those engaged in the manufacturing, import processing, or operation of flame-retardant items or their materials should apply for flame retardant performance certification from the professional organization registered by the central competent authority, and may only apply for flame-retardant marking from the professional organization after obtaining the certification. The central competent authority may carry out random sampling tests on flame-retardant items or their materials, and operators must not evade, obstruct, or refuse. Details regarding the application eligibility, procedure, necessary documents, review method, certification (re)issuance, validity period, changes, cancellation, extension, flame-retardant marking specifications, attachment method, application procedure, necessary documents, issuance, cancellation, suspension of issuance and other matters to be observed are to be stipulated by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -111,10 +106,21 @@ The application, procedure, documents, examination methods, the effective period
   </條文>
   <條文>
     <條號>Article 13</條號>
-    <條文內容><![CDATA[(Preparation of Fire Protection Plan)
-The administrator of any building for public use with a certain scale shall appoint and cause a fire prevention manager to develop a fire protection plan, report the plan to the fire department for approval, and carry out according to the plan any and all activities required in fire management.
-In case of shared right of administration of any building of eleven floors or taller, underground building, or any building specified by the central regulating authorities, all the administrators shall agree among themselves to prepare a joint fire protection plan and report the plan to the fire department for approval.
-The appointment and changed appointment of the fire prevention manager shall be reported to the municipal, or the county/city fire department.]]></條文內容>
+    <條文內容><![CDATA[Buildings of a certain scale or larger should have a fire protection manager designated by the property manager, who is responsible for developing a fire protection plan. The definition of "a certain scale or larger" in the previous paragraph shall be announced by the central competent authority. If any construction, alteration, repair, change of use, or interior decoration construction affects the function of the original systematic fire safety equipment in the building, the property manager shall have the fire protection manager set up a fire protection plan during construction. The fire protection plans in the first and previous paragraphs should be submitted by the property manager for reference to the competent authority where the building is located, and the necessary tasks related to fire protection management should be carried out according to the plans.
+In cases where the management rights of the following buildings are divided, each management rights holder should agree to appoint a joint fire protection manager, who is responsible for developing a joint fire protection plan. This plan should then be submitted by each management rights holder for reference to the competent authority where the building is located, and the necessary tasks related to joint fire protection management and overall evacuation drills should be carried out according to the plan:
+1.Buildings of eleven stories or more above ground, not including collective residences.
+2.Underground buildings.
+3.Other buildings announced by the central competent authority.
+In the event that a place does not comply with the first paragraph in the buildings mentioned in the previous paragraph, each management rights holder can agree to assign personnel from that place to serve as the joint fire protection manager. The fire protection manager or joint fire protection manager should be management or supervisory personnel of the places specified in the first and fifth paragraphs. They should receive a certain number of hours of training from the competent authority or a professional organization registered by the central competent authority, and should hold a certificate of qualification. During their term of service, they should also regularly receive refresher training.
+The details regarding the training content, hours, trainer qualifications, testing methods, qualification standards, certificate issuance, data setup and preservation, and other matters to be observed for the fire protection manager or joint fire protection manager, as well as the professional organizations specified in paragraph seven, will be determined by the central competent authority.
+The property manager should report the appointment of the fire protection manager or joint fire protection manager to the competent authority where the building is located for reference within fifteen days from the day after the appointment. The same applies when there are changes.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 13-1</條號>
+    <條文內容><![CDATA[The disaster prevention centers of high-rise buildings or the central management rooms of underground buildings should have on-duty personnel. These personnel should undergo a specific amount of training by competent authorities or professional organizations registered by the central competent authority. They should obtain a qualification certificate before they can serve. During their tenure, they should regularly receive refresher training.
+The method of providing training to on-duty personnel by the competent authority mentioned in the previous paragraph, including the items, a certain amount of time, qualifications of the lecturer, testing method, qualification criteria, issuing of qualification certificates, establishment and preservation of data, and other matters to be complied with, shall be determined by the central competent authority.
+The professional organizations specified in the first paragraph, the qualification for their application for registration, procedure, required documents, review method, issuing (replacement) of registration certificates, validity period, changes, revocation, extension, regulations of business operation, establishment, preservation and reporting of data, items of training for on-duty personnel, a certain amount of time, and other matters to be complied with shall be determined by the central competent authority.
+The authority holders should report the hiring of on-duty personnel to the competent authority of the building location for record within 15 days from the day after the appointment. The same applies when there are changes.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
@@ -148,16 +154,18 @@ The gas-burning water heater in the first paragraph herein should install on the
   </條文>
   <條文>
     <條號>Article 15-2</條號>
-    <條文內容><![CDATA[LPG vendors shall keep the following documents and report to the district fire department for reference.
-1. Management documents of LPG Storage place.
-2. Cylinder management data.
-3. Customer information.
-4. LPG repackaging industry filling certification.
-5. Management documents of Safety technicians.
-6. Customer safety inspection documents.
-7. Policy of public liability insurance.
-8. All of the specific measures announced by the central competent authority.
-LPG vendors shall keep the documents mentioned in the preceding paragraph at least 2 years for verification.]]></條文內容>
+    <條文內容><![CDATA[Retailers should have safety technicians to conduct gas inspections and prepare the following data to be regularly reported to the competent authority of the business location:
+1.Management data of container storage locations.
+2.Container management data.
+3.User data.
+4.LPG filling certification data of LPG filling station operators.
+5.Safety technician management data.
+6.User safety inspection data.
+7.Proof of public accident liability insurance.
+8.Other data announced by the central competent authority.
+The method of producing the data mentioned in the previous paragraph, content to be recorded, placement, preservation for years, reporting, and other matters to be complied with shall be determined by the central competent authority.
+The safety technicians mentioned in the first paragraph should undergo a certain amount of training by professional organizations registered by the central competent authority, obtain a qualification certificate before they can serve, and should regularly receive refresher training during their tenure.
+The professional organizations specified in the previous paragraph, the qualification for their application for registration, procedure, required documents, review method, issuing (replacement) of registration certificates, validity period, changes, revocation, extension, regulations of business operation, establishment, preservation and reporting of data, items of training for safety technicians, a certain amount of time, and other matters to be complied with shall be determined by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 15-3</條號>
@@ -177,6 +185,27 @@ The container shall be inspected regularly. Before the expiration of the inspect
 The cost of the container inspection agency as determined in the preceding paragraph shall be borne by the retailer, and the items and fees charged by the retailer shall be submitted by the institution for approval by the central competent authority.
 The central competent authority shall prescribe the measures for the qualification, instruments, equipment and personnel, procedures, documents to be prepared, validity period of registration certificate, issuance (replacement), cancellation, annulment, change, extension, data establishment, storage and application, stop issuance of qualification marks, business suspension, and other matters to be followed by the container inspection institution specified in the first paragraph.]]></條文內容>
   </條文>
+  <條文>
+    <條號>Article 15-5</條號>
+    <條文內容><![CDATA[The originator of a place for the manufacture, storage, or handling of public dangerous goods and flammable high-pressure gas as specified in Article 15, Paragraph 1, shall submit the location, construction, and equipment diagrams of the place to the competent authority of the location for review. Only after the review is complete may they report to the competent construction authority for commencement of work.
+When applying for a use permit for the place specified in the previous paragraph in accordance with the Building Act, the competent construction authority shall inspect its location, construction, and equipment in conjunction with the authority conducting the review in the previous paragraph. Only after they pass the inspection may a use permit be issued.
+Before the builder of a storage tank for storing liquid public dangerous goods applies for a use permit as stipulated in the previous paragraph, it should be inspected by a professional organization approved by the central competent authority and a certification document of conformity should be issued.
+The storage tank mentioned in the previous paragraph that reaches a certain scale announced by the central competent authority, the authority holder should commission the professional organization in the previous paragraph to conduct regular inspections, keep records, and keep them for at least five years. Storage tanks set up before the announcement takes effect should complete their first regular inspection within five years from the date the announcement takes effect. The competent authority may send personnel for inspection.
+The items, methods, qualification standards, frequency of regular inspection, and other matters to be complied with for the inspection of the storage tanks storing liquid public dangerous goods in the previous two paragraphs shall be determined by the central competent authority.
+The professional organizations specified in the third paragraph, their qualification for application for approval, procedure, required documents, review method, equipment and tools, issuing (replacement) of approval certificates, validity period, changes, revocation, extension, regulations of business operation, establishment, preservation and reporting of data, and other matters to be complied with shall be determined by the central competent authority.
+The storage tanks of liquid public dangerous goods of a certain scale that should be regularly inspected, if the central competent authority for the business in question has regulations for regular inspections, shall be handled according to its regulations.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 15-6</條號>
+    <條文內容><![CDATA[The person in charge of a location where the combined manufacture, storage, and handling of public hazardous materials exceeds thirty times the regulated volume should employ a security supervisor and security inspector to carry out the following tasks:
+The security supervisor is responsible for formulating a fire prevention plan, which should be submitted to the local regulatory agency by the person in charge for record, and to perform the necessary tasks related to dangerous goods management according to the plan.
+The security inspector is responsible for the maintenance of structure and equipment, and conducting self-inspections, etc.
+The security supervisor should be from the management or supervision level of the aforementioned location. The supervisor and the security inspector should undergo a certain amount of training from a professional institution registered by the central competent authority and possess a qualification certificate before they can be appointed. During their tenure, they should regularly attend refresher training.
+The qualification, procedures, necessary documents, review methods, issuance/renewal of registration certificates, validity period, changes, cancellation, extension, rules for conducting business, data establishment, preservation and reporting, training subjects for security supervisors and inspectors, certain hours, and other matters to be complied with by the professional institution mentioned above, shall be determined by the central competent authority.
+The person in charge mentioned in the first paragraph shall report to the local competent authority for record within fifteen days from the day following the appointment of the security supervisor and security inspector; the same applies when changes occur.
+The fire manager appointed according to Article 13 who possesses the qualification of the security supervisor specified in the second paragraph may also serve as the security supervisor specified in the first paragraph.
+If the fire protection plan formulated in accordance with the first paragraph of Article 13 has been incorporated into the content of the fire prevention plan, the person in charge may be exempted from having the security supervisor formulate a fire prevention plan according to the first paragraph.]]></條文內容>
+  </條文>
   <編章節>   Chapter Three: Rescue Operation</編章節>
   <條文>
     <條號>Article 16</條號>
@@ -190,13 +219,22 @@ When required by fire control, the municipal, and county/city governments shall 
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[(Establishment of Report Hot Line)
-Telecommunication institute shall provide and maintain hot line for reporting any fire disaster as required by fire management.]]></條文內容>
+    <條文內容><![CDATA[Telecommunications businesses should set up reporting telephone facilities as required by firefighting needs.
+No one may call the authority's reporting telephone without reason, or falsely report fires, disasters, lifesaving, emergency aid situations.
+The competent authority can ask telecommunications businesses to provide communication records and relevant personal information of those waiting to be rescued in order to carry out fire, disaster relief, lifesaving, or emergency aid tasks. Telecommunication businesses may not refuse.
+The competent authority and telecommunications businesses' staff involved in the operation related to the aforementioned information shall keep the process and the content of the known information confidential and shall not disclose it without justified reasons.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 19</條號>
     <條文內容><![CDATA[Firefighters may enter, use, damage, or damage the people’s land, buildings, vehicles, and other objects without entering, using, damaging, or restricting such use, and cannot reach the purpose of emergency and rescue.
 Any civilian sustaining property loss of a particular sacrifice as a result of using or destroying, or restricting the use of any land, building, vehicle and/or any other things pursuant to the preceding paragraph, may claim for loss compensation. However, if such loss is attributed to the civilian, the loss compensation claimed will not be accepted.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 19-1</條號>
+    <條文內容><![CDATA[When the following places experience a fire, explosion, leakage of public hazardous materials or combustible high-pressure gas, the person in charge should immediately report to the object, method, and content specified and announced by the central competent authority:
+Factory areas of petroleum refining, petroleum chemical raw material manufacturing, synthetic resin and plastic manufacturing, plastic product manufacturing.
+Factory areas where the total manufacture, storage, or handling of public dangerous goods exceeds three thousand times the controlled amount or other areas announced by the competent authority.
+When personnel, vehicles, and equipment of the competent authority enter the places mentioned above, the person in charge of the place and the personnel on the scene must not evade, obstruct, or refuse.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -247,6 +285,11 @@ In case of any Act or God, airplane crash, mining accident, forest fire, car acc
     <條文內容><![CDATA[(Fire Investigation & Examination)
 To investigate and determine cause of fire, the municipal, county/city fire department may have their agents to enter into the site in question to survey, collect and preserve evidences; and make inquiries.
 Before the completion of the investigation and determination, the site of fire shall be kept integral and may be blocked out when required.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 26-1</條號>
+    <條文內容><![CDATA[Fire victims or stakeholders can apply to the competent authority for fire certificates or fire investigation information.
+The procedures, scope, qualification restrictions, necessary documents, review methods, period, and other matters to be complied with when applying for the fire certificate or fire investigation information mentioned above shall be determined by the central competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 27</條號>
@@ -321,37 +364,53 @@ The same governs to any attempted offense as described in the first paragraph he
 Any administrator of business place required to provide and maintain fire safety equipment under Para.1, Article 6,or the place required to provide and maintain residential fire alarm under Para.4, Article 6 fails to provide or maintain such equipment and such failure is attributable to any death from a fire disaster at such business place shall be subject to an imprisonment for a term not less than one year and not longer than seven years, or a penal sum not less than NT$1,000,000 not greater than NT$5,000,000, or both; and in case of any serious injury resulted from the fire, to an imprisonment for a term not less than six months and not longer than five years, or a penal sum not less than NT$500,000 and not greater than NT$2,500,000, or both]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 35-1</條號>
+    <條文內容><![CDATA[For violations of the first item of Article 19-1, failing to immediately complete the report according to the object, method, or content announced by the central competent authority, the person in charge shall be fined between one hundred thousand and five hundred thousand New Taiwan dollars.
+For violations of the second item of Article 19-1, those who evade, obstruct, or refuse the entry of personnel, vehicles, or equipment of the competent authority into the place, the person in charge or the perpetrator shall be fined between twenty thousand and one hundred thousand New Taiwan dollars.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 35-2</條號>
+    <條文內容><![CDATA[Personnel of the competent authority or telecommunication business violating the fourth provision of Article 18, who without a valid reason leak the process of the operation they are handling or the content of the information they are privy to, shall be fined between twenty thousand and one hundred thousand New Taiwan dollars.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 36</條號>
-    <條文內容><![CDATA[(Penal Clause)
-Any person found with any of the following events shall be subject to a penal sum not less than NT$3,000 and not greater than NT$15,000:
-1. Making false fire, disaster, save life, emergency medical Service alarm call or dialing fire number without justified cause;
-2. Refusal to obey the disposition by the fire department made under Para.1 of Article 19, Article 20 or Article 23;
-3. Refusal to comply with the requisition as provided by the fire department in Article 31; or
-4. Interference in the operation of the equipment listed in Para.1, Article 31 of the Act.]]></條文內容>
+    <條文內容><![CDATA[A fine of ten thousand to fifty thousand New Taiwan dollars shall be imposed in the event of any of the following situations:
+1.Violating the second provision of Article 18, without reason calling the emergency number of the competent authority or falsely reporting a fire, disaster, life-saving, emergency ambulance situation.
+2.Disobeying the disposal made by the competent authority according to the first item of Article 19, Article 20, or Article 23.
+3.Refusing the scheduling or usage made by the competent authority according to Article 31.
+4.Interfering with the use of equipment provided in the first item of Article 34.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 37</條號>
-    <條文內容><![CDATA[(Penal Clause)
-For any further in making correction within given time as notified for, or found noncompliance in the review with the use of flameproof materials under Para.1, Article 11 or for providing and/or maintaining the residential fire alarm under Para.4, Article 6、the fire safety equipment under Para.1, Article 6; the administrator shall be subject to a penal sum not less than NT$6,000 and not greater than NT$30,000; any further absence of correction, the administrator shall be continuously punished and may be subject to an mandatory suspension of his or her business for a term not longer than thirty calendar days or a disposition to prevent him or her from operating the business place in question.
-Any administrator who is avoiding, interfering with, or refusing any inspection and/review under Para.2, Article 6 shall be subject to a penal sum not less than NT$3,000 and not greater than NT$15,000 for the same offense and a mandatory inspection and/or review.]]></條文內容>
+    <條文內容><![CDATA[Violators of the following provisions will be penalized according to the following regulations:
+1.Any venue that violates the first clause of Article 6 on fire safety equipment or the fourth clause on residential fire alarm setup and maintenance, or the first clause of Article 11 on the use of flame retardant items, will be fined between 20,000 and 300,000 New Taiwan dollars, and ordered to rectify within a prescribed time limit.
+2.For places that are not for business use but still violate the first clause of Article 6, if improvements are not made within the prescribed time limit, the property manager will be fined between 20,000 and 300,000 New Taiwan dollars, and ordered to rectify within a prescribed time limit.
+If improvements are not made within the prescribed time limit after the fine is imposed, they may be fined again and their business may be suspended or their use stopped for less than 30 days.
+Those who evade, obstruct, or refuse the inspection and re-inspection as stipulated in the second clause of Article 6, will be fined between 6,000 and 100,000 New Taiwan dollars, and may be fined multiple times and have compulsory inspection and re-inspection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38</條號>
-    <條文內容><![CDATA[(Penal Clause)
-Any engagement in the design, construction supervision, installation and service of fire safety equipment constituting an offense against Para.1, Article 7 shall be subject to a penal sum not less than NT$30,000 and not greater than NT$150,000 and could be punished for each offense.
-Any offense against Para.1, Article 9, the administrator shall be subject to a penal sum not less than NT$10,000 and not greater than NT$50,000, and be noticed for improvement within a specific period of time. In case of any absence of correction, the administrator could be punished for each offense.
-Any professional fire safety equipment inspection and maintenance institute permitted by the central regulating authority, fire protection equipment engineer or technician failing to provide the periodical service according to the items, methods, standard, and deadline under Para.2 Article 9, or having made any false representation in a service report of fire safety equipment shall be subject to a penal sum not less than NT$20,000, not greater than NT$100,000, and could be punished for each offense, and may be subject to a suspension of business for a term not less than one month and not longer than one year, or termination of business, when necessary.
-Any fire safety equipment inspection and maintenance institute permitted by the central regulating authority failing to obey the practice norms, employment of fire protection equipment engineer or technician, changes, training, storage of business documents, retention schedule, report of various forms, shall be subject to a penal sum of not less than NT $30,000, not greater than NT $150,000, and be noticed for improvement within a specific period of time. In case of any absence of correction, the fire safety equipment inspection and maintenance institute could be punished for each offense, and suspense business no more than 30 days, or permission revoked.]]></條文內容>
+    <條文內容><![CDATA[Those who engage in the design, supervision, testing, or maintenance of fire safety equipment in violation of the first provision of Article 7 shall be fined between 30,000 and 150,000 New Taiwan dollars and may be fined repeatedly for each violation.
+For those who violate the first provision of Article 9, the property manager will be fined between 10,000 and 50,000 New Taiwan dollars and will be notified to rectify within a given time limit. If not rectified within the stipulated time, repeated fines may be imposed.
+Fire safety equipment inspection institutions, fire equipment engineers, or technicians authorized by the central competent authority who do not inspect fire safety equipment according to the periodic inspection items, methods, standards, and deadlines set in the second provision of Article 9, or who provide false inspection reports for fire safety equipment, shall be fined between 20,000 and 100,000 New Taiwan dollars. They may be fined repeatedly and, if necessary, may be suspended from operating their business for a period ranging from one month to one year or be ordered to cease business operations.
+Fire safety equipment inspection institutions authorized by the central competent authority that violate regulations related to business operations, the employment, transfer, training of fire equipment engineers/technicians, the preparation of relevant business documents, preservation years, and reporting of various forms as prescribed in the fourth provision of Article 9 will be fined between 30,000 and 150,000 New Taiwan dollars. They will be notified to rectify within a given time limit. If not rectified within the stipulated time, repeated fines may be imposed, and they may be suspended from operating for up to 30 days or have their authorization revoked.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[(Penal Clause)
-Any offense against Para.2, Article 11 or Para.1, Article 12 on sales or installment for use, the person making such sales or installment shall be subject to a penal sum not less than NT$20,000 and not greater than NT$100,000; and any refusal to make correction as advised, the person who makes the display shall be subject to a penal sum not less than NT$10,000 and not greater than NT$50,000.]]></條文內容>
+    <條文內容><![CDATA[Those who violate the second provision of Article 11, selling flame-retardant items or materials without flame-retardant labels, or who violate the first provision of Article 12, selling or installing unauthorized fire-fighting equipment, materials, or apparatus without approved labels, will be fined between 20,000 and 100,000 New Taiwan dollars and may be fined repeatedly for each violation. If they still do not improve their display after being advised, they will be fined between 10,000 and 50,000 New Taiwan dollars and may be fined repeatedly for each violation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[(Penal Clause)
-In case of any absence of correction within the specified time as notified under Article 13, the administrator shall be subject to a penal sum not less than NT$10,000 and not greater than NT$50,000, and shall be continuously punished for the same offense and shall be subject to a suspension of business for a term not longer than thirty calendar days, or a disposition of preventing from use of such place.]]></條文內容>
+    <條文內容><![CDATA[For buildings of a certain scale that are used for business purposes, if they violate the first provision of Article 13 by not having the property manager appoint a fire safety manager to set up a fire protection plan, or violate the third provision of the same article by not setting up a fire protection plan during construction, the property manager shall be fined between 20,000 and 300,000 New Taiwan dollars. If there is a risk of significant damage due to a fire, the property manager may be ordered to stop work. Construction cannot be resumed without the fire protection plan being checked according to the fourth provision of the same article.
+In the following cases, if not improved within a given notice period, the property manager will be fined between 20,000 and 100,000 New Taiwan dollars:
+1.Buildings of a certain scale not used for business purposes, which violate the first provision of Article 13 by not appointing a fire safety manager or violate the third provision by not setting up a fire protection plan during construction.
+2.Violating the fourth provision of Article 13, by not submitting the fire protection plans mentioned in the first and third provisions to the local governing body for review, or not implementing necessary fire safety management tasks according to those plans.
+3.Violating the fifth provision of Article 13, by not collaboratively appointing a joint fire safety manager to set up a joint fire protection plan, not submitting the joint fire protection plan to the local governing body for review, or not executing necessary joint fire safety management tasks per the reviewed plan.
+4.Violating the seventh provision of Article 13, where the fire safety manager or joint fire safety manager is not part of the management or supervisory staff of the facility, or does not undergo periodic refresher training during their tenure.
+5.Violating the tenth provision of Article 13 by not reporting the appointment or changes of the fire safety manager or joint fire safety manager to the local governing body within the stipulated time frame.
+6.Violating the first provision of Article 13-1, where the disaster prevention center of high-rise buildings or the central management room of underground structures does not have qualified staff, or the staff does not undergo periodic refresher training during their tenure.
+7.Violating the fourth provision of Article 13-1 by not reporting the appointment or changes of the on-duty staff to the local governing body as stipulated in the first provision within the prescribed time frame.
+If improvements are not made within the notice period after being fined as per the above two provisions, repeated fines may be imposed, and the entity may be suspended from operating or its use may be halted for up to 30 days.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41</條號>
@@ -365,8 +424,7 @@ Any Administrator or the people on the spot who is avoiding, interfering with, o
   </條文>
   <條文>
     <條號>Article 42</條號>
-    <條文內容><![CDATA[(Penal Clause)
-For any noncompliance of the location, structure and equipment with the standards set forth for the place used for manufacturing, storage or disposition; or any noncompliance with safety control regulations in the storage, disposition or handling of public hazardous substances and flammable pressurized gases as specified in Article 15, its administrator or the operator shall be subject to a penal sum not less than NT$20,000 and not greater than NT$100,000; any further failure in making correction shall be subject to continuous penal sum for the same offense, and shall be subject to a suspension of business for a term not longer than thirty calendar days, or a disposition of preventing from use of such place.]]></條文內容>
+    <條文內容><![CDATA[For locations manufacturing, storing, or processing hazardous materials and highly flammable compressed gases as defined in Article 15, if their location, structure, and equipment do not meet the prescribed standards, or if their storage, processing, and transportation do not comply with safety management regulations, the property manager or the individual responsible shall be fined between 20,000 and 300,000 New Taiwan dollars. If no improvements are made after being fined, continuous penalties may be applied, and the entity may be suspended from operating or its use may be halted for up to 30 days.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 42-1</條號>
@@ -377,19 +435,38 @@ For any noncompliance of the location, structure and equipment with the standard
   </條文>
   <條文>
     <條號>Article 42-2</條號>
-    <條文內容><![CDATA[(Penal Clause)
-Retailers, professional institutions, container manufacturers, importers or container inspection institutions who have one of the following circumstances shall be sentenced to a price of not less than NT$20,000 but not more than NT$100,000, and notice the time limit improvement, the period has not improved, the penalty may be imposed on each time:
-1. The container manufacturer or importer violates the provisions of Article 15-3, paragraph 2, the container without individual approval or without a qualified label to sell.
-2. The container manufacturer or importer violates the provisions of Article 15-3, paragraph 3,concerning the establishment, storage and declaration of the sales target data.
-3. Professional institutions violate the provisions of Article 15-3, paragraph 7, concerning the establishment, storage and declaration of instruments, equipment, personnel and data.
-4. In violation of Article 15-4, paragraph 1, the retailer fails to deliver the container to the inspection institution for regular inspection before the expiration of the inspection period, or the container is still in use after the expiration of its service life.
-5. The container inspection institution violates the provisions of article 15-4, paragraph 3, concerning the establishment, storage and declaration of instruments, equipment, personnel and data.
-If there is a violation of the first paragraph of the preceding paragraph, their containers and have to be confiscated and destroyed.]]></條文內容>
+    <條文內容><![CDATA[Retailers, professional institutions, container manufacturers, importers, or container inspection institutions with one of the following situations shall be fined between 20,000 and 100,000 New Taiwan dollars. They will be given notice to make improvements within a stipulated time frame. If they fail to make the necessary improvements by the deadline, they may be fined repeatedly for each instance:
+1.Container manufacturers or importers violate the second provision of Article 15-3 by selling containers that haven’t individually been approved and certified or don’t have the appropriate certification marking.
+2.Container manufacturers or importers violate the regulations in the third provision of Article 15-3 regarding the establishment, preservation, or reporting of sales data.
+3.Professional institutions breach the regulations in the seventh provision of Article 15-3 concerning the establishment, preservation, or reporting of equipment and personnel data.
+4.Retailers violate the first provision of Article 15-4 by continuing to use containers without sending them for regular inspection at an inspection institution before their inspection deadline, or if they continue using containers beyond their lifespan without replacement.
+5.Container inspection institutions breach the rules in the third provision of Article 15-4 regarding the establishment, preservation, or reporting of equipment, personnel, and data.
+If the violation pertains to the first scenario mentioned above, the containers in question may be confiscated and destroyed.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 42-3</條號>
+    <條文內容><![CDATA[Those who fall under any of the following situations shall be fined between 20,000 and 100,000 New Taiwan dollars. They will be notified to make corrections within a specified period. If corrections are not made by the deadline, fines may be imposed repeatedly:
+1.Retailers violating the first provision of Article 15-2 by not employing safety technical personnel with valid certification.
+2.The rightsholders, violating the fourth provision of Article 15-5, failing to commission periodic inspections of storage tanks by professional institutions approved by the central governing body, or not completing the initial regular inspection within the stipulated time, or not retaining the records of periodic inspections for at least five years.
+3.The results of the regular inspection of the storage tanks as mandated in the fourth provision of Article 15-5 by professional institutions are inconsistent with the standards set in the fifth provision of the same article.
+4.Professional institutions that do not inspect according to the items, methods, qualifying criteria, and frequency as set in the fifth provision of Article 15-5, or create false inspection records.
+5.Professional institutions violating regulations about conducting operations, establishing, preserving, or reporting data as set in the sixth provision of Article 15-5.
+6.The rightsholders specified in the first provision of Article 15-6 who fail to have safety supervisors formulate fire prevention and disaster mitigation plans, do not report these plans to the regulatory authority where the location is situated, do not carry out necessary hazardous materials management as per the fire prevention and disaster mitigation plan, or do not have safety inspectors perform structural maintenance and autonomous inspections.
+7.The rightsholders specified in the first provision of Article 15-6 who fail to appoint safety supervisors or safety inspectors who meet the qualifications set in the second provision of the same article.
+8.The rightsholders mentioned in the first provision of Article 15-6, violating the fourth provision of the same article, fail to report the appointment or changes of safety supervisors or safety inspectors to the regulatory authority of the location within the stipulated time.
+If storage tanks stipulated in the fourth provision of Article 15-5 have the situation described in the third item above, their rightsholders will be fined and notified to make corrections. If not corrected by the deadline, they may be ordered to cease using the storage tanks for storing public hazardous liquid substances.
+For professional institutions described in the fourth item of the first paragraph, if fined according to the same item and notified to correct within the deadline but fail to do so, they can face suspension of operations for over a month but less than a year or have their licenses revoked.
+For professional institutions described in the fifth item of the first paragraph, if fined according to the same item and notified to correct within the deadline but fail to do so, they can face suspension of operations for up to 30 days or have their licenses revoked.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 42-4</條號>
+    <條文內容><![CDATA[Retailers that meet any of the following conditions shall be fined between 3,000 and 15,000 New Taiwan dollars. They will be notified to make corrections within a specified period. If corrections are not made by the deadline, fines may be imposed repeatedly:
+1.Violation of regulations set in the second provision of Article 15-2 regarding the content of data production, items that should be recorded, placement, data preservation duration, or reporting requirements.
+2.Contravening the third provision of Article 15-2, where safety technical personnel do not undergo periodic retraining during their tenure.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 43</條號>
-    <條文內容><![CDATA[(Penal Clause)
-Any one refuses to comply with the survey, inquiry, collection, perseverance or compromises the integrity of the fire site under Article 26 shall be subject to a penal sum not less than NT$3,000 and not greater than NT$15,000.]]></條文內容>
+    <條文內容><![CDATA[Those who refuse the inspection, inquiry, collection, preservation, or destruction of a fire scene as per Article 26 shall be fined between 6,000 and 100,000 New Taiwan dollars.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 43-1</條號>
@@ -404,14 +481,12 @@ In addition to being punished by the Act for any offense subject to the Act, any
   </條文>
   <條文>
     <條號>Article 45</條號>
-    <條文內容><![CDATA[(Penal Clause)
-Any delay in making payment of any fine prescribed under the Act shall be transferred by the regulating authorities to the court for injunction.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <編章節>   Chapter Seven: Bylaws</編章節>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[(Bylaws)
-Enforcement Rules of the Act shall be regulated by the central regulating authorities and published upon the approval of the Executive Yuan.]]></條文內容>
+    <條文內容><![CDATA[The implementation rules of this law will be determined by the central governing body.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 47</條號>
