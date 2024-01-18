@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Public Disclosure of Information by Life Insurance Enterprises</英文法規名稱>
 <中文法規名稱>人身保險業辦理資訊公開管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390049</法規網址>
-<最新英文異動日期>20230619</最新英文異動日期>
+<最新英文異動日期>20231229</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -16,12 +16,14 @@
 2.Articles 5, 6, 9, 10, 11, and 13 amended and promulgated 11 July 2003 per Ministry of Finance Order Taiwan-Finance-Insurance No. 0920750795
 3.Amended on January 04, 2010
 4.Amended on 5 July 2011 per Order Ref. Jin-Kuan-Bao-Li-Zi 10002559011 of the Financial Supervisory Commission, Executive Yuan.
-5.Amended on 24 January 2014 per Order Ref. Jin-Kuan-Bao-Chan-Zi 10202529871 of the Financial Supervisory Commission. 
+5.Amended on 24 January 2014 per Order Ref. Jin-Kuan-Bao-Chan-Zi 10202529871 of the Financial Supervisory Commission.
 6.Amended on 26 June 2015 per Order Ref. Jin-Kuan-Bao-Chan -Zi 10402523401 of the Financial Supervisory Commission.
 7.Amended on 1 August 2016 per Order Ref. Jin-Kuan-Bao-Chan -Zi 10502523961 of the Financial Supervisory Commission.
 8.Amended on 6 November 2020 per Order Ref. Jin-Kuan-Bao-Chan- Zi 10904942391 of the Financial Supervisory Commission.
 9.Amended on 25 May 2022 per Order Ref. Jin-Kuan-Bao-Chan- Zi 11104919831 of the Financial Supervisory Commission.
-10.Amended on 19 June 2023 per Order Ref. Jin-Kuan-Bao-Chan- Zi 11201394471 of the Financial Supervisory Commission.]]></沿革內容>
+10.Amended on 19 June 2023 per Order Ref. Jin-Kuan-Bao-Chan- Zi 11201394471 of the Financial Supervisory Commission.
+11. Amended on 29 December 2023 per Order Ref. Jin-Kuan-Bao-Chan- Zi 11204946281 of the Financial Supervisory Commission; for the implementation from January 1, 2026.
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -82,27 +84,28 @@ The matters mentioned in the subparagraphs of Paragraph 1 shall be conducted acc
 2. A balance sheet with appended notes for any capital increases or decreases.
 3. A consolidated income statement.
 4. A statement of changes equity.
-5. Reserves (including reserves for insurance liabilities , reserves for insurance contracts with financial instrument features and foreign exchange valuation reserves.).
-6. Total loans made.
-7. Non-performing or overdue loans.
-8. The non-performing or overdue loan ratio.
-9. The allowance for uncollectible accounts.
-10. The coverage ratio of allowance of ncollectible accounts.
-11. A statement of transactions with related persons.
-12. Financial report certified or reviewed by a certified public accountant (CPA) and the CPA’s statement.
-13. A cash flow statement.
-14. Resolutions on distribution of profits or deficit compensation.
-15. A valuation of assets.
-16. Financial and operational indices; indices used and schedules for updating the indices shall be separately determined by the competent authority.
-17. Capital adequacy disclosure.
-The financial information under the preceding paragraph shall be based on financial reports audited and certified or reviewed by a CPA or capital adequacy reports reviewed by a CPA. The update of such information shall be carried out in accordance with relevant provisions in the Regulations Governing the Preparation of Financial and Business Reports by Insurance Enterprises, wherein financial information under Subparagraphs 1 to 12 shall be updated quarterly; information under Subparagraphs 13 to 15 shall be updated annually; and information under Subparagraph 17 shall be updated within two months after the end of each half a year and within three months after the end of each year.]]></條文內容>
+5. Insurance contract liabilities, insurance contract assets (including liability for remaining coverage, liability for incurred claims and asset for insurance acquisition cash flows), financial liabilities related to investment contracts measured at fair value through profit or loss, and financial liabilities related to investment contracts measured at amortized cost.
+6. Service contract liabilities, special reserves and other reserves under “Other liabilities.”
+7. Total loans made.
+8. Non-performing or overdue loans.
+9. The non-performing or overdue loan ratio.
+10. The allowance for uncollectible accounts.
+11. The coverage ratio of allowance of uncollectible accounts.
+12. A statement of transactions with related persons.
+13. Financial report certified or reviewed by a certified public accountant (CPA) and the CPA’s statement.
+14. A cash flow statement.
+15. Resolutions on distribution of profits or deficit compensation.
+16. A valuation of assets.
+17. Financial and operational indices; indices used and schedules for updating the indices shall be separately determined by the competent authority.
+18. Capital adequacy disclosure.
+The financial information under the preceding paragraph shall be based on financial reports audited and certified or reviewed by a CPA or capital adequacy reports reviewed by a CPA. The update of such information shall be carried out in accordance with relevant provisions in the Regulations Governing the Preparation of Financial and Business Reports by Insurance Enterprises, wherein financial information under Subparagraphs 1 to 13 shall be updated quarterly; information under Subparagraphs 14 to 16 shall be updated annually; and information under Subparagraph 18 shall be updated within two months after the end of each half a year and within three months after the end of each year.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[The operational overview shall include the following information for the previous three years:
 1. Market share: Calculated as the ratio of total premium revenues for the given enterprise in the given year relative to those of all enterprises engaging in insurance of the person, listed so as to differentiate newly-written business and in-force business. The above method shall also be applied mutatis mutandis to calculate and list the respective market share for each type of insurance.
 2. Premium revenues and indemnity paid for each type of insurance.
-3. Reserves for each type of insurance: including unearned premium reserves, special reserves, loss reserves, premium deficiency reserve, liability adequacy reserve, other reserves, reserves for insurance contracts with financial instrument features, and foreign exchange valuation reserves.
+3. Reserves for each type of insurance: including liability reserves, unearned premium reserves, special reserves, and loss reserves.
 4. Agents' 13-month retention rate.
 5. Average insured amount under newly-written individual life-insurance policies.
 6. Average insured amount under in-force individual life-insurance policies.
@@ -111,8 +114,8 @@ The financial information under the preceding paragraph shall be based on financ
 9. The ratio of appeal cases (including claim and non-claim appeal cases) filed with the Financial Ombudsman Institution (“FOI”) and the average number of days taken for the FOI to process the cases.
 10. The number of claims litigations and the ratio of litigations to claims.
 11. The number of cases with delayed claim payment and its ratio to total claim cases.
-"Types of insurance" in subparagraphs 1 to 3 of the preceding paragraph means life insurance, health insurance, personal accident insurance, and annuities as set forth in Article 13, paragraph 3 of the Act.
-The information specified in Subparagraphs 1 to 8, 10 and 11 shall be updated within three months after the end of each year; the information specified in Subparagraph 9 shall be updated before the end of  April each year.]]></條文內容>
+"Types of insurance" in subparagraphs 1 and 2 of the preceding paragraph means life insurance, health insurance, personal accident insurance, and annuities as set forth in Article 13, paragraph 3 of the Act.
+The information specified in Subparagraphs 1 to 8, 10 and 11 shall be updated within three months after the end of each year; the information specified in Subparagraph 9 shall be updated before the end of April each year.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
@@ -208,7 +211,7 @@ Enterprises engaging in insurance of the person may adopt fair and reasonable st
   </條文>
   <條文>
     <條號>Article 13</條號>
-    <條文內容><![CDATA[These Regulations shall enter into force on the day of promulgation.]]></條文內容>
+    <條文內容><![CDATA[Except for articles amended and promulgated on December 29, 2023 which will enter into force on January 1, 2026, these Regulations shall enter into force on the day of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
