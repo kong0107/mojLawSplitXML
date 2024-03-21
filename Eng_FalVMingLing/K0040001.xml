@@ -3,7 +3,7 @@
 <英文法規名稱>Highway Act</英文法規名稱>
 <中文法規名稱>公路法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040001</法規網址>
-<最新英文異動日期>20230628</最新英文異動日期>
+<最新英文異動日期>20231206</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -23,7 +23,9 @@
 14.Amendment to Articles 75 on November 30, 2016.
 15.Amendment to Article 77, and addition of Article 78-1 promulgated on January 4, 2017.
 16.Amendment to Articles 65,81 promulgated on June 15, 2022.
-17.Amendment to Article 72,73, and addition of Article 74-1, 74-2 promulgated on June 28, 2023.]]></沿革內容>
+17.Amendment to Article 72,73, and addition of Article 74-1, 74-2 promulgated on June 28, 2023.
+18.Amendment to Article 33,61-1,81 and addition of Article 34-1 promulgated on December 6, 2023.
+   Amendment to Article 58 shall take effect on a date determined by the Executive Yuan.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -241,7 +243,7 @@ When highway authorities need to move the original pipeline or other public faci
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[Technical standards of highway design construction, maintenance and traffic engineer standards shall be determined by the MOTC.]]></條文內容>
+    <條文內容><![CDATA[Highway design, construction, maintenance, and traffic engineering, should be human-oriented, and, in principle, ensure the safety of road users; the technical specifications shall be determined by the MOTC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 33-1</條號>
@@ -261,6 +263,11 @@ When highway authorities need to move the original pipeline or other public faci
 (8) "Automobile Cargo Transportation within Designated Route(s) Enterprise": an enterprise which provides delivery services with trucks in designated route(s).
 (9) "Container Truck Transportation Enterprise": an enterprise which transports containers with container trucks in designated areas.
 The aforementioned operation routes or areas of commercial automobiles are subject to modification by highway authorities if necessary.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 34-1</條號>
+    <條文內容><![CDATA[After being ratified by the highway authorities, transportation enterprises are allowed to provide freight services for remote areas.
+The applicable transportation enterprises, management regulations, category details, weight and volume, fee-charging standards referred to in the preceding paragraph shall be determined by the MOTC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 35</條號>
@@ -426,7 +433,15 @@ When highway authorities dispatch officers to perform roadside inspections, nece
   <條文>
     <條號>Article 58</條號>
     <條文內容><![CDATA[To maintain highways and urban roads that are safe and unimpeded, highway authorities may, on roads with heavy traffic, assign special lanes for various vehicles according to practical needs, and should install signs, markings, signals, railings, traffic islands, and other traffic safety construction installations at dangerous or appropriate points.
-Highway authorities shall pave special lanes on existing roads or use alternative roads as special lanes for bicycles and pedestrians according to the needs of bicycles and pedestrians.]]></條文內容>
+Highway authorities shall pave special lanes on existing roads or use alternative roads as special lanes for bicycles and pedestrians according to the needs of bicycles and pedestrians.
+Highway construction under the following conditions should be carried out along with obstacle-free sidewalks, pedestrian walking areas, or traffic calm zones within a certain range, and the same applies to those with arcades:
+(1)The construction site overlaps with route sections shared by highways and urban roads.
+(2)The construction site overlaps with route sections for medical institutions, schools, institutions, railway stations, MRT stations, or airports.
+(3)The construction site overlaps with locations feasible for alternative passageway, densely populated areas, and road sections to locations designated by the highway authorities.
+When established according to section 1 of the preceding paragraph, the sidewalk setting standards shall follow relevant standards under the Urban Road Act.
+The location and implementation scope of Paragraph 3 shall be determined by the MOTC in conjunction with the Ministry of the Interior.
+To ensure highway traffic safety, the MOTC should establish management standards for highway infrastructure safety and supervise municipal and county (city) governments handling inspections related to urban roads with the Ministry of the Interior.
+Highway construction should comply with management standards for highway infrastructure safety, and should pass the highway safety inspection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 59</條號>
@@ -454,7 +469,7 @@ Military cars, except the vehicles in the military system under the regulations 
     <條文內容><![CDATA[Car testings and driver license tests shall be made by the personnel who is qualified by exam and with certification.
 Regulations regarding matters such as testing mode, category, qualifications, training, assessment and supervision and management for the aforementioned car testing and driver license test personnel shall be determined personnel by the MOTC.
 Repairs of cars should be executed by the personnel with a car repair mechanic license or car repair technician certificate grade B or above.
-Regulations regarding matters such as testing method, category, qualifications, training, assessment and supervision and management for the aforementioned car repair mechanician and technician shall be determined by the MOTC in conjunction with Council of Labor Affairs, Executive Yuan.]]></條文內容>
+Regulations regarding matters such as testing method, category, qualifications, training, assessment and supervision and management for the aforementioned car repair mechanic and technician shall be determined by the MOTC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 62</條號>
@@ -622,7 +637,8 @@ The rules which specify applicants' qualifications and conditions, registration 
   <條文>
     <條號>Article 81</條號>
     <條文內容><![CDATA[This Act is enforced since the date of its promulgation, except for the enforcement date of Article 35 which had been revised and promulgated on May 07th 1997 which shall be determined by the Executive Yuan.
-Paragraph 3 of Article 65 amended on May 24, 2022 shall take effect on 1 year after the publication date on which the amendment came into effect.]]></條文內容>
+Paragraph 3 of Article 65 amended on May 24, 2022 shall take effect on 1 year after the publication date on which the amendment came into effect.
+Article 58 of this Act amended on Nov. 21, 2023 shall take effect on a date determined by the Executive Yuan.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
