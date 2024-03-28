@@ -3,19 +3,20 @@
 <英文法規名稱>Regulations of Aircraft Registration</英文法規名稱>
 <中文法規名稱>航空器登記規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090006</法規網址>
-<最新英文異動日期>20130320</最新英文異動日期>
+<最新英文異動日期>20231212</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Full text promulgated by the MOTC Order No. 01528 on February 21, 1975
-2.Amended by MOTC Order No. 04366 on May 18, 1977； 
-3.Amended on MOTC Order No. 07499 on April 19, 1985；
-4.Amended on MOTC Order No. 8735 on August 18,1998
+2.Amended by MOTC Order No. 04366 on May 18, 1977；
+3.Amended by MOTC Order No. 07499 on April 19, 1985；
+4.Amended by MOTC Order No. 8735 on August 18,1998
 5.Amendments to Articles 1, 6, 11, 19, addition of Articles 4-1, and deletion of Articles 33 promulgated by MOTC Order No. 091B000049 on June 13, 2002
 6.Amendments to Articles 4-1, 5~7, 14, 16, 18, 19, 26, 27, 34, and addition of Articles 8-1, 34-1 promulgated by MOTC Order No. 093B000098 on November 25, 2004
 7.Amendments to Articles 9, 26, 27,29 promulgated by MOTC Order No. 09500850182 on May 10, 2006
 8.Amendments to Articles 11, 26, 27 and deletion of Article 34-1 promulgated by MOTC Order No. 0980085027 on May 19, 2009
-9.Amendments to Articles 6, 23, 25 promulgated by MOTC Order No. 10250026951 on March 20, 2013]]></沿革內容>
+9.Amendments to Articles 6, 23, 25 promulgated by MOTC Order No. 10250026951 on March 20, 2013
+10.Amendment to Article 34 and addition of Article 12-1 promulgated by MOTC Order No. 1120038907 on December 12, 2023]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I.  General</編章節>
@@ -40,7 +41,7 @@
   </條文>
   <條文>
     <條號>Article 4-1</條號>
-    <條文內容><![CDATA[The Civil Aviation Administration (hereinafter referred to as CAA) shall keep a registry to record uniform entries of various registrations completed.]]></條文內容>
+    <條文內容><![CDATA[The Civil Aviation Administration, Ministry of Transportation and Communications (hereinafter referred to as CAA) shall keep a registry to record uniform entries of various registrations completed.]]></條文內容>
   </條文>
   <編章節>   Chapter II.  Aircraft Nationality Registration</編章節>
   <條文>
@@ -84,13 +85,24 @@ The identification plate shall be made of fireproof metal or other fireproof mat
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[Where mistake or omission has occurred in nationality registration items, CAA may revoke the registration or may request the owner or operator to provide the accurate documents to   correct registration within the specified period. If the owner or operator has not apply before the deadline, the registration shall be revoked immediately.
-To revoke the registration as prescribed above, the owner or operator shall surrender the nationality registration certificate.
+    <條文內容><![CDATA[Where a mistake or omission has occurred in nationality registration items, CAA may deregister the nationality or may request the owner or operator to provide the accurate documents to correct registration within the specified period. If the owner or operator has not applied before the deadline, the registration shall be deregistered immediately.
+To deregister the nationality as prescribed above, the owner or operator shall surrender the nationality registration certificate.
 If necessary, CAA may summon the owner, the operator or other persons concerned to hear their explanations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[When a nationality registration certificate is lost or destroyed, the owner or operator shall state reasons in applying to CAA for re-issuance and pay a fee for a new certificate.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 12-1</條號>
+    <條文內容><![CDATA[If an aircraft conforms with the terms of Article 13 of the Act, the owner, operator, or any other party with rights may apply to CAA for the deregistration of nationality.
+The owner, operator, or any other party with rights in applying for the deregistration of nationality shall pay a fixed amount of fee and submit the following papers:
+1)Application form (see Attachment 2-1).
+2)Certificate of nationality registration.
+3)Certificate of ownership registration. However, this requirement is waived for an aircraft applying for nationality registration in accordance with Article 11, Paragraph 1 of the Act.
+4)Documentation proving the reason for or eligibility for deregistration of nationality.
+With the application in the foregoing Article properly screened and approved, the CAA shall deregister the nationality and issue a CAA nationality deregistration certificate of the Republic of China (see Attachment 2-2).
+Paragraph 3 and 4 of Article 6 shall apply to this Article as well.]]></條文內容>
   </條文>
   <編章節>   Chapter III .  Registration of Aircraft Ownership</編章節>
   <條文>
@@ -117,7 +129,8 @@ Paragraph 3 and 4 of Article 6 applies to this Article.]]></條文內容>
 1) application form (see attachment 5 or 6).
 2) certificate of ownership registration.
 3) certificate of aircraft mortgage or lease.
-When there are more than two mortgagers, the application should indicate the respective sum of mortgage for each one. Paragraph 3 and 4 of Article 6 shall apply to this Article as well.]]></條文內容>
+When there are more than two mortgagers, the application should indicate the respective sum of mortgage for each one.
+Paragraph 3 and 4 of Article 6 shall apply to this Article as well.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
@@ -128,7 +141,8 @@ When there are more than two mortgagers, the application should indicate the res
     <條文內容><![CDATA[For an aircraft that has completed nationality registration in accordance with the provisions of Article 11 of The Act and Article 6 of this Regulation, its owner or operator in applying for registration of mortgage or lease, shall pay a fixed amount of fee and submit the following papers：
 1) application form (see attachment 5 or 6).
 2) certificate of nationality registration.
-3) certificate of aircraft mortgage or lease. Paragraph 2 and 3 of Article 16 shall apply to this Article as well.
+3) certificate of aircraft mortgage or lease.
+Paragraph 2 and 3 of Article 16 shall apply to this Article as well.
 With the application in Paragraph 1 of this Article screened and approved, CAA shall complete the aircraft mortgage or lease, and add notations to the nationality registration certificate accordingly.]]></條文內容>
   </條文>
   <條文>
@@ -154,7 +168,7 @@ Paragraph 3 and 4 of Article 6 shall apply to this Article as well.]]></條文�
 The nationality emblem of Republic of China’s civil aircraft shall be represented by the English letter “B” followed by a 5-digit Arabic numbers aligned left to right in the order shown below：
 1) nationality emblem followed by a dash.
 2) registration number follows the dash.
-An aircraft after completing nationality registration will not have its markings altered, except in the case registration has been revoked and application for new nationality registration becomes necessary.]]></條文內容>
+An aircraft after completing nationality registration will not have its markings altered, except in the case nationality has been deregistered and application for new nationality registration becomes necessary.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
@@ -173,8 +187,7 @@ An aircraft after completing nationality registration will not have its markings
     <條文內容><![CDATA[The markings of aeroplane and helicopter shall be placed as the following：
 1) For aeroplane:
 (1) Wings. The markings shall be painted on the left half or extend to the right half of the lower surface of the wing structure, and equidistant to the front end and rear end of the wing, with top of the words uniformly facing the front end of the wing.
-(2) Fuselage or tail surfaces.
-Markings on the fuselage shall be painted on the prominent position of each side of the fuselage between the wings and the tail surface. When located on a single vertical tail surface they shall appear on both sides. When located on multi-vertical tail surfaces they shall appear on the outboard sides of the outer surfaces.
+(2) Fuselage or tail surfaces. Markings on the fuselage shall be painted on the prominent position of each side of the fuselage between the wings and the tail surface. When located on a single vertical tail surface they shall appear on both sides. When located on multi-vertical tail surfaces they shall appear on the outboard sides of the outer surfaces.
 2) For helicopters markings shall be painted on fuselage, tailboom or both sides of vertical tail surface structure solidly fixed.]]></條文內容>
   </條文>
   <條文>
@@ -218,7 +231,8 @@ Markings on the fuselage shall be painted on the prominent position of each side
 3) Registration of aircraft mortgage : NT$18,000.
 4) Registration of aircraft lease :  NT$18,000.
 5) Repeal of aircraft mortgage or lease registration: NT$1,000.
-6) Re-issuance of a new registration certificate : NT$2,100.
+6) Deregistration of aircraft nationality: NT$2,100.
+7) Re-issuance of a new registration certificate : NT$2,100.
 Operators of civil air transport or general aviation who were merged with special approval from MOTC, shall enclose a photo copy of the MOTC special approval, a photo copy of the license of merger and a photo copy of contract of merger in applying to CAA for exemption from paying fees of aircraft nationality registration and ownership registration.]]></條文內容>
   </條文>
   <條文>
