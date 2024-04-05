@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Book-Entry Operations for Centrally Deposited Securities</英文法規名稱>
 <中文法規名稱>有價證券集中保管帳簿劃撥作業辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400099</法規網址>
-<最新英文異動日期>20210329</最新英文異動日期>
+<最新英文異動日期>20231229</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -16,10 +16,11 @@
 7. Articles 1 and 30 amended and promulgated on 30 October 2004 per Order No. Financial-Supervisory-Securities-IV-0930005142 of the Securities and Futures Commission, Ministry of Finance
 8. Articles 2, 17, 30, and 35 amended and issued per 25 November 2010 Order No. Financial-Supervisory-Securities-SITC-0990065062; for enforcement from the date of issuance, with the exception of Article 17, which shall be enforced from 25 December 2010
 9. Articles 21, 23, 29, and 29-1 amended and issued per 7 October 2015 Order No. Financial-Supervisory-Securities-SITC-1040039214
-10. Article 29 amended per 29 March 2021 Order No. Financial-Supervisory-Securities-Corporate-1100335023 of the Financial Supervisory Commission]]></沿革內容>
+10. Article 29 amended per 29 March 2021 Order No. Financial-Supervisory-Securities-Corporate-1100335023 of the Financial Supervisory Commission
+11. Articles 29 and 35 amended and issued per 29 December 2023 Order No. Financial-Supervisory-Securities-Corporate-1120386067 of the Financial Supervisory Commission; for enforcement from 4 January 2024]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   CHAPTER I GENERAL PROVISIONS</編章節>
+  <編章節>   CHAPTER I  GENERAL PROVISIONS</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[These Regulations have been prescribed pursuant to paragraph 2 of Article 43 of the Securities and Exchange Act and paragraph 4 of Article 34 of the Securities Investment Trust and Consulting Act.]]></條文內容>
@@ -27,9 +28,9 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[Securities in the custody of a centralized securities depository enterprise (below, "CSDE") and eligible for book-entry transfer shall be limited to one of the following:
-1.Securities listed on the Taiwan Stock Exchange (TWSE).
-2.Securities traded over the counter of securities firms.
-3.Other securities approved by the Financial Supervisory Commission (FSC).]]></條文內容>
+1. Securities listed on the Taiwan Stock Exchange (TWSE).
+2. Securities traded over the counter of securities firms.
+3. Other securities approved by the Financial Supervisory Commission (FSC).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
@@ -43,7 +44,7 @@ An issuer that delivers non-physical securities by book-entry transfer shall ope
     <條文內容><![CDATA[Deposit or withdrawal of securities by a customer of a participant (below, the "customer"), and book-entry settlement or pledging of the deposited securities shall be conducted in the name of the participant.
 An issuer delivering non-physical securities by book-entry transfer, and its shareholders carrying out account transfer procedures, shall do so in the name of the participant.]]></條文內容>
   </條文>
-  <編章節>   CHAPTER II OPENING AND ADMINISTRATION OF ACCOUNTS</編章節>
+  <編章節>   CHAPTER II  OPENING AND ADMINISTRATION OF ACCOUNTS</編章節>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[To open a new account with a CSDE, an applicant shall submit an application and other relevant documents to the CSDE.]]></條文內容>
@@ -52,11 +53,11 @@ An issuer delivering non-physical securities by book-entry transfer, and its sha
     <條號>Article 6</條號>
     <條文內容><![CDATA[The CSDE shall set up participant's account books.
 The account books as referred to in the preceding paragraph shall record, in addition to the participant's name, office address, and government uniform invoice number or tax ID number, all of the following information regarding securities deposited by the participant:
-1.The respective portions owned by participants, customers, as well as the respective portions pending settlement, under pledge, and registered.
-2.Types and quantities of securities, and the name of the issuing company.
-3.Any increase or decrease in the quantity of deposited securities, and reasons for such changes.
-4.Where the securities serve as trust assets, any necessary recordation with respect thereto.
-5.Other necessary items.
+1. The respective portions owned by participants, customers, as well as the respective portions pending settlement, under pledge, and registered.
+2. Types and quantities of securities, and the name of the issuing company.
+3. Any increase or decrease in the quantity of deposited securities, and reasons for such changes.
+4. Where the securities serve as trust assets, any necessary recordation with respect thereto.
+5. Other necessary items.
 The portion of securities pending settlement referred to in Item 1 of the preceding paragraph shall refer to those deposited securities to be delivered to other participants and/or customers in performing settlement.]]></條文內容>
   </條文>
   <條文>
@@ -77,18 +78,18 @@ The passbook as referred to in paragraph 2 of this article shall not be transfer
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[Upon accepting a customer's account application and having the customer's securities deposited with a CSDE in the participant's name, the participant shall set up customer’s account books recording the following information:
-1.the customer's name, identification card number, government uniform invoice number, tax ID number, and residence or domicile;
-2.types and quantities of securities, and name of the issuers;
-3.any increase and decrease in the quantity of securities and reasons for such changes;
-4.where the securities serve as trust assets, any necessary recordation with respect thereto; and
-5.other necessary items.]]></條文內容>
+1. the customer's name, identification card number, government uniform invoice number, tax ID number, and residence or domicile;
+2. types and quantities of securities, and name of the issuers;
+3. any increase and decrease in the quantity of securities and reasons for such changes;
+4. where the securities serve as trust assets, any necessary recordation with respect thereto; and
+5. other necessary items.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[A CSDE may cancel the account of a participant if one of the following situations occurs:
-1.the participant has lost the necessary qualification of a participant;
-2.the participant has not used the account for a certain period of time; or
-3.other matters requiring cancellation of the account occur.
+1. the participant has lost the necessary qualification of a participant;
+2. the participant has not used the account for a certain period of time; or
+3. other matters requiring cancellation of the account occur.
 A participant whose account has been canceled in accordance with the preceding paragraph shall undertake the account-closing matters pursuant to the rules and regulations prescribed by a CSDE.]]></條文內容>
   </條文>
   <條文>
@@ -104,7 +105,7 @@ Should any discrepancies be discovered in such verification, the participant sha
     <條號>Article 14</條號>
     <條文內容><![CDATA[The participant's account books, the customer's account books, and the entry vouchers shall be maintained for a period of at least 15 years from the entry date.]]></條文內容>
   </條文>
-  <編章節>   CHAPTER III DEPOSIT AND WITHDRAWAL OF SECURITIES</編章節>
+  <編章節>   CHAPTER III  DEPOSIT AND WITHDRAWAL OF SECURITIES</編章節>
   <條文>
     <條號>Article 15</條號>
     <條文內容><![CDATA[Securities that can be deposited with a CSDE shall be limited to those actually owned by a participant or its customers.
@@ -165,7 +166,7 @@ A participant shall, upon receiving a customer's request for withdrawal as refer
     <條號>Article 26-1</條號>
     <條文內容><![CDATA[Where an issuer of securities of the same class delivers securities by book-entry transfer without printing physical certificates of such securities, withdrawal procedures for its customers shall be in accordance with the rules prescribed by the CSDE.]]></條文內容>
   </條文>
-  <編章節>   CHAPTER IV THE BOOK-ENTRY OF SECURITIES</編章節>
+  <編章節>   CHAPTER IV  THE BOOK-ENTRY OF SECURITIES</編章節>
   <條文>
     <條號>Article 27</條號>
     <條文內容><![CDATA[Unless provided otherwise, customers, while making book-entry settlement of deposited securities, shall present the passbook as well as the specimen chop/signature for settlement confirmation. The said participant shall then make necessary record entries on each relevant customer's passbook and account book and notify the CSDE of the total amount of securities which the customers are required to deliver to the participant in the transaction.
@@ -181,8 +182,7 @@ After the CSDE has received the said notification from the participant and the s
     <條文內容><![CDATA[While a participant is conducting the settlement for centralized securities which will be delivered by securities firms and securities finance enterprises to the Taiwan Stock exchange or the TPEx, a CSDE shall, in accordance with the "Calculation Table for Settlement" or the "Calculation Table for Delivery," transfer the said securities from the "sub-account pending settlement" on the relevant participants' account books to the accounts of the TWSE or of the TPEx within the prescribed time period for settlement. Where the balance in the account of a securities firm or securities finance enterprise is insufficient for settlement, the CSDE shall nevertheless transfer the existing balance to the account of the TWSE or of the TPEx, and notify the TWSE or the TPEx to take appropriate action on the matter.
 For the securities to be delivered by the TWSE or the TPEx to securities firms or securities finance enterprises, the CSDE shall, in accordance with the notification of the TWSE or the TPEx, transfer the said securities to the accounts of securities firms or securities finance enterprises.
 When a participant is conducting balance settlement for emerging stock or open-end fund beneficial certificate transactions, for stocks or open-end fund beneficial certificates that shall be delivered by securities firms to a CSDE, the CSDE shall, in accordance with the "Calculation Table for Delivery," transfer the stocks or open-end fund beneficial certificates from the "sub-account pending settlement" on the relevant participants' account books to the account of the CSDE. For stocks or open-end fund beneficial certificates that shall be received by a securities firm from the CSDE, the CSDE shall transfer the stocks or open-end fund beneficial certificates from its account to the account of the securities firm.
-When participants conduct real-time gross settlement of emerging stock or open-end fund beneficial certificate transactions, the CSDE shall, after receiving notice from both participants, transfer the stock or open-end fund beneficial certificates from the selling participant's CSDE account into the buying participant's CSDE account, and shall notify the participants to make the necessary entries into their customer’s account books.
-For a stock that is registered on the Pioneer Stock Board and traded over-the-counter, centralized settlement shall be performed in accordance with paragraphs 1 and 2, and the preceding two paragraphs shall not apply.]]></條文內容>
+When participants conduct real-time gross settlement of emerging stock or open-end fund beneficial certificate transactions, the CSDE shall, after receiving notice from both participants, transfer the stock or open-end fund beneficial certificates from the selling participant's CSDE account into the buying participant's CSDE account, and shall notify the participants to make the necessary entries into their customer’s account books.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 29-1</條號>
@@ -196,12 +196,12 @@ The provisions of paragraph 1, the latter part of paragraph 2, and the preceding
     <條文內容><![CDATA[Where a customer requests to transfer the balance of securities from the customer's account with one participant to the customer's account with another participant, or transfer it to another person's account under the provisions of any act or regulation, the customer shall submit the account passbook and an account transfer application to the former participant and such participant shall notify the CSDE to transfer the balance to the customer's account with the new participant; provided, this shall not apply where there are other regulatory restrictions regarding the securities for which the application for transfer is made.
 The CSDE shall, after making account transfer in accordance with the notification as referred to in the preceding paragraph, record the transaction immediately in the relevant participants' account books, and notify such participants to record necessary information in the customer's account books.
 Where an account transfer referred to in paragraph 1 satisfies any of the following conditions, it is not necessary to submit the account passbook and transfer application to the participant:
-1.Where, for securities sold through short sale, a customer requests to make an account transfer to settle the short sale with spot securities.
-2.Where a customer requests to make an account transfer of collateral for money borrowing in connection with securities business.
-3.Where, in accordance with CSDE provisions for termination of book registration of securities and their replacement with physical securities, a customer requests to make an account transfer to withdraw the balance of securities from the customer's accounts.
-4.Where, in compliance with the applicable requirements of the TPEx, a customer requests to make an account transfer to trade international bonds by means of negotiated transaction at a securities firm's place of business.
-5.Where a customer requests to make an account transfer to provide securities as collateral for short sales, or to cover shortfalls in margin for margin purchases and short sales.
-6.As otherwise provided by an act or regulation or approved by the FSC.]]></條文內容>
+1. Where, for securities sold through short sale, a customer requests to make an account transfer to settle the short sale with spot securities.
+2. Where a customer requests to make an account transfer of collateral for money borrowing in connection with securities business.
+3. Where, in accordance with CSDE provisions for termination of book registration of securities and their replacement with physical securities, a customer requests to make an account transfer to withdraw the balance of securities from the customer's accounts.
+4. Where, in compliance with the applicable requirements of the TPEx, a customer requests to make an account transfer to trade international bonds by means of negotiated transaction at a securities firm's place of business.
+5. Where a customer requests to make an account transfer to provide securities as collateral for short sales, or to cover shortfalls in margin for margin purchases and short sales.
+6. As otherwise provided by an act or regulation or approved by the FSC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 30-1</條號>
@@ -242,7 +242,7 @@ The CSDE shall, upon receiving the notification from the participant, transfer t
     <條號>Article 30-8</條號>
     <條文內容><![CDATA[When securities held in centralized custody are made the object of a trust, and when trust gains therefrom are distributed or the trust relationship is declared unviable, invalidated, voided, rescinded, revoked, amended, or terminated, the participant on the trustee's part shall, annexing relevant certifications, notify the CSDE to transfer the securities from the "participant's self-owned securities sub-account" or "sub-account of the customer" on the participant account book to the "sub-account of the customer" or the "participant's self-owned securities sub-account" on the participant account book of the beneficiary, settlor, or entity designated by the trustee or by the competent authority in charge of the trust industry. The participant on the part of the beneficiary, settlor, or entity designated by the trustee or by the competent authority in charge of the trust industry shall also make necessary records on the customer’s account books.]]></條文內容>
   </條文>
-  <編章節>   CHAPTER V EXERCISE OF RIGHTS OF DEPOSITED SECURITIES</編章節>
+  <編章節>   CHAPTER V  EXERCISE OF RIGHTS OF DEPOSITED SECURITIES</編章節>
   <條文>
     <條號>Article 31</條號>
     <條文內容><![CDATA[Within two days after the commencement of the issuing company's publicly announced period of suspension of account transfer due to convening of a shareholders' meeting or creditors' meeting, or declaration of dividends, bonuses or other profits, or repayment of principal and payment of interest, a participant shall prepare and submit to the CSDE a list of all securities owners whose securities have been deposited with the CSDE one business day prior to the record date. Such list shall record the names, personal identification card numbers, government uniform invoice numbers, tax ID numbers, residence or domicile, the quantities of securities held by each securities owner, and information relating to trust registrations.
@@ -254,7 +254,7 @@ The provisions of the preceding paragraph shall apply mutatis mutandis to govern
 Information regarding the serial numbers and total quantities of the deposited securities as referred to in the preceding paragraph shall be based upon the securities which have been deposited with the CSDE one day prior to commencement of the said period of suspension of account transfer.
 The provisions of the preceding two paragraphs shall apply mutatis mutandis to government bonds and other securities.]]></條文內容>
   </條文>
-  <編章節>   CHAPTER VI SUPPLEMENTARY PROVISIONS</編章節>
+  <編章節>   CHAPTER VI  SUPPLEMENTARY PROVISIONS</編章節>
   <條文>
     <條號>Article 33</條號>
     <條文內容><![CDATA[A participant shall appoint a CSDE to handle matters regarding book-entry transfer of securities.]]></條文內容>
@@ -266,7 +266,7 @@ The provisions of the preceding two paragraphs shall apply mutatis mutandis to g
   <條文>
     <條號>Article 35</條號>
     <條文內容><![CDATA[The effective date of these Regulations shall be determined by the Commission.
-The amendments to these Regulations shall take force from the date of promulgation, with the exception of Article 17 amended and issued on 25 November 2010, which shall take force from 25 December 2010.]]></條文內容>
+The amendments to these Regulations shall take force from the date of promulgation, with the exception of Article 17 amended and issued on 25 November 2010, which shall take force from 25 December 2010; and the articles amended and issued on 29 December 2023, which shall take force from 4 January 2024.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

@@ -3,7 +3,7 @@
 <英文法規名稱>Standards Governing Eligibility of Securities for Margin Purchase and Short Sale</英文法規名稱>
 <中文法規名稱>有價證券得為融資融券標準</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400009</法規網址>
-<最新英文異動日期>20210329</最新英文異動日期>
+<最新英文異動日期>20231228</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -25,7 +25,9 @@
 34. Articles 2, 4, and 8 amended and issued per 27 July 2012 Order No. Financial-Supervisory-Securities-SITC-1010033473 of the Financial Supervisory Commission; for enforcement from the date of issuance, except for Article 2, paragraph 2, subparagraph 3, item 1, which shall enter into force from fiscal 2013
 35. Articles 3, 5, and 6 amended and issued per 25 April 2014 Order No. Financial-Supervisory-Securities-Futures-1030012154 of the Financial Supervisory Commission
 36. Article 2 amended and issued per 5 August 2020 Order No. Financial-Supervisory-Securities-SITC-1090350291 of the Financial Supervisory Commission
-37. Article 2 amended per 29 March 2021 Order No. Financial-Supervisory-Securities-Corporate-1100335023 of the Financial Supervisory Commission]]></沿革內容>
+37. Article 2 amended per 29 March 2021 Order No. Financial-Supervisory-Securities-Corporate-1100335023 of the Financial Supervisory Commission
+38. Articles 2 and 8 amended per 28 December 2023 Order No. Financial-Supervisory-Securities-SITC-1120364320 of the Financial Supervisory Commission; for enforcement from 1 January 2024
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -34,7 +36,7 @@
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[With respect to shares of a common stock, other than a Taiwan Innovation Board listed stock, that has been listed on a the stock exchange for 6 months, if the net worth per share of the stock is not less than par value (or in the case of shares issued by a primary exchange listed company with no par value or a par value other than NT$10 per share, if the issuer has no accumulated deficit in the most recent fiscal year), the securities exchange shall publicly announce them as shares eligible for margin purchase and short sale, and report same to the competent authority on a monthly basis.
+    <條文內容><![CDATA[With respect to shares of a common stock that has been listed on the stock exchange for 6 months, if the net worth per share of the stock is not less than par value (or in the case of shares issued by a primary exchange listed company with no par value or a par value other than NT$10 per share, if the issuer has no accumulated deficit in the most recent fiscal year), the securities exchange shall publicly announce them as shares eligible for margin purchase and short sale, and report same to the competent authority on a monthly basis.
 With respect to shares of a common stock, other than an OTC-managed stock or an emerging stock, that has been listed on the OTC market for 6 months, if the net worth per share of the stock is not less than par value (or in the case of shares issued by an OTC primary listed company with no par value or a par value other than NT$10 per share, if the issuer has posted no accumulated deficit in the most recent fiscal year), and the issuer meets the following requirements, the OTC market shall publicly announce the shares as eligible for margin purchase and short sale, and report same to the competent authority on a monthly basis:
 1. The issuer has been incorporated and registered for at least 3 years. If the issuer is a transferee company of a demerger from a listed company or an OTC company, the time of incorporation may be calculated from the date of establishment of the demerged division as shown in the financial data of the demerged company. If the issuer is an investment holding company or financial holding company, the time of incorporation may be calculated from the time of incorporation of the operating entity.
 2. The issuer's paid in capital is NT$300 million or more. However, in the case of shares issued by an OTC primary listed company with no par value or a par value other than NT$10 per share, the issuer's shareholders equity shall be NT$600 million or more.
@@ -43,11 +45,11 @@ A. There shall be no accumulated deficit in the most recent fiscal year, and the
 B. In the case of shares issued by an OTC primary listed company with no par value or a par value other than NT$10 per share, the issuer's operating income and income before tax, as reported in the consolidated financial statements, shall account for 3 percent or more of the year-end shareholders equity.
 For Taiwan depositary receipts that have been listed on an exchange for 6 months, if the foreign issuer did not post an accumulated deficit in either the CPA-audited and certified consolidated financial report for the most recent fiscal year or the CPA-reviewed half-year consolidated financial report (either report shall have been prepared in compliance with the laws and regulations of the issuer's home country), and if the number of units listed on the exchange is 60 million units or more, the securities exchange shall publicly announce the units as eligible for margin purchase and short sale, and report same to the competent authority on a monthly basis.
 If any of the following conditions obtain with respect to the shares or Taiwan depositary receipts referred to in the preceding three paragraphs, they may not be approved for margin purchase and short sale:
-1. Share price is too volatile.
-2. Equity ownership is overly concentrated.
-3. Trading volume is excessively abnormal.
+A. Share price is too volatile.
+B. Equity ownership is overly concentrated.
+C. Trading volume is excessively abnormal.
 The specific standards and procedures required in the preceding four paragraphs shall be prescribed separately by securities exchanges and OTC markets and reported to the competent authority for approval.
-Where the issuer of OTC-listed shares that are eligible for margin purchase and short sale applies to switch to an exchange listing, unless equity ownership is overly concentrated, the shares shall be immediately eligible for margin purchase and short sale, and the provision in paragraph 1 regarding the 6-month exchange listing requirement will not be applicable, nor will the provisions of paragraph 4, subparagraphs 1 and 3. The aforementioned procedures shall be drafted by the securities exchanges and reported to the competent authority for approval.
+Where the issuer of Taiwan Innovation Board listed shares that are eligible for margin purchase and short sale applies for reclassification?as an exchange listing or the issuer of OTC-listed shares that are eligible for margin purchase and short sale applies to switch to an exchange listing, unless equity ownership is overly concentrated, the shares shall be immediately eligible for margin purchase and short sale, and the provision in paragraph 1 regarding the 6-month exchange listing requirement will not be applicable, nor will the provisions of paragraph 4, subparagraphs 1 and 3. The aforementioned procedures shall be drafted by the securities exchanges and reported to the competent authority for approval.
 The provisions of the preceding paragraph also apply to shares that are switched to an exchange listing less than 6 months before this amendment enters into force.
 When a company with an exchange (or OTC) listing is to be converted into a financial holding company in accordance with the Financial Holding Company Act, if the shares of a financial institution to be converted into the financial holding company are eligible for margin purchase and short sale, where the financial holding company thus created is an exchange-listed company, unless equity ownership is overly concentrated, its shares shall be immediately eligible for margin purchase and short sale, and the provision in paragraph 1 regarding the 6-month exchange listing requirement will not be applicable, nor will the provisions of subparagraphs 1 and 3 of paragraph 4.
 When a company with an exchange (or OTC) listing is to be converted into a financial holding company in accordance with the Financial Holding Company Act, if the shares of a financial institution to be converted into the financial holding company are eligible for margin purchase and short sale, where the financial holding company thus created is an OTC-listed company, unless equity ownership is overly concentrated, its shares shall be immediately eligible for margin purchase and short sale, and the provision in paragraph 2 regarding the 6-month OTC listing requirement will not be applicable, nor will the provisions of subparagraphs 1 and 3, or paragraph 4, subparagraphs 1 and 3.
@@ -64,30 +66,30 @@ With the exception of exchange-traded fund beneficial certificates, exchange-tra
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[If any of the following conditions obtain with respect to shares or Taiwan depositary receipts eligible for margin purchase and short sale, a securities exchange or OTC market may publicly announce suspension of margin purchase and short sale transactions in such shares, or adjust the margin purchase leverage limit or short sale margin requirement within the scope prescribed by the competent authority and report same to the competent authority for recordation:
-1.The trading method for the shares or Taiwan depositary receipts has been changed to require full delivery (in the case of those listed on either an exchange or OTC market), or to require pre-paid settlement (in the case of those listed on an OTC market).
-2.Trading has been suspended (in the case of exchange-listed shares and Taiwan depositary receipts, and OTC-listed shares).
-3.Delisting has taken place (in the case of exchange-listed shares and Taiwan depositary receipts, and OTC-listed shares).
-4.The net worth per share of a stock listed on the exchange or OTC market is below par value; or, in the case of shares with no par value or a par value other than NT$10 per share issued by a company with a primary listing on the exchange or OTC market, the issuer has posted an accumulated deficit.
-5.In either the CPA-audited and certified consolidated financial report for the most recent fiscal year or the CPA-reviewed half-year consolidated financial report (either report shall have been prepared in compliance with the laws and regulations of the issuer's home country), the issuer of foreign securities evidenced by Taiwan depositary receipts has posted an accumulated deficit.
-6.Taiwan depositary receipts number less than 60 million exchange-listed units following a redemption.
-7.There has been a major default on exchange-listed shares or Taiwan depositary receipts, or on OTC-listed shares, and the balance of margin purchases or short sales meets or exceeds a prescribed ratio.
-8.Share price is too volatile.
-9.Equity ownership is overly concentrated.
-10.Trading volume is excessively abnormal.
-11.There is another situation that makes it unadvisable to continue margin purchase and short sale transactions.
+1. The trading method for the shares or Taiwan depositary receipts has been changed to require full delivery (in the case of those listed on either an exchange or OTC market), or to require pre-paid settlement (in the case of those listed on an OTC market).
+2. Trading has been suspended (in the case of exchange-listed shares and Taiwan depositary receipts, and OTC-listed shares).
+3. Delisting has taken place (in the case of exchange-listed shares and Taiwan depositary receipts, and OTC-listed shares).
+4. The net worth per share of a stock listed on the exchange or OTC market is below par value; or, in the case of shares with no par value or a par value other than NT$10 per share issued by a company with a primary listing on the exchange or OTC market, the issuer has posted an accumulated deficit.
+5. In either the CPA-audited and certified consolidated financial report for the most recent fiscal year or the CPA-reviewed half-year consolidated financial report (either report shall have been prepared in compliance with the laws and regulations of the issuer's home country), the issuer of foreign securities evidenced by Taiwan depositary receipts has posted an accumulated deficit.
+6. Taiwan depositary receipts number less than 60 million exchange-listed units following a redemption.
+7. There has been a major default on exchange-listed shares or Taiwan depositary receipts, or on OTC-listed shares, and the balance of margin purchases or short sales meets or exceeds a prescribed ratio.
+8. Share price is too volatile.
+9. Equity ownership is overly concentrated.
+10. Trading volume is excessively abnormal.
+11. There is another situation that makes it unadvisable to continue margin purchase and short sale transactions.
 Where margin purchase and short sale transactions are suspended or the margin purchase leverage limit or short sale margin requirement is adjusted in accordance with the provisions of the preceding paragraph, if the reason for suspension or adjustment no longer exists, the stock exchange or OTC market shall publicly announce reinstatement and report same to the competent authority for recordation.
 The specific standards and procedures required in the preceding two paragraphs shall be prescribed separately by securities exchanges and OTC markets and reported to the competent authority for approval.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[If any of the following conditions obtain with respect to beneficial certificates eligible for margin purchase and short sale, a securities exchange or OTC market may publicly announce suspension of margin purchase and short sale transactions in such certificates, or adjust the margin purchase leverage limit or short sale margin requirement within the scope prescribed by the competent authority, and report same to the competent authority for recordation:
-1.Delisting has taken place.
-2.Financial reports have not been punctually filed and publicly announced in accordance with requirements.
-3.A situation set out in Article 96, paragraph 1 of the Securities Investment Trust and Consulting Act exists with respect to the securities investment trust enterprise managing the securities investment trust fund, or a situation set out in Article 38, paragraph 1 of the Regulations Governing Futures Trust Enterprises exists with respect to the futures trust enterprise managing the exchange-traded futures trust fund.
-4.The price is too volatile.
-5.Beneficial ownership is overly concentrated.
-6.Trading volume is excessively abnormal.
-7.There is another situation that makes it unadvisable to continue margin purchase and short sale transactions.
+1. Delisting has taken place.
+2. Financial reports have not been punctually filed and publicly announced in accordance with requirements.
+3. A situation set out in Article 96, paragraph 1 of the Securities Investment Trust and Consulting Act exists with respect to the securities investment trust enterprise managing the securities investment trust fund, or a situation set out in Article 38, paragraph 1 of the Regulations Governing Futures Trust Enterprises exists with respect to the futures trust enterprise managing the exchange-traded futures trust fund.
+4. The price is too volatile.
+5. Beneficial ownership is overly concentrated.
+6. Trading volume is excessively abnormal.
+7. There is another situation that makes it unadvisable to continue margin purchase and short sale transactions.
 Where margin purchase and short sale transactions are suspended or the margin purchase leverage limit or short sale margin requirement is adjusted in accordance with the provisions of the preceding paragraph, if the reason for suspension or adjustment no longer exists, the stock exchange or OTC market shall publicly announce reinstatement and report same to the competent authority for recordation.
 The specific standards and procedures required in the preceding two paragraphs shall be prescribed separately by securities exchanges and OTC markets and reported to the competent authority for approval.
 The provisions of subparagraphs 4 to 6 of paragraph 1 do not apply to exchange-traded fund beneficial certificates, and exchange-traded futures trust fund beneficial certificates. The provisions of subparagraphs 3 to 6 of paragraph 1 do not apply to offshore exchange-traded fund beneficial certificates.]]></條文內容>
@@ -106,7 +108,7 @@ When margin purchase and short sale transactions are suspended or reinstated by 
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[These Standards shall be implemented from the date of issuance, except for Article 2, paragraph 2, subparagraph 3, item 1 amended and issued on 27 July 2012, which shall enter into force from fiscal 2013.]]></條文內容>
+    <條文內容><![CDATA[These Standards shall be implemented from the date of issuance, except for Article 2, paragraph 2, subparagraph 3, item 1 amended and issued on 27 July 2012, which shall enter into force from fiscal 2013, and the articles amended and issued on 28 December 2023, which shall enter into force from 1 January 2024.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
