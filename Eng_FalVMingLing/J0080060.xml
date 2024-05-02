@@ -3,12 +3,13 @@
 <英文法規名稱>Regulations Governing Anti-Money Laundering and Countering the Financing of Terrorism for the Third-Party Payment Enterprises</英文法規名稱>
 <中文法規名稱>第三方支付服務業防制洗錢及打擊資恐辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080060</法規網址>
-<最新英文異動日期>20230224</最新英文異動日期>
+<最新英文異動日期>20240122</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on January 28, 2022
-2.Formulated and announced 16 regulations by the Ministry of Digital Affairs, on February 24, 2023.]]></沿革內容>
+2.Formulated and announced 16 regulations by the Ministry of Digital Affairs, on February 24, 2023.
+3.Amended on January 22, 2024]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -41,17 +42,27 @@ A third-party payment enterprise shall not sign contracts with other third-party
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[A third-party payment enterprise shall establish internal control and audit systems based on their ML/TF risks and business scale, and the systems shall include the following:
-1. Operations and control procedures of anti-money laundering and countering the financing of terrorism (AML/CFT).
-2. Holding or participating in on-the-job training related to AML/CFT regularly.
-3. The responsible person or a designated dedicated person shall be responsible for coordinating and monitoring the implementation of subparagraph 1.
-4. Making AML/CFT risk assessment reports available and updating them regularly.
+    <條文內容><![CDATA[Third-Party Payment Enterprises shall establish internal controls and audit systems based on the risks of money laundering and terrorist financing, and the scale of their business operations. The contents shall include the following:
+1. Operational and control procedures for preventing money laundering and combating terrorist financing.
+2. Regular in-service training on anti-money laundering and countering terrorism financing.
+3. A person in charge or designated personnel shall be appointed for coordinating and supervising the implementation of Subparagraph 1.
+4. Preparation and regular updating of anti-money laundering and terrorist financing risk assessment reports.
 5. Audit procedures.
-The on-the-job training referred to in subparagraph 2 of the preceding paragraph shall be proceeded with one of the following methods:
-1. The responsible person or a designated dedicated person shall participate in on-the-job training related to AML/CFT held by government, legal persons, or groups at least once every two years.
-2. The enterprise shall hold on-the-job training related to AML/CFT at least once every two years. The training may be arranged in combination with other professional training programs.
-The audit procedures referred to in subparagraph 5 of paragraph 1 shall, based on the ML/TF risks and business scale, be conducted by means of self-review or internal audit.
-The MOEA shall annually conduct sample audits of the implementation of the systems referred to paragraph 1. The audit methods include on-site and off-site inspection. The MOEA may delegate the inspections to another agency, institution, legal person or organization with inspection capability to carry out the inspections.]]></條文內容>
+The in-service training specified in the preceding paragraph shall be conducted by Third-Party Payment Enterprises in one of the following ways:
+1. The person in charge or designated personnel shall attend in-service education and training on anti-money laundering and countering terrorism financing organized by government agencies, legal persons, or groups at least once every two years.
+2. An at least once every two years, self-organized training on anti-money laundering and countering terrorism financing shall be conducted, and it may arrange joint training with other professional training.
+The audit procedures under the Subparagraph 5 of First Paragraph shall be conducted by self-examination or internal audit based on the risks of money laundering and terrorist financing, and the scale of their business operations.
+The Competent Authority may dispatch personnel or commission appropriate institutions to conduct audits of the implementation of anti-money laundering and countering terrorism financing by Third-Party Payment Enterprises at any time using a risk-based approach. Audit methods include on-site and off-site audits. When necessary, the competent authority may designate or require Third-Party Payment Enterprises to commission specialized professionals and technical personnel to audit their implementation of anti-money laundering and countering terrorism financing and submit reports to the competent authority.
+When conducting the aforementioned audits, the competent authority may instruct Third-Party Payment Enterprises to provide relevant books, documents, electronic data files, or other materials related to anti-money laundering and countering terrorism financing. Regardless of whether the data is stored in written form, electronic files, emails, or any other form, it shall be provided without any excuse, refusal, or hindrance to the audit.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 5-1</條號>
+    <條文內容><![CDATA[Third-Party Payment Enterprises shall apply for registration of Anti-Money Laundering and Capability Registration in accordance with the procedures and methods designated by the Competent Authority. Those approved after review shall be notified and announced by the Competent Authority.
+This Ministry may revoke the registration of Third-Party Payment Enterprises under any of the following circumstances:
+1. Failure to truthfully adhere to the declaration of compliance with the Anti-Money Laundering regulations, these laws, regulations, and the provisions related to third-party payment service standard contracts.
+2. The content stated in the application plan no longer matches the current situation.
+For matters related to inspection and registration as stipulated in Paragraphs Four to Five of the preceding Article and in the preceding two paragraphs of this Article, the Competent Authority may delegate its affiliated agencies to handle.
+Before the implementation of the amendment to this Article, Third-Party Payment Enterprises whose service Capability Registration have been reviewed, approved, and announced by the affiliated agencies of the Competent Authority shall be deemed to have complied with the provisions of Paragraph One of this Article during the validity period of the registration.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
