@@ -13,7 +13,7 @@
   <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[This Act is enacted for the establishment of the National Institute of Cyber Security (hereinafter referred to as “the Institute”) to enhance the nation’s cyber security technology competence, and promote the research, development, and application of cyber security technology.]]></條文內容>
+    <條文內容><![CDATA[This Act is enacted for the establishment of the National Institute of Cyber Security（hereinafter referred to as “the Institute”）to enhance the nation’s cyber security technology competence, and promote the research, development, and application of cyber security technology.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
@@ -25,7 +25,7 @@ The Ministry of Digital Affairs may commission or designate an agency to supervi
     <條文內容><![CDATA[The Institute’s scope of operation shall include:
 1. researching and developing cyber security technology, and promoting the application, technology transfer, industry-university collaboration services, and international cooperation and exchanges of cyber security technology;
 2. assisting in planning and promoting national cyber security protection mechanisms;
-3. assisting government agencies (or institutions) and critical infrastructure in responding to major cyber security incidents;
+3. assisting government agencies（or institutions）and critical infrastructure in responding to major cyber security incidents;
 4. assisting in planning and supporting of the cyber security protection of nation’s critical infrastructure;
 5. assisting in planning and fostering cyber security talents, and promoting cyber security awareness nationwide;
 6. supporting government agencies or institutions in cyber security protection operations with special sensitivity;
@@ -43,7 +43,7 @@ The donations specified in subparagraph 2 of the preceding paragraph shall be de
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[The Institute shall prescribe its bylaws along with rules and regulations governing the management of personnel, accounting system, internal control, protection of national security, auditing and others related matters, which shall be adopted by its board of directors and filed to the supervisory authority for future reference.
+    <條文內容><![CDATA[The Institute shall prescribe its bylaws along with rules and regulations governing the management of personnel, accounting system, internal control, auditing and others related matters, which shall be adopted by its board of directors and filed to the supervisory authority for future reference.
 The Institute may, without contravening any related laws or regulations, prescribe rules and regulations concerning its execution of public affairs, which shall be adopted by its board of directors and filed to the supervisory authority for future reference.]]></條文內容>
   </條文>
   <條文>
@@ -53,7 +53,7 @@ The Institute may, without contravening any related laws or regulations, prescri
   <編章節>   Chapter 2 Organization</編章節>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[The Institute shall have a board of directors consisting of not less than seven nor more than eleven directors. The directors shall be nominated by the supervisory authority and appointed by the premier of the Executive Yuan. In the event of the removal, the same procedure shall be folowed. The directors shall be nominated among the following people:
+    <條文內容><![CDATA[The Institute shall have a board of directors consisting of not less than seven nor more than eleven directors. The directors shall be nominated by the supervisory authority and appointed by the premier of the Executive Yuan. In the event of the removal, the same procedure shall be followed. The directors shall be nominated among the following people:
 1. representatives of related government agencies; among them, the representatives nominated by the National Security Council and Ministry of National Defense, if any, shall be ex-officio directors; and
 2. scholars and experts in the field of cyber security research, or disinterested citizen members who have made great contributions to cyber security.
 The number of directors nominated from people specified in subparagraph 1 of paragraph 1 shall not be less than half of the total number of directors.
@@ -77,8 +77,8 @@ The directors or supervisors acting on behalf of government agencies shall be re
     <條號>Article 10</條號>
     <條文內容><![CDATA[The Institute shall have one chairperson of the board of directors, nominated by the supervisory authority among the directors, and appointed by the premier of the Executive Yuan. In the event of the removal, the same procedure shall be followed.
 The chairperson shall be appointed pursuant to the regulations prescribed by the supervisory authority.
-The chairperson is in charge of all affairs of the Institute internally, and represents the Institute externally as well. If the chairperson cannot exercise the authority for any reason whatsoever, the director designated by the chairman shall act on behalf of the chairman, but if the designation cannot be made, the person being elected by the directors among themselves shall act on behalf of the chairperson.
-The chairperson may not exceed the age of sixty-five at the first term of office. If the chairperson reaches the age of seventy before the expiration of the term of office, the chairman shall be replaced immediately. However, if there are special considerations that have been approved by the Executive Yuan, the aforementioned limitations shall not apply.]]></條文內容>
+The chairperson is in charge of all affairs of the Institute internally, and represents the Institute externally as well. If the chairperson cannot exercise the authority for any reason whatsoever, the director designated by the chairperson shall act on behalf of the chairperson, but if the designation cannot be made, the person being elected by the directors among themselves shall act on behalf of the chairperson.
+The chairperson may not exceed the age of sixty-five at the first term of office. If the chairperson reaches the age of seventy before the expiration of the term of office, the chairperson shall be replaced immediately. However, if there are special considerations that have been approved by the Executive Yuan, the aforementioned limitations shall not apply.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -122,7 +122,7 @@ Where the persons specified in paragraph 1 are in contravention of the Act on Re
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[The chairperson of the Institute may be a full time or part time position. Compensation for the full time chairperson shall be approved by the supervisory authority. There shall be no compensation for the part time chairman.
+    <條文內容><![CDATA[The chairperson of the Institute may be a full time or part time position. Compensation for the full time chairperson shall be approved by the supervisory authority. There shall be no compensation for the part time chairperson.
 The directors, managing supervisor, and supervisors of the Institute shall all be uncompensated positions.]]></條文內容>
   </條文>
   <條文>
@@ -148,15 +148,15 @@ Regulations concerning the appointment, removal, and replacement of the director
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[There shall be one president of the Institute, who shall have experience related to cyber security or management, to carry out the Institute’s operation and management.  The president shall be nominated by the chairman and hired upon approval by the board of directors. The same procedure shall be followed for the president’s removal. The president shall carry out the Institute’s operation and supervise all employees in accordance with the rules and regulations of the Institute and resolutions of the board of directors, and under the authority of the chairman.
+    <條文內容><![CDATA[There shall be one president of the Institute, who shall have experience related to cyber security or management, to carry out the Institute’s operation and management. The president shall be nominated by the chairperson and hired upon approval by the board of directors. The same procedure shall be followed for the president’s removal. The president shall carry out the Institute’s operation and supervise all employees in accordance with the rules and regulations of the Institute and resolutions of the board of directors, and under the authority of the chairperson.
 The president may not exceed the age of sixty-five at the first term of office. If the president reaches the age of seventy before the expiration of the term of office, the president shall be replaced immediately. However, if there are special considerations that have been approved by the Executive Yuan, the aforementioned limitations shall not apply.
-Stipulations concerning directors and chairman of the board of directors, namely Article 14, paragraphs 1 to 4 of Article 18, paragraphs 2 and 3 of Article 20, and subparagraph 6 of Article 25, shall also apply mutatis mutandis, to the president of the Institute.]]></條文內容>
+Stipulations concerning directors and chairperson of the board of directors, namely Article 14, paragraphs 1 to 4 of Article 18, paragraphs 2 and 3 of Article 20, and subparagraph 6 of Article 25, shall also apply mutatis mutandis, to the president of the Institute.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
     <條文內容><![CDATA[Personnel shall be hired to work at the Institute pursuant to its rules and regulations concerning personnel management of the Institute. They shall not be considered as public servants. Their rights and duties shall be stipulated in their contracts.
 Persons having a spousal or other relationship within three degrees of consanguinity or affinity with directors or supervisors shall not serve in positions concerning general affairs, accounting, or personnel at the Institute.
-The chairpeerson shall not appoint his or her spouse or a person within three degrees of consanguinity or affinity to work at the Institute.]]></條文內容>
+The chairperson shall not appoint his or her spouse or a person within three degrees of consanguinity or affinity to work at the Institute.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
@@ -201,7 +201,7 @@ The criteria for the performance evaluation are as follows:
 1. assessing the annual performance outcomes of the Institute;
 2. measuring the operational performance and achievement rate of the Institute;
 3. assessing the achievement rate of the annual self-financing percentage of the Institute;
-4. making recommendations on the appropriation of funds  to the Institute; and
+4. making recommendations on the appropriation of funds to the Institute; and
 5. other related matters.]]></條文內容>
   </條文>
   <編章節>   Chapter 4 Accounting and Finances</編章節>
@@ -217,12 +217,12 @@ The Institute’s financial statements shall be audited and attested by a certif
   </條文>
   <條文>
     <條號>Article 29</條號>
-    <條文內容><![CDATA[Where the Institute’s operations require the use of public property, such property may be purchased by the Institute, or donated, leased, or provided for use free of charge by government agencies. In the case of the donation, Articles 25 and 26 of the Budget Act, Article 25 of the Land Act, and Articles 28 and 60 of the National Property Act shall not be applicable.
+    <條文內容><![CDATA[Where the Institute’s operations require the use of public property, such property may be purchased by the Institute, or donated, leased, or provided for use free of charge by government agencies. In the case of the donation, Article 25 of the Land Act, Article 28 and 60 of the National Property Act, and other relevant stipulations governing the local government’s management of public property shall not be applicable.
 Where the Institute purchases the public land pursuant to the preceding paragraph, the purchasing price shall be determined in accordance with the announced current land value. The price of constructional improvements shall be determined in accordance with its current value as assessed for that year by the taxation authority. Where no such assessment of current value available, the value shall be determined in accordance with the appraisal result made by the public property management authority.
 Assets purchased by the Institute for purposes specified in connection with the budget allocated by the government shall be public property.
-Except for public property leased or provided for use free of charge as set forth in paragraph 1, all property acquired by the Institute shall be the Institute’s own property.
+Except for public property leased or provided for use free of charge as set forth in paragraph 1 and the public property prescribed in the preceding paragraph, all property acquired by the Institute shall be the Institute’s own property.
 For property provided for use free of charge as specified in paragraph 1 and public property as set forth in paragraph 3, the Institute shall be registered as the manager of the property. All profits generated from such property shall accrue to the Institute as income without being subject to the restrictions specified in paragraph 1 of Article 7 of the National Property Act and other relevant stipulations governing the local government’s management of public property. Regulations governing matters related to the management, use, and profits of such property shall be prescribed by the supervisory authority.
-Where public property is longer needed or useful for the intended purpose, the Institute shall transfer its managerial responsibility of the property to the public property management authorities.
+Where public property is no longer needed or useful for the intended purpose, the Institute shall transfer its managerial responsibility of the property to the public property management authorities.
 Where the Institute decides that public real property acquired by donation is no longer needed, the Institute shall return the property to the donating agency and shall not dispose of such property at its own discretion.]]></條文內容>
   </條文>
   <條文>
