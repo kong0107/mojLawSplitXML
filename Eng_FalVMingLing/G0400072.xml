@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Securities Firms</英文法規名稱>
 <中文法規名稱>證券商管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400072</法規網址>
-<最新英文異動日期>20220901</最新英文異動日期>
+<最新英文異動日期>20240306</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -47,7 +47,8 @@
 58. Articles 19 and 31-3 amended and issued per 3 February 2020 Order No. Financial-Supervisory-Securities-Firms-1090360209 of the Financial Supervisory Commission
 59. Articles 21 and 32-1 amended and Articles 14-6, 35-2, and 68-1 added per 29 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364783 of the Financial Supervisory Commission
 60. Articles 9, 32-1, and 45-1 amended and issued and Article 38-1 added per 6 May 2021 Order No. Financial-Supervisory-Securities-Firms-1100361767 of the Financial Supervisory Commission
-61. Articles 21, 38, and 69 amended and issued per 1 September 2022 Order No. Financial-Supervisory-Securities-Firms-1110383646 of the Financial Supervisory Commission, for enforcement from the date of issuance, with the exception of Article 21, which shall be enforced from fiscal year 2022]]></沿革內容>
+61. Articles 21, 38, and 69 amended and issued per 1 September 2022 Order No. Financial-Supervisory-Securities-Firms-1110383646 of the Financial Supervisory Commission, for enforcement from the date of issuance, with the exception of Article 21, which shall be enforced from fiscal year 2022
+62. Article 37 amended and issued per 6 March 2024 Order No. Financial-Supervisory-Securities-Firms-1130380965 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -153,7 +154,7 @@ The special reserve referred to in the preceding three paragraphs shall not be u
   </條文>
   <條文>
     <條號>Article 14-1</條號>
-    <條文內容><![CDATA[Where any of the following circumstances applies to a securities firm, the FSC may reject its filing to carry out a capital increase for cash or issue corporate bonds; provided, this restriction shall not apply where the reason is a merger of securities firms, or where concrete improvement has been made, and the improvement has been recognized by the FSC:
+    <條文內容><![CDATA[Where any of the following circumstances applies to a securities firm, the FSC may reject its filing to carry out a capital increase for cash or issue corporate bonds; provided, this restriction shall not apply where the reason is a merger of the securities firm, or where concrete improvement has been made, and the improvement has been recognized by the FSC:
 1. It has been sanctioned by the FSC under Article 66, subparagraph 1 of the Act within the past 3 months.
 2. It has been sanctioned by the FSC under Article 66, subparagraph 2 of the Act within the past half year.
 3. It has been sanctioned by the FSC under Article 66, subparagraph 3 of the Act within the past 1 year.
@@ -163,11 +164,11 @@ Calculation of the periods in the subparagraphs of the preceding paragraph shall
   </條文>
   <條文>
     <條號>Article 14-2</條號>
-    <條文內容><![CDATA[(Deleted).]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14-3</條號>
-    <條文內容><![CDATA[Where a securities firm files for offering and issuance of securities pursuant to Article 6 of the Criteria Governing the Offering and Issuance of Securities by Securities Issuers, it may refrain from engaging a lead securities underwriter to conduct assessment if it meets the following financial and operational requirements:
+    <條文內容><![CDATA[Where a securities firm files for offering and issuance of securities pursuant to Article 6 of the Regulations Governing the Offering and Issuance of Securities by Securities Issuers, it may refrain from engaging a lead securities underwriter to conduct assessment if it meets the following financial and operational requirements:
 1. None of the circumstances in Article 14-1, paragraph 1 exist.
 2. Its financial condition meets the provisions of Articles 13, 14, 16, 18, 18-1 and 19.
 3. Its regulatory capital adequacy ratio 6 months prior to the date of reporting is 200 percent or greater.]]></條文內容>
@@ -178,7 +179,7 @@ Calculation of the periods in the subparagraphs of the preceding paragraph shall
   </條文>
   <條文>
     <條號>Article 14-5</條號>
-    <條文內容><![CDATA[A securities firm offering and issuing securities shall comply with the provisions of the Criteria Governing the Offering and Issuance of Securities by Securities Issuers or the Criteria Governing the Offering and Issuance of Overseas Securities by Issuers in addition to the provisions of these Regulations.
+    <條文內容><![CDATA[A securities firm offering and issuing securities shall comply with the provisions of the Regulations Governing the Offering and Issuance of Securities by Securities Issuers or the Regulations Governing the Offering and Issuance of Overseas Securities by Issuers in addition to the provisions of these Regulations.
 The FSC shall separately prescribe the required application forms and rules applicable to issuance of securities by securities firms that have not publicly issued stock.]]></條文內容>
   </條文>
   <條文>
@@ -400,7 +401,7 @@ B. The instruments traded or transacted have an open market price, or the moneta
 3. Unless the securities firm is concurrently operated by a financial institution and subject to other relevant acts or regulations, it shall comply with the following provisions:
 A. The total balance of its trades and transactions with any single overseas affiliated enterprise may not exceed 10 percent of the securities firm's net worth.
 B. The total balance of its trades and transactions with all overseas affiliated enterprises may not exceed 20 percent of the securities firm's net worth.
-"Affiliated enterprise" in the preceding paragraph shall be as defined in the Affiliated Enterprises chapter of the Company Act.]]></條文內容>
+Affiliated enterprise in the preceding paragraph shall be as defined in the Affiliated Enterprises Chapter of the Company Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 31-4</條號>
@@ -461,7 +462,7 @@ When a securities broker recommends that a customer trade in a securities, if su
     <條號>Article 36-1</條號>
     <條文內容><![CDATA[Where a department of a securities firm that concurrently operates securities investment consulting services or futures advisory services (hereinafter, collectively, "consulting services department") produces research reports, or a department of a securities firm that concurrently operates a securities investment consulting enterprise handling discretionary investment services ("discretionary investment department") produces analysis reports or investment strategies for customers, personnel other than of those departments shall not participate in composing or reviewing the reports.
 Within two hours from the time market trading hours begin after a research report provided by a consulting services department of a securities firm is publicly disclosed, other departments and personnel apart from that department may not engage in any trading of any security recommended in the research report, unless otherwise provided by the FSC.
-"Market" in the preceding paragraph refers to the TWSE, the TPEx, and the TAIFEX .
+Market in the preceding paragraph refers to the TWSE, the TPEx, and the TAIFEX.
 The compensation or bonuses paid to personnel of a consulting services department or discretionary investment department of a securities firm shall not be directly linked to the performance of any other department.]]></條文內容>
   </條文>
   <條文>
@@ -484,7 +485,7 @@ When an underwriting department of a securities firm obtains securities through 
 10. Accept securities transactions of a customer who has not signed a brokerage contract;
 11. Accept the company's director, supervisor, or employee as an agent for others for the account opening, subscription, trade, or settlement of securities;
 12. Accept from any person other than the customer himself/herself the customer's instructions for account opening; however, this is not applicable for those in accordance with other regulations set by the FSC;
-13. Accept from any person other than the customer himself/herself or an agent without a power of attorney issued by the customer's instructions for subscription, trade, or settlement.;
+13. Accept from any person other than the customer himself/herself, or from an agent without a power of attorney issued by the customer, instructions for subscription, trade, or settlement; however, this restriction does not apply when the securities firm, pursuant to a three-party agreement signed jointly between it and the customer and the securities investment consulting enterprise, accepts automatic rebalancing trades automatically executed for the customer through the computer system provided by the securities investment consulting enterprise;
 14. Knowingly accept a trading order from a customer who intends to use an issuer's non-public information which may materially affect the price of its stocks or who intends to manipulate the prices of the market;
 15. Use the name or account of a customer to subscribe to and/or trade securities;
 16. Disclose, not in response to inquiries given in accordance with laws and regulations, the contents of orders placed by a customer or other secrets obtained in the course of operation of business;
@@ -666,7 +667,7 @@ G. others, such as: management of personnel operations, internal control auditin
 7. Occurrence or foreseeable occurrence of any instance of material loss.
 8. Material violation of law or regulation or the voidance or revocation of the business permit by the overseas competent authority.
 9. Any other material matter.
-For any circumstance under subparagraphs 1 to 6 of the preceding paragraph, unless otherwise provided by the FSC, the securities firm shall report to the FSC in advance; for any circumstance under subparagraphs 7 to 9 of the preceding paragraph, the securities firm shall report to the FSC within 3 business days from the day on which it becomes aware of the circumstance or on which the circumstance occurs.]]></條文內容>
+For any circumstance under subparagraphs 1 to 6 of the preceding paragraph, unless otherwise provided by the FSC, the securities firm shall report in advance; for any circumstance under subparagraphs 7 to 9 of the preceding paragraph, the securities firm shall report within 3 business days from the day on which it becomes aware of the circumstance or on which the circumstance occurs.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 53-1</條號>
@@ -822,7 +823,7 @@ In addition to disclosing capital adequacy information of the securities firm pu
   </條文>
   <條文>
     <條號>Article 69</條號>
-    <條文內容><![CDATA[These Regulations shall enter into force from the date of issuance, with the exception of Articles 16 and 47 as amended and issued on 11 October 2012, which shall enter into force from the fiscal year of 2013, and of Articles 37 and 37-1 as amended and issued on 30 December 2013, which shall enter into force from 6 January 2014, and of Article 37-1 as amended and issued on 27 June 2014, which shall enter into force from 30 June 2014, and of Article 21 as amended and issued on 1 September 2022, which shall enter into force from fiscal year 2022.to force from fiscal year 2022.]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall enter into force from the date of issuance, with the exception of Articles 16 and 47 as amended and issued on 11 October 2012, which shall enter into force from the fiscal year of 2013, and of Articles 37 and 37-1 as amended and issued on 30 December 2013, which shall enter into force from 6 January 2014, and of Article 37-1 as amended and issued on 27 June 2014, which shall enter into force from 30 June 2014, and of Article 21 as amended and issued on 1 September 2022, which shall enter into force from fiscal year 2022.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
