@@ -1,59 +1,91 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations for Reporting Severe Adverse Reactions of Medicaments</英文法規名稱>
+<英文法規名稱>Regulations for Reporting Serious Adverse Reactions of Medicaments</英文法規名稱>
 <中文法規名稱>藥品嚴重不良反應通報辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030049</法規網址>
-<最新英文異動日期>20040831</最新英文異動日期>
+<最新英文異動日期>20240328</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1.Promulgated on August 31, 2004]]></沿革內容>
+<沿革內容><![CDATA[1.Promulgated on August 31, 2004
+2. Full text including 13 articles amended by the Ministry of Health and Welfare Order Wei-Shou-Shi-Zi No.1131400449, on March 28th, 2024. The Regulations shall be effective on January 1, 2025.
+
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are promulgated pursuant to Article 45-1 of the Pharmaceutical Affairs Act (hereafter the Act).]]></條文內容>
+    <條文內容><![CDATA[These Regulations are promulgated pursuant to Article 45-1 of the Pharmaceutical Affairs Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[The term "medicaments" as used in these Regulations shall refer to medicaments specified in Article 4 of the Act.]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 3</條號>
-    <條文內容><![CDATA[In the event that a medicament causes a severe adverse reaction, the medical care institution, pharmacy, and pharmaceutical firm shall fill out a notification along with relevant information and report to the central competent health authority or its commissioned institution in accordance with these Regulations.]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 4</條號>
-    <條文內容><![CDATA[The term "severe adverse reaction of medicament" as used in these Regulations shall refer to the use of a medicament resulting in occurrence of one of the conditions listed in the following subparagraphs:
+    <條文內容><![CDATA[The term “serious adverse reaction to drugs,” as used in these Regulations, shall refer to the use of a drug resulting in the occurrence of one of the conditions listed in the following subparagraphs:
 1. Death;
 2. Life-threatening condition;
 3. Permanent disability;
 4. Congenital anomaly/birth defect of fetus/infant;
 5. Inpatient hospitalization or prolongation of existing hospitalization;
-6. Others that may result in permanent injuries requiring intervention.]]></條文內容>
+6. Other complications that may result in permanent injuries.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 3</條號>
+    <條文內容><![CDATA[Medical care institutions, pharmacies, and pharmaceutical firms that have obtained a drug manufacturing or importing approval (hereinafter referred to as “pharmaceutical firms”) shall report to the central competent health authority's designated online system by filling out a report form upon becoming aware of a serious adverse reaction to a drug as described in the previous article.
+Reporting under the previous paragraph may be made orally, by telephone, fax, or email as necessary. However, online reporting must be completed within the time limits specified in Articles 6 or 7.
+If the central competent health authority deems the report content submitted under the preceding 2 paragraphs unclear or incomplete, it may order the reporter to make corrections within a specified time limit.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 4</條號>
+    <條文內容><![CDATA[The reporting form referred to in the previous article may be filled out according to the electronic transmission standardization format of the International Council for Harmonisation (ICH).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[Within 7 days from the day of becoming aware of a severe adverse reaction of medicament in Subparagraphs 1 and 2 of the preceding Article, the medical care institution and pharmacy shall undertake reporting in accordance with Article 3 and notify with a copy to the pharmaceutical firm holding the medicament permit license.
-In the event that information in the preceding Paragraph is not sufficiently provided, it shall be fully provided within 15 days.
-In the event that reporting mentioned in the first Paragraph requires the pharmaceutical firm holding the medicament permit license to provide product relevant information, the pharmaceutical firm shall not refuse such a request.]]></條文內容>
+    <條文內容><![CDATA[Content of Reports under Article 3
+1. Reporter's name, contact information, and the name and address of their service unit.
+2. Occurrence and awareness dates of the serious adverse drug reaction.
+3. Source of information about the serious adverse drug reaction.
+4. Patient identification code, gender, and age or date of birth.
+5. Patient medication information.
+6. Category, symptoms, and related description of the serious adverse drug reaction.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[Within 15 days from the day of becoming aware of a severe adverse reaction of medicament, the pharmaceutical firm holding the medicament permit license shall undertake reporting in accordance with Article 3.]]></條文內容>
+    <條文內容><![CDATA[Medical institutions and pharmacies shall submit reports under Article 3, Paragraph 1 within the following time limits:
+1. Subparagraphs 1 and 2 of Article 2: Within 7 days since the day following awareness.
+2. Subparagraphs 3 to 6 of Article 2: Within 30 days since the day following awareness.
+Medical care institutions and pharmacies may request pharmaceutical firms to provide product-related information for reporting under the preceding paragraph. The pharmaceutical firms shall not evade, obstruct, or refuse to provide such information.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[When undertaking reporting in accordance with these Regulations, medical care institutions, pharmacies, and pharmaceutical firms may do so through postal mail, facsimile, or the Internet.
-In the case of emergencies, reporting of the preceding Paragraph may first be done orally, and written reporting shall be completed within the time limit.]]></條文內容>
+    <條文內容><![CDATA[Pharmaceutical firms shall complete reports under Paragraph 1 of Article 3 within 15 days from the reporting matter's awareness date.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[The competent central health authority and its commissioned institution may, when necessary, request that medical care institutions, pharmacies, and pharmaceutical firms provide medical records, medication administration records, or product information for patients with severe adverse reactions of medicaments. Medical care institutions, pharmacies, and pharmaceutical firms shall not refuse such requests.]]></條文內容>
+    <條文內容><![CDATA[The central competent health authority may forward relevant reporting information to pharmaceutical firms upon receiving a serious adverse drug reaction report from medical care institutions and pharmacies.
+Pharmaceutical firms that receive such forwarding from the central competent health authority and have new, updated, or supplementary reporting information shall comply with the provisions of Paragraphs 1 and 2 of Article 3, and the preceding article regarding reporting.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[These Regulations take effect from the date of promulgation.]]></條文內容>
+    <條文內容><![CDATA[Upon becoming aware of a serious adverse drug reaction, pharmaceutical firms shall proactively investigate and assess the causal relationship associated with the reported information.
+If pharmaceutical firms discover a serious adverse drug reaction that occurs at an unexpected or higher-than-expected frequency or if it is necessary to add or change contraindications or usage restrictions based on the investigation and assessment results under the preceding paragraph, the matter shall be handled according to Article 6 of the Regulations for the Management of Drug Safety Surveillance.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 10</條號>
+    <條文內容><![CDATA[Medical care institutions, pharmacies, and pharmaceutical firms shall retain relevant documents and data related to serious adverse drug reactions for the following periods:
+1. Medical care institutions and pharmacies: At least 5 years.
+2. Pharmaceutical firms: Until 5 years after the drug manufacturing or importing approval expires.
+The central competent health authority may request medical care institutions, pharmacies, and pharmaceutical firms to provide the documents and data specified in the preceding paragraph. Medical care institutions, pharmacies, and pharmaceutical firms shall not evade, obstruct, or refuse to provide such information.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 11</條號>
+    <條文內容><![CDATA[Medical care institutions, pharmacies, and pharmaceutical firms shall comply with the Personal Data Protection Act and its related regulations when collecting, processing, or utilizing personal data according to the Regulations.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 12</條號>
+    <條文內容><![CDATA[The central competent health authority may delegate the receipt, request for correction, or provision of relevant documents and data specified in the Regulations to its subordinate agencies or entrust relevant agencies (institutions), juridical persons, or groups to handle such matters.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 13</條號>
+    <條文內容><![CDATA[These Regulations shall be implemented on January 1, 2025.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
