@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Implementation of Internal Control and Auditing System of Insurance Enterprises</英文法規名稱>
 <中文法規名稱>保險業內部控制及稽核制度實施辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390052</法規網址>
-<最新英文異動日期>20220927</最新英文異動日期>
+<最新英文異動日期>20240507</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -20,7 +20,7 @@
 11.Amended on 20 August 2020 per Order Ref. Jin-Kuan-Bao-Tsai 10904930471 of the Financial Supervisory Commission.
 12.Amended on September 1, 2021 per Order Ref. Jin-Kuan-Bao-Tsai 11004933251 of the Financial Supervisory Commission.
 13.Amended on September 27, 2022 per Order Ref. Jin-Kuan-Bao-Tsai 11104805211 of the Financial Supervisory Commission.
-]]></沿革內容>
+14. Amended on May 7, 2024 per Order Ref. Jin-Kuan-Bao-Tsai 11304913991 of the Financial Supervisory Commission.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -63,20 +63,21 @@ The board of directors of the insurance enterprise shall be aware of the risks i
   <條文>
     <條號>Article 5</條號>
     <條文內容><![CDATA[An insurance enterprise shall, based on its business nature and scale, establish operating procedures for at least the following control operations according to the principles of internal check, and review and revise such procedures in a timely manner:
-1. Insurance product development and management operation: Including risk assessment of insurance products, evaluation of premium rate adequacy, assessment of reserve adequacy and the product management operation.
-2. Product sales operation: Including promotional materials and information to be disclosed in insurance policy, business solicitation, underwriting, contract conversion, reinstatement, conservation, fees and charges.
-3. Claim operation: Including investigation of accident, review and payment operation.
-4. Fund utilization operation: Including holistic investment policies, acquisition, custody and disposal of various investment assets, and rules for related party transactions.
-5. Solvency assessment operation: Including assessment of provisions for various kinds of reserves, evaluation of asset quality, the match of assets and liabilities, resolution of overdue loans and non-accrual loans, management of investment and fund liquidity, assessment of financial conditions and capital adequacy, insurance enterprise risk management and assessment of the insurance enterprise’s self risks and solvency.
-6. Processing derivatives transactions operation: Including trading principles and guidelines, operating procedures, announcement and reporting procedures, accounting treatment, internal control and audit system.
-7. Reinsurance operation: Including methods of reinsurance, assessment of risks and risk tolerance, reinsurance retention ratio and selection of reinsurers and reinsurance brokers.
-8. Control operations of accounting, general affairs, resources, personnel management and other businesses.
-9. Management of financial examination reports.
-10. Management of financial consumers protection.
-11. Management of the application of International Financial Reporting Standards.
-12. Mechanism for handling major contingencies.
-13. Mechanism for anti-money laundering and combating the financing of terrorism (AML/CFT) and management of compliance with relevant laws and regulations, including the management mechanism for identifying, assessing, and monitoring AML/CFT risks.
-14. Other matters designated by the competent authority.
+1.Insurance product development and management operation: Including risk assessment of insurance products, evaluation of premium rate adequacy, assessment of reserve adequacy and the product management operation.
+2.Product sales operation: Including promotional materials and information to be disclosed in insurance policy, business solicitation, underwriting, contract conversion, reinstatement, conservation, fees and charges.
+3.Claim operation: Including investigation of accident, review and payment operation.
+4.Fund utilization operation: Including holistic investment policies, acquisition, custody and disposal of various investment assets, and rules for related party transactions.
+5.Solvency assessment operation: Including assessment of provisions for various kinds of reserves, evaluation of asset quality, the match of assets and liabilities, resolution of overdue loans and non-accrual loans, management of investment and fund liquidity, assessment of financial conditions and capital adequacy, insurance enterprise risk management and assessment of the insurance enterprise’s self risks and solvency.
+6.Processing derivatives transactions operation: Including trading principles and guidelines, operating procedures, announcement and reporting procedures, accounting treatment, internal control and audit system.
+7.Reinsurance operation: Including methods of reinsurance, assessment of risks and risk tolerance, reinsurance retention ratio and selection of reinsurers and reinsurance brokers.
+8.Control operations of accounting, general affairs, resources, personnel management and other businesses.
+9.Management of financial examination reports.
+10.Management of financial consumers protection.
+11.Management of the application of International Financial Reporting Standards.
+12.Mechanism for handling major contingencies.
+13.Mechanism for anti-money laundering and combating the financing of terrorism (AML/CFT) and management of compliance with relevant laws and regulations, including the management mechanism for identifying, assessing, and monitoring AML/CFT risks.
+14.Management of sustainability information
+15.Other matters designated by the competent authority.
 Where an insurance enterprise is required to establish a remuneration committee according to law, the insurance enterprise shall design internal controls and operating procedures for the operation and management of the remuneration committee.
 Where an insurance enterprise has an audit committee established, its internal control system shall also include the management of the audit committee meeting procedures.
 For the stipulation, revision or abolition of all operational and management regulations mentioned in the preceding three paragraphs, it requires the participation of regulatory compliance, internal audit, and risk management agencies.]]></條文內容>
@@ -218,7 +219,7 @@ The provisions in this article do not apply to branch companies of foreign insur
   <條文>
     <條號>Article 19</條號>
     <條文內容><![CDATA[When an insurance enterprise carries out routine audit, its internal audit report shall disclose the following information based on the business nature of the audited unit:
-1. Scope of audit, summary commentary, financial status, capital adequacy, business performance, asset quality, management of shares, management of the board of directors and audit committee meeting procedures, regulatory compliance, related-party transactions, control and internal management of various businesses, management of customer data confidentiality, information management, employee confidentiality education, and implementation of self-inspection, and an evaluation of the above matters.
+1. Scope of audit, summary commentary, financial status, capital adequacy, business performance, asset quality, management of shares, management of the board of directors and audit committee meeting procedures, regulatory compliance, related-party transactions, control and internal management of various businesses, management of customer data confidentiality, information management, employee confidentiality education, management of sustainability information, and implementation of self-inspection, and an evaluation of the above matters.
 2. Examination opinions on material violations, deficiencies or frauds occurred at various units, and suggestions for disciplinary actions against negligent employees.
 3. The examination opinions or deficiencies identified by the competent authority, accountants, internal audit unit (including the internal audit unit of the financial holding company), and self-inspection personnel, and the improvement status of items that are listed as needing further improvement in the statement on internal control.
 The internal audit reports, working papers and relevant information under the preceding paragraph shall be retained for at least 5 years.
@@ -484,7 +485,8 @@ Persons having held the positions as regulatory compliance personnel or chief wi
     <條文內容><![CDATA[These Regulations shall be in force on the date of promulgation.
 Except for the part on management of financial consumers’ protection in these Regulations which has been in force since December 30, 2011, the provisions of Article 5 amended and promulgated on February 4, 2012 shall enter into force three months after the date of promulgation.
 The provisions of Article 32-2 of these Regulations amended and promulgated on May 29, 2018 shall take effect six months after promulgation.
-The provisions of these Regulations amended and promulgated on August 20, 2020 shall have been in force since December 31, 2020.]]></條文內容>
+The provisions of these Regulations amended and promulgated on August 20, 2020 shall have been in force since December 31, 2020.
+The provisions of these Regulations amended and promulgated on May 7, 2024 shall have been in force since January 1, 2025.]]></條文內容>
   </條文>
 </法規內容>
 </法規>

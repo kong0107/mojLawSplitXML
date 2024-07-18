@@ -1,17 +1,17 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations for Allocating and Governing Telecommunications Numbers</英文法規名稱>
+<英文法規名稱>Regulations for Applying and Allocating Telecommunications Numbers</英文法規名稱>
 <中文法規名稱>電信號碼申請及核配辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060119</法規網址>
-<最新英文異動日期>20230801</最新英文異動日期>
+<最新英文異動日期>20240517</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on July 1, 2020
-2.Article 5, Article 26 and Article 30 were amended and promulgated by Ministry of Digital Affairs Order No.11260009361 and National Communications Commission Order 11200217490 on August 1, 2023.]]></沿革內容>
+2.Article 5, Article 26 and Article 30 were amended and promulgated by Ministry of Digital Affairs Order No.11260009361 and National Communications Commission Order 11200217490 on August 1, 2023.
+3.Amended on May 17, 2024]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter One General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[These Regulations are enacted in accordance with the provisions of Paragraph 2, Article 69 of the Telecommunications Management Act（hereinafter referred to as the Act）.]]></條文內容>
@@ -61,17 +61,24 @@
 2. The telecommunications enterprise’s business suspended or terminated.
 3. The documents that should be submitted are incomplete or the content that should be stated is incomplete, and the corrections are not made or still incomplete after being notified by the competent authority to make correction within a time limit.]]></條文內容>
   </條文>
-  <編章節>   Chapter Two Application for Allocation of Telecommunications Numbers</編章節>
-  <編章節>      Section One Application for allocation of coding</編章節>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[When a telecommunications enterprise applies to the competent authority for the allocation of signaling point codes, it should submit the following documents:：
-1. Telecommunications Number Application Form
-2. Signaling point code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its signal method, network architecture and capacity planning data）
-3. Other materials designated by the competent authority]]></條文內容>
+    <條文內容><![CDATA[The telecommunications enterprise and those which have been allocated with special telecommunications numbers should cooperate with the competent authority to adjust the telecommunications numbers it has been allocated.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
+    <條文內容><![CDATA[The application form prescribed in these Regulations should be published by the competent authority on its World Wide Web.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 9</條號>
+    <條文內容><![CDATA[When a telecommunications enterprise applies to the competent authority for the allocation of signaling point codes, it should submit the following documents:：
+1. Telecommunications Number Application Form
+2. Signaling point code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its signal method, network architecture and capacity planning data）
+3. Relevant supporting documents of the telecommunications enterprise registration
+4. Other materials designated by the competent authority]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 10</條號>
     <條文內容><![CDATA[The competent authority should consider the following matters when reviewing the application for signaling point code allocation prescribed in the previous article：
 1. Whether the type of the applied telecommunication numbers is necessary to provide services
 2. Whether it specifies the expected location of the network’s point of interface interconnected with other public telecommunications networks
@@ -80,24 +87,24 @@
 5. Whether it specifies the brand, model, quantity, capacity and function of the signaling point code switch]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 9</條號>
+    <條號>Article 11</條號>
     <條文內容><![CDATA[Each of the telecommunication enterprise’s application for the allocation of the international signaling point code of the Signaling System No. 7 network is limited to one point code, and that of the national signaling point code of the Signaling System No. 7 network is at least one point code.]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 10</條號>
+    <條號>Article 12</條號>
     <條文內容><![CDATA[Coding other than signaling point codes should be reported to the competent authority for reference prior to use.
 The number use plan should be submitted when reporting for reference.]]></條文內容>
   </條文>
-  <編章節>      Section Two Application for allocation of identification codes</編章節>
   <條文>
-    <條號>Article 11</條號>
+    <條號>Article 13</條號>
     <條文內容><![CDATA[When a telecommunications enterprise applies to the competent authority for the allocation of identification codes, it should submit the following documents：
 1. Telecommunications Number Application Form
 2. Identification code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its network architecture and capacity planning data）
-3. Other materials designated by the competent authority]]></條文內容>
+3. Relevant supporting documents of the telecommunications enterprise registration
+4. Other materials designated by the competent authority]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 12</條號>
+    <條號>Article 14</條號>
     <條文內容><![CDATA[The competent authority should consider the following matters when reviewing the application for identification code allocation prescribed in the previous article：
 1. Whether the type of the applied telecommunication numbers is necessary to provide services
 2. Whether it specifies the expected location of the network’s point of interface interconnected with other public telecommunications networks
@@ -105,12 +112,11 @@ The number use plan should be submitted when reporting for reference.]]></條文
 4. Whether it specifies the brand, model, quantity, capacity and function of the switch]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 13</條號>
+    <條號>Article 15</條號>
     <條文內容><![CDATA[Each of the telecommunication enterprise’s application for the allocation of the identification code is limited to one identification code.]]></條文內容>
   </條文>
-  <編章節>      Section Three Application for allocation of special telecommunications numbers</編章節>
   <條文>
-    <條號>Article 14</條號>
+    <條號>Article 16</條號>
     <條文內容><![CDATA[A government agency（organization）, public welfare association, foundation, independent administrative institution or public enterprise for the need of providing emergency rescue services, public affair counseling services, public rescue services or charity services, etc., may apply to the competent agency for the allocation of special telecommunications numbers, after the approval by the national competent authority for business objectives or the superior authority by reviewing their statutory duties, establishment purposes, public welfare needs, etc.
 The public utilities mentioned in the preceding paragraph refer to the following：
 1. Electricity enterprises
@@ -121,36 +127,36 @@ The applicants prescribed in Paragraph 1 should submit the following documents t
 2. A photocopy of the approval letter from the national competent authority for business objectives or the superior authority for each of the government agency（organization）, public welfare group, foundation, incorporated administrative agency or public utility, and a photocopy of the supporting document of the public welfare group, foundation, incorporated administrative agency or public utility
 3. Special telecommunications number service plan（including the network architecture, service delivery method, service scope and object, service content and charging method）
 4. The relevant documents that the telecommunications enterprise allocated with local line phone numbers and mobile phone numbers agrees to cooperate in the provision of special telecommunications numbers
-Those which have been allocated with special telecommunications numbers should not continue to use them when their qualifications are changed or their usage does not comply with the provision of Paragraph 1.]]></條文內容>
+Those which have been allocated with special telecommunications numbers should proactively return the special telecommunications numbers or have them recovered by the competent authority when their qualifications are changed or their usage does not comply with  the provision of Paragraph 1.]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 15</條號>
+    <條號>Article 17</條號>
     <條文內容><![CDATA[The competent authority should consider the following matters when reviewing the application for special telecommunications number allocation prescribed in the previous article：
 1. Whether it complies with the PSTN numbering plan
 2. Whether it specifies the structure of the subscriber's access to the network and the means and flow of incoming call lines.
 3. Whether it specifies the service object and service delivery method, whether the service scope includes the whole country, and whether it specifies the nature of the service and the fee standards of the service objects of each cooperative telecommunication enterprises]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 16</條號>
+    <條號>Article 18</條號>
     <條文內容><![CDATA[Each of the telecommunication enterprise’s application for the allocation of the special number is limited to one special number.]]></條文內容>
   </條文>
-  <編章節>      Section Four Application for allocation of subscriber numbers 4</編章節>
   <條文>
-    <條號>Article 17</條號>
+    <條號>Article 19</條號>
     <條文內容><![CDATA[Only the telecommunications enterprise allocated with signaling point codes may apply to the competent authority for the allocation of subscriber numbers.]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 18</條號>
+    <條號>Article 20</條號>
     <條文內容><![CDATA[When a telecommunications enterprise applies to the competent authority for the allocation of subscriber numbers, it shall submit the following documents：
 1. Telecommunications Number Application Form
 2. Subscriber number usage plan（Subscriber growth forecast data, network structure and capacity planning data）
 3. Number of subscribers（exempt for the first-time applicant）
 4. Sampling inspection report from an institution with public credibility（exempt for the first-time applicant）
-5. Other materials designated by the competent authority
+5. Relevant supporting documents of the telecommunications enterprise registration
+6. Other materials designated by the competent authority
 The sampling inspection report from an institution with public credibility prescribed in Subparagraph 4 of the preceding paragraph refers to the sampling verification report of the number of subscribers issued by two persons with the expertise of science, engineering, commerce or management who are registered in the talent database of the Public Construction Commission, Executive Yuan.]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 19</條號>
+    <條號>Article 21</條號>
     <條文內容><![CDATA[The competent authority should consider the following matters when reviewing the application for subscriber number allocation prescribed in the previous article：
 1. Whether the type of the applied telecommunication numbers is necessary to provide services
 2. Whether the number of subscriber numbers reaches the minimum usage standard（Annex 2）
@@ -161,15 +167,16 @@ The sampling inspection report from an institution with public credibility presc
 7. Whether it determines the effective subscribers based on the subscriber's subscription information and call information, the latest bill, etc., and provides a sampling report from an institution with public credibility, with a 95% statistical confidence level or higher, an error of plus or minus 2%, and the expected value of the effective subscriber ratio being greater than or equal to 0.98]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 20</條號>
+    <條號>Article 22</條號>
     <條文內容><![CDATA[The calculation method for the number of allocation for the application of subscriber numbers, the utilization rate of re-application and the application’s quantity limit are as follows：
-1. Local line phone number：It takes ten thousand numbers as a unit. For the first-time application, ten units are the cap for each area. The utilization rate should be more than 50% before it can be applied again, with five units as the cap each time.
-2. Mobile phone number：It takes a hundred thousand numbers as a unit. For the first-time application, ten units are the cap. The utilization rate should be more than 70% before it can be applied again, with five units as the cap each time.
+1. Local line phone number：It takes ten thousand numbers as a unit. For the first- time application, ten units are the cap for each area. The utilization rate should be more than 50% before it can be applied again, with five units as the cap each time.
+2. Mobile phone number：It takes a hundred thousand numbers as a unit. For the
+first-time application, ten units are the cap. The utilization rate should be more than 70% before it can be applied again, with five units as the cap each time.
 3. Satellite communication number：It takes ten thousand numbers as a unit. Ten units are the cap for each application. The utilization rate should be more than 70% before it can be applied again.
 4. Internet phone number：It takes ten thousand numbers as a unit. For the first-time application, twenty units are the cap. The utilization rate should be more than 70% before it can be applied again, with ten units as the cap each time.
 5. Smart virtual number：
 （1）010 prefix：It takes a hundred thousand numbers as a unit. The first-time application is limited to one unit. The utilization rate should be more than 80% before it can be applied again, with five units as the cap each time.
-（2）020 prefix：It takes ten thousand numbers as a unit. For the first-time application, five units are the cap. The utilization rate should be more than 80% before it can be applied again, with two units as the cap each time.
+（2）020 prefix： It takes ten thousand numbers as a unit. For the first-time application, five units are the cap. The utilization rate should be more than 80% before it can be applied again, with two units as the cap each time.
 （3）030 prefix：It takes ten thousand numbers as a unit. Each application is limited to one unit. The utilization rate should be more than 80% before it can be applied again.
 （4）050 prefix：It takes ten thousand numbers as a unit. The first-time application is limited to five units. The utilization rate should be more than 80% before it can be applied again, with two units as the cap each time.
 （5）080 prefix：It takes ten thousand numbers as a unit. The first-time application is limited to three units. The utilization rate should be more than 80% before it can be applied again, with one unit as the cap each time.
@@ -177,64 +184,19 @@ The sampling inspection report from an institution with public credibility presc
 6. IoT number：It takes a hundred thousand numbers as a unit. For the first-time application, fifty units are the cap. The utilization rate should be more than 70% before it can be applied again, with twenty-five units as the cap each time.]]></條文內容>
   </條文>
   <條文>
-    <條號>Article 21</條號>
-    <條文內容><![CDATA[If the telecommunications enterprise does not reach the minimum utilization rate of the subscriber numbers set by the competent authority, the competent authority should recover part or all of the subscriber numbers it has been allocated, unless the first-time allocated subscriber numbers have been allocated for less than three years or the re-allocated subscriber numbers have been allocated for less than one year.
-The calculation method of the minimum usage rate and the number of recovery of the subscriber numbers prescribed in the preceding paragraph are shown in Annex 2.
-The usage rate of subscriber numbers prescribed in Paragraph 1 is calculated based on the use situation on December 31 of the previous year.]]></條文內容>
-  </條文>
-  <編章節>   Chapter Three Telecommunications number usage management</編章節>
-  <條文>
-    <條號>Article 22</條號>
-    <條文內容><![CDATA[The telecommunications enterprise should cooperate with the competent authority to adjust the telecommunications numbers it has been allocated.
-When a part or all of the business of the telecommunications enterprise terminates, and the competent authority reallocates the subscriber numbers to other telecommunications enterprises, the telecommunications enterprise receiving the allocation should retain the subscriber number for six months for the original subscriber to apply for use, unless they are IoT numbers.]]></條文內容>
-  </條文>
-  <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[The use of telecommunications numbers by telecommunications enterprises should comply with the following regulations：
-1. Except for subscriber numbers, telecommunications numbers are not allowed to be leased or lent.
-2. The numbers terminated by subscribers should be retained for three months, except for the IoT numbers.
-3. The telecommunications enterprise should monthly update the statistics of the leased and lease-terminated subscriber numbers and retain them for at least three months.
-The retention period of the subscriber number prescribed in Subparagraph 2 of the preceding paragraph does not apply to those with the consent of the new subscriber.]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 24</條號>
     <條文內容><![CDATA[After the telecommunications enterprise allocated with subscriber numbers by the competent authority, it should stipulate the number selection principle of the golden numbers except for the IoT numbers, and report it to the competent authority for reference before implementation; the same should apply to revisions hereof.
 The number selection principle prescribed in the preceding paragraph should include the basic number selection principle（as shown in the attached tables）; the subscriber numbers included in the number selection principle by the telecommunications enterprise should be provided to subscribers for lease through auction or number selection with a fee.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 24</條號>
+    <條文內容><![CDATA[If one of the following situations occurs, the competent authority should recover part or all of the subscriber numbers it has been allocated:
+1. Allocated telecommunications numbers that have been returned proactively.
+2. If the telecommunications enterprise does not reach the minimum utilization rate of the subscriber numbers set by the competent authority, unless the first-time allocated subscriber numbers have been allocated for less than three years or the re-allocated subscriber numbers have been allocated for less than one year.
+The calculation method of the minimum usage rate and the number of recovery of the subscriber numbers prescribed in the second subparagraph of the preceding paragraph are shown in Annex 2.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[The telecommunications enterprise allocated with telecommunications numbers should obtain routing information and provide communication services to the called subscribers when its subscribers sending messages.
-The preceding obligation shall be determined in accordance with the provisions of the subparagraphs during the following communication：
-1. Long-distance communication: Telecommunications enterprises providing long-distance communication services
-2. International telecommunication voice service: Telecommunication enterprises providing international telecommunication services]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 26</條號>
-    <條文內容><![CDATA[Prior to the telecommunications enterprise assigns subscribers to use telecommunication numbers, they should verify and register subscribers’ information.
-The preceding provision shall be handled by the National Communications Commission in accordance with relevant regulations.]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 27</條號>
-    <條文內容><![CDATA[When a telecommunications enterprise leases（lends）subscriber numbers to other telecommunications enterprises to provide telecommunications services, it should not restrict the other telecommunications enterprises from providing number portability services and equal access services to subscribers.
-The telecommunications enterprise should obtain an agreement with the other telecommunications enterprise on the implementation of the provisions of Paragraph 1, Article 16 of the Act prior to leasing（lending）the subscriber number to the other telecommunications enterprise.]]></條文內容>
-  </條文>
-  <編章節>   Chapter Four Supplementary Provisions</編章節>
-  <條文>
-    <條號>Article 28</條號>
-    <條文內容><![CDATA[When the telecommunications enterprise allocated with telecommunications numbers prior to the implementation of the Act applies to the competent authority for the allocation of the originally allocated telecommunications numbers, after it has been registered as a telecommunications enterprise in accordance with the provisions of Articles 5 and 6 of the Act, the following documents shall be submitted:
-1. Telecommunications Number Application Form
-2. Types and quantity of originally allocated telecommunications numbers
-The provisions of Article 7, Article 9, Article 11, Article 13, Article 18 and Article 20 do not apply to the telecommunication numbers applied for allocation in accordance with the provisions of the preceding paragraph.
-For the telecommunication numbers applied for allocation in accordance with the provisions of Paragraph 1, the following matters should be considered： 7
-1. Whether the applied type of telecommunication numbers type falls in the scope of its services
-2. Whether it conforms to the type and quantity of the originally allocated telecommunications numbers]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 29</條號>
-    <條文內容><![CDATA[The application form prescribed in these Regulations should be announced separately by the competent authority.]]></條文內容>
-  </條文>
-  <條文>
-    <條號>Article 30</條號>
     <條文內容><![CDATA[The Regulations shall be implemented from the date of promulgation of the Act.
 The amendments to these Regulations shall take effect on the date of promulgation.]]></條文內容>
   </條文>
