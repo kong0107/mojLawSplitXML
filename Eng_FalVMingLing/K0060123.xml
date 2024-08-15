@@ -3,13 +3,13 @@
 <英文法規名稱>Regulations Governing the Use of Radio Frequencies</英文法規名稱>
 <中文法規名稱>無線電頻率使用管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060123</法規網址>
-<最新英文異動日期>20230727</最新英文異動日期>
+<最新英文異動日期>20240627</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
   <檔案>
-    <檔案名稱><![CDATA[Appendix 1 List of matters concerning applications for frequency assignments in accordance with Article 56, Paragraph 1 of the Telecommunications Management Act.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008124</下載網址>
+    <檔案名稱><![CDATA[Appendix 1 List of matters concerning applications for frequency assignments in accordance with Article 56, Paragraph 1 of the Telecommunications Management Act.pdf.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008593</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Appendix 2 Classification of Emission Designation and Necessary Bandwidths.pdf]]></檔案名稱>
@@ -27,19 +27,20 @@
 <沿革內容><![CDATA[1. Formulated and announced in 51 articles by National Communications Commission（NCC）on July 2, 2020. Ref：Tung-Chuan-Zi-Yuan-Tzu No. 10943014370.
 2. Several articles revised by National Communications Commission（NCC）on September 17, 2021. Ref：Tung-Chuan-Zi-Yuan-Tzu No. 11043026350.
 3. Amended and promulgated several articles by Ministry of Digital Affairs Order No. 1116000022 on September 26, 2022.
-4. Amended and promulgated several articles by Ministry of Digital Affairs Order No. 11260009491, National Communications Commission Order No. 11200217680 on July 27, 2023.]]></沿革內容>
+4. Amended and promulgated several articles by Ministry of Digital Affairs Order No. 11260009491, National Communications Commission Order No. 11200217680 on July 27, 2023.
+5. Amended and promulgated Article 5, Article 9, Article 10 and Appendix 1 of Article 8 by Ministry of Digital Affairs Order No. 1136001329 on June 27, 2024.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1. General Rules</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are enacted in accordance with Paragraph 8 of Article 52; Paragraph 3 of Article 53; Paragraphs 3 and 5 of Article 57; and Paragraph 5 of Article 58 of the Telecommunications Management Act (hereinafter referred to as the Act).]]></條文內容>
+    <條文內容><![CDATA[These Regulations are enacted in accordance with Paragraph 8 of Article 52; Paragraph 3 of Article 53; Paragraphs 3 and 5 of Article 57; and Paragraph 5 of Article 58 of the Telecommunications Management Act（hereinafter referred to as the Act）.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[The terms used in the Regulations are defined as follows:
 1. Bandwidth: refers to the band of necessary radio frequency emitted under certain conditions and circumstances.
-2. Harmful interference: refers to interference to radio communications; such interference can endanger the functions of radio navigation or other safety communications, or seriously affect, interfere or repeatedly block radio-communications.
+2. Harmful interference: refers to interference to radio communications; such interference can endanger the functions of radio navigation or other safety communications, or seriously affect, interfere or repeatedly block radiocommunications.
 3. Provision of radio frequencies: refers to a telecommunications enterprise that provides a part of its radio frequencies to other telecommunications enterprises in accordance with Paragraph 1 of Article 58 of the Act.
 4. Frequency sharing: refers to a telecommunications enterprise that shares its radio frequency with other telecommunications enterprises in accordance with Paragraph 3 of Article 58 of the Act.
 5. Provider: refers to the telecommunications enterprise that offers frequency during the frequency provision or sharing process.
@@ -57,11 +58,14 @@
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[(Deleted)]]></條文內容>
+    <條文內容><![CDATA[（Deleted）]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[Radio frequencies shall be assigned by the competent authority according to the Regulations; and be used only upon receipt of the frequency use certificate. However, frequency bands designated for harmonious and effective sharing, and frequencies for amateur use, vessels and aircrafts as prescribed in Article 52 of the Act are excluded therefrom.]]></條文內容>
+    <條文內容><![CDATA[The use of radio frequencies under any of the following circumstances is exempt from application for frequency assignment and the frequency use certificate issued by the competent authority:
+1. Frequency bands designated for harmonious and effective sharing as prescribed in Article 52 of the Act.
+2. Frequencies for the use of amateur radio stations, ship radio stations or aircraft radio stations.
+3. Manufacturing, importing, possessing, or using controlled telecommunications radio frequency devices approved in accordance with the provisions of Paragraph 2 of Article 65 of the Act, except for those applicable to radio frequency assignment in accordance with Article 53 and Paragraph 1 of Article 56 of the Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -72,34 +76,26 @@ The frequency use certificate shall become invalid upon expiry thereof.]]></條�
   <編章節>   Chapter 2. Use and Management of Radio Frequencies</編章節>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[The application of radio frequency assignments shall comply with the uses described in “Table of Radio Frequency Allocations of the Republic of China” (hereinafter referred to as the Table of Radio Frequency Allocations) or announcements by the competent authority. If no relevant description is found in the Table of Radio Frequency Allocations or announcements of the competent authority, the competent authority may reject the application.]]></條文內容>
+    <條文內容><![CDATA[The application of radio frequency assignments shall comply with the uses described in “Table of Radio Frequency Allocations of the Republic of China”（hereinafter referred to as the Table of Radio Frequency Allocations）or announcements by the competent authority. If no relevant description is found in the Table of Radio Frequency Allocations or announcements of the competent authority, the competent authority may reject the application.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[For an applicant for radio frequency assignment (hereinafter referred to as the Applicant) in accordance with Paragraph 1, Article 56 of the Act, the eligibility for application, documents submitted, matters for review, frequency usage period and conditions for abolition of frequencies are set out in Appendix 1.
+    <條文內容><![CDATA[For an applicant for radio frequency assignment（hereinafter referred to as the Applicant）in accordance with Paragraph 1, Article 56 of the Act, the eligibility for application, documents submitted, matters for review, frequency usage period and conditions for abolition of frequencies are set out in Appendix 1.
 If the application as stated in the preceding paragraph only involves a change in the radio frequency use plan, it should be accompanied by the radio frequency use plan and a document for a comparison between the new and the old versions, while the other documents are not required.
 Radio frequencies may only be used upon receipt of a frequency use certificate issued by the competent authority after approving the applications prescribed in Paragraphs 1 and 2.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[In addition to the preceding provision, the Applicant that applies for frequency assignments in accordance with Paragraph 1 of Article 56 of the Act shall submit an application form and, according to the intended use, provide supportive evidence and documents. In the case of any amendments, the same rules shall be applied.
-The application form as described in the preceding Paragraph shall specify the following matters:
-1. The purposes and necessity of frequency use;
-2. The radio frequency use plan: including the radio wave coverage, radio frequencies used in different areas, bandwidth and emission power level. The radio wave coverage shall be noted on a topographic map or e-map detailed with longitude and latitude information.
-3. The radio station establishment plan and quantity list.
-4. Necessary plans to prevent interference.
-5. Any other documents designated as by the competent authority.
-Where the documents that must be provided as prescribed in Paragraph 1 or the content thereof is deemed to be incomplete, the competent authority shall notify the Applicant to undertake corrective action within a prescribed period. If the Applicant fails to do so or the provided information remains incomplete, the application shall be rejected.
-Where the competent authority approves the application prescribed in Paragraph 1, a frequency use certificate shall be issued accordingly.]]></條文內容>
+    <條文內容><![CDATA[Where the documents that must be provided or the content thereof is deemed to be incomplete, the competent authority shall notify the Applicant to undertake corrective action within a prescribed period. If the Applicant fails to do so or the provided information remains incomplete, the application shall be rejected.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[The competent authority shall examine the following matters when reviewing the application of or amendments to frequency assignments as described in the precedent Article:
-1. Compliance with the provisions of Table of Radio Frequency Allocations;
-2. Compliance with the radio frequency supply plan;
+    <條文內容><![CDATA[The competent authority shall examine the following matters when reviewing the application of or amendments to frequency assignments as described in Article 8:
+1. Compliance with the provisions of the Frequency Allocation Table;
+2. Compliance with the Radio Frequency Supply Plan;
 3. Compliance with provisions related to “International Telecommunications Convention” or “International Radio Regulations”;
 4. No harmful interference with assigned frequency;
-5. No harmful interference with frequencies planned or registered by International Telecommunication Union (ITU);
+5. No harmful interference with frequencies planned or registered by International Telecommunication Union（ITU）;
 6. The technology and efficiency of adopted radio technology;
 7. The secondary use frequencies specified in the Table of Radio Frequency Allocations do not interfere primary use frequencies.
 Where the frequency assignment application described in the preceding Article is not granted after the review, the competent authority may make assignments separately or reject the application.]]></條文內容>
@@ -118,10 +114,10 @@ Asides from matters specified in Paragraph 1 of the preceding Article, the compe
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[Telecommunications enterprises shall comply with the following rules with respect to actual usable bandwidth:
-1. Below 1 GHz (gigahertz): no more than one-third of the total bandwidth of frequencies below 1GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;
+1. Below 1 GHz（gigahertz）: no more than one-third of the total bandwidth of frequencies below 1GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;
 2. Below 3 GHz: no more than one-third of the total bandwidth of frequencies below 3GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;
 3. Below 6 GHz: no more than one-third of the total bandwidth of frequencies below 6GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;
-4. The actual usable bandwidth between 3300-3570 MHz (megahertz) must not exceed 100 MHz;
+4. The actual usable bandwidth between 3300-3570 MHz（megahertz）must not exceed 100 MHz;
 5. Above 24 GHz: no more than two-fifths of the total bandwidth of frequencies above 24GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise.
 The actual usable bandwidth described in the preceding Paragraph refers to all bandwidths acquired through the relocation of approved frequencies, public bidding or auction, the use of frequencies from another telecommunications enterprise and frequency sharing.
 According to Regulations Governing Application and Assignment of Radio Frequency for Telecommunications Enterprises, authorized by Article 53 and stipulations in Article 54 of the Act, frequency that can be allocated to telecommunications enterprises unless otherwise provided by law, shall not be bound by the restrictions specified in Paragraph 1.
@@ -155,14 +151,14 @@ With respect to the actual usable bandwidth of telecommunications enterprise as 
     <條號>Article 17</條號>
     <條文內容><![CDATA[The telecommunications enterprise that applies for the provision or sharing of radio frequency shall be limited to the following frequency bands:
 1. 2100 MHz band: uplink 1920MHz~1980MHz; downlink:
-2110MHz~2170MHz – for use in mobile voice services in circuit-switched mode only.
-2. 3500 MHz band: 3300 MHz to 3570 MHz;
-3. 28000 MHz band: 27000 MHz to 29500 MHz;
-4. Other bands announced by the competent authority.]]></條文內容>
+2. 2110MHz~2170MHz – for use in mobile voice services in circuit-switched mode only.
+3. 3500 MHz band: 3300 MHz to 3570 MHz;
+4. 28000 MHz band: 27000 MHz to 29500 MHz;
+5. Other bands announced by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[Telecommunications enterprises that apply for the provision or sharing of radio frequencies shall require the provider(s) and recipient(s) to submit the following documents to the competent authority to apply for an approval:
+    <條文內容><![CDATA[Telecommunications enterprises that apply for the provision or sharing of radio frequencies shall require the provider（s）and recipient（s）to submit the following documents to the competent authority to apply for an approval:
 1. Application form for the provision or sharing of radio frequencies;
 2. Agreement for the provision or sharing of radio frequencies
 3. Provider and recipient’ frequency use plan;
@@ -180,7 +176,7 @@ Where the documents that are required to be provided as prescribed in Paragraph 
   </條文>
   <條文>
     <條號>Article 19</條號>
-    <條文內容><![CDATA[When deyermining whether to grant an approval as described in Paragraph 1 or 3 of Article 58 of the Act, the competent authority shall take the following factors into consideration and supplementary factors may be added thereto:
+    <條文內容><![CDATA[When determining whether to grant an approval as described in Paragraph 1 or 3 of Article 58 of the Act, the competent authority shall take the following factors into consideration and supplementary factors may be added thereto:
 1. Assurance of the use efficiency of radio frequencies;
 2. The use of radio frequencies and obligations arising therefrom;
 3. Impact to fair market competition;
@@ -198,7 +194,8 @@ Where the documents that are required to be provided as prescribed in Paragraph 
 3. The possibility of facilitating network installation and technology upgrade;
 4. The possibility of creating obstacle to market entry;
 5. Other factors that can affect market competition.
-The competent authority shall examine the following matters when considering the impacts to consumers’ rights and interests:
+The competent authority shall examine the following matters when considering
+the impacts to consumers’ rights and interests:
 1. The possibility of enhancing the overall service quality;
 2. The possibility of facilitating service interoperability;
 3. The possibility of increasing the diversity of services;
@@ -206,17 +203,15 @@ The competent authority shall examine the following matters when considering the
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[(Deleted)]]></條文內容>
+    <條文內容><![CDATA[（Deleted）]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
-    <條文內容><![CDATA[Providers and recipients that plan to terminate the provision or sharing of
-radio frequencies in advance, shall submit joint applications for approval to the competent authority within one month from six months prior to the scheduled termination date.]]></條文內容>
+    <條文內容><![CDATA[Providers and recipients that plan to terminate the provision or sharing of radio frequencies in advance, shall submit joint applications for approval to the competent authority within one month from six months prior to the scheduled termination date.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22-1</條號>
-    <條文內容><![CDATA[Providers and recipients that plan to terminate the provision or sharing of
-radio frequencies in advance, or upon the expiration of the approved period for the provision or sharing of radio frequencies, shall jointly apply to the National Communications Commission for the amendments to the network establishment plan and operating plan within one month from six months prior to the scheduled termination date (or the expiration date of the approved period).]]></條文內容>
+    <條文內容><![CDATA[Providers and recipients that plan to terminate the provision or sharing of radio frequencies in advance, or upon the expiration of the approved period for the provision or sharing of radio frequencies, shall jointly apply to the National Communications Commission for the amendments to the network establishment plan and operating plan within one month from six months prior to the scheduled termination date（or the expiration date of the approved period）.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
@@ -228,11 +223,11 @@ With respect to the frequency use certificate issued to or amended by the teleco
   <編章節>      Section 1. Principles for the Allocation of Shared Frequency</編章節>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[The bands and bandwidths allocated for shared frequencies as prescribed in Paragraph 1 of Article 57 of the Act shall be announced by the competent authority]]></條文內容>
+    <條文內容><![CDATA[The bands and bandwidths allocated for shared frequencies as prescribed in Paragraph 1 of Article 57 of the Act shall be announced by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[Those that apply for the use of shared frequencies (the “users”) shall submit the application form and relevant documents to the competent authority to apply for shared frequency assignment license. Upon receipt of the approval, the user of shared frequencies shall apply for frequency assignments to a database management agency for shared frequencies and the said agency shall be certified by the competent authority.
+    <條文內容><![CDATA[Those that apply for the use of shared frequencies（the “users”）shall submit the application form and relevant documents to the competent authority to apply for shared frequency assignment license. Upon receipt of the approval, the user of shared frequencies shall apply for frequency assignments to a database management agency for shared frequencies and the said agency shall be certified by the competent authority.
 Users of shared frequencies shall use the frequencies according to information provided by the database of shared frequencies.]]></條文內容>
   </條文>
   <條文>
@@ -266,7 +261,7 @@ The database of shared frequencies shall provide users of shared frequencies the
   <條文>
     <條號>Article 31</條號>
     <條文內容><![CDATA[The emission of radio frequencies must not result in harmful interference to international distress frequencies.
-The international distress frequencies as described in the preceding Paragraph include 490 kHz (kilohertz), 518 kHz, 2.182 MHz, 2.1875 MHz, 121.5 MHz, 156.525 MHz, 156.8 MHz, 406.1 MHz and other distress, warning, emergency or safety signals.]]></條文內容>
+The international distress frequencies as described in the preceding Paragraph include 490 kHz（kilohertz）, 518 kHz, 2.182 MHz, 2.1875 MHz, 121.5 MHz, 156.525 MHz, 156.8 MHz, 406.1 MHz and other distress, warning, emergency or safety signals.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 32</條號>
@@ -298,24 +293,24 @@ The international distress frequencies as described in the preceding Paragraph i
 5. Avoid radio receivers being placed too close to the equipment that produces radio frequency;
 6. Avoid poorly designed radio reception equipment;
 7. Avoid inadequate grounding of radio equipment;
-8. Adequate safeguards and proper grounding must be adopted in the manufacturing, installation and use of various communication and non-communication equipment to avoid interference to radiocommunications;
+8. Adequate safeguards and proper grounding must be adopted in the manufacturing, installation and use of various communication and noncommunication equipment to avoid interference to radiocommunications;
 9. The receiver shall be installed with an additional frequency filter whenever necessary.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 38</條號>
     <條文內容><![CDATA[To avoid interference, users must not carry out any of the following acts:
 1. The emitted frequency and power of radio equipment do not conform to the assignment of the competent authority;
-2. The radio equipment produces spurious (including harmonic) emission that does not conform to the regulations;
+2. The radio equipment produces spurious（including harmonic）emission that does not conform to the regulations;
 3. The radio equipment does not conform to technical specifications;
 4. Other factors that can harm legal radiocommunications.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 39</條號>
     <條文內容><![CDATA[The following circumstances shall be deemed as illegally using radio frequency to interfere with legal radio communications:
-1.Use equipment of legal radiocommunications system to receive perceivable sounds or images of illegally used radio frequency;
-2.Use measuring equipment to measure identifiable messages of illegally used radio frequency, which can affect system operations, in the legal radiocommunications system;
-3.In more than five different points within the transmission radius of the antenna of radio stations, the electric field strength between illegally used radio frequency and legal station exceeds any of the following standards: 34 dBuV/m (decibel microvolts per meter) for a co-channel; 48 dBuV/m for a first adjacent channel; 64 dBuV/m for a second adjacent channel; or 74 dBuV/m for a third adjacent channel
-4.The electric field strength of illegally used radio frequency has been measured using the equipment of the National Communications Commission’s fixed monitoring station, where the electric field strength of frequency between 9 kHz and 174 MHz exceeds 80 dBuV/m, or that of frequency between 174 MHz and 3 GHz exceeds 94 dBuV/m.]]></條文內容>
+1. Use equipment of legal radiocommunications system to receive perceivable sounds or images of illegally used radio frequency;
+2. Use measuring equipment to measure identifiable messages of illegally used radio frequency, which can affect system operations, in the legal radiocommunications system;
+3. In more than five different points within the transmission radius of the antenna of radio stations, the electric field strength between illegally used radio frequency and legal station exceeds any of the following standards: 34 dBuV/m（decibel microvolts per meter）for a co-channel; 48 dBuV/m for a first adjacent channel; 64 dBuV/m for a second adjacent channel; or 74 dBuV/m for a third adjacent channel
+4. The electric field strength of illegally used radio frequency has been measured using the equipment of the National Communications Commission’s fixed monitoring station, where the electric field strength of frequency between 9 kHz and 174 MHz exceeds 80 dBuV/m, or that of frequency between 174 MHz and 3 GHz exceeds 94 dBuV/m.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 40</條號>
@@ -330,9 +325,9 @@ An application of users that fail to submit an improvement plan as prescribed in
   </條文>
   <條文>
     <條號>Article 42</條號>
-    <條文內容><![CDATA[Users that apply to the National Communications Commission to coordinate and handle radio frequency interference in accordance with Article 63 of the Act, or declare that an illegally established Radio Station uses the frequency shall, prior to the submission of complaint, determine the source of interference or the location and used frequency of Radio Station; and submit “Radio Frequency Interference and Illegal Use Complaint Form” and relevant documents. The complaint shall be handled in accordance with the following procedures:
-1.Complaints concerning interference to military communications shall be accepted, checked and excluded by Ministry of National Defense. Where the source of interference signal cannot be verified, users may contact the National Communications Commission for investigating the source of interference and resolving actions to handle the interference.
-2.Complaints concerning interference to non-military communications and interference complaints from overseas shall be accepted, checked and excluded by the National Communications Commission. Where the source of interference signal cannot be verified, users may contact the Ministry of National Defense for resolving actions.]]></條文內容>
+    <條文內容><![CDATA[Users that apply to the National Communications Commission to coordinate and handle radio frequency interference in accordance with  Article 63 of the Act, or declare that an illegally established Radio Station uses the frequency shall, prior to the submission of complaint, determine the source of interference or the location and used frequency of Radio Station; and submit “Radio Frequency Interference and Illegal Use Complaint Form” and relevant documents. The complaint shall be handled in accordance with the following procedures:
+1. Complaints concerning interference to military communications shall be accepted, checked and excluded by Ministry of National Defense. Where the source of interference signal cannot be verified, users may contact the National Communications Commission for investigating the source of interference and resolving actions to handle the interference.
+2. Complaints concerning interference to non-military communications and interference complaints from overseas shall be accepted, checked and excluded by the National Communications Commission. Where the source of interference signal cannot be verified, users may contact the Ministry of National Defense for resolving actions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 43</條號>
@@ -343,34 +338,33 @@ Where the source of interference is from overseas, the competent authority may r
   <條文>
     <條號>Article 43-1</條號>
     <條文內容><![CDATA[The principles of the National Communications Commission for handling interference are as follows:
-1.Interference occurring between military and non-military radiocommunications shall be coordinated and handled by the Ministry of National Defense and the National Communications Commission.
-2.Where the measurement of radio frequency is disputable, the results of measurements undertaken by the National Communications Commission shall be taken as the criterion.
-3.Where interference occurs between domestic and foreign users, the National Communications Commission shall coordinate with relevant units to solve the problem if the emission site or interference source is within the country.]]></條文內容>
+1. Interference occurring between military and non-military radiocommunications shall be coordinated and handled by the Ministry of National Defense and the National Communications Commission.
+2. Where the measurement of radio frequency is disputable, the results of measurements undertaken by the National Communications Commission shall be taken as the criterion.
+3. Where interference occurs between domestic and foreign users, the National Communications Commission shall coordinate with relevant units to solve the problem if the emission site or interference source is within the country.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 44</條號>
     <條文內容><![CDATA[The National Communications Commission shall handle the interference according to the following priorities and order:
-1.Military radio frequency shall be deemed highest first priority in the mobilization implementation phase;
-2.Aviation or vessel safety mission;
-3.Disaster prevention and rescue mission;
-4.Importance of the nature of business;
-5.Radio frequency assigning date.]]></條文內容>
+1. Military radio frequency shall be deemed highest first priority in the mobilization implementation phase;
+2. Aviation or vessel safety mission;
+3. Disaster prevention and rescue mission;
+4. Importance of the nature of business;
+5. Radio frequency assigning date.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 45</條號>
     <條文內容><![CDATA[In the case of interference when using legal radio frequency and no improvement has been made despite the National Communications Commission’s attempt at coordination, the National Communications Commission may order related users to change the time and location of using the radio frequency; adjust the antenna transmission direction and power; or adopt other appropriate methods in accordance with Paragraph 2 of Article 63 of the Act. When necessary, the competent authority may be consulted for assistance.
-During the coordination as described in the precedent Paragraph, the National Communications Commission may order the user to cease using the frequency depending on the severity of interference.
-Chapter 6. Supplementary Provisions]]></條文內容>
+During the coordination as described in the precedent Paragraph, the National Communications Commission may order the user to cease using the frequency depending on the severity of interference.]]></條文內容>
   </條文>
   <編章節>   Chapter 6. Supplementary Provisions</編章節>
   <條文>
     <條號>Article 46</條號>
     <條文內容><![CDATA[With respect to radio frequencies allocated to users, the competent authority may abolish the allocated frequencies in whole or in part if the user encounters any of the following circumstances:
-1.Without justifiable reasons, the user fails to use the radio frequency for more than 6 months upon the date of allocation or for 6 consecutive months;
-2.The user fails to pay the radio frequency use fees within the prescribed deadline, and the payment remains unpaid upon receipt of the competent authority’s notification;
-3.The user fails to fulfill its obligations for the use of the radio frequency as prescribed in the operating plan or network establishment plan, and no improvement has been or can be made upon receipt of the National Communications Commission’s notification;
-4.National Communications Commission has abolished the registration of its telecommunications enterprise or the operation license for its terrestrial radio business or terrestrial television business;
-5.The user allows others to use the radio frequencies allocated without permission.]]></條文內容>
+1. Without justifiable reasons, the user fails to use the radio frequency for more than 6 months upon the date of allocation or for 6 consecutive months;
+2. The user fails to pay the radio frequency use fees within the prescribed deadline, and the payment remains unpaid upon receipt of the competent authority’s notification;
+3. The user fails to fulfill its obligations for the use of the radio frequency as prescribed in the operating plan or network establishment plan, and no improvement has been or can be made upon receipt of the National Communications Commission’s notification;
+4. National Communications Commission has abolished the registration of its telecommunications enterprise or the operation license for its terrestrial radio business or terrestrial television business;
+5. The user allows others to use the radio frequencies allocated without permission.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 47</條號>
