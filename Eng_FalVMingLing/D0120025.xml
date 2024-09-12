@@ -1,23 +1,15 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Establishment Standard and Safety Control Regulation for Manufacturing, Storing, Processing Public Hazardous Substances and Flammable Pressurized Gases Places</英文法規名稱>
+<英文法規名稱>Standards for Establishing Places for Manufacturing, Storing, Processing Public Hazardous Substances and Flammable Pressurized Gases, and Regulations on Safety Control of such Places</英文法規名稱>
 <中文法規名稱>公共危險物品及可燃性高壓氣體製造儲存處理場所設置標準暨安全管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120025</法規網址>
-<最新英文異動日期>20211110</最新英文異動日期>
+<最新英文異動日期>20240716</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
   <檔案>
     <檔案名稱><![CDATA[Attachment Table 1.pdf]]></檔案名稱>
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007044</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Attachment Table 1-1.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007045</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Attachment 2.PDF]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007035</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Attachment 3.PDF]]></檔案名稱>
@@ -68,7 +60,9 @@
 10.Published, as amended, jointly on May 4, 2016 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1050821665; and MOEA Order Ching-Neng-Tzu No.10504601910
 11.Amended on May 8, 2017
 12.Published, as amended, jointly on June 11, 2019 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1080822239; and MOEA Order Ching-Neng-Tzu No.10804602500
-13.Published, as amended, jointly on Nov 10, 2021 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1100821046; and MOEA Order Ching-Neng-Tzu No.11004605510]]></沿革內容>
+13.Published, as amended, jointly on Nov 10, 2021 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1100821046; and MOEA Order Ching-Neng-Tzu No.11004605510
+Ching-Neng-Tzu No.11004605510
+14.Published, as amended, jointly on Jul 16, 2024 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1131619001; and MOEA Order Ching-Neng-Tzu No.11358002620]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter One: General Principles</編章節>
@@ -143,12 +137,7 @@ For places that shall with a width of over 3 m reserved space prescribed in the 
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[Location, construction and equipment drawings of a place for the manufacturing, storage or process of public hazardous materials and flammable pressurized gases shall be completed with the examination by the municipal, or county/city fire department before the date for commencing the constructional work specified in the permit issued by the building regulating authorities.
-Upon completing the constructional work, the place referred in the preceding paragraph, the municipal, or county/city building regulating authorities shall jointly with the fire department inspect the compliance of the location, construction and equipment before releasing the use license.
-Any tank containing liquefied public hazardous materials shall before applying for the work completion inspection contract a professional institute designated by the central regulating authorities to complete inspection of the following items and to issue a certificate of compliance:
-1. Full water level or water pressure inspection; and
-2. Stratum, foundation and welding inspection for any tank with a capacity of 1,000 k( or larger.
-Directions for the inspection specified in the preceding paragraph shall be determined by the central regulating authorities.]]></條文內容>
+    <條文內容><![CDATA[(Delete)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -406,6 +395,7 @@ If an indoor storage place for the storage of Six Materials stores less than 50 
 │200 times and more the      │3m and above  │5m and above  │
 │control quantity            │              │              │
 └──────────────┴───────┴───────┘
+
 3.The roof of the warehouse shall be constructed of non-flammable materials.
 4.The windows of and access to the warehouse shall be constructed of non-flammable materials. Access on the walls that present risks of fire spreading shall be provided with constantly fire doors of 1 hour and more fire rate.
 5.If there is a glazed window or access on the walls that present risks of fire spreading, the glass shall be sandwiched with a wire mesh or provide equivalent protection.
@@ -473,6 +463,7 @@ If an indoor storage place for the storage of high flash point materials stores 
 │Up to 200 times and more    │30m and above                 │
 │the control quantity        │                              │
 └──────────────┴───────────────┘
+
 5.The width of the reserved space of the fence used for the storage of high flash point materials is specified in the following table:
 ┌──────────────┬───────────────┐
 │      Classification        │Width of Reserved Space       │
@@ -487,6 +478,7 @@ If an indoor storage place for the storage of high flash point materials stores 
 │Up to 200 times and more of │10m and above                 │
 │the control quantity        │                              │
 └──────────────┴───────────────┘
+
 6.Racks installed shall meet the following construction and equipment requirements:
 (1)The rack shall be made of non-flammable materials and secured to a firm and solid foundation.
 (2)The rack and its peripheral equipment shall be capable of holding the weight of the materials stored and withstanding strong winds and seismic impacts.
@@ -536,34 +528,31 @@ The volume of the tank space is 5%~10% of the inner volume: Provided, however, t
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[The location, construction, and equipment of the indoor storage tank place shall meet the following requirements:
-1.It shall be located in a dedicated storage tank room of a single floor building.
-2.The distance between the shell of the storage tank and the interior wall of the dedicated room shall be more than 50 cm. When two or more storage tanks are provided in the room, the space between their shells shall be more than 50 cm.
-3.The storage tank capacity shall not exceed 40 times the control quantity, and the storage quantity of Class 4 public hazardous materials, except for Type 4 oils or animal and vegetable oils, shall not exceed 20,000 liters. If two or more storage tanks are provided in the same room, their capacities shall be combined for calculation.
-4.Storage tank construction:
-(1)The storage tank shall be made of steel plate or material of equivalent performance in thickness not less than 3.2 mm.
-(2)Storage tanks with positive and negative pressures exceeding 500 mmH2O (hereinafter referred to as pressurized tank) shall be pressure tested for 10 minutes at a pressure equal to 1.5 times of the designed pressure and shall not show any leakage or deformation. However, those that store six materials in solid status are not subject to this requirement.
-(3)Non-pressurized tanks shall not show any leakage or deformation after the full load water test.
-5.The surface of the storage tank shall be corrosion-proof.
-6.Pressurized tanks shall be provided with safety devices; non-pressurized tanks shall be equipped with ventilation pipes.
-7.The storage tank shall be equipped with a device that automatically displays its storage capacity.
-8.For storage tanks containing Class 4 public hazardous materials, their inlets shall meet the following requirements:
-(1)It shall not be located in places that are prone to fire or obstruct the escape route.
-(2)It may be connected to an injection hose or pipe but any leakage must be prevented.
-(3)It shall be provided with valves or lids.
-(4)If the storage is prone to cause static electricity hazard, a grounding device for effectively removing static electricity shall be provided.
-9.The tank valve shall be made of cast steel or material of equivalent performance, and shall not show any leakage.
-10.The drainage pipe of the storage tank shall be located on its wall. However, connections between the drainage pipe and the storage tank can be located at the bottom of the tank if they are not at the risk of being damaged by earthquakes or land subsidence.
-11.The walls, pillars, and floors of the dedicated storage tank room shall be of fireproof construction. The beams shall be constructed of non-flammable materials. No opening other than the access shall be provided to exterior walls that present risks of fire spreading. However, if the storage is for Class 4 public hazardous materials at a flash point above 70℃ and does not present risks of fire spreading, then its walls, pillars, and floors may be made of non-flammable materials.
-12.The roof of dedicated storage tank room shall be constructed of non-flammable materials and no ceiling shall be installed.
-13.The windows and access of the dedicated storage tank room shall be provided with fire doors and windows of 30 minutes and more fire rate. However, external walls that present risks of fire spreading shall be provided with normally closed fire door of 1 hour and more fire rate.
-14.If the windows or access mentioned in the preceding subparagraph is glazed, the glass shall be sandwiched with a wire mesh or provide equivalent protection.
-15.The floor of tanks used to store the Six Materials in liquid status shall be of impermeable construction at a suitable inclination, and be provided with a liquid collection facility.
-16.The access to the dedicated storage tank room shall be installed with a threshold of 20 cm or above in height or a leakage prevention measure of equivalent performance.
-17.The dedicated storage tank room shall have sufficient admission of natural light, lighting and ventilation equipment. Equipment to effectively discharge vapor above the eaves or outdoors at a height not less than 4 m above the ground shall be provided for store the Six Materials at the flash point less than 70℃ that present risks of accumulating flammable vapor.
-When a compartment of a manufacturing place or general processing place of the Six Materials is provided for the storage of Class 4 public hazardous materials at a flash point above 40℃ as prescribed in the preceding paragraph, its location, construction, and equipment shall meet the following requirements in addition to those set forth in Subparagraphs 1 to 10, 12, 14 to 17 of the preceding paragraph.
-1.The walls, pillars and floors of the dedicated storage tank room shall be of fireproof construction of 2 hours and more fire rate. The beams shall be constructed of non-flammable materials. No opening other than the access shall be provided to exterior or partition walls that present risks of fire spreading.
-2.The windows of the dedicated storage tank room shall be provided with fire windows of 2 hours and more fire rate; the access shall be provided with normally closed fire door of 2 hours and more fire rate.]]></條文內容>
+    <條文內容><![CDATA[The location, structure, and equipment of the indoor storage tank site shall comply with the following requirements:
+1.The location shall be an exclusive storage tank room located on the first floor of the building.
+2.The distance between the exterior wall of the side panel of the storage tank and the interior wall surface of the exclusive storage tank room shall be more than fifty (50) centimeters. When two or more storage tanks are installed in an exclusive indoor space, the distance between any two exterior walls of the side panels of the storage tanks shall be at least fifty (50) centimeters.
+3.The capacity of the storage tank shall not exceed forty (40) times of the control volume, and when storing Class 4 public hazardous substances, except for Class 4 petroleum and animal and vegetable oils, the capacity shall not exceed 20,000 liters. When two or more storage tanks are installed in the same dedicated storage tank room, their capacities shall be calculated together.
+4.Storage tank structure: The material of the storage tank shall be a steel plate of more than 3.2 mm in thickness or one of equivalent or better properties.
+5.The surface of the storage tank shall have an anti-corrosion function.
+6.Storage tanks with positive and negative pressures exceeding 500 mm of water column pressure (hereinafter such storage tanks are referred to as pressure storage tanks) shall be equipped with safety devices; and non-pressure storage tanks shall be equipped with vent pipes.
+7.Storage tanks shall be equipped with a device for automatic storage reserves display.
+8.Where a storage tank stores Class 4 public hazardous substances, its sprue shall comply with the following requirements:
+(1)It shall not be located in a place prone to fire or hindering evacuation.
+(2)It can be combined with the injection hose or injection pipe, and there must be no leakage.
+(3)A pipe valve or a cap shall be installed on the sprue.
+(4)Where the stored item is likely to cause static electricity disasters, a grounding device that can effectively remove static electricity shall be installed.
+9.The valve of a storage tank shall be made of cast steel or materials of equivalent or better properties, and there must be no leakage.
+10.The drainage pipe of the storage tank shall be located on the tank wall. However, the connection part between the drainage pipe and the storage tank may be located at the bottom of the storage tank if there is no risk of damage in the event of an earthquake or land subsidence.
+11.The walls, columns, and floors of the exclusive storage tank room shall be of fireproof structure, and the beams shall be constructed of non-combustible materials. Where the exterior wall poses a risk of spreading fire, no openings shall be constructed on the exterior wall except for access opening. However, where no risk of spreading fire is posed when the stored content is a Class 4 public hazardous substance with a flash point above 70 degrees Celsius, the walls, columns, and floors of the exclusive storage tank room may be constructed of non-combustible materials.
+12.The roof of the exclusive storage tank room shall be constructed of non-combustible materials, and no ceiling shall be constructed.
+13.The windows and access openings of the exclusive storage tank room shall be equipped with fireproof windows and doors with a fireproof effect of more than 30 minutes. However, where the exterior wall poses a risk of spreading fire, the access opening shall be equipped with a normally-closed fire door with a fireproof effect of more than one hour.
+14.When the windows and access openings in the preceding paragraph are equipped with glass, the glass shall be inlaid with wire mesh or materials of equivalent or better protective properties.
+15.Where liquid items of the 6 classes are stored, the floor shall be of impermeable structure, with appropriate inclination and liquid collection facilities.
+16.The access opening of the exclusive storage tank room shall be set up with a threshold of more than 20 centimeters, or with a measure, of equivalent or better effectiveness, for outflow prevention.
+17.The exclusive storage tank room shall have adequate daylighting, lighting and ventilation equipment. Where a risk of accumulating flammable vapor is posed when the stored content is any substance in the 6 classes with flash point under 70 degrees Celsius, equipment shall be installed to effectively discharge the vapor to a height above the eaves or outdoors at a height of more than four (4) meters from the ground.
+For a building used as a manufacturing site or general processing site for substances of 6 classes, when the aforementioned building is set up to store Class 4 public hazardous substances with a flash point above 40 degrees Celsius, the location, structure and equipment shall comply with the provisions of preceding Subparagraphs 1 to 10, 12, and 14 to 17, as well as the following requirements:
+1.The walls, columns, and floors of the exclusive storage tank room shall be of fireproof structure with a fireproof effect of more than two hours. Beams shall be constructed of non-combustible materials. Where the exterior wall poses a risk of spreading fire or contains zoning partition walls, no openings shall be constructed on the exterior wall except for access opening.
+2.The windows of the exclusive storage tank room shall be equipped with fire windows with a fireproof effect of more than two hours; and the access opening shall be equipped with a normally-closed fire door with a fireproof effect of more than two hours.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 34</條號>
@@ -719,37 +708,37 @@ For dikes of storage containers that store the Six Materials in liquid status as
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[The location, construction and equipment of the underground storage tank place shall meet the following requirements:
-1.The storage tank shall be installed in the underground tank room. However, those that are for the storage of Class 4 public hazardous materials may be buried underground in case of meeting the following requirements:
-(1)Its horizontal distance to the subway, underground tunnel or any other places designated by the central regulating authority is more than 10 m;
-(2)The storage tanks shall be covered with concrete reinforced with steel bars in thickness not less than 25 cm and the horizontal projection length, and width thereof shall be more than 60 cm.
-(3)The weight of the top lid shall not be directly applied to the tank; and
-(4)The underground storage tank shall be secured to a firm and solid foundation.
-2.The distance between the shell of the storage tank and the wall of the storage tank room shall be more than 10 cm, and the surroundings of the container tank shall be filled with dry sands or materials of equivalent performance to prevent risks of accumulating flammable vapor.
-3.The top of the storage tank shall be at least 60 cm away from the ground;
-4.The distance between the shell of neighboring storage tanks shall be no less than 1 m. However, if their capacities are less than 100 times the control quantity, the said distance may be reduced to no less than 50 cm.
-5.The storage tank shall be air-tightly constructed with steel plate in thickness not less than 3.2 mm. When applied with 0.7 kg/cm2 pressure in case of a non-pressurized tank, or 1.5 times the maximal working pressure in case of a pressurized tank. The storage tank shall survive in a 10-minute water pressure test without leakage or deformation;
-6.The surface of the tank shall be corrosion proof;
-7.A safety device shall be provided to the pressurized tank; or a ventilation pipe to a non-pressurized tank;
-8.For the storage of Six materials in liquid status, a device to automatically display the storage level shall be provided;
-9.The inlet to the tank shall be provided outdoors and Subparagraph 8 of Paragraph 1 of Article 33 is applicable mutatis mutandis;
-10.If the pumping equipment is provided on the ground, Subparagraph 1 of Paragraph 1 of Article 35 is applicable mutatis mutandis; if the pumping equipment is provided inside the tank, it shall meet the following requirements:
-(1)The motor for the pumping equipment shall meet the following requirements:
-i.Stators of a metal container shall be filled with an epoxy material that are not affected by Six Materials;
-ii.Be constructed to cool the stator during operations; and
-iii.Be constructed to prevent air stagnation inside the motor.
-(2)Cables connecting to the motor shall be protected from having a direct contact with the Six Materials;
-(3)The pumping equipment shall be provided with the function of preventing the motor from rising its temperature during operation;
-(4)The motor shall be automatically stopped in any of the following circumstances:
-i.The motor has a drastic rise in temperature; or
-ii.The pump suction is exposed.
-(5)The pumping equipment shall be joined to the flange of the tank;
-(6)The pumping equipment shall be installed inside the protection pipe, unless its external package is strong enough to provide protection.
-(7)Pumping equipment that is located in the upper part of the underground storage tank shall be provided with equipment that detect Six Materials.
-11.Article 36 is applicable mutatis mutandis to the pipes;
-12.Storage tank pipes shall be installed on top of the storage tank;
-13.Leakage detection pipes or leakage detection equipment of the equivalent performance shall be properly installed in surroundings of the storage tanks; and
-14.Wall and bottom of the storage tank room shall be constructed of concrete in thickness not less than 30 cm or with the construction with equivalent strength; be provided with proper water proof measures; be provided with a top lid that is made of concrete reinforced with steel bars in thickness not less than 25 cm.]]></條文內容>
+    <條文內容><![CDATA[The location, structure, and equipment of the underground storage tank site shall comply with the following requirements:
+1.The storage tank shall be placed in an underground storage tank room. However, those storing Class 4 public hazardous substances and meeting the following requirements may be directly buried underground:
+(1)The horizontal distance from the subway, the underground tunnel, or the place designated by the central competent authority is more than ten meters.
+(2)The storage tank shall be covered with a reinforced concrete cover of more than 60 centimeters in horizontal projected length and width, respectively, and more than 25 centimeters in thickness.
+(3)The weight of the top cover cannot be directly put on the underground storage tank.
+(4)Underground storage tanks shall be fixed on a solid foundation.
+2.There shall be a gap of more than ten (10) centimeters between the exterior wall of the side panel of the storage tank and the interior wall surface of the exclusive storage tank room. The surrounding of the storage tank shall be filled with dry sand or a measure, of equivalent or better effectiveness, to prevent the retention of flammable vapor.
+3.The top of the storage tank shall be more than 60 centimeters from the ground.
+4.Where two or more storage tanks are adjacent to each other, the distance between any two exterior walls of the side panels of the storage tanks shall be more than one meter. However, where the total capacity is less than 100 times of the control volume, the distance may be reduced to more than 50 centimeters.
+5.The storage tank shall be constructed of airtight steel plates of more than 3.2 mm in thickness.
+6.The surface of the storage tank shall have an anti-corrosion function.
+7.Pressure storage tanks shall be equipped with safety devices, and non-pressure storage tanks shall be equipped with vent pipes.
+8.Where liquid items of the 6 classes are stored, the storage tanks shall be equipped with a device for automatic storage reserves display.
+9.The sprue of the storage tank shall be installed outdoors, and the provisions of Subparagraph 8, Paragraph 1, Article 33 shall apply mutatis mutandis.
+10.Where the pump equipment is installed on the ground, the provisions of Subparagraph 1, Paragraph 1, Article 35 shall apply mutatis mutandis. Where the pump equipment is installed inside the storage tank, the following requirements shall be compiled with:
+(1)The motor structure of pump equipment shall comply with the following requirements:
+1)The stator must be a metal container filled with resin that could not be damaged by the six classes of substances.
+2)A structure must be able to cool the stator during operation.
+3)A structure in the motor interior must be able to prevent air stagnation.
+(2)The wires connected to the motor shall be protected and must not come into direct contact with any substances of the six classes.  
+(3)The pump equipment must have the function of preventing the motor from heating up during operation.
+(4)The motor of the pump equipment can automatically stop under the following conditions:
+1)When the motor temperature rises sharply.
+2)When the pump suction outlet is exposed.
+(5)The pump equipment shall be connected with the flange of the storage tank.
+(6)The pump equipment shall be installed in a protective pipe. However, this does not apply to those with sufficiently strong exterior protection.
+(7)The pump equipment is located in the upper part of the underground storage tank, where there shall be leakage detection equipment for any substances of the six classes.
+11.The provisions of Article 36 shall apply mutatis mutandis to piping.
+12.The piping of the storage tank shall be installed on the top of the storage tank.
+13.At least four leak detection pipes or leak detection equipment of equivalent or better effectiveness shall be installed at appropriate locations around the storage tank.
+14.The walls and bottom of the tank shall be constructed of concrete of more than 30 centimeters in thickness or of a structure with equal or greater strength, and shall have appropriate waterproofing measures. The top cover shall be constructed of reinforced concrete of more than 25 centimeters in thickness.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 42</條號>
@@ -834,10 +823,7 @@ The safety management of the places for trading the Six Materials shall meet the
   </條文>
   <條文>
     <條號>Article 47</條號>
-    <條文內容><![CDATA[The place used for manufacturing, storage or process of the Six Materials at a quantity not less than 30 times of the control quantity, a security supervisor shall be appointed among the staff of management or the controller level by the Administrator to develop fire prevention plan to seek the approval from the local fire department and to carry out security and monitor operation for the Six Materials according to the plan.
-The election of the security supervisor shall be reported within fifteen (15) days to the local fire department; the same governs in case of any changed security supervisor.
-The security supervisor referred in Para. 1 shall take the office only after having been given a 24hr training and issued a qualification certified by a professional institute approved by the fire department of the municipal, county/city or the central regulating authorities; and the security supervisor shall update the training every two years during his/her term of office.
-The central regulating authorities shall specify the contents of the fire prevention plan referred in Para. 1 and the training referred in Para. 3.]]></條文內容>
+    <條文內容><![CDATA[(Delete)]]></條文內容>
   </條文>
   <編章節>      Section 2: (Delete)</編章節>
   <條文>
