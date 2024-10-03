@@ -3,31 +3,25 @@
 <英文法規名稱>Sanitation Standard for Food Cleansers</英文法規名稱>
 <中文法規名稱>食品用洗潔劑衛生標準（96.09.20訂定）</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040070</法規網址>
-<最新英文異動日期>20170612</最新英文異動日期>
+<最新英文異動日期>20240911</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
   <檔案>
-    <檔案名稱><![CDATA[Appendix 1.PDF]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004943</下載網址>
+    <檔案名稱><![CDATA[Appendix1.PDF]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008640</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Appendix 1.doc]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003656</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Appendix 2.PDF]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004944</下載網址>
-  </檔案>
-  <檔案>
-    <檔案名稱><![CDATA[Appendix 2.doc]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003657</下載網址>
+    <檔案名稱><![CDATA[Appendix2.PDF]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008641</下載網址>
   </檔案>
 </附件>
-<沿革內容><![CDATA[1.Promulgated on 20 September 2007, Food No.0960404499
-2.Amended on August 20, 2013
+<沿革內容><![CDATA[1.DOH Food No.0960404499 Amended, 09/20/2007
+2.MOHW Food No. 1021350146 Amended, 08/20/2013
 3.MOHW Food No 1041300838 Amended, 04/27/2015
-4.MOHW Food No 1061301328 Amended, 06/12/2017]]></沿革內容>
+4.MOHW Food No 1061301328 Amended, 06/12/2017
+5.MOHW Food No 1131301844 Amended, 11/9/2024
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -42,12 +36,12 @@ Food utensils, containers and packages using disinfectants for commercial steril
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[Maximum tolerance of hazardous materials:
-1.Arsenic: the diluted solution based on the label direction of the product shall not contain more than 0.05 ppm of arsenic (as As2O3).
-2.Heavy metals: the diluted solution based on the label direction of product shall not contain more than 1 ppm of heavy metals (as Pb).
-3.Methanol: Not more than 1 mg/ml.
-4.Nonylphenol and Nonylphenol ethoxylate: Not more than 0.1 % by mass.
-5.Fluorescent brightening agent: Not be detected.
-6.Flavorings and coloring agents to be used in the products shall be compatible with "Standards for Specification, Scope, Application and Limitation of Food Additives".
+1. Arsenic: the diluted solution based on the label direction of the product shall not contain more than 0.05 ppm of arsenic (as As2O3).
+2. Heavy metals: the diluted solution based on the label direction of product shall not contain more than 1 ppm of heavy metals (as Pb).
+3. Methanol: Not more than 1 mg/ml.
+4. Nonylphenol and Nonylphenol ethoxylate: Not more than 0.1 % by mass.
+5. Fluorescent brightening agent: Not be detected.
+6. Flavorings and coloring agents to be used in the products shall be compatible with "Standards for Specification, Scope, Application and Limitation of Food Additives".
 The preceding paragraph applies only to liquid synthetic detergent main ingredients is synthetic surfactant, for dish washer detergent are not included.]]></條文內容>
   </條文>
   <條文>
@@ -56,7 +50,8 @@ The preceding paragraph applies only to liquid synthetic detergent main ingredie
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[The substances which list in Appendix 2 are used to disinfect food, the usage limitations shall be in accordance with the Appendix 2. After using for the compounds listed in the table, it shall be followed by a potable water rinse or by blanching or cooking. The final food shall contain no more than the limitations specified in the Table.]]></條文內容>
+    <條文內容><![CDATA[For the disinfect substances used to clean food, unless the legal food ingredients, the restricted substances, residue limit, usage scope and specifications are subject to the provisions of Appendix 2.
+In order to make the residual concentration in the preceding paragraph compliant with the regulations, if necessary, it may be rinsed with drinking water or otherwise treated appropriately after disinfection.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
