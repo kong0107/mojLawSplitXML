@@ -3,29 +3,39 @@
 <英文法規名稱>Regulations Governing the Assessment of Energy Development and Utilization</英文法規名稱>
 <中文法規名稱>能源開發及使用評估準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0130068</法規網址>
-<最新英文異動日期>20230418</最新英文異動日期>
+<最新英文異動日期>20240627</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
   <檔案>
     <檔案名稱><![CDATA[Table 1 The Best Available Techniques Which Shall Be Applied in Utility Systems and Equipment.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007944</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008642</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Table 2 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Electricity Generation or Cogeneration Systems.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007945</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008643</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Table 3 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Petroleum Refineries and Massive Energy Consumption Users.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007946</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008644</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Table 4 Best Available Techniques for Semiconductor or Panel Industry Process Technology Items.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007947</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008645</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Table 5 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Steel Industry.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008646</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Table 6 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Gas Industry.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008647</下載網址>
   </檔案>
 </附件>
 <沿革內容><![CDATA[1.Promulgated on November 24, 2015
-2.Amended on April 18, 2023]]></沿革內容>
+2.Amended on April 18, 2023
+3.Amended on June 27, 2024
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -41,7 +51,7 @@
 4. Massive energy-consumption users: manufacture listed in the Standard Industrial Classification System of the Republic of China, excluding petroleum refineries listed in Petroleum Administration Act.
 5. Application Period: identified by the planned years of the business operation on the energy utilization manual.
 6. Estimated Percent Reserve Margin: refers to the estimated value of percent reserve margin calculated by the following formula and announced by the central competent authority for each of the following 6 years.
-   Estimated Percent Reserve Margin = (aggregated value of net peaking capability of nationwide power systems) + (aggregated value of net peaking capability of projects which have obtained the preparation approval for electricity enterprise establishment - estimated value of peak load of the electricity systems) / estimated value of peak load of the electricity systems
+Estimated Percent Reserve Margin = (aggregated value of net peaking capability of nationwide power systems) + (aggregated value of net peaking capability of projects which have obtained the preparation approval for electricity enterprise establishment - estimated value of peak load of the electricity systems) / estimated value of peak load of the electricity systems
 7. Baseline Value of Percent Reserve Margin: refers to the value of percent reserve margin submitted by electricity enterprises and approved and announced by the central competent authority in accordance with the Electricity Act.
 8. Letter of Approval for Electricity Consumption Plan: refers to the letter for the approval of applications of electricity consumption plans issued to the electricity enterprises.]]></條文內容>
   </條文>
@@ -80,7 +90,7 @@ The preceding section is not applicable in circumstances of being restricted by 
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[The applied volume category, and location of petroleum refineries or massive energy-  consumption users shall meet the following rules:
+    <條文內容><![CDATA[The applied volume category, and location of petroleum refineries or massive energy- consumption users shall meet the following rules:
 1. Supplying capacity of electricity enterprise listed on the energy utilization manual shall be provided with letter of approval for Electricity Consumption Plan issued by an electricity enterprise and not exceed the approved supplying capacity.
 2. Supplying capacity of self-usage power generation equipment listed on the energy utilization manual shall be provided with supporting evidence to explain there is no concern for blackout in the self-usage power generation equipment.]]></條文內容>
   </條文>
@@ -91,6 +101,8 @@ The preceding section is not applicable in circumstances of being restricted by 
 2. Processing techniques:
 (1) Petroleum refineries or energy users’ processing techniques (as table 3).
 (2) Semi-conductor or panel industrial processing techniques (as table 4).
+(3) Steel industrial processing techniques (as table 5).
+(4) Gas industrial processing techniques (as table 6).
 The preceding section is not applicable in circumstances of being restricted by laws and regulations, patent right protection, international trade barriers, or other factors not attributable to the applicants, given supporting evidence are submitted by the applicants.]]></條文內容>
   </條文>
   <條文>
