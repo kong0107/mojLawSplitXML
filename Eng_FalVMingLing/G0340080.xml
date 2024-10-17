@@ -3,7 +3,7 @@
 <英文法規名稱>Value-added and Non-value-added Business Tax Act</英文法規名稱>
 <中文法規名稱>加值型及非加值型營業稅法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340080</法規網址>
-<最新英文異動日期>20231206</最新英文異動日期>
+<最新英文異動日期>20240807</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -49,10 +49,11 @@
 40. Addendum to Article 32-1 and Amendments to Articles 32, 45-48, 49, and 52 are promulgated via Presidential Decree No. Hua-Tsung-1-Yi 10400151441 on 30 December 2015. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan.(The amendments came into force from 1 January 2016)
 41. Addenda to Articles 2-1, 28-1, and 49-1 and Amendments to Articles 6, 28, 29 to 30-1, 36, 43, 45, and 51 are promulgated via Presidential Decree No. Hua-Tsung-1-Yi 10500161481 on 28 December 2016. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan. (The amendments came into force from 1 May 2017)
 42. Amendments to Articles 50 and 60 were promulgated via Presidential Decree Hua-tzung-Yi No. 10600073251 on June 14, 2017. The effective date of the amendments to the Act shall take force from the day of promulgation.
-43. Amendments to Articles 2-1 and 6 were promulgated via Presidential Decree Hua-Tsung-1-Jing No.11200105801 on December 6, 2023. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan. (The amendments came into force from December 20, 2023.)]]></沿革內容>
+43. Amendments to Articles 2-1 and 6 were promulgated via Presidential Decree Hua-Tsung-1-Jing No.11200105801 on December 6, 2023. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan. (The amendments came into force from December 20, 2023.)
+44. Addendum to Article 48-2 and Amendments to Articles 6-1, 32-1, and 50 were promulgated via Presidential Decree Hua-Tsung-1-Yi No.11300068911 on August 7, 2024. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan. (The amendments came into force from January 1, 2025.)]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
-  <編章節>   Chapter  1  General Provisions</編章節>
+  <編章節>   Chapter 1 General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
     <條文內容><![CDATA[Value-added or non-value-added business tax shall be levied, in accordance with this Act, on the sale of goods or services within the territory of the Republic of China (R.O.C.) and on the import of goods.]]></條文內容>
@@ -122,11 +123,11 @@ Any of the following circumstances is a sale of services within the territory of
   </條文>
   <條文>
     <條號>Article 6-1</條號>
-    <條文內容><![CDATA["Bonded zone" as used in this Act means an export processing zone, a science-based industrial park, an agricultural technology park, or a free trade zone, approved by the government, or a bonded factory, bonded warehouse, or logistics center administered by Customs, or any other specially designated area approved for establishment by the competent authority in charge of the relevant industry and supervised by Customs.
-"Bonded zone business entity" as used in this Act means an enterprise inside an export processing zone, a science-based industrial park, an agricultural technology park, or a free trade zone, such zone or park being approved by the government, and also means a bonded factory, bonded warehouse, or logistics center administered by Customs, or an enterprise inside any other specially designated area approved for establishment by the competent authority in charge of the relevant industry and supervised by Customs.
+    <條文內容><![CDATA["Bonded zone" as used in this Act means a technology industrial park, a science park, an agricultural technology park, or a free trade zone, approved by the government, or a bonded factory, bonded warehouse, or logistics center administered by Customs, or any other specially designated area approved for establishment by the competent authority in charge of the relevant industry and supervised by Customs.
+"Bonded zone business entity" as used in this Act means an enterprise inside a technology industrial park, a science park, an agricultural technology park, or a free trade zone, such zone or park being approved by the government. It also means a bonded factory, bonded warehouse, or logistics center administered by Customs, or an enterprise inside any other specially designated area approved for establishment by the competent authority in charge of the relevant industry and supervised by Customs.
 "Taxable zone business entity" as used in this Act means a business entity other than a bonded zone business entity.]]></條文內容>
   </條文>
-  <編章節>   Chapter  2  Scope of Reduction and Exemption</編章節>
+  <編章節>   Chapter 2 Scope of Reduction and Exemption</編章節>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[The business tax rate is zero for sale of the following goods or services:
@@ -208,7 +209,7 @@ The proceeds from goods sold in auctions or charity sales, and from benefit perf
     <條文內容><![CDATA[In the case of dealing with an extraordinary economic situation, or a situation to accommodate the supply of goods, the Executive Yuan may make an adjustment in business tax on imported wheat, barley, corn and soy beans and the restriction of Article 10 does not apply.
 The categories of goods subject to adjustment of business tax referred to in the preceding paragraph, the range of actual adjustment, and the dates for commencing and terminating such adjustment shall be drawn up jointly by the Ministry of Finance and the related authorities, and be submitted to the Executive Yuan for approval.]]></條文內容>
   </條文>
-  <編章節>   Chapter  3  Tax Rates</編章節>
+  <編章節>   Chapter 3 Tax Rates</編章節>
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[Except as otherwise prescribed by this Act, the business tax rate shall be no less than 5% and no more than 10%. The applicable collection rate shall be determined by the Executive Yuan.]]></條文內容>
@@ -233,8 +234,8 @@ During the period while the business tax revenues are appropriated to the Financ
 For consignees of the agricultural wholesale markets and small business entities which sell agricultural products, the business tax rate is 0.1%.
 The definition of small business entities provided in the preceding paragraphs shall be the business entities, excluding those prescribed in Article 11 and 12, whose monthly average sales amount is below the criteria prescribed by the Ministry of Finance in which case the business tax amount shall be determined and assessed by the tax authority.]]></條文內容>
   </條文>
-  <編章節>   Chapter  4  Calculation of Tax Computation</編章節>
-  <編章節>      Section  1  General Tax Computation</編章節>
+  <編章節>   Chapter 4 Calculation of Tax Computation</編章節>
+  <編章節>      Section 1 General Tax Computation</編章節>
   <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[Except as otherwise prescribed in Section 2 of this Chapter, business entities shall calculate the output tax based on all sales amounts of goods and services, in accordance with the tax rates prescribed in Article 7 or 10 and round to the nearest New Taiwan Dollar.
@@ -249,12 +250,10 @@ The input tax is defined as the business tax paid by a business entity in accord
   <條文>
     <條號>Article 15-1</條號>
     <條文內容><![CDATA[If a business entity sells its used passenger car or motorcycle purchased from a person who is not required to file a tax computation under this Section, such business entity may calculate the input tax by the following formula:
-
-            Purchased cost of the used
-            passenger car or motorcycle
-Input tax =  －－－－－－－－－－－－－  × Applicable collection rate
-            1 + applicable collection rate
-
+Purchased cost of the used
+passenger car or motorcycle
+Input tax = －－－－－－－－－－－－－ × Applicable collection rate
+1 + applicable collection rate
 The business entity shall report the input tax as referred to in the preceding paragraph in order to deduct it from the output tax of the used passenger car or motorcycle in the same period in which it reports the sales amount of such passenger car or motorcycle. However, if the input tax of the used passenger car or motorcycle is higher than output tax of the aforesaid vehicle, the excess portion shall not be deducted.
 When the business entity files the input tax as referred to in the first paragraph above, it shall provide relevant documents concerning the purchase of the aforesaid used passenger car or motorcycle.
 The preceding paragraphs shall be applicable to cases not currently being assessed or pending final decision at the effective date of this amended Article.]]></條文內容>
@@ -293,7 +292,7 @@ When a business entity is prohibited from deducting a certain part of the input 
     <條文內容><![CDATA[The business tax on imported goods shall be calculated based on the total amount of the duty-paid value and import tariffs and at the tax rate provided in Article 10.
 If the above-mentioned goods are subject to the commodity tax, the tobacco and alcohol tax, or the health and welfare surcharge on tobacco, the business tax shall be calculated based on the total amount prescribed in the preceding paragraph plus the commodity tax, the tobacco and alcohol tax, or the health and welfare surcharge on tobacco.]]></條文內容>
   </條文>
-  <編章節>      Section  2  Special Tax Computation</編章節>
+  <編章節>      Section 2 Special Tax Computation</編章節>
   <條文>
     <條號>Article 21</條號>
     <條文內容><![CDATA[Enterprises engaged in banking, insurance, investment trust, securities, futures, commercial paper and pawnshops shall calculate their business tax based on their sales amount at the tax rate provided in Article 11. However, the business tax for pawnshops may be calculated by the competent authority upon the assessed sales amount.]]></條文內容>
@@ -325,8 +324,8 @@ If, as provided in the preceding paragraph, 10% of input tax exceeds the assesse
     <條號>Article 27</條號>
     <條文內容><![CDATA[Section 1 of this Chapter, with the exception of Article 14, paragraph 1 of Article 15, and the proviso to paragraph 1 of Article 16, applies mutatis mutandis to the tax computation by a business entity under this Section.]]></條文內容>
   </條文>
-  <編章節>   Chapter  5  Collection Procedures</編章節>
-  <編章節>      Section  1  Registration of Tax Payer</編章節>
+  <編章節>   Chapter 5 Collection Procedures</編章節>
+  <編章節>      Section 1 Registration of Tax Payer</編章節>
   <條文>
     <條號>Article 28</條號>
     <條文內容><![CDATA[The head office of a business entity and its branches with fixed places of business shall each file an application for taxation registration separately with the competent tax authority before commencement of business.]]></條文內容>
@@ -354,7 +353,7 @@ An application by a business entity under the preceding paragraph, for modificat
     <條號>Article 31</條號>
     <條文內容><![CDATA[Prior to the temporary suspension of business or a resumption of business after the suspension, the business entity shall file for approval and recordation with the competent tax authority for such event.]]></條文內容>
   </條文>
-  <編章節>      Section  2  Books and Documentary Evidence</編章節>
+  <編章節>      Section 2 Books and Documentary Evidence</編章節>
   <條文>
     <條號>Article 32</條號>
     <條文內容><![CDATA[Business entities selling goods or services shall issue uniform invoices to the purchaser at the time stipulated in "The Table of the Time Limits for Issuing Documentary Evidence of Sales" in this Act. Business entities of a special nature or small business entities may be exempted from issuing uniform invoices, and may, instead, issue ordinary receipts.
@@ -365,25 +364,26 @@ The competent tax authority may approve a business entity to use a cash register
   </條文>
   <條文>
     <條號>Article 32-1</條號>
-    <條文內容><![CDATA[When Business entities sell goods or services and issues and transmits electronic uniform invoices under Paragraphs 4 of the preceding article, they shall upload the information of uniform invoices to the E-Invoice Platform of the Ministry of Finance; with respect to purchasers requesting uniform invoices by carriers which are approved by the competent tax authority, business entities shall upload the information of uniform invoices with the identification codes of carriers.
-The carriers in the preceding paragraph denote the numbers used to record or connect the information of E-Invoice as follows：
-1.National ID card numbers, the Citizen Digital Certificate numbers, phone numbers, and membership numbers of business entities or their partner institutions.
-2.The payment instruments numbers of credit card, ATM card, electronic stored value card, and electronic payment account and so on, used by purchasers when trading.
-3.Other numbers used to record or connect the information of E-Invoice.
-The identification codes of carriers in Paragraph 1 denote the numbers used by the E-Invoice Platform of the Ministry of Finance to recognize the category of the carriers and the carriers in the preceding paragraph.]]></條文內容>
+    <條文內容><![CDATA[When business entities sell goods or services and issue and transmit electronic uniform invoices under Paragraph 4 of the preceding article, they shall transmit the issued electronic uniform invoices and the required relevant information to the E-Invoice Platform of the MOF within the prescribed time limit. With respect to purchasers requesting electronic uniform invoices by carriers which are approved by the competent tax authority, business entities shall upload the information of uniform invoices with the identification codes of carriers.
+The carriers in the preceding paragraph denote the numbers used to record or connect the information of electronic uniform invoices as follows:
+1. National ID card numbers, the Citizen Digital Certificate numbers, phone numbers, and membership numbers of business entities or their partner institutions.
+2. The payment instrument numbers of credit cards, ATM cards, stored value cards, electronic payment accounts, and so on, used by purchasers when trading.
+3. Other numbers used to record or connect the information of an electronic uniform invoice.
+The identification codes of carriers in Paragraph 1 denote the numbers used by the E-Invoice Platform of the MOF to recognize the category of the carriers and the carriers in the preceding paragraph.
+The transmission time limit, issuance of electronic uniform invoices, and the range of the required relevant information referred to in Paragraph 1 above shall be announced by the MOF.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 33</條號>
-    <條文內容><![CDATA[A business entity which deducts input tax from output tax shall maintain the following documentary evidence with its name, address, and business administration number on such documents. 
-1. Uniform invoices specifying business tax paid on purchases of goods and services. 
-2. Uniform invoices specifying the amount of business tax issued by the business entity itself under the circumstances deemed as sales of goods or services as prescribed in paragraph 3 or paragraph 4 of Article 3. 
+    <條文內容><![CDATA[A business entity which deducts input tax from output tax shall maintain the following documentary evidence with its name, address, and business administration number on such documents.
+1. Uniform invoices specifying business tax paid on purchases of goods and services.
+2. Uniform invoices specifying the amount of business tax issued by the business entity itself under the circumstances deemed as sales of goods or services as prescribed in paragraph 3 or paragraph 4 of Article 3.
 3. Other documentary evidence specifying the amount of business tax and approved by the Ministry of Finance.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 34</條號>
     <條文內容><![CDATA[The Ministry of Finance shall promulgate regulations governing the books of account and documentary evidence.]]></條文內容>
   </條文>
-  <編章節>      Section  3  Tax Return &amp; Payment</編章節>
+  <編章節>      Section 3 Tax Return &amp; Payment</編章節>
   <條文>
     <條號>Article 35</條號>
     <條文內容><![CDATA[Except as otherwise prescribed by this Act, a business entity, whether or not it has sales, shall file a bimonthly tax return on a prescribed form for its sales amount and tax payable or overpaid of the preceding two months together with tax deduction and other appropriate documents with the competent tax authority prior to the fifteenth day of the following period. The business tax payable, if any, shall be paid to the government treasury in advance. The receipt for tax paid shall be enclosed with the tax return.
@@ -452,13 +452,13 @@ With respect to cases required to be assessed by the competent tax authority und
 6. Where uniform invoices have not been used, although it is required by regulation.
 Where the sales amount reported by the business entity is found to be abnormal, the competent tax authority may, by referring to the circumstances of similar business and other related information, determine the sales amount or tax payable and levy the delinquent tax.]]></條文內容>
   </條文>
-  <編章節>      Section  4  Inspection</編章節>
+  <編章節>      Section 4 Inspection</編章節>
   <條文>
     <條號>Article 44</條號>
     <條文內容><![CDATA[In the course of investigation performed by an inspector appointed by the Ministry of Finance, if a business entity is suspected of failing to issue uniform invoices when required to, the inspector shall record the violation at that locality, with specifications of name of the business entity, time, location, transacted item, and sales amount and refer the case to the competent tax authority so as to transmit the case to the court for imposition of penalty.
 The records referred to in the preceding paragraph shall be signed by the business entity or the purchaser or the chop (seal) thereof shall be affixed thereto. In the case that both of them refuse to sign or affix their chop (seal), the inspector shall record such factual events.]]></條文內容>
   </條文>
-  <編章節>   Chapter  6  Penalty Provisions</編章節>
+  <編章節>   Chapter 6 Penalty Provisions</編章節>
   <條文>
     <條號>Article 45</條號>
     <條文內容><![CDATA[A business entity failing to apply for taxation registration in accordance with the prescribed provision, in addition to being ordered to comply with the requirements within a specified time limit, may be punished with an administrative fine of no less than NT$3,000 and no more than NT$30,000. In case of a failure in compliance with the requirements within the specified time limit, the business entity may be punished consecutively for each violation according to the relevant laws and regulations.]]></條文內容>
@@ -486,6 +486,10 @@ In case the aforementioned unrecorded or false recorded item on the uniform invo
     <條文內容><![CDATA[In the event that a business entity fails to include the business tax in the list price that it sets for taxable goods or services under Article 32, paragraph 2, and is notified to make corrections within a specified time limit but fails to do so, it shall be fined an administrative fine of no less than NT$1,500 and no more than NT$15,000.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 48-2</條號>
+    <條文內容><![CDATA[In the event that a business entity issuing and transmitting electronic uniform invoices via the internet or by other electronic means fails to transmit the electronic uniform invoices and the required relevant information, and the identification codes of carriers of the purchasers to the E-Invoice Platform of the MOF within the prescribed time limit, under Paragraph 1, Article 32-1, or fails to transmit the correct information, the business entity, in addition to being notified to make corrections or to comply with the requirements within a specified time limit, may be fined no less than NT$1,500 and no more than NT$15,000. Failure to make corrections or to comply with the requirements within the specified time limit may result in continuous punishment for each violation.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 49</條號>
     <條文內容><![CDATA[In the event that a business entity fails to file the sales amount or a detailed list of uniform invoices used within the time limit as prescribed by in this Act, the business entity shall be liable to a surcharge for belated filing. The surcharge shall be equivalent to 1% of the tax payable for every two days overdue, provided that the filing is less than 30 days past due. The administrative fine shall not be less than NT$1,200 or more than NT$12,000. If the filing is in excess of 30 days past due, the business entity shall be liable to a non-filing surcharge equivalent to 30% of the tax payable, as determined by the competent tax authority. The amount of this surcharge shall not be less than NT$3,000 or more than NT$30,000. Where there is no tax payable, the surcharge for belated filing or non-filing shall be NT$1,200 and NT$3,000 respectively.]]></條文內容>
   </條文>
@@ -495,8 +499,8 @@ In case the aforementioned unrecorded or false recorded item on the uniform invo
   </條文>
   <條文>
     <條號>Article 50</條號>
-    <條文內容><![CDATA[A taxpayer, failing to pay any tax within the specified time limit, shall be subject to a 1% surcharge on late payment for every two days in arrears, starting from the day immediately following the date the time limit expires. If the payment is not met thirty days after the time limit, the competent tax authority may, in addition to referring the case to the court for compulsory execution, suspend its business. However, a taxpayer who is unable to pay off the tax within the statutory period due to events that are force majeure or causes not attributable to the taxpayer, and has applied for the deferral of the tax payment or for payment by installments within ten days after the cause of the foresaid events along with concrete evidence and has been approved by the collection authorities, shall be exempted from the surcharge for delinquent payment.
-Interest on the aforesaid tax due calculated at the interest rate for one-year term deposit quoted by the Postal savings fund shall accrue daily from the next day following the prescribed payment deadline to the date of full payment by the taxpayer.]]></條文內容>
+    <條文內容><![CDATA[A taxpayer, failing to pay any tax within the specified time limit, shall be subject to surcharge on belated payment. If the payment is not met thirty days after the time limit, the competent tax authority may, in addition to referring the case to the court for compulsory execution, suspend its business.
+Interest on the aforesaid tax due calculated at the fixed interest rate on January 1 of each year for a one-year time deposit of postal savings, shall accrue daily from the next day following the prescribed payment deadline to the date of full payment by the taxpayer.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 51</條號>
@@ -532,7 +536,7 @@ The penalty referred to in the preceding paragraph shall be enforced with the as
     <條號>Article 55</條號>
     <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
-  <編章節>   Chapter  7  Supplementary Provisions</編章節>
+  <編章節>   Chapter 7 Supplementary Provisions</編章節>
   <條文>
     <條號>Article 56</條號>
     <條文內容><![CDATA[(Deleted)]]></條文內容>
