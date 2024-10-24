@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Offshore Insurance Branches</英文法規名稱>
 <中文法規名稱>國際保險業務分公司管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390091</法規網址>
-<最新英文異動日期>20170818</最新英文異動日期>
+<最新英文異動日期>20240710</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -13,7 +13,8 @@
   </檔案>
 </附件>
 <沿革內容><![CDATA[1.Promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao- Zong-Zi-1040021857 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1040021857 dated May 25, 2015.
-2.Amendment to Article 17, addition of Article 16-1~16-3, promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao- Zong-Zi-10602562991 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1060032701 dated August 18, 2017.]]></沿革內容>
+2.Amendment to Article 17, addition of Article 16-1~16-3, promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao- Zong-Zi-10602562991 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1060032701 dated August 18, 2017.
+3.Amendment to Article 7, 8, 10, 16-1, 17 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao- Zong-Zi-11304560001 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1130022541 dated July 10, 2024; The regulations shall become effective on the date of promulgation except for Article 10 which shall become effective from January 1, 2026.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -53,13 +54,13 @@ The format, content, and filing method of the reports to be filed pursuant to Pa
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[The offshore insurance branch of a domestic insurance enterprise shall be included in its head office's calculations of networth and ratio of adjusted net capital to risk-based capital, whereas the offshore insurance branch of a foreign insurance enterprise shall be included in the foreign insurance enterprise's calculations of networth and ratio of adjusted net capital to risk-based capital of all of its branches inside the ROC. Such ratios shall not be below 200% and shall conform to the Regulations Governing Capital Adequacy of Insurance Companies and relevant rules.
-The networth of an offshore insurance branch as shown on its CPA-audited and certified financial report shall be at least US$1 million.
-When the ratio of adjusted net capital to risk-based capital of an insurance enterprise falls below 200% or the networth of its offshore insurance branch as shown on the CPA-audited and certified financial report is below US$1 million, the FSC may order it to remedy the situation within a prescribed time period or increase the allocated working capital of the offshore insurance branch. If the insurance enterprise fails to remedy the situation or increase the allocated working capital by the deadline, the FSC may suspend all or part of its offshore insurance branch's business. The suspended business may be reinstated only after the insurance enterprise's remedial action has been recognized by the FSC, and the insurance enterprise has stayed compliant with the requirements for one year consecutively after the FSC recognition, and has reported to the FSC for approval. If the insurance enterprise did not take the remedial action or increase the allocated working capital one year past the prescribed deadline, the FSC may void the business license of its offshore insurance branch and notify the CBC.]]></條文內容>
+    <條文內容><![CDATA[The offshore insurance branch of a domestic insurance enterprise shall be included in its head office's calculation of net worth and classification of capital category of an insurance enterprise, whereas the offshore insurance branch of a foreign insurance enterprise shall be included in the foreign insurance enterprise's calculation of net worth and classification of capital category of all of its branches inside the ROC. Such capital category must meet adequate capital specified in subparagraph 1, paragraph 2, Article 143-4 of the Insurance Act and shall conform to the Regulations Governing Capital Adequacy of Insurance Companies and relevant rules.
+The net worth of an offshore insurance branch as shown on its CPA-audited and certified financial report shall be at least US$1 million.
+When the capital category of an insurance enterprise fails to meet adequate capital specified in subparagraph 1, paragraph 2, Article 143-4 of the Insurance Act or the net worth of its offshore insurance branch as shown on the CPA-audited and certified financial report is below US$1 million, the FSC may order it to remedy the situation within a prescribed time period or increase the allocated working capital of the offshore insurance branch. If the insurance enterprise fails to remedy the situation or increase the allocated working capital by the deadline, the FSC may suspend all or part of its offshore insurance branch's business. The suspended business may be reinstated only after the insurance enterprise's remedial action has been recognized by the FSC, and the insurance enterprise has stayed compliant with the requirements for one year consecutively after the FSC recognition, and has reported to the FSC for approval. If the insurance enterprise did not take the remedial action or increase the allocated working capital one year past the prescribed deadline, the FSC may revoke the business license of its offshore insurance branch and notify the CBC.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[A managerial officer of an offshore insurance branch must meet the qualification requirements set out in Articles 3, 5 and 6 of the Regulations Governing Required Qualifications for Responsible Persons of Insurance Enterprises. However, a person serving in that capacity pursuant to Subparagraph 4, Article 5 of the same Regulations shall possess professional knowledge in the field of international insurance or experience in foreign exchange business.]]></條文內容>
+    <條文內容><![CDATA[A managerial officer of an offshore insurance branch must meet the qualification requirements set out in Articles 3, 8-1, and 9 of the Regulations Governing Qualification Requirement and Concurrent Serving Restrictions and Matters for Compliance by the Responsible Persons of Insurance Enterprises. However, a person serving in that capacity pursuant to subparagraphs4 and 5, paragraph 1, Article 8-1 of the same Regulations shall possess professional knowledge in the field of international insurance or experience in foreign exchange business.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
@@ -74,8 +75,8 @@ Subparagraphs 1 and 3 of Paragraph 1 hereof and the preceding paragraph do not a
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[An offshore insurance branch shall set aside various reserves for its offshore insurance business in accordance with Subparagraph 1, Paragraph 1 of the preceding article, the Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, the Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises and relevant rules.
-An offshore insurance branch shall include the adequacy testing for various reserves mentioned in the preceding paragraph and other certified actuarial items designated by the FSC in the actuarial report prepared by the head office for domestic insurance enterprises or by the branch in Taiwan for foreign insurance enterprises in accordance with the Regulations Governing Appointed Actuaries of Insurance Companies and the external actuarial review report.]]></條文內容>
+    <條文內容><![CDATA[An offshore insurance branch shall set aside various reserves for its offshore insurance business in accordance with subparagraph 1, paragraph 1 of the preceding article, the Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, the Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises and relevant rules.
+An offshore insurance branch shall include the certified actuarial items designated by the FSC in the actuarial report prepared by the head office for domestic insurance enterprises or by the branch in Taiwan for foreign insurance enterprises in accordance with the Regulations Governing Appointed Actuaries of Insurance Companies and the external actuarial review report.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -115,10 +116,7 @@ Article 9 herein does not apply to an offshore insurance branch that engages exc
   </條文>
   <條文>
     <條號>Article 16-1</條號>
-    <條文內容><![CDATA[An offshore insurance branch shall rigorously undertake customer due diligence (CDD) process in accordance with the Money Laundering Control Act, Terrorism Financing Prevention Act, documents, data or information that must be obtained or verified as required by the competent authority (see Attachment), template of the “Guidelines Governing Anti-Money Laundering and Combatting the Financing of Terrorism by the Insurance Enterprise” set out by the Non-Life Insurance Association of the Republic of China or the Life Insurance Association of the Republic of China, and include related compliance matters in their internal control and internal audit system.
-An offshore insurance branch shall, before December 31, 2017, re-perform CDD and review the level of risk on existing customers prior to the implementation of these amended Rules promulgated on August 18, 2017. However, an offshore insurance branch shall re-perform CDD immediately in the event of the following situations:
-1. The offshore insurance branch has doubts about the veracity of customer information, such as there is a suspicion of money laundering in relation to that customer, or there is a material change in the way that the customer’s account is operated which is not consistent with the customer’s business profile; or
-2. It is time for periodic update of customer identity information.]]></條文內容>
+    <條文內容><![CDATA[An offshore insurance branch shall rigorously undertake customer due diligence (CDD) process in accordance with the Money Laundering Control Act, Terrorism Financing Prevention Act, documents, data or information that must be obtained or verified as required by the competent authority (see Attachment), template of the "Guidelines Governing Anti-Money Laundering and Combatting the Financing of Terrorism by the Insurance Enterprise" set out by the Non-Life Insurance Association of the Republic of China or the Life Insurance Association of the Republic of China, and include related compliance matters in their internal control and internal audit system.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16-2</條號>
@@ -143,7 +141,7 @@ An offshore insurance branch should establish a concrete and viable internal con
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[These Rules shall become effective as of the date of promulgation, except that Paragraph 1 of Article 16-1, Article 16-2 and Article 16-3 amended and promulgated on August 18th, 2017 will become effective on January 1st, 2018.]]></條文內容>
+    <條文內容><![CDATA[These Rules shall become effective as of the date of promulgation, except that paragraph 1 of Article 16-1, Article 16-2, and Article 16-3 amended and promulgated on August 18, 2017 will come into force on January 1, 2018, and Article 10 amended and promulgated on July 10, 2024 will come into force on January 1, 2026.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
