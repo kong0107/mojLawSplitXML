@@ -3,7 +3,7 @@
 <英文法規名稱>Criminal Code of the Republic of China</英文法規名稱>
 <中文法規名稱>中華民國刑法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=C0000001</法規網址>
-<最新英文異動日期>20231227</最新英文異動日期>
+<最新英文異動日期>20240731</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -61,7 +61,9 @@
 49.Amendment to Article 87、98 promulgated on February 18, 2022
 50.Amendment to Articles 10,91-1 ; addition of Articles 319-1,319-2, 319-3,319-4,319-5,319-6 and Chapter 28-1 promulgated on February 8,2023
 51.Amendment to Articles 303,339-4 ; addition of Articles 302-1 promulgated on May 31, 2023
-52.Amendment to Article 185-3 promulgated on December 27, 2023]]></沿革內容>
+52.Amendment to Article 185-3 promulgated on December 27, 2023
+53.Addition of Articles 141-1 and Chapter 5-1 promulgated on June 24,2024
+54.Amendment to Articles 286 promulgated on July 31,2024]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>Part 1 General Provisions</編章節>
@@ -966,6 +968,11 @@ The same shall apply to a person who acts in violation of an order with the effe
     <條號>Article 141</條號>
     <條文內容><![CDATA[A person, who with purpose to insult a public official, damages, removes, or disfigures a proclamation posted in a public place shall be sentenced to short-term imprisonment or a fine of not more than sixty thousand New Taiwan Dollars.]]></條文內容>
   </條文>
+  <編章節>   Chapter 5-1 Offence of Contempt of Congress</編章節>
+  <條文>
+    <條號>Article 141-1</條號>
+    <條文內容><![CDATA[A civil servant who makes false statements on an important matter of relevance known to him at a hearing or questioned in the Legislative Yuan shall be sentenced to imprisonment of not more than one year, short-term detention or a fine of not more than two hundred thousand NT dollars.]]></條文內容>
+  </條文>
   <編章節>   Chapter 6 Offenses of Interference with Voting</編章節>
   <條文>
     <條號>Article 142</條號>
@@ -1815,10 +1822,11 @@ A person who abets or aids another person in causing physical injury to himself 
   </條文>
   <條文>
     <條號>Article 286</條號>
-    <條文內容><![CDATA[A person who maltreats a minor under the age of eighteen or impairs the mental or physical health or development thereof by other means shall be sentenced to imprisonment for not less than six months but not more than five years.
-A person who intends to make a profit by committing an offense specified in the preceding paragraph shall be sentenced to imprisonment for not less than five years; in addition thereto, a fine of not more than three million dollars may be imposed.
-A person who commits the offense specified in paragraph 1 that results in the death of another shall be sentenced to life imprisonment or imprisonment for not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than five years but not more than twelve years.
-A person who commits the offense specified in paragraph 2 that results in the death of another shall be sentenced to life imprisonment or imprisonment for not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than ten years.]]></條文內容>
+    <條文內容><![CDATA[A person who maltreats a minor under the age of eighteen or impairs the mental or physical health or development thereof by other means shall be sentenced to imprisonment of not less than six months but not more than five years.
+A person who intends to make a profit by committing an offense specified in the preceding paragraph shall be sentenced to imprisonment of not less than five years; in addition thereto, a fine of not more than three million NT dollars may be imposed.
+A person who commits the offense specified in paragraph 1 that results in the death of another shall be sentenced to life imprisonment or imprisonment of not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment of not less than five years but not more than twelve years.
+A person who commits the offense specified in paragraph 2 that results in the death of another shall be sentenced to life imprisonment or imprisonment of not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment of not less than ten years.
+A person who commits an offense specified in the preceding four paragraphs against a person under the age of seven, shall be subject to punishment prescribed for such offense by increasing it up to one half.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 287</條號>
