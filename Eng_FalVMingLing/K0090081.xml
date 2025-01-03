@@ -1,0 +1,212 @@
+<法規>
+<法規性質>命令</法規性質>
+<英文法規名稱>Regulations Governing the Certification and Management of Flight Simulation Training Devices</英文法規名稱>
+<中文法規名稱>飛航模擬訓練設備檢定管理規則</中文法規名稱>
+<法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090081</法規網址>
+<最新英文異動日期>20240910</最新英文異動日期>
+<廢止註記>
+</廢止註記>
+<附件>
+  <檔案>
+    <檔案名稱><![CDATA[Attachment 1 Validation Certification Procedure for Flight Simulation Training Device Qualifications.odt]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008821</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Attachment 2 Qualification Performance Standards Requirements for Airplane Full Flight Simulators.odt]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008822</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Attachment 3 Qualification Performance Standards Requirements for Airplane Flight Training Devices.odt]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008823</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Attachment 4 Qualification Performance Standards Requirements for Helicopter Full Flight Simulators.odt]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008824</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Attachment 5 Qualification Performance Standards Requirements for Helicopter Full Flight Simulators.ODT]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008825</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Attachment 6 Implementation Structures for Quality Management System for Full Flight Simulators.odt]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008826</下載網址>
+  </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Attachment 7 Fees for Certification and Validation Certification of Flight Simulation Training Device Qualifications.ODT]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008827</下載網址>
+  </檔案>
+</附件>
+<沿革內容><![CDATA[1.Re-edited all articles promulgated on December 2, 2015.
+2.Amendment to attachment 7 of Articles 24 promulgated on September 10, 2024.]]></沿革內容>
+<前言><![CDATA[]]></前言>
+<法規內容>
+  <條文>
+    <條號>Article 1</條號>
+    <條文內容><![CDATA[This regulation is established in accordance with Paragraph 3 of Article 27-1 of the Civil Aviation Act.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 2</條號>
+    <條文內容><![CDATA[Definitions:
+1. Flight Simulation Training Device (FSTD) —a full flight simulator (FFS), a flight training device (FTD), or a Personal Computer-Based Aviation Training Device (PCATD).
+2. Full Flight Simulator (FFS)—a same-size replica of a genuine airplane’s or helicopter’s cockpit. It includes the equipment and computer programs necessary to represent aircraft operations in ground and flight conditions, a visual system providing an out-of-the-flight deck view, a system that provides cues at least equivalent to those of a three-degree-of-freedom motion system, and has the full range of actual flight simulation capabilities of the equivalent motions and forces.
+3. Flight Training Device (FTD)—a replica of aircraft instruments, equipment, panels, and controls in an open flight deck area or an enclosed aircraft flight deck replica. It includes the equipment and computer programs necessary to represent aircraft operations in ground and flight conditions.
+4. Personal Computer-Based Aviation Training Device (PCATD)-a simplified Aviation Training Device Based on Personal Computers to assist to fulfill instrument flight trainings.
+5. Subjective Test—a comparative assessment using a subjective and qualitative method to evaluate the fidelity level of flight operation of the FSTD.
+6. Objective Test—a comparative assessment using an objective and a quantitative method based on comparison between the data of flight simulation system performance and established standards.
+7. FSTD Sponsor —means an FSTD owner, operator, or approved personnel to manage the associated FSTD in accordance with this regulation.
+8. Maintenance Management Representative (MR): The person designated by the FSTD Sponsor to fulfill the responsibility of FSTD maintenance service, Quality Management System (QMS), and in charge of the coordination and communication with the Civil Aviation Administration, Ministry of Transportation and Communications (hereinafter referred to as “CAA”).
+9. Qualification test guide (QTG)— the primary reference document used for evaluating an FSTD. It contains test results, statements of compliance, simulated aircraft type and other required information to evaluate if the FSTD meets the test criteria.
+10. Master qualification test guide (MQTG)—means upon issuance of the FSTD certificate of qualification, the approved QTG becomes the MQTG.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 3</條號>
+    <條文內容><![CDATA[The certification of the FSTD’s qualifications are as follows:
+1. Initial Qualification: an evaluation conducted to verify the FSTD meets qualification performance standards (QPS) for applicable FSTD level.
+2. Upgrade Qualification: an evaluation conducted to verify the FSTD meets the qualification performance standards (QPS) of the higher FSTD level being applied for.
+3. Continuing Qualification: an evaluation conducted to verify the initial or upgrade FSTD continues to maintain its qualified performance of the applicable FSTD level.
+4. Supplemental Qualification: a special evaluation conducted to verify the modification of the FSTD meets the applicable QPS to increase the subject area of aircraft pilot training, checking or examination.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 4</條號>
+    <條文內容><![CDATA[The FSTD Sponsor shall submit an application form, and the required documents as follows to CAA for the initial qualification, upgrade qualification or supplemental qualification. The FSTD may only be used for airmen training, checking, or licensing after having successfully passed the required qualification evaluation and being issued the qualification certificate. If other legal provisions are established under treaties or agreements, those provisions prevail.
+1. Explanatory documents stating that the FSTD has complied with Article 10 to 18 herein.
+2. A QTG.
+3. A Statement of Compliance (SOC) regarding applicable performance which shall be signed by aircraft pilots who have been approved or accepted by CAA.
+4. Specifications of the training device.
+5. A task plan to conduct the Functions and Subjective tests.
+6. A list for the Certification Schedule of Events.
+After the FSTD has successfully passed the qualification evaluation prescribed in the previous paragraph, the approved QTG becomes the qualification basis for the continuing qualification.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 5</條號>
+    <條文內容><![CDATA[The certification tasks for the FSTD qualification are as follows:
+1. Functions and Subjective tests.
+2. Objective tests.
+3. Additional requirement for test flight(fly-out).
+4. Operation control procedure.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 6</條號>
+    <條文內容><![CDATA[If aircraft owners, operators, or airmen training organizations intend to use the FSTDs abroad or PCATDs installed domestically, such FSTDs’ qualification certificates issued by foreign civil aviation authorities shall be those accepted by CAA, and shall apply for the validation certificate in accordance with the process prescribed in Attachment 1. After the FSTDs have successfully passed the qualification evaluation, validation certificates will be issued.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 7</條號>
+    <條文內容><![CDATA[The Sponsor shall exhibit certificates or validation certificates at a conspicuous place near the FSTDs.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 8</條號>
+    <條文內容><![CDATA[The valid period of Certificates or Validation certificates are as follows:
+1. FFS: 1 year.
+2. FTD: 1 year.
+3. PCATD: 5 years.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 9</條號>
+    <條文內容><![CDATA[Sponsors shall submit letters for FSTD continuing qualification with required application forms thirty (30) days before certificates or validation certificates expire; after the FSTD has successfully passed the qualification evaluation, a renewal of certificate or validation certificate will be issued. If an application for the certificate renewal is not submitted thirty (30) days before the expiration date, the request for FSTD certification or validation certification shall be applied for as the initial qualification requirements prescribed in Article 4.
+In the event that a certificate or validation certificate has expired or is revoked, such certificate shall be surrendered to CAA by the sponsor within thirty (30) days; If such certificate has not been surrendered to CAA within thirty (30) days, a public notice of certificate revocation will be issued by CAA instead.
+In the event that a certificate or validation certificate is lost or damaged, the request for a replacement shall be submitted to CAA with a statement of actual reasons, or with the original certificate or validation certificate.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 10</條號>
+    <條文內容><![CDATA[Full flight simulators are classified by qualification performance as four levels, level A, level B, level C, and level D.
+Flight training devices are classified by qualification performance as four levels, level 4, level 5, level 6, and level 7.
+The FFSs and FTDs shall comply with the qualification performance as follows:
+1. Airplane FFSs shall comply with the requirements prescribed in Attachment 2.
+2. Airplane FTDs shall comply with the requirements prescribed in Attachment 3.
+3. Helicopter FFSs shall comply with the requirements prescribed in Attachment 4.
+4. Helicopter FTDs shall comply with the requirements prescribed in Attachment]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 11</條號>
+    <條文內容><![CDATA[FFSs and FTDs shall meet functional requirements as follows:
+1. Simulation responses of vertical and horizontal direction.
+2. Simulation of functions regarding takeoff, climb, cruise, approach, and landing phases.
+3. Functions of control systems.
+4. Functions of aircraft cockpit.
+5. Functions of Instructor Operating System (IOS).
+6. Other functions required by applicable level of qualification.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 12</條號>
+    <條文內容><![CDATA[Sponsors of FFS shall establish a quality management system (QMS) in accordance with Attachment 6, and report to CAA for acceptance.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 13</條號>
+    <條文內容><![CDATA[After the FSTD has successfully passed the qualification evaluation and has been issued a qualification certificate, the sponsor shall conduct quarterly scheduled inspections, the results of inspection shall comply with the MQTG, and shall be submitted to CAA for acceptance.
+Each quarterly inspection prescribed in the previous paragraph shall fulfill one-fourth of all inspection items.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 14</條號>
+    <條文內容><![CDATA[A FSTD preflight functional check shall be performed daily before its use by MR and shall be recorded. Notwithstanding the FSTD has not been used for a period of seven consecutive days, the preflight functional check shall still be performed.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 15</條號>
+    <條文內容><![CDATA[When there is a FSTD’s missing, malfunctioning, or inoperative (MMI) component that is discovered by training or maintenance personnels using the FSTD, such MMI shall be recorded on paper or by electronic method.
+A list of MMI prescribed in the previous paragraph shall be readily available in or adjacent to the FSTD for ease of review by users of such device.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 16</條號>
+    <條文內容><![CDATA[When there is a FSTD MMI component, it shall be clearly placarded at its related FSTD location, a location next to the MMI, or on the control device, and shall be repaired or replaced within 30 days. During the maintenance downtime of such MMI, the FSTD shall not be used for the associated training, checking and examination.
+When the MMI component prescribed in the previous paragraph cannot be repaired or replaced within 30 days, a letter regarding the extension to the time limit shall be submitted to CAA for approval.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 17</條號>
+    <條文內容><![CDATA[The sponsors shall maintain the following documents for each FSTD:
+1. The MQTG and each amendment thereto.
+2. The computer program used for the certificate qualification, and each revision thereto.
+3. Results of the certificate qualification evaluations.
+4. Results of the scheduled inspections.
+5. Records of maintenance and functional checks.
+6. Records of FSTD hardware modifications after the evaluation of initial, upgrade, or supplemental qualification.
+All documents prescribed in the previous paragraph, except for the 4th and 5th one, shall be kept for at least 2 years, the remaining documents shall be kept forever.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 18</條號>
+    <條文內容><![CDATA[Under the authorization of CAA, the PCATD sponsor and its device are allowed not to comply with the requirements prescribed from Article 13 to Article 17.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 19</條號>
+    <條文內容><![CDATA[CAA may designate the following agency (entity) or organization which is capable of evaluating FSTD’s qualification to conduct the FSTD qualification related certifications or validation certifications:
+1. Civil Air Transport Enterprises, General Aviation Enterprises or Airmen training organizations.
+2. Judicial foundations, government agency or corporate organizations of ROC.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 20</條號>
+    <條文內容><![CDATA[The designated agency (entity) or organization shall submit a list of designated certification personnels to CAA. Such personnels may only conduct the certification after being approved.
+The certification personnel of CAA designated agency (entity) or organization shall comply with the following requirements:
+1. Has a college degree or higher.
+2. Has at least 3 years of FSTD related working experience which has been approved or accepted by CAA.
+3. Has participated in the CAA FSTD qualification related certifications for at least 1 year.
+4. Has received the FSTD related qualification certification training.
+5. Is familiar with the FSTD related regulations, standards, procedures and operating guidance.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 21</條號>
+    <條文內容><![CDATA[After the agency (entity) or organization has been designated to conduct the FSTD qualification certification by CAA, a certificate of designation will be issued with a valid period starting from the date of issuance till December 31st of the following year.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 22</條號>
+    <條文內容><![CDATA[If a designated agency (entity), organization or its designated certification personnel conducts the certification duty with negligence or falsifies the certification report, CAA may revoke its certificate of designation.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 23</條號>
+    <條文內容><![CDATA[Being conducting the authority in accordance with Article 21, CAA shall make public on the government gazette regarding the information on designated agency (entity) or organization, the designated subject matters, and the accordance of regulations.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 24</條號>
+    <條文內容><![CDATA[The fee for issuing an initial, renewal, or replacement of the FSTD qualification certificate or validation certificate shall be charged in accordance with Attachment 7 Fees for Certification and Validation Certification of Flight Simulation Training Device Qualifications.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 25</條號>
+    <條文內容><![CDATA[The FSTD qualification certificate or validation certificate shall be revoked under the following conditions:
+1. Relocation of FSTD.
+2. Unable to perform flight training, checking or examination, after being disassembled.
+3. Fail to conduct the inspection, maintenance, or management of FSTD, resulting in the inability to maintain its qualification performance basis.
+4. Neither comply with MQTG, nor perform corrective actions within 30 days.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 26</條號>
+    <條文內容><![CDATA[This regulation becomes effective on the promulgation date.]]></條文內容>
+  </條文>
+</法規內容>
+</法規>
