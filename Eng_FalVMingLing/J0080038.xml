@@ -1,67 +1,74 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations Governing Permission of Foreign Certification Service Providers</英文法規名稱>
+<英文法規名稱>Regulations Governing Permission of Foreign Certification Authorities</英文法規名稱>
 <中文法規名稱>外國憑證機構許可辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080038</法規網址>
-<最新英文異動日期>20020403</最新英文異動日期>
+<最新英文異動日期>20241114</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1. Amended and promulgated by Order Ching (91) Shang Tze No. 09102046000　on April 3, 2002]]></沿革內容>
+<沿革內容><![CDATA[1. Amended and promulgated by Order Ching (91) Shang Tze No. 09102046000　on April 3, 2002
+2. Amended on November 14,2024]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are enacted pursuant to Paragraph 2, Article 15 of the Electronic Signatures Act (hereinafter "this Act").]]></條文內容>
+    <條文內容><![CDATA[These Regulations are enacted pursuant to Paragraph 2, Article 15 of the Electronic Signatures Act (hereinafter "the Act").]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
-    <條文內容><![CDATA[To apply for the permission under Paragraph 1, Article 15 of this Act, a certification service provider organized or registered pursuant to foreign laws (hereinafter "foreign certification service provider") shall submit the following documents:
-1.application form;
-2.certification practice statement;
-3.checklist of the required information for certification practice statement; and
-4.other documents required by the competent authority.
-The certification practice statement  submitted shall provide sufficient information stipulated in the Regulations on the Required Information for Certification Practice Statement prescribed by the competent authority. 
-The format of the application form, the checklist of the required information for certification practice statement, and other related documents stipulated in the first paragraph shall be prescribed by the competent authority.]]></條文內容>
+    <條文內容><![CDATA[To apply for the permission under Paragraph 1, Article 15 of the Act, a certification authority organized or registered pursuant to foreign laws (hereinafter "foreign certification authority") shall submit the application form and following documents:
+1. The certification practice statement;
+2. A checklist of the required information for the certification practice statement;
+3. A certificate permitting the foreign certification authority to lawfully operate the certification service in its country; and
+4. Other documents required by the competent authority.
+The format of the application form and documents stipulated in the preceding paragraph shall be prescribed by the competent authority. The competent authority may provide the English version of the format.
+The competent authority shall announce the permitted foreign certification authority on its website.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[In the case of any modification on the certification practice statement, a permitted foreign certification service provider shall file for new permission within 30 days after the modification. 
-A foreign certification service provider applying for the new permission shall submit the following documents:
-1.application form;
-2.modified certification practice statement and the checklist of the required information for certification practice statement thereof;
-3.comparison table of content variation; and
-4.other documents required by the competent authority.
-The format of the application form, the checklist of the required information for certification practice statement, and other related documents stipulated in the preceding paragraph shall be prescribed by the competent authority.]]></條文內容>
+    <條文內容><![CDATA[In the case of any modification to the certification practice statement, a duly applied and permitted foreign certification authority in accordance with the Act shall file for new permission within 30 days after the modification.
+The application form and the following documents shall be submitted when applying for the new permission stipulated in the preceding paragraph:
+1. The modified certification practice statement;
+2. The checklist of the required information for the modified certification practice statement;
+3. A comparison table of content variation; and
+4. Other documents required by the competent authority.
+The format of the application form and documents stipulated in the preceding paragraph shall be prescribed by the competent authority. The competent authority may provide the English version of the format.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[Documents submitted under these Regulations shall be translated into Chinese if written in foreign languages. The competent authority, in its discretion, may require the documents be authenticated by the Republic of China embassies, consulates, representative offices, or any other agency authorized by the Ministry of Foreign Affairs.]]></條文內容>
+    <條文內容><![CDATA[For the application filed by a foreign certification authority in accordance with the Act and these Regulations, the documents to be submitted shall, in principle, be written in Chinese or English.
+For the documents to be submitted under the preceding paragraph, the competent authority may, as necessary, request for the authentication thereof by the embassy, consulate, representative office or trade office of our country or other agency authorized by the Ministry of Foreign Affairs, or the attestation thereof by a court or a civil notary of our country.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[The competent authority may refuse a foreign certification service provider's application for permission if: 
-1.the certification practice statement submitted is not in compliance with the Regulations on the Required Information for Certification Practice Statement prescribed by the competent authority;
-2.the information submitted is fraudulent;
-3.the permission may be severely harmful to public interest;
-4.the permission may be seriously repugnant to the laws, regulations, public order, or good morals of this nation; or
-5.the jurisdiction where the foreign certification service provider organized or registered is clearly prejudicial to certificates issued by domestic certification service providers.]]></條文內容>
+    <條文內容><![CDATA[The competent authority may refuse a foreign certification authority's application for permission if:
+1. The certification practice statement submitted is not in compliance with Required Information of Certification Practice Statements for Digital Signatures announced by the competent authority;
+2. The information submitted is fraudulent;
+3. The permission may be severely harmful to public interest;
+4. The permission may be seriously repugnant to the laws, regulations, public order, or good morals of this nation; or
+5. The jurisdiction where the foreign certification authority organized or registered is clearly prejudicial to certificates issued by domestic certification authorities.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[The competent authority may revoke permission if:
-1.the modification of the certification practice statement is not permitted by the competent authority;
-2.the permission may be seriously repugnant to the laws, regulation, public order, or good morals of this nation;
-3.the permission may be severely harmful to public interest; or
-4.the jurisdiction where the foreign certification service provider organized or registered is clearly prejudicial to certificates issued by domestic certification service providers.]]></條文內容>
+    <條文內容><![CDATA[If one of the following conditions is satisfied, the competent authority may waive the application procedure under Article 2 and grant permission:
+1. Our country has signed agreements or treaties on the reciprocal use of electronic signatures or their certificates with governments of other countries, regional organizations, or international organizations, and such foreign certification authority has been permitted or recognized by the above said government or organization.
+2. The competent authority has cooperated with government agencies of other countries, non-profit organizations, regional organizations, and international organizations on technical interoperability and cooperation related to electronic signatures or their certificates, and such foreign certification authority is listed in the list of certification authorities provided by the above said agency or organization.
+The manner of implementation of technical interoperability and cooperation under Subparagraph 2 of the preceding paragraph includes the technical standards or accreditation/certification mechanism for electronic signatures or their certificates jointly established or recognized.
+The competent authority may announce the list of certification authorities under Subparagraph 2 of Paragraph 1 on its website.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[The competent authority may waive the application procedure and grant permission to a foreign certification service provider permitted or accredited by other countries, regional organizations, or international organizations by entering into bilateral or multilateral agreements or arrangements with those countries, regional organizations, or international organizations.]]></條文內容>
+    <條文內容><![CDATA[The competent authority may revoke permission if:
+1. The modification of the certification practice statement has not been permitted by the competent authority in accordance with the provision of Article 3;
+2. The permission may be seriously repugnant to the laws, regulations, public order, or good morals of this nation;
+3. The permission may be severely harmful to public interest;
+4. The jurisdiction where the foreign certification authority organized or registered is clearly prejudicial to certificates issued by domestic certification authorities; or
+5. After the permission is granted by the competent authority in accordance with the provision of Paragraph 1 of the preceding article, the condition on such permission is no longer satisfied.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[These Regulations shall enter into force from the effective date of this Act.]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall enter into force from the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
