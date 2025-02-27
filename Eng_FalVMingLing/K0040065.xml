@@ -3,7 +3,7 @@
 <英文法規名稱>Vehicle Safety Type Approval Management Regulations</英文法規名稱>
 <中文法規名稱>車輛型式安全審驗管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040065</法規網址>
-<最新英文異動日期>20240807</最新英文異動日期>
+<最新英文異動日期>20250120</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -20,8 +20,8 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007630</下載網址>
   </檔案>
   <檔案>
-    <檔案名稱><![CDATA[Attached table of Article14 Vehicle Safety Test Directions and Scope of vehicle category.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008762</下載網址>
+    <檔案名稱><![CDATA[Attached table of Article 14：Vehicle Safety Test Directions and Scope of vehicle category.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008961</下載網址>
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Attachment 02 The requirement of specification for motor vehicle.pdf]]></檔案名稱>
@@ -207,6 +207,10 @@
     <檔案名稱><![CDATA[Attachment 98 Event data recorder.pdf]]></檔案名稱>
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008772</下載網址>
   </檔案>
+  <檔案>
+    <檔案名稱><![CDATA[Attachment 99 Twistlocks.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008962</下載網址>
+  </檔案>
 </附件>
 <沿革內容><![CDATA[1.Promulgated on January 29, 2007
 2.Revised on December 17, 2009
@@ -219,7 +223,9 @@
 9.Revised on December 30, 2022
 10.Revised January 5, 2024
 11.Revised on MAY 6, 2024
-12.Revised on August 7, 2024]]></沿革內容>
+12.Revised on August 7, 2024
+13.Revised on January 9, 2025
+14.Revised on January 20, 2025]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -290,10 +296,10 @@ B. For atmospheric liquid tank truck, the valid certificate of inspection qualif
 (4) Illustrating documents of location and method of approval mark specified in Article 16.
 (5) For gravel and sand truck, concrete mixer truck and tank truck, shall provide the calculation instruction documents of loading volume dimension of each vehicle type.
 (6) For Liquefied Petroleum Gas (LPG) fuel system vehicles, shall provide proving documents specified in attachment 10 of Road Traffic Safety Regulations.
-(7) For large passenger vehicles, child-only vehicles and school buses, shall provide allocation drawings of seats.
+(7) For large passenger vehicles, child-only vehicles and school buses shall provide allocation drawings of seats.
 (8) For large passenger vehicle manufactured by local body constructors, the applicant shall provide documents as below:
 A. The construction manual of body on chassis.
-B. The body construction self check list, the illustrations of superstructure design and body construction, the illustrations shall include six views of vehicle body, five views of chassis, frame information specification, the drawing or photograph of truss weights and locations.
+B. The body construction self checklist, the illustrations of superstructure design and body construction, the illustrations shall include six views of vehicle body, five views of chassis, frame information specification, the drawing or photograph of truss weights and locations.
 C. The body construction self-check list for each vehicle type of class I and class II large passenger vehicles signed by people with level B welding technical certificate or others welding technician approved by certification institution.
 D. The calculation document of strength of superstructure.
 (9) For class I and class II large passenger vehicle manufactured by local body constructors and imported by importer, additional documents shall provide as below:
@@ -328,15 +334,15 @@ For the vehicles of Subparagraph 3 of Paragraph 1, Article 7, except the vehicle
     <條號>Article 8</條號>
     <條文內容><![CDATA[When applying for the low volume safety approval, the applicant needs to provide following documents toward certification institution:
 1. The documents stipulated in Subparagraph 1 and 2 of Paragraph 1, Article 6.
-2. The documents of vehicle’s certificate of origin and engine numbers or vehicle body numbers.
-3. The examination report or safety inspect and testing report of each testing items according to Article 14. Except for examination reports or test reports for the vehicles specification items in Vehicle Safety Testing Directions, the applicants may be different from the owners of examination reports or test reports. If the applicant is different from the owner of the examination or test report, applicants shall provide authorization and agreement document from the report owner.
+2.The documents of vehicle’s certificate of origin and engine numbers or vehicle body numbers.
+3.The examination report or safety inspect and testing report of each testing items according to Article 14. Except for examination reports or test reports for the vehicles specification items in Vehicle Safety Testing Directions, the applicants may be different from the owners of examination reports or test reports. If the applicant is different from the owner of the examination or test report, applicants shall provide authorization and agreement document from the report owner.
 If approval vehicles which have been used but not scrapped from abroad, applicants shall provide following original documents of each vehicle, document will be returned after examination:
-1. The foreign vehicle license or other vehicles proving documents. If the on-board date is after 2007/7/1, applicants provide proving documents which specify the date of origin of vehicle.
+1.The foreign vehicle license or other vehicles proving documents. If the on-board date is after 2007/7/1, applicants provide proving documents which specify the date of origin of vehicle.
 2. The Custom import and commodity tax payment (Exemption) certificate（for vehicles use）, if the documents from Custom or Subparagraph 1 of Paragraph 2, Article 8 shows the vehicle was damaged, defect or insurance or accident repaired, the applicant shall provide following additional documents:
 (1) Import certificate (including declared list form of imported sedans).
 (2) If the vehicles have damages or defects, after the certification institution report to MOTC and considers there is safety concern, the applicants shall provide the repair documents from the authorized importer or its designated vehicle maintenance workshops or distributors.
 (3) For insurance or accident recycled vehicles, the applicant shall provide the repair documents from the vehicle manufacturers or authorized importers.
-(4)For the imported vehicles with buy back records of insurance, accident or safety recalls, if the on-board date of is 2010/1/1 or after, the applicant shall additionally provide the following documents:
+(4) For the imported vehicles with buy back records of insurance, accident or safety recalls, if the on-board date of is 2010/1/1 or after, the applicant shall additionally provide the following documents:
 A.The repair documents issued by the original manufacturers or their importers which were verified by the foreign governments or their notary organization and our foreign embassies, consulates and agencies.
 B.The repair documents in Item 2 of Subparagraph 2 issued by the designated maintenance workshops or distributors shall be attested under the Notary Act by the importer.
 C.The documents, that the vehicle purchasers have full understanding that the vehicles are recycled because of insurance, accident or safety defects.
@@ -365,10 +371,9 @@ If the Type Approval Certificate is lost or damaged, the original applicant shal
   </條文>
   <條文>
     <條號>Article 12-1</條號>
-    <條文內容><![CDATA[For vehicles manufactured, constructed or imported but haven’t applied for registration, inspection and get the new license plate before the expiring date of the Type Approval Certificate which was acquired according to Paragraph 1 of Article 11 of this Regulations, except other regulations promulgated by the MOTC, the applicant for these vehicles may inventoried the vehicles and apply to extend valid duration of Type Approval Certificate toward certification institution within 1 month after the expiring date to apply for registration, inspection and get the new license plate.
-Except other regulations promulgated by the MOTC, when the applicant constructs completed vehicles with the inventoried chassis specified in Paragraph 3 of Article 17, if they using the same type of chassis and their Type Approval Certificate will be expired, the applicant may apply to extend valid duration of Type Approval Certificate toward certification institution to apply for registration, inspection and get the new license plate. This provision also applies to vehicles which were completed after the adoption of new Testing Regulations.
-The compliances of Vehicle Safety Testing Directions shall be specified on the Type Approval Certificate with valid extension duration according to the above two Paragraphs and the new registration document and user's manual of related vehicles.
-Vehicles which have applied for being inventoried according to first and second paragraph of this article before amendment of this article promulgated by the MOTC on 2022/12/30,its valid duration of Type Approval Certificate are applicable to amended paragraph of this article.]]></條文內容>
+    <條文內容><![CDATA[For vehicles manufactured, constructed or imported but haven’t applied for registration, inspection and get the new license plate before the expiring date of the Type Approval Certificate which was acquired according to Paragraph 1 of Article 11 of this Regulations, the applicant for these vehicles may inventoried the vehicles and apply to extend 12 months for valid duration of Type Approval Certificate toward certification institution within 1 month after the expiring date to apply for registration, inspection and get the new license plate.
+Except other regulations promulgated by the MOTC, when the applicant constructs completed vehicles with the inventoried chassis specified in Paragraph 3 of Article 17,if they using the same type of chassis and their Type Approval Certificate will be expired, the applicant may apply to extend 18 months for valid duration of Type Approval Certificate toward certification institution to apply for registration, inspection and get the new license plate. This provision also applies to vehicles which were completed after the adoption of new Testing Regulations.
+The compliances of Vehicle Safety Testing Directions shall be specified on the Type Approval Certificate with valid extension duration according to the above two Paragraphs and the new registration document and user's manual of related vehicles.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
@@ -380,7 +385,7 @@ For the extended vehicle type of already type-approved vehicle family, if apply 
   <條文>
     <條號>Article 14</條號>
     <條文內容><![CDATA[When applying for examination report specified in Article 6 and 8, the applicants shall be the manufacturers, authorized importers and body constructers of complete vehicle, its devices and chassis. For domestic vehicle devices manufacturers applying for examination reports for the first time, the applicants shall additionally provide legal plant document, scale of plant document and the COP control plan, and their plants shall be assessed and approved by certification institution.
-The applicants specified in Paragraph 1 of Article 14 may provide the following documents toward certification institution for application for examination reports. The applying documents shall have the seals the applicant and the duty-person on them or be of other electronically certified method. After the examination of applicable types, scopes and the effectiveness of the documents according to all requirements of Vehicles Safety Testing Directions and Scope of vehicle category table (as attached) are met, certification institution shall issue the examination report.
+The applicants specified in Paragraph 1 of Article 14 may provide the following documents toward certification institution for application for examination reports. The applying documents shall have the seals the applicant and the duty-person on them or be of other electronically certified method. After the examination of applicable types, scopes and the effectiveness of the documents according to all requirements of Vehicles Safety Testing Directions and Scope of vehicle category table(as attached)are met, certification institution shall issue the examination report.
 1. The copy of following applicant’s qualification documents:
 (1) For domestic manufacturers of completed vehicle, its devices and chassis, company registration or commercial registration documents and factory registration documents shall be provided.
 (2) For domestic body constructers, factory registration or commercial registration documents shall be provided.
@@ -393,7 +398,7 @@ The applicants specified in Paragraph 1 of Article 14 may provide the following 
 (4) The sample, the location and labeling methods of approval label according to Article 16.
 (5) For the coupling devices of small trailers, shall provide coupling rack and equipment of label instructions and the label instruction’s content shall include the manufacturer, type and declared load.
 3. The COP control plan for the test items. The content shall include the method of quality control, allocation of personnel, testing equipment maintenance and calibration, the sampling rate testing, method of recording and the correction method for non-conformity.
-If the volume of the vehicle devices of tachograph, the small trailer’s coupling devices, luggage racks for small vehicles, payload indicator and retro-reflective material imported by the same authorities, organizations、schools or individuals is no more than 3 pieces and for self use in that year, the applicants may provide following documents to apply for examination reports for self use toward certification institution.
+If the volume of the vehicle devices of macrograph, the small trailer’s coupling devices, luggage racks for small vehicles, payload indicator and retro-reflective material imported by the same authorities, organizations、schools or individuals is no more than 3 pieces and for self use in that year, the applicants may provide following documents to apply for examination reports for self use toward certification institution.
 1. The documents stipulated in above-mentioned in Item 1 and 2 of Subparagraph 2, Paragraph 2, Article 14.
 2. The authorities, organizations, schools or individuals registration documents or identification document and the Custom import and commodity tax payment (Exemption) certificate for the vehicle devices.
 3. The declaration document for self-use only, not to sell or transfer of the vehicle devices.]]></條文內容>
@@ -425,8 +430,8 @@ To process the type of chassis registration, the applicants shall provide follow
 1. The copy of the applicant’s qualification document.
 (1) For domestic chassis manufacturers, shall provide company registration or commercial registration documents and factory registration documents.
 (2) For the chassis importer, shall provide company registration or commercial registration documents. Authorized importers have to provide additional authorization documents.
-2. For the chassis for construction of large passenger vehicles, applicants shall provide the body construction-on-chassis manual.
-3. The specification list and picture of the chassis type.
+2.For the chassis for construction of large passenger vehicles, applicants shall provide the body construction-on-chassis manual.
+3.The specification list and picture of the chassis type.
 4. For the chassis of class I and class II large passenger vehicles shall provide the verification documents of durability test of completed vehicle and the main components list for each type of chassis.
 When there are new Testing Regulations applied to chassis, if the chassis type were registered and used by domestic body maker to construct completed vehicle and been approved, for the same type of chassis which were manufactured or imported but not used to construct completed vehicle before the implementation of new Testing Regulations, the chassis manufacturers, importers or body makers may inventoried the chassis and apply to comply with the original Regulations in Vehicle Safety Testing Directions toward certification institution within 1 month after the implementation date of the new Testing Items.]]></條文內容>
   </條文>
@@ -437,7 +442,7 @@ When there are new Testing Regulations applied to chassis, if the chassis type w
 2. The COP control plan.
 3. The verification documents of durability test.
 4. For applicants authorized by foreign manufacturers to assemble or manufacture chassis, authorization documents from foreign manufacturers shall be provided.
-5. For applicants not authorized by foreign manufacturers to assemble or manufacture chassis, the design and development technical documents about the performance of powertrain and braking, and analysis of vehicle structure shall be provided. For large passenger vehicle chassis manufacturers, research and development technical capability documents shall be provided.]]></條文內容>
+5. For applicants not authorized by foreign manufacturers to assemble or manufacture chassis, the design and development technical documents about the performance of power train and braking, and analysis of vehicle structure shall be provided. For large passenger vehicle chassis manufacturers, research and development technical capability documents shall be provided.]]></條文內容>
   </條文>
   <編章節>   Chapter III Accreditation of technical services</編章節>
   <條文>
@@ -607,15 +612,14 @@ If the vehicle specified in Paragraph 1 of Article 38 have damages or defects, a
     <條號>Article 40</條號>
     <條文內容><![CDATA[The Type Approval Certificates, certification reports and technical service accreditation certificates acquired before the implementation of these Regulations according to “Directions for the Safety Type and Conformity of Production of Motor Vehicles” and “Directions for the Safety Type and Conformity of Production of Motor Vehicle Components” may be used until the expiration date and apply for re-issuance according to these Regulations.
 Within six months from the implementation date, the applicants may apply for type approval to the certification institution with the test reports and COP control plan specified in forementioned Directions instead of the examination reports specified in Article 6.
-Where the type approval certificates, certification reports, examination reports, test reports, technical service approval certificate and witnessed laboratory assessment report acquired before the amendment of this regulation published on april 28 2022, are continue to be valid until the expiration date and apply for renewal according to these regulations.]]></條文內容>
+Where the type approval certificates, certification reports, examination reports, test reports, technical service approval certificate and witnessed laboratory assessment report acquired before the amendment of this regulation published on april 282022, are continue to be valid until the expiration date and apply for renewal according to these regulations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41</條號>
     <條文內容><![CDATA[These Regulations shall be effective upon the day of promulgation.
-For the amendment of this regulation published on april 28 2022, the date of entry into force shall be determined by the Ministry of Transportation and Communications
+For the amendment of this regulation published on april 282022, the date of entry into force shall be determined by the Ministry of Transportation and Communications
 
-（These Regulations are made in Chinese, which shall prevail in case of any discrepancy between the
-English translation and the Chinese original. ）]]></條文內容>
+（These Regulations are made in Chinese, which shall prevail in case of any discrepancy between the English translation and the Chinese original.）]]></條文內容>
   </條文>
 </法規內容>
 </法規>
