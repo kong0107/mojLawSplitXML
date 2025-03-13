@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Securities Investment Trust Enterprises</英文法規名稱>
 <中文法規名稱>證券投資信託事業管理規則（93.10.30 訂定）</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400078</法規網址>
-<最新英文異動日期>20201217</最新英文異動日期>
+<最新英文異動日期>20241127</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -16,7 +16,8 @@
 7. Article 25 amended and issued per 16 March 2010 Order No. Financial-Supervisory-Securities-Firms-09900119992 of the Financial Supervisory Commission, Executive Yuan
 8. Articles 2 and 13 amended and issued per 27 July 2012 Order No. Financial-Supervisory-Securities-SITC-1010033473 of the Financial Supervisory Commission
 9. Articles 3, 24-1, and 25 amended and issued per 28 November 2014 Order No. Financial-Supervisory-Securities-SITC-1030048271 of the Financial Supervisory Commission
-10. Articles 12, 13, 24-1, 26, and 28 amended and Articles 5-1, 12-1, 17-1, and 26-1 added per 17 December 2020 Order No. Financial-Supervisory-Securities-SITC-1090365710 of the Financial Supervisory Commission]]></沿革內容>
+10. Articles 12, 13, 24-1, 26, and 28 amended and Articles 5-1, 12-1, 17-1, and 26-1 added per 17 December 2020 Order No. Financial-Supervisory-Securities-SITC-1090365710 of the Financial Supervisory Commission
+11. Article 19-1 amended per 27 November 2024 Order No. Financial-Supervisory-Securities-SITC-1130385784 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -99,7 +100,7 @@ The term "related party" in the preceding paragraph refers to any one of the fol
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[A SITE may not act as director or supervisor of a company whose issued shares are purchased by one of the SITE's funds, provided that this restriction shall not apply where the FSC so provides.]]></條文內容>
+    <條文內容><![CDATA[A SITE may not act as director or supervisor of a company whose issued shares are purchased by one of the SITE'sfunds, provided that this restriction shall not apply where the FSC so provides.]]></條文內容>
   </條文>
   <編章節>   Chapter 2 Finance</編章節>
   <條文>
@@ -186,6 +187,10 @@ Except where law or regulation provide otherwise, a SITE as referred to in the p
 12. Engaging in other conduct prejudicial to the rights and interests of beneficiaries, clients, or SITE operators.
 Except where other laws or FSC regulations so provide, a SITE as referred to in paragraph 1 shall maintain the confidentiality of client and beneficiary information, their trading histories, and other related information.
 A SITE shall adopt and implement rules governing the administration of internal personnel in accordance with SITCA regulations.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 19-1</條號>
+    <條文內容><![CDATA[A SITE shall adopt rules governing the use of information and communications equipment, and shall specify in its internal control system relevant preventive measures for potential conflicts of interest and scrupulously implement them.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>

@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Conduct of Discretionary Investment Business by Securities Investment Trust Enterprises and Securities Investment Consulting Enterprises</英文法規名稱>
 <中文法規名稱>證券投資信託事業證券投資顧問事業經營全權委託投資業務管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400084</法規網址>
-<最新英文異動日期>20221130</最新英文異動日期>
+<最新英文異動日期>20241127</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -18,7 +18,8 @@
 9. Articles 5, 6, and 7-3 amended and issued per 4 January 2016 Order No. Financial-Supervisory-Securities-SITC-1040052431 of the Financial Supervisory Commission
 10. Articles 4, 5, 11, 21, 22, 26, 28, and 29 amended and issued per 30 July 2018 Order No. Financial-Supervisory-Securities-SITC-1070326730 of the Financial Supervisory Commission
 11. Articles 11, 19, and 36 amended and issued per 8 December 2021 Order No. Financial-Supervisory-Securities-SITC-1100365223 of the Financial Supervisory Commission
-12. Article 2 amended and issued per 30 November 2022 Order No. Financial-Supervisory-Securities-SITC-1110385184 of the Financial Supervisory Commission]]></沿革內容>
+12. Article 2 amended and issued per 30 November 2022 Order No. Financial-Supervisory-Securities-SITC-1110385184 of the Financial Supervisory Commission
+13. Article 19-2 amended per 27 November 2024 Order No. Financial-Supervisory-Securities-SITC-1130385784 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -162,8 +163,7 @@ When a SITE or a SICE is concurrently operated by a non-industry enterprise, wit
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[Where a SITE or SICE provides mandate-type discretionary investment services, the customer shall place the discretionary investment assets in the custody of the discretionary investment custodian or transfer them to the custodian by trust.
-The SITE or the SICE may not for any reason keep the customer's discretionary investment assets in its own custody.
+    <條文內容><![CDATA[Where a SITE or SICE provides mandate-type discretionary investment services, the customer shall place the discretionary investment assets in the custody of the discretionary investment custodian or transfer them to the custodian by trust.The SITE or the SICE may not for any reason keep the customer's discretionary investment assets in its own custody.
 The custodian of the discretionary investment assets referred to in the preceding paragraph shall be personally designated by the customer.
 The SITE or the SICE has the obligation to inform the customer when any of the following types of controlling relationship exist between itself and the custodian of the discretionary investment assets designated by the customer:
 1. The custodian of the discretionary investment assets has investment holdings of 10 percent or more of the total outstanding shares of the SITE or the SICE.
@@ -267,6 +267,10 @@ The term "member of its own group" in the preceding paragraph shall mean a holdi
   <條文>
     <條號>Article 19-1</條號>
     <條文內容><![CDATA[Except where the FSC provides otherwise, the supervisor of a department dedicated to discretionary investment business and the discretionary investment manager at a SITE or a SICE and that person's spouse, minor children, and other persons in whose name that person makes transactions may not engage in trading of a given company's shares and equity-type derivative products from the time that the SITE or SICE decides to utilize discretionary investment assets to engage in trading of the given company's shares or equity-type derivative financial products until such time as the given company's shares or equity-type derivative financial products are no longer held as part of the discretionary assets.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 19-2</條號>
+    <條文內容><![CDATA[A SITE or a SICE conducting discretionary investment business shall adopt rules governing the use of information and communications equipment, and shall specify in its internal control system relevant preventive measures for potential conflicts of interest and scrupulously implement them.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>

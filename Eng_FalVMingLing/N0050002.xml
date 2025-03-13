@@ -3,7 +3,7 @@
 <英文法規名稱>Enforcement Rules of the Labor Insurance Act</英文法規名稱>
 <中文法規名稱>勞工保險條例施行細則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0050002</法規網址>
-<最新英文異動日期>20210608</最新英文異動日期>
+<最新英文異動日期>20250106</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -28,7 +28,8 @@
 19.Amended by the Ministry of Labor October, 5, 2016
 20.Amended by the Ministry of Labor May 2, 2017
 21.Amended by the Ministry of Labor March 28, 2018
-22.Amended by the Ministry of Labor June 8, 2021]]></沿革內容>
+22.Amended by the Ministry of Labor June 8, 2021
+23.Amended by the Ministry of Labor January, 6, 2025]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -64,8 +65,8 @@ Insurer shall compile an annual report at the end of each year and send the repo
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[Insurer or the central competent authority, when conducting the labor insurance inspections in accordance with Article 28 of the Act, shall present their identification documents.
-For purposes of reviewing insurance benefits, the insurer may request the assistance of physicians or professionals in related medical fields according to individual need.]]></條文內容>
+    <條文內容><![CDATA[Insurer or the central competent authority, when conducting the labor insurance inspections in accordance with Article 28 of the Act, shall present the documents certifying the performance of their duties.
+For purposes of reviewing insurance benefits, the insurer may entrust medical service institutions, physicians of related disciplines, or professional institutions, groups, or experts to assist with business needs.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -151,7 +152,7 @@ In the event insured units have not submitted applications for insurance changes
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[When the persons in charge of the insured units are changed, the unpaid premiums or the penalties for overdue premiums owed by the original persons shall be individually and jointly assumed by the new persons.
-When the insured units are terminated after merger and acquisition, their unpaid premiums or penalties shall be assumed by the remaining insured units after merger and acquisition or the new insured units.]]></條文內容>
+When an insured unit dissolves due to merger, demerger, or transfer, the unpaid insurance premium or late penalty shall be borne by the surviving, newly established, or receiving insured unit.]]></條文內容>
   </條文>
   <編章節>      Section 3 Insured Person</編章節>
   <條文>
@@ -168,7 +169,7 @@ when the insured units apply for joining insurance coverage for the foreign work
   <條文>
     <條號>Article 21</條號>
     <條文內容><![CDATA[When the insured persons referred to in Article 9 of the Act and in Paragraph 2, Article 16 of the Act of Gender Equality in Employment intend to continue to join insurance coverage, the insured units shall not deny them.
-When the insured persons referred to in Article 9 of the Act continue to join insurance coverage, the insured units they affiliated with shall continue to pay premiums for them, and except under the circumstances of Subparagraphs 2 and 4 of the same Article, shall notify in writing to the insurer about their names, birthdates, serial numbers of their national identification cards, the dates of their national military service, unpaid leaves, suspension from the job because of pending lawsuits or detention. The same procedure shall apply when the insured persons are discharged from national military service, reinstated to the former positions or their detention are revoked or stopped.
+When the insured persons referred to in Article 9 of the Act continue to join insurance coverage, the insured units they affiliated with shall continue to pay premiums for them, and except under the circumstances of Subparagraphs 2 and 4 of the same Article, shall notify in writing to the insurer about their names, birthdates, serial numbers of their national identification cards, the dates of their national military service, unpaid leaves, suspension from the job because of pending lawsuits or detention. The same procedure shall apply when the insured persons are discharged from national military service, reinstated to the former positions or their detention is revoked or stopped.
 When the insured persons referred to in Subparagraph 3 of Article 9 of the Act continue to join insurance coverage, in addition to processing according to the procedures stipulated in the preceding paragraph, they shall also submit medical records issued by the hospitals or clinics.
 According to Paragraph 2, Article 16 of the Act of Gender Equality in Employment, in the event the insured continues to be enrolled, the insured unit to which the insured is affiliated must complete the Labor Insurance Insured Non-pay Parental Leave Continuous Enrollment Application Form and notify the insurer; for purposes of case review, the insurer may require the insured unit to submit additional documentation in the form of the insured's child's birth certificate or copy of the insured's household registration certification; when the insured is reinstated, the insured unit must additionally complete and submit a Notification of Reinstatement to the insurer.]]></條文內容>
   </條文>
@@ -209,7 +210,10 @@ In the event the insured units filing application forms for joining insurance co
   </條文>
   <條文>
     <條號>Article 28</條號>
-    <條文內容><![CDATA[In the event that the insured persons are hospitalized because of injuries or illness and those continue to join insurance coverage in accordance with Subparagraphs 1, 3, 5 of Article 9 , and Article 9-1 of the Act, or Second paragraph of Article 16 of the Act of Gender Equality in Employment, their insurance salaries may not be adjusted during the period of insurance coverage.
+    <條文內容><![CDATA[Under any of the following circumstances, the insured insurance salaries may not be adjusted during the period of insurance coverage:
+1. In the event that the insured persons are hospitalized because of injuries or illness or take leave due to injury or illness.
+2. Temporary suspension of duties in accordance with Paragraph 1 of Article13-1 and Paragraph 2 of Article32-3 of the Gender Equality in Employment Act, or Paragraph 6 of Article30 of the Gender Equity Education Act.
+3. Those continue to join insurance coverage in accordance with Subparagraphs 1, 3, 5 of Article 9, and Paragraph 1 of Article 9-1 of the Act, or Paragraph 2 of Article 16 of the Act of Gender Equality in Employment.
 The insurance salary for the insured persons in the above paragraph should not be lower than the First Grade of the “Table of Grades of Insurance Salary ". Should there be any amendment in the First Grade of the " Table of Grades of Insurance Salary "; the insurer can adjust the suitable insured salary accordingly.]]></條文內容>
   </條文>
   <條文>
@@ -272,10 +276,10 @@ The applicable categories of occupations and premium rates of the occupational a
   </條文>
   <條文>
     <條號>Article 40</條號>
-    <條文內容><![CDATA[The insured units that the insured persons are affiliated with and referred to in Subparagraphs 7, 8 of Paragraph 1 of Article 6 and Subparagraph 4 of Paragraph 1 of Article 8 of the Act may establish a dedicated account for labor insurance in the financial institutions and notify the insured persons so they could pay the insurance premium into the account .
-The insured units the insured persons are affiliated with and referred to in the preceding paragraph, after receiving approvals from the insured persons or the general meeting of the members, may take three-or-six months' insurance premiums in advance , issue receipts to the insured persons , and pay to the insurer monthly. Those insurance premiums received in advance and not yet payable to the insurer shall be deposited in special accounts in the financial institutions. The interests thus accumulated shall be used within the scope of the insurance transactions referred to in the Act.
+    <條文內容><![CDATA[The insured units that the insured persons are affiliated with and referred to in Subparagraphs 7, 8 of Paragraph 1 of Article 6 and Subparagraph 4 of Paragraph 1 of Article 8 of the Act may establish a dedicated account for labor insurance in the financial institutions and notify the insured persons so they could pay the insurance premium into the account.
+The insured units in the preceding paragraph, after receiving approvals from the insured persons or the general meeting of the members, may take three-or-six months' insurance premiums in advance, issue receipts to the insured persons, and pay to the insurer monthly. The insured units which are two months overdue in the payment of premiums, shall not take insurance premiums in advance before the overdue premiums are forwarded to the insurer.
 The insured units which are receiving insurance premium in advance referred to in the preceding paragraph may join the insurance programs for their chiefs or personnel in charge of the business for the purpose of guaranteeing their honesty and credibility.
-The management of insurance premium received in advance referred in Paragraph 2 shall be pursuant to the related regulations concerning financial transactions of the insured units.]]></條文內容>
+The premiums taken in advance in the preceding paragraph 2, shall be deposited in the dedicated account at a financial institution in the preceding paragraph 1, and the interest income in addition shall be conducted on the operations according to the Act exclusively and pursuant to the related regulations concerning financial transactions of the insured units.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41</條號>
@@ -290,7 +294,8 @@ The management of insurance premium received in advance referred in Paragraph 2 
   <條文>
     <條號>Article 43</條號>
     <條文內容><![CDATA[If due to suspension of operations, dissolution, revocation of registration, declared bankruptcy or any other matter, an insured unit fails to submit an application for insurance benefits on behalf of any insured person, any beneficiary, or any person who paid the funeral expenses, then the insured person, the beneficiary and the person who paid the funeral expenses may claim these benefits by themselves.
-When a claim to insurance benefits is made pursuant to Article 20, Subparagraph 1 or Subparagraph 2, Paragraph 1, Article 31, and Article 62 of the Labor Insurance Act, it may be made by the insured person, the beneficiary, or the person who paid the funeral expenses themselves.]]></條文內容>
+When a claim to insurance benefits is made pursuant to Article 20, and Subparagraph 1 or Subparagraph 2, Paragraph 1, Article 31 of the Labor Insurance Act, it may be made by the insured person, the beneficiary, or the person who paid the funeral expenses themselves.
+The insured person who has household registration in the ROC may claim funeral and interment allowance made pursuant to Article 62 by themselves.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 44</條號>
@@ -356,6 +361,10 @@ Birth certificates prepared and issued by licensed midwives shall also be valid.
 2.Documents produced in the Mainland China area shall be authenticated by the institution set up or designated, or by the private organization entrusted by the Executive Yuan.
 3.For documents issued in Hong Kong or Macau, they shall be authenticated by the institution set up or designated, or by the private organization entrusted by the Executive Yuan in Hong Kong or Macau .
 If the original documents are in foreign language, the Chinese translations of the documents must be enclosed and Chinese translations shall be produced by the authorized organizations listed above or notarized by domestic notary public. Unless it is considered necessary by the insurer, the Chinese translation is not required if the document is made in English.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 54-1</條號>
+    <條文內容><![CDATA[Those who apply for benefit by the provisions of the Act and do not have household registration in the ROC may submit a relative relationships document to replace copies of the household registration certificate or household registration form.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 55</條號>
@@ -454,13 +463,13 @@ In the event that the insured persons request the diagnosis report for disabilit
   </條文>
   <條文>
     <條號>Article 73</條號>
-    <條文內容><![CDATA[For those who apply for dependent allowance according to Article 54-2 of the Act , the following documents shall be prepared:
+    <條文內容><![CDATA[For those who apply for dependent allowance according to Article 54-2 of the Act, the following documents shall be prepared:
 1.Application form for Dependent Allowance of Disability pension and Receipts of Allowance payment.
-2.The insured person's whole family household registration certificate; If the dependent and the insured person are not under the same household registration, their household registration certificates should both be presented and indicates the following matters:
+2.The insured person's whole family household registration certificate; If the dependent and the insured person are not under the same household registration, their household registration certificates should both be presented and indicate the following matters:
 (1) If the dependent is a spouse, the marriage date shall be recorded on the household registration certificates.
 (2) If the dependents are adopted sons or daughters, the adoption and registration date shall be recorded on the household registration certificates.
 3.If the dependents are attending schools, the copy of Tuition Receipt or In-school certificate shall be enclosed, and those certificates and related proof shall be re-submitted to the insurer for checking every year before the end of September. If the information complies with the criteria after checking, the Allowance would continue to be issued until the end of August of the next year.
-4.For dependents who are unable to make their own living, a physical and mental disability manual or related proof or any proof of the dependents having been declared by a Court of law to be unable to manage their own assets shall be enclosed.]]></條文內容>
+4.For dependents who are unable to make their own living, certificates of physical and mental disabilities, or certificates of guardianship declaration shall also be enclosed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 74</條號>
@@ -498,9 +507,9 @@ If the period mentioned in previous two paragraphs is less than one year, the ac
   <編章節>      Section 7 Death Benefits</編章節>
   <條文>
     <條號>Article 80</條號>
-    <條文內容><![CDATA[When the parents, spouses or children of the insured persons are legally proclaimed death, the time of their death set by the count's formal decisions shall be regarded as the time of death referred to in Article 62 of the Act. The amounts of their funeral grants shall be calculated in accordance with the following stipulations:
-1.If the time of death and the count's decision fall during the insurance coverage period of the insured persons, they shall be calculated according to the average monthly insurance salaries in the six months prior to the month the related decision is rendered by the court.
-2.If the time of death falls during the insurance coverage period of the insured persons, and when the related decision is given by the court the insurance coverage is withdrawn, they shall be calculated according to the average monthly insurance salaries in the six months prior to the month the insurance coverage is withdrawn.]]></條文內容>
+    <條文內容><![CDATA[When the parents, spouses or children of the insured persons are legally proclaimed deceased, the time of their death set by the court’s formal decisions shall be regarded as the time of death referred to in Article 62 of the Act. The amounts of their funeral grants shall be calculated in accordance with the following stipulations:
+1.If the time of death and the court’s decision fall during the insurance coverage period of the insured persons, they shall be calculated according to the average monthly insurance salaries in the six months prior to the month the related decision is rendered by the court.
+2.If the time of death falls during the insurance coverage period of the insured persons, and the insurance coverage is withdrawn when the related decision is given by the court, they shall be calculated according to the average monthly insurance salaries in the six months prior to the month the insurance coverage is withdrawn.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 81</條號>
@@ -508,10 +517,10 @@ If the period mentioned in previous two paragraphs is less than one year, the ac
   </條文>
   <條文>
     <條號>Article 82</條號>
-    <條文內容><![CDATA[When the insured persons applying for funeral grants referred to in Article 62 of the Act, the following documents must be prepared:
-1. Application forms for funeral grants and Receipt of payments.
-2. Death certificates, written autopsy reports issued by the public prosecutors, or judgments of proclamation of death of a missing person.
-3. Copies of valid household registration form with the registration of death listed and the National I.D. of the insured person or a copy of household registration form.
+    <條文內容><![CDATA[When the insured persons apply for funeral grants referred to in Article 62 of the Act, the following documents must be prepared:
+1.Application forms for funeral grants and Receipt of payments.
+2.Death certificate, public prosecutor's autopsy certificate, or death declaration ruling.
+3.Copies of valid household registration form with the registration of death listed and the National I.D. of the insured person or a copy of the household registration form.
 Those who have completed the registration of death may submit only the documents listed in subparagraph 1 of the previous paragraph.]]></條文內容>
   </條文>
   <條文>
@@ -522,25 +531,25 @@ Those who have completed the registration of death may submit only the documents
     <條號>Article 84</條號>
     <條文內容><![CDATA[When applying for funeral grants referred to Article 63 or Article 64 of the Act, the following documents must be prepared:
 1.Application forms for death benefits and Receipt of benefit payments.
-2.Death certificates, written autopsy reports issued by the public prosecutors, or judgments of proclamation of death of a missing person.
+2.Death certificate, public prosecutor's autopsy certificate, or death declaration ruling.
 3.Certificates of whole household registration with the dates of death listed.
 4.Proof or documents for the funeral expenses. However, if the person who paid the funeral expenses is also the first in line to receive a survivor pension or benefits, an affidavit may be used as a substitute.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 85</條號>
-    <條文內容><![CDATA[When applying for survivors' pension benefits according to Article 63, Article 63-1 or Article 64 of the Act , the following documents shall be prepared:
+    <條文內容><![CDATA[When applying for survivors' pension benefits according to Article 63, Article 63-1 or Article 64 of the Act, the following documents shall be prepared:
 1.Application forms for death benefits and Receipt of benefit payments.
-2.Death certificates, written autopsy reports issued by the public prosecutors, or judgments of proclamation of death of a missing person.
+2.Death certificate, public prosecutor's autopsy certificate, or death declaration ruling.
 3.Certificates of whole household registration with the dates of death listed. If the beneficiary is the spouse, the dates of the marriage shall be recorded in the certificates; if the beneficiaries are the adopted children, the dates of the adoption shall be recorded. If the beneficiaries and the deceased are not under the same household registration, the household registration certificates for both the deceased and the beneficiary shall be submitted.
 4.If the survivors are attending schools, the copy of Tuition Receipt or In-school certificate shall be enclosed, and those certificates and related proof shall be re-submitted to the insurer for checking every year before the end of September. If the information complies with the criteria after checking, the benefits would continue to be issued until the end of August of the next year.
-5.For survivors who are unable to make their own living, a physical and mental disability manual or related proof or any proof of the dependents having been declared by a Court of law to be unable to manage their own assets shall be enclosed.
-6.If the beneficiaries are grandchildren, brothers or sisters of the insured person, the related proof of being brought up by the insured person shall be enclosed]]></條文內容>
+5.For survivors who are unable to make their own living, certificates of physical and mental disabilities, or certificates of guardianship declaration shall also be enclosed.
+6.If the beneficiaries are grandchildren, brothers or sisters of the insured person, the related proof of being brought up by the insured person shall be enclosed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 86</條號>
-    <條文內容><![CDATA[When applying for survivors' allowance according to Article 63 or Article 64 to the Act , the following documents shall be prepared:
+    <條文內容><![CDATA[When applying for survivors' allowance according to Article 63 or Article 64 to the Act, the following documents shall be prepared:
 1.Application forms for death benefits and Receipt of benefit payments.
-2.Death certificates, written autopsy reports issued by the public prosecutors, or judgments of proclamation of death of a missing person.
+2.Death certificate, public prosecutor's autopsy certificate, or death declaration ruling.
 3.Certificates of whole household registration with the dates of death listed. In case the beneficiaries are adopted children, the dates of their adoption and registration shall also be listed. If the beneficiaries and the deceased are not under the same household registration, both household registration certificates shall be submitted.
 4.If the beneficiaries are grandchildren, brothers or sisters of the insured person, the related proof of being brought up by the insured person shall be enclosed .]]></條文內容>
   </條文>
