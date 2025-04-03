@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Universal Service of Telecommunications Enterprises</英文法規名稱>
 <中文法規名稱>電信事業普及服務管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060130</法規網址>
-<最新英文異動日期>20221005</最新英文異動日期>
+<最新英文異動日期>20241230</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -13,11 +13,12 @@
   </檔案>
   <檔案>
     <檔案名稱><![CDATA[Appendix 2：Formula for the calculation of avoidable costs for uneconomic public payphone service.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006331</下載網址>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009065</下載網址>
   </檔案>
 </附件>
 <沿革內容><![CDATA[1.33 Articles promulgated in full by National Communications Commission（NCC）on July6,2020. Ref：Tung-Chuan-Ping-Tai Tze No. 10941019640
-2.The amended Article 17 and Article 33 were amended and promulgated by Ministry of Digital Affairs（moda） Order No. 11150001623]]></沿革內容>
+2.The amended Article 17 and Article 33 were amended and promulgated by Ministry of Digital Affairs（moda） Order No. 11150001623
+3.Amend on December 30, 2024]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -53,14 +54,13 @@ Townships,（Towns, Cities and District）with a population density of between o
     <條號>Article 4</條號>
     <條文內容><![CDATA[Types of universal service includes Voice-based Telecommunications Universal Service and Data Transmission Telecommunications Service.
 The provision of universal service should be provided by telecommunications enterprises providing service through fixed telecommunications networks installed by them, however services may be provided through transmission stations by enterprises providing service through mobile telecommunications networks installed by them when the following requirements are met:
-It is limited to a specific village designated by the competent authority in accordance with Paragraph 2 of Article 13.
+The competent authority's announcement made in accordance with Paragraph 2 or Paragraph 3 of Article 13.
 Due to the features of the topography, it is impractical to deploy fixed communication data access networks.
-The village in which the base station is located has not been included in the calculation of the radio frequency usage fee discount condition and approved by the competent authority.
 Residents and real estate owners with broadband demand sites have agreed to build base stations.
 The relay transmission circuit is sufficient for the bandwidth requirement of the mobile telecommunication high-speed base station.
 The location where the mobile telecommunication transmission station is to be installed already has the power required for the station.
 The municipal, county（city）government or township（Towns, Cities and District）public office agrees to assist the base station to set up use.
-The universal service provider who has set up a mobile communication network may not refuse request from other mobile communication and telecommunications enterprises for co-location and co-construction of their universal service mobile telecommunication transmission stations without justifiable reasons.]]></條文內容>
+The universal service provider who has set up a mobile communication network may not refuse requests from other mobile communication and telecommunications enterprises for co-location, co-construction of their universal service mobile telecommunication transmission stations, and the provision of relay transmission circuits without justifiable reasons.]]></條文內容>
   </條文>
   <編章節>   Chapter 2 Voice-based Telecommunications Universal Service</編章節>
   <條文>
@@ -69,11 +69,12 @@ The universal service provider who has set up a mobile communication network may
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[The dominant market player of local Internet service as announced by the Telecommunications Act before the implementation of these Regulations shall, by June 1 of the year prior to the fiscal year in which universal service is implemented（hereafter named the "implementation year"）, submit the Annual Universal Service Implementation Plan（hereafter named the "implementation plan"）based on the cabinet-level municipalities, counties and cities which are publicly designated as the implementation units by the competent authority（NCC）, and apply to the competent authority（NCC）for accreditation as universal service providers for uneconomic public payphone and telephone services in uneconomic areas.
-Apart from dominant market player of local Internet service as referred to in the preceding paragraph, other telecommunications enterprises installing fixed or mobile telecommunications networks may also submit applications in accordance with the preceding paragraph.
+    <條文內容><![CDATA[The telecommunication enterprises with significance in the fixed telecommunications network voice retail service market, by June 1 of the year prior to the fiscal year in which universal service is implemented（hereafter named the "implementation year"）, submit the Annual Universal Service Implementation
+Plan（hereafter named the "implementation plan"）based on the cabinet-levelmunicipalities, counties and cities which are publicly designated as the implementation units by the competent authority, and apply to the competent authority for accreditation as universal service providers for uneconomic public payphone and telephone services in uneconomic areas.
+Apart from those with significance in the fixed telecommunications network voice retail service market of local Internet service as referred to in the preceding paragraph, other telecommunications enterprises installing fixed or mobile telecommunications networks may also submit applications in accordance with the preceding paragraph.
 The "Implementation Year" as stated in paragraph 1 refers to the calendar year from January 1 to December 31.
-The competent authority（NCC）shall publicize the Implementation Plan in accordance with paragraph 1 and paragraph 2 no later than July 1 of the year prior to the implementation year. Telecommunications enterprises installing fixed or mobile telecommunications networks may once again submit improved implementation plans no later than August 1 of the same year, and apply for accreditation as a universal service provider for telephone service in uneconomic areas.
-The competent authority（NCC）, before approving the previous implementation plan, shall compare the net universal service costs, requested subsidy amounts, and the predicted improvements in service penetration and quality as outlined in various implementation plans; and in consideration with the actual operating abilities of the applicants, the competent authority（NCC）shall then choose the best implementation plan; if necessary, the competent authority（NCC）must request the applicant to amend its proposed implementation plan.]]></條文內容>
+The competent authority shall publicize the Implementation Plan in accordance with paragraph 1 and paragraph 2 no later than July 1 of the year prior to the implementation year. Telecommunications enterprises installing fixed or mobile telecommunications networks may once again submit improved implementation plans no later than August 1 of the same year, and apply for accreditation as a universal service provider for telephone service in uneconomic areas.
+The competent authority, before approving the previous implementation plan, shall compare the net universal service costs, requested subsidy amounts, and the predicted improvements in service penetration and quality as outlined in various implementation plans; and in consideration with the actual operating abilities of the applicants, the competent authority shall then choose the best implementation plan; if necessary, the competent authority must request the applicant to amend its proposed implementation plan.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -102,8 +103,13 @@ Rental revenue from leased circuit or other networking equipment.
 Internet access service revenue.
 Other service revenue.
 Other non-operating revenue.
-The revenue forgone for the mobile telecommunication transmission station in an uneconomic area shall be the sum of the following listed revenues as collected from the mobile telecommunication transmission station services by the universal service providers of the remote area.
-If the district in which the single local private branch exchange network serves crosses remote and non-remote areas, the universal service provider shall, in its calculations of the total net universal service costs of the telephone service in an uneconomic area, include the net universal service cost incurred by the district in which the single local private branch exchange network serves.]]></條文內容>
+The revenue forgone for a single transmission station providing universal service shall consist of relay transmission circuit revenue and a certain proportion of the following revenues derived from mobile telecommunication services provided by the universal service provider:
+Monthly rental revenue.
+Telecommunication charge revenue.
+SMS revenue.
+Other revenue.
+The proportionate revenue derived from mobile telecommunication services provided by the aforementioned universal service provider shall be calculated based on the ratio of the average data transmission volume of transmission stations in the village designated in the preceding paragraph to the total data transmission volume of transmission stations nationwide, multiplied by the difference between the universal service provider’s revenue for the current year and the previous year. If the aforementioned revenue difference is negative, the revenue shall be calculated as zero.
+The district in which the single local private branch exchange network serves crosses remote and non-remote areas, the universal service provider shall, in its calculations of the total net universal service costs of the telephone service in an uneconomic area, include the net universal service cost incurred by the district in which the single local private branch exchange network serves.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
@@ -126,8 +132,15 @@ The aforementioned economic and effective technology refers to the technology ca
   </條文>
   <條文>
     <條號>Article 13</條號>
-    <條文內容><![CDATA[Telecommunications enterprises installing fixed or mobile telecommunications networks shall, in accordance with the implementation plan of Telecommunications Universal Service on Data Transmission in uneconomic areas, propose method, term, content, implementation year, implementation duration and net service cost calculation method under Articles 6 and 9 of these Regulations. For service providers that apply for Voice-based Telecommunications Universal Service and Telecommunications Universal Service on Data Transmission in uneconomic area at the same time, the net service cost of the implementation plan of Telecommunications Universal Service on Data Transmission in uneconomic area shall deduct the proposed net cost of Voice-based Telecommunications Universal Service.
-The administrative authority may, prior to March 1st of the year before the implementation year, according to the demand of the uneconomic area, promulgate and designate the telecommunications enterprises installing fixed or mobile telecommunications networks to provide digital communication access universal service to specific villages and neighborhoods, the aforementioned enterprises shall incorporate the universal service into the implementation plan referred to in the preceding paragraph.]]></條文內容>
+    <條文內容><![CDATA[Telecommunications enterprises installing fixed or mobile telecommunications networks shall, in accordance with the implementation plan of Telecommunications
+Universal Service on Data Transmission in uneconomic areas, propose method, term, content, implementation year, implementation duration and net service cost calculation method under Articles 6 and 9 of these Regulations.
+For service providers that apply for Voice-based Telecommunications
+Universal Service and Telecommunications Universal Service on Data
+Transmission in uneconomic area at the same time, the net service cost of the implementation plan of Telecommunications Universal Service on Data
+Transmission in uneconomic area shall deduct the proposed net cost of Voicebased
+Telecommunications Universal Service.
+The administrative authority may, prior to March 1st of the year before the implementation year, according to the demand of the uneconomic area, promulgate and designate the telecommunications enterprises installing fixed or mobile telecommunications networks to provide digital communication access universal service to specific villages and neighborhoods, the aforementioned enterprises shall incorporate the universal service into the implementation plan referred to in the preceding paragraph.
+The administrative authority may, prior toMarch 1st of the year before the implementation year, according to the demand of villages with a population density no more than one-fifth of the average national population density and under the circumstances specified in Subparagraphs 2 to 6, Paragraph 2, Article 4, promulgate and designate the telecommunications enterprises installing mobile telecommunications networks to provide digital communication access universal service to specific villages and neighborhoods, and incorporate the universal service into the implementation plan referred to in Paragraph 1.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
@@ -142,7 +155,8 @@ Items subject to discounts and subsidies in the preceding paragraph are limited 
   <編章節>   Chapter 4 Operations and Management for Universal Service</編章節>
   <條文>
     <條號>Article 16</條號>
-    <條文內容><![CDATA[In order to manage the Telecommunications Universal Service Fund related matters, the competent authority（NCC）shall establish the Telecommunications Universal Service Fund Administrative Committee（hereafter referred as the "committee"）.
+    <條文內容><![CDATA[In order to manage the Telecommunications Universal Service Fund related matters, the competent authority shall establish the Telecommunications Universal
+Service Fund Administrative Committee（hereafter referred as the "committee" ） .
 The functions of the committee are set forth below:
 Assessment of the annual implementation plans of the universal service.
 Assessment of the subsidy applications of the universal service.
@@ -150,8 +164,7 @@ Assessment of the revenue figures for telecommunication service as reported by t
 Auditing and calculation of the proportions and amount of contributions to be made by the Participating Universal Service Carriers towards Universal Service Cost.
 Auditing and assessment of the incomes and expenses of the Telecommunications Universal Service Fund.
 Evaluation of the performance of the universal service regime.
-Other matters concerning the telecommunications universal service.
-From the date of enforcement of these Regulations, matters related to the Telecommunications Universal Service Fund stipulated in Article 27 of the Telecommunications Universal Service Regulations pursuant to Paragraph 4, Article 20 of the Telecommunications Act shall be governed by the committee established in accordance with Paragraph 1.]]></條文內容>
+Other matters concerning the telecommunications universal service.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 17</條號>
@@ -216,16 +229,18 @@ The competent authority（NCC）may request universal service providers and the 
   </條文>
   <條文>
     <條號>Article 24</條號>
-    <條文內容><![CDATA[Telecommunications enterprises shall contribute to universal service costs. However, the telecommunications enterprises shall be exempted from sharing the universal service cost in the implementation year if the revenue as designated by the competent authority（NCC）is not achieved.
-The telecommunication service revenue of the telecommunication enterprises registered in accordance with these Regulations in the current year shall include the pre-registration revenue of the telecommunication enterprise managed in accordance with the Telecommunication Act. Except for those that are not Participating Universal Service Carriers specified by the Telecommunications Act before the registration.
-The contributing telecommunications enterprises in Paragraph 1 shall be the Participating Universal Service Carriers, they must report annual telecommunication service revenue figures, which are audited by certified accountants, to the competent authority（NCC）by June 1 of the year after the implementation year, together with the relevant accounting certification information.
-The competent authority（NCC）may request participating universal service carriers and the certified accountants to submit supplementary information and explanations for the assessment of the telecommunication service revenue figures in the preceding Paragraph.
-The telecommunication service revenue figures of the Participating Universal Service Carriers, their telecommunications service revenue reported on corporate annual income tax forms in the implementation year; the revenue forgone of the various universal service categories may be deducted.]]></條文內容>
+    <條文內容><![CDATA[Telecommunications enterprises shall contribute to universal service costs.
+However, the telecommunications enterprises shall be exempted from sharing the universal service cost in the implementation year if the revenue as designated by the competent authority is not achieved.
+The contributing telecommunications enterprises in the preceding paragraph shall be the Participating Universal Service Carriers, they must report annual telecommunication service revenue figures, which are audited by certified accountants, to the competent authority by June 1 of the year after the implementation year, together with the relevant accounting certification information.
+The competent authority may request participating universal service carriers and the certified accountants to submit supplementary information and explanations for the assessment of the telecommunication service revenue figures in the preceding Paragraph.
+The telecommunication service revenue figures of the Participating Universal
+Service Carriers, their telecommunications service revenue reported on corporate annual income tax forms in the implementation year; the revenue forgone of the various universal service categories may be deducted.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[The participating universal service carriers shall share the amount of the universal service costs; the competent authority（NCC）shall multiply their proportion of the telecommunication service revenue in the implementation year of the participating universal service carriers’ total telecommunication service revenue as referred to in these Regulations and the Telecommunications Act with the universal service cost.
-The proportion and amount that shall be contributed by the Participating Universal Service Carriers in the preceding paragraph shall be announced by the competent authority.]]></條文內容>
+    <條文內容><![CDATA[The participating universal service carriers shall share the amount of the universal service costs; the competent authority shall multiply their proportion of the telecommunication service revenue in the implementation year of the participating universal service carriers’ total telecommunication service revenue as referred to in these Regulations with the universal service cost.
+The proportion and amount that shall be contributed by the Participating Universal
+Service Carriers in the preceding paragraph shall be announced by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 26</條號>
@@ -255,15 +270,15 @@ If the bad debts reserve fund runs out in any implementation year, any deficits 
   <編章節>   Chapter 5 Supplementary Provisions</編章節>
   <條文>
     <條號>Article 30</條號>
-    <條文內容><![CDATA[Within three years of the effective date of these Regulations, the competent authority may designate Type I telecommunications enterprises that have obtained a license in accordance with the Act and have not registered in accordance with these Regulations to serve as Type I universal service providers under these Regulations.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[The competent authority shall announce relevant information of the implementation plan in accordance with Article 6, Article 13, Article 15, Article 18, Article 23 and Article 25 of these Regulations as of 2022.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 32</條號>
-    <條文內容><![CDATA[Implementation plans of Universal Service Providers approved by the competent authority in accordance the Act shall continue to be implemented.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 33</條號>

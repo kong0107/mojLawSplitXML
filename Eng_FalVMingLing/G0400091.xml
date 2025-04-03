@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Information to be Published in Prospectuses by Securities Investment Trust Enterprises Offering Securities Investment Trust Funds</英文法規名稱>
 <中文法規名稱>證券投資信託事業募集證券投資信託基金公開說明書應行記載事項準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400091</法規網址>
-<最新英文異動日期>20221223</最新英文異動日期>
+<最新英文異動日期>20241225</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -12,7 +12,8 @@
 3. Full text of 26 articles amended and issued per 30 January 28 Order No. Financial-Supervisory-Securities-IV-0970000367 of the Financial Supervisory Commission, Executive Yuan; for implementation from the date of issuance
 4. Articles 13, 20, and 24, and Table 4 of Article 18 amended and issued per 29 December 2010 Order No. Financial-Supervisory-Securities-SITC-0990072692 of the Financial Supervisory Commission, Executive Yuan
 5. Articles 6, 22, and 26 amended and issued per 27 July 2012 Order No. Financial-Supervisory-Securities-SITC-1010033473 of the Financial Supervisory Commission; for enforcement from the date of issuance except for Article 22, which shall enter into force from the fiscal year of 2013
-6. Article 6 amended and Article 13-1 added per 23 December 2022 Order No. Financial-Supervisory-Securities-SITC-1110385588 of the Financial Supervisory Commission]]></沿革內容>
+6. Article 6 amended and Article 13-1 added per 23 December 2022 Order No. Financial-Supervisory-Securities-SITC-1110385588 of the Financial Supervisory Commission
+7. Articles 6, 13, 19, and 20 amended per 25 December 2024 Order No. Financial-Supervisory-Securities-SITC-1130386527 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -43,7 +44,7 @@ If, prior to the printing of the prospectus and simplified prospectus described 
     <條號>Article 6</條號>
     <條文內容><![CDATA[The following items shall be printed in the order below on the cover of a prospectus:
 1. Fund name. A principal protection fund shall indicate, in parentheses, in a different color, and in conspicuous print, the principal protection percentage and the type of the fund (either "principal guaranteed" or "principal protected").
-2. Fund type. State whether the fund is an equity fund, bond fund, balanced fund, principal protection fund, fund-of-funds, index fund, exchange-traded fund (ETF), money market fund, umbrella fund, or another type of fund authorized by the Financial Supervisory Commission (FSC).
+2. Fund type. State whether the fund is an equity fund, bond fund, balanced fund, principal protection fund, fund-of-funds, index fund, passive exchange-traded fund ("passive ETF"), active exchange-traded fund ("active ETF"), money market fund, umbrella fund, or another type of fund authorized by the Financial Supervisory Commission (FSC).
 3. Fundamental investment policy.
 4. Fund structure (open-end or closed-end).
 5. For a fund that invests offshore, the words "invested offshore" shall be clearly indicated.
@@ -62,6 +63,7 @@ F. Please see page   to page   for a disclosure of restrictions on the use of th
 G. In the event there is any misrepresentation or nondisclosure in this prospectus, the SITE, its responsible persons, and any other persons whose signature or seal appear on the prospectus shall be held legally liable.
 H. Web addresses for inquiries regarding the prospectus, including the web address of the information reporting website designated by the FSC, and the web address where the company discloses the relevant prospectus materials.
 I. For a trust enterprise concurrently operating securities investment trust business that has obtained approval from the FSC to keep fund assets in its own custody, explicitly state that the assets of the fund are kept in its own custody and that a trust supervisor has been appointed.
+J. For an active ETF, print the following statement: "This fund's investment objective is not to track, simulate, or replicate the performance of a specific index, but rather for the management company to invest the fund in accordance with the investment strategies it sets." If performance indicators are set for an active ETF, additionally print wording such as "The fund's performance indicators are for reference in evaluating the fund's performance. The fund does not track, simulate, or replicate the performance of the performance indicators."
 12. Date of printing.
 A prospectus prepared for use in an application (or regulatory filing) to offer a securities investment trust fund shall clearly indicate on its cover that it is a draft version for application (or regulatory filing) purposes only.
 The "fundamental investment policy" item described in paragraph 1, subparagraph 3 may otherwise provide a note indicating the page number where the information can be found in the prospectus.]]></條文內容>
@@ -174,11 +176,13 @@ a. The nature of the instruments to which the relevant investments are linked.
 b. The set parameters of the fund, including the participation rate and investment duration, with a notation of when the actual participation rate is determined and how beneficial owners are notified.
 c. For a capital protected fund without a guarantor, include a statement that the fund is not guaranteed by a guarantor, but achieves the function of principal protection through the use of various investment tools.
 d. For a capital protected fund, state the control mechanisms for achieving principal protection upon disposal of fund assets to meet the early redemption requests by beneficial owners and at maturity.
-B. Index fund or exchange-traded fund:
+B. Index fund or passive ETF:
 a. How the index is constructed and the operating strategies used by the management company to track, simulate, or replicate the performance of the index, including an indication of the portfolio rebalancing strategies, and, when the fund invests in a representative sample of securities in the index, of the sampling and operating strategies used so that the sample would closely reflect the overall characteristics of the index.
 b. A comparison that shows the performance difference between the fund and the benchmark index, with a clear indication of the definitions and calculation formulas for such comparison.
+c. If the component securities of the underlying index include both stocks and bonds, the index compilation rules shall specify the proportion of allocation of each type of component security.
 C. Umbrella fund. Describe the investment scope of each sub-fund and their main distinctive features, and compare their differences and similarities. For required information that is common to all sub-funds, the information need not be repeated, but instead a note may be used indicating that the information is the same for all sub-funds; for required information that is different for each sub-fund, the information shall be presented separately and their differences compared.
 D. Fund denominated in a foreign currency. State the currency in which the fund is denominated and that all receipts and payments of the subscription and redemption prices are made in that currency.
+E. Active ETF: If performance indicators are set, explain the characteristics of the indicators and the differences between the fund's performance and the performance indicator performance in terms of investment strategy and features, and also state a comparison of the difference in performance between the fund and the performance indicators, and specify in the comparison method the definitions and calculation formula used.
 The term "main region/country of investment" and "main securities market of investment" as used respectively in subparagraph 8, items (1) and (2) of the preceding paragraph refers to any geographic region or country, or any foreign or overseas securities exchange market, as the case may be, in which the fund actually invests 10 percent or more of its net asset value as of the end of the month preceding the prospectus printing date. Notwithstanding the foregoing, if the combined total of investments in all such regions/countries or securities exchange markets is less than 50 percent of the net asset value, the disclosure of the information on the "main region/country of investment" or "main securities market of investment" shall instead include a list of regions/countries or securities exchange markets in which the fund actual invests, arranged in descending order of investment percentage, that cumulatively account for 50 percent or more of the fund's total investments.
 If no figure is available for the actual investment amount of the fund under the preceding paragraph, the SITE may instead use its projected figures.]]></條文內容>
   </條文>
@@ -254,7 +258,8 @@ C. Methods by which resolutions are passed.]]></條文內容>
     <條文內容><![CDATA[The "fund information disclosure" item shall include the following information:
 1. The information required by laws and regulations or by the securities investment trust agreement to be disclosed.
 2. How the information is disclosed and published and how to obtain the information.
-3. If the SITE applies to offer an index fund or exchange-traded fund, describe the methods or channels by which investors may obtain the most up-to-date information on the fund (such as changes in index composition and comparisons of the differences in performance between the fund and the index) and other important information.]]></條文內容>
+3. If the SITE applies to offer an index fund or passive ETF, describe the channels by which investors may obtain the most up-to-date information on the fund, such as changes in index composition and comparisons of the differences in performance between the fund and the index and other important information.
+4. If the SITE applies to offer an active ETF for which performance indicators are set, describe the channels by which investors may obtain the most up-to-date information on the fund, such as the comparison of the differences in performance between the fund and the performance indicators and other important information.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -268,7 +273,7 @@ D. For a fund that invests 1 percent or more of its net asset value in the benef
 A. A chart showing the movement in net asset value per unit over the most recent 10 fiscal years.
 B. Indicate the dollar amount of income/gains distributed per beneficial unit for each of the most recent 10 fiscal years.
 C. Indicate the fund’s annual rate of return on net asset value for each of the most recent 10 fiscal years.
-D. Indicate the fund's cumulative rate of return on net asset value, current as of the end of the quarter preceding the prospectus printing date, for the most recent 3 months, 6 months, 1 year, 3 years, 5 years, and 10 years, as well as since inception (see Table 8 for details of the formula for rate of return). For an index fund or exchange-traded fund, additionally provide a comparison showing the performance difference between the fund and the benchmark index.
+D. Indicate the fund's cumulative rate of return on net asset value, current as of the end of the quarter preceding the prospectus printing date, for the most recent 3 months, 6 months, 1 year, 3 years, 5 years, and 10 years, as well as since inception (see Table 8 for details of the formula for rate of return). For an index fund or passive ETF, additionally provide a comparison showing the performance difference between the fund and the benchmark index. For an active ETF additionally provide a comparison showing the performance difference between the fund and the performance indicators.
 3. Indicate the fund’s expense ratio for each of the most recent 5 fiscal years: calculated as the ratio of the total amount of fees to be borne by the fund, as provided by the securities investment trust contract, to the fund’s average net asset value.
 4. Include the CPA audit reports, statements of net asset value, statements of investments, and statements of changes in net asset value with footnotes, of the fund for each of the most recent 2 fiscal years.
 5. Indicate, for the most recent fiscal year and for the current year as of the end of the quarter preceding the prospectus printing date, the top 5 securities firms receiving orders from the fund to buy/sell securities (in terms of total dollar amount), specifying the name of and the amount of brokerage fees paid to each such securities firm. If any of these securities firms is a beneficial owner of the fund, also disclose the number and ratio of beneficial units it holds in the fund (Table 9).
