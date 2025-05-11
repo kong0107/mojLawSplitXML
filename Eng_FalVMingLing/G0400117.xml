@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Preparation of Financial Reports by Futures Commission Merchants</英文法規名稱>
 <中文法規名稱>期貨商財務報告編製準則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400117</法規網址>
-<最新英文異動日期>20240124</最新英文異動日期>
+<最新英文異動日期>20250207</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -18,7 +18,8 @@
 9. Articles 14 to 16, 18, 27, and 29 amended and issued, and Article 37-1 added, per 29 December 2011 Order No. Financial-Supervisory-Securities-Futures-1000062549 of the Financial Supervisory Commission, Executive Yuan; for enforcement from 1 January 2013
 10. Articles 12 and 39 amended and issued per 12 July 2012 Order No. Financial-Supervisory-Securities-Futures-1010030979 of the Financial Supervisory Commission; for implementation from the fiscal year of 2013
 11. Articles 2, 9, 10, 14, 24, 30, 37, and 39 amended and issued per 5 February 2014 Order No. Financial-Supervisory-Securities-Firms-1030001538 of the Financial Supervisory Commission; for enforcement from 1 January 2014
-12. Full text of 41 Articles amended and issued per 11 September 2014 Order No. Financial-Supervisory-Securities-Firms-1030034680 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 4, 7, 13 to 19, 22, 24, 26, 27, 35, and 37, and Article 12, paragraph 1, which will come into force from the beginning of financial year 2015
+12. Full text of 41 Articles amended and issued per 11 September 2014 Order No. Financial-Supervisory-Securities-Firms-1030034680 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 4, 7, 13 to
+19, 22, 24, 26, 27, 35, and 37, and Article 12, paragraph 1, which will come into force from the beginning of financial year 2015
 13. Articles 14, 18, 22, 24, 25, 30 to 34, and 41, and the title of Chapter V, amended, and Articles 35-1 and 35-2 added, per 14 February 2017 Order No. Financial-Supervisory-Securities-Firms-1060002308 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 14, 18, 22, 25, 35-1, and 35-2, which will come into force from financial year 2017
 14. Articles 14 to 18, 22, 29, 30, 38, 39, and 41 amended per 14 September 2017 Order No. Financial-Supervisory-Securities-Firms-1060032840 of the Financial Supervisory Commission; for enforcement from financial year 2018
 15. Articles 14, 15, 22, 26, 29, 30, and 41 amended, and Articles 36, 37, and 38 and the title "Chapter VI" deleted, per 30 July 2018 Order No. Financial-Supervisory-Securities-Firms-1070324179 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 14, paragraph 4, subparagraphs 3 and 4, and paragraph 6, and Articles 15, 22, and 29, which will come into force from financial year 2019.
@@ -26,7 +27,8 @@
 17. Articles 24 and 41 amended and issued per 18 March 2020 Order No. Financial-Supervisory-Securities-Firms-1090360934 of the Financial Supervisory Commission; for enforcement from financial year 2020
 18. Articles 30, 32, and 33 amended, and Article 11-1 added, per 22 February 2022 Order No. Financial-Supervisory-Securities-Firms-1110380507 of the Financial Supervisory Commission
 19. Articles 7, 10, 12, 14 to 16, 21 to 23, and 41 amended and issued per 24 November 2022 Order No. Financial-Supervisory-Securities-Futures-1110385042 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 12, which will come into force from financial year 2022, and Article 10 and Article 14, paragraph 4, subparagraph 1, item B, which will come into force from financial year 2023.
-20. Articles 15, 16, 30, and 41 amended and issued per 24 January 2024 Order No. Financial-Supervisory-Securities-Firms-1130380001 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of the introductory part of paragraph 3, and paragraph 4, of Article 15, which will come into force from financial year 2024.]]></沿革內容>
+20. Articles 15, 16, 30, and 41 amended and issued per 24 January 2024 Order No. Financial-Supervisory-Securities-Firms-1130380001 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of the introductory part of paragraph 3, and paragraph 4, of Article 15, which will come into force from financial year 2024.
+21. Articles 14, 30, and 31 amended and issued, and Article 33-1 added, per 7 February 2025 Order No. Financial-Supervisory-Securities-Firms-1140380326 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -116,7 +118,7 @@ An FCM preparing interim financial reports shall follow the provisions of Chapte
     <條文內容><![CDATA[The meaning of "parent," "subsidiary," "associate," and "joint arrangement" as used in these Regulations shall be determined in accordance with IFRS 10 and 11, and IAS 28.
 The meaning of "control," "significant influence," or "joint control" as used in these Regulations shall be determined in accordance with IFRS 10 and 11, and IAS 28.]]></條文內容>
   </條文>
-  <編章節>   Chapter II Financial Reports</編章節>
+  <編章節>   Chapter II</編章節>
   <編章節>      Section I Balance Sheet</編章節>
   <條文>
     <條號>Article 14</條號>
@@ -147,10 +149,10 @@ C. The FCM shall establish evaluation and assessment working procedures and coll
 A. Financial asset that is a designated and effective hedging instrument under hedge accounting requirements.
 B. The FCM shall classify these financial assets as derivative instruments or as non-derivative financial assets measured at fair value through profit or loss or not measured at fair value through profit or loss.
 6. Customer margin accounts: Trading margins and premiums, and the related settlement differences, collected from futures traders in accordance with applicable requirements by an FCM conducting futures brokerage business.When the balance of customer margin accounts does not match that of futures traders' equity, the reason for the difference shall be indicated in the notes.
-7. Futures trading margins receivable: Any amount to be recovered by an FCM for a debit balance in futures traders' equity.</li/>
+7. Futures trading margins receivable: Any amount to be recovered by an FCM for a debit balance in futures traders' equity.
 8. Deposits for securities borrowed: Guarantee amounts deposited in Securities Borrowing and Lending transactions, either for borrowing underlying securities from the holders or for short selling on an exchange market.
 9. Collateral for securities borrowed: Collateral posted in Securities Borrowing and Lending transactions, either for borrowing underlying securities from the holders or for short selling on an exchange market.
-10. Trade receivables: Means the FCM has an unconditional contractual right to consideration for services that have been transferred.</li/>
+10. Trade receivables: Means the FCM has an unconditional contractual right to consideration for services that have been transferred.
 A. Trade receivables shall be measured in accordance with IFRS 9. However, short-term trade receivables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
 B. With respect to discounted or transferred trade receivables, an assessment shall be made to determine whether the risks and rewards of the trade receivables, and the control retained over them, will qualify them for derecognition under IFRS 9.
 C. Trade receivables from related parties in significant amounts shall be presented separately.
@@ -167,7 +169,7 @@ D. When assets or disposal groups meet the definition of held for distribution t
 Non-current assets: Tangible, intangible and financial assets of a long-term nature, other than assets classified as current. As a minimum, non-current assets shall include the following asset line items:
 1. Investments accounted for using the equity method:
 A. The valuation and presentation of investments accounted for using the equity method shall be made in accordance with IAS 28.
-B. When investment gain or loss is recognized, if the financial reports prepared by an associate do not conform to these Regulations, those financial reports shall first be adjusted to achieve conformance before they may be used to recognize investment gain or loss. The financial reports of an associate used in applying the equity method shall be prepared as of the same date as that of the investor, and if prepared as of a different date, adjustments shall be made for the effects of material transactions or events that occur between that date and the date of the investor's financial reports. In no case shall there be more than 3 months difference between the balance sheet date of the associate and that of the investor. If a CPA determines, pursuant to Standards on Auditing 320, that an associate has a material effect on the fair presentation of the financial reports of an investor, the financial reports of the associate shall be audited by a CPA in accordance with the Regulations Governing Auditing and Attestation of Financial Statements by Certified Public Accountants and the Standards on Auditing.
+B. When investment gain or loss is recognized, if the financial reports prepared by an associate do not conform to these Regulations, those financial reports shall first be adjusted to achieve conformance before they may be used to recognize investment gain or loss. The financial reports of an associate used in applying the equity method shall be prepared as of the same date as that of the investor, and if prepared as of a different date, adjustments shall be made for the effects of material transactions or events that occur between that date and the date of the investor's financial reports. In no case shall there be more than 3 months difference between the balance sheet date of the associate and that of the investor. If a CPA determines, pursuant to Standards on Auditing 320, that an associate has a material effect on the fair presentation of the financial reports of an investor, the financial reports of the associate shall be audited by a CPA in accordance with the Regulations Governing Financial Statement Audit and Attestation Engagements of Certified Public Accountants and the Standards on Auditing.
 C. If an investment accounted for using the equity method is pledged as collateral or otherwise subject to any restriction or limitation, that fact shall be noted.
 2. Property and equipment:
 A. Tangible asset items that are held for use in the production or supply of goods or services, for rental to others, or for administrative purposes, and that are expected to be used during more than 1 financial year or 1 operating cycle.
@@ -202,14 +204,14 @@ The items described in paragraphs 3 and 4 in relation to financial assets at fai
     <條號>Article 15</條號>
     <條文內容><![CDATA[Liabilities shall be properly classified. Current and non-current liabilities shall be distinguished.
 For each liability line item, the total amount expected to be settled within 12 months after the balance sheet date and the total amount expected to be settled more than 12 months after the balance sheet date shall be separately presented in the financial reports or disclosed in the notes.
-Current liability means that the FCM expects to settle the liability in its normal operating cycle; that it holds the liability primarily for the purpose of trading; that the liability is due to be settled within 12 months after the balance sheet date, even if an agreement to refinance or to reschedule payments on a long-term basis is completed after the balance sheet date and before the financial reports are authorized for issue; or that the FCM on the balance sheet date does not have in substance the right to defer settlement of the liability for at least 12 months after the balance sheet date. Terms of a liability that could, at the option of the counterparty, result in its settlement by transfer of the FCM's own equity instruments do not affect its classification as current or non-current if the FCM classifies the option as an equity instrument. As a minimum, the current liabilities shall include the following line items:
+Current liability means that the FCM expects to settle the liability in its normal operating cycle; that it holds the liability primarily for the purpose of trading; that the liability is due to be settled within 12 months after the balance sheet date, even if an agreement to refinance or to reschedule payments on a long-term basis is completed after the balance sheet date and before the financial reports are authorized for issue; or that the FCM on the balance sheet date does not have in substance the right to defer settlement of the liability for at least 12 months after the balance sheet date. Terms of a liability that could, at the option of the counterparty, result in its settlement by the transfer of the FCM's own equity instruments do not affect its classification as current or non-current if the FCM classifies the option as an equity instrument. As a minimum, the current liabilities shall include the following line items:
 1. Short-term borrowings:
 A. Includes short-term borrowings from banks, overdrafts, and other short-term borrowings.
 B. For short-term borrowing, the nature of the borrowing, the guarantee status, and the interest rate range shall be noted based on the type of borrowing. If collateral is provided, the name and carrying amount of the collateral shall be noted.
 C. Borrowings from non-financial, non-insurance institutions made in accordance with Article 21 of the Regulations Governing Futures Commission Merchants shall be presented separately.
 2. Commercial paper payable:
 A. Commercial paper issued through financial institutions to acquire funds from the money market.
-B. Commercial paper payable shall be measured at amortized cost using the effective interest method. However, commercial paper payable with no stated interest rate may be measured at the original face amount if the effect of discounting is immaterial. >
+B. Commercial paper payable shall be measured at amortized cost using the effective interest method. However, commercial paper payable with no stated interest rate may be measured at the original face amount if the effect of discounting is immaterial.
 C. For commercial paper payable, the guarantor or accepting institution and the interest rate shall be noted. If collateral is provided, the name and carrying amount of the collateral shall be noted.
 3. Financial liabilities at fair value through profit or loss – current:
 A. Financial liabilities held for trading:
@@ -561,7 +563,7 @@ G. If the average annual salary of the full-time non-management employees in a T
 H. If a TWSE or TPEx listed FCM had an increase of 10 percent or more in net profit after tax for the most recent fiscal year, and the average annual salary of its full-time non-management employees did not increase relative to the preceding fiscal year, the FCM shall disclose the remuneration paid to each individual director and supervisor.
 I. If a TWSE or TPEx listed FCM had a decline in after-tax net income reaching 10 percent and exceeding NT$5 million for the most recent fiscal year, along with an increase in its average remuneration per director (not including the remuneration of those who are also employees) reaching 10 percent and exceeding NT$100,000, the FCM shall disclose the remuneration paid to each individual director and supervisor.
 J. If the circumstance in item B or item F applies to an FCM listed on the TWSE or the TPEx, it shall disclose the individual remuneration paid to each of its top five management personnel.
-3. Number of employees in non-management positions, average annual employee benefit expenses for the fiscal year, and difference compared to those of the preceding year.
+3. Number of full-time employees in non-management positions, average and median salaries of full-time employees in non-management positions, and the differences in those three figures compared to those of the preceding fiscal year.
 4. Labor-management relations:
 A. Indicate each item of employee benefit policies, professional development, training, or retirement programs and the status of their implementation, as well as agreements between labor and management and policies for safeguarding employees' rights and interests.
 B. List the loss sustained as a result of labor disputes in the most recent financial year, together with the disclosure of an estimate of losses incurred to date or likely to be incurred in the future and the mitigation measures taken or to be taken. If the losses cannot be reasonably estimated, the FCM shall make a statement to that effect.
@@ -576,11 +578,7 @@ B. List any losses suffered by the FCM in the most recent fiscal year due to sig
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[An FCM shall disclose the following financial overview:
-1. Condensed balance sheet and statement of comprehensive income for the most recent 5 years, and shall specify the name of the CPAs and the auditor's opinion.
-2. Financial analysis for the most recent 5 years: including financial structure, solvency, profitability, cash flows and the rates of other special requirements, and explain the reasons for the change of each of the financial ratios over the most recent 2 fiscal years.
-3. If the FCM or an affiliated enterprise has encountered any financial difficulties in the most recent fiscal year, the impact on the company's financial condition shall be set forth.
-"Affiliated enterprise" in subparagraph 3 of the preceding paragraph means an affiliated enterprise as defined in Article 369-1 of the Company Act.]]></條文內容>
+    <條文內容><![CDATA[An FCM shall disclose its financial analysis for the most recent 5 fiscal years, the content of which shall include financial structure, solvency, profitability, cash flows and the rates of other special requirements, and explain the reasons for the change of each of the financial ratios over the most recent 2 fiscal years.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 32</條號>
@@ -628,6 +626,10 @@ b. If prior to the formal engagement of the successor CPAs, the FCM consulted th
 c. The FCM shall consult and obtain written views from the successor CPAs regarding the matters on which the FCM disagreed with the former CPAs, and disclose information on these views.
 C. The FCM shall by letter provide the former CPAs with a copy of the disclosures it is making in response to item A and item B(c), and advise the CPAs of the need to respond by letter within 10 days should the CPAs disagree on any such matters. The FCM shall disclose the content of the reply letter from the former CPAs.
 3. Where the FCM's chairperson, general manager, or any managerial officer in charge of finance or accounting matters has in the most recent year held a position at the accounting firm of its attesting CPAs or at an affiliated enterprise of such accounting firm, the name and position of the person, and the period during which the position was held, shall be disclosed. The term "affiliated enterprise" of the accounting firm of the attesting CPAs means an enterprise in which CPAs of the accounting firm to which the attesting CPAs belong hold more than 50 percent of the shares, or of which they hold more than half of the directorships, or any company or institution listed as an affiliated enterprise in the external publications or printed materials of the accounting firm of the attesting CPAs.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 33-1</條號>
+    <條文內容><![CDATA[If the content of any information required to be reported under Article 30, subparagraph 5 has already been publicly announced and reported on the information reporting website designated by the FSC, it may be incorporated in the "Other disclosures" of the financial report by cross-reference to the source where the information can be found, whereupon, such publicly announced and reported information shall be deemed content of the "Other disclosures" of the financial report.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 34</條號>
