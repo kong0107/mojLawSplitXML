@@ -106,7 +106,7 @@ III.    New pollution sources shall also include, after April 12, 1992, increase
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[Gas pollutants that fail to be listed in standards for emissions pipes shall be calculated in accordance with the following methods for standards for emissions pipes:
-I.      When a low emissions pipe is h￡6m (meters).
+I.      When a low emissions pipe is h<=6m (meters).
 q = a2‧b2
 b: the minimum horizontal distance from the emissions pipe outlet of the pollution source to the peripheral boundary of the pollution source, in units of m (meters).
 II.     When a taller emissions pipe is h > 6m

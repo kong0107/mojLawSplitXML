@@ -3,20 +3,21 @@
 <英文法規名稱>Regulations Governing Managed Futures Enterprises</英文法規名稱>
 <中文法規名稱>期貨經理事業管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400113</法規網址>
-<最新英文異動日期>20201026</最新英文異動日期>
+<最新英文異動日期>20250506</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1. Full text of 57 articles adopted and issued per 8 November 2002 Order No. Taiwan-Finance-Securities-VII-0910005648 of the Securities and Futures Commission, Ministry of Finance; for enforcement from the date of issuance
 2. Articles 23 and 54 amended and issued per 19 January 2004 Order No. Taiwan-Finance-Securities-VII-0930000297 of the Securities and Futures Commission, Ministry of Finance
 3. Articles 2, 17, 20, 23, 25, 26, and 54 amended and issued, and Article 23-1 newly added per 3 February 2006 Order No. Financial-Supervisory-Securities-VII-950000524 of the Financial Supervisory Commission, Executive Yuan
-4. Full text of 67 articles amended and issued per 31 December 2007 Order No. Financial Supervisory-Securities-VII-0960073242 of the Financial Supervisory Commission, Executive Yuan; for enforcement from the date of issuance 
+4. Full text of 67 articles amended and issued per 31 December 2007 Order No. Financial Supervisory-Securities-VII-0960073242 of the Financial Supervisory Commission, Executive Yuan; for enforcement from the date of issuance
 5. Article 12 amended and issued per 2 August 2010 Order No. Financial Supervisory-Securities-Futures-0990041012 of the Financial Supervisory Commission, Executive Yuan
 6. Articles 52, 53, 56, and 65 amended and issued, and Articles 51-1 and 66-1 newly added, per 11 October 2010 Order No. Financial-Supervisory-Securities-Firms-0990051567 of the Financial Supervisory Commission, Executive Yuan
 7. Articles 21, 22, and 67 amended and issued per 12 July 2012 Order No. Financial-Supervisory-Securities-Futures-1010030979 of the Financial Supervisory Commission; for enforcement from the date of issuance, except for Article 22, which shall be enforced from the fiscal year 2013
 8. Articles 17, 23, 28 and 33 amended and issued per 29 May 2014 Order No. Financial-Supervisory-Securities-Futures-1030013322 of the Financial Supervisory Commission
 9. Articles 49 to 51, 52, and 58 amended and issued per 15 May 2019 Order No. Financial-Supervisory-Securities-Futures-1080314358 of the Financial Supervisory Commission
-10. Article 51 amended and issued per 26 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364936 of the Financial Supervisory Commission]]></沿革內容>
+10. Article 51 amended and issued per 26 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364936 of the Financial Supervisory Commission
+11. Articles 54, 58, and 60 amended and issued per 6 May 2025 Order No. Financial-Supervisory-Securities-Futures-1140381689 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -41,7 +42,7 @@
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[The term "responsible person" as used in these Regulations refers to a person who shall bear responsibility under Article 8 of the Company Act or the provisions of other acts.]]></條文內容>
+    <條文內容><![CDATA[The term "responsible person" as used in these Regulations refers to a person who shall bear responsibility under Article 8 of the Company Act or the provisions of other laws.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -59,7 +60,7 @@
   <條文>
     <條號>Article 8</條號>
     <條文內容><![CDATA[Managed futures enterprises shall establish internal control systems pursuant to the  Regulations Governing the Establishment of Internal Control Systems by Service Enterprises in Securities and Futures Markets set by the Competent Authority and the Rules Establishing Standards for the Internal Control Systems of Managed Futures Enterprises prescribed by the Chinese National Futures Association ("CNFA").
-The operation of managed futures enterprises shall be carried out in accordance with acts and regulations, the enterprise's articles of incorporation, and the internal control system prescribed in the preceding paragraph.
+The operation of managed futures enterprises shall be carried out in accordance with laws and regulations, the enterprise's articles of incorporation, and the internal control system prescribed in the preceding paragraph.
 For a discretionary futures trading case of a specific dollar amount or higher, or in which there is any suspicion of money laundering, the managed futures enterprise shall keep trading vouchers and records of the verification of customer identity and quotations sufficient for a full understanding of the transaction, and shall comply with the Money Laundering Control Act and internal control system rules.
 The adoption of the internal control system of paragraph 1, and amendments thereto, shall be reported to the board of directors for their approval, and documentation on the system retained for reference. Amendments to the internal control system shall be adopted within the prescribed time limit pursuant to notice by the Competent Authority or other futures-related agencies.
 The "specific dollar amount" referred to in paragraph 3 is as provided in the Money Laundering Control Act.]]></條文內容>
@@ -72,7 +73,7 @@ The exclusive departments specified in the preceding paragraph shall be respecti
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[Managed futures enterprises shall establish internal auditing systems to audit the enterprise's finances and operations on a regular or an irregular basis; audit reports shall be compiled and retained for reference.
-The audit report referred to in the preceding paragraph shall note whether the enterprise's finances and operations are in compliance with applicable acts and regulations and the enterprise's internal control system.]]></條文內容>
+The audit report referred to in the preceding paragraph shall note whether the enterprise's finances and operations are in compliance with applicable laws and regulations and the enterprise's internal control system.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
@@ -91,7 +92,7 @@ For matters to be reported to the Competent Authority for prior approval pursuan
     <條文內容><![CDATA[If any of the following circumstances exists at a managed futures enterprise, it shall report to the Competent Authority:
 1. Commencement, suspension, resumption, or termination of operations.
 2. Change of the responsible person.
-3. Where, due to circumstances arising out of operations at the managed futures enterprise, the responsible person or any of the associated persons or other personnel is involved in litigation or arbitration, or is subject to compulsory execution as an obligor, or the managed futures enterprise is a bankrupt, or is refused services or has a negotiable instrument dishonored by a bank.
+3. Where, due to circumstances arising out of operations at the managed futures enterprise, the responsible person or any of the associated persons or other personnel is involved in litigation or arbitration, or is subject to compulsory execution as an obligor, or the managed futures enterprise is a bankrupt, or has a negotiable instrument dishonored or is blacklisted by a bank.
 4. Where any circumstance in Article 5 of the Standards for the Establishment of Managed Futures Enterprises applies to the responsible person or an associated person.
 5. Where an act of the responsible person, an associated person, or other personnel violates the Act or any order of the Competent Authority issued pursuant to the Act.
 6. When there is a change in the shareholding of the responsible person or any shareholder holding five percent or more of the enterprise's shares.
@@ -149,7 +150,7 @@ Reports submitted pursuant to the preceding paragraph shall be forwarded to the 
   <條文>
     <條號>Article 22</條號>
     <條文內容><![CDATA[Prior to accepting a discretionary futures trading order from a principal, a managed futures enterprise shall provide a trading risk disclosure statement and a mandate contract for discretionary futures trading, and appoint a registered, qualified associated person to apprise the principal of the nature of trades or investments, the possible risks, and the content of the mandate contract; in addition, it shall provide the principal with written materials on the following matters, along with a detailed explanation thereof:
-1. The characteristics, possible risks, and statutory and regulatory restrictions, of the subjects of trades or investments.
+1.The characteristics, possible risks, and statutory and regulatory restrictions, of the subjects of trades or investments.
 2. The balance sheets and statements of comprehensive income of the managed futures enterprise for the previous two fiscal years.
 3. The total number of accounts and the total amount of assets accepted for discretionary futures trading by the managed futures enterprise for the five fiscal years prior to the given quarter; the numbers of closed accounts which showed positive returns and the number which showed negative returns for the same period; and the numbers of open accounts showing positive returns and the number showing negative returns for the same period, provided that managed futures enterprises not yet in operation for a full year may be exempted from the requirement to provide such written materials and explanations to the principal.
 4. For each person making trading decisions in discretionary trading for the managed futures enterprise: educational and professional background; any sanctions imposed by the Competent Authority in the most recent two years pursuant to Article 101 of the Act, Article 104 of the Securities Investment Trust and Consulting Act, or Article 56 of the Securities and Exchange Act; for the five years prior to that quarter, the number of accounts and total amount of managed assets for which trade or investment decisions were made; the number of closed accounts which showed positive returns and the number which showed negative returns; and the number of open accounts showing positive returns and the number showing negative returns, provided that a managed futures enterprise not yet in operation for a full year may be exempted from the requirement to provide such written materials and explanations to the principal.
@@ -208,7 +209,7 @@ To terminate a mandate contract for discretionary futures trading during the dur
   <條文>
     <條號>Article 25</條號>
     <條文內容><![CDATA[In conducting discretionary futures trading business, if the scope of permitted trading or investment increases due to a change in laws or regulations, the relevant risk monitoring and management measures and accounting treatment matters shall be added to the internal control system, and submitted to the board of directors for approval.
-After a managed futures enterprise enters into a mandate contract for discretionary futures trading, if the scope of permitted trading or investment increases due to a change in acts or regulations, it shall complete revision of the mandate contract for discretionary futures trading before commencing to engage in trading or investment within such expected scope.]]></條文內容>
+After a managed futures enterprise enters into a mandate contract for discretionary futures trading, if the scope of permitted trading or investment increases due to a change in laws or regulations, it shall complete revision of the mandate contract for discretionary futures trading before commencing to engage in trading or investment within such expected scope.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 26</條號>
@@ -342,7 +343,7 @@ Discretionary futures trading operations shall be carried out by managed futures
   <條文>
     <條號>Article 42</條號>
     <條文內容><![CDATA[Managed futures enterprises shall keep all certificates, receipts, account books, statistical forms, records, contracts, and evidentiary documents related to their operations at their places of business, available at all times for inspection by the Competent Authority or an agency designated thereby.
-The period for which the certificates, receipts, account books, statistical forms, records, contracts, and related evidentiary documents referred to in the preceding paragraph shall be retained shall be determined according to the Business Accounting Act and other relevant acts and regulations, and in addition shall comply with relevant regulations to be adopted by the CNFA..
+The period for which the certificates, receipts, account books, statistical forms, records, contracts, and related evidentiary documents referred to in the preceding paragraph shall be retained shall be determined according to the Business Accounting Act and other relevant laws and regulations, and in addition shall comply with relevant regulations to be adopted by the CNFA..
 The regulations to be adopted by the CNFA pursuant to the preceding paragraph, and any amendments thereto, shall be submitted to the Competent Authority for recordation.]]></條文內容>
   </條文>
   <條文>
@@ -398,8 +399,8 @@ The format of the statistical forms referred to in the preceding paragraph, and 
     <條文內容><![CDATA[A managerial officer that executes business as set out in Article 7 and an associated person that makes trading decisions for discretionary futures trading business as set out in Article 7, subparagraph 1, unless otherwise provided by the Competent Authority, shall possess one of the following qualifications:
 1. Qualified as a futures trading analyst.
 2. Qualified as an associated person of a futures commission merchant pursuant to Article 5, subparagraphs 1 to 3 of the Personnel Regulations and also has work experience meeting one of the following criteria:
-A. Three or more years of experience engaging in securities or futures-related work at a securities or futures institution.
-B. Six years or more of work experience, with a good performance record, in a professional field such as information, technology, law, e-commerce, or digital economy.
+A.Three or more years of experience engaging in securities or futures-related work at a securities or futures institution.
+B.Six years or more of work experience, with a good performance record, in a professional field such as information, technology, law, e-commerce, or digital economy.
 If a person making trading decisions referred to in the preceding paragraph makes decisions regarding investment in futures-related spot commodities, the person shall possess futures-related spot commodity investment knowledge or experience, and shall participate in pre-service and in-service futures-related spot commodity training held by an institution designated by the Competent Authority.]]></條文內容>
   </條文>
   <條文>
@@ -426,7 +427,6 @@ If any of the following circumstances exists at a managed futures enterprise, th
 1. Any of the circumstances set out in Article 5 of the Standards Governing Establishment of Managed Futures Enterprises exist.
 2. The registree does not possess the qualifications set out in Articles 49 to 51 herein.
 3. The registree has violated the provisions of Articles 55 or 56 herein.
-4. The registree has failed to participate in pre-service training or in-service training pursuant to Articles 58 or 60 herein or to obtain a passing grade in such training.
 A managed futures enterprise shall report any change in its responsible person or associated persons to the CNFA within five business days from the day after such change occurs; prior to the registration of such change, the managed futures enterprise shall remain liable for the actions of such employees.]]></條文內容>
   </條文>
   <條文>
@@ -463,7 +463,7 @@ With respect to the deputation referred to in the preceding paragraph, the manag
   <條文>
     <條號>Article 58</條號>
     <條文內容><![CDATA[The associated persons of a managed futures enterprise shall participate in the pre-service and in-service training provided by an institution designated by the Competent Authority.
-A new associated person or an associated person returning to the position after two or more years since resignation shall participate in pre-service training within the six months prior to beginning to execute operations. Associated persons currently on the job shall participate in in-service training every two years.
+A new associated person or an associated person returning to the position after two or more years since resignation shall participate in pre-service training within the six months after reporting to work. Associated persons currently on the job shall participate in in-service training every two years.
 If an associated person of a futures trust enterprise that concurrently operates a managed futures enterprise applies for registration as an associated person of the managed futures enterprise, the person need not participate in the pre-service training under the preceding paragraph.
 A person who has participated in pre-service training and received a passing grade within one-half year before obtaining qualification as an associated person as specified in Articles 49 to 51, and is registered as an associated person and performs the duties of that position within one-half year after obtaining that associated person qualification, need not participate in the pre-service training for new associated persons under paragraph 2.
 When a person who obtains qualification as an associated person of a futures commission merchant pursuant to Article 5, subparagraphs 1 to 3 of the Personnel Regulations applies for registration as an associated person of a managed futures enterprise in a position other than a person making trading decisions, internal auditor, or in-charge accountant, the person shall participate in pre-service training for the number of hours specified by the CNFA.
@@ -475,7 +475,7 @@ The currently serving in-charge accountant of a managed futures enterprise that 
   </條文>
   <條文>
     <條號>Article 60</條號>
-    <條文內容><![CDATA[In the event that an associated person of a managed futures enterprise fails to participate in or pass in-service training, he/she shall be retrained within three months. Should he/she again fail to pass, the training institution will notify the CNFA to revoke his/her qualification as an associated person.]]></條文內容>
+    <條文內容><![CDATA[In the event that an associated person of a managed futures enterprise fails to participate in pre-service training or in-service training, or participates in the training but fails to pass, he/she shall be retrained within 1 year. Should he/she again fail to pass, his/her registration as an associated person shall be voided.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 61</條號>
@@ -492,7 +492,7 @@ The enterprise and personnel referred to in the preceding paragraph may not enga
 5. Providing one's own or other's name or account for use in trading or investment by a principal.
 6. Engaging in exaggerated or biased promotion or disseminating false information.
 7. Entering into mandate contracts by means of fraud, coercion, or other improper means.
-8. Any acts in contravention of acts and regulations in advertising or promotion.
+8. Any acts in contravention of laws and regulations in advertising or promotion.
 9. Representing a principal in executing trades or investments without having first entered into a discretionary futures trading mandate contract with the principal, or before the principal has entered into the related mandate contract with the custodian institution.
 10. Representing the principal in signing a discretionary futures trading mandate contract or the related mandate contract with the custodian institution.
 11. Directly or indirectly establishing a fixed place of business outside the enterprise's place of business at which to enter into discretionary futures trading mandate contracts with principals, provided that where the Competent Authority provides otherwise, this restriction shall not apply.
@@ -505,7 +505,7 @@ The enterprise and personnel referred to in the preceding paragraph may not enga
 18. Failing to produce a written trading decision based on the analysis report; or the analysis report obviously lacks a reasonable analytical foundation or basis.
 19. Misappropriating assets entrusted by the principal or keeping custody on behalf of the principal of assets entrusted by the principal or of any chop or account passbook of the principal.
 20. Handling or responding unnecessarily to queries regarding matters entrusted by a principal in a manner injurious to the principal's rights and interests.
-21. Where account books, statistical tables, or documents are required by act or regulation, handling the production, reporting, announcement, display, or safekeeping of such items in a manner contravening an act or regulation, or making false entries therein.
+21. Where account books, statistical tables, or documents are required by law or regulation, handling the production, reporting, announcement, display, or safekeeping of such items in a manner contravening any law or regulation, or making false entries therein.
 22. Failing to provide account books, statistical tables, documents, or other reference reporting materials within the specified time per order of the Competent Authority, or refusing or impeding an investigation of the Competent Authority undertaken pursuant to applicable law.
 23. Borrowing funds from a principal or acting as an intermediary in such borrowing.
 24. Producing falsified trading records.
@@ -526,7 +526,7 @@ Personnel other than associated persons are likewise prohibited from the conduct
   </條文>
   <條文>
     <條號>Article 64</條號>
-    <條文內容><![CDATA[Where there is any suspicion of a violation of a futures act or regulation by a responsible person, associated person, or other personnel at a managed futures enterprise, or in response to inquiries regarding execution of duties and related matters, such persons shall proceed to the office of the Competent Authority to explain or provide written materials within the time period prescribed by the Competent Authority.]]></條文內容>
+    <條文內容><![CDATA[Where there is any suspicion of a violation of a futures law or regulation by a responsible person, associated person, or other personnel at a managed futures enterprise, or in response to inquiries regarding execution of duties and related matters, such persons shall proceed to the office of the Competent Authority to explain or provide written materials within the time period prescribed by the Competent Authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 65</條號>

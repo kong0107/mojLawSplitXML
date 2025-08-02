@@ -3,12 +3,13 @@
 <英文法規名稱>Enforcement Rules of the Labor Occupational Accident Insurance and Protection Act</英文法規名稱>
 <中文法規名稱>勞工職業災害保險及保護法施行細則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0050039</法規網址>
-<最新英文異動日期>20231215</最新英文異動日期>
+<最新英文異動日期>20250529</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
 <沿革內容><![CDATA[1.Promulgated on March 11, 2022
-2.Amended on December 15, 2023]]></沿革內容>
+2.Amended on December 15, 2023
+3.Amended on May 29, 2025]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Terms</編章節>
@@ -62,7 +63,7 @@ To review insurance benefits, allowances and subsidies, the insurer may entrust 
 7.The person planning to run in election, candidates, and elected candidates for central or local public office elections, who employ labors for running an election or public office duties.
 8.Village or community offices that engage in social welfare service affairs according to the central or local government's social welfare service plans.
 9.Those who have undergone tax registration by the provisions of the Value-added and Non-value-added Business Tax Act or have been assigned the tax registration number of the withholding unit by the tax collection authority.
-10.Employers who have been approved by the central competent authority by employment service regulations to hire foreigners to engage in household care work or household chores.]]></條文內容>
+10.Other employers who have been approved by the central competent authority by employment service regulations to hire foreigners to engage in work.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
@@ -225,7 +226,10 @@ For those whose monthly income is not fixed, the average income of the last thre
   </條文>
   <條文>
     <條號>Article 27</條號>
-    <條文內容><![CDATA[During the period when the insured is hospitalized due to injury or illness or takes leave due to injury or illness, or during the period specified in Article 13 in which he is unable to continue to provide labor services, the insured salary shall not be adjusted.
+    <條文內容><![CDATA[An insured's insured salary shall not be adjusted during the period of their coverage if any of the following circumstances apply:
+1.They are hospitalized due to injury or illness, or are on leave due to injury or illness.
+2.Their duties are suspended in accordance with Article 13-1, Paragraph 1, or Article 32-3, Paragraph 2 of the Gender Equality in Employment Act, or Article 30, Paragraph 6 of the Gender Equity Education Act.
+3.They are unable to continue providing labor services during the period specified in Article 13.
 The insured salary of the insured mentioned in the preceding Paragraph shall be adjusted by the insurer when the first level of the insured salary for the insurance is amended.]]></條文內容>
   </條文>
   <條文>
@@ -271,11 +275,11 @@ The occupational accident insurance industry category and rate applicable to the
   </條文>
   <條文>
     <條號>Article 36</條號>
-    <條文內容><![CDATA[The insured unit specified in Article 7 and Subparagraph 3 of Paragraph 1 of Article 9 of the Act may set a special account at the financial institution and notify the insured of such account so that the insured can pay the insurance premium.
-For the insured unit referred to in the preceding Paragraph, after obtaining the consent of the insured or the member representative assembly, it may issue a receipt to collect three or six months' insurance premiums in advance at one time, which will be remitted to the insurer every month; the insurance premiums collected in advance shall be deposited in the special account set in the financial institution before being remitted to the insurer, and the accrued income generated shall only be for the use of the operation of this insurance.
-The special account in the first two Paragraphs above may be the same as the special labor insurance account.
-An insured entity that adopts advance collection of insurance premiums may apply for employee fidelity bond insurance for supervisors and business staff.
-The management of an advance collection of insurance premiums shall be handled by the relevant regulations on the financial processing of the insured entity.]]></條文內容>
+    <條文內容><![CDATA[The insured units specified in Article 7 and Subparagraph 3 of Paragraph 1 of the Act may set up a special account at the financial institution and notify the insured so that the insured can pay the insurance premium.
+After obtaining the consent of the insured or the member representative assembly, the insured unit referred to in the preceding Paragraph may collect three or six months' insurance premiums in advance at one time, issue a receipt, and remit the premiums to the insurer on a monthly basis. However, if an insured unit has an accumulated two months of overdue insurance premiums, it may not continue to collect premiums in advance until the outstanding premiums are paid in full.
+An insured unit that adopts the advance collection of insurance premiums as referred to in the preceding Paragraph may apply for employee fidelity bond insurance for its supervisors and business staff.
+The insurance premiums collected in advance as referred to in Paragraph 2 shall, before being remitted to the insurer, be deposited and kept in the special account established at the financial institution as stipulated in Paragraph 1. The accrued income shall be used exclusively for the operations of this insurance, and its management shall be handled in accordance with the relevant regulations on the financial processing of the insured unit.
+The special account mentioned in Paragraph 1 and the preceding paragraph may be the same account as the special labor insurance account.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 37</條號>
@@ -309,7 +313,7 @@ When the insured has more than two monthly insured salaries in the same particul
     <條文內容><![CDATA[When the insured specified in Paragraph 2 of Article 29 of the Act has any death event insured, the beneficiary or the person who pays the funeral expenses shall also meet the requirements of Articles 49 or 50 of the Act. Only either the stipulated death benefits or other social insurance benefits specified in the following Subparagraphs can be claimed:
 1. The death benefit specified in Articles 62, 63, or 63-1 of the Labor Insurance Act.
 2. The funeral and interment allowance specified in Article 40 of the Farmer Health Insurance Act.
-3. The funeral and interment allowance specified in Article 19 of Guidelines for the Trial Implementation of Farmer Occupational Accident Insurance
+3. The funeral and interment allowance specified in Article 23 of Guidelines for the Trial Implementation of Farmer Occupational Accident Insurance.
 4. The lump-sum death benefit or survivor's pension is specified in Article 27 of the Public Servant and Teacher Insurance Act.
 5. The death benefit is specified in Article 13 of the Act of Insurance for Military Personnel.
 6. The funeral and interment benefit under Article 39 and survivor's pension under Article 40 of the National Pension Act.]]></條文內容>
@@ -338,6 +342,10 @@ If the financial institution account mentioned in the preceding Paragraph is loc
 2. Prepared in Mainland China: To be verified by the agency established or designated by the Executive Yuan or the non-governmental organization entrusted by it.
 3. Prepared in Hong Kong or Macau: To be verified by the agency established or designated by the Executive Yuan or a non-governmental organization entrusted by it in Hong Kong or Macau.
 If the documents and materials in the preceding Paragraph are in foreign languages, the Chinese translation certified by the units listed in the preceding Paragraphs or the notary public in China shall be attached. However, if the documents and materials are in English, they may be exempted from being attached unless the insurer considers it necessary.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 47-1</條號>
+    <條文內容><![CDATA[Those who apply for benefit by the provisions of the Act and do not have household registration in the ROC may submit a relative relationships document to replace copies of the household registration certificate or household registration form.]]></條文內容>
   </條文>
   <編章節>         Subparagraph 2 Medical Care Benefits</編章節>
   <條文>

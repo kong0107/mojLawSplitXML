@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Futures Trust Enterprises</英文法規名稱>
 <中文法規名稱>期貨信託事業管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400137</法規網址>
-<最新英文異動日期>20220218</最新英文異動日期>
+<最新英文異動日期>20250506</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -14,7 +14,8 @@
 5. Article 17 amended and issued per 29 May 2014 Order No. Financial-Supervisory-Securities-Futures-1030013322 of the Financial Supervisory Commission
 6. Articles 30 and 48 amended per 18 February 2017 Order No. Financial-Supervisory-Securities-Futures-1060003587 of the Financial Supervisory Commission
 7. Articles 44 and 45 amended and issued per 26 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364936 of the Financial Supervisory Commission
-8. Articles 4, 44, 45, 47, 48 to 50, and 54 amended, and Article 47-1 added, per 18 February 2022 Order No. Financial-Supervisory-Securities-Futures-1110380537 of the Financial Supervisory Commission]]></沿革內容>
+8. Articles 4, 44, 45, 47, 48 to 50, and 54 amended, and Article 47-1 added, per 18 February 2022 Order No. Financial-Supervisory-Securities-Futures-1110380537 of the Financial Supervisory Commission
+9. Articles 46, 49, 51, 53, and 62 amended and issued per 6 May 2025 Order No. Financial-Supervisory-Securities-Futures-1140381689 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Principles</編章節>
@@ -78,7 +79,7 @@ The audit reports referred to in the preceding paragraph shall contain comments 
     <條文內容><![CDATA[Under any of the following circumstances, a futures trust enterprise shall act in accordance with applicable laws and regulations, and also submit a report by mail to the Association, which shall submit a consolidated report to the competent authority:
 1. Commencement of business.
 2. Change of director, supervisor, or managerial officer.
-3. Where the futures trust enterprise or any of its responsible persons, associated persons, or other personnel becomes involved in litigation or arbitration, or becomes subject to compulsory execution as an obligor, arising in connection with any business operation, or the futures trust enterprise is a bankrupt or has a negotiable instrument dishonored or is refused service by a bank.
+3. Where the futures trust enterprise or any of its responsible persons, associated persons, or other personnel becomes involved in litigation or arbitration, or becomes subject to compulsory execution as an obligor, arising in connection with any business operation, or the futures trust enterprise is a bankrupt, or has a negotiable instrument dishonored or is blacklisted by a bank.
 4. Any of the circumstances stated in Article 5 of the Standards Governing the Establishment of Futures Trust Enterprises applies to a responsible person or associated person.
 5. Any change in the shareholding of a director, supervisor, managerial officer, or a shareholder holding 5% or more of the total number of issued shares.
 6. Any other matters that the competent authority requires to be reported in a regulatory filing.
@@ -387,9 +388,9 @@ The term "business department" in the preceding paragraph means a department con
     <條號>Article 46</條號>
     <條文內容><![CDATA[A futures trust enterprise shall for each futures trust fund appoint a dedicated fund manager, possessing one of the following qualifications, to be in charge of the use of fund assets:
 1. Has obtained qualification as a futures trading analyst in accordance with the Regulations Governing Managed Futures Enterprises.
-2. Has obtained qualification as an associated person of a futures commission merchant in accordance with the provisions of Article 5, paragraph 1, subparagraphs 1 to 3 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants, and also has 3 years or more of work experience in futures trading analysis or trading decision-making at a qualified institutional investor(s).
-3. Has obtained qualification as an associated person of a futures commission merchant in accordance with the provisions of Article 5, paragraph 1, subparagraphs 1 to 3 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants, and also has 2 years or more of work experience serving in the capacity of securities investment trust fund manager or discretionary securities investment manager.
-4. Has obtained qualification as an associated person of a futures commission merchant in accordance with the provisions of Article 5, paragraph 1, subparagraphs 1 to 3 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants, and also has 1 year or more of experience serving in the capacity of making trading decisions for discretionary futures trading, with an unblemished record.
+2. Has obtained qualification as an associated person of a futures commission merchant in accordance with the provisions of Article 5, subparagraphs 1 to 3 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants, and also has 3 years or more of work experience in futures trading analysis or trading decision-making at a qualified institutional investor(s).
+3. Has obtained qualification as an associated person of a futures commission merchant in accordance with the provisions of Article 5, subparagraphs 1 to 3 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants, and also has 2 years or more of work experience serving in the capacity of securities investment trust fund manager or discretionary securities investment manager.
+4. Has obtained qualification as an associated person of a futures commission merchant in accordance with the provisions of Article 5, subparagraphs 1 to 3 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants, and also has 1 year or more of experience serving in the capacity of making trading decisions for discretionary futures trading, with an unblemished record.
 The number and size of funds that a fund manager may be in charge of and the qualification requirements for a fund manager shall be as determined by the competent authority.]]></條文內容>
   </條文>
   <條文>
@@ -423,7 +424,6 @@ The registration under the preceding paragraph may not be made with respect to a
 1. Any circumstance set out in Article 5 of the Standards Governing the Establishment Futures Trust Enterprises.
 2. Any non-compliance with the qualification requirements hereunder.
 3. Violation of any provision of Article 50, paragraphs 3 to 6 hereof.
-4. Failure to attend or to pass the pre-service service or in-service training required by Article 51 or 53.
 The futures trust enterprise shall file any personnel change under paragraph 2, and carry out procedures for renewal or surrender of work permit, with the Association within 5 business days starting from the next day of such change, and shall remain liable for the conduct of any such person before the registration of the change.
 The term "business department" in paragraph 1 means a department conducting any of the types of business under Article 4, subparagraphs 1 to 7 and 9.]]></條文內容>
   </條文>
@@ -444,10 +444,10 @@ In the case of a trust enterprise that concurrently operates a futures trust ent
   <條文>
     <條號>Article 51</條號>
     <條文內容><![CDATA[An associated person of a futures trust enterprise shall attend pre-service training and in-service training held by an institution designated by the competent authority.
-Any person to be employed as an associated person for the first time, or to be re-employed as such after having left such employment for a full 2 years or more, shall attend pre-service training within the half-year period before starting to conduct such business operations, and any person incumbent in that position shall attend in-service training every 2 years.
+Any person to be employed as an associated person for the first time, or to be re-employed as such after having left such employment for a full 2 years or more, shall attend pre-service training within the half-year period after reporting to work, and any person incumbent in that position shall attend in-service training every 2 years.
 In the case of a managed futures enterprise that concurrently operates a futures trust enterprise, its associated persons applying to be registered as such for the futures trust enterprise need not attend the pre-service training required by the preceding paragraph.
-An associated person who has attended pre-service training with a passing score during the half-year period before obtaining the qualification as associated person under Articles 46 to 48, need not attend the pre-service training required by paragraph 2 for associated persons serving for the first time if that person has been registered as an associated person and commenced the performance of duties during the half-year period following the attainment of the qualification as associated person.
-Any person having obtained the qualification as an associated person of a futures commission merchant under Article 5, paragraph 1, subparagraphs 1 to 3 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants, shall attend pre-service training for a number of hours fixed by the Association when applying to be registered as an associated person under Article 4, subparagraph 1, 2, or 4 hereof.]]></條文內容>
+An associated person who has attended pre-service training with a passing score during the half-year period before obtaining the qualification as associated person under Articles 46, 47, or 48, need not attend the pre-service training required by paragraph 2 for associated persons serving for the first time if that person has been registered as an associated person and commenced the performance of duties during the half-year period following the attainment of the qualification as associated person.
+Any person having obtained the qualification as an associated person of a futures commission merchant under Article 5, subparagraphs 1 to 3 of the Regulations Governing Responsible Persons and Associated Persons of Futures Commission Merchants, shall attend pre-service training for a number of hours fixed by the Association when applying to be registered as an associated person under Article 4, subparagraph 1, 2, or 4 hereof.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 52</條號>
@@ -455,7 +455,7 @@ Any person having obtained the qualification as an associated person of a future
   </條文>
   <條文>
     <條號>Article 53</條號>
-    <條文內容><![CDATA[When an associated person of a futures trust enterprise fails to attend in-service training, or fails to pass retraining taken within 3 months after a previous failure to pass, that person's registration as an associated person shall be voided by the Association upon receiving notice from the training institution.]]></條文內容>
+    <條文內容><![CDATA[When an associated person of a futures trust enterprise fails to attend pre-service training or in-service training, or fails to pass retraining taken within 1 year after a previous failure to pass training, that person's registration as an associated person shall be voided.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 54</條號>
@@ -513,12 +513,12 @@ Except as otherwise provided by the competent authority or by contract, the mini
   </條文>
   <條文>
     <條號>Article 62</條號>
-    <條文內容><![CDATA[If a dedicated department is required to be established under acts and regulations, in the case of an enterprise in another line of business that concurrently operates a futures trust enterprise, none of the supervisory and associated persons of the duly established department dedicated to such business may conduct any business beyond the scope of business of the dedicated department, nor may their functions be performed on a concurrent basis by any person not registered as a department head or associated person of the dedicated department.
+    <條文內容><![CDATA[If a dedicated department is required to be established under laws and regulations, in the case of an enterprise in another line of business that concurrently operates a futures trust enterprise, none of the supervisory and associated persons of the duly established department dedicated to such business may conduct any business beyond the scope of business of the dedicated department, nor may their functions be performed on a concurrent basis by any person not registered as a department head or associated person of the dedicated department.
 In the case of an enterprise in another line of business concurrently operating futures trust business, the provisions of Articles 42, 43, 49, and Article 50, paragraph 2 shall apply mutatis mutandis with respect to its chairperson and general manager, except in the case of a trust enterprise concurrently operating a futures trust enterprise.
 In the case of an enterprise in another line of business concurrently operating a futures trust enterprise, the department heads and associated persons, except for the chief internal auditor, who engage in any of the business operations specified in Article 4, subparagraphs 1 to 5 shall possess the qualifications set out in these Regulations.
 In the case of an enterprise in another line of business concurrently operating a futures trust enterprise, the provisions of Article 16, Articles 54 to 57, and Article 59 up to the preceding article, shall apply mutatis mutandis with respect to its responsible persons, except in the case of a trust enterprise concurrently operating a futures trust enterprise.
 In the case of a trust enterprise concurrently operating a futures trust enterprise, the provisions of Articles 16, 54, 56, 57, and Article 59 up to the preceding article, shall apply mutatis mutandis with respect to its responsible persons.
-In the case of an enterprise in another line of business concurrently operating a futures trust enterprise, the provisions of Articles 16, 49, Article 50, paragraphs 4 and 5, Articles 51 to 56, and Article 58 up to the preceding article, shall apply mutatis mutandis with respect to the department heads and associated persons who engage in any of the business operations specified in Article 4, subparagraphs 1 to 5.
+In the case of an enterprise in another line of business concurrently operating a futures trust enterprise, the provisions of Articles 16, 49, Article 50, paragraphs 5 and 6, Articles 51 to 56, and Article 58 up to the preceding article, shall apply mutatis mutandis with respect to the department heads and associated persons who engage in any of the business operations specified in Article 4, subparagraphs 1 to 5.
 The provisions of this Chapter do not apply with respect to the department heads and associated persons of a securities investment trust enterprise that concurrently operates a futures trust enterprise but that does not issue any futures trust fund; the department heads and associated persons of the enterprise that are required to be registered with the Association, and their qualification requirements, shall be governed by the Regulations Governing Responsible Persons and Associated Persons of Securities Investment Trust Enterprises.]]></條文內容>
   </條文>
   <編章節>   Chapter VI Supplementary Provisions</編章節>

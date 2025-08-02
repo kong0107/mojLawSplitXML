@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing the Operation of Futures Introducing Broker Business by Securities Firms</英文法規名稱>
 <中文法規名稱>證券商經營期貨交易輔助業務管理規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400110</法規網址>
-<最新英文異動日期>20150106</最新英文異動日期>
+<最新英文異動日期>20250506</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -18,7 +18,7 @@
 9. Articles 9-1, 9-2, and 28 amended and issued per 2 August 2010 Order No. Financial-Supervisory-Securities-Futures-0990041012 of the Financial Supervisory Commission, Executive Yuan
 10. Articles 2 and 17 amended and issued per 29 May 2014 Order No. Financial-Supervisory-Securities-Futures-1030013322 of the Financial Supervisory Commission
 11. Articles 10 and 13 amended per 6 January 2015 order No. Financial-Supervisory-Securities-Futures-1030050108 of the Financial Supervisory Commission
-]]></沿革內容>
+12. Article 28 amended and issued per 6 May 2025 Order No. Financial-Supervisory-Securities-Futures-1140381689 of the Financial Supervisory Commission]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Provisions</編章節>
@@ -80,7 +80,7 @@ The internal control system adopted in accordance with paragraph 1 and any amend
   <條文>
     <條號>Article 9-2</條號>
     <條文內容><![CDATA[In any of the following events, a futures introducing broker shall report to the FSC:
-1. the futures introducing broker, or a responsible person, associated person, or other personnel thereof becomes involved in litigation or arbitration, or becomes subject to compulsory execution as an obligor, arising in connection with its business, or the futures introducing broker is a bankrupt or has a negotiable instrument dishonored or is refused service by a bank;
+1. the futures introducing broker, or a responsible person, associated person, or other personnel thereof becomes involved in litigation or arbitration, or becomes subject to compulsory execution as an obligor, arising in connection with its business, or the futures introducing broker is a bankrupt, or has a negotiable instrument dishonored or is blacklisted by a bank;
 2. any of the conditions referred to in Article 28 of the Futures Trading Act applies to a responsible person or associated person of the futures introducing broker;
 3. a responsible person, associated person, or other personnel of the futures introducing broker has violated the Futures Trading Act or any order issued by the FSC pursuant to that Act.
 Any circumstance requiring reporting under the preceding paragraph shall be reported by the company within five business days from the date that the event occurred or that the company learned of it. The company shall submit the report to the Futures Exchange, which shall forward it to the FSC. The company also shall simultaneously notify the mandating futures commission merchant.
@@ -90,11 +90,11 @@ The term "business day" as used in these Regulations means a trading day on the 
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[A securities firm applying for operation of futures introducing broker business shall meet the following requirements:
-1. has not received a warning from the FSC in accordance with subparagraph 1 of Article 66 of the Securities & Exchange Act in the last six (6) months,
-2. no punishment has been imposed by the FSC in accordance with subparagraph 2 of Article 66 of the Securities & Exchange Act in the last six (6) months, under which the securities firm was ordered to discharge its director, supervisor, or manager;
-3. has not been suspended from business operation by the FSC in whole or in part in accordance with subparagraph 3 of Article 66 of the Securities & Exchange Act in the last one (1) year;
-4. has not been punished by the FSC in accordance with to the Securities & Exchange Act by revoking the permission for establishment of a branch office in the last two (2) years;
-5. has not been punished by the stock exchange and/or over-the-counter securities exchange in accordance with their respective rules by suspending or restricting the trading in the last one (1) year;
+1. has not received a warning from the FSC in accordance with subparagraph 1 of Article 66 of the Securities & Exchange Act in the last 3 months,
+2. has not been sanctioned by the FSC in accordance with subparagraph 2 of Article 66 of the Securities & Exchange Act in the last 6 months, under which the securities firm was ordered to discharge its director, supervisor, or manager;
+3. has not been sanctioned by the FSC by suspension of permission for business in whole or in part in accordance with subparagraph 3 of Article 66 of the Securities & Exchange Act in the last 1 year;
+4. has not been sanctioned by the FSC in accordance with the Securities & Exchange Act by voidance of permission for any part of its business in the last 2 years;
+5. has not been sanctioned by the stock exchange and/or over-the-counter securities exchange in accordance with their respective rules by suspension or restriction of trading in the last 1 year;
 6. other requirements as prescribed by the FSC.
 If a securities firm fails to meet any of the requirements set forth in subparagraphs 1 to 5 of the preceding paragraph, but has shown concrete improvement in the circumstances, and the FSC has recognized the improvement, the securities firm may be exempted from the relevant requirement.]]></條文內容>
   </條文>
@@ -114,7 +114,7 @@ If a securities firm fails to meet any of the requirements set forth in subparag
   </條文>
   <條文>
     <條號>Article 12</條號>
-    <條文內容><![CDATA[Within six (6) months from the date of the FSC's approval, the securities firm applying to operate futures introducing broker business shall submit the following document to the FSC for issuance of a permit license:
+    <條文內容><![CDATA[Within 6 months from the date of the FSC's approval, the securities firm applying to operate futures introducing broker business shall submit the following document to the FSC for issuance of a permit license:
 1. Application;
 2. Photocopy of the securities firm's business license;
 3. The internal control system for operation of futures introducing broker business;
@@ -128,17 +128,17 @@ If a securities firm fails to meet any of the requirements set forth in subparag
 11. Evidentiary documents attesting to conformance with the provisions of Article 9-1.
 12. A case checklist.
 13. Other documents as required by the FSC.
-In the event that a securities firm fails to apply for issuance of a permit license within the time limit referred to in the preceding paragraph, the permission for its operation of futures introducing broker business shall be revoked; provided that if the securities firm has justified reasons, it may, prior to the expiration of the said time limit, apply for extension to the FSC. The extension period shall not be more than six (6) months, and only one extension is allowed.]]></條文內容>
+In the event that a securities firm fails to apply for issuance of a permit license within the time limit referred to in the preceding paragraph, the permission for its operation of futures introducing broker business shall be revoked; provided that if the securities firm has justified reasons, it may, prior to the expiration of the said time limit, apply for extension to the FSC. The extension period shall not be more than 6 months, and only one extension is allowed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 13</條號>
     <條文內容><![CDATA[When a securities firm applies for permission for operation of futures introducing broker business, it may concurrently apply for operation of futures introducing broker business by its branch office.
 A securities firm which applies for operation of futures introducing broker business by its branch office after commencement of the operation of futures introducing broker business shall meet the following requirements:
 1. It shall meet the provisions in Article 10;
-2. It has not been warned by the FSC under subparagraph 1, paragraph 1 of Article 100 of the Act within the most recent three months..
-3. It has not been sanctioned with removal of the responsible person or other persons under subparagraph 2, paragraph 1, Article 100 of the Act, or with the removal of the responsible person from the position held under paragraph 1, Article 101 of the Act in the most recent six months.
-4. It has not been issued an order to suspend business in part or in whole under subparagraph 3, paragraph 1, Article 100 of the Act within the most recent one year.
-5. It has not been subject to revocation in part of its business license under subparagraph 4, paragraph 1, Article 100 of the Act within the most recent two years.
+2. It has not been warned by the FSC under subparagraph 1, paragraph 1 of Article 100 of the Act within the most recent three months.
+3. It has not been sanctioned by the FSC with removal of the responsible person or other persons under subparagraph 2, paragraph 1, Article 100 of the Act, or with the removal of the responsible person from the position held under paragraph 1, Article 101 of the Act in the most recent six months.
+4. It has not been sanctioned by the FSC with suspension of business in part or in whole under subparagraph 3, paragraph 1, Article 100 of the Act within the most recent one year.
+5. It has not been sanctioned by the FSC voidance of permission for any part of its business under subparagraph 4, paragraph 1, Article 100 of the Act within the most recent two years.
 If a securities firm fails to meet any of the requirements set forth in subparagraphs 2 to 5 of the preceding paragraph, but has shown concrete improvement in the circumstances, and the FSC has recognized the improvement, the securities firm may be exempted from the relevant requirement.]]></條文內容>
   </條文>
   <條文>
@@ -155,7 +155,7 @@ If a securities firm fails to meet any of the requirements set forth in subparag
   </條文>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[A securities firm that applies for operation of futures introducing broker business by its branch office shall submit the following documents to the FSC to apply for issuance of a permit license within six (6) months after the date of the FSC approval:
+    <條文內容><![CDATA[A securities firm that applies for operation of futures introducing broker business by its branch office shall submit the following documents to the FSC to apply for issuance of a permit license within 6 months after the date of the FSC approval:
 1. Application;
 2. A photocopy of the business license of the securities firm's branch office.
 3. List of managers and associated persons handling futures introducing broker business and certificates of qualification of associated persons;
@@ -168,7 +168,7 @@ If a securities firm fails to meet any of the requirements set forth in subparag
 10. Evidentiary documents attesting to conformance with the provisions of Article 9-1.
 11. A case checklist.
 12. Other documents as required by the FSC.
-In the event that a securities firm fails to apply for issuance of a permit license within the time limit referred to in the preceding paragraph, the permission for its branch office's operation of futures introducing broker business shall be revoked; provided that if the securities firm has justified reasons, it may, prior to the expiration of the said time limit, apply for extension to the FSC. The extension period shall not be more than six (6) months, and only one extension is allowed.]]></條文內容>
+In the event that a securities firm fails to apply for issuance of a permit license within the time limit referred to in the preceding paragraph, the permission for its branch office's operation of futures introducing broker business shall be revoked; provided that if the securities firm has justified reasons, it may, prior to the expiration of the said time limit, apply for extension to the FSC. The extension period shall not be more than 6 months, and only one extension is allowed.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
@@ -266,8 +266,7 @@ In any of the following events, the registration referred to in the preceding pa
 1. occurrence of any of the conditions under Article 28 of the Act;
 2. failure to meet the qualifications/conditions under paragraph 3 of Article 26 herein;
 3. violation of Article 29 herein;
-4. failure to comply with regulations to successfully complete the orientation or on-job training;
-5. there being facts showing that the person concerned engages or is involved in other dishonest or improper activities, which demonstrates that he/she is not suitable to act as the responsible person, managerial officer, or associated person.
+4. there being facts showing that the person concerned has engaged or been involved in other dishonest or improper activities, which demonstrates that he/she is not suitable to act as the responsible person, managerial officer, or associated person.
 In the event that there is any change of its responsible person, managerial officer, and/or associated person, a futures introducing broker shall report to the Futures Association or FSC-designated institution within five (5) days of such change. The associated person concerned shall replace or surrender the work permit. Before the registration of the change is completed, the future introducing broker concerned shall not be released from the liability for the act of such person.]]></條文內容>
   </條文>
   <條文>

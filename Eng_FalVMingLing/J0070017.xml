@@ -55,7 +55,7 @@ The Ministry of Economic Affairs shall appoint a specialized agency in charge of
 9."Public performance" means to act, dance, sing, play a musical instrument, or use other means to communicate the content of a work to a public that is present at the scene. This includes any communication to the public of an original broadcast of sounds or images through loudspeakers or other equipment.
 10."Public transmission" means to make available or communicate to the public the content of a work through sounds or images by wire or wireless network, or through other means of communication, including enabling the public to receive the content of such work by any of the above means at a time or place individually chosen by them.
 11."Adaptation" means to create another work based upon a preexisting work by translation, musical arrangement, revision, filming, or other means.
-12."Distribution" means, with or without compensation, to provide the original of a work, or a copy thereof, to the public for the purpose of trade or circulation.
+12."Distribution" means, with or without remuneration, to provide the original of a work, or a copy thereof, to the public for the purpose of trade or circulation.
 13."Public display" means to display the content of a work to the public.
 14."Publication" means distribution by the rights holder of a sufficient number of copies of a work to satisfy a reasonable level of public demand.
 15."Public release" means public issue by the rights holder of the content of a work to the public through publication, broadcast, presentation, recitation, performance, display, or other means.
@@ -113,7 +113,7 @@ Protection of a performance shall not affect the copyright in the pre-existing w
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[The following items shall not be the subject matter of copyright:
-1.The constitution, acts, regulations, or official documents.
+1.The Constitution, acts, regulations, or official documents.
 2.Translations or compilations by central or local government agencies of works referred to in the preceding subparagraph.
 3.Slogans and common symbols, terms, formulas, numerical charts, forms, notebooks, or almanacs.
 4.Oral and literary works for news reports that are intended strictly to communicate facts.
@@ -172,7 +172,7 @@ Where the purpose and method of exploitation neither present any likelihood of h
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[The author has the right to prohibit others from distorting, mutilating, modifying, or otherwise changing the content, form, or name of the work, thereby damaging the author's reputation.]]></條文內容>
+    <條文內容><![CDATA[The author has the right to prohibit others from distorting, mutilating, modifying, or otherwise changing the content, form, or name of the work, thereby prejudicing the author’s reputation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18</條號>
@@ -198,8 +198,8 @@ Limitations imposed on the representative powers of the representative referred 
     <條號>Article 22</條號>
     <條文內容><![CDATA[Except as otherwise provided in this Act, authors have the exclusive right to reproduce their works.
 Performers have the exclusive right to reproduce their performances by means of sound recording, video recording, or photography.
-The provisions of the preceding two paragraphs do not apply to temporary reproduction that is transient, incidental, an essential part of a technology process, and without independent economic significance, where solely for the purpose of lawful network relay transmission, or for the lawful use of a work; provided, this shall not apply to computer programs.
-In the preceding paragraph, the phrase "temporary reproduction… for the purpose of lawful network relay transmission" includes technically unavoidable phenomena of the computer or machine occurring in network browsing, caching, or other processes for enhancing transmission efficiency.]]></條文內容>
+The provisions of the preceding two paragraphs do not apply to temporary reproduction that is transient, incidental, an essential part of a technology process, and without independent economic significance, where solely for the purpose of lawful Internet relay transmission, or for the lawful use of a work; provided, this shall not apply to computer programs.
+In the preceding paragraph, the phrase "temporary reproduction… for the purpose of lawful Internet relay transmission" includes technically unavoidable phenomena of the computer or machine occurring in network browsing, caching, or other processes for enhancing transmission efficiency.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 23</條號>
@@ -216,7 +216,7 @@ The provisions of the preceding paragraph shall not apply to further public broa
   </條文>
   <條文>
     <條號>Article 26</條號>
-    <條文內容><![CDATA[Except as otherwise provided in this Act, authors of oral and literary, musical, and dramatic/choreographic works have the exclusive right to publicly perform their works.
+    <條文內容><![CDATA[Except as otherwise provided in this Act, authors of oral and literary, musical, dramatic and choreographic works have the exclusive right to publicly perform their works.
 Performers have the exclusive right, by means of loudspeakers or other equipment, to publicly perform their performances; provided, this shall not apply to public performances of a performance by means of loudspeakers or other equipment after that performance has been reproduced or publicly broadcast.
 Where a sound recording has been publicly performed, the author may claim payment of remuneration for use from the persons who publicly performed it.]]></條文內容>
   </條文>
@@ -350,13 +350,13 @@ The proviso of Article 44 shall apply mutatis mutandis to the circumstances set 
   <條文>
     <條號>Article 46-1</條號>
     <條文內容><![CDATA[Within the scope necessary for the purposes of education, all levels of legally established schools or educational institutions and their teachers may publicly broadcast or publicly transmit the works of another person that have been publicly released; provided, this shall not apply if there is profit-seeking activity.
-In the circumstances set forth in the preceding paragraph, the exploiter shall notify the economic rights holder of the circumstances of the exploitation and pay equitable remuneration for use.]]></條文內容>
+In the circumstances set forth in the preceding paragraph, except for those who meet the requirements stipulated in the second paragraph of the preceding article, the exploiter shall notify the economic rights holder of the circumstances of the exploitation and pay equitable remuneration for use.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 47</條號>
     <條文內容><![CDATA[For the purpose of preparing textbooks required by law or regulation to be examined or compiled, the preparer may reproduce, adapt, or compile works that have been publicly released, and may publicly transmit those textbooks.
 The provisions of the preceding paragraph, except for public transmission, shall apply mutatis mutandis to the preparation, by the preparers of those textbooks, of supplementary teaching aids that are ancillary to those textbooks and furthermore are exclusively provided to teachers for teaching purposes.
-In the circumstances set forth in the preceding two paragraphs, the person exploiting the work shall notify the economic rights holder of the circumstances of the exploitation and pay compensation for use. The rate of compensation for such use shall be set by the competent authority.]]></條文內容>
+In the circumstances set forth in the preceding two paragraphs, the exploiter shall notify the economic rights holder of the circumstances of the exploitation and pay remuneration for use. The rate of remuneration for such use shall be set by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 48</條號>
@@ -366,11 +366,11 @@ In the circumstances set forth in the preceding two paragraphs, the person explo
 3. Where works are out of print or difficult to purchase, and have been requested by another similar institution.
 4. Where needed for restoration of works during the period of lawful licensing of a digital collection.
 The National Central Library, for purposes of promoting national cultural development, may digitally reproduce the following works:
-1. Works in the collection to be provided in lieu of the original collection for in-library access to prevent loss, damage, or defacement of the original collection; provided, this shall not apply to works already available on the market in digital form.
-2. Materials provided to the public over networks by a central or local government agency or a non-departmental public body.
+1.Works in the collection to be provided in lieu of the original collection for perusal within the institution to prevent loss, damage, or defacement of the original collection; provided, this shall not apply to works already available on the market in digital form.
+2.Materials provided to the public over Internet by a central or local government agency or a non-departmental public body.
 Works reproduced pursuant to subparagraphs 2 to 4 of paragraph 1 and to subparagraph 1 of the preceding paragraph, subject to compliance with all the subparagraphs below, or works reproduced pursuant to subparagraph 2 of the preceding paragraph, subject to compliance with subparagraph 2 below, may be publicly transmitted for perusal within the institution:
 1. The quantity of the same work that may be made available for perusal by users within the institution at the same time does not exceed the quantity of that work currently held in that institution's collection.
-2. The computers or other display equipment made available for purposes of perusal within the institution do not enable users to perform reproduction or transmission.
+2. The computers or other display equipment made available for purposes of perusal within the institution do not enable users to engage reproduction or transmission.
 Works reproduced by the National Central Library pursuant to subparagraph 1 of paragraph 2 may not be exploited for any purpose other than as provided in the preceding paragraph.]]></條文內容>
   </條文>
   <條文>
@@ -382,7 +382,7 @@ Works reproduced by the National Central Library pursuant to subparagraph 1 of p
   </條文>
   <條文>
     <條號>Article 49</條號>
-    <條文內容><![CDATA[When reporting current events by means of broadcasting, photography, film, newspaper, network, or otherwise, works that are seen or heard in the course of the report may be exploited within the scope necessary to the report.]]></條文內容>
+    <條文內容><![CDATA[When reporting current events by means of broadcasting, photography, film, newspaper, Internet, or otherwise, works that are seen or heard in the course of the report may be exploited within the scope necessary to the report.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 50</條號>
@@ -398,9 +398,9 @@ Works reproduced by the National Central Library pursuant to subparagraph 1 of p
   </條文>
   <條文>
     <條號>Article 53</條號>
-    <條文內容><![CDATA[For the purpose of exclusive use by the visually impaired, learning disabled, hearing impaired or other persons with a perceptual disability, works that have been publicly released may be exploited by local or central government agencies, non-profit organizations and all levels of legally established schools, by means of translation, Braille, sound-recording, digital transformation, verbal imagery, accompanying sign language or otherwise.
+    <條文內容><![CDATA[For the purpose of exclusive use by the visually impaired, learning disabled, hearing impaired or other persons with a perceptual disability, works that have been publicly released may be exploited by local or central government agencies, non-profit institutions or organizations and all levels of legally established schools, by means of translation, Braille, sound-recording, digital transformation, verbal imagery, accompanying sign language or otherwise.
 The preceding paragraph shall be applied mutatis mutandis to the disabled persons or their guardians referred to in the preceding paragraph for personal and nonprofit use by the disabled.
-The copies reproduced in accordance with the preceding two paragraphs may be distributed or publicly transmitted among the disabled persons, local or central government agencies, non-profit organizations and all levels of legally established schools as prescribed in the preceding two paragraphs.]]></條文內容>
+The copies reproduced in accordance with the preceding two paragraphs may be distributed or publicly transmitted among the disabled persons, local or central government agencies, non-profit institutions or organizations and all levels of legally established schools as prescribed in the preceding two paragraphs.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 54</條號>
@@ -408,7 +408,7 @@ The copies reproduced in accordance with the preceding two paragraphs may be dis
   </條文>
   <條文>
     <條號>Article 55</條號>
-    <條文內容><![CDATA[The work of another person that has been publicly released may be publicly recited, publicly broadcast, publicly presented, or publicly performed in the course of an activity of non-profit nature, provided that no fee is directly or indirectly collected from the viewers or listeners, and no compensation is given to the performers.]]></條文內容>
+    <條文內容><![CDATA[The work of another person that has been publicly released may be publicly recited, publicly broadcast, publicly presented, or publicly performed in the course of an activity of non-profit nature, provided that no fee is directly or indirectly collected from the viewers or listeners, and no remuneration is given to the performers.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 56</條號>
@@ -421,7 +421,7 @@ Except where preservation of the recording referred to in the preceding paragrap
   </條文>
   <條文>
     <條號>Article 57</條號>
-    <條文內容><![CDATA[The owner of the original legal copy of an artistic work or photographic work, or a person authorized by the owner, may publicly display such original or legal copy of the work.
+    <條文內容><![CDATA[The owner of the original or legal copy of an artistic work or photographic work, or a person authorized by the owner, may publicly display such original or legal copy of the work.
 The public displayer referred to in the preceding paragraph may reproduce the work in a descriptive writing in order to provide viewers with an explanation or introduction.]]></條文內容>
   </條文>
   <條文>
@@ -435,7 +435,7 @@ The public displayer referred to in the preceding paragraph may reproduce the wo
   <條文>
     <條號>Article 59</條號>
     <條文內容><![CDATA[The owner of a legal copy of a computer program may alter the program where necessary for utilization on a machine used by such owner, or may reproduce the program as necessary for backup; provided, this is limited to the owner's personal use.
-If the owner referred to in the preceding paragraph loses ownership of the original copy for any reason other than the destruction or loss of the copy, all altered and backup copies shall be destroyed unless the economic rights holder grants its consent otherwise.]]></條文內容>
+If the owner referred to in the preceding paragraph loses ownership of the original copy for any reason other than the destruction of the copy, all altered and backup copies shall be destroyed unless the economic rights holder grants its consent otherwise.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 59-1</條號>
@@ -448,11 +448,11 @@ The proviso of the preceding paragraph shall not apply to copies of computer pro
   </條文>
   <條文>
     <條號>Article 61</條號>
-    <條文內容><![CDATA[Commentary on current political, economic, or social events that has appeared in a newspaper, magazine, or network may be republished by other newspapers or magazines, or be publicly broadcast by radio or television, or publicly transmitted on a network; provided, this shall not apply where there is indication that republishing, public broadcast, or public transmission is not authorized.]]></條文內容>
+    <條文內容><![CDATA[Commentary on current political, economic, or social events that has appeared in a newspaper, magazine, or Internet may be republished by other newspapers or magazines, or be publicly broadcast by radio or television, or publicly transmitted on Internet; provided, this shall not apply where there is indication that republishing, public broadcast, or public transmission is not authorized.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 62</條號>
-    <條文內容><![CDATA[Public speeches on politics or religion, and public statements made in legal proceedings or during proceedings of central or local government agencies, may be exploited by any person; provided, consent of the economic rights holder shall be obtained when compiling a compilation work that is dedicated to the speeches or statements of specified persons.]]></條文內容>
+    <條文內容><![CDATA[Public speeches on politics or religion, and public statements made in judicial proceedings or made by central or local government agencies, may be exploited by any person; provided, consent of the economic rights holder shall be obtained when compiling a compilation work that is dedicated to the speeches or statements of specified persons.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 63</條號>
@@ -491,8 +491,8 @@ In the course of forming an agreement referred to in the preceding paragraph, ad
   </條文>
   <條文>
     <條號>Article 69</條號>
-    <條文內容><![CDATA[Where a sound recording of a musical work recorded for sale has been published for six months, a person who wishes to exploit the aforementioned musical work to record and produce other sound recordings for sale may apply to the specialized agency in charge of copyright matters for a compulsory license, and after paying compensation, may exploit such musical work and record and produce other sound recordings.
-Regulations governing the compulsory license for a musical work referred to in the preceding paragraph, the method for calculating the compensation for exploitation, and other requisite matters shall be prescribed by the competent authority.]]></條文內容>
+    <條文內容><![CDATA[Where a sound recording of a musical work recorded for sale has been published for six months, a person who wishes to exploit the aforementioned musical work to record and produce other sound recordings for sale may apply to the specialized agency in charge of copyright matters for a compulsory license, and after paying remuneration, may exploit such musical work to record and produce other sound recordings.
+Regulations governing the compulsory license for a musical work referred to in the preceding paragraph, the method for calculating the remuneration for exploitation, and other requisite matters shall be prescribed by the competent authority..]]></條文內容>
   </條文>
   <條文>
     <條號>Article 70</條號>
@@ -572,15 +572,15 @@ The content in the subparagraphs of the preceding paragraph shall be prescribed 
   <編章節>   Chapter V Copyright Collective Management Organizations and Copyright Review and Mediation Committees</編章節>
   <條文>
     <條號>Article 81</條號>
-    <條文內容><![CDATA[Economic rights holders may, with the approval of the specialized agency in charge of copyright matters, establish copyright collective management organizations for the purpose of exercising rights or for collecting and distributing compensation for use.
+    <條文內容><![CDATA[Economic rights holders may, with the approval of the specialized agency in charge of copyright matters, establish copyright collective management organizations for the purpose of exercising rights, for collecting and distributing compensation for use.
 Exclusive licensees may also join copyright collective management organizations.
 The approval for establishment and the organization and capacities of the organizations referred to in paragraph 1, as well as the supervision and guidance thereof, shall be otherwise provided for by act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 82</條號>
     <條文內容><![CDATA[The specialized agency in charge of copyright matters shall establish a Copyright Review and Mediation Committee to handle the following matters:
-1.Examination of rates of compensation for use under the provisions of paragraph 4 of Article 47.
-2.Mediation of disputes between copyright collective management organizations and users concerning compensation for use.
+1.Examination of rates of remuneration for use under the provisions of paragraph 4 of Article 47.
+2.Mediation of disputes between copyright collective management organizations and users concerning remuneration for use.
 3.Mediation of disputes concerning copyright or plate rights.
 4.Other consultation in connection with copyright examination and mediation.
 Dispute mediation referred to in subparagraph 3 of the preceding paragraph, when involving criminal matters, shall be limited to cases actionable only upon complaint.]]></條文內容>
@@ -627,7 +627,7 @@ In infringement matters referred to in the preceding paragraph the injured party
 2.Children
 3.Parents
 4.Grandchildren
-5.Brothers and sisters
+5. Siblings
 6.Grandparents]]></條文內容>
   </條文>
   <條文>
@@ -843,9 +843,9 @@ Punishment of an offense in the preceding paragraph may be reduced if the offend
   <條文>
     <條號>Article 100</條號>
     <條文內容><![CDATA[The offenses specified in this chapter are actionable only upon complaint; provided, this shall not apply in any of the following circumstances, when a work provided for payment has been exploited in its complete unaltered form, causing damage of one million New Taiwan Dollars or more to the economic rights holder:
-1.  Commission of an offense set forth in Article 91, paragraph 2, where the copy is in digital format.
-2.  Commission, with intent to profit, of an offense set forth in Article 91-1, paragraph 2 of distributing a copy knowing that it infringes economic rights, where the distributed copy is in digital format.
-3.  Commission of an offense set forth in Article 92 of infringing the economic rights of another person without authorization by means of public transmission.]]></條文內容>
+1. Commission of an offense set forth in Article 91, paragraph 2, where the copy is in digital format.
+2. Commission, with intent to profit, of an offense set forth in Article 91-1, paragraph 2 of distributing a copy knowing that it infringes economic rights, where the distributed copy is in digital format.
+3. Commission of an offense set forth in Article 92 of infringing the economic rights of another person without authorization by means of public transmission.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 101</條號>
@@ -883,14 +883,14 @@ The term "country of origin" as used in the proviso of the preceding paragraph s
   <條文>
     <條號>Article 106-2</條號>
     <條文內容><![CDATA[Except as otherwise provided for in this Chapter, a person who began the exploitation of works protected pursuant to the provisions of the preceding article prior to the date on which the World Trade Organization Agreement took effect in the territory under the jurisdiction of the Republic of China, or who made significant investment toward the purpose of such exploitation, may continue to exploit such works during the two-year period which commences on the aforementioned effective date of said Agreement, and the provisions of Chapter VI and Chapter VII of this Act shall not apply.
-From the implementation of the June 6, 2003 amendment to this Act, the person exploiting a work pursuant to the preceding paragraph, except in circumstances of rental or lending, shall pay to the economic rights holder of the exploited work a reasonable compensation for the exploitation such as would normally be paid for such work through free negotiation.
+From the implementation of the June 6, 2003 amendment to this Act, the person exploiting a work pursuant to the preceding paragraph, except in circumstances of rental or lending, shall pay to the economic rights holder of the exploited work a reasonable remuneration for the exploitation such as would normally be paid for such work through free negotiation.
 From one year after the date of promulgation of the amendment to this Act, an exploiter shall not further sell unauthorized copies of works protected under the preceding article; provided, it may still rent or lend them.
-The preceding paragraph does not apply to copies of works that are separately created through exploitation of works protected under the preceding article; provided that, except as set forth in Articles 44 to 65, the economic rights holder of the exploited work shall be paid a reasonable compensation for the exploitation such as would normally be paid for such work through free negotiation.]]></條文內容>
+The preceding paragraph does not apply to copies of works that are separately created through exploitation of works protected under the preceding article; provided that, except as set forth in Articles 44 to 65, the economic rights holder of the exploited work shall be paid a reasonable remuneration for the exploitation such as would normally be paid for such work through free negotiation.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 106-3</條號>
     <條文內容><![CDATA[Exploitation of a derivative work may continue beyond the date on which the World Trade Organization Agreement took effect in the territory under the jurisdiction of the Republic of China, where the preexisting work upon which such derivative work is derived is a work under Article 106-1, where the completion of the derivative work occurred prior to the aforementioned effective date, and where such derivative work was protected under respective versions of this act; the provisions of Chapter VI and Chapter VII of this Act shall not apply.
-From the implementation of the June 6, 2003 amendment to this Act, the person exploiting the derivative work pursuant to the preceding paragraph shall pay to the economic rights holder of the underlying work a reasonable compensation such as would normally be paid for such work through free negotiation.
+From the implementation of the June 6, 2003 amendment to this Act, the person exploiting the derivative work pursuant to the preceding paragraph shall pay to the economic rights holder of the underlying work a reasonable remuneration such as would normally be paid for such work through free negotiation.
 The provisions of the preceding two paragraphs shall not affect the protection of the derivative work.]]></條文內容>
   </條文>
   <條文>
