@@ -3,12 +3,13 @@
 <英文法規名稱>Telecommunications Management Act</英文法規名稱>
 <中文法規名稱>電信管理法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060111</法規網址>
-<最新英文異動日期>20230628</最新英文異動日期>
+<最新英文異動日期>20250702</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
-<沿革內容><![CDATA[1. Full 95 Articles enacted and promulgated per 26 June 2019 Presidential Order No. Hua-Zong-I-Jing-10800065091 
-2. Amendment of Articles 72 , 95 and addition of Article 72-1 enacted and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200054141]]></沿革內容>
+<沿革內容><![CDATA[1.Full 95 Articles enacted and promulgated per 26 June 2019 Presidential Order No. Hua-Zong-I-Jing-10800065091
+2.Amendment of Articles 72 , 95 and addition of Article 72-1 enacted and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200054141
+3.Amendment of Articles 5 , 79 enacted and promulgated per 2 July 2025 Presidential Order No. Hua-Zong-I-Jing-11400066111]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I General Rules</編章節>
@@ -49,7 +50,12 @@ For a telecommunications enterprise, the use of telecommunications services by a
 1. Negotiate interconnection with other telecommunications enterprises or apply for a ruling therewith;
 2. Apply for the assignment of a radio frequency outside Article 56;
 3. Apply for the assignment of identification code or signal point code for establishing a PSTN;
-4. Apply for the assignment of subscriber numbers.]]></條文內容>
+4. Apply for the assignment of subscriber numbers.
+Telecommunications service providers engaging in any of the following practices shall register as a telecommunications enterprise with the competent authority:
+1. Those that lease or purchase telecommunications services with subscriber numbers from other telecommunications enterprises in a wholesale approach and resell it to subscribers in its own name.
+2. Those that provide subscribers Internet Access Service.
+For those telecommunications enterprises falling under Subparagraph 2 of the preceding paragraph, the number of subscribers and revenue of telecommunications service items, as well as other factors, shall be taken into consideration by the competent authority when determining classification of tiered management.
+For enterprises that, prior to the enforcement of the amended provisions of this Act on June 17, 2025, have already been providing telecommunications services as prescribed in Paragraph 2 of Article 5 shall register as a telecommunications enterprise with the competent authority within one year from the date of enforcement of the Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
@@ -760,30 +766,31 @@ Equipment or devices as described in Subparagraph 2 of the preceding paragraph w
   <條文>
     <條號>Article 79</條號>
     <條文內容><![CDATA[Telecommunications enterprises in any of the following circumstances shall be fined not less than NT$ 1 hundred thousand but not more than NT$ 1 million and will be notified to make corrections within a prescribed deadline. The fine may be imposed consecutively for failure to make the necessary rectification by the prescribed deadline:
-1. Violating Paragraph 5 of Article 6, where the party fails to make public offering for its shares;
-2. Violating Paragraph 4 of Article 8, where the party fails to handle emergency or necessary communications with priority;
-3. Violating the front section of Paragraph 1 of Article 9, where the communications and accounting records have not been preserved within a specific period or the party fails to keep the confidentiality thereof;
-4. Violating the rear section of Paragraph 1 of Article 9, where the inquiry service in terms of their communications or accounting record has not been provided to subscribers;
-5. Violating Article 10, where the party fails to submit relevant documents to the competent authority, makes a public announcement or notifies the subscribers before the suspension or termination of its business;
-6. Violating Paragraph 1 of Article 11, where no immediate announcement has been made or the notified matters are not true at all;
-7. Violating regulations stipulated by the competent authority in accordance with Paragraph 2 of Article 11 with respect to the scope or methods of reporting;
-8. Violating Paragraph 1 of Article 13, where the party refuses to negotiate with respect to the interconnection without justifiable reasons;
-9. Violating Paragraph 3 of Article 13, where the party fails to adopt appropriate confidentiality measures;
-10. Violating Paragraph 4 of Article 13, where no notification has been delivered to the telecommunications enterprise with whom the party interconnects;
-11. Violating Paragraph 5 of Article 13, where the party accesses or transfers voice services provided by the operator who does not register as a telecommunications enterprise;
-12. Violating Article 14, where no free emergency communications service has been provided;
-13. Violating Paragraph 1 of Article 15, where no info-communications security management plan has been drawn up or implemented;
-14. Violating Paragraph 1 of Article 16, where no portability service or equal access service number has been provided;
-15. Violating Paragraph 4 of Article 16, where the party fails to co-establish or join a centralized database management organization;
-16. Violating the rules stipulated by the competent authority in accordance with Paragraph 5 of Article 16 with respect to the establishment or management of a centralized database management organization or restrictions imposed thereon;
-17. Violating Paragraph 1 of Article 17, where no standard service contractual terms and conditions have been stipulated or said contract has not been approved by the competent authority before the implementation or change thereof;
-18. Violating Article 18, where service quality self-evaluation has not been carried out on a regularly basis or the results thereof are not published;
-19. Violating Article 19, where the consumer protection and handling methods have not been approved by the competent authority or notified to the users within a prescribed deadline;
-20. Violating Paragraph 1 of Article 20, where the party fails to co-establish a telecommunications consumers’ complaint handling organization or fails to submit the articles of incorporation thereof to the competent authority for approval.
-21. Violating the determination made by the competent authority in accordance with Paragraph 4 of Article 20, where the party fails to commission a telecommunications consumers’ complaint handling organization to handle telecommunications consumer complaint issues;
-22. Violating the determination made by the competent authority in accordance with Paragraph 5 of Article 20, where the party fails to join a telecommunications consumers’ complaint handling organization;
-23. Violating the designation made by the competent authority in accordance with Article 24, where no telecommunications universal service is provided;
-24. Violating Paragraph 1 of Article 25, where the party fails to make a declaration or follow the declaration format and methods regulated by the competent authority.
+1. Violating Paragraph 2 of Article 5, where the party fails to register as a telecommunications enterprise with the competent authority;
+2.Violating Paragraph 5 of Article 6, where the party fails to make public offering for its shares;
+3. Violating Paragraph 4 of Article 8, where the party fails to handle emergency or necessary communications with priority;
+4. Violating the front section of Paragraph 1 of Article 9, where the communications and accounting records have not been preserved within a specific period or the party fails to keep the confidentiality thereof;
+5. Violating the rear section of Paragraph 1 of Article 9, where the inquiry service in terms of their communications or accounting record has not been provided to subscribers;
+6. Violating Article 10, where the party fails to submit relevant documents to the competent authority, makes a public announcement or notifies the subscribers before the suspension or termination of its business;
+7. Violating Paragraph 1 of Article 11, where no immediate announcement has been made or the notified matters are not true at all;
+8. Violating regulations stipulated by the competent authority in accordance with Paragraph 2 of Article 11 with respect to the scope or methods of reporting;
+9. Violating Paragraph 1 of Article 13, where the party refuses to negotiate with respect to the interconnection without justifiable reasons;
+10. Violating Paragraph 3 of Article 13, where the party fails to adopt appropriate confidentiality measures;
+11. Violating Paragraph 4 of Article 13, where no notification has been delivered to the telecommunications enterprise with whom the party interconnects;
+12. Violating Paragraph 5 of Article 13, where the party accesses or transfers voice services provided by the operator who does not register as a telecommunications enterprise;
+13. Violating Article 14, where no free emergency communications service has been provided;
+14. Violating Paragraph 1 of Article 15, where no info-communications security management plan has been drawn up or implemented;
+15. Violating Paragraph 1 of Article 16, where no portability service or equal access service number has been provided;
+16. Violating Paragraph 4 of Article 16, where the party fails to co-establish or join a centralized database management organization;
+17. Violating the rules stipulated by the competent authority in accordance with Paragraph 5 of Article 16 with respect to the establishment or management of a centralized database management organization or restrictions imposed thereon;
+18. Violating Paragraph 1 of Article 17, where no standard service contractual terms and conditions have been stipulated or said contract has not been approved by the competent authority before the implementation or change thereof;
+19. Violating Article 18, where service quality self-evaluation has not been carried out on a regularly basis or the results thereof are not published;
+20. Violating Article 19, where the consumer protection and handling methods have not been approved by the competent authority or notified to the users within a prescribed deadline;
+21. Violating Paragraph 1 of Article 20, where the party fails to co-establish a telecommunications consumers’ complaint handling organization or fails to submit the articles of incorporation thereof to the competent authority for approval.
+22. Violating the determination made by the competent authority in accordance with Paragraph 4 of Article 20, where the party fails to commission a telecommunications consumers’ complaint handling organization to handle telecommunications consumer complaint issues;
+23. Violating the determination made by the competent authority in accordance with Paragraph 5 of Article 20, where the party fails to join a telecommunications consumers’ complaint handling organization;
+24. Violating the designation made by the competent authority in accordance with Article 24, where no telecommunications universal service is provided;
+25. Violating Paragraph 1 of Article 25, where the party fails to make a declaration or follow the declaration format and methods regulated by the competent authority.
 Telecommunications consumers’ complaint handling organizations that are in any of the following circumstances shall be fined not less than NT$ 1 hundred thousand but not more than NT$ 1 million and will be notified to make corrections within a prescribed deadline. The fine may be imposed consecutively for failure to make corrections by the prescribed deadline:
 1. Violating Paragraph 3 of Article 20, where an amended article of incorporation has been implemented without being approved;
 2. Violating rules stipulated by the competent authority in accordance with Paragraph 7 of Article 20 with respect to the supervision and management of the implementation of business activities.]]></條文內容>
