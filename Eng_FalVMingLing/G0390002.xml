@@ -3,7 +3,7 @@
 <英文法規名稱>Insurance Act</英文法規名稱>
 <中文法規名稱>保險法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390002</法規網址>
-<最新英文異動日期>20221130</最新英文異動日期>
+<最新英文異動日期>20250618</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -40,7 +40,7 @@
 33.Amendment to Article 107、138-2 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-10900064801 dated June 10, 2020.
 34.Amendment to Article 137、137-1、143-4～143-6、146-1～146-3、146-5、149、168 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-11000047761 dated May 26, 2021
 35.Amendment to Article 116 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-11100101171 dated November 30, 2022.
-]]></沿革內容>
+36. Amendment to Article 130、148-3、167-1、171-1, addition of Articles 123-1、123-2、129-1、132-1, and deletion of Article 168-7 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-11400060451 dated June 18, 2025]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter I. General Principles</編章節>
@@ -830,6 +830,20 @@ If an insurer becomes bankrupt, the amount a beneficiary may claim against the i
 With respect to the invested assets of an investment-linked insurance contract, persons other than the beneficiary may not lay any claim thereto, nor shall they demand attachment or exercise any other rights.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 123-1</條號>
+    <條文內容><![CDATA[Life insurance contracts where the proposer is the debtor, if the surrender value claim amount of each in-force contract does not exceed the highest standard for six-month amount calculated based on 1.2 times of the minimum living expenses per person per month announced by the Ministry of Health and Welfare or the municipal government in the latest year, it shall not be the object of seizure or compulsory enforcement.
+The surrender value claims of life insurance contract announced by the competent authority for promoting basic insurance protection policy shall not be the object of seizure or compulsory enforcement.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 123-2</條號>
+    <條文內容><![CDATA[When the surrender value claim arising from a life insurance contract where the proposer is the debtor is subject to seizure, or the proposer of such an insurance contract is declared bankruptcy, or ordered to undergo liquidation or rehabilitation process in accordance with The Consumer Debt Clearance Statute, prior to the occurrence of an insured peril, persons in any of the following subparagraphs may, after obtaining the written consents of the proposer and the insured, and having paid the enforcement agency or the person designated by the enforcement order an estimated amount of surrender value to be received from the insurer after the insurance contract is terminated, notify the insurer in writing a change of proposer:
+1. A person with insurable interest in the insured;
+2. A beneficiary named by the proposer; and
+3. The spouse, parent or child of the proposer or the insured.
+Notifying the insurer of change of proposer under the preceding paragraph must be done within three months from the date the reason for change set out in the preceding paragraph occurs; the change of proposer takes effect from the date the written notice of change is delivered to the insurer.
+If the reason for change of proposer set out in Paragraph 1 hereof occurs before the articles of the Act amended on June 3, 2025 enter into force, Paragraph 1 and latter section of the preceding paragraph may apply, after the amendment takes effect and prior to the occurrence of an insured peril, to persons under any subparagraph of Paragraph 1 within three months from the date the amended articles enter into force.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 124</條號>
     <條文內容><![CDATA[(Right of Preference for Payment of the Non-forfeiture Value)
 The proposer, insured, and beneficiary of life insurance have right of preference for payment of the insured's non-forfeiture value.]]></條文內容>
@@ -865,9 +879,12 @@ If the insured and proposer are not one and the same person, the insurance contr
 2. Relationship of the insured to the proposer.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 129-1</條號>
+    <條文內容><![CDATA[The surrender value claim arising from a health insurance contract where the proposer is the debtor shall not be the object of seizure or compulsory enforcement.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 130</條號>
-    <條文內容><![CDATA[(Provisions Applied Mutatis Mutandis)
-The provisions of Articles 102 to Article 105, Article 115, Article 116, and Articles 122 to Article 124 apply mutatis mutandis to health insurance.]]></條文內容>
+    <條文內容><![CDATA[The provisions of Articles 102 to Article 105, Article 115, Article 116, Article 122, Article 123 and Article 124 apply mutatis mutandis to health insurance.]]></條文內容>
   </條文>
   <編章節>      Section 3. Personal Injury Insurance</編章節>
   <條文>
@@ -883,6 +900,10 @@ A personal injury insurance contract, besides specifying the particulars as prov
 1. Name, age, and domicile of the insured and relationship of the insured to the proposer.
 2. Names of the beneficiaries and their relation to the insured, or a method for determining the beneficiaries.
 3. The events for which, and the period during which, the insured amount may be claimed.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 132-1</條號>
+    <條文內容><![CDATA[The surrender value claim arising from a personal injury insurance contract where the proposer is the debtor shall not be the object of seizure or compulsory enforcement.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 133</條號>
@@ -1339,9 +1360,9 @@ The explanatory documents referred to in paragraph 1, and the contents as well a
   </條文>
   <條文>
     <條號>Article 148-3</條號>
-    <條文內容><![CDATA[(Internal Control and Audit Systems)
-An insurance enterprise shall establish internal control and auditing systems. Regulations governing such systems shall be prescribed by the competent authority.
-An insurance enterprise shall establish internal handling systems and procedures for: assessment of asset quality; provision for various kinds of reserves; resolution of overdue loans and non-accrual loans; write-off of bad debts; and policy solicitation, underwriting, and claims settlement. Regulations governing such systems and procedures shall be prescribed by the competent authority.]]></條文內容>
+    <條文內容><![CDATA[An insurance enterprise shall establish internal control and auditing systems. Regulations governing such systems shall be prescribed by the competent authority.
+An insurance enterprise shall establish internal handling systems and procedures for: assessment of asset quality; provision for various kinds of reserves; resolution of overdue loans and non-accrual loans; write-off of bad debts; and policy solicitation, underwriting, and claims settlement. Regulations governing such systems and procedures shall be prescribed by the competent authority.
+If an insurance enterprise outsources the processing of its operations to others, it shall establish internal operating systems and procedures for the scope of outsourcing, protection of customer rights and interests, risk management and internal control principles. Regulations governing the above shall be prescribed by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 149</條號>
@@ -1637,8 +1658,7 @@ Where a juristic person’s representative, agent, employee or other staff commi
   </條文>
   <條文>
     <條號>Article 167-1</條號>
-    <條文內容><![CDATA[(Penal Provisions)
-Any person who provides agent, broker, surveyor services for insurance enterprises or foreign insurance enterprises not approved under the Act shall be subject to a prison term of not more than three (3) years, and in addition thereto, a fine of not less than NT$3,000,000 but not more than NT$20,000,000. In severe situations, the competent authority may order the violating insurance agent, broker, surveyor, or the bank operating the insurance agent or insurance business concurrently to suspend business, in whole or in part, or revoke the offender's practice license.
+    <條文內容><![CDATA[Except for insurance that supports government policy needs and has been announced by the competent authority which may be obtained from foreign insurance enterprises through insurance brokers, any person who provides agent, broker, surveyor services for insurance enterprises or foreign insurance enterprises not approved under the Act shall be subject to a prison term of not more than three (3) years, and in addition thereto, a fine of not less than NT$3,000,000 but not more than NT$20,000,000. In severe situations, the competent authority may order the violating insurance agent, broker, surveyor, or the bank operating the insurance agent or insurance business concurrently to suspend business, in whole or in part, or revoke the offender's practice license.
 Where a juristic person's representative, agent, employee or other staff commits the offense described in the preceding paragraph when practicing business, the offender shall be punished and said fine shall be imposed on the juristic person too.
 Any person who operates or practices the business of an insurance agent, broker or surveyor without a practice license is subject to a fine of not less than NT$900,000 but not more than NT$9,000,000.]]></條文內容>
   </條文>
@@ -1733,8 +1753,7 @@ The right of withdrawing under paragraphs 1 and 2 shall be extinguished one year
   </條文>
   <條文>
     <條號>Article 168-7</條號>
-    <條文內容><![CDATA[(Penal Provisions)
-The crimes set forth in Article 168-2, paragraph 1 are serious crimes as defined in Article 3, paragraph 1 of the Money Laundering Control Act.]]></條文內容>
+    <條文內容><![CDATA[(Deleted)]]></條文內容>
   </條文>
   <條文>
     <條號>Article 169</條號>
@@ -1773,12 +1792,12 @@ Where the certified actuary or external verification actuary appointed or employ
   </條文>
   <條文>
     <條號>Article 171-1</條號>
-    <條文內容><![CDATA[(Penal Provisions)
-An insurance enterprise that violates the provisions of Article 148-1, paragraph 1 or 2 shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$6,000,000.
+    <條文內容><![CDATA[An insurance enterprise that violates the provisions of Article 148-1, paragraph 1 or 2 shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$6,000,000.
 An insurance enterprise that violates the provisions of Article 148-2, paragraph 1 by not making explanatory documents publicly available for inspection, or submitting explanatory documents that do not contain required information, or submitting explanatory documents containing misrepresentations, shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$6,000,000.
 An insurance enterprise that violates the provisions of Article 148-2, paragraph 2 by failing to report to the competent authority or to provide a public explanation within the specified time period, or by making false representations in its reports to the competent authority or public explanations, shall be assessed an administrative fine of not less than NT$300,000 but not more than NT$3,000,000.
 An insurance enterprise that violates the provisions of Article 148-3, paragraph 1 by failing to establish or enforce internal control or auditing systems shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000.
-An insurance enterprise that violates the provisions of Article 148-3, paragraph 2 by failing to establish or enforce internal handling systems or procedures shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000.]]></條文內容>
+An insurance enterprise that violates the provisions of Article 148-3, paragraph 2 by failing to establish or enforce internal handling systems or procedures shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000.
+An insurance enterprise that violates the provisions of Article 148-3, paragraph 3 by failing to establish or enforce internal operating systems or procedures shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 171-2</條號>
