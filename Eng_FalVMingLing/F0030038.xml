@@ -1,9 +1,9 @@
 <法規>
 <法規性質>法律</法規性質>
-<英文法規名稱>Pay Act of the Armed Forces</英文法規名稱>
+<英文法規名稱>Pay Act of the Armed Force</英文法規名稱>
 <中文法規名稱>軍人待遇條例</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0030038</法規網址>
-<最新英文異動日期>20080116</最新英文異動日期>
+<最新英文異動日期>20250627</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -16,7 +16,9 @@
     <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000351</下載網址>
   </檔案>
 </附件>
-<沿革內容><![CDATA[1. Enacted and promulgated on January 16th, 2008.]]></沿革內容>
+<沿革內容><![CDATA[1. Enacted and promulgated on January 16th, 2008.
+2. The amended Article 5 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11400063061 on June 27, 2025.Except for Article 5, Paragraph 1, Subparagraph 5, which shall come into effect on January 1, 2026, the implementation dates of the remaining articles shall be determined by the Executive Yuan.
+   The amended Article 6 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11400063071 on June 27, 2025 ,the implementation dates shall be determined by the Executive Yuan.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -69,22 +71,20 @@ The pay rate of pay grades in the preceding paragraph shall be governed by the a
   </條文>
   <條文>
     <條號>Article 5</條號>
-    <條文內容><![CDATA[Paragraph 1
-The special pay is categorized as follows:
-Subparagraph 1
-Special pay for position: To Four-star General (or equivalent), General (or equivalent), and officers in charge or holding positions of unusual responsibility and critical nature.
-Subparagraph 2
-Special pay for profession: To a military serviceman with profession ranked than Lieutenant General (or equivalent) or lower.
-Subparagraph 3
-Special pay for region: To a military serviceman assigned to distant, especial or overseas areas.
-Subparagraph 4
-Special pay for duty: To a military serviceman assigned to hazardous or technical duties, or other duties with similar characteristics.
-Paragraph 2
-Categorization of special pays in the preceding paragraph shall be stipulated by the Executive Yuan.]]></條文內容>
+    <條文內容><![CDATA[The special pay shall be classified into the following seven categories.
+(1) Special pay for position: this applies to Generals and officers in charge or holding positions of unusually heavy responsibilities.
+(2) Special pay for profession: this applies to professional military personnel at the rank of Lieutenant General or below.
+(3) Special pay for region: this applies to military personnel assigned to remote, special regions or overseas; such classification shall not be based on service category or rank.
+(4) Special pay for duty: this applies to military personnel assigned to hazardous or technica l duties, or to duties of a particular nature.
+(5) Special pay for volunteer military service: this applies to voluntary military personnel, who shall be entitled to a monthly allowance of NT$30,000.
+(6) Special pay for combat team: this applies to military personnel of combat teams or combat support teams.
+(7) Overtime pay: this applies to military personnel who did not take their entitled leave.
+Subparagraph 5 of the preceding paragraph shall take effect on January 1, 2026. The implementation of other categories of special pay shall be prescribed by the Executive Yuan.
+The amount of special pay under Paragraph 1 shall be properly adjusted when the cumulative growth rate of the Consumer Price Index, as announced by The Central BAS Agency, reaches three percent.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 6</條號>
-    <條文內容><![CDATA[The monthly pay amount for active conscripted military servicemen shall be prescribed by the Ministry of National Defense and then submitted to the Executive Yuan for approval.]]></條文內容>
+    <條文內容><![CDATA[The monthly salary of active conscripted military personnel shall be determined by the Ministry of National Defense and submitted to the Executive Yuan for approval. The total amount of such salary shall not be less than the minimum wage prescribed by the Minimum Wage Act.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
