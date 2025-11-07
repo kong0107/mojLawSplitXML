@@ -3,7 +3,7 @@
 <英文法規名稱>Securities Investor and Futures Trader Protection Act</英文法規名稱>
 <中文法規名稱>證券投資人及期貨交易人保護法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400038</法規網址>
-<最新英文異動日期>20200610</最新英文異動日期>
+<最新英文異動日期>20250716</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -13,8 +13,9 @@
    For enforcement from 1 August 2009 per 27 July 2009 Executive Yuan Order No. Yuan-Taiwan-Finance-0980044212
 3. Article 3 amended and promulgated per 4 February 2015 Presidential Order No. ROC-President-I-Yi-10400012441
    For enforcement from 1 April 2015 per 19 March 2015 Executive Yuan Order No. Yuan-Taiwan-Finance-1040013918C
-4. Articles 10-1, 19, and 26 amended and Articles 10-2 and 40-1 added per 10 June 2020 Presidential Order No. ROC-President-I-Jing-10900064271
-   For enforcement from 1 August 2020 per 7 July 2020 Executive Yuan Order No. Yuan-Taiwan-Finance-1090021932]]></沿革內容>
+4. Articles 10-1, 19, and 26 amended and promulgated and Articles 10-2 and 40-1 added per 10 June 2020 Presidential Order No. ROC-President-I-Jing-10900064271
+   For enforcement from 1 August 2020 per 7 July 2020 Executive Yuan Order No. Yuan-Taiwan-Finance-1090021932
+5. Articles 10-1, 20, 40-1, and 41 amended and promulgated per 16 July 2025 Presidential Order No. ROC-President-I-Jing-11400070341; for enforcement from the date of promulgation]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -86,7 +87,7 @@ The operating rules referred to in the preceding paragraph, and any amendments t
   </條文>
   <條文>
     <條號>Article 10-1</條號>
-    <條文內容><![CDATA[When the protection institution carries out matters under paragraph 1 of the preceding article and discovers on the part of a director or supervisor of an exchange-listed, OTC-listed, or emerging stock company any violation of Article 155 or 157-1 of the Securities and Exchange Act or Articles 106 to 108 of the Futures Trading Act, or any conduct in the course of performing his or her duties that is materially injurious to the company or is in violation of laws, regulations, or provisions of the company's articles of incorporation, it may handle the matter in accordance with the following provisions:
+    <條文內容><![CDATA[When the protection institution discovers on the part of a director or supervisor of an exchange-listed, OTC-listed, or emerging stock company any violation of Article 20, paragraph 1 or 2, Article 155, paragraph 1 or 2, or Article 157-1, paragraph 1 or 2 of the Securities and Exchange Act or Article 106 to Article 108, paragraph 1 of the Futures Trading Act, or any circumstances under Securities and Exchange Act Article 32, paragraph 1 and there is no grounds of exemption from liability under paragraph 2 of the same article, or any circumstances under Securities and Exchange Act Article 171, paragraph 1, subparagraph 2 or 3, or any conduct in the course of performing duties that is materially injurious to the company or is in violation of laws, regulations, or provisions of the company's articles of incorporation, it may handle the matter in accordance with the following provisions:
 1. The protection institution may, in writing, request the supervisors of the company to institute an action against the director on behalf of the company, or request the board of directors of the company to institute an action against the supervisor on behalf of the company or request the company to institute an action against a former director or supervisor. If the supervisors, the board of directors, or the company fail to institute an action within 30 days after receiving the request made by the protection institution, then the protection institution may institute the action on behalf of the company without regard to the restrictions of Article 214, or of Article 214 as applied mutatis mutandis under Article 227, of the Company Act.
 2. The protection institution may institute an action petitioning a court for a judgment or ruling discharging the given director or supervisor without regard to the restrictions of Article 200, or of Article 200 as applied mutatis mutandis under Article 227, of the Company Act, and the causes for such discharge shall not be limited to causes occurring during the term of office coinciding with the time the action is instituted.
 The right to institute an action petitioning a court for discharge of a director or supervisor under subparagraph 2 of the preceding paragraph shall be extinguished if not exercised within 2 years from the time the protection institution learns there is cause for discharge, or when 10 years have elapsed from the time of occurrence of the cause for discharge.
@@ -181,13 +182,13 @@ The amount of original investment in the stock of any exchange-listed, OTC-liste
 2. Expenditures by the protection institution for carrying out operations in accordance with this Act and other necessary expenses.
 3. Payment of fees required for initiation of litigation or arbitration procedures in accordance with this Act.
 4. Other uses as approved by the competent authority.
-A budget shall be drawn up for the expenditures under subparagraph 2 of the preceding paragraph, and the appropriations for which shall be limited to the interest on the protection fund in the current fiscal year. However, the competent authority may make appropriate adjustments in view of financial and operating conditions.]]></條文內容>
+A budget shall be drawn up for the expenditures under subparagraph 2 of the preceding paragraph, the appropriations for which shall be limited to the sum of the current fiscal year's interest on the protection fund plus the accumulated surplus from the protection fund[WP1]'s interest income after covering business expenses from past years[WP2][WP3]. However, the competent authority may make appropriate adjustments in view of financial and operating conditions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21</條號>
     <條文內容><![CDATA[Under any of the following circumstances with respect to a securities investor or a futures trader, the protection institution may use the protection fund for payment of what is due to the investor or futures trader:
 1. When the securities firm engaged by an investor defaults because of insolvency from financial difficulties, and the investor, having traded securities on the securities market and having completed the settlement obligations or having engaged the securities firm to request the exercise of warrant rights with the issuer of call (put) warrants and having paid the price payable or delivered the securities deliverable, fails to obtain the securities or securities price to which the investor is entitled.
-2. When the futures commission merchant engaged by an investor defaults because of insolvency from financial difficulties, and the futures trader, having engaged in futures trading on the futures market, fails to obtain the margin or premium to which the investor is entitled, or the gains after the completion of clearing procedures by the futures clearing house.
+2. When the futures commission merchant engaged by a futures trader defaults because of insolvency from financial difficulties, and the futures trader, having engaged in futures trading on the futures market, fails to obtain the margin or premium to which the futures trader is entitled, or the gains after the completion of clearing procedures by the futures clearing house.
 Limits on payments to each securities investor or futures trader from the protection fund pursuant to the preceding paragraph and limits on the total amount of such payments to all securities investors or futures traders of any given securities firm or futures commission merchant, as well as the regulations and procedures governing such payments, shall be prescribed by the competent authority.
 After making a payment pursuant to paragraph 1, the protection institution assumes the rights of the securities investor or futures trader against the defaulting securities firm or futures commission merchant within the amount of the payment made.
 The provisions of Articles 34 through 36 apply mutatis mutandis when the protection institution assumes rights pursuant to the preceding paragraph and institutes an action or an appeal or moves for an injunctive or executory proceeding against the defaulting securities firm or futures commission.]]></條文內容>
@@ -204,8 +205,8 @@ The protection institution shall establish a mediation committee comprising 7 to
 2. The application is not made by a securities investor or a futures trader.
 3. No specific counterparty is named.
 4. Oral arguments for the same matter have already been concluded in the court of the first instance.
-5. The mediation subject matter falls within the effective scope of a final and binding court judgment.
-6. An application for mediation of the same subject matter in accordance with this Act has already been made.
+1. The mediation subject matter falls within the effective scope of a final and binding court judgment.
+2. An application for mediation of the same subject matter in accordance with this Act has already been made.
 Except under the circumstances set forth in the preceding paragraph or when supplementation or correction of the application is required, the mediation committee shall begin mediation procedures within 15 days of accepting an application.]]></條文內容>
   </條文>
   <條文>
@@ -214,10 +215,10 @@ Except under the circumstances set forth in the preceding paragraph or when supp
   </條文>
   <條文>
     <條號>Article 25</條號>
-    <條文內容><![CDATA[Mediation successful when both parties to the mediation reach an agreement.
+    <條文內容><![CDATA[Mediation is successful when both parties to the mediation reach an agreement.
 If there is difficulty achieving agreement through mediation, the mediation committee may, considering all the circumstances and striving for a balance of both parties' interests, produce a mediation proposal upon the approval of a majority of the whole body of committee members and set a period of not more than 45 days during which it will advise both parties to agree to the proposal. When necessary, the period may be extended by 45 days.
 If the parties to the mediation express no dissent within the period set pursuant to the preceding paragraph, the mediation will be deemed successful with respect to both parties based on the mediation proposal.
-If, within the period set under paragraph 2, dissent is expressed by one or more persons belonging to a group with common interests comprising a party to athe mediation, the mediation proposal will be void with respect to those dissenting, but mediation will be deemed successfully concluded based on the proposal with respect to all other parties. However, if the number of persons expressing dissent constitutes a majority of the members of the that party , the mediation will be deemed failedunsuccessful.
+If, within the period set under paragraph 2, dissent is expressed by one or more persons belonging to a group with common interests comprising a party to the mediation, the mediation proposal will be void with respect to those dissenting, but mediation will be deemed successfully concluded based on the proposal with respect to all other parties. However, if the number of persons expressing dissent constitutes a majority of the members of the that party , the mediation will be deemed unsuccessful.
 When acting in an advisory capacity, as mentioned in paragraph 2, the mediation committee may make the mediation proposal public if it finds the case appropriate.]]></條文內容>
   </條文>
   <條文>
@@ -234,7 +235,7 @@ If a party expresses dissent within the period stated in the preceding paragraph
   </條文>
   <條文>
     <條號>Article 26</條號>
-    <條文內容><![CDATA[When  mediation is successful, the protection institution shall produce a mediation agreement and, within 7 days from the day the mediation is successfully concluded, submit it, along with the mediation case file and evidence, for ratification by the jurisdictional district court of the place where the protection institution is located.
+    <條文內容><![CDATA[When mediation is successful, the protection institution shall produce a mediation agreement and, within 7 days from the day the mediation is successfully concluded, submit it, along with the mediation case file and evidence, for ratification by the jurisdictional district court of the place where the protection institution is located.
 If the court declines to ratify the mediation agreement because the content violates of law or regulation, public order, or good morals or because its compulsory enforcement is not possible for some other reason, the court shall notify the protection institution of the reasons.
 Unless there is a circumstance mentioned in the preceding paragraph, the court shall ratify the mediation agreement referred to in paragraph 1. After the court has ratified the mediation agreement, it shall return the ratified mediation agreement, together with the mediation case file and evidence, to the protection institution, and the protection institution shall serve the ratified mediation agreement on the parties involved. The service of the mediation documents shall be governed mutatis mutandis by the provisions of the Code of Civil Procedure.
 A mediation ratified by a court shall have the same force and effect as a final and binding civil judgment.
@@ -248,7 +249,7 @@ The circumstances under paragraph 5 shall be governed mutatis mutandis by Articl
   </條文>
   <條文>
     <條號>Article 28</條號>
-    <條文內容><![CDATA[For the protection of the public interest, within the scope of this Act and its articles of incorporation, the protection institution may submit a matter to arbitration or institute an action in its name with respect to a securities or futures matter arising from a single cause that is injurious to multiple securities investors or futures traders, after having been so empowered by not less than 20 securities investors or futures traders. The securities investors or futures traders may, prior to the conclusion of oral arguments or examination of witnesses, withdraw the empowerment to submit a matter to arbitration or institute an action,  and shall provide notice to the arbitral tribunal or court if they do so.
+    <條文內容><![CDATA[For the protection of the public interest, within the scope of this Act and its articles of incorporation, the protection institution may submit a matter to arbitration or institute an action in its name with respect to a securities or futures matter arising from a single cause that is injurious to multiple securities investors or futures traders, after having been so empowered by not less than 20 securities investors or futures traders. The securities investors or futures traders may, prior to the conclusion of oral arguments or examination of witnesses, withdraw the empowerment to submit a matter to arbitration or institute an action, and shall provide notice to the arbitral tribunal or court if they do so.
 After the protection institution has submitted a matter to arbitration or instituted an action in accordance with the preceding paragraph, it may accept empowerment from other securities investors or futures traders who have suffered injury due to a securities or futures matter arising from the same cause to submit the matter to arbitration or institute an action and, prior to the conclusion of oral arguments or examination of witnesses in the court of first instance, expand the claims asserted for arbitration or judgment.
 The empowerment to submit a matter to arbitration or to institute an action under the preceding two paragraphs includes compulsory execution, provisional attachment, provisional injunction, participation in reorganization or bankruptcy proceedings, and other powers necessary to the realization of rights in a securities or futures matter arising from a single cause.
 The empowerment to submit a matter to arbitration or institute an action under paragraphs 1 and 2 shall be effected through a written instrument.
@@ -269,7 +270,7 @@ When the protection institution has instituted an action or submitted a matter t
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[The protection institution shall have the power to perform all procedural acts in relation to an action or  arbitration it is empowered to institute by securities investors or futures traders, provided that those securities investors or futures traders may restrict its power to abandon claims, admit claims, voluntarily dismiss the case, or settle the case.
+    <條文內容><![CDATA[The protection institution shall have the power to perform all procedural acts in relation to an action or arbitration it is empowered to institute by securities investors or futures traders, provided that those securities investors or futures traders may restrict its power to abandon claims, admit claims, voluntarily dismiss the case, or settle the case.
 The effect of a restriction set by one member of the group of securities investors or futures traders shall not extend to the other securities investors or futures traders.
 Any restriction as referred to in paragraph 1 shall be set out in the written instrument referred to in Article 28, paragraph 4, or in a memorandum submitted to the court or the arbitral tribunal.]]></條文內容>
   </條文>
@@ -284,7 +285,7 @@ After receiving an authenticated copy of the judgment or decision, the protectio
   </條文>
   <條文>
     <條號>Article 34</條號>
-    <條文內容><![CDATA[When the protection institution, pursuant to Article 28, institutes an action  and moves for a provisional injunction or a provisional attachment, it shall make a preliminary showing of the claim and the ground for the provisional injunction or provisional attachment.
+    <條文內容><![CDATA[When the protection institution, pursuant to Article 28, institutes an action and moves for a provisional injunction or a provisional attachment, it shall make a preliminary showing of the claim and the ground for the provisional injunction or provisional attachment.
 A court may rule that a motion filed by the protection institution under the preceding paragraph be exempted from the requirement for the provision of security.]]></條文內容>
   </條文>
   <條文>
@@ -321,11 +322,13 @@ Under either circumstance in the preceding paragraph, the competent authority wi
   </條文>
   <條文>
     <條號>Article 40-1</條號>
-    <條文內容><![CDATA[Any action instituted under Article 10-1, paragraph 1 prior to the enforcement of the articles of this Act amended on 22 May 2020 and that is still pending shall be subject to the application of the amended articles after their enforcement.]]></條文內容>
+    <條文內容><![CDATA[Any action that was instituted under Article 10-1, paragraph 1 prior to the enforcement of the articles of this Act amended and promulgated on 10 June 2020 and enforced on 1 August of the same year and that is still pending shall be subject to the application of the amended articles after their enforcement.
+Any action that was instituted under Article 10-1, paragraph 1 prior to the enforcement of the articles of this Act amended on 1 July 2025 and that is still pending shall be subject to the application of the amended articles after their enforcement.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[The date of enforcement of this Act shall be set by the Executive Yuan.]]></條文內容>
+    <條文內容><![CDATA[The date of enforcement of this Act shall be set by the Executive Yuan.
+The articles of this Act amended on 1 July 2025 shall be enforced from the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
