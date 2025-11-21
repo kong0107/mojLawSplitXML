@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Quarantine at Ports</英文法規名稱>
 <中文法規名稱>港埠檢疫規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050002</法規網址>
-<最新英文異動日期>20171017</最新英文異動日期>
+<最新英文異動日期>20250911</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -19,7 +19,8 @@
 10.Amended in 42 articles and announced by the Department of Health, the Executive Yuan, on May 12, 2006, under Shu-Shou-Chi Order No. 0950000340
 12.Amended Article 18 and Article 25 and announced by the Department of Health, the Executive Yuan, on September 25, 2008, under Shu-Shou-Chi Order No. 0970001087
 13.Amended and announced in 42 articles by the Ministry of Health and Welfare on December 23, 2014 and implemented on January 1, 2015 under Bu-Shou-Chi Order No. 1030101711
-14.Amended Articles 8, 11 and 42 and announced by the Ministry of Health and Welfare on October 17, 2017, under Wei-Shou-Chi Order No.1060101310]]></沿革內容>
+14.Amended Articles 8, 11 and 42 and announced by the Ministry of Health and Welfare on October 17, 2017, under Wei-Shou-Chi Order No.1060101310
+15.Amended Articles 10, 27, 31 and 42 and announced by the Ministry of Health and Welfare on September 11, 2025, under Wei-Shou-Chi Order No. 1140100826]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Principles</編章節>
@@ -97,21 +98,21 @@ Upon reviewing of reports mentioned in the preceding first three paragraphs, if 
   </條文>
   <條文>
     <條號>Article 10</條號>
-    <條文內容><![CDATA[Inbound ships arriving from foreign countries shall submit to the quarantine authority the following information to complete port entry quarantine formalities:
-1. Maritime Declaration of Health;
+    <條文內容><![CDATA[Inbound ships arriving at international ports from foreign countries (boundaries) shall submit the following information to the quarantine authority to complete the port entry quarantine formalities:
+1. Ship Declaration of Health;
 2. Ports of call;
 3. Ship Sanitation Certificate;
-4. Other information necessary to quarantine.
-The following ships may be waived from submitting documents mentioned in Subparagraphs 1 through 3:
-1. Yacht under 500 tons;
+4. Other information necessary for quarantine.
+The following types of ships may be exempted from submitting the documents specified in Subparagraphs 1 to 3 above:
+1. Yachts under 500 tons;
 2. Barges without power;
-3. Fishing boat other than those for deep-sea fishing.
-Quarantine authority, if necessary, may dispatch personnel to inspect the sanitary conditions of the ship.]]></條文內容>
+3. Fishing boats other than those for deep-sea fishing.
+The quarantine authority may dispatch personnel to inspect the sanitary conditions of the ship if necessary.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 11</條號>
-    <條文內容><![CDATA[A ship, prior to departing an international port, must obtain permission from the competent quarantine authority before proceeding with the exit and customs clearance formalities.
-The competent quarantine authority may grant an entry permit and an exit permit to a ship at the same time, provided if the competent authority deems there is no cause for concern that the ship may transmit communicable diseases based on the content of the report mentioned in Article 9 herein.]]></條文內容>
+    <條文內容><![CDATA[A ship must, prior to departing from an international port, obtain permission from the quarantine authority before proceeding with the exit and customs clearance formalities.
+The quarantine authority may grant the exit permit concurrently with the entry permit to a ship, provided that, based on the report specified in Article 9 herein, it deems that the ship poses no risk of transmitting communicable diseases.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -231,7 +232,7 @@ Ashes, bones may be enter, exit country (boundaries) without quarantine.]]></條
   <編章節>   Chapter 4 Ship Sanitation</編章節>
   <條文>
     <條號>Article 27</條號>
-    <條文內容><![CDATA[Inbound ships from foreign country (boundaries), when applying for port entry by regulations of Article 10, the Maritime Declaration of Health attached shall be filled out and signed by the shipmaster; where there is a ship physician, it shall be endorsed by the ship physician.]]></條文內容>
+    <條文內容><![CDATA[The Ship Declaration of Health submitted by inbound ships from foreign countries (boundaries) when applying for port entry in accordance with the regulations specified in Article 10 shall be completed and signed by the shipmaster. The ship physician, if on board, shall also countersign the Declaration.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 28</條號>
@@ -255,8 +256,8 @@ Ships, for reasons, cannot implement the sanitation control measures in the prec
   </條文>
   <條文>
     <條號>Article 31</條號>
-    <條文內容><![CDATA[When the quarantine authority is conducting inspections under Paragraph 2 of Article 28 and Paragraph 1 of Article 29, the time required for inspections and the matters the ship shall collaborate shall be decided by the quarantine authority.
-Ships that have been scheduled for inspection, if are unable to accept inspection in the scheduled time, the shipmaster shall inform the quarantine authority in advance; the quarantine authority may, judging the actual situations, adjust its inspection time.]]></條文內容>
+    <條文內容><![CDATA[The quarantine authority shall determine the inspection schedule and the requirements with which the ship must comply for the inspections conducted as specified in Paragraph 2 of Article 28 and Paragraph 1 of Article 29.
+For ships scheduled for inspection, the shipmaster shall dispatch personnel to accompany the inspection team. If a ship is unable to undergo inspection at the scheduled time, the shipmaster shall notify the quarantine authority in advance. The quarantine authority may adjust the inspection schedule based on the actual situation.]]></條文內容>
   </條文>
   <編章節>   Chapter 5 Sanitation of Ports</編章節>
   <條文>
@@ -310,12 +311,12 @@ Transportation fees, registration fees, consultation fees, and other care-relate
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[Passengers in transit and crew,, if one shows symptoms of suspected communicable diseases, and is further assessed that there are needs for diseases control and quarantine, regulations of Article 19 apply.]]></條文內容>
+    <條文內容><![CDATA[When transit passengers or crew members who are staying in port show symptoms of suspected communicable diseases, and the quarantine authority determines that epidemic prevention or quarantine measures are necessary, regulations of Article 19 apply.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 42</條號>
-    <條文內容><![CDATA[This set of regulations shall be implemented on January 1, 2015.
-The amended articles of these Regulations shall enter into force on the date of promulgation.]]></條文內容>
+    <條文內容><![CDATA[This set of regulations entered into force on January 1, 2015.
+The amended articles of these regulations shall enter into force on the date of promulgation, except for those amended and promulgated on September 11, 2025, which shall enter into force on September 19, 2025.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
