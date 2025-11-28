@@ -3,7 +3,7 @@
 <英文法規名稱>Criminal Code of the Republic of China</英文法規名稱>
 <中文法規名稱>中華民國刑法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=C0000001</法規網址>
-<最新英文異動日期>20250528</最新英文異動日期>
+<最新英文異動日期>20250801</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -64,7 +64,8 @@
 52.Amendment to Article 185-3 promulgated on December 27, 2023
 53.Addition of Articles 141-1 and Chapter 5-1 promulgated on June 24,2024
 54.Amendment to Articles 286 promulgated on July 31,2024
-55.Amendment to Article 161; addition of Articles 161-1, 172-1, 172-2, 172-3 and title of Chapter 10-1 promulgated on May 28, 2025.]]></沿革內容>
+55.Amendment to Article 161; addition of Articles 161-1, 172-1, 172-2, 172-3 and title of Chapter 10-1 promulgated on May 28, 2025.
+56.Amendment of Articles 286; addition to Article 272-1 promulgated on August 1, 2025.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>Part 1 General Provisions</編章節>
@@ -1779,6 +1780,13 @@ A person who prepares to commit an offense specified in paragraph 1 shall be sen
     <條文內容><![CDATA[A person who commits the offense set forth in the preceding paragraph against his lineal blood ascendant shall be subject to the punishment prescribed for such an offense by increasing it up to one half.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 272-1</條號>
+    <條文內容><![CDATA[A person who commits the offense specified in article 271 under the age of seven, shall be subject to the punishment prescribed for such an offense by increasing it by half.
+A person who maltreats a minor under the age of seven commits an offense specified in article 271-1 shall be sentenced to death or life imprisonment.
+An attempt to commit an offense specified in the preceding paragraph is punishable.
+A person who prepares to commit an offense specified in paragraph two shall be sentenced to imprisonment for not more than five years.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 273</條號>
     <條文內容><![CDATA[Any person who kills others on the scene by righteous indignation shall be sentenced to imprisonment for not more than seven years.
 An attempt to commit an offense specified in the preceding paragraph is punishable.]]></條文內容>
@@ -1842,11 +1850,13 @@ A person who abets or aids another person in causing physical injury to himself 
   </條文>
   <條文>
     <條號>Article 286</條號>
-    <條文內容><![CDATA[A person who maltreats a minor under the age of eighteen or impairs the mental or physical health or development thereof by other means shall be sentenced to imprisonment of not less than six months but not more than five years.
-A person who intends to make a profit by committing an offense specified in the preceding paragraph shall be sentenced to imprisonment of not less than five years; in addition thereto, a fine of not more than three million NT dollars may be imposed.
-A person who commits the offense specified in paragraph 1 that results in the death of another shall be sentenced to life imprisonment or imprisonment of not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment of not less than five years but not more than twelve years.
-A person who commits the offense specified in paragraph 2 that results in the death of another shall be sentenced to life imprisonment or imprisonment of not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment of not less than ten years.
-A person who commits an offense specified in the preceding four paragraphs against a person under the age of seven, shall be subject to punishment prescribed for such offense by increasing it up to one half.]]></條文內容>
+    <條文內容><![CDATA[A person who maltreats a minor under the age of eighteen or impairs the mental or physical health or development thereof by other means shall be sentenced to imprisonment for not less than six months but not more than five years.
+A person who intends to make a profit by committing an offense specified in the preceding paragraph shall be sentenced to imprisonment for not less than five years; in addition thereto a fine of not more than three million dollars may be imposed.
+A person who commits an offense specified in the preceding two paragraphs against a person under the age of seven, shall be subject to punishment prescribed for such offense by increasing it by half.
+A person who commits the offense specified in paragraph one that results in the death of another from more than the age of seven but under the age of eighteen shall be sentenced to life imprisonment or with imprisonment for not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than five years but not more than twelve years.
+A person who commits the offense specified in paragraph two that results in the death of another from more than the age of seven but under the age of eighteen shall be sentenced to life imprisonment or with imprisonment for not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than ten years.
+A person who commits the offense specified in paragraph one that results in the death of another under the age of seven, shall be sentenced to death, life imprisonment, or imprisonment for not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than ten years.
+A person who commits the offense specified in paragraph two that results in the death of another under the age of seven, shall be sentenced to death, life imprisonment, or imprisonment for not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to life imprisonment or imprisonment for not less than twelve years.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 287</條號>

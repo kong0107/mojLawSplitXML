@@ -3,7 +3,7 @@
 <英文法規名稱>Rules of the Air</英文法規名稱>
 <中文法規名稱>飛航規則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090014</法規網址>
-<最新英文異動日期>20210325</最新英文異動日期>
+<最新英文異動日期>20251016</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
@@ -64,11 +64,12 @@
 14.Amendment “Rules of the Air” to “Flight and ATC Regulations” and Articles 1-6, 18, 27, 35-39 , 41, 48, 52, 53, 55, 56, 62, 63, 69, 70, 72, 73 promulgated No. (91)Chee-Fa-Fa-Zi-0007 of Civil Aeronautics Administration, MOTC on March 8, 2002.
 15.Amendment total 78 Articles promulgated No. Chee-Fa-Fa-Zi-0022 of Civil Aeronautics Administration, MOTC on January 5, 2005.
 16.Amendment to Articles 2, 20, 21, 36, 50, 64 and Appendix 1 and 3 to Articles 36 and 53, and Table Ⅰ to Article 55 promulgated No. Chee-Fa-Fa-Zi-0960000034 of Civil Aeronautics Administration, MOTC on June 29, 2007.
-17.Amendment to Articles1-3, 5, 57, 78, TableΠ, and Appendix 1 to 3 promulgated No. Chee-Fa-Fa-Zi-0960000036 of Civil Aeronautics Administration, MOTC on November 26, 2007.
-18.Amendment to Articles 2, 52, 57, TableΠ, and Appendix 1 and 2 promulgated No. Chee-Fa-Fa-Zi-0990000046 of Civil Aeronautics Administration, MOTC on August 31, 2010.
+17.Amendment to Articles1-3, 5, 57, 78, Table II, and Appendix 1 to 3 promulgated No. Chee-Fa-Fa-Zi-0960000036 of Civil Aeronautics Administration, MOTC on November 26, 2007.
+18.Amendment to Articles 2, 52, 57, Table II, and Appendix 1 and 2 promulgated No. Chee-Fa-Fa-Zi-0990000046 of Civil Aeronautics Administration, MOTC on August 31, 2010.
 19.Amendment to Articles 2, 17, 19 and 56 promulgated No. Chee-Fa-Fa-Zi-0055 of Civil Aeronautics Administration, MOTC on Mar. 19, 2013.
 20.Amendment to Articles 14-1 and Table II promulgated No. Chee-Fa-Fa-Zi-10314015901 of Civil Aeronautics Administration, MOTC on Dec. 31, 2014.
-21.Amendment to Articles 14-1 promulgated No. Chee-Fa-Zi-11014002951 of Civil Aeronautics Administration, MOTC on March 25, 2021.]]></沿革內容>
+21.Amendment to Articles 14-1 promulgated No. Chee-Fa-Zi-11014002951 of Civil Aeronautics Administration, MOTC on March 25, 2021.
+22.Amendment to Articles 2, 37 and 39 promulgated No. Chee-Fa-Zi-11414017601 of Civil Aviation Administration, MOTC on October 16, 2025.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   CHAPTER I GENERAL PRINCIPLES</編章節>
@@ -80,179 +81,181 @@
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[The terms used in these rules are defined as follows:
-1. Acrobatic Flight
+1.Acrobatic Flight
 Manoeuvers intentionally performed by an aircraft involving an abrupt change in its attitude, an abnormal attitude, or an abnormal variation in speed.
-2. Automatic dependent surveillance — broadcast (ADS-B).
+2.Automatic dependent surveillance — broadcast (ADS-B).
 A means by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link.
-3. ADS-C agreement.
+3.ADS-C agreement.
 A reporting plan which establishes the conditions of ADS-C data reporting (i.e. data required by the air traffic services unit and frequency of ADS-C reports which have to be agreed to prior to using ADS-C in the provision of air traffic services).
-4. Automatic dependent surveillance — contract (ADS-C).
+4.Automatic dependent surveillance — contract (ADS-C).
 A means by which the terms of an ADS-C agreement will be exchanged between the ground system and the aircraft, via a data link, specifying under what conditions ADS-C reports would be initiated, and what data would be contained in the reports.
-5. Aerodrome
+5.Aerodrome
 A defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft.
-6. Aerodrome control service
+6.Aerodrome control service
 Air traffic control service for aerodrome traffic.
-7. Aerodrome control tower
+7.Aerodrome control tower
 A unit established to provide air traffic control service to aerodrome traffic.
-8. Aerodrome traffic
+8.Aerodrome traffic
 All traffic on the manoeuvring area of an aerodrome and all aircraft flying in the vicinity of an aerodrome.
-9. Aerodrome traffic zone
+9.Aerodrome traffic zone
 An airspace of defined dimensions established around an aerodrome for the protection of aerodrome traffic.
-10. Aeronautical Information Publication (AIP)
+10.Aeronautical Information Publication (AIP)
 A publication issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation.
-11. Aeronautical station
+11.Aeronautical station
 A land station in the aeronautical mobile service. In certain instances, an aeronautical station may be located, for example, on board ship or on a platform at sea.
-12. Aeroplane
+12.Aeroplane
 A power-driven heavier-than-air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight.
-13. Airborne collision avoidance system (ACAS)
+13.Airborne collision avoidance system (ACAS)
 An aircraft system based on secondary surveillance radar (SSR) transponder signals which operates independently of ground-based equipment to provide advice to the pilot on potential conflicting aircraft that are equipped with SSR transponders.
-14. Aircraft
+14.Aircraft
 Any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth’s surface.
-15. Air traffic control clearance
+15.Air traffic control clearance
 Authorization for an aircraft to proceed under conditions specified by an air traffic control unit.
-16. Air traffic control (ATC) service
+16.Air traffic control (ATC) service
 A service provided for the purpose of preventing collisions between aircraft, and on the manoeuvring area between aircraft and obstructions, and expediting and maintaining an orderly flow of air traffic.
-17. Air traffic control unit
+17.Air traffic control unit
 A generic term meaning variously, area control center, approach control office or aerodrome control tower.
-18. Air traffic service (ATS)
+18.Air traffic service (ATS)
 A generic term meaning variously, flight information service, alerting service, air traffic control service（area control service, approach control service or aerodrome control service）.
-19. Air traffic services unit
+19.Air traffic services unit
 A generic term meaning variously, flight information center or air traffic control unit.
-20. Airway
+20.Airway
 Means a control area or portion thereof established by the CAA in the form of a corridor.
-21. Alerting service
+21.Alerting service
 A service provided to notify appropriate organizations regarding aircraft in need of search and rescue aid, and assist such organizations as required.
-22. Alternate aerodrome
+22.Alternate aerodrome
 An aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing.
-23. Altitude
+23.Altitude
 The vertical distance of a level, a point or an object considered as a point, measured from mean sea level (MSL).
-24. Approach control service
+24.Approach control service
 Air traffic control service for arriving or departing controlled flights.
-25. Appropriate ATS authority
+25.Appropriate ATS authority
 The relevant authority designated by the State responsible for providing air traffic services in the airspace concerned.
-26. Area control center
+26.Area control center
 A unit established to provide air traffic control service to controlled flights in control areas under its jurisdiction.
-27. ATS route
+27.ATS route
 A specified route designed for channeling the flow of traffic as necessary for the provision of air traffic services.
-28. Ceiling
+28.Ceiling
 The height above the ground or water of the base of the lowest layer of cloud below 20,000 ft covering more than half the sky.
-29. Changeover point
+29.Changeover point
 The point at which an aircraft navigating on an ATS route segment defined by reference to very high frequency omnidirectional radio ranges is expected to transfer its primary navigational reference from the facility behind the aircraft to the next facility ahead of the aircraft.
-30. Control area
+30.Control area
 A controlled airspace extending upwards from a specified limit above the earth.
-31. Controlled aerodrome
+31.Controlled aerodrome
 An aerodrome at which air traffic control service is provided to aerodrome traffic.
-32. Controlled airspace
+32.Controlled airspace
 An airspace of defined dimensions within which air traffic control service is provided in accordance with the airspace classification, including of Classes A, B, C, D, E and class E surface airspace.
-33. Controlled flight
+33.Controlled flight
 Any flight which is subject to an air traffic control clearance.
-34. Control zone
+34.Control zone
 A controlled airspace extending upwards from the surface of the earth to a specified upper limit.
-35. Cruising level
+35.Cruising level
 A level maintained during a significant portion of a flight.
-36. Current flight plan
-The flight plan, including changes, if any, brought about by subsequent clearances.
-37. Danger area
+36.Current flight plan (CPL)
+The flight plan that reflects changes to the filed flight plan, if any, by subsequent ATC clearances.
+37.Danger area
 An airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times.
-38. Data link communications
+38.Data link communications
 A form of communication intended for the exchange of messages via a data link.
-39. Estimated off-block time
+39.Estimated off-block time
 The estimated time at which the aircraft will commence movement associated with departure.
-40. Expected approach time
+40.Expected approach time
 The time at which ATC expects that an arriving aircraft, following a delay, will leave the holding point to complete its approach for a landing.
-41. Filed flight plan
-The flight plan as filed with an ATS unit by the pilot or a designated representative, without any subsequent changes.
-42. Flight crew member
+41.Filed flight plan (FPL or eFPL)
+The latest flight plan as submitted by the pilot, an operator or a designated representative for use by ATS units. The FPL denotes a filed flight plan exchanged using aeronautical fixed service, while eFPL denotes a filed flight plan exchanged using FF-ICE services. The eFPL allows for the exchange of additional information not contained within the FPL.
+42.Flight crew member
 A licensed crew member charged with duties essential to the operation of an aircraft during flight time.
-43. Flight information center
+43.Flight information center
 A unit established to provide flight information service.
-44. Flight information region (FIR)
+44.Flight information region (FIR)
 An airspace of defined dimensions within which flight information service and alerting service are provided.
-45. Flight information service
+45.Flight information service
 A service provided for the purpose of giving advice and information useful for the safe and efficient conduct of flights.
-46. Flight level (FL)
-A surface of constant atmospheric pressure which is related to a specific pressure datum, 1 013.2 hectopascals (hPa) (29.92 inches), and is separated from other such surfaces by specific pressure intervals.
-47. Flight plan
+46.Flight level (FL)
+A surface of constant atmospheric pressure which is related to a specific pressure datum, 1013.2 hectopascals (hPa) (29.92 inches), and is separated from other such surfaces by specific pressure intervals.
+47.Flight plan
 Specified information provided to air traffic services units, relative to an intended flight or portion of a flight of an aircraft.
-48. Flight visibility
+48.Flight visibility
 The visibility forward from the cockpit of an aircraft in flight.
-49. Ground visibility
+49.Ground visibility
 The visibility at an aerodrome, as reported by an accredited observer.
-50. Heading
+50.Heading
 The direction in which the longitudinal axis of an aircraft is pointed, usually expressed in degrees from true north, magnetic north, compass north or grid north.
-51. Height
+51.Height
 The vertical distance of a level, a point or an object considered as a point, measured from a specified datum.
-52. Instrument flight rules (IFR) flight
+52.Instrument flight rules (IFR) flight
 A flight conducted in accordance with the instrument flight rules.
-53. Instrument approach procedure
+53.Instrument approach procedure
 A series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en-route obstacle clearance criteria apply. Instrument approach procedures are classified as follows:
 (1) Non-precision approach procedure. An instrument approach procedure which utilizes lateral guidance but does not utilize vertical guidance.
 (2) Approach procedure with vertical guidance. An instrument approach procedure which utilizes lateral and vertical guidance but does not meet the requirements established for precision approach and landing operations.
 (3) Precision approach procedure. An instrument approach procedure using precision lateral and vertical guidance with minima as determined by the category of operation.
-54. Instrument meteorological condition (IMC)
+54.Instrument meteorological condition (IMC)
 Meteorological conditions expressed in terms of visibility, distance from cloud, and ceiling, less than the minima specified for visual meteorological conditions.
-55. Level
+55.Level
 A generic term relating to the vertical position of an aircraft in flight and meaning variously, height, altitude or flight level
-56. Manoeuvring area
+56.Manoeuvring area
 That part of an aerodrome to be used for the take-off, landing and taxiing of aircraft, excluding aprons.
-57. Movement area
+57.Movement area
 That part of an aerodrome to be used for the take-off, landing and taxiing of aircraft, consisting of the manoeuvring area and the apron(s).
-58. Pilot-in-command
+58.Pilot-in-command
 The pilot designated by the operator, or in the case of general aviation, the owner, as being in command and charged with the safe conduct of a flight.
-59. Problematic use of substances
-The use of one or more psychoactive substances by aviation personnel in a way that: (1) constitutes a direct hazard to the user or endangers the lives, health or welfare of others.  (2) causes or worsens an occupational, social, mental or physical problem or disorder.
-60. Prohibited area
+59.Problematic use of substances
+The use of one or more psychoactive substances by aviation personnel in a way that:
+(1) constitutes a direct hazard to the user or endangers the lives, health or welfare of others.
+(2) causes or worsens an occupational, social, mental or physical problem or disorder.
+60.Prohibited area
 An airspace of defined dimensions, above the land areas or territorial waters of a State, within which the flight of aircraft is prohibited.
-61. Psychoactive substances
+61.Psychoactive substances
 Alcohol, opioids, cannabinoids, sedatives and hypnotics, cocaine, other psychostimulants, hallucinogens, and volatile solvents, whereas coffee and tobacco are excluded.
-62. Reporting point
+62.Reporting point
 A specified geographical location in relation to which the position of an aircraft can be reported.
-63. Restricted area
+63.Restricted area
 An airspace of defined dimensions, above the land areas or territorial waters of a State, within which the flight of aircraft is restricted in accordance with certain specified conditions.
-64. Runway
+64.Runway
 A defined rectangular area on a land aerodrome prepared for the landing and take-off of aircraft.
-65. Runway-holding position
+65.Runway-holding position
 A designated position intended to protect a runway, an obstacle limitation surface, or an ILS/MLS critical/sensitive area at which taxiing aircraft and vehicles shall stop and hold, unless otherwise authorized by the aerodrome control tower.
-66. Safety-sensitive personnel
+66.Safety-sensitive personnel
 Persons who might endanger aviation safety if they perform their duties and functions improperly including, but not limited to, crew members, aircraft maintenance personnel and air traffic controllers.
-67. Special VFR flight
+67.Special VFR flight
 A VFR flight requested by pilot and cleared by air traffic control to operate within a control zone in meteorological conditions below VMC.
-68. Taxiing
+68.Taxiing
 Movement of an aircraft on the surface of an aerodrome under its own power, excluding take-off and landing.
-69. Total estimated elapsed time
+69.Total estimated elapsed time
 For IFR flights, the estimated time required from take-off to arrive over that designated point, defined by reference to navigation aids, from which it is intended that an instrument approach procedure will be commenced, or, if no navigation aid is associated with the destination aerodrome, to arrive over the destination aerodrome. For VFR flights, the estimated time required from take-off to arrive over the destination aerodrome.
-70. Track
+70.Track
 The projection on the earth's surface of the path of an aircraft, the direction of which path at any point is usually expressed in degrees from true north, magnetic north or grid north.
-71. Traffic information
+71.Traffic information
 Information issued by an air traffic services unit to alert a pilot to other known or observed air traffic which may be in proximity to the position or intended route of flight and to help the pilot avoid a collision.
-72. Transition altitude
+72.Transition altitude
 The altitude at or below which the vertical position of an aircraft is controlled by reference to altitudes.
-73. Unmanned free balloon. A non-power-driven, unmanned, lighter-than-air aircraft in free flight.
-74. Visual flight rules (VFR) flight
+73.Unmanned free balloon. A non-power-driven, unmanned, lighter-than-air aircraft in free flight.
+74.Visual flight rules (VFR) flight
 A flight conducted in accordance with the visual flight rules.
-75. Visibility
+75.Visibility
 Visibility for aeronautical purposes is the greater of：
 (1) the greatest distance at which a black object of suitable dimensions, situated near the ground, can be seen and recognized when observed against a bright background;
 (2) the greatest distance at which lights in the vicinity of 1000 candelas can be seen and identified against an unlit background.
-76. Visual meteorological condition (VMC)
+76.Visual meteorological condition (VMC)
 Meteorological conditions expressed in terms of visibility, distance from cloud, and ceiling equal to or better than specified minima.
-77. Tables of cruising level
+77.Tables of cruising level
 Tables of cruising level designated in accordance with the magnetic track 000°-179° and 180°-359°.
-78. Transition level
+78.Transition level
 The lowest flight level available for use above the transition altitude.
-79. Air defense identification zone (ADIZ)
+79.Air defense identification zone (ADIZ)
 An airspace specified for the purpose of national defense within which the control and swift identification and location of an aircraft is required.
-80. Night
+80.Night
 The hours between the end of evening civil twilight and the beginning of morning civil twilight.
-81. Small aircraft
-Aircraft with maximum take-off weight less than or equal to 5,700 kg, exclude ultra light vehicles.
-82. VFR flight following
+81.Small aircraft
+Aircraft with maximum take-off weight less than or equal to 5,700 kg, exclude ultra-light vehicles.
+82.VFR flight following
 A service provided by ATS unit to pilot of small VFR aircraft by maintaining air-ground communications, and monitoring the aircraft movement.
-83. Area navigation
+83.Area navigation
 A method of navigation which permits aircraft operation on any desired flight path within the coverage of station-referenced navigation aids or within the limits of the capability of self-contained aids, or a combination of these.
-84. Regional air navigation agreement
+84.Regional air navigation agreement
 An agreement approved by the Council of ICAO normally on the advice of a Regional Air Navigation Meeting.
-85. Free balloon
+85.Free balloon
 Non-power-driven, one lighter-than-air aircraft, includes inflatable free balloon and hot-air free balloon.]]></條文內容>
   </條文>
   <條文>
