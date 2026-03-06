@@ -3,7 +3,7 @@
 <英文法規名稱>Highway Act</英文法規名稱>
 <中文法規名稱>公路法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040001</法規網址>
-<最新英文異動日期>20231206</最新英文異動日期>
+<最新英文異動日期>20251219</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -25,7 +25,8 @@
 16.Amendment to Articles 65,81 promulgated on June 15, 2022.
 17.Amendment to Article 72,73, and addition of Article 74-1, 74-2 promulgated on June 28, 2023.
 18.Amendment to Article 33,61-1,81 and addition of Article 34-1 promulgated on December 6, 2023.
-   Amendment to Article 58 shall take effect on a date determined by the Executive Yuan.]]></沿革內容>
+   Amendment to Article 58 shall take effect on a date determined by the Executive Yuan.
+19.Amendment to Articles 27, 28, 32, 39-1, 46, 60-1, 65, 72, 75 promulgated on December 19, 2025.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -198,13 +199,16 @@ City highways and district highways shall be maintained by municipality highway 
   </條文>
   <條文>
     <條號>Article 27</條號>
-    <條文內容><![CDATA[To finance the expenditures required by highway maintenance, construction, and safety management, highway authorities may collect automobile fuel charges at rates not exceeding 25% of the fuel import or ex-factory price. Measures regarding the collection and distribution of automobile fuel expenses are provided by the MOTC after consultation with the Ministry of Finance, and to the distribution proportions of urban streets are decided by the MOTC after consultation with the Ministry of the Interior.]]></條文內容>
+    <條文內容><![CDATA[To finance the expenditures required by highway maintenance, construction, and safety management, highway authorities may collect highway usage, maintenance, and safety management charges.
+The rate for vehicles using fuel shall not exceed 25% of the fuel import price  or ex-factory price.
+The rate for non-fuel vehicles will be determined by the MOTC after consultation with the Ministry of Finance.
+Measures regarding the collection and distribution of highway usage, maintenance, and safety management charges are provided by the MOTC after consultation with the Ministry of Finance, and the distribution proportions of urban streets are decided by the MOTC after consultation with the Ministry of the Interior.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 28</條號>
     <條文內容><![CDATA[Central highway authorities may establish highway construction funds for the needs of highway constructions and management with the following income:
-(1)Toll for passing vehicles.
-(2) Automobile fuel charges taxes allotted to highway constructions.
+(1) Toll for passing vehicles.
+(2) Highway usage, maintenance, and safety management charges allotted to highway constructions.
 (3) Government budgets allocation.
 (4) Private or organization donations.
 (5) Service income on toll highways.
@@ -239,7 +243,8 @@ When highway authorities need to move the original pipeline or other public faci
   </條文>
   <條文>
     <條號>Article 32</條號>
-    <條文內容><![CDATA[The highway competent authority shall pay attention to the landscape andbeautification for the highway under its custody. All local governments are allowed to plant sidewalk trees and ornamental plants or site architectural improvements, as well as in charge of relevant maintenance after approval received from the highway competent authority; the plants or site locations shall make no interference to the original function of the highway.]]></條文內容>
+    <條文內容><![CDATA[The highway competent authority shall pay attention to the landscape, beautification, and soil and water conservation for the highway under its custody. All local governments are allowed to plant sidewalk trees and ornamental plants or site architectural improvements, as well as in charge of relevant maintenance after approval received from the highway competent authority; the plants or site locations shall make no interference to the original function of the highway.
+The planting of sidewalk trees and ornamental plants mentioned in the preceding paragraph shall take native species as the priority for planting.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 33</條號>
@@ -305,7 +310,7 @@ If a commercial automobile business fails to complete preparatory work after rat
   <條文>
     <條號>Article 39-1</條號>
     <條文內容><![CDATA[License plates of taxicabs should be issued according to the regional population and the growth percentage of road surfaces in use.
-This article does not apply to the issuance of individual license plates applied by excellent drivers.]]></條文內容>
+This article does not apply to the issuance of individual license plates applied by excellent drivers or to the issuance of license plates for universal design taxis.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 40</條號>
@@ -345,8 +350,9 @@ The rate of collected highway operation fees under this article cannot exceed 10
   </條文>
   <條文>
     <條號>Article 46</條號>
-    <條文內容><![CDATA[Automobile transportation providers should report to highway authorities for sanction before modifying organizations, increasing or decreasing assets, collateralizing property, or declaring suspension or termination of business. Within 2 months after an automobile transportation commercial vehicle causes a traffic accident which results in deaths or serious injuries, the highway authorities may not approve all or in part the vehicles transfer or cancellation after the victims, their spouses, or the relatives submit the prove documents made by the police authorities. The victims, their spouses, or the relatives are permitted to petition for provisional attachment or provisional injunction not subject to the limits.
-The definition of relative in the aforementioned paragraph may be the lineal relative by blood or collateral relative by blood within 2nd degree of kinship.
+    <條文內容><![CDATA[Automobile transportation providers should report to highway authorities for sanction before modifying organizations, increasing or decreasing assets, collateralizing property, or declaring suspension or termination of business.
+Within 2 months after an automobile transportation commercial vehicle causes a traffic accident which results in deaths or serious injuries, the highway authorities may not approve all or in part the vehicles transfer or cancellation after the victims, their spouses, or the relatives submit the proof documents made by the police authorities. The victims, their spouses, or the relatives are permitted to petition for provisional attachment or provisional injunction not subject to the limits.
+When the highway authority learn the identity of the victims, their spouses, or the relatives mentioned in the preceding paragraph, it may proactively notify them to submit an application. The definition of relative in the aforementioned paragraph may be the lineal relative by blood or collateral relative by blood within 2nd degree of kinship.
 The regulations about the number of non-approval transfer and cancellation of vehicles, the methods of vehicle value estimates and the options of vehicle prohibition change for automobile transportation providers under this article are enacted by the MOTC.]]></條文內容>
   </條文>
   <條文>
@@ -505,7 +511,8 @@ The rule of damage compensation applicable to the injury or death of passengers 
     <條號>Article 65</條號>
     <條文內容><![CDATA[Automobile owners shall have liability insurance under this article.
 Trolley owners shall have liability insurance before applying to highway authorities for the issuance of license plates, under rates provided by the MOTC. Insurance premiums are set by the MOTC.
-The operator of automobile transportation shall have liability insurance for passengers, and the minimum insurance coverage is set by the MOTC. Highway automobile transportation enterprise, metropolitan automobile transportation enterprise, and tourist bus transportation enterprise that fail to pay insurance premiums shall be fined at least NTD 100,000 but not more than NTD 500,000. Taxicab transportation business that fail to pay insurance premiums shall be fined at least NTD 3,000 but not more than NTD 30,000.]]></條文內容>
+The operator of automobile transportation shall have liability insurance for passengers and third-parties, and the minimum insurance coverage is set by the MOTC. Highway automobile transportation enterprise, metropolitan automobile transportation enterprise, and tourist bus transportation enterprise that fail to pay insurance premiums shall be fined at least NTD 100,000 but not more than NTD 500,000. Taxicab transportation businesses that fail to pay insurance premiums shall be fined at least NTD 3,000 but not more than NTD 30,000.
+The highway authority may require the insurer to provide the aforementioned underwriting information for transmission to the agency or institution designated by the central highway authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 66</條號>
@@ -541,9 +548,14 @@ If the constructions of highway operation enterprises do not agree with the orig
   </條文>
   <條文>
     <條號>Article 72</條號>
-    <條文內容><![CDATA[Unauthorized use or destruction of highway land or damage to highway facilities shall be subject to a fine of no less than NTD 60,000 and not more than NTD 300,000; The highway authority shall order the offender to restore the original condition, reimburse the restoration fees, or provide compensation.
-In the aforementioned circumstances, if a written notice specifying a reasonable period for restoration to the original condition is given and the party fails to comply within the specified period, the highway authority may impose a fine of no less than NTD 60,000 and no more than NTD 300,000, and shall be subjected to fine per occurrence.
+    <條文內容><![CDATA[Unauthorized use or destruction of highway land or damage to highway facilities shall be subject to a fine of no less than NTD 60,000 and not more than NTD 300,000; the highway authority shall order the offender to restore the original condition, reimburse the restoration fees, or provide compensation.
+In the aforementioned circumstances, if a written notice specifying a reasonable period for restoration is given and the party fails to comply by the deadline, the highway authority may impose a fine of no less than NTD 60,000 and no more than NTD 300,000, and may be subjected to fine per occurrence.
 If piping or wiring agencies or other engineering agencies install pipelines or other public facilities and fail to maintain traffic or conduct repairs as stipulated in the applied-for and permitted engineering project plan, the agencies shall be fined at least NTD 30,000 but not more than NTD 150,000, and shall be requested to improve in a given period. If the required improvements are not made by the specified deadline, agencies shall be subjected to fine per occurrence.
+Where piping or wiring agencies or other engineering authorities (agencies) use highway land to install pipelines, manholes, or handhole covers, they shall restore and properly backfill the area after installation or maintenance to be flush with the adjacent road surface. The anti-skid value standards for surface facilities such as manhole or handhole covers shall not be lower than the standards set by the MOTC. Furthermore, within the warranty period after backfilling as determined by the highway authority, the road surface smoothness shall be tested using a three-meter straightedge, and the single-point elevation difference shall not exceed ±0.6 cm. Violators shall make improvements within a specified time limit; if improvements are not made by the deadline, they shall be subject to a fine of no less than NTD 30,000 and no more than NTD 150,000, and shall be ordered to improve within a specified time limit; if improvements are still not made by the deadline, they shall be subjected to fine per occurrence.
+When necessary for maintenance, the highway authority may request piping or wiring agencies or other engineering authorities (agencies) to place certain manhole or handhole covers underground. However, if the piping or wiring agencies or other engineering authorities (agencies) have disaster relief or special needs, they may be exempted. The scope of special needs shall be determined by the MOTC in consultation with municipal, county (city) governments, and relevant piping or wiring agencies.
+If pipelines or other facilities installed by piping or wiring agencies or other engineering authorities (agencies) cause damage to people’s lives, bodies, or property due to defects in installation or management, or if the competent authority discovers through inspection that the road surface restoration is improper or poses a risk of injury, improvements shall be made within a specified time limit. If improvements are not made by the deadline, they shall be subject to a fine of no less than NTD 30,000 and no more than NTD 150,000, and shall be ordered to improve within a limit; if improvements are still not made by the deadline, they shall be subject to fine per occurrence.
+The scope of installation for pipelines or other facilities mentioned in the preceding paragraph refers to the area excavated for construction within the highway land.
+Violations of the provisions of Paragraph 1 and Paragraphs 3 to 6 that result in a major disaster shall be subject to a fine of no less than NTD 150,000 and no more than NTD 1,500,000.
 Unauthorized construction on proposed highway land after promulgation and boundary marking and forbidding or restricting construction shall be demolished by highway authorities in joint with relevant authorities.]]></條文內容>
   </條文>
   <條文>
@@ -576,7 +588,7 @@ The scope of the important highway facilities and equipment mentioned in the fir
   </條文>
   <條文>
     <條號>Article 75</條號>
-    <條文內容><![CDATA[Automobile owners who fail to pay automobile fuel charges as regulated shall be notified by highway authorities to pay within a time limit. Owners who fail to pay fuel charges of NTD 900 and above shall be fined between NTD 300 and NTD 3000. In addition, vehicle alterations or vehicle license plate renewals shall be suspended.]]></條文內容>
+    <條文內容><![CDATA[Automobile owners who fail to pay highway usage, maintenance, and safety management charges as regulated shall be notified by highway authorities to pay within a time limit. Owners who fail to pay fuel charges of NTD 900 and above shall be fined between NTD 300 and NTD 3000. In addition, vehicle alterations or vehicle license plate renewals shall be suspended.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 76</條號>

@@ -1,18 +1,19 @@
 <法規>
 <法規性質>命令</法規性質>
-<英文法規名稱>Regulations Regarding the Security Protection Plan for the Processing of Personal Information Files in Tourism Industry-related Non-government Agencies Designated by the Ministry of Transportation and Communications</英文法規名稱>
+<英文法規名稱>Regulations Governing the Security and Maintenance of Personal Information Files in Tourism Industry-related Non-government Agencies</英文法規名稱>
 <中文法規名稱>觀光產業類非公務機關個人資料檔案安全維護管理辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110048</法規網址>
-<最新英文異動日期>20220401</最新英文異動日期>
+<最新英文異動日期>20251112</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件>
   <檔案>
-    <檔案名稱><![CDATA[Personal Data Breach Reportingand Record Sheet.pdf]]></檔案名稱>
-    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007373</下載網址>
+    <檔案名稱><![CDATA[Appendix Personal Data Breach Reportingand Record Sheet.pdf]]></檔案名稱>
+    <下載網址>https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009608</下載網址>
   </檔案>
 </附件>
-<沿革內容><![CDATA[1.Promulgated per Ministry of Transportation and Communications Order Jiao-Lu-(1)-Zi No. 11182002907 dated April 1, 2022]]></沿革內容>
+<沿革內容><![CDATA[1. Promulgated per Ministry of Transportation and Communications Order Jiao-Lu-(1)-Zi No. 11182002907 dated April 1, 2022
+2. Amended on November 12, 2025]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -35,7 +36,7 @@ The consumers referred to in these regulations shall be people making transactio
   </條文>
   <條文>
     <條號>Article 4</條號>
-    <條文內容><![CDATA[Non-government agencies in possession of 8,000 or more entries of personal data shall act according to these regulations to plan, establish, revise and implement their personal information protection plan and their personal data disposal procedure (together hereinafter referred to as the plan and disposal procedure) after termination of business operations
+    <條文內容><![CDATA[Non-government agencies in possession of 8,000 or more entries of personal data shall act according to these regulations to plan, establish, revise and implement their personal information protection plan and their personal data disposal procedure (together hereinafter referred to as the plan and disposal procedure) after termination of business operations.
 Those required to establish the plan and disposal procedure according to the preceding paragraph shall complete the task within six months after these regulations take effect. Any non-government agency with 8,000 or more personal data entries after these regulations take effect shall complete the task within six months after the number of personal data entries in its possession achieves 8,000.
 If the number of personal data entries decreases in two consecutive years to less than 8,000 after establishing the plan and disposal procedure according to the two preceding paragraphs, the non-government agency may suspend implementation of all or part of the plan and disposal procedure. Nevertheless, if the number of personal data entries in its possession achieves 8,000 again, the non-government agency shall resume implementation of the plan and procedure within 30 days.
 The number of personal data entries described in the three preceding paragraphs shall be calculated in accordance with the accumulated personal data entries in the possession of a non-government agency. If the number of personal data entries in the possession of a non-government agency is less than 8,000, the non-government agency shall provide evidence to prove it.
@@ -55,7 +56,7 @@ Once a non-government agency is notified by the competent authority to provide t
 (7) Awareness promotion and training
 (8) Establishment of a mechanism for personal data safety maintenance and auditing
 (9) Preservation of use records, log files and evidence
-(10) Continuous improvement of person data safety maintenance。
+(10) Continuous improvement of person data safety maintenance
 (11) Procedures for disposal of personal data after business operation termination]]></條文內容>
   </條文>
   <條文>
@@ -79,9 +80,10 @@ Each non-government agency is required to keep the personal data protection plan
 1. Response measures to be taken after an incident, including the methods for reducing or controlling the damages of the party or parties in concern as well as the appropriate approaches to notify the party or parties in concern and the content of such notifications
 2. The party or parties to report to after an incident and the ways to report
 3. A mechanism for discussing and establishing corrective and preventive measures after an incident
+The notice to the party under subparagraph 1 of the preceding paragraph shall include the facts concerning the personal data breach, the response measures taken, and the consultation hotline provided.
 If a Personal data breach is deemed likely to endanger its normal operation or affect the interests of a large number of concerned parties, the non-government agency in question shall report the incident to the competent authority in the format shown in the appendix within 72 hours after finding out about the incident. It the incident is reported to the local competent authority, a carbon copy shall also be sent to the central competent authority.
 If unable to report to the competent authority within the given timeline or provide all the required information at the time of reporting, the non-government agency shall present the causes of delay or provide the information in stages.
-After receiving the report described in Paragraph 2, the competent authority may act according to Articles 22 to 25 of the act and take appropriate supervisory measures. If necessary, the central competent authority may act as a supervisor when the local competent authority oversees the efforts of the non-government agency to improve related mechanisms.]]></條文內容>
+After receiving the report described in Paragraph 3, the competent authority may act according to Articles 22 to 25 of the act and take appropriate supervisory measures. If necessary, the central competent authority may act as a supervisor when the local competent authority oversees the efforts of the non-government agency to improve related mechanisms.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 10</條號>
