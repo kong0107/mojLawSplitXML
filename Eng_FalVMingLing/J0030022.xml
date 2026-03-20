@@ -3,7 +3,7 @@
 <英文法規名稱>Professional Engineers Act</英文法規名稱>
 <中文法規名稱>技師法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0030022</法規網址>
-<最新英文異動日期>20110622</最新英文異動日期>
+<最新英文異動日期>20260105</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -16,7 +16,8 @@
 7. Articles 3, 7, 10, 38, 40, 41 and 48-1 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09100128680 on June 26, 2002
 8. Article 41, 42-1 and 45-1 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09600085761 on July 4, 2007
 9. Article 10 and 50 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09900005571 on January 13, 2010; effective as of November 23, 2009
-10. Full text of 59 articles was amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 10000126081 on June 22, 2011. This Act shall come into force upon the date of promulgation.]]></沿革內容>
+10. Full text of 59 articles was amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 10000126081 on June 22, 2011. This Act shall come into force upon the date of promulgation.
+11. Articles 11 and 42 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 11400135111 on January 5, 2026]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter One General Provisions</編章節>
@@ -48,6 +49,7 @@ One who does not possess the professional engineer certificate of a specified en
 1. Having the qualification of passing the professional engineer examination revoked or abolished under the Examination Act.
 2. Being sentenced to imprisonment for not less than one year without probation as verified by an irrevocable court judgment due to a crime related to the professional practice.]]></條文內容>
   </條文>
+  <編章節>   Chapter Two Practice</編章節>
   <條文>
     <條號>Article 7</條號>
     <條文內容><![CDATA[A professional engineer shall practice the profession in any of the following manners:
@@ -66,7 +68,6 @@ The central competent authority may commission non-government organizations to c
 The regulations for the qualifications, terms and conditions, procedures of application, required documents and other matters to be complied with for renewal of the licenses as set forth in Paragraph 4 shall be prescribed by the central competent authority.
 Professional engineers of all engineering branches having possessed professional engineer licenses prior to enforcement of the articles of this Act amended on May 31, 2011 shall be subject to Paragraph 2 and Paragraph 4 from the date of enforcement.]]></條文內容>
   </條文>
-  <編章節>   Chapter Two Practice</編章節>
   <條文>
     <條號>Article 9</條號>
     <條文內容><![CDATA[The professional engineer license shall be registered the following particulars:
@@ -96,13 +97,14 @@ For the purpose of advancing the public interests, the central competent authori
   <條文>
     <條號>Article 11</條號>
     <條文內容><![CDATA[One shall not be qualified for a professional engineer license, and the issued license of a professional engineer shall be revoked or abolished under any of the following circumstances:
-1. Having the professional engineer certificate revoked or abolished pursuant to Article 6.
-2. Being under the order of the commencement of guardianship or assistantship and having not yet been revoked.
-3. Having been declared bankrupt and having not yet resumed legal rights.
-4. Suffering from mental illness or abnormal physical or mental conditions, recognized as incapable of practicing the profession by the central competent authority after commissioning and consulting with two or more relevant specialist physicians.
-5. Being suspended from the professional practice of this Act as a penalty according to other laws.
-6. Disciplinary action through abolishment of the professional engineer certificate according to this Act.
-Where the professional engineer license is not issued, revoked or abolished under the preceding Paragraph, Subparagraphs 2 through 5, it may be still applied for in accordance with this Act after the causes for such actions are eliminated.]]></條文內容>
+1.Having the professional engineer certificate revoked or abolished pursuant to Article 6.
+2.Being under the order of the commencement of guardianship or assistantship and having not yet been revoked.
+3.Having been declared bankrupt or having had the liquidation process initiated by a court ruling under the Consumer Debt Clearance Statute, and having not yet resumed legal rights.
+4.Having objective facts recognized as inability to practice the profession, as determined by a team organized by the central competent authority comprising specialist  physicians, representatives of professional engineer associations, and scholars and experts.
+5.Being suspended from the professional practice of this Act as a penalty according to other laws.
+6.Disciplinary action through abolishment of the professional engineer certificate according to this Act.
+The organization and operation of the team referred to in Subparagraph 4 of the preceding Paragraph shall be prescribed by the central competent authority.
+Where the professional engineer license is not issued, revoked or abolished under Subparagraphs 2 through 5 of Paragraph 1, it may be still applied for in accordance with this Act after the causes for such actions are eliminated.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 12</條號>
@@ -293,7 +295,8 @@ A professional engineer found in violation of the provisions stipulated in Artic
   </條文>
   <條文>
     <條號>Article 42</條號>
-    <條文內容><![CDATA[When a professional engineer is involved in circumstances stipulated in Article 39, stakeholders, the competent authorities, the competent authorities of the relevant industries, or the professional engineer associations may list facts, provide evidence, and report to the professional engineer discipline committee for handling.]]></條文內容>
+    <條文內容><![CDATA[When a professional engineer is involved in circumstances stipulated in Article 39, the competent authorities, the competent authorities of the relevant industries, or the professional engineer associations may list facts, provide evidence, and report to the professional engineer discipline committee for handling.
+When stakeholders discover that a professional engineer is involved in circumstances stipulated in Article 39, they may list the facts, provide  relevant evidence, and report to the competent authorities of the relevant industries, the municipal or county (city) competent authorities, or the professional engineer association to which the professional engineer belongs, which shall review and forward the case to the professional engineer discipline committee for handling.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 43</條號>
