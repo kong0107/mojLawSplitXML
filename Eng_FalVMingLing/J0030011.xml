@@ -3,7 +3,7 @@
 <英文法規名稱>The Electricity Act</英文法規名稱>
 <中文法規名稱>電業法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0030011</法規網址>
-<最新英文異動日期>20250528</最新英文異動日期>
+<最新英文異動日期>20260105</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -19,9 +19,10 @@
 10. Amended on January 29, 2014
 11. Amended on January 26, 2017
 12. Amended on May 22, 2019
-13.The Electricity Act Article 71-1、71-2 are added and promulgated by Presidential Order Hua-Tsung on June 28, 2023 per Order ref. Hwa-Tzong-1- Yi-Tze-No. 11200053971
-14.Amended on August 7, 2024
-15.Amended on May 28, 2025]]></沿革內容>
+13. The Electricity Act Article 71-1、71-2 are added and promulgated by Presidential Order Hua-Tsung on June 28, 2023 per Order ref. Hwa-Tzong-1- Yi-Tze-No. 11200053971
+14. Amended on August 7, 2024
+15. Amended on May 28, 2025
+16. Amended on January 5, 2026]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1 General Provisions</編章節>
@@ -181,8 +182,8 @@ Article 14 of this Act applies mutatis mutandis to the review of any application
     <條號>Article 19</條號>
     <條文內容><![CDATA[Electricity Transmission and Distribution Enterprises and Public Electricity-Retailing Utilities shall not terminate or suspend their operations.
 The suspension or termination of operations by Electricity-Generating Enterprises, Renewable Energy-Based Electricity-Retailing Enterprises, and Specified Electricity Suppliers shall be carried out pursuant to the following provisions:
-1.	Before suspending operations, a business suspension plan shall be submitted to the Electricity Industry Regulatory Agency for approval; the period of suspension shall not exceed one year.
-2.	Before terminating operations, a business termination plan shall be submitted to the Electricity Industry Regulatory Agency for approval, and within fifteen days from the termination date, the electricity licence shall be returned to the same agency for cancellation. The Electricity Industry Regulatory Agency may proceed to cancel the licence if the electricity licence is not submitted within this period.]]></條文內容>
+1. Before suspending operations, a business suspension plan shall be submitted to the Electricity Industry Regulatory Agency for approval; the period of suspension shall not exceed one year.
+2. Before terminating operations, a business termination plan shall be submitted to the Electricity Industry Regulatory Agency for approval, and within fifteen days from the termination date, the electricity licence shall be returned to the same agency for cancellation. The Electricity Industry Regulatory Agency may proceed to cancel the licence if the electricity licence is not submitted within this period.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 20</條號>
@@ -494,10 +495,15 @@ Paragraphs 3 to 5 of Article 39 and Articles 40 to 44 apply mutatis mutandis to 
   <編章節>   Chapter 8 Penalties</編章節>
   <條文>
     <條號>Article 71-1</條號>
-    <條文內容><![CDATA[Any person who, through theft, sabotage, or other methods, endangers the proper operation of major Power Generation Equipment, fuel storage and delivery equipment, control rooms, switching stations, information and communication rooms, in any hydropower plant with an installed capacity of 1,000,000 kilowatts or higher or any thermal power plant with an installed capacity of 1,200,000 kilowatts or higher, or ultra-high voltage and above transformation and distribution facilities or system operator shall be sentenced to imprisonment between 1 and 7 years; in addition thereto, a fine not more than NT$10,000,000 may be imposed.
+    <條文內容><![CDATA[Any person who, through theft, sabotage, or other methods, endangers the proper operation of major Power Generation Equipment, fuel storage and delivery equipment, control rooms, switching stations, information and communication rooms, in any hydropower plant with an installed capacity of 1,000,000 kilowatts or higher or any thermal power plant with an installed capacity of 1,200,000 kilowatts or higher, or ultra-high voltage and above transformation and distribution facilities, system operator, or submarine power cables, shall be sentenced to imprisonment between 1 and 7 years; in addition thereto, a fine not more than NT$10,000,000 may be imposed.
 Any person who commits an offence under the preceding paragraph with the intention to endanger national security or social stability shall be sentenced to imprisonment between 3 and 10 years; in addition thereto, a fine not more than NT$50,000,000 may be imposed.
 Any person who commits the offences specified in the preceding two paragraphs resulting in a disaster shall have their sentence increased by up to one half; if the offence results in death, the offender shall be sentenced to life imprisonment or imprisonment for more than 7 years, and in addition thereto, a fine not more than NT$100,000,000 may be imposed; if the offence results in serious physical injury, the offender shall be sentenced to imprisonment between 5 and 12 years, and in addition thereto a fine not more than NT$80,000,000 may be imposed.
-Any person who attempts without success to commit an offence specified in paragraphs 1 and 2 shall also be subject to penalty.]]></條文內容>
+Any person who, through negligence, destroys or otherwise unlawfully endangers the regular operation of the functions of submarine power cables shall be sentenced to imprisonment for not more than 6 months, detention, or a fine of not more than NT$2,000,000.
+Any person who attempts without success to commit an offence specified in paragraphs 1 and 2 shall also be subject to penalty.
+The tools, vessels, or other machinery or equipment used for committing the offenses specified in paragraphs 1 through 3 and the preceding paragraph, regardless of whether they belong to the offender, shall be confiscated. Where confiscation is finalized by judgment, such items may, as required by the circumstances of the individual case, be auctioned or sold, or, upon special approval, disposed of in one of the following ways:
+1. Retained for public use without compensation.
+2. Destroyed.
+3. Otherwise appropriately disposed of.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 71-2</條號>
