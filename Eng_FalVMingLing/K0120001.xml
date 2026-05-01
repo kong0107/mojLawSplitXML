@@ -3,7 +3,7 @@
 <英文法規名稱>Mass Rapid Transit Act</英文法規名稱>
 <中文法規名稱>大眾捷運法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0120001</法規網址>
-<最新英文異動日期>20230628</最新英文異動日期>
+<最新英文異動日期>20260114</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -14,7 +14,8 @@
 5.Amendment to Articles 5,7,7-1,13~15,19,25,45,50,50-1,52,53 and addition of Articles 13-1,45-1~45-3 promulgated on May 12, 2004.
 6.Amendment to Articles 3,11~13,15,19,24,24-1,25,31,38,40,44,47,49~50-1,51-1,52,and addition of Articles 32-1,38-1 and deletion of Articles 32-1,38-1 promulgated on June 5, 2013. 
 7.Amendment to Articles 24-2, 28 promulgated on June 4, 2014
-8.Amended on June 28, 2023]]></沿革內容>
+8.Amended on June 28, 2023
+9.Amended and promulgated Articles 11, 39, 41, 42, 43, 45-3, and 51 and added Article 43-1 by Presidential Order Hua-Tsung-Yi-Yi-Tzu No. 11500001691 on January 14, 2026.]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter 1  General Provisions</編章節>
@@ -92,12 +93,12 @@ The disposal, creation of encumbrances, leases, or benefits from the publicly ow
     <條文內容><![CDATA[The elements listed below shall be considered while planning the mass rapid transit system:
 1. Geographic conditions.
 2. Population distribution.
-3. Natural ecology and environment.
+3. Environmental sustainability and net-zero emission targets.
 4. Land use planning and development.
 5. Social and economic activities.
 6. Trends in urban transportation development.
 7. Integrated development of transportation systems.
-8. Impact on the road traffic adjacent to the mass rapid transit system with non-exclusive right-of-way
+8. Impact on the road traffic adjacent to the mass rapid transit system with non-exclusive right-of-way.
 9. Other relevant issues.]]></條文內容>
   </條文>
   <條文>
@@ -291,7 +292,12 @@ The disposal, creation of encumbrances, leases, or benefits from the publicly ow
   </條文>
   <條文>
     <條號>Article 39</條號>
-    <條文內容><![CDATA[The construction organization of a mass rapid transit system shall inform the local and central competent authorities immediately when serious accidents take place, and report the situation and handling of the situation for ratification whenever necessary. Collective reports on general traffic incidents shall also be submitted monthly.]]></條文內容>
+    <條文內容><![CDATA[The operation organization of a mass rapid transit system shall inform the local and central competent authorities immediately when serious accidents take place, and report the situation and handling of the situation for ratification whenever necessary. Collective reports on general traffic incidents and abnormal events shall also be submitted monthly.
+The local competent authority may require the responsible person or relevant supervisory personnel of the operation organization of a mass rapid transit system to explain the content of the reports stipulated in the preceding paragraph.
+The operation organization of a mass rapid transit system shall establish contingency plans for accidents and abnormal events, carry out regular drills in accordance with the contingency plans, and conduct reviews for improvement.
+The local competent authority may inspect the content of the contingency plans established by the operation organization of a mass rapid transit system, as well as the details of regular and irregular drills. If it finds any deficiencies, it may order the operation organization of a mass rapid transit system to make improvements within a given time period.
+The operation organization of a mass rapid transit system shall cooperate with the local government in the operating region to establish a coordination platform for disaster prevention and response, and it shall regularly convene coordination meetings on disaster prevention and response operations.
+When the operation organization of a mass rapid transit system reports serious accidents pursuant to Paragraph 1, it shall also report them to the Taiwan Transportation Safety Board in accordance with the Transportation Occurrences Investigation Act.]]></條文內容>
   </條文>
   <編章節>   Chapter 6  Security</編章節>
   <條文>
@@ -301,16 +307,33 @@ The disposal, creation of encumbrances, leases, or benefits from the publicly ow
   </條文>
   <條文>
     <條號>Article 41</條號>
-    <條文內容><![CDATA[1. The operation organization of a mass rapid transit system shall properly manage and maintain the carriages, route, depot and station facilities, and shall prepare emergency escape equipments and facilities necessary for passengers’ safety. The inspection and maintenance of carriages and devices must be implemented strictly in compliance with regulations.
-2. The operation organization of a mass rapid transit system shall submit special safety measures for facilities and operations to the local competent authority for ratification if necessary.]]></條文內容>
+    <條文內容><![CDATA[The operation organization of a mass rapid transit system shall properly manage and maintain the carriages, route, depot, and station facilities, and shall prepare emergency escape equipment and facilities necessary for passengers’ safety. The inspection and maintenance of carriages and devices must be implemented strictly in compliance with regulations.
+For a driverless mass rapid transit system with exclusive right-of-way, the operation organization shall establish early warning and emergency response systems or measures to address foreign matter on the tracks.
+The operation organization of a mass rapid transit system shall submit special safety measures for facilities and operations to the local competent authority for ratification if necessary.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 42</條號>
-    <條文內容><![CDATA[The operation organization of a mass rapid transit system shall carry out effective training and management of drivers, and makes sure they can specifically understand and strictly implement relevant legal requirements. The skill and the physical and mental situation of drivers shall be examined regularly and irregularly. Those drivers who are unqualified shall be suspended from their jobs, or changes to different positions.]]></條文內容>
+    <條文內容><![CDATA[The operation organization of a mass rapid transit system shall carry out effective training and management of drivers, and make sure they can fully understand and strictly implement relevant legal requirements. The skill and the physical and mental situation of drivers shall be examined regularly and irregularly. Those drivers who are unqualified shall be suspended from their jobs, or moved to different positions.
+The operation organization of a mass rapid transit system shall carry out emergency response drills for its employees to make sure they can fully understand and duly implement the standard operating procedures.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 43</條號>
-    <條文內容><![CDATA[The operation organization of a mass rapid transit system shall collect information, do research, and analyze causes of accidents, and undertake accident prevention measures.]]></條文內容>
+    <條文內容><![CDATA[The operation organization of a mass rapid transit system shall collect information, do research, and analyze causes of accidents and abnormal events, and undertake accident prevention measures and improvement measures, which may be inspected by the local competent authority.
+Each year, the operation organization of a mass rapid transit system shall formulate a safety management report for the current year based on its review of the accidents and abnormal events that occurred during the preceding year, and submit said report to the local competent authority before the end of the first quarter. The report must include the following content:
+1. The operational safety philosophy and targets of the operation organization of a mass rapid transit system.
+2. The organizational structure and implementation methods for safety management.
+3. The measures adopted or proposed for adoption that will ensure and enhance operational safety.
+4. Review of accidents and abnormal events, and corresponding preventative measures.
+5. Other important matters related to operational safety.
+The operation organization of a mass rapid transit system shall retain records documenting its operation, monitoring, and maintenance of carriages. The central competent authority shall determine the items requiring retention, the retention period, and management matters.
+The operation organization of a mass rapid transit system and relevant personnel shall also cooperate with investigations of the Taiwan Transportation Safety Board in accordance with the Transportation Occurrences Investigation Act.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 43-1</條號>
+    <條文內容><![CDATA[If an accident or abnormal event occurs in the course of mass rapid transit system operations, the local competent authority shall conduct a review.
+For an accident or abnormal event that is not defined as a major transportation occurrence under the Transportation Occurrences Investigation Act, an investigation into the facts and causes may be conducted at the discretion of the local competent authority.
+If, based on the results of the review or investigation stipulated in the preceding two paragraphs, the local competent authority finds matters requiring improvement, it shall order the operation organization of a mass rapid transit system to make improvements within a given time period and manage the tracking thereof. If the deficiencies involve violations of the provisions of this Act, they will be handled in accordance with law; if the deficiencies violate the internal regulations of the operation organization of a mass rapid transit system, the local competent authority may order the operation organization of a mass rapid transit system to investigate and discipline relevant internal personnel, or handle them as otherwise necessary.
+The operation organization of a mass rapid transit system and its employees shall cooperate with the local competent authority’s review or investigation, and must not avoid, impede, or refuse requests to provide explanations, relevant records, facilities, equipment, data, or objects.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 44</條號>
@@ -343,7 +366,7 @@ The disposal, creation of encumbrances, leases, or benefits from the publicly ow
   </條文>
   <條文>
     <條號>Article 45-3</條號>
-    <條文內容><![CDATA[The regulations for the demarcation, announcement and amendment of the range of construction prohibitions and restrictions; the prohibited behaviors and the process of compensation for removal in the construction prohibition areas; the controlled behaviors and controlling requirements of the restricted areas; the application for and verification of construction, construction management and cessation notice of building structures, construction structures of facilities, advertising structures, or other construction behaviors in the restricted areas; and the issues of restitution and restoration for damaging mass rapid transit system facilities referred to the preceding three articles shall be prescribed by the Ministry of Transportation and Communications in conjunction with the Ministry of Interior.]]></條文內容>
+    <條文內容><![CDATA[The regulations for the demarcation, announcement, and amendment of the range of construction prohibitions and restrictions; the prohibited behaviors and the process of compensation for removal in the construction prohibition areas; the controlled behaviors and control rules of the restricted areas; the application and verification for construction of building structures, construction structures of facilities, advertising structures, or other construction activities in the restricted areas; construction management and construction safety controls along rapid transit lines; the handling of cessation notices; and issues of restitution and restoration for damaging mass rapid transit system facilities, as referred to in the preceding three articles, shall be prescribed by the Ministry of Transportation and Communications in conjunction with the Ministry of the Interior.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 46</條號>
@@ -415,17 +438,19 @@ In the event that any person under the age of 14 commits an offense as referred 
   </條文>
   <條文>
     <條號>Article 51</條號>
-    <條文內容><![CDATA[1. In case the operation organization of the mass rapid transit system violates one of the following provisions, it will be fined a penalty of more than NT$100,000 and less than NT$500,000:
-(1) The violation of Article 30 through a failure to hire qualified technicians who have obtained a skill certificate to serve as an operator or a repairer of the facility;
-(2) The violation of Article 34 through a failure to correct after obtaining a notice from the local competent authority referred to Regulations for Implementation of Inspection;
-(3) The violation of Paragraph 1 of Article 35, or Article 39;
-(4) The violation of Paragraph 2 of Article 35, or Article 36 through a failure to correct after obtaining a notice from the competent authority;
-(5) The violation of avoiding, impeding or refusing the central competent authority to inspect documents and accounting books referred to Paragraph 2 of Article 35;
-(6) The violation of Article 37 through a failure to operate other ancillary businesses after obtaining approval of the local competent authority;
-(7) The violation of Article 41 or Article 42 through a failure to carry out training and management of drivers so that traffic accidents occur;
-(8) The violation of Paragraph 1 of Article 44 through a failure to establish security requirement signs at appropriate locations
-(9) The violation of Article 47 through a failure to purchase liability insurance, or to prepare guarantee deposits.
-2. In those circumstances in which any one of Subparagraph 1, 2, 6,7, 8, 9 of the preceding paragraph are violated, the operation organization shall be notified to make amendments or improvements immediately within a given time period. The operation organization shall be issued consecutive daily fines if it still fails to make amendments or improvements as requested, and shall cease part or all operations, or shall have its permit revoked or cancelled if the situation is deemed serious.]]></條文內容>
+    <條文內容><![CDATA[In case the operation organization of a mass rapid transit system violates one of the following provisions, it will be fined a penalty of at least NT$100,000 but no more than NT$500,000.
+1. Violating Article 30 by hiring technicians who lack technical qualifications to serve in the operation or repair of the facility;
+2. Violating the supervision regulations stipulated in Article 34, Paragraph 4 of Article 39, or Paragraph 3 of Article 43-1, and failing to make corrections after obtaining a notice from the local competent authority;
+3. Violating Paragraph 1 of Article 35 or Paragraph 1 of Article 39 by failing to make required reports;
+4. Violating Paragraph 2 of Article 35 or Article 36 and failing to make corrections after obtaining a notice from the competent authority;
+5. Avoiding, impeding, or refusing to allow the central competent authority to inspect the documents and accounting books referred to in Paragraph 2 of Article 35;
+6. Violating Article 37 by operating other affiliated businesses without first obtaining approval from the local competent authority;
+7. Violating Paragraph 1 and Paragraph 3 of Article 41 or failing to carry out training and management of drivers or employees in accordance with Article 42, resulting in traffic accidents;
+8. Violating Paragraph 1, Paragraph 2, or Paragraph 3 of Article 43, and failing to make corrections after obtaining a notice from the local competent authority.
+9. Avoiding, impeding, or refusing to fulfill the duty to assist, as stipulated in Paragraph 4 of Article 43-1, by the operation organization of a mass rapid transit system and its employees;
+10. Violating Paragraph 1 of Article 44 through a failure to establish security requirement signs at appropriate locations;
+11. Violating Article 47 through a failure to purchase liability insurance, or to prepare guarantee deposits.
+If a violation listed in the subparagraphs of the preceding paragraph occurs, the operation organization of a mass rapid transit system will be notified to make amendments or improvements within a given time period. If it still fails to make amendments or improvements, it will be subject to a fine for each occurrence, and if the situation is deemed serious, it may be required to cease part or all of its operations or have its permit revoked.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 51-1</條號>
