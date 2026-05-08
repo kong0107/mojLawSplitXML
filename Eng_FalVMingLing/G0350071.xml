@@ -3,7 +3,7 @@
 <英文法規名稱>Regulations Governing Customs Clearance Procedures for Maritime Express Consignments</英文法規名稱>
 <中文法規名稱>海運快遞貨物通關辦法</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350071</法規網址>
-<最新英文異動日期>20241113</最新英文異動日期>
+<最新英文異動日期>20260223</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -17,7 +17,8 @@
 8. Amended on May 18,2021
 9. Amended on February 2,2023
 10. Amended on July 1,2024
-11. Amended on November 13,2024]]></沿革內容>
+11. Amended on November 13,2024
+12. Amended on February 23,2026]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <條文>
@@ -122,15 +123,16 @@ Import and export maritime express consignments shall be classified according to
   <條文>
     <條號>Article 12</條號>
     <條文內容><![CDATA[If the import/export maritime express consignment meets any of the following conditions, customs clearance shall be conducted using a general import/export declaration form:
-1. High-value import maritime express consignment prescribed in Subparagraph 4, Paragraph 2 of the previous article, or high-value export maritime express consignment prescribed in Subparagraph 7 of the same paragraph of the same article.
+1. High-value import maritime express consignment prescribed in Subparagraph 4, Paragraph 2 of the previous Article, or high-value export maritime express consignment prescribed in Subparagraph 7 of the same paragraph of the same Article.
 2. Subject to specific import/export regulations, unless otherwise announced by the customs due to special circumstances.
 3. Application for duplicates of their declarations is necessary for the purpose of requesting duty drawback, offset or bonding.
 4. Returned or re-exported and shall be cross-checked with the original export/import declarations.
-5. Goods eligible for duty reduction or exemption pursuant to the customs Act and relevant regulations, and additional notes in the Customs Import Tariff, but duty-free samples pursuant to Subparagraph 9, Paragraph 2, Article 49 of Customs Act imported by non-individuals shall apply to simplified declaration procedure once the aggregate value of declaration is under nt$3,000.
-6. Goods inapplicable to the G1 mode of Declaration for Import Goods , the G5 mode of Export Declaration, or the F5 mode of Export Declaration for Free-Trade-Zoon Goods.
+5. Goods eligible for duty reduction or exemption pursuant to the Customs Act and relevant regulations, and additional notes in the Customs Import Tariff, but duty-free samples pursuant to Subparagraph 9, Paragraph 2, Article 49 of the Customs Act imported by non-individuals may apply to using the simplified declaration procedure if the aggregate value of declaration is under NT$3,000.
+6. Goods inapplicable to the G1 mode of Declaration for Import Goods, the G5 mode of Export Declaration, or the F5 mode of Export Declaration for Free-Trade-Zone Goods.
 7. Goods taxable in accordance with the Commodity Tax Act or the Specifically Selected Goods and Services Tax Act.
-8. Goods subject to special safeguard measures publicly announced by the Ministry of Finance.
-9. Goods subject to tariff quota.
+8. Goods subject to the imposition of countervailing duty, antidumping duty, or retaliatory duty publicly announced by the Ministry of Finance.
+9. Goods subject to adoption of import relief in accordance with the Foreign Trade Act by the Ministry of Economic Affairs or special safeguard measures publicly announced by the Ministry of Finance.
+10. Goods subject to tariff quota.
 Maritime express consignments other than those defined in the previous paragraph may be cleared through simplified declaration.]]></條文內容>
   </條文>
   <條文>
@@ -161,12 +163,13 @@ Before the arrival of the ship, Customs will notify the relevant Unit Operator o
   </條文>
   <條文>
     <條號>Article 18</條號>
-    <條文內容><![CDATA[If a consignee of import maritime express consignments, a bearer of the delivery orders, a holder of import maritime express consignments, or a consignor of export maritime express consignments entrusts a customs broker to handle clearance formalities, a Power of Attorney shall be attached upon submission of the goods declaration, except in the following cases:
-1. A faxed Power of Attorney, which has been signed by the customs broker for confirmation, is submitted in lieu of the original document.
-2. Long-term authorization relationship has been established in writing or online.
-Apart from the aforementioned conditions for the exemption of Power of Attorney stipulated in the proviso of the preceding paragraph, customs brokers may provide an affidavit to obtain a Power of Attorney from importers after the release of the express consignments, or importers may deal with the authorization of customs declaration with a replied confirmation processed by real-name certified mobile device or with a logged confirmation by Citizen Personal Certificate, where the import maritime express consignments are declared with a simplified declaration.
-Customs brokers shall be allowed to file application to Customs for the exemption of submitting the aforementioned Power of Attorney on a case-by case basis. However, the Powers of Attorney have to be numbered, compiled, and kept by customs brokers for Customs check upon request.
-Where the declarations of import or export maritime express consignments are involved with the case of false declaration or other violations of the Customs Anti-smuggling Act, and the customs brokers are unable to prove that they have been entrusted by the importer or exporter to file customs declaration, and are also unable to prove that there is an actual owner of the maritime express consignment, said customs brokers shall be liable for such violations.]]></條文內容>
+    <條文內容><![CDATA[If a consignee of import maritime express consignments entrusts a customs broker to handle the clearance through simplified declaration, customs declaration authorization shall be completed in one of the following methods:
+1. Case-processing or long-term authorization in writing; if case-processing authorization in writing has been established, a customs broker shall provide an affidavit at online declaration to present a power of attorney after the declaration as per Customs requirements;
+2. Online case-processing or long-term authorization through the Customs-Port-Trade (CPT) Single Window system;
+3. Online case-processing authorization through the express delivery real-name authentication platform established by the enterprise operating network for customs clearance.
+If customs declaration authorization has not been completed in accordance with the methods referred to in one of the subparagraphs in the preceding paragraph, and recorded in the customs clearance information system, Customs may refuse to process the declaration.
+If Customs demands the presentation of the power of attorney after the declaration and before the release of import or export maritime express consignments, a copy of the power of attorney  signed by a customs broker for confirmation can be presented in lieu of the original document temporarily; when Customs considers it necessary to examine the power of attorney, a Customs officer may demand the presentation of the original document in accordance with the provisions of Paragraph 2, Article 12 of Regulations Governing the Establishment and Management of Customs Brokers.
+Where the declarations of import or export maritime express consignments are involved with the case of false declaration or other violations of the Customs Anti-smuggling Act, and the customs brokers are unable to prove that they have been entrusted by the importer or exporter to file customs declaration, and are also unable to prove that there is an actual owner of the express consignment, said customs brokers shall be liable for such violations.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 18-1</條號>
@@ -243,7 +246,7 @@ The scope of the same name specified in the preceding paragraph includes the nam
   </條文>
   <條文>
     <條號>Article 32</條號>
-    <條文內容><![CDATA[These Regulations shall become effective from the date of their proclamation, but Paragraph 2, Article 11, which was amended and promulgated on September 25th, 2017, shall take into effect from January 1ST, 2018.]]></條文內容>
+    <條文內容><![CDATA[These Regulations shall become effective from the date of their proclamation, but Paragraph 2, Article 11, which was amended and promulgated on September 25, 2017, shall come into effect on January 1, 2018. Paragraph 2, Article 18, which was amended and promulgated on February 23, 2026, shall come into effect on March 1, 2026.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
