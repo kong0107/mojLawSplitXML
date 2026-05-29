@@ -20,30 +20,32 @@
    (Former title: Regulations Governing the Commendation and Disciplinary Action of Cyber Security Affairs for Personnel From Government Agencies; New title: Regulations Governing the Operations of Cyber Security Affairs Handled by Personnel From Government Agencies)]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
+  <編章節>   Chapter I. General Provisions</編章節>
   <條文>
     <條號>Article 1</條號>
-    <條文內容><![CDATA[These Regulations are prescribed pursuant to Paragraph 3, Article 18; Paragraph 6, Article 19; and Para-graph 2, Article 28 of the Cyber Security Management Act (hereinafter referred to as the “Act”).]]></條文內容>
+    <條文內容><![CDATA[These Regulations are prescribed pursuant to Paragraph 3, Article 18; Paragraph 6, Article 19; and Paragraph 2, Article 28 of the Cyber Security Management Act (hereinafter referred to as the “Act”).]]></條文內容>
   </條文>
   <條文>
     <條號>Article 2</條號>
     <條文內容><![CDATA[In these regulations, cyber security personnel means dedicated cyber security personnel and any other personnel who actually engage in cyber security affairs.
 Dedicated cyber security personnel in the preceding paragraph means personnel who shall perform cyber security affairs on a full-time basis.]]></條文內容>
   </條文>
+  <編章節>   Chapter II. Suitability Review</編章節>
   <條文>
     <條號>Article 3</條號>
     <條文內容><![CDATA[The phrase “when necessary” in Paragraph 1, Article 19 of the Act refers to cases where dedicated cyber security personnel fall under any of the following circumstances:
-1. The affairs handled involve national secrets referred to in the Classified National Security Infor-mation Protection Act, or military secrets or national defense secrets referred to in the Guideline for Categories, Scopes and Levels of Military Secrets and Defense Secrets.
+1. The affairs handled involve national secrets referred to in the Classified National Security Infor mation Protection Act, or military secrets or national defense secrets referred to in the Guideline for Categories, Scopes and Levels of Military Secrets and Defense Secrets.
 2. Other matters determined by a government agency, upon comprehensive assessment of the nature of its operations and the actual circumstances of its personnel.
 The term “successful candidates” in Paragraph 2, Article 19 of the Act means persons who have passed the cyber security personnel recruitment examination and meet the condition set out in Subparagraph 1 of the preceding paragraph.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
     <條文內容><![CDATA[The following are the items for suitability reviews carried out under Paragraph 1 or 2, Article 19 of the Act:
-1. Any of the circumstances specified in Paragraph 1, Article 28 of the Public Functionaries Appoint-ment Act.
+1. Any of the circumstances specified in Paragraph 1, Article 28 of the Public Functionaries Appoint ment Act.
 2. Persons who meet any of the conditions listed in Subparagraphs 1, 3, 8, or 10, Paragraph 1, Article 3 of the Regulations on Special Checks of Civil Servants Involved in National Security or Significant Interests.
 3. Individuals who have been convicted by a final judgment of offenses against computer security as defined in the relevant chapter of the Criminal Code, or who are currently wanted in unresolved cases related to such offenses.
 Where the circumstance set out in Subparagraph 1 of the preceding paragraph exists, the person shall be deemed to have failed the review.
-When the circumstances described in Subparagraph 2 or 3, Paragraph 1 arise, the government agency must send the case to its Personnel Selection and Evaluation Committee to assess the seriousness and the nature of the intended position, then submit the committee’s recommendation to the agency head for ap-proval. Appointment decisions made by the head must include a written explanation of the reasons. When a review finds a potential threat to national security or significant interests, the review will be considered as failed.
+When the circumstances described in Subparagraph 2 or 3, Paragraph 1 arise, the government agency must send the case to its Personnel Selection and Evaluation Committee to assess the seriousness and the nature of the intended position, then submit the committee’s recommendation to the agency head for approval. Appointment decisions made by the head must include a written explanation of the reasons. When a review finds a potential threat to national security or significant interests, the review will be considered as failed.
 In the event that the government agency referred to in the preceding Paragraph has not set up a Personnel Selection and Evaluation Committee, the matter shall be handled through another appropriate meeting.
 Current civil servants who believe that the decisions mentioned in Paragraphs 2 and 3 are unlawful or clearly inappropriate and have harmed their rights or interests may seek remedies under the Civil Service Protection Act. Persons who are not incumbent civil servants may seek remedies under the Administrative Appeal Act.]]></條文內容>
   </條文>
@@ -56,27 +58,29 @@ After the Ministry of Justice Investigation Bureau responds with the review resu
     <條號>Article 6</條號>
     <條文內容><![CDATA[Where the individual concerned considers the review results referred to in the preceding Article to be inconsistent with the facts, he or she may, within 15 days from receipt of the written notice, submit a statement and defense to the government agency or the competent authority, limited to one submission.
 After receiving the statement and defense referred to in the preceding paragraph, the government agency or competent authority shall send an official request to the Ministry of Justice Investigation Bureau to conduct a renewed review.
-After the Ministry of Justice Investigation Bureau responds with the renewed review results, the govern-ment agency or competent authority shall notify the individual concerned in writing within three days, counted from the day following receipt.]]></條文內容>
+After the Ministry of Justice Investigation Bureau responds with the renewed review results, the government agency or competent authority shall notify the individual concerned in writing within three days, counted from the day following receipt.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 7</條號>
-    <條文內容><![CDATA[Where the duties of dedicated cyber security personnel referred to in Paragraph 1, Article 19 of the Act are performed on an acting basis by the same incumbent personnel for more than three months, the pro-visions of this Chapter shall apply mutatis mutandis to the conduct of a suitability review.]]></條文內容>
+    <條文內容><![CDATA[Where the duties of dedicated cyber security personnel referred to in Paragraph 1, Article 19 of the Act are performed on an acting basis by the same incumbent personnel for more than three months, the provisions of this Chapter shall apply mutatis mutandis to the conduct of a suitability review.]]></條文內容>
   </條文>
+  <編章節>   Chapter III. Cyber Security Competency Training</編章節>
   <條文>
     <條號>Article 8</條號>
-    <條文內容><![CDATA[The competent authority shall plan and promote cyber security competency training for dedicated cyber security personnel (hereinafter referred to as “cyber security competency training”) and handle the fol-lowing matters:
+    <條文內容><![CDATA[The competent authority shall plan and promote cyber security competency training for dedicated cyber security personnel (hereinafter referred to as “cyber security competency training”) and handle the following matters:
 1. Establishment and implementation of a cyber security competency training system.
 2. Development of training materials for cyber security competency training.
 3. Selection of training institutions and review of their instruction.
-4. Formulation and implementation of a cyber security competency assessment and certification sys-tem.
+4. Formulation and implementation of a cyber security competency assessment and certification sys tem.
 5. Other matters concerning cyber security competency training.
-The implementation methods for the matters set forth in Subparagraphs 1, 3, and 4 of the preceding par-agraph shall be separately announced by the competent authority.]]></條文內容>
+The implementation methods for the matters set forth in Subparagraphs 1, 3, and 4 of the preceding paragraph shall be separately announced by the competent authority.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 9</條號>
-    <條文內容><![CDATA[Examinees who pass the cyber security competency assessment will be issued a cyber security compe-tency training certificate by the competent authority.
+    <條文內容><![CDATA[Examinees who pass the cyber security competency assessment will be issued a cyber security competency training certificate by the competent authority.
 When an examinee is confirmed upon verification to have cheated or committed other violations, the competent authority shall revoke their certificate.]]></條文內容>
   </條文>
+  <編章節>   Chapter IV. Mobilization</編章節>
   <條文>
     <條號>Article 10</條號>
     <條文內容><![CDATA[Government agencies shall establish and maintain a roster of cyber security personnel, indicating the expertise and experience available for mobilization, and shall submit it for recordation in the manner specified by the competent authority; where any change occurs in the roster, the government agency shall notify the competent authority for updating.]]></條文內容>
@@ -95,10 +99,10 @@ When an examinee is confirmed upon verification to have cheated or committed oth
     <條號>Article 13</條號>
     <條文內容><![CDATA[The competent authority may consider the following factors when deciding whether to mobilize:
 1. The scale, nature, and geographic scope of the cyber security incident, as well as the degree of urgency for the required emergency response.
-2. The allocation of cyber security personnel and their availability for mobilization across the affected agency itself, its affiliated agencies, supervised agencies, agencies under its jurisdiction, superior government agency, and the supervising agency or central competent authority in charge of the rel-evant sector.
+2. The allocation of cyber security personnel and their availability for mobilization across the affected agency itself, its affiliated agencies, supervised agencies, agencies under its jurisdiction, superior government agency, and the supervising agency or central competent authority in charge of the relevant sector.
 3. The allocation of cyber security personnel and their availability for mobilization of the agency where mobilized cyber security personnel belongs (hereinafter referred to as the “supporting agency”).
 4. Other relevant factors.
-Where necessary for making the aforementioned decision, the competent authority may require the af-fected agency to provide explanations, cooperate, or submit relevant documents and supporting infor-mation.]]></條文內容>
+Where necessary for making the aforementioned decision, the competent authority may require the affected agency to provide explanations, cooperate, or submit relevant documents and supporting information.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 14</條號>
@@ -124,8 +128,10 @@ Each mobilization period shall not exceed seven days. Where the competent author
   </條文>
   <條文>
     <條號>Article 17</條號>
-    <條文內容><![CDATA[Personnel involved in mobilization who, during the mobilization period, learn confidential and sensitive information of government or specific non-government agencies are required to keep that information confidential.]]></條文內容>
+    <條文內容><![CDATA[Personnel involved in mobilization who, during the mobilization period, learn confidential and sensitive
+information of government or specific non-government agencies are required to keep that information confidential.]]></條文內容>
   </條文>
+  <編章節>   Chapter V. Commendation and Disciplinary Action</編章節>
   <條文>
     <條號>Article 18</條號>
     <條文內容><![CDATA[Government agencies may, in accordance with these Regulations, set their own criteria for commendation and disciplinary action for cyber security matters handled by their personnel.]]></條文內容>
@@ -133,15 +139,15 @@ Each mobilization period shall not exceed seven days. Where the competent author
   <條文>
     <條號>Article 19</條號>
     <條文內容><![CDATA[The following situations qualify for commendation:
-1. In accordance with the Act, regulations made under its authority or the agency’s internal rules, for-mulation, revision, and implementation of cyber security maintenance plans and achievement of outstanding performance.
+1. In accordance with the Act, regulations made under its authority or the agency’s internal rules, for mulation, revision, and implementation of cyber security maintenance plans and achievement of outstanding performance.
 2. Achievement of outstanding performance when conducting audits of the implementation of cyber security maintenance plans under Article 15 of the Act or cyber security drill operations.
-3. Cooperation with the competent authority and the agencies designated under Article 15 of the Act in auditing the implementation of cyber security maintenance plans, conducting cyber security drills, or in the performance evaluations and commendation procedures for government agency cyber se-curity tasks, and achievement of outstanding performance upon assessment.
+3. Cooperation with the competent authority and the agencies designated under Article 15 of the Act in auditing the implementation of cyber security maintenance plans, conducting cyber security drills, or in the performance evaluations and commendation procedures for government agency cyber security tasks, and achievement of outstanding performance upon assessment.
 4. Appropriate implementation of cyber security tasks to prevent cyber security incidents and thereby protect this agency, other agencies, or the public from damage.
 5. Active identification of new types of cyber security vulnerabilities or intrusion threats and sharing of cyber security information to prevent incidents or minimize their damage.
 6. Active monitoring of anomalies in cyber security maintenance, prompt detection of major cyber security incidents, and implementation of reporting and response measures to prevent further spread of damage.
 7. Proposal and implementation of concrete suggestions or innovative solutions for cyber security tasks.
 8. Management of training and cultivation of cyber security personnel, with tangible contributions.
-9. Handling affairs concerning the research and development, integration, application, industry-aca-demia collaboration, or industrial development of cyber security technology, with tangible contribu-tions.
+9. Handling affairs concerning the research and development, integration, application, industry-aca demia collaboration, or industrial development of cyber security technology, with tangible contributions.
 10. Development of technical specifications for cyber security hardware and software, related services, and verification mechanisms, with tangible contributions.
 11. Development of cyber security policies, legal analysis, or international cooperation efforts, with tangible contributions.
 12. Cooperation with the competent authority in mobilization operations, with excellent performance or tangible contributions.
@@ -155,7 +161,7 @@ Each mobilization period shall not exceed seven days. Where the competent author
 (2) Formulation, revision, and implementation of cyber security maintenance plans.
 (3) Submission of reports on the implementation of cyber security maintenance plans.
 (4) Audit of implementation of cyber security maintenance plans.
-(5) Submission of a corrective action report in response to the audit results of the implementation of cyber security maintenance plans conducted by the competent author-ity and the agencies referred to in Article 15 of the Act.
+(5) Submission of a corrective action report in response to the audit results of the implementation of cyber security maintenance plans conducted by the competent authority and the agencies referred to in Article 15 of the Act.
 (6) Establishment of reporting and response mechanisms for cyber security incidents.
 (7) Reporting or response operations for cyber security incidents.
 (8) Submission of investigation, handling, and corrective action reports regarding cyber security incidents.
@@ -171,9 +177,10 @@ Each mobilization period shall not exceed seven days. Where the competent author
     <條號>Article 22</條號>
     <條文內容><![CDATA[Before disciplining personnel for any situation under each subparagraph of Article 20, a government agency must give the person an opportunity for defense; where necessary, it may seek advice from relevant experts and scholars on the technical matters of cyber security.]]></條文內容>
   </條文>
+  <編章節>   Chapter VI. Supplementary Provisions</編章節>
   <條文>
     <條號>Article 23</條號>
-    <條文內容><![CDATA[The competent authority may delegate the suitability review, cyber security competency training, mobili-zation, commendation and disciplinary action procedures, and other related tasks set out in these regulations to the Administration for Cyber Security, Ministry of Digital Affairs.]]></條文內容>
+    <條文內容><![CDATA[The competent authority may delegate the suitability review, cyber security competency training, mobili zation, commendation and disciplinary action procedures, and other related tasks set out in these regulations to the Administration for Cyber Security, Ministry of Digital Affairs.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 24</條號>
