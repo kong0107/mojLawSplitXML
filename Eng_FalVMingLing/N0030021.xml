@@ -3,7 +3,7 @@
 <英文法規名稱>Enforcement Rules of the Labor Pension Act</英文法規名稱>
 <中文法規名稱>勞工退休金條例施行細則</中文法規名稱>
 <法規網址>https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0030021</法規網址>
-<最新英文異動日期>20210712</最新英文異動日期>
+<最新英文異動日期>20260325</最新英文異動日期>
 <廢止註記>
 </廢止註記>
 <附件 />
@@ -18,7 +18,9 @@
 9.Amended on June 24, 2014
 10.Article 2, 12-1, 32, 34, 44 and 48 of Enforcement Rules of the Labor Pension Act amended and promulgated by Ministry of Labor Order of Lao-Dong-Fu-3-Tze- No.1050136597 on January 5, 2017
 11.Amended and promulgated Articles 4-1, 5, 10, 11, 15, 19, 21, 32, 34, 37-1, 39, and 45, deleted Article 12-1 and 43 of Enforcement Rules of the Labor Pension Act by the order of Lao-Dong-Fu-3-Tze- No.1080135714 on July 29, 2019.
-12.Article 39, as amended and promulgated by Order No. 1100135603B, Ministry of Labor, July 12, 2021]]></沿革內容>
+12.Article 39, as amended and promulgated by Order No. 1100135603B, Ministry of Labor, July 12, 2021
+13.Amended and promulgated Articles 3, 15, 21, 21-1, 37, and 50 and added Articles 33-1, 41-1, 41-2, and 47-1 of the Rules by the Ministry of Labor Order No. 1150152749 on March 25, 2026; enforced on the date of promulgation, with the exception of Article 21, which shall be enforced on August 1, 2026.
+]]></沿革內容>
 <前言><![CDATA[]]></前言>
 <法規內容>
   <編章節>   Chapter Ⅰ General Provisions</編章節>
@@ -33,17 +35,17 @@ Those that are already participating in labor insurance or employment insurance 
   </條文>
   <條文>
     <條號>Article 3</條號>
-    <條文內容><![CDATA[Where an employer is declaring the labor pensions shall be contributed in accordance with Paragraph 1 to Article 6 of the Act, a photocopy of the national identification card or a photocopy of the responsible person's national identification card of the employer and the photocopies of the following documents should be submitted except the employer is one of government institutions, public schools and except the employer is using on-line declaration system provided by government agencies (institutions) to declare:
-1. Factory: related identification documents regarding factory registration.
-2. Coal Mine: Record of mine registration, licenses for coal mining or exploration.
-3. Salt fields, farms, grazing sites, logging sites and tea fields: record of registration.
-4. Transportation industries cargo transportation permit or related identification documents.
-5. Public works industries: operation license or related identification documents.
-6. Companies, shops or stores: company registration records or commercial license.
-7. Private educational institutions, news media outlets, cultural enterprises, public interest organizations, cooperative enterprises, fisheries, vocational training centers and civic organizations of all kinds: establishment or registration records.
-8. All other business entities: permits or documentation provided by industry supervisory bodies.
-Those who cannot obtain the required documentations for the items in the preceding paragraph shall alternatively submit tax deduction records or use generalized and standardized receipts in applying.
-For responsible persons submitting copies of national identification cards in accordance with Paragraph 1, non-citizens may submit copies of their residence permits or passports as an alternative.]]></條文內容>
+    <條文內容><![CDATA[Where an employer is declaring the labor pensions to be contributed in accordance with Paragraph 1 ofArticle 6 of the Act, a photocopy of the national identification card of the employer or a photocopy of the responsible person’s national identification card, together with photocopies of the following documents, shall be submitted, except where the employer is a government institution or public school, or where the employer uses the online declaration system provided by government agencies (institutions):
+1.Factory: relevant factory registration documents.
+2.Mine: mine registration certificate, or mining or exploration permit.
+3.Salt fields, farms, ranches, forest farms, tea plantations, etc.: registration certificate or relevant supporting documents.
+4.Transportation enterprises: certificate of transport enterprise or relevant supporting documents.
+5.Public utilities: business license or relevant supporting documents.
+6.Companies and commercial firms: company registration documents or business registration documents.
+7.Private schools, news media, cultural enterprises, public interest organizations, cooperative enterprises, fisheries, vocational training institutions, and civil associations of various industries: accreditation or registration certificates.
+8.Other business entities: permits or documents issued by the relevant competent authorities.
+Where the documents specified in the preceding paragraph cannot be obtained, the employer shall alternatively submit documentation of withholding unit establishment (or change) registration issued by the tax collection authority, or a certificate for the purchase of uniform invoices.
+Where a photocopy of the responsible person’s national identification card is required pursuant to Paragraph 1, and the responsible person is not a national, a photocopy of the Alien Resident Certificate or passport may be submitted instead.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 4</條號>
@@ -119,10 +121,10 @@ Switches made in accordance with the two preceding paragraphs must be processed 
   <編章節>   Chapter Ⅲ Contribution and Claim for Individual Account of Labor Pension</編章節>
   <條文>
     <條號>Article 15</條號>
-    <條文內容><![CDATA[Labor Pension contributions made in accordance with Paragraphs 1 to 3 to Article 14 of the Act shall be determined and reported by the employer or the commissioned unit to the Bureau based upon employees' monthly wage earnings as stipulated by the Monthly Contribution Classification Table.
-For workers without fixed wages, the average pay of the three most recent months shall be reported.
-The wages of workers with similar duties shall be applied as the standard for new employees whose pay is not yet finalized.
-For workers to whom the Act applies and who are also covered by the Labor Insurance or National Health Insurance, excluding those with wages below the lower limit specified in the Classification Table for Labor Insurance Enrollment, the monthly amount to be appropriated may not be lower than the amount appropriated for the Labor Insurance or National Health Insurance.]]></條文內容>
+    <條文內容><![CDATA[Labor pension contributions made in accordance with Paragraphs 1 to 3 of Article 14 of the Act shall be determined and reported by the employer or the commissioned unit to the Bureau of Labor Insurance based upon the worker’s total monthly wages, in accordance with the standards set forth in the MonthlyContribution Classification Table.
+For workers whose monthly wages are not fixed, the average wages of the most recent three months shall be used.
+For newly hired workers whose wages have not yet been determined, the wages of workers of the same job classification shall be used as a provisional basis, and contributions shall be reported in accordance with the standards set forth in the Monthly Contribution Classification Table.
+For workers to whom the Act applies and who are also insured under the Labor Insurance, Labor Occupational Accident Insurance, or National Health Insurance, except where the total monthly wages are lower than the lower limit specified in the Classification Table for Labor Insurance Enrollment, the monthly wage amount for contribution may not be lower than the insured monthly salary under Labor Insurance or Labor Occupational Accident Insurance, or the insured monthly amount under National Health Insurance.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 16</條號>
@@ -149,14 +151,15 @@ Should employers fail to complete the procedure specified in the preceding parag
   </條文>
   <條文>
     <條號>Article 21</條號>
-    <條文內容><![CDATA[When the personnel specified in Paragraph 1 and Subparagraphs 3 and 4 of Paragraph 2 of Article 7 of the Act choose to have their pension contributions appropriated according to Paragraph 3 of Article 14 of the Act, the employer or commissioned unit shall fill out the application form to notify the Bureau of Labor Insurance. The employer or commissioned unit shall also withhold the contributions from employee wages to pay to the Bureau of Labor Insurance along with the amount for which the employer is responsible.
-When terminating payment of pension contributions, the personnel described in the preceding Paragraph shall notify the employer or commissioned unit to have the Pension Contribution Payment Termination Application Form filled out and submitted to the Bureau of Labor Insurance to process the termination.
-When those who have chosen to pay their pension contributions in the manner described in Paragraph 3 or 4 of Article 14 of the Act fail to pay their contributions before the deadline due to causes attributable to themselves, such failure shall be regarded as indicating termination of the contribution payments.]]></條文內容>
+    <條文內容><![CDATA[When the personnel specified in Paragraph 1 and Subparagraphs 3 and 4 of Paragraph 2 of Article 7 of the Act choose to make voluntary pension contributions in accordance with Paragraph 3 of Article 14 of the Act, they shall notify the employer or commissioned unit. The employer or commissioned unit shall complete the contribution declaration form and submit it to the Bureau of Labor Insurance, and may withhold the contributions from the worker’s wages and remit them, together with the portion to be borne by the employer, to the Bureau of Labor Insurance. The employer or commissioned unit shall not refuse to do so.
+When the personnel described in the preceding paragraph terminate voluntary pension contributions, they shall notify the employer or commissioned unit. The employer or commissioned unit shall complete the termination declaration form and submit it to the Bureau of Labor Insurance to process the termination of voluntary pension contributions.
+Where the employer or commissioned unit refuses to handle the matters in accordance with the preceding two paragraphs, the personnel referred to in Paragraph 1 may directly apply to the Bureau of Labor Insurance to commence or terminate voluntary pension contributions. The amount of voluntary contributions shall be collected by the employer or commissioned unit and handled in accordance with Paragraphs 1 to 3 of Article 19, and Paragraphs 1 and 3 of Article 22 of the Act.
+Where a person who makes voluntary pension contributions in accordance with Paragraph 3 or 4 of Article 14 of the Act fails to pay the contributions by the prescribed deadline due to causes attributable to the person, such failureshall be deemed as termination of the voluntary contributions.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 21-1</條號>
-    <條文內容><![CDATA[Self-employed workers applying to pay pension contributions according to the Act shall fill out the Self-employed Workers' Voluntary Pension Contribution Payment Application Form and the Pension Contribution Transfer Authorization Agreement and submit them to the Bureau of Labor Insurance along with a photocopy of their National ID or Alien Resident Certificate. 
-When changes or errors occur to the name, date of birth, National ID number or Alien Resident Certificate number, registered domicile, or contact address of a self-employed worker, such self-employed worker shall submit a photocopy of his or her National ID or Alien Resident Certificate to the Bureau of Labor Insurance to have the correction processed.]]></條文內容>
+    <條文內容><![CDATA[When self-employed persons apply to make voluntary pension contributions in accordance with the Act, they shall submit a photocopy of their national identification card or Alien Resident Certificate, and complete an agreed authorization for automatic transfer of labor pension contributions through a financial institution. Where deemed necessary, the Bureau of Labor Insurance may verify supporting documents related to the self-employed person’s occupational status.
+Where there are changes or errors in the name, date of birth, National Identification Number or Alien Resident Certificate number, registered domicile, or contact address of a self-employed person, the person shall submit a photocopy of the National Identification Card or Alien Resident Certificate to the Bureau of Labor Insurance to process the change.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 22</條號>
@@ -214,6 +217,11 @@ The Bureau of Labor Funds, Ministry of Labor (hereinafter "the BLF") shall annou
 For those who are receiving their pension payment in one lump-sum payment of retirement, the payment shall be the sum of the principal of their pension fund for the month in which the fund is disbursed. As for subsequent pension contributions, the Bureau shall disburse to the employee without further notification.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 33-1</條號>
+    <條文內容><![CDATA[Where a worker has elected to receive a monthly pension, the worker may, within thirty days from the date on which the first monthly pension payment is deposited into their account, apply to change to a lump-sum pension payment; such change shall be limited to one time only.
+Where an application for such change under the preceding paragraph is approved by the Bureau of Labor Insurance, the Bureau shall, based on the principal and accrued dividends already contributed to the individual pension account at the time the monthly pension was originally approved, issue the difference in a lump sum after deducting the amount already disbursed.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 34</條號>
     <條文內容><![CDATA[The sum of the dividends accrued by the time a worker, his/her survivors(s), or designated person(s) applies for pension payment, in addition to the dividends that have already been allocated into the pension account, and dividends from any remaining unallocated periods, will be allocated according to the nearest monthly rate of return announced by the BLF to calculate dividends up to the month when the application is submitted.
 The rate of return mentioned in the preceding paragraph shall be calculated to the fourth digit after the decimal point.]]></條文內容>
@@ -229,9 +237,9 @@ Workers participating in the annuities insurance of the Act are required to tran
   </條文>
   <條文>
     <條號>Article 37</條號>
-    <條文內容><![CDATA[Workers applying for the worker retirement pension according to Paragraph 1 of Article 28 of the Act shall fill out the Worker Retirement Pension Application Form. 
-Workers applying for the worker pension according to Paragraph 1 to Article 24-2 shall fill out the Worker Pension Application Form; those applying according to Subparagraph 3 of Paragraph 1 of the same article shall also submit photocopies of the front and back of the Severe Disability Certificate.
-Applicants for the worker pension as stated in the two preceding paragraphs shall also submit identification documents if they do not have household registration in the country.]]></條文內容>
+    <條文內容><![CDATA[Workers claiming for labor pension in accordance with Paragraph 1 of Article 28 of the Act shall fill out the Labor Pension Application Form.
+Workers claiming for labor pension in accordance with Paragraph 1 of Article 24-2 of the Act shall fill out the Application Form for Early Claim of Labor Pension; those claiming pursuant to Subparagraph 3 of Paragraph 1 of the same Article shall additionally submit photocopies of the front and back of the severe or higher-level disability certificate.
+Applicants referred to in the preceding two paragraphs who do not have household registration in the Republic of China shall additionally submit relevant identification documents.]]></條文內容>
   </條文>
   <條文>
     <條號>Article 37-1</條號>
@@ -267,6 +275,14 @@ For those who are entitled to receive their first monthly pension payment follow
     <條文內容><![CDATA[Pension payments that are to be distributed as stipulated in Paragraph 2 to Article 28 of the Act shall be transferred into individual bank accounts set-up in the name of employees or their survivors or designated persons. In the event that the personal bank accounts are based overseas, any additional handling fees are borne by the beneficiaries.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 41-1</條號>
+    <條文內容><![CDATA[Where a survivor or designated person of a worker is a minor on the date on which the right to claim pension benefits arises, the ten-year period prescribed in Paragraph 4 of Article 28 of the Act shall be calculated from the date on which the person reaches the age of majority.]]></條文內容>
+  </條文>
+  <條文>
+    <條號>Article 41-2</條號>
+    <條文內容><![CDATA[The right to claim pension as prescribed in Paragraph 1 of Article 29 of the Act includes the right of the worker, the worker’s survivors, or designated person to claim labor pension.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 42</條號>
     <條文內容><![CDATA[Employees deemed to be ineligible to receive pension payments by the Bureau have thirty days upon receipt of notice to return the entirety of the pension payments they have received. If the pension payments are not returned on time, an additional late fee penalty must be charged.]]></條文內容>
   </條文>
@@ -299,6 +315,10 @@ For those who are entitled to receive their first monthly pension payment follow
     <條文內容><![CDATA[Employers who violate the stipulations of Paragraph 1 to Article 19 of the Act, upon the first day following the expiration of the time limit stipulated in Paragraph 3 to the same Article, shall pay the late fee as pursuant to Paragraph 1 to Article 53 of the Act.]]></條文內容>
   </條文>
   <條文>
+    <條號>Article 47-1</條號>
+    <條文內容><![CDATA[Where there is a change in the employer’s representative or responsible person as referred to in Article 54-1 of the Act, and the original representative or responsible person has failed to pay the labor pension contributions or late payment charges in accordance with the regulations, the new representative or responsible person shall be jointly and separately liable for such payment.]]></條文內容>
+  </條文>
+  <條文>
     <條號>Article 48</條號>
     <條文內容><![CDATA[（Deleted）]]></條文內容>
   </條文>
@@ -313,8 +333,8 @@ The aforementioned legal aid businesses may be entrusted by the Central Competen
   </條文>
   <條文>
     <條號>Article 50</條號>
-    <條文內容><![CDATA[These Enforcement Rules shall take effect on Jul. 1, 2005.
-The amended provisions shall take effect on the day they are promulgated except for the amendment to Article 38 which is to take effect on January 1, 2015 after its promulgation on June 24, 2014.]]></條文內容>
+    <條文內容><![CDATA[These Enforcement Rules shall take effect on July 1, 2005.
+Except for Article 38 as amended and promulgated on June 24, 2014, which took effect on January 1, 2015, and Article 21 as amended and promulgated on March 25, 2026, which shall take effect on August 1, 2026, the amended provisions of these Enforcement Rules shall take effect on the date of promulgation.]]></條文內容>
   </條文>
 </法規內容>
 </法規>
